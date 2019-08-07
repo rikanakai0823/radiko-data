@@ -42,5 +42,5 @@ Promise.map(Array.from(Array(47).keys()), i => fse.readJson(`./station/JP${i + 1
 		{ concurrency: 10 }
 	)
 }).then(stations => stations.map((obj) => {
-	return fse.outputJson(`./schedule/${d_y}/${d_m}/${d_d}/${obj.sid}.json`, obj.schedule)
+	return fse.outputJson(`./schedule/${d_y}/${d_m}/${d_d}/${obj.sid}.json`, obj.schedule, {spaces: 2})
 }))
