@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1565286899",
+    "srvtime": "1565373215",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -620,12 +620,39 @@
               }
             },
             {
-              "-id": "9490440626",
+              "-id": "9490981695",
               "-ft": "20190812010500",
-              "-to": "20190812030000",
+              "-to": "20190812025000",
               "-ftl": "2505",
+              "-tol": "2650",
+              "-dur": "6300",
+              "title": "ＥＮＤＩＮＧ　放送休止",
+              "url": "http://abc1008.com",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23abc1008\">#abc1008</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc1008khz\">@abc1008khz</a>」<BR><BR><BR>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#abc1008"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:abc1008khz"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9490981698",
+              "-ft": "20190812025000",
+              "-to": "20190812030000",
+              "-ftl": "2650",
               "-tol": "2700",
-              "-dur": "6900",
+              "-dur": "600",
               "title": "ＥＮＤＩＮＧ　放送休止",
               "url": "http://abc1008.com",
               "failed_record": "0",
