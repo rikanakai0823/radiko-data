@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1565718883",
+    "srvtime": "1565805302",
     "stations": {
       "station": {
         "-id": "TBS",
@@ -10,20 +10,55 @@
           "date": "20190818",
           "prog": [
             {
-              "-id": "9491140071",
+              "-id": "9491466350",
               "-ft": "20190818050000",
-              "-to": "20190818055000",
+              "-to": "20190818050500",
               "-ftl": "0500",
-              "-tol": "0550",
-              "-dur": "3000",
-              "title": "Fine music（2）",
-              "url": "http://www.tbsradio.jp/f-music/",
+              "-tol": "0505",
+              "-dur": "300",
+              "title": "ニュース・天気予報",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "メール：<a href=\"mailto:f-music@tbs.co.jp\">f-music@tbs.co.jp</a><br/>",
-              "pfm": "駒田健吾（TBSアナウンサー）",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/8izr1765a9.jpg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/3cd30990-b9f5-4080-84fa-cc215e99aa94.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9491466351",
+              "-ft": "20190818050500",
+              "-to": "20190818053500",
+              "-ftl": "0505",
+              "-tol": "0535",
+              "-dur": "1800",
+              "title": "埼玉県知事選挙 政見放送",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/3cd30990-b9f5-4080-84fa-cc215e99aa94.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9491466356",
+              "-ft": "20190818053500",
+              "-to": "20190818055000",
+              "-ftl": "0535",
+              "-tol": "0550",
+              "-dur": "900",
+              "title": "エンタメExpress 特別版",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/3cd30990-b9f5-4080-84fa-cc215e99aa94.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -381,13 +416,13 @@
               }
             },
             {
-              "-id": "9491039551",
+              "-id": "9491466432",
               "-ft": "20190818200000",
               "-to": "20190818205500",
               "-ftl": "2000",
               "-tol": "2055",
               "-dur": "3300",
-              "title": "ラジオワールド",
+              "title": "NewsPicks with TBSラジオ～令和のビジネストレンド講座",
               "url": "https://www.tbsradio.jp/world/",
               "failed_record": "0",
               "ts_in_ng": "0",
