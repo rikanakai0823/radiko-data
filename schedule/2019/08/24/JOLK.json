@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1566237250",
+    "srvtime": "1566323649",
     "stations": {
       "station": {
         "-id": "JOLK",
@@ -807,6 +807,25 @@
               "-tol": "1758",
               "-dur": "180",
               "title": "天気予報",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOLK/35526f56-5cab-40a3-b7d5-1748bf49cc09.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9492175011",
+              "-ft": "20190824175800",
+              "-to": "20190824180000",
+              "-ftl": "1758",
+              "-tol": "1800",
+              "-dur": "120",
+              "title": "交通情報",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
