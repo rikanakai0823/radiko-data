@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1567533275",
+    "srvtime": "1567619632",
     "stations": {
       "station": {
         "-id": "KBS",
@@ -10,12 +10,31 @@
           "date": "20190908",
           "prog": [
             {
-              "-id": "9493637561",
+              "-id": "9494014009",
               "-ft": "20190908050000",
-              "-to": "20190908052000",
+              "-to": "20190908051500",
               "-ftl": "0500",
+              "-tol": "0515",
+              "-dur": "900",
+              "title": "アクセスKBS",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/131e307d-6698-4b00-839d-f666f45434bf.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9494014010",
+              "-ft": "20190908051500",
+              "-to": "20190908052000",
+              "-ftl": "0515",
               "-tol": "0520",
-              "-dur": "1200",
+              "-dur": "300",
               "title": "竹内弘一のおはよう歳時記",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -234,13 +253,13 @@
               }
             },
             {
-              "-id": "9493638540",
+              "-id": "9494014021",
               "-ft": "20190908090000",
               "-to": "20190908110000",
               "-ftl": "0900",
               "-tol": "1100",
               "-dur": "7200",
-              "title": "日曜ワイド われら夢の途中",
+              "title": "われら夢の途中～秋のOne Day Special～",
               "url": "https://www.kbs-kyoto.co.jp/radio/yume/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -257,13 +276,51 @@
               }
             },
             {
-              "-id": "9493535042",
+              "-id": "9494014028",
               "-ft": "20190908110000",
-              "-to": "20190908170000",
+              "-to": "20190908130000",
               "-ftl": "1100",
+              "-tol": "1300",
+              "-dur": "7200",
+              "title": "秋のOne Day Special 秋One！スターティングトーク",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/131e307d-6698-4b00-839d-f666f45434bf.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9494014037",
+              "-ft": "20190908130000",
+              "-to": "20190908140000",
+              "-ftl": "1300",
+              "-tol": "1400",
+              "-dur": "3600",
+              "title": "京都府人権啓発推進室Presents 秋のOne Day人権フォーラム",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/131e307d-6698-4b00-839d-f666f45434bf.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9494014040",
+              "-ft": "20190908140000",
+              "-to": "20190908170000",
+              "-ftl": "1400",
               "-tol": "1700",
-              "-dur": "21600",
-              "title": "秋のOne Day Special ",
+              "-dur": "10800",
+              "title": "秋のOne Day Special 秋One！～Septemバぁー！！っと、ま～ぶる劇場～",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
