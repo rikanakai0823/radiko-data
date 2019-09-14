@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1568396904",
+    "srvtime": "1568483326",
     "stations": {
       "station": {
         "-id": "ALPHA-STATION",
@@ -319,12 +319,12 @@
               }
             },
             {
-              "-id": "9494463266",
+              "-id": "9495322713",
               "-ft": "20190916190000",
-              "-to": "20190916210000",
+              "-to": "20190916200000",
               "-ftl": "1900",
-              "-tol": "2100",
-              "-dur": "7200",
+              "-tol": "2000",
+              "-dur": "3600",
               "title": "LIFT",
               "url": "http://fm-kyoto.jp/blog/lift/",
               "failed_record": "0",
@@ -351,6 +351,35 @@
                   {
                     "-name": "twitter",
                     "-value": "from:fmkyoto_LIFT"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9495322714",
+              "-ft": "20190916200000",
+              "-to": "20190916210000",
+              "-ftl": "2000",
+              "-tol": "2100",
+              "-dur": "3600",
+              "title": "α-STATION Holiday Special Program～the pillows～『Thank you, my highlight!』",
+              "url": "http://fm-kyoto.jp/information/info-79679/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "結成30周年の節目を迎える「the pillows」のVo, G「山中さわお」がナビゲートするスペシャルプログラムをオンエア！",
+              "info": "<br /> <p>◇twitterアカウントは「<a href=\"http://twitter.com/fmkyoto\">@fmkyoto</a>」</p> <p>●twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23FM%E4%BA%AC%E9%83%BD\">#FM京都</a>」</p> <br /> <p>◇facebookページは<a href=\"http://www.facebook.com/pages/%CE%B1-STATION-FM-KYOTO/131174726976156\">コチラへ</a></p><br /><br /> ",
+              "pfm": "山中さわお（the pillows）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ALPHA-STATION/fd4eaade-809a-4767-a66a-8883f785114d.jpeg",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#FM京都"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:fmkyoto"
                   }
                 ]
               }
