@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1571075312",
+    "srvtime": "1571161771",
     "stations": {
       "station": {
         "-id": "FMT",
@@ -343,12 +343,12 @@
               }
             },
             {
-              "-id": "9499528862",
+              "-id": "9500604236",
               "-ft": "20191017200000",
-              "-to": "20191017213000",
+              "-to": "20191017205500",
               "-ftl": "2000",
-              "-tol": "2130",
-              "-dur": "5400",
+              "-tol": "2055",
+              "-dur": "3300",
               "title": "ホメラニアン",
               "url": "https://www.tfm.co.jp/homeranian/",
               "failed_record": "0",
@@ -368,6 +368,48 @@
                     "-value": "from:homeranian_tfm"
                   }
                 ]
+              }
+            },
+            {
+              "-id": "9500604239",
+              "-ft": "20191017205500",
+              "-to": "20191017210000",
+              "-ftl": "2055",
+              "-tol": "2100",
+              "-dur": "300",
+              "title": "TOKYO FM NEWS",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/g2ninmom7i.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9500604243",
+              "-ft": "20191017210000",
+              "-to": "20191017213000",
+              "-ftl": "2100",
+              "-tol": "2130",
+              "-dur": "1800",
+              "title": "yes!～明日への便り～ presented by ホクトプレミアム 霜降りひらたけ",
+              "url": "http://www.tfm.co.jp/yes/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/4150_b94093c6_sq.jpg\" height=\"60\" width=\"60\" alt=\"長塚圭史\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"http://www.tfm.co.jp/yes/\">http://www.tfm.co.jp/yes/</a><br />\tメッセージフォーム：<a href=\"http://www.tfm.co.jp/yes/\">http://www.tfm.co.jp/yes/</a><br /><br /></div>",
+              "pfm": "長塚圭史",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/asfrvwgk77.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
               }
             },
             {
