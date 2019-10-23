@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1571766509",
+    "srvtime": "1571852956",
     "stations": {
       "station": {
         "-id": "JOIK",
@@ -204,17 +204,36 @@
               }
             },
             {
-              "-id": "9501351650",
+              "-id": "9501587679",
               "-ft": "20191027075500",
               "-to": "20191027080000",
               "-ftl": "0755",
               "-tol": "0800",
               "-dur": "300",
               "title": "ニュース・天気予報",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9501619254",
+              "-ft": "20191027080000",
+              "-to": "20191027080500",
+              "-ftl": "0800",
+              "-tol": "0805",
+              "-dur": "300",
+              "title": "ニュース",
               "url": "http://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
+              "info": "“どこでも聴ける”最新ラジオニュース",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/pmkqzu1r6l.jpg",
               "metas": {
                 "meta": {
@@ -224,36 +243,19 @@
               }
             },
             {
-              "-id": "9501071718",
-              "-ft": "20191027080000",
-              "-to": "20191027080500",
-              "-ftl": "0800",
-              "-tol": "0805",
-              "-dur": "300",
-              "title": "ニュース",
-              "failed_record": "0",
-              "ts_in_ng": "2",
-              "ts_out_ng": "2",
-              "desc": "全国のニュースをお伝えします。",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9501351663",
+              "-id": "9501587689",
               "-ft": "20191027080500",
               "-to": "20191027085500",
               "-ftl": "0805",
               "-tol": "0855",
               "-dur": "3000",
-              "title": "音楽の泉",
+              "title": "音楽の泉　▽モーツァルトの管楽器のための室内楽",
               "url": "https://www4.nhk.or.jp/P685/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
+              "info": "皆川達夫<br><br>「オーボエ四重奏曲ヘ長調Ｋ．３７０」<br>モーツァルト:作曲<br>（オーボエ）ギャレス・ハルス、（バイオリン、ビオラ、チェロ）ナッシュ・アンサンブル<br>（１４分４９秒）<br>&lt;Ｖｉｒｇｉｎ ＶＪＣＣ－２３０５７&gt;<br><br>「ホルン五重奏曲変ホ長調Ｋ．４０７」<br>モーツァルト:作曲<br>（ホルン）フランク・ロイド、（バイオリン、ビオラ２、チェロ）ナッシュ・アンサンブル<br>（１５分４７秒）<br>&lt;Ｖｉｒｇｉｎ ＶＪＣＣ－２３０５７&gt;<br><br>「アダージョとロンド ハ短調Ｋ．６１７」<br>モーツァルト:作曲<br>（ピアノ）イアン・ブラウン、（フルート、オーボエ、ビオラ、チェロ）ナッシュ・アンサンブル<br>（１１分２９秒）<br>&lt;Ｖｉｒｇｉｎ ＶＪＣＣ－２３０５７&gt;<br>",
+              "pfm": "皆川達夫",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/qap4nardt7.jpg",
               "metas": {
                 "meta": {
@@ -343,18 +345,16 @@
               }
             },
             {
-              "-id": "9501351724",
+              "-id": "9501587700",
               "-ft": "20191027105500",
               "-to": "20191027110000",
               "-ftl": "1055",
               "-tol": "1100",
               "-dur": "300",
               "title": "ニュース・天気予報",
-              "url": "http://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/pmkqzu1r6l.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -363,17 +363,18 @@
               }
             },
             {
-              "-id": "9501071910",
+              "-id": "9501619257",
               "-ft": "20191027110000",
               "-to": "20191027110500",
               "-ftl": "1100",
               "-tol": "1105",
               "-dur": "300",
               "title": "ニュース",
+              "url": "http://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "desc": "全国のニュースをお伝えします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/pmkqzu1r6l.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -600,18 +601,16 @@
               }
             },
             {
-              "-id": "9501351887",
+              "-id": "9501587719",
               "-ft": "20191027145500",
               "-to": "20191027150000",
               "-ftl": "1455",
               "-tol": "1500",
               "-dur": "300",
               "title": "ニュース・天気予報",
-              "url": "http://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/pmkqzu1r6l.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -620,17 +619,18 @@
               }
             },
             {
-              "-id": "9501072137",
+              "-id": "9501619264",
               "-ft": "20191027150000",
               "-to": "20191027150500",
               "-ftl": "1500",
               "-tol": "1505",
               "-dur": "300",
               "title": "ニュース",
+              "url": "http://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "desc": "全国のニュースをお伝えします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/pmkqzu1r6l.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -702,17 +702,19 @@
               }
             },
             {
-              "-id": "9501351927",
+              "-id": "9501619270",
               "-ft": "20191027160500",
               "-to": "20191027165500",
               "-ftl": "1605",
               "-tol": "1655",
               "-dur": "3000",
-              "title": "ＤＪ日本史",
+              "title": "ＤＪ日本史「思わずホロリ　親子の絆の物語」",
               "url": "https://www4.nhk.or.jp/dj-nihonshi/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
+              "info": "子どもの幸せを祈る親、そして、苦労をして育ててくれた親に感謝する子ども。今回の「ＤＪ日本史」は、親子の強い絆から生まれたホロリとする物語を見ていきます。<br><br>子どもの幸せを祈る親、そして、苦労をして育ててくれた親に感謝する子ども。歴史好きが歴史を熱く語る「ＤＪ日本史」、今回は、親子の強い絆から生まれたホロリとする物語を日本史の中に見ていきます。",
+              "pfm": "【出演】松村邦洋，堀口茉純，【ＤＪ】川久保秀一",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/szfq0q5376.jpg",
               "metas": {
                 "meta": {
@@ -722,18 +724,16 @@
               }
             },
             {
-              "-id": "9501351936",
+              "-id": "9501587727",
               "-ft": "20191027165500",
               "-to": "20191027170000",
               "-ftl": "1655",
               "-tol": "1700",
               "-dur": "300",
               "title": "ニュース・天気予報",
-              "url": "http://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/pmkqzu1r6l.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -742,17 +742,18 @@
               }
             },
             {
-              "-id": "9501072260",
+              "-id": "9501619275",
               "-ft": "20191027170000",
               "-to": "20191027170500",
               "-ftl": "1700",
               "-tol": "1705",
               "-dur": "300",
               "title": "ニュース",
+              "url": "http://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "desc": "全国のニュースをお伝えします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/pmkqzu1r6l.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -961,18 +962,16 @@
               }
             },
             {
-              "-id": "9501352050",
+              "-id": "9501587744",
               "-ft": "20191027215500",
               "-to": "20191027220000",
               "-ftl": "2155",
               "-tol": "2200",
               "-dur": "300",
               "title": "ニュース・天気予報",
-              "url": "http://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/pmkqzu1r6l.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -981,17 +980,18 @@
               }
             },
             {
-              "-id": "9501072596",
+              "-id": "9501619283",
               "-ft": "20191027220000",
-              "-to": "20191027221000",
+              "-to": "20191027220500",
               "-ftl": "2200",
-              "-tol": "2210",
-              "-dur": "600",
+              "-tol": "2205",
+              "-dur": "300",
               "title": "ニュース",
+              "url": "http://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "desc": "全国のニュースをお伝えします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/pmkqzu1r6l.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1020,18 +1020,16 @@
               }
             },
             {
-              "-id": "9501352078",
+              "-id": "9501587758",
               "-ft": "20191027225500",
               "-to": "20191027230000",
               "-ftl": "2255",
               "-tol": "2300",
               "-dur": "300",
               "title": "ニュース・天気予報",
-              "url": "http://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/pmkqzu1r6l.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1040,17 +1038,18 @@
               }
             },
             {
-              "-id": "9501072649",
+              "-id": "9501619288",
               "-ft": "20191027230000",
-              "-to": "20191027231000",
+              "-to": "20191027230500",
               "-ftl": "2300",
-              "-tol": "2310",
-              "-dur": "600",
+              "-tol": "2305",
+              "-dur": "300",
               "title": "ニュース",
+              "url": "http://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "desc": "全国のニュースをお伝えします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/pmkqzu1r6l.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
