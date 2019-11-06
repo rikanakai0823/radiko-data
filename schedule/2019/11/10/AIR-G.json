@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1572976133",
+    "srvtime": "1573062567",
     "stations": {
       "station": {
         "-id": "AIR-G",
@@ -54,23 +54,31 @@
               }
             },
             {
-              "-id": "9503207980",
+              "-id": "9503867505",
               "-ft": "20191110055500",
               "-to": "20191110060000",
               "-ftl": "0555",
               "-tol": "0600",
               "-dur": "300",
-              "title": "BRAND-NEW SONG MORNING",
+              "title": "番組審議会だより",
+              "url": "http://www.air-g.co.jp/shingikai/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.air-g.co.jp/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/FU/program/23654_a5f85ff7_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/AIR-G/o03mgkuja5.jpg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/FU/person/67_a728f2ea_sq.jpg\" height=\"60\" width=\"60\" alt=\"高山　秀毅\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"http://www.air-g.co.jp/shingikai/\">http://www.air-g.co.jp/shingikai/</a><br />\tFAX：011-231-3366<br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23air_g\">#air_g</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/AIRG_FM\">@AIRG_FM</a>」<br /><br /></div>",
+              "pfm": "高山　秀毅",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/AIR-G/66f26c8d-eb53-446f-99f8-5a11e58d180d.jpeg",
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#air_g"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:AIRG_FM"
+                  }
+                ]
               }
             },
             {
