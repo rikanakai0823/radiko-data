@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1573062559",
+    "srvtime": "1573148923",
     "stations": {
       "station": {
         "-id": "FMN",
@@ -205,7 +205,7 @@
               }
             },
             {
-              "-id": "9503870846",
+              "-id": "9503890887",
               "-ft": "20191109092500",
               "-to": "20191109093000",
               "-ftl": "0925",
@@ -270,7 +270,7 @@
               }
             },
             {
-              "-id": "9503102212",
+              "-id": "9504060708",
               "-ft": "20191109100000",
               "-to": "20191109105000",
               "-ftl": "1000",
@@ -281,14 +281,20 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/3804_f215914b_sq.jpg\" height=\"60\" width=\"60\" alt=\"藤木直人\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/3829_a98b13f6_sq.jpg\" height=\"60\" width=\"60\" alt=\"伊藤友里\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"http://www.tfm.co.jp/beat/\">http://www.tfm.co.jp/beat/</a><br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/3804_f215914b_sq.jpg\" height=\"60\" width=\"60\" alt=\"藤木直人\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/3829_a98b13f6_sq.jpg\" height=\"60\" width=\"60\" alt=\"伊藤友里\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"http://www.tfm.co.jp/beat/\">http://www.tfm.co.jp/beat/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23AthleteBeat\">#AthleteBeat</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/AthleteBeat_tfm\">@AthleteBeat_tfm</a>」<br /><br /></div>",
               "pfm": "藤木直人 / 伊藤友里",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMN/vmwio5gd6p.png",
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#AthleteBeat"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:AthleteBeat_tfm"
+                  }
+                ]
               }
             },
             {
@@ -617,7 +623,7 @@
               }
             },
             {
-              "-id": "9503870848",
+              "-id": "9503890938",
               "-ft": "20191109165500",
               "-to": "20191109170000",
               "-ftl": "1655",
@@ -773,7 +779,7 @@
               }
             },
             {
-              "-id": "9503670730",
+              "-id": "9503922657",
               "-ft": "20191109193000",
               "-to": "20191109195500",
               "-ftl": "1930",
@@ -1092,7 +1098,7 @@
               }
             },
             {
-              "-id": "9503670754",
+              "-id": "9503922676",
               "-ft": "20191110013000",
               "-to": "20191110020000",
               "-ftl": "2530",
@@ -1114,7 +1120,7 @@
               }
             },
             {
-              "-id": "9503870858",
+              "-id": "9503891003",
               "-ft": "20191110020000",
               "-to": "20191110023000",
               "-ftl": "2600",
@@ -1179,7 +1185,7 @@
               }
             },
             {
-              "-id": "9503670761",
+              "-id": "9503920894",
               "-ft": "20191110033000",
               "-to": "20191110040000",
               "-ftl": "2730",

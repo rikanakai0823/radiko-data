@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1573062556",
+    "srvtime": "1573148920",
     "stations": {
       "station": {
         "-id": "FMT",
@@ -336,7 +336,7 @@
               }
             },
             {
-              "-id": "9503102202",
+              "-id": "9503993021",
               "-ft": "20191109100000",
               "-to": "20191109105000",
               "-ftl": "1000",
@@ -347,14 +347,20 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/3804_f215914b_sq.jpg\" height=\"60\" width=\"60\" alt=\"藤木直人\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/3829_a98b13f6_sq.jpg\" height=\"60\" width=\"60\" alt=\"伊藤友里\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"http://www.tfm.co.jp/beat/\">http://www.tfm.co.jp/beat/</a><br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/3804_f215914b_sq.jpg\" height=\"60\" width=\"60\" alt=\"藤木直人\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/3829_a98b13f6_sq.jpg\" height=\"60\" width=\"60\" alt=\"伊藤友里\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"http://www.tfm.co.jp/beat/\">http://www.tfm.co.jp/beat/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23AthleteBeat\">#AthleteBeat</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/AthleteBeat_tfm\">@AthleteBeat_tfm</a>」<br /><br /></div>",
               "pfm": "藤木直人 / 伊藤友里",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/6z8twmver2.png",
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#AthleteBeat"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:AthleteBeat_tfm"
+                  }
+                ]
               }
             },
             {
@@ -527,7 +533,7 @@
               }
             },
             {
-              "-id": "9503670716",
+              "-id": "9503922640",
               "-ft": "20191109123000",
               "-to": "20191109125500",
               "-ftl": "1230",
