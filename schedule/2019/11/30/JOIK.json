@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1574617754",
+    "srvtime": "1574704185",
     "stations": {
       "station": {
         "-id": "JOIK",
@@ -10,7 +10,7 @@
           "date": "20191130",
           "prog": [
             {
-              "-id": "9506167648",
+              "-id": "9506405037",
               "-ft": "20191130050000",
               "-to": "20191130055500",
               "-ftl": "0500",
@@ -281,17 +281,19 @@
               }
             },
             {
-              "-id": "9506251232",
+              "-id": "9506444556",
               "-ft": "20191130080500",
               "-to": "20191130085500",
               "-ftl": "0805",
               "-tol": "0855",
               "-dur": "3000",
-              "title": "石丸謙二郎の山カフェ",
+              "title": "石丸謙二郎の山カフェ「高尾山と六甲山」",
               "url": "https://www4.nhk.or.jp/yamacafe/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
+              "info": "石丸謙二郎，井田寛子",
+              "pfm": "石丸謙二郎，井田寛子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/eu4e4ep8wo.jpg",
               "metas": {
                 "meta": {
@@ -341,17 +343,19 @@
               }
             },
             {
-              "-id": "9506251348",
+              "-id": "9506444577",
               "-ft": "20191130090500",
               "-to": "20191130095500",
               "-ftl": "0905",
               "-tol": "0955",
               "-dur": "3000",
-              "title": "石丸謙二郎の山カフェ",
+              "title": "石丸謙二郎の山カフェ「高尾山と六甲山」",
               "url": "https://www4.nhk.or.jp/yamacafe/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
+              "info": "石丸謙二郎，井田寛子",
+              "pfm": "石丸謙二郎，井田寛子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/eu4e4ep8wo.jpg",
               "metas": {
                 "meta": {
@@ -417,7 +421,7 @@
               }
             },
             {
-              "-id": "9506246772",
+              "-id": "9506519103",
               "-ft": "20191130100500",
               "-to": "20191130105500",
               "-ftl": "1005",
@@ -439,18 +443,16 @@
               }
             },
             {
-              "-id": "9506251439",
+              "-id": "9506519766",
               "-ft": "20191130105500",
               "-to": "20191130110000",
               "-ftl": "1055",
               "-tol": "1100",
               "-dur": "300",
               "title": "ニュース・天気予報",
-              "url": "http://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/pmkqzu1r6l.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -459,7 +461,7 @@
               }
             },
             {
-              "-id": "9506167351",
+              "-id": "9506513982",
               "-ft": "20191130110000",
               "-to": "20191130110500",
               "-ftl": "1100",
@@ -470,6 +472,7 @@
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/pmkqzu1r6l.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -742,13 +745,31 @@
               }
             },
             {
-              "-id": "9506251702",
+              "-id": "9506519772",
               "-ft": "20191130145500",
               "-to": "20191130150000",
               "-ftl": "1455",
               "-tol": "1500",
               "-dur": "300",
               "title": "ニュース・天気予報",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9506513992",
+              "-ft": "20191130150000",
+              "-to": "20191130150500",
+              "-ftl": "1500",
+              "-tol": "1505",
+              "-dur": "300",
+              "title": "ニュース",
               "url": "http://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "2",
@@ -762,36 +783,19 @@
               }
             },
             {
-              "-id": "9506167372",
-              "-ft": "20191130150000",
-              "-to": "20191130150500",
-              "-ftl": "1500",
-              "-tol": "1505",
-              "-dur": "300",
-              "title": "ニュース",
-              "url": "http://www.nhk.or.jp/radionews/",
-              "failed_record": "0",
-              "ts_in_ng": "2",
-              "ts_out_ng": "2",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9506167698",
+              "-id": "9506519777",
               "-ft": "20191130150500",
               "-to": "20191130155500",
               "-ftl": "1505",
               "-tol": "1555",
               "-dur": "3000",
-              "title": "発掘！ラジオアーカイブス",
+              "title": "発掘！ラジオアーカイブス　ラジオ小劇場「ツキアイきれない」",
               "url": "https://www4.nhk.or.jp/hakkutsur/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
+              "info": "かつてＮＨＫで放送していたラジオ番組を紹介するとともに、皆さんのお手元にある過去のラジオ番組を「発掘」していくことを目指す番組『発掘！ラジオアーカイブス』♪<br><br>往年の人気番組、懐かし番組、お宝番組をフィーチャー。 ▽今回ご紹介するのは『ラジオ小劇場』より「ツキアイきれない」。１９６４年（昭和３９年）に放送されたラジオドラマです。 ▽作・井上ひさし。 ▽このドラマは、なんと！あの長編小説『吉里吉里人』の元となった作品です。放送されたのは、小説の連載が始まる１４年前。名作の起源ここにあり！ ▽情報は「らじるアカウントの「＃発掘ラジオ」で",
+              "pfm": "【ゲスト】漫画家…しりあがり寿，【アナウンサー】永井伸一",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/o3hqanenze.jpg",
               "metas": {
                 "meta": {
@@ -842,7 +846,7 @@
               }
             },
             {
-              "-id": "9506167703",
+              "-id": "9506405087",
               "-ft": "20191130160500",
               "-to": "20191130165500",
               "-ftl": "1605",
@@ -862,18 +866,16 @@
               }
             },
             {
-              "-id": "9506251824",
+              "-id": "9506519781",
               "-ft": "20191130165500",
               "-to": "20191130170000",
               "-ftl": "1655",
               "-tol": "1700",
               "-dur": "300",
               "title": "ニュース・天気予報",
-              "url": "http://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/pmkqzu1r6l.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -882,7 +884,7 @@
               }
             },
             {
-              "-id": "9506167382",
+              "-id": "9506514003",
               "-ft": "20191130170000",
               "-to": "20191130170500",
               "-ftl": "1700",
@@ -893,6 +895,7 @@
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/pmkqzu1r6l.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1059,7 +1062,7 @@
               }
             },
             {
-              "-id": "9506246882",
+              "-id": "9506519808",
               "-ft": "20191130192000",
               "-to": "20191130194500",
               "-ftl": "1920",
@@ -1223,17 +1226,19 @@
               }
             },
             {
-              "-id": "9506167731",
+              "-id": "9506502392",
               "-ft": "20191130210500",
               "-to": "20191130215500",
               "-ftl": "2105",
               "-tol": "2155",
               "-dur": "3000",
-              "title": "らじらー！　サタデー",
+              "title": "らじらー！　サタデー　浜中文一、西畑大吾（なにわ男子）",
               "url": "http://www.nhk.or.jp/radirer/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
+              "info": "ラジオを聴きながらメールやｔｗｉｔｔｅｒ、電話などで番組に参加！ジェットコースターみたいに、怖いけど楽しくて、また乗りたくなる…そんな番組を一緒に作りましょう！<br><br>▽『広島ライブのＭＣでこっそり言ってほしい一言』１２月１日はなにわ男子が広島でライブ！そこで、みんなに大吾くんがＭＣで言ってほしいことを投稿してもらいました。▽『５Ｓｈａｄｅｓ大吾』みんなからキャラとセリフを募集。大吾くんの新しい５つの側面を見せちゃいます。▽『なにわのＬｕｃｋｙ Ｂｏｙ！』トランプを引き、赤いカードが出たら、大吾くん、黒いカードが出たら、文一くんがムチャブリに挑戦します。",
+              "pfm": "浜中文一，西畑大吾",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/9jkw3e6a3p.jpg",
               "metas": {
                 "meta": {
@@ -1243,18 +1248,16 @@
               }
             },
             {
-              "-id": "9506252254",
+              "-id": "9506519840",
               "-ft": "20191130215500",
               "-to": "20191130220000",
               "-ftl": "2155",
               "-tol": "2200",
               "-dur": "300",
               "title": "ニュース・天気予報",
-              "url": "http://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/pmkqzu1r6l.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1263,7 +1266,7 @@
               }
             },
             {
-              "-id": "9506167412",
+              "-id": "9506514020",
               "-ft": "20191130220000",
               "-to": "20191130220500",
               "-ftl": "2200",
@@ -1274,6 +1277,7 @@
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/pmkqzu1r6l.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1302,18 +1306,16 @@
               }
             },
             {
-              "-id": "9506252314",
+              "-id": "9506519853",
               "-ft": "20191130225500",
               "-to": "20191130230000",
               "-ftl": "2255",
               "-tol": "2300",
               "-dur": "300",
               "title": "ニュース・天気予報",
-              "url": "http://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/pmkqzu1r6l.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1322,7 +1324,7 @@
               }
             },
             {
-              "-id": "9506167417",
+              "-id": "9506514026",
               "-ft": "20191130230000",
               "-to": "20191130230500",
               "-ftl": "2300",
@@ -1333,6 +1335,7 @@
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOIK/pmkqzu1r6l.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1556,7 +1559,7 @@
               }
             },
             {
-              "-id": "9506387543",
+              "-id": "9506509148",
               "-ft": "20191201040500",
               "-to": "20191201050000",
               "-ftl": "2805",
