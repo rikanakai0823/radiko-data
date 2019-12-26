@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1577296237",
+    "srvtime": "1577382542",
     "stations": {
       "station": {
         "-id": "JOEU-FM",
@@ -407,23 +407,30 @@
               }
             },
             {
-              "-id": "9510506239",
+              "-id": "9510971315",
               "-ft": "20191231145000",
               "-to": "20191231145500",
               "-ftl": "1450",
               "-tol": "1455",
               "-dur": "300",
-              "title": "快適生活ラジオショッピング",
+              "title": "Groovy Radio Caravan",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EU/person/7135_76793de3_sq.jpg\" height=\"60\" width=\"60\" alt=\"梅田剛志\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EU/person/1656_f28c3712_sq.jpg\" height=\"60\" width=\"60\" alt=\"窪田ゆうこ\"></td>  </tr></table><br /><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23grc797\">#grc797</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/grc797\">@grc797</a>」<br /><br /></div>",
+              "pfm": "梅田剛志 / 窪田ゆうこ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/4dudc099ii.jpg",
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#grc797"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:grc797"
+                  }
+                ]
               }
             },
             {
