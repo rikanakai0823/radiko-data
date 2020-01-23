@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1579715367",
+    "srvtime": "1579801756",
     "stations": {
       "station": {
         "-id": "KBS",
@@ -549,18 +549,37 @@
               }
             },
             {
-              "-id": "9513401107",
+              "-id": "9513874345",
               "-ft": "20200126212000",
-              "-to": "20200126213000",
+              "-to": "20200126212900",
               "-ftl": "2120",
-              "-tol": "2130",
-              "-dur": "600",
+              "-tol": "2129",
+              "-dur": "540",
               "title": "ニュース・スポーツ・天気予報",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/6eiujytdkl.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9513874346",
+              "-ft": "20200126212900",
+              "-to": "20200126213000",
+              "-ftl": "2129",
+              "-tol": "2130",
+              "-dur": "60",
+              "title": "緊急警報信号試験放送",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/131e307d-6698-4b00-839d-f666f45434bf.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
