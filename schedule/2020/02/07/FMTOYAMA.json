@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1580752886",
+    "srvtime": "1580839262",
     "stations": {
       "station": {
         "-id": "FMTOYAMA",
@@ -427,7 +427,7 @@
               }
             },
             {
-              "-id": "9514889718",
+              "-id": "9514959381",
               "-ft": "20200207125500",
               "-to": "20200207130000",
               "-ftl": "1255",
@@ -700,7 +700,7 @@
               }
             },
             {
-              "-id": "9514936704",
+              "-id": "9514963506",
               "-ft": "20200207200000",
               "-to": "20200207205500",
               "-ftl": "2000",
@@ -741,7 +741,7 @@
               }
             },
             {
-              "-id": "9514936705",
+              "-id": "9514939521",
               "-ft": "20200207210000",
               "-to": "20200207215500",
               "-ftl": "2100",
@@ -838,22 +838,30 @@
               }
             },
             {
-              "-id": "9514936708",
+              "-id": "9515030735",
               "-ft": "20200207223000",
               "-to": "20200207224500",
               "-ftl": "2230",
               "-tol": "2245",
               "-dur": "900",
-              "title": "ブルエンLOCKS!",
+              "title": "ブルエンLOCKS! supported by 親子のワイモバ学割",
+              "url": "https://www.tfm.co.jp/lock/blueencount/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/5898_8aa91425_sq.jpg\" height=\"60\" width=\"60\" alt=\"BLUE ENCOUNT\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/lock/blueencount/\">https://www.tfm.co.jp/lock/blueencount/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23sol\">#sol</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/sol_info\">@sol_info</a>」<br /><br /></div>",
+              "pfm": "BLUE ENCOUNT",
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#sol"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:sol_info"
+                  }
+                ]
               }
             },
             {
@@ -904,7 +912,7 @@
               }
             },
             {
-              "-id": "9514936710",
+              "-id": "9515003750",
               "-ft": "20200207230000",
               "-to": "20200207232700",
               "-ftl": "2300",
@@ -931,7 +939,7 @@
               }
             },
             {
-              "-id": "9514936711",
+              "-id": "9514996919",
               "-ft": "20200207232700",
               "-to": "20200207235500",
               "-ftl": "2327",
