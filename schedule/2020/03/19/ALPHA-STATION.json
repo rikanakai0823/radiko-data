@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1584295233",
+    "srvtime": "1584381672",
     "stations": {
       "station": {
         "-id": "ALPHA-STATION",
@@ -76,7 +76,7 @@
               }
             },
             {
-              "-id": "9518306169",
+              "-id": "9518700110",
               "-ft": "20200319070000",
               "-to": "20200319100000",
               "-ftl": "0700",
@@ -319,12 +319,12 @@
               }
             },
             {
-              "-id": "9518311788",
+              "-id": "9518696414",
               "-ft": "20200319190000",
-              "-to": "20200319210000",
+              "-to": "20200319200000",
               "-ftl": "1900",
-              "-tol": "2100",
-              "-dur": "7200",
+              "-tol": "2000",
+              "-dur": "3600",
               "title": "LIFT",
               "url": "http://fm-kyoto.jp/blog/lift/",
               "failed_record": "0",
@@ -351,6 +351,39 @@
                   {
                     "-name": "twitter",
                     "-value": "from:fmkyoto_LIFT"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9518696415",
+              "-ft": "20200319200000",
+              "-to": "20200319210000",
+              "-ftl": "2000",
+              "-tol": "2100",
+              "-dur": "3600",
+              "title": "α-STATION Special Program～東京スカパラダイスオーケストラ～『MY TREASURES』",
+              "url": "http://fm-kyoto.jp/information/info-87869/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "東京スカパラダイスオーケストラ、デビュー30周年記念ベストアルバムのリリースを記念して谷中敦・加藤隆志（東京スカパラダイスオーケストラ）と本アルバムにも参加しているTAKUMA（10-FEET）との貴重なスペシャル対談の特別プログラムをO.A.!!",
+              "info": "<br />◇twitterアカウントは「<a href=\"http://twitter.com/fmkyoto\">@fmkyoto</a>」</p> <p>●twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%CE%B1STATION\">#αSTATION</a>」</p> <p>●twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23FM%E4%BA%AC%E9%83%BD\">#FM京都</a>」</p><br /> ",
+              "pfm": "谷中敦・加藤隆志（東京スカパラダイスオーケストラ）/ TAKUMA (10-FEET)",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ALPHA-STATION/b56a6cfa-3d9e-4afe-a7a1-5418045926cd.jpeg",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#αSTATION"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "#FM京都"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:fmkyoto"
                   }
                 ]
               }
