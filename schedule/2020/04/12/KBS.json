@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1586369042",
+    "srvtime": "1586455353",
     "stations": {
       "station": {
         "-id": "KBS",
@@ -10,12 +10,31 @@
           "date": "20200412",
           "prog": [
             {
-              "-id": "9521732723",
+              "-id": "9521866129",
               "-ft": "20200412050000",
-              "-to": "20200412052000",
+              "-to": "20200412051500",
               "-ftl": "0500",
+              "-tol": "0515",
+              "-dur": "900",
+              "title": "アクセスKBS",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/131e307d-6698-4b00-839d-f666f45434bf.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9521863718",
+              "-ft": "20200412051500",
+              "-to": "20200412052000",
+              "-ftl": "0515",
               "-tol": "0520",
-              "-dur": "1200",
+              "-dur": "300",
               "title": "竹内弘一のおはよう歳時記",
               "failed_record": "0",
               "ts_in_ng": "0",
