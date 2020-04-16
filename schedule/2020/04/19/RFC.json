@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1586973889",
+    "srvtime": "1587060266",
     "stations": {
       "station": {
         "-id": "RFC",
@@ -343,13 +343,32 @@
               }
             },
             {
-              "-id": "9522086389",
+              "-id": "9522456856",
               "-ft": "20200419090500",
-              "-to": "20200419091500",
+              "-to": "20200419091000",
               "-ftl": "0905",
-              "-tol": "0915",
-              "-dur": "600",
+              "-tol": "0910",
+              "-dur": "300",
               "title": "インフォメーション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/18grtooeap.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9522456857",
+              "-ft": "20200419091000",
+              "-to": "20200419091500",
+              "-ftl": "0910",
+              "-tol": "0915",
+              "-dur": "300",
+              "title": "番組審議会から",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
