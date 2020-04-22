@@ -29,6 +29,8 @@ let d_ymd = `${d_y}${d_m}${d_d}`
 
 console.log(d_ymd)
 
+const sidToPath = (sid) => `./schedule/${d_y}/${d_m}/${d_d}/${sid}.json`
+
 Promise.map(Array.from(Array(47).keys()), i => fse.readJson(`./station/JP${i + 1}.json`))
 .then(areas => areas.map(e => e.stations.station.map(s => s.id)))
 .then(areas => areas.reduce((a, b) => new Set([...a, ...b]), []))
@@ -36,11 +38,41 @@ Promise.map(Array.from(Array(47).keys()), i => fse.readJson(`./station/JP${i + 1
 .then(sids => {
 	return Promise.map(
 		sids,
-		sid => rp(`http://radiko.jp/v3/program/station/date/${d_ymd}/${sid}.xml`).then((schedule) => {
-			return { sid: sid, schedule: objtree.parseXML(schedule) }
+		sid => fse.pathExists(sidToPath(sid)).then((exists) => {
+			return { sid, exists }
 		}),
+		{ concurrency: 100 }
+	)
+}).then(sids => {
+	return Promise.map(
+		sids,
+		({sid, exists}) => {
+			if (!exists) return { sid, oldSchedule: false }
+			return fse.readJson(sidToPath(sid)).then((oldSchedule) => ({ sid, oldSchedule }))
+		},
+		{ concurrency: 100 }
+	)
+}).then(sids => {
+	return Promise.map(
+		sids,
+		({sid, oldSchedule}) => rp(`http://radiko.jp/v3/program/station/date/${d_ymd}/${sid}.xml`).then((schedule) => {
+			return { sid, oldSchedule, schedule: objtree.parseXML(schedule) }
+		}).catch(e => console.error(sid, "unavailable")),
 		{ concurrency: 10 }
 	)
-}).then(stations => stations.map((obj) => {
-	return fse.outputJson(`./schedule/${d_y}/${d_m}/${d_d}/${obj.sid}.json`, obj.schedule, {spaces: 2})
+}).then(stations => stations.filter(x => !!x).map(({sid, oldSchedule, schedule}) => {
+	if (oldSchedule) {
+		const os = oldSchedule;
+		const ns = JSON.parse(JSON.stringify(schedule))
+		if (ns && ns.radiko && ns.radiko.srvtime) {
+			delete ns.radiko.srvtime
+		}
+		if (os && os.radiko && os.radiko.srvtime) {
+			delete os.radiko.srvtime
+		}
+		if (JSON.stringify(ns) == JSON.stringify(os)) {
+			return false
+		}
+	}
+	return fse.outputJson(sidToPath(sid), schedule, {spaces: 2})
 }))
