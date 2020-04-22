@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1587492152",
+    "srvtime": "1587578573",
     "stations": {
       "station": {
         "-id": "AIR-G",
@@ -640,24 +640,31 @@
               }
             },
             {
-              "-id": "9522582205",
+              "-id": "9522925830",
               "-ft": "20200425180000",
               "-to": "20200425182500",
               "-ftl": "1800",
               "-tol": "1825",
               "-dur": "1500",
               "title": "就活DO",
+              "url": "https://www.air-g.co.jp/sdo/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/FU/person/8187_7898d7ad_sq.jpg\" height=\"60\" width=\"60\" alt=\"赤坂武道\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/FU/person/8186_5f79e21a_sq.jpg\" height=\"60\" width=\"60\" alt=\"藤山博史\"></td>  </tr></table><br /><br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/FU/person/8187_7898d7ad_sq.jpg\" height=\"60\" width=\"60\" alt=\"赤坂武道\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/FU/person/8186_5f79e21a_sq.jpg\" height=\"60\" width=\"60\" alt=\"藤山博史\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.air-g.co.jp/sdo/\">https://www.air-g.co.jp/sdo/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23air_g\">#air_g</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/AIRG_FM\">@AIRG_FM</a>」<br /><br /></div>",
               "pfm": "赤坂武道 / 藤山博史",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/AIR-G/k5smko95hc.png",
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#air_g"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:AIRG_FM"
+                  }
+                ]
               }
             },
             {
