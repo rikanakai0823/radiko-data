@@ -31,6 +31,27 @@ console.log(d_ymd)
 
 const sidToPath = (sid) => `./schedule/${d_y}/${d_m}/${d_d}/${sid}.json`
 
+const prepareCompare = (schedule) => {
+	const s = JSON.parse(JSON.stringify(schedule))
+	if (s && s.radiko) {
+		if (s.radiko.srvtime) delete s.radiko.srvtime
+		if (
+			s.radiko.stations &&
+			s.radiko.stations.station &&
+			s.radiko.stations.station.progs &&
+			Array.isArray(s.radiko.stations.station.progs.prog)
+		) {
+			const prog = s.radiko.stations.station.progs.prog
+			for (let i = 0; i < prog.length; i++) {
+				if (typeof prog[i]['-id'] !== 'undefined') {
+					delete prog[i]['-id']
+				}
+			}
+		}
+	}
+	return JSON.stringify(s)
+}
+
 Promise.map(Array.from(Array(47).keys()), i => fse.readJson(`./station/JP${i + 1}.json`))
 .then(areas => areas.map(e => e.stations.station.map(s => s.id)))
 .then(areas => areas.reduce((a, b) => new Set([...a, ...b]), []))
@@ -62,15 +83,7 @@ Promise.map(Array.from(Array(47).keys()), i => fse.readJson(`./station/JP${i + 1
 	)
 }).then(stations => stations.filter(x => !!x).map(({sid, oldSchedule, schedule}) => {
 	if (oldSchedule) {
-		const os = oldSchedule;
-		const ns = JSON.parse(JSON.stringify(schedule))
-		if (ns && ns.radiko && ns.radiko.srvtime) {
-			delete ns.radiko.srvtime
-		}
-		if (os && os.radiko && os.radiko.srvtime) {
-			delete os.radiko.srvtime
-		}
-		if (JSON.stringify(ns) == JSON.stringify(os)) {
+		if (prepareCompare(oldSchedule) == prepareCompare(schedule)) {
 			return false
 		}
 	}
