@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1588010620",
+    "srvtime": "1588183449",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -795,12 +795,12 @@
               }
             },
             {
-              "-id": "9523245965",
+              "-id": "9523402827",
               "-ft": "20200504010500",
-              "-to": "20200504030000",
+              "-to": "20200504010700",
               "-ftl": "2505",
-              "-tol": "2700",
-              "-dur": "6900",
+              "-tol": "2507",
+              "-dur": "120",
               "title": "ＥＮＤＩＮＧ　放送休止",
               "url": "http://abc1008.com",
               "failed_record": "0",
@@ -822,12 +822,52 @@
               }
             },
             {
-              "-id": "9523246040",
+              "-id": "9523403060",
+              "-ft": "20200504010700",
+              "-to": "20200504030000",
+              "-ftl": "2507",
+              "-tol": "2700",
+              "-dur": "6780",
+              "title": "試験電波放送１",
+              "url": "http://abc1008.com",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9523403061",
               "-ft": "20200504030000",
-              "-to": "20200504043500",
+              "-to": "20200504043200",
               "-ftl": "2700",
+              "-tol": "2832",
+              "-dur": "5520",
+              "title": "試験電波放送２",
+              "url": "http://abc1008.com",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9523417485",
+              "-ft": "20200504043200",
+              "-to": "20200504043500",
+              "-ftl": "2832",
               "-tol": "2835",
-              "-dur": "5700",
+              "-dur": "180",
               "title": "ＯＰＥＮＩＮＧ　放送開始",
               "url": "http://abc1008.com",
               "failed_record": "0",
