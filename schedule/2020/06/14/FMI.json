@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1591812153",
+    "srvtime": "1591898679",
     "stations": {
       "station": {
         "-id": "FMI",
@@ -199,7 +199,7 @@
               }
             },
             {
-              "-id": "9526487725",
+              "-id": "9526543685",
               "-ft": "20200614090000",
               "-to": "20200614093000",
               "-ftl": "0900",
@@ -778,7 +778,7 @@
               }
             },
             {
-              "-id": "9526487793",
+              "-id": "9526586003",
               "-ft": "20200614190000",
               "-to": "20200614195500",
               "-ftl": "1900",
@@ -791,6 +791,7 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/6793_fee7b417_sq.jpg\" height=\"60\" width=\"60\" alt=\"村上春樹\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/murakamiradio/\">https://www.tfm.co.jp/murakamiradio/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E6%9D%91%E4%B8%8ARADIO\">#村上RADIO</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/Murakamiradiofm\">@Murakamiradiofm</a>」<br /><br /></div>",
               "pfm": "村上春樹",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMI/p37ucgrduj.jpg",
               "metas": {
                 "meta": [
                   {
@@ -1046,12 +1047,32 @@
               }
             },
             {
-              "-id": "9526414832",
+              "-id": "9526586020",
               "-ft": "20200615010000",
-              "-to": "20200615050000",
+              "-to": "20200615023000",
               "-ftl": "2500",
+              "-tol": "2630",
+              "-dur": "5400",
+              "title": "あべまつみのAM",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/QU/person/1877_4934f88a_sq.jpg\" height=\"60\" width=\"60\" alt=\"阿部沙織\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/QU/person/1876_2dd4475e_sq.png\" height=\"60\" width=\"60\" alt=\"まつみたくや\"></td>  </tr></table><br /><br />\tメッセージフォーム：<a href=\"http://www.fmii.co.jp/posh/am_form.html\">http://www.fmii.co.jp/posh/am_form.html</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%82%E3%81%B9%E3%81%BE%E3%81%A4%E3%81%BF\">#あべまつみ</a>」<br /><br /></div>",
+              "pfm": "阿部沙織 / まつみたくや",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#あべまつみ"
+                }
+              }
+            },
+            {
+              "-id": "9526586022",
+              "-ft": "20200615023000",
+              "-to": "20200615050000",
+              "-ftl": "2630",
               "-tol": "2900",
-              "-dur": "14400",
+              "-dur": "9000",
               "title": "放送休止",
               "failed_record": "0",
               "ts_in_ng": "0",
