@@ -1,0 +1,35 @@
+{
+  "radiko": {
+    "ttl": "1800",
+    "srvtime": "1593108218",
+    "stations": {
+      "station": {
+        "-id": "FMPORT",
+        "name": "FM PORT",
+        "progs": {
+          "date": "20200701",
+          "prog": {
+            "-id": "9527379348",
+            "-ft": "20200701050000",
+            "-to": "20200702050000",
+            "-ftl": "0500",
+            "-tol": "2900",
+            "-dur": "86400",
+            "title": "放送終了",
+            "url": "https://www.fmport.com/program/index.html?key=57c1afbfa68da6ce955cdba748b0ee19",
+            "failed_record": "0",
+            "ts_in_ng": "0",
+            "ts_out_ng": "0",
+            "desc": "令和2年6月30日をもって放送を終了させていただきます。FM PORTをお聞きいただき、ありがとうございました。",
+            "metas": {
+              "meta": {
+                "-name": "twitter",
+                "-value": "#radiko"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
