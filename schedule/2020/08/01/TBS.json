@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1596045215",
+    "srvtime": "1596131740",
     "stations": {
       "station": {
         "-id": "TBS",
@@ -10,7 +10,7 @@
           "date": "20200801",
           "prog": [
             {
-              "-id": "9529614261",
+              "-id": "9529790577",
               "-ft": "20200801050000",
               "-to": "20200801050500",
               "-ftl": "0500",
@@ -21,6 +21,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/782f8002-5dbc-4385-b2fc-03f77dd2ec86.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -29,7 +35,7 @@
               }
             },
             {
-              "-id": "9529614263",
+              "-id": "9529790579",
               "-ft": "20200801050500",
               "-to": "20200801053000",
               "-ftl": "0505",
@@ -43,6 +49,12 @@
               "info": "ゲストは、先週に続き六本木で開催中の展覧会『おいしい浮世絵展』の監修・安村敏信。<br/> 浮世絵に描かれた江戸の食べ物や浮世絵の楽しみ方を聞く。<br/> インタビュワーはアートファンの水野真裕美アナウンサー。<br/> 番組後半には、人気マジシャンが出演するコーナー「魔法使いアキットのマジカルラジオ」<br/><br/>",
               "pfm": "赤荻歩(TBSアナウンサー)　　ゲスト：安村敏信",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/a7749ieglu.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P023",
+                  "name": "劇場/公演"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -51,7 +63,7 @@
               }
             },
             {
-              "-id": "9529620036",
+              "-id": "9529790580",
               "-ft": "20200801053000",
               "-to": "20200801060000",
               "-ftl": "0530",
@@ -65,6 +77,21 @@
               "info": "様々な業種や職種、文化・芸術・ スポーツなど、幅広い分野で活躍している方をゲストに迎え、“人生を楽しむ”為のヒントをシェアする番組。<br/> パーソナリティは、俳優の要潤。<br/> テレビ・映画・舞台・CMと多方面で活躍する彼が、リスナーの「Be」…「～になりたい」を応援します。<br/> またこの番組は、映像サイトとも連動し、“聞いて”も“見て”も楽しめます。 <br/><br/> <a href=\"be@tbs.co.jp\">メール</a><br/>",
               "pfm": "要潤",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/njjvi5754o.jpg",
+              "tag": {
+                "item": {
+                  "name": "要潤"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C002",
+                  "name": "俳優"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -73,7 +100,7 @@
               }
             },
             {
-              "-id": "9529620051",
+              "-id": "9529790582",
               "-ft": "20200801060000",
               "-to": "20200801070000",
               "-ftl": "0600",
@@ -87,6 +114,21 @@
               "info": "週末が始まる土曜の朝に、木梨憲武さんがお送りする明るく元気なトークバラエティ番組！<br/> 50代になって自身もすっかり朝型生活になったというノリさんが「いろんな人の話を聞きながら」これから迎える週末を充実させるお手伝いをします。<br/><br/> <a href=\"https://twitter.com/kinashinokai?lang=ja\">twitter</a><br/> <a href=\"mailto:kinashi@tbs.co.jp\">メール</a><br/>",
               "pfm": "木梨憲武",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/cgbvhtkbih.jpg",
+              "tag": {
+                "item": {
+                  "name": "木梨憲武"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -95,7 +137,7 @@
               }
             },
             {
-              "-id": "9529620066",
+              "-id": "9529790585",
               "-ft": "20200801070000",
               "-to": "20200801090000",
               "-ftl": "0700",
@@ -109,6 +151,16 @@
               "info": "twitterアカウントは「<a href=\"http://twitter.com/matomete954905\">@matomete954905</a>」<br/> メール：<a href=\"mailto:matomete@tbs.co.jp\">matomete@tbs.co.jp</a><br/>",
               "pfm": "蓮見孝之（TBSアナウンサー）/北村まあさ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/ubwh7bsm25.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -117,7 +169,7 @@
               }
             },
             {
-              "-id": "9529652049",
+              "-id": "9529790587",
               "-ft": "20200801090000",
               "-to": "20200801110000",
               "-ftl": "0900",
@@ -131,6 +183,21 @@
               "info": "◆9時 常連さんは、えのきどいちろうさん。<br/> ナイツと一緒に１週間のニュースを振り返ります。<br/> ◆11時 ゲストは、小柳ルミ子さん登場！<br/><br/> <a href=\"https://twitter.com/chaki954\">twitter</a><br/> <a href=\"https://www.instagram.com/knights_chakichaki/\">instagram</a><br/> <a href=\"mailto:chaki@tbs.co.jp\">メール</a><br/>",
               "pfm": "ナイツ/出水麻衣（TBSアナウンサー）　　ゲスト：小柳ルミ子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/8a4dy48ol4.jpg",
+              "tag": {
+                "item": {
+                  "name": "ナイツ"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -139,7 +206,7 @@
               }
             },
             {
-              "-id": "9529652066",
+              "-id": "9529790588",
               "-ft": "20200801110000",
               "-to": "20200801130000",
               "-ftl": "1100",
@@ -153,6 +220,21 @@
               "info": "◆9時 常連さんは、えのきどいちろうさん。<br/> ナイツと一緒に１週間のニュースを振り返ります。<br/> ◆11時 ゲストは、小柳ルミ子さん登場！<br/><br/> <a href=\"https://twitter.com/chaki954\">twitter</a><br/> <a href=\"https://www.instagram.com/knights_chakichaki/\">instagram</a><br/> <a href=\"mailto:chaki@tbs.co.jp\">メール</a><br/>",
               "pfm": "ナイツ/出水麻衣（TBSアナウンサー）　　ゲスト：小柳ルミ子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/8a4dy48ol4.jpg",
+              "tag": {
+                "item": {
+                  "name": "ナイツ"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -161,7 +243,7 @@
               }
             },
             {
-              "-id": "9529620185",
+              "-id": "9529790591",
               "-ft": "20200801130000",
               "-to": "20200801145500",
               "-ftl": "1300",
@@ -175,6 +257,21 @@
               "info": "土曜の午後イチは、週末をより有意義に過ごすための最後のアクションチャンス！<br/> 情報があふれる私たちの周りで、検索だけでは本当のことは分からない。自宅で楽しめる本や映画、料理などの過ごし方、地元の名店、ドライブスポット、イベントなど、本当に心を動かすモノコトを、様々なプレゼンターがバービーとリスナーにプレゼンテーション。<br/> 「週末ノオト」は、思わず行動を起こしたくなる情報が詰まった一冊のノート。<br/> そして、週末の午後を彩る「週末ノオト」で、聴いた人の心を刺激する、週末の過ごし方プレゼンバラエティーです。<br/><br/> <a href=\"mailto:weekend@tbs.co.jp\">メール</a><br/>",
               "pfm": "バービー(フォーリンラブ)",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/ep6y4wmp5r.jpg",
+              "tag": {
+                "item": {
+                  "name": "バービー"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -183,7 +280,7 @@
               }
             },
             {
-              "-id": "9529614279",
+              "-id": "9529770090",
               "-ft": "20200801145500",
               "-to": "20200801150000",
               "-ftl": "1455",
@@ -204,7 +301,7 @@
               }
             },
             {
-              "-id": "9529620224",
+              "-id": "9529790594",
               "-ft": "20200801150000",
               "-to": "20200801170000",
               "-ftl": "1500",
@@ -218,6 +315,29 @@
               "info": "今回は、歌手の麻丘めぐみさんを迎える。<br/> アイドル歌手として「私の彼は左利き」「めばえ」などが大ヒット、その後は女優としても活躍する麻丘めぐみさん。<br/> このほど発売されたベストアルバムや新曲も話題を集めている。おなじみのナンバーを聞きながら、麻丘めぐみさんに近況などを伺う。<br/> 「女のリポート」、「グッドグッドミュージック」のコーナーもご期待を。<br/><br/> メール:<a href=\"mailto:yuyuwide@tbs.co.jp\">yuyuwide@tbs.co.jp</a><br/>",
               "pfm": "大沢悠里/西村知江子　　ゲスト：麻丘めぐみ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/rl9y07tvb9.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "麻丘めぐみ"
+                  },
+                  {
+                    "name": "大沢悠里"
+                  },
+                  {
+                    "name": "西村知江子"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -226,7 +346,7 @@
               }
             },
             {
-              "-id": "9529620257",
+              "-id": "9529790595",
               "-ft": "20200801170000",
               "-to": "20200801171500",
               "-ftl": "1700",
@@ -239,6 +359,21 @@
               "ts_out_ng": "0",
               "pfm": "中野浩一/山形純菜（TBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/7y0hxxvf6g.png",
+              "tag": {
+                "item": {
+                  "name": "中野浩一"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C013",
+                  "name": "アスリート"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -247,7 +382,7 @@
               }
             },
             {
-              "-id": "9529614285",
+              "-id": "9529790596",
               "-ft": "20200801171500",
               "-to": "20200801173000",
               "-ftl": "1715",
@@ -261,6 +396,12 @@
               "info": "企業の“見事な”取り組みや新商品・新サービス情報を、お届けする番組です。<br/> ポップカルチャーの総合誌「BRUTUS」の編集長でカルチャーに精通する西田善太ならではの視点で、さまざまな企業の見事なお仕事内容を、インタビュー形式で伺っていきます。<br/><br/> メール:<a href=\"mailto:migoto@tbs.co.jp\">migoto@tbs.co.jp</a><br/>",
               "pfm": "西田善太（ BRUTUS編集長）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/ue3gst1etd.png",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -269,7 +410,7 @@
               }
             },
             {
-              "-id": "9529614286",
+              "-id": "9529790597",
               "-ft": "20200801173000",
               "-to": "20200801174000",
               "-ftl": "1730",
@@ -282,6 +423,21 @@
               "ts_out_ng": "0",
               "pfm": "中嶋常幸/大槻りこ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/rz0t1i3ql7.jpg",
+              "tag": {
+                "item": {
+                  "name": "中嶋常幸"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C013",
+                  "name": "アスリート"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -290,7 +446,7 @@
               }
             },
             {
-              "-id": "9529614287",
+              "-id": "9529790598",
               "-ft": "20200801174000",
               "-to": "20200801174500",
               "-ftl": "1740",
@@ -303,6 +459,12 @@
               "ts_out_ng": "0",
               "pfm": "赤荻歩(TBSアナウンサー)",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/8m1vk9c3hn.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P023",
+                  "name": "劇場/公演"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -311,7 +473,7 @@
               }
             },
             {
-              "-id": "9529614288",
+              "-id": "9529790599",
               "-ft": "20200801174500",
               "-to": "20200801175000",
               "-ftl": "1745",
@@ -322,6 +484,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/782f8002-5dbc-4385-b2fc-03f77dd2ec86.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -330,7 +498,7 @@
               }
             },
             {
-              "-id": "9529614289",
+              "-id": "9529790601",
               "-ft": "20200801175000",
               "-to": "20200801180000",
               "-ftl": "1750",
@@ -343,6 +511,16 @@
               "ts_out_ng": "0",
               "pfm": "小沢コージ/皆川玲奈（TBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/cop3pt2kyo.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -351,7 +529,7 @@
               }
             },
             {
-              "-id": "9529620273",
+              "-id": "9529790603",
               "-ft": "20200801180000",
               "-to": "20200801183000",
               "-ftl": "1800",
@@ -365,6 +543,22 @@
               "info": "気男性声優が文豪司馬遼太郎作品の朗読に挑む「川口技研 Presents 司馬遼太郎短篇傑作選」<br/> 2012年10月からOBCラジオ大阪をキーステーションに、TBSラジオとの同時放送がスタート。<br/> 昨年2019年10月から始まった第8期（SEASON8）は、司馬作品の朗読初挑戦の声優が多数出演。<br/> 総勢8名の役者が、ひとり一作品ずつ、計8作品の朗読に挑戦しています。<br/><br/> 今期七作目の作品「貂（てん）の皮」に挑むのは、置鮎龍太郎さん。<br/> 7月11日（土）から8月22日（土）まで7週（回）にわたって放送されます。<br/> 物語の主人公は龍野藩の家租、脇坂安治。<br/> 豊臣秀吉の家臣だった脇坂安治は、主君の命で、明智光秀の手間取る丹波攻めに加わった。<br/> 丹波の赤鬼と武名を轟かせる赤井悪右衛門直正の居城、黒井城に降城交渉の使者として単身乗り込む安治。死を覚悟して臨む交渉の行方と安治を待ち受ける運命とは...<br/><br/> twitter：<a href=\"https://twitter.com/masterpiece0919\">https://twitter.com/masterpiece0919</a><br/> ハッシュタッグは #ガチシバ<br/>",
               "pfm": "竹下景子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/4pp3jqzq2w.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "竹下景子"
+                  },
+                  {
+                    "name": "司馬遼太郎"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -373,7 +567,7 @@
               }
             },
             {
-              "-id": "9529620284",
+              "-id": "9529790604",
               "-ft": "20200801183000",
               "-to": "20200801190000",
               "-ftl": "1830",
@@ -387,6 +581,21 @@
               "info": "メール:<a href=\"mailto:atataka@tbs.co.jp\">atataka@tbs.co.jp</a><br/>",
               "pfm": "田中みな実",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/wthyujh9vb.jpg",
+              "tag": {
+                "item": {
+                  "name": "田中みな実"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -395,7 +604,7 @@
               }
             },
             {
-              "-id": "9529620289",
+              "-id": "9529790605",
               "-ft": "20200801190000",
               "-to": "20200801200000",
               "-ftl": "1900",
@@ -409,6 +618,21 @@
               "info": "藤田ニコルが、念願だったラジオパーソナリティに挑戦！<br/> 明日は休みだ！という人が多い、ちょっと浮かれた土曜の夜を彩る番組「アットホーム presents 藤田ニコルのあしたはにちようび」がTBSラジオでスタートします。<br/> 番組は、藤田ニコルが世の中のアレコレにコメントしたり、ゲストを招いてトークをしたり、時にリスナーの相談に乗ったりと、自身の言葉で語ります。<br/> メッセージの募集テーマ、ゲスト情報などは決定次第お知らせします。<br/><br/> <a href=\"https://twitter.com/niconichi905954\">twitter</a><br/> ハッシュタッグは #にこにち で！<br/> メール:<a href=\"mailto:nico@tbs.co.jp\">nico@tbs.co.jp</a><br/>",
               "pfm": "藤田ニコル/タイムマシーン3号",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/w2vchpm35p.jpg",
+              "tag": {
+                "item": {
+                  "name": "藤田ニコル"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -417,7 +641,7 @@
               }
             },
             {
-              "-id": "9529652112",
+              "-id": "9529790607",
               "-ft": "20200801200000",
               "-to": "20200801210000",
               "-ftl": "2000",
@@ -431,6 +655,21 @@
               "info": "MISIAさんによるTBSラジオ初レギュラー番組。<br/> 社会貢献活動にも積極的なMISIAさんが、LGBTやダイバーシティーなどさまざまな社会問題を取り上げていきます。<br/> LGBTについては、当事者だけでなく、そうでない方に向けても、身近な事として「知るきっかけ」をつくるために、LGBTコミュニティから生み出される様々な小説や映画、ファッション、音楽などのカルチャーを“LOVE RAINBOW TRAIN”で巡るヴァーチャル・ツアーとして紹介。<br/> 日本を含む世界のLGBTシーンで流行っている曲やLGBT CLUBで盛り上がるMIXショーをお送りするほか、MISIAさん本人の楽曲もふんだんに放送します。<br/><br/> <a href=\"https://twitter.com/lrt_tbs\">twitter</a><br/> ハッシュタッグは #lrt_tbs <br/> メール:<a href=\"mailto:lrt@tbs.co.jp\">lrt@tbs.co.jp</a><br/> ",
               "pfm": "MISIA/バビ江ノビッチ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/el7yd1fl0e.jpg",
+              "tag": {
+                "item": {
+                  "name": "MISIA"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P021",
+                  "name": "ライフスタイル"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -439,7 +678,7 @@
               }
             },
             {
-              "-id": "9529620322",
+              "-id": "9529790609",
               "-ft": "20200801210000",
               "-to": "20200801214500",
               "-ftl": "2100",
@@ -453,6 +692,12 @@
               "info": "言葉と音楽でつづる<br/><br/>メール：<a href=\"mailto:yell@tbs.co.jp\">yell@tbs.co.jp</a><br/>",
               "pfm": "西村江太郎",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/kcv1xks8wg.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -461,7 +706,7 @@
               }
             },
             {
-              "-id": "9529620337",
+              "-id": "9529790612",
               "-ft": "20200801214500",
               "-to": "20200801220000",
               "-ftl": "2145",
@@ -475,6 +720,12 @@
               "info": "「JC」とは「ジュニア・チェンバー」、青年会議所のこと。<br/> フリーアナウンサーの吉田明世が、世の中の課題に取り組む人たちにお話を伺って、これからの生き方や考え方をアップデートしていく番組です。<br/><br/> <a href=\"mailto:jc@tbs.co.jp\">メール</a><br/>",
               "pfm": "吉田明世",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/i42zevlcp8.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -483,7 +734,7 @@
               }
             },
             {
-              "-id": "9529620349",
+              "-id": "9529790614",
               "-ft": "20200801220000",
               "-to": "20200802000000",
               "-ftl": "2200",
@@ -497,6 +748,26 @@
               "info": "街頭調査や番組へのメッセージで、徹底的にみんなの声を取材！学校生活、 勉強、進路、友達、恋愛…「最近、どんなことがあった？」「今、何に悩んでいる？」みんなの今を共有します。みんなの一歩先をいける！カルチャー情報も<br/><br/> ◆10時 ゲストとみんなの声を聞く<br/> ◆「ねおTALK ABOUT」<br/> ◆11時「カルチャーTALK ABOUT」<br/> ◆あなたに直接電話！超個人的なビッグイベントを応援するコーナーも<br/><br/> <a href=\"https://twitter.com/radio_talkabout\">twitter</a><br/> <a href=\"https://www.instagram.com/radio_talkabout\">instagram</a><br/> <a href=\"https://line.me/R/ti/p/%40lca8329d\">メッセージはLINEで募集</a><br/>",
               "pfm": "工藤大輝（Da-iCE)",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/kir9fzdsla.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "工藤大輝"
+                  },
+                  {
+                    "name": "DaーiCE"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -505,7 +776,7 @@
               }
             },
             {
-              "-id": "9529620388",
+              "-id": "9529790618",
               "-ft": "20200802000000",
               "-to": "20200802003000",
               "-ftl": "2400",
@@ -519,6 +790,21 @@
               "info": "藤原竜也の、自身初となる…レギュラーラジオ番組！<br/><br/> 仕事から解放されて…家事から解放されて…<br/> 寝る前に迎える”ほっとしたくつろぎの自由時間”<br/> そんなリラックスタイムに、「藤原竜也とゆるくてホットな時間」をお過ごしください。<br/> この番組は、藤原竜也とリスナーの皆さんがゼロから一緒に作り上げていくという…<br/> 一風変わった新しいスタイルのラジオ番組です。<br/><br/> Q：どんな番組タイトルにしようか！？<br/> Q：どんな曲をかけようか！？<br/> Q：どんな番組コンセプトにしようか！？<br/> その一つ一つをリスナーさんとともに作り上げていきます。<br/> そして番組を続けていくにあたり「お互いの呼吸や繋がり」を感じられるような…そんな温もりのある、とってもラジオっぽいラジオ番組を目指していけたらと思ってます！<br/><br/> メール:<a href=\"mailto:tatsuya@abc1008.com\">メール</a><br/> <a href=\"https://twitter.com/tatsuradio1008\">twitter</a><br/> ",
               "pfm": "藤原竜也",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/v2xaymqoz7.jpg",
+              "tag": {
+                "item": {
+                  "name": "藤原竜也"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C002",
+                  "name": "俳優"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -527,7 +813,7 @@
               }
             },
             {
-              "-id": "9529620397",
+              "-id": "9529790620",
               "-ft": "20200802003000",
               "-to": "20200802010000",
               "-ftl": "2430",
@@ -540,6 +826,21 @@
               "ts_out_ng": "0",
               "pfm": "鈴木聖奈",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/a8h5q4hljz.jpg",
+              "tag": {
+                "item": {
+                  "name": "鈴木聖奈"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -548,7 +849,7 @@
               }
             },
             {
-              "-id": "9529620407",
+              "-id": "9529790621",
               "-ft": "20200802010000",
               "-to": "20200802030000",
               "-ftl": "2500",
@@ -562,6 +863,29 @@
               "info": "メール：<a href=\"mailto:elekata@tbs.co.jp\">elekata@tbs.co.jp</a><br/>ラジオクラウド：<a href=\"https://radiocloud.jp/archive/elekata\">https://radiocloud.jp/archive/elekata</a><br/>",
               "pfm": "エレ片（エレキコミック/片桐仁）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/t9f95xgwi8.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "エレ片"
+                  },
+                  {
+                    "name": "エレキコミック"
+                  },
+                  {
+                    "name": "片桐仁"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -570,7 +894,7 @@
               }
             },
             {
-              "-id": "9529614310",
+              "-id": "9529790625",
               "-ft": "20200802030000",
               "-to": "20200802033000",
               "-ftl": "2700",
@@ -584,6 +908,21 @@
               "info": "“才能が霞むほどに下品”なお笑いコンビ・さらば青春の光がお送りする、30分間のバカ騒ぎ。<br/> 皆さん眠い時間だと思いますが、そして裏番組も強かったりもしますが、おまけに録音番組ですが、できれば深夜3時にリアルタイムでお聴きください！<br/> 昼間に聴くと、酔うかもしれません。<br/><br/> ツイッターのハッシュタグは「#タダバカ」です。<br/> 放送終了直後の3時30分には、スマホアプリ「ラジオクラウド」でおまけのトークも配信！そちらも、あわせてお聴きください。<br/><br/> メール:<a href=\"mailto:saraba@tbs.co.jp\">saraba@tbs.co.jp</a><br/>",
               "pfm": "さらば青春の光",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/ixga241re2.jpg",
+              "tag": {
+                "item": {
+                  "name": "さらば青春の光"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -592,7 +931,7 @@
               }
             },
             {
-              "-id": "9529614312",
+              "-id": "9529790628",
               "-ft": "20200802033000",
               "-to": "20200802040000",
               "-ftl": "2730",
@@ -605,6 +944,21 @@
               "ts_out_ng": "0",
               "info": "若手芸人「空気階段」が、人生のためになる情報をお送りする教養バラエティ。<br/> リスナーや街頭インタビューなどで意見を募り、人生をうまく生き抜くヒントを見つけていきます。<br/><br/> ハッシュタグ：#odoriba954<br/> メール：<a href=\"mailto:odoriba@tbs.co.jp\">odoriba@tbs.co.jp</a><br/><br/>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/cfxynr0bec.jpg",
+              "tag": {
+                "item": {
+                  "name": "空気階段"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -613,7 +967,7 @@
               }
             },
             {
-              "-id": "9529620451",
+              "-id": "9529790629",
               "-ft": "20200802040000",
               "-to": "20200802050000",
               "-ftl": "2800",
@@ -627,6 +981,16 @@
               "info": "メール：<a href=\"mailto:f-music@tbs.co.jp\">f-music@tbs.co.jp</a><br/>",
               "pfm": "駒田健吾（TBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/2h57j76abw.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
