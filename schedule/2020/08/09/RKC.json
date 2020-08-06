@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1596477383",
+    "srvtime": "1596736446",
     "stations": {
       "station": {
         "-id": "RKC",
@@ -571,7 +571,7 @@
               }
             },
             {
-              "-id": "9529982062",
+              "-id": "9530338178",
               "-ft": "20200809175500",
               "-to": "20200809180000",
               "-ftl": "1755",
@@ -585,6 +585,16 @@
               "desc": "高知県のニュース・全国のニュース・天気予報",
               "pfm": "高知放送アナウンサー",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
