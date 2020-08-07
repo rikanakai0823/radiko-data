@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1596650050",
+    "srvtime": "1596822811",
     "stations": {
       "station": {
         "-id": "IBS",
@@ -10,7 +10,7 @@
           "date": "20200807",
           "prog": [
             {
-              "-id": "9530232732",
+              "-id": "9530475333",
               "-ft": "20200807050000",
               "-to": "20200807060000",
               "-ftl": "0500",
@@ -20,7 +20,18 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/af36ec56-8a33-4c94-b854-f3f1edcb798b.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/m2j43hwg5u.jpg",
+              "tag": {
+                "item": {
+                  "name": "テスト音楽"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -29,7 +40,7 @@
               }
             },
             {
-              "-id": "9530232737",
+              "-id": "9530475337",
               "-ft": "20200807060000",
               "-to": "20200807090000",
               "-ftl": "0600",
@@ -44,6 +55,17 @@
               "info": "茨城放送の朝ワイドプログラム。週の前半は勢いよく！後半は癒し、週末はゆったりと情報を伝える番組。朝の通勤・通学時間帯に、全国のニュース・話題を取り上げ、どこかで使えるネタ・話題を提供します。\nまた、それぞれのパーソナリティーの視点から、スポーツ、ビジネス、茨城の話題をお伝えします。 朝は、Morningナビ！！で情報ゲット！<br>\n●<a href=\"http://ibs-radio.com/blog_navi\">番組ブログ</a>",
               "pfm": "築島雪枝",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/c0yz1dyw4i.jpg",
+              "tag": {
+                "item": {
+                  "name": "Morningナビ!!"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -52,7 +74,7 @@
               }
             },
             {
-              "-id": "9530232745",
+              "-id": "9530475342",
               "-ft": "20200807090000",
               "-to": "20200807110000",
               "-ftl": "0900",
@@ -67,7 +89,24 @@
               "info": "メインパーソナリティーは、地元茨城出身のシンガーソングライター「KATSUMI」。そして、これまで20年にわたり茨城放送の人気番組を多数担当してきた「たかとりじゅん」。 メインパーソナリティー2人の個性（爽やかな色気、おしゃれ感）を更にパワーアップさせつつ、女性アシスタントの若い感性をプラスして楽しい時間をお届けします！<br>\n●<a href=\"http://ibs-radio.com/blog-happy\">番組ブログ</a>",
               "pfm": "たかとりじゅん・菊地真衣",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/5qw870tmhd.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "HAPPYパンチ!"
+                  },
+                  {
+                    "name": "菊地真衣"
+                  },
+                  {
+                    "name": "たかとりじゅん"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -81,7 +120,7 @@
               }
             },
             {
-              "-id": "9530232748",
+              "-id": "9530475344",
               "-ft": "20200807110000",
               "-to": "20200807125500",
               "-ftl": "1100",
@@ -96,6 +135,48 @@
               "info": "メインパーソナリティーは、地元茨城出身のシンガーソングライター「KATSUMI」。そして、これまで20年にわたり茨城放送の人気番組を多数担当してきた「たかとりじゅん」。 メインパーソナリティー2人の個性（爽やかな色気、おしゃれ感）を更にパワーアップさせつつ、女性アシスタントの若い感性をプラスして楽しい時間をお届けします！<br>\n●<a href=\"http://ibs-radio.com/blog-happy\">番組ブログ</a>",
               "pfm": "たかとりじゅん・菊地真衣",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/5qw870tmhd.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "HAPPYパンチ!"
+                  },
+                  {
+                    "name": "菊地真衣"
+                  },
+                  {
+                    "name": "たかとりじゅん"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9530475347",
+              "-ft": "20200807125500",
+              "-to": "20200807130000",
+              "-ftl": "1255",
+              "-tol": "1300",
+              "-dur": "300",
+              "title": "お昼の聞き耳ガイド",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/af36ec56-8a33-4c94-b854-f3f1edcb798b.jpeg",
               "genre": {
                 "program": {
                   "-id": "P003",
@@ -110,26 +191,7 @@
               }
             },
             {
-              "-id": "9530232758",
-              "-ft": "20200807125500",
-              "-to": "20200807130000",
-              "-ftl": "1255",
-              "-tol": "1300",
-              "-dur": "300",
-              "title": "お昼の聞き耳ガイド",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/af36ec56-8a33-4c94-b854-f3f1edcb798b.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9530232759",
+              "-id": "9530475348",
               "-ft": "20200807130000",
               "-to": "20200807145500",
               "-ftl": "1300",
@@ -144,6 +206,32 @@
               "info": "曜日替わりのパーソナリティが持つそれぞれの個性、そしてそれに伴う選曲やトークが集まった良質な音楽ワイド番組。リスナーに寄り添いながら、ある時は「友人や職場の同僚」としてある時は「家族」の様な身近な視点でメッセージを発信します。火曜・水曜はiiasつくばｉスタジオから公開生放送、木曜・金曜は東京iスタジオから生放送でお送りします！<br>\n\n\n●<a href=\"http://ibs-radio.com/blog-ims\">番組ブログ</a>\n\nメッセージやリクエストは下記アドレス・FAXまでどうぞ！<br> メール：<a href=\"mailto:ims@ibs-radio.com\">ims@ibs-radio.com</a><br> FAX：029-244-4100",
               "pfm": "DJ DRAGON,柏村星良,粕谷智成",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/rohiphhme8.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "DJ DRAGON"
+                  },
+                  {
+                    "name": "IBS MUSIC STATE"
+                  },
+                  {
+                    "name": "柏村星良"
+                  },
+                  {
+                    "name": "粕谷智成"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -152,7 +240,7 @@
               }
             },
             {
-              "-id": "9530232762",
+              "-id": "9530475352",
               "-ft": "20200807145500",
               "-to": "20200807150000",
               "-ftl": "1455",
@@ -163,6 +251,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/af36ec56-8a33-4c94-b854-f3f1edcb798b.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -171,7 +265,7 @@
               }
             },
             {
-              "-id": "9530232763",
+              "-id": "9530475353",
               "-ft": "20200807150000",
               "-to": "20200807182000",
               "-ftl": "1500",
@@ -186,6 +280,22 @@
               "info": "週末を迎える木曜日・金曜日の夕方に、ニュースから芸能ネタまで、林美津子が主婦目線で伝える情報エンターテイメント番組。<br>\n番組内では、ニュースや天気予報・交通情報など多くの情報が放送されますが、そんな中、楽しい話題や音楽などでメリハリをつけ、発信する情報がスムーズにリスナーの耳に入るように構成します。<br><br>\n●<a href=\"http://ibs-radio.com/blog-relax\">番組ブログ</a>",
               "pfm": "林美津子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/q0y9obnqxs.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ミツコdeリラックス"
+                  },
+                  {
+                    "name": "林美津子"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -213,7 +323,7 @@
               }
             },
             {
-              "-id": "9530232776",
+              "-id": "9530475366",
               "-ft": "20200807210000",
               "-to": "20200807213000",
               "-ftl": "2100",
@@ -225,6 +335,22 @@
               "ts_out_ng": "0",
               "pfm": "古瀬俊介",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/af36ec56-8a33-4c94-b854-f3f1edcb798b.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "footballいばらき"
+                  },
+                  {
+                    "name": "古瀬俊介"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -233,7 +359,7 @@
               }
             },
             {
-              "-id": "9530232779",
+              "-id": "9530475368",
               "-ft": "20200807213000",
               "-to": "20200807215500",
               "-ftl": "2130",
@@ -247,6 +373,32 @@
               "info": "<p>メール：<a href=\"mailto:nemo@ibs-radio.com\">nemo@ibs-radio.com</a></p>\n<p><a href=\"https://twitter.com/nemoShaka?s=20\">オフィシャルtwitter</a></p>\n　<a href=\"https://twitter.com/search?q=%23%E3%81%AD%E3%82%82%E3%82%B7%E3%83%A3%E3%82%AB&src=hashtag_click\">#ねもシャカ</a></p>",
               "pfm": "根本凪",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/943392ef-dc4c-44ed-8305-736ef58a8d47.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "虹のコンキスタドール"
+                  },
+                  {
+                    "name": "根本凪のシャカリキごじゃっぺラジオ"
+                  },
+                  {
+                    "name": "根本凪"
+                  },
+                  {
+                    "name": "でんぱ組inc."
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -255,7 +407,7 @@
               }
             },
             {
-              "-id": "9530232781",
+              "-id": "9530475369",
               "-ft": "20200807215500",
               "-to": "20200807220000",
               "-ftl": "2155",
@@ -266,6 +418,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/25321dbc-371c-4987-98af-2d90d71b1e97.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -274,7 +432,7 @@
               }
             },
             {
-              "-id": "9530232782",
+              "-id": "9530293285",
               "-ft": "20200807220000",
               "-to": "20200808000000",
               "-ftl": "2200",
@@ -295,7 +453,7 @@
               }
             },
             {
-              "-id": "9530232784",
+              "-id": "9530325435",
               "-ft": "20200808000000",
               "-to": "20200808010000",
               "-ftl": "2400",
@@ -317,7 +475,7 @@
               }
             },
             {
-              "-id": "9530240145",
+              "-id": "9530423959",
               "-ft": "20200808010000",
               "-to": "20200808030000",
               "-ftl": "2500",
@@ -338,7 +496,7 @@
               }
             },
             {
-              "-id": "9530232788",
+              "-id": "9530293373",
               "-ft": "20200808030000",
               "-to": "20200808050000",
               "-ftl": "2700",
