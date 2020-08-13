@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1597254841",
+    "srvtime": "1597341293",
     "stations": {
       "station": {
         "-id": "MBS",
@@ -10,7 +10,7 @@
           "date": "20200813",
           "prog": [
             {
-              "-id": "9530879107",
+              "-id": "9530974829",
               "-ft": "20200813050000",
               "-to": "20200813060000",
               "-ftl": "0500",
@@ -52,7 +52,7 @@
               }
             },
             {
-              "-id": "9530845917",
+              "-id": "9530955191",
               "-ft": "20200813060000",
               "-to": "20200813080000",
               "-ftl": "0600",
@@ -103,7 +103,7 @@
               }
             },
             {
-              "-id": "9530879110",
+              "-id": "9530974832",
               "-ft": "20200813080000",
               "-to": "20200813103000",
               "-ftl": "0800",
@@ -145,7 +145,7 @@
               }
             },
             {
-              "-id": "9530879114",
+              "-id": "9530974836",
               "-ft": "20200813103000",
               "-to": "20200813123000",
               "-ftl": "1030",
@@ -196,7 +196,7 @@
               }
             },
             {
-              "-id": "9530845936",
+              "-id": "9530955216",
               "-ft": "20200813123000",
               "-to": "20200813153000",
               "-ftl": "1230",
@@ -210,7 +210,16 @@
               "desc": "★★主なコーナー★★<br /><br />▽吼えるコンちゃん<br />▽ラジオショッピング<br />▽聞くコンちゃん<br />▽エンタメ　コンちゃん！「大発見のコーナー」<br />▽N・交（13・14時台）<br />▽天（14時台）<br /><br /><br />メールアドレス：<a href=mailto:kon@mbs1179.com target=_blank>kon@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/kon/ target=_blank>こちらをクリック</a>",
               "pfm": "近藤光史、上田悦子（MBSアナウンサー）、原田伸郎",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/k1ryezz4pa.jpg",
+              "tag": {
+                "item": {
+                  "name": "近藤光史"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -224,7 +233,7 @@
               }
             },
             {
-              "-id": "9530845944",
+              "-id": "9530955228",
               "-ft": "20200813153000",
               "-to": "20200813174500",
               "-ftl": "1530",
@@ -238,7 +247,21 @@
               "desc": "★★主なコーナー★★<br /><br />▽知ってええなぁ！ちなみＮＥＷＳ<br />▽ええなぁマメッチクイズ<br />▽開運！なんでやねん鑑定団！<br />▽全日本トラック協会ｐｒｅｓｅｎｔｓドライバーズ・リクエスト<br />▽クイズで学ぼう！！村瀬塾！<br />▽ネットワークトゥデイ<br />▽’ほっと’インフォメーション<br />▽ラジオショッピング（16時台）<br />▽ラジオショッピング（17時台）<br />▽N・交（16・17時台）<br />▽天（16時台）<br /><br />17：43～17：45　地震防災メモ<br /><br /><br />メールアドレス：<a href=mailto:uwa@mbs1179.com target=_blank>uwa@mbs1179.com</a><br /><br /><br />◆上泉雄一のええなぁ！番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/uwa/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/uwa1179 target=_blank>@uwa1179</a><br />☆facebook：<a href=https://www.facebook.com/mbs1179uwa/ target=_blank>こちらをクリック</a>",
               "pfm": "上泉雄一（MBSアナウンサー）、村瀬哲史（予備校講師）、杉本青空（からし蓮根）、松川浩子（MBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/638833c0-958d-4179-938a-344e9aa58f5a.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "上泉雄一"
+                  },
+                  {
+                    "name": "金村義明"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -252,7 +275,7 @@
               }
             },
             {
-              "-id": "9530879126",
+              "-id": "9530974848",
               "-ft": "20200813174500",
               "-to": "20200813175400",
               "-ftl": "1745",
@@ -284,12 +307,12 @@
               }
             },
             {
-              "-id": "9530879127",
+              "-id": "9530974849",
               "-ft": "20200813175400",
-              "-to": "20200813210000",
+              "-to": "20200813215000",
               "-ftl": "1754",
-              "-tol": "2100",
-              "-dur": "11160",
+              "-tol": "2150",
+              "-dur": "14160",
               "title": "ＭＢＳベースボールパーク",
               "url": "https://www.mbs1179.com/tigers/",
               "failed_record": "0",
@@ -321,35 +344,7 @@
               }
             },
             {
-              "-id": "9530845967",
-              "-ft": "20200813210000",
-              "-to": "20200813215000",
-              "-ftl": "2100",
-              "-tol": "2150",
-              "-dur": "3000",
-              "title": "市川いずみのベースボールパークＥＸトラ！",
-              "url": "https://www.mbs1179.com/tigers/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "メールアドレス：<a href=mailto:park@mbs1179.com target=_blank>park@mbs1179.com</a><br /><br /><br />◆市川いずみのベースボールパークＥＸトラ！番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/tigers/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/tigers_park_mbs target=_blank>@tigers_park_mbs</a><br />☆Instagram：<a href=https://www.instagram.com/mbs_baseballpark/ target=_blank>mbs_baseballpark</a>",
-              "pfm": "市川いずみ",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/4f6de428-9536-4003-8688-0aa4877c6bfa.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9530845969",
+              "-id": "9530955274",
               "-ft": "20200813215000",
               "-to": "20200813220000",
               "-ftl": "2150",
@@ -374,7 +369,7 @@
               }
             },
             {
-              "-id": "9530879134",
+              "-id": "9530974856",
               "-ft": "20200813220000",
               "-to": "20200813233000",
               "-ftl": "2200",
@@ -428,7 +423,7 @@
               }
             },
             {
-              "-id": "9530879136",
+              "-id": "9530974858",
               "-ft": "20200813233000",
               "-to": "20200814000000",
               "-ftl": "2330",
@@ -460,7 +455,7 @@
               }
             },
             {
-              "-id": "9530845979",
+              "-id": "9530955288",
               "-ft": "20200814000000",
               "-to": "20200814003000",
               "-ftl": "2400",
@@ -474,6 +469,12 @@
               "desc": "ダンス＆ボーカルグループのＭ！ＬＫのメンバーが<br />いろんなことに挑戦する番組。リスナーからのメールも紹介する。<br /><br /><br />メールアドレス：<a href=mailto:milk@mbs1179.com target=_blank>milk@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/milk/ target=_blank>こちらをクリック</a>",
               "pfm": "M!LK、コロコロチキチキペッパーズ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/381a73f8-5135-4086-a4e4-67f88e6f1bc0.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -482,7 +483,7 @@
               }
             },
             {
-              "-id": "9530845981",
+              "-id": "9530955289",
               "-ft": "20200814003000",
               "-to": "20200814010000",
               "-ftl": "2430",
@@ -496,6 +497,12 @@
               "desc": "TVコメンテーターとしても多数出演、一児の母でもあるエッセイスト、犬山紙子。<br />いま、女性と社会をとりまく問題をはじめ、「コミュニケーション」を仕事にする彼女が、<br />忖度なしの本音で、一人語りのラジオに挑戦。<br />恋愛や性、夫婦問題、子育て、差別や嫉妬…<br />常に生き方更新中の彼女だから考える、いま関心のあること、<br />いま伝えるべきことを忖度ナシの本音で語り尽くします!!<br />「私たち、これからどう生きていく!?」<br /><br /><br />メールアドレス：<a href=mailto:inuboe@mbs1179.com target=_blank>inuboe@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/inuboe/ target=_blank>こちらをクリック</a>",
               "pfm": "犬山紙子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/0e1fcc97-24f4-4f3c-bbe1-c4f5f0ddcacc.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -504,7 +511,7 @@
               }
             },
             {
-              "-id": "9530845984",
+              "-id": "9530955295",
               "-ft": "20200814010000",
               "-to": "20200814023000",
               "-ftl": "2500",
@@ -518,6 +525,12 @@
               "desc": "メールアドレス：<a href=mailto:chiteijin@shiburadi.com target=_blank>chiteijin@shiburadi.com</a><br /><br />番組ホームページは<a href=https://chiteijinradio.com target=_blank>こちらをクリック</a>",
               "pfm": "福山雅治、荘口彰久",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/0a2977f1-fbd9-462d-ba08-2b9213c59b46.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -526,7 +539,7 @@
               }
             },
             {
-              "-id": "9530845987",
+              "-id": "9530955297",
               "-ft": "20200814023000",
               "-to": "20200814044000",
               "-ftl": "2630",
@@ -548,7 +561,7 @@
               }
             },
             {
-              "-id": "9530845990",
+              "-id": "9530955302",
               "-ft": "20200814044000",
               "-to": "20200814045500",
               "-ftl": "2840",
@@ -567,7 +580,7 @@
               }
             },
             {
-              "-id": "9530845991",
+              "-id": "9530955304",
               "-ft": "20200814045500",
               "-to": "20200814050000",
               "-ftl": "2855",
