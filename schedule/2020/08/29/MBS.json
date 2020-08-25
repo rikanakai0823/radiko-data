@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1598291631",
+    "srvtime": "1598378039",
     "stations": {
       "station": {
         "-id": "MBS",
@@ -10,7 +10,7 @@
           "date": "20200829",
           "prog": [
             {
-              "-id": "9531799316",
+              "-id": "9532019319",
               "-ft": "20200829050000",
               "-to": "20200829053000",
               "-ftl": "0500",
@@ -38,6 +38,10 @@
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -48,7 +52,7 @@
               }
             },
             {
-              "-id": "9531865447",
+              "-id": "9532019321",
               "-ft": "20200829053000",
               "-to": "20200829054500",
               "-ftl": "0530",
@@ -63,14 +67,26 @@
               "pfm": "上野誠（奈良大学教授）、上田悦子（MBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/vz6hv2eluf.jpg",
               "tag": {
-                "item": {
-                  "name": "万葉集"
-                }
+                "item": [
+                  {
+                    "name": "万葉集"
+                  },
+                  {
+                    "name": "上野誠"
+                  },
+                  {
+                    "name": "上田悦子"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -81,7 +97,7 @@
               }
             },
             {
-              "-id": "9531799318",
+              "-id": "9531969473",
               "-ft": "20200829054500",
               "-to": "20200829060000",
               "-ftl": "0545",
@@ -100,7 +116,7 @@
               }
             },
             {
-              "-id": "9531865451",
+              "-id": "9532019322",
               "-ft": "20200829060000",
               "-to": "20200829080000",
               "-ftl": "0600",
@@ -126,8 +142,12 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -138,7 +158,7 @@
               }
             },
             {
-              "-id": "9531890724",
+              "-id": "9531969491",
               "-ft": "20200829080000",
               "-to": "20200829113000",
               "-ftl": "0800",
@@ -158,7 +178,13 @@
                     "name": "浜村淳"
                   },
                   {
+                    "name": "鳥居睦子"
+                  },
+                  {
                     "name": "佐々木りつ子"
+                  },
+                  {
+                    "name": "ありがとう娘。"
                   }
                 ]
               },
@@ -180,7 +206,7 @@
               }
             },
             {
-              "-id": "9531890737",
+              "-id": "9532019326",
               "-ft": "20200829113000",
               "-to": "20200829125500",
               "-ftl": "1130",
@@ -195,14 +221,26 @@
               "pfm": "メッセンジャー、武川智美（MBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/862480f2-d065-489c-a054-4db8e3605aa6.jpeg",
               "tag": {
-                "item": {
-                  "name": "メッセンジャー"
-                }
+                "item": [
+                  {
+                    "name": "メッセンジャー"
+                  },
+                  {
+                    "name": "武川智美"
+                  },
+                  {
+                    "name": "川岸ゆか"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -213,7 +251,7 @@
               }
             },
             {
-              "-id": "9531799322",
+              "-id": "9531969508",
               "-ft": "20200829125500",
               "-to": "20200829130000",
               "-ftl": "1255",
@@ -238,7 +276,7 @@
               }
             },
             {
-              "-id": "9531865496",
+              "-id": "9532019328",
               "-ft": "20200829130000",
               "-to": "20200829135000",
               "-ftl": "1300",
@@ -253,14 +291,23 @@
               "pfm": "ハイヒール、亀井希生（MBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/xwuaiynynh.jpg",
               "tag": {
-                "item": {
-                  "name": "ハイヒール"
-                }
+                "item": [
+                  {
+                    "name": "ハイヒール"
+                  },
+                  {
+                    "name": "亀井希生"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -271,7 +318,7 @@
               }
             },
             {
-              "-id": "9531890744",
+              "-id": "9531969513",
               "-ft": "20200829135000",
               "-to": "20200829135900",
               "-ftl": "1350",
@@ -304,7 +351,7 @@
               }
             },
             {
-              "-id": "9531890747",
+              "-id": "9532019329",
               "-ft": "20200829135900",
               "-to": "20200829160000",
               "-ftl": "1359",
@@ -318,10 +365,24 @@
               "desc": "メールアドレス：<a href=mailto:mpark@mbs1179.com target=_blank>mpark@mbs1179.com</a><br /><br /><br />◆豊永真琴のMBSミュージックパーク番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/mpark/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/MBSmusicpark target=_blank>@MBSmusicpark</a>",
               "pfm": "豊永真琴、井上雅雄（MBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/5195c98b-e79d-43e7-bb27-c547bbb7f38a.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "豊永真琴"
+                  },
+                  {
+                    "name": "MBSアナウンサー"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -332,7 +393,7 @@
               }
             },
             {
-              "-id": "9531890755",
+              "-id": "9532019331",
               "-ft": "20200829160000",
               "-to": "20200829174300",
               "-ftl": "1600",
@@ -346,10 +407,24 @@
               "desc": "メールアドレス：<a href=mailto:mpark@mbs1179.com target=_blank>mpark@mbs1179.com</a><br /><br /><br />◆豊永真琴のMBSミュージックパーク番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/mpark/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/MBSmusicpark target=_blank>@MBSmusicpark</a>",
               "pfm": "豊永真琴、井上雅雄（MBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/5195c98b-e79d-43e7-bb27-c547bbb7f38a.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "豊永真琴"
+                  },
+                  {
+                    "name": "MBSアナウンサー"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -360,7 +435,7 @@
               }
             },
             {
-              "-id": "9531806247",
+              "-id": "9532019333",
               "-ft": "20200829174300",
               "-to": "20200829174500",
               "-ftl": "1743",
@@ -373,8 +448,8 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/0ec3e29f-a11b-4d6c-9af1-4761ebbf21c9.jpeg",
               "genre": {
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P019",
+                  "name": "公営競技"
                 }
               },
               "metas": {
@@ -385,7 +460,7 @@
               }
             },
             {
-              "-id": "9531821317",
+              "-id": "9532019334",
               "-ft": "20200829174500",
               "-to": "20200829175900",
               "-ftl": "1745",
@@ -408,6 +483,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -418,7 +497,7 @@
               }
             },
             {
-              "-id": "9531890760",
+              "-id": "9531977694",
               "-ft": "20200829175900",
               "-to": "20200829210000",
               "-ftl": "1759",
@@ -460,7 +539,7 @@
               }
             },
             {
-              "-id": "9531890782",
+              "-id": "9531969552",
               "-ft": "20200829210000",
               "-to": "20200829214500",
               "-ftl": "2100",
@@ -482,7 +561,7 @@
               }
             },
             {
-              "-id": "9531865548",
+              "-id": "9532019340",
               "-ft": "20200829214500",
               "-to": "20200829220000",
               "-ftl": "2145",
@@ -496,6 +575,26 @@
               "desc": "メールアドレス：<a href=mailto:chance@mbs1179.com target=_blank>chance@mbs1179.com</a><br /><br /><br />◆A Music Chance番組サイト◆<br />☆ホームページ：<a https://www.mbs1179.com/chance/ target=_blank>こちらをクリック</a><br />☆番組Twitter：<a href=https://twitter.com/AMusicChance1 target=_blank>@AMusicChance1</a>",
               "pfm": "U.K.、ヤマトパンクス（PK Shampoo）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/a93325ad-7a06-4c78-acf3-e8c15f0781aa.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "U.K."
+                  },
+                  {
+                    "name": "ヤマトパンクス"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -504,7 +603,7 @@
               }
             },
             {
-              "-id": "9531865550",
+              "-id": "9532019341",
               "-ft": "20200829220000",
               "-to": "20200829233000",
               "-ftl": "2200",
@@ -518,6 +617,32 @@
               "desc": "★★主なコーナー★★<br /><br />▽前略のコーナー<br />▽ヤン娘。ホメてま川柳・ホメ短歌のコーナー<br />▽ヤン娘。はいやせませんのコーナー<br />▽名言珍言ゆとっｔｔｅｒ<br /><br /><br />メールアドレス：<a href=mailto:yando@mbs1179.com target=_blank>yando@mbs1179.com</a><br /><br /><br />◆ヤングタウン土曜日番組サイト一覧◆<br />☆ホームページ：<a href=https://www.mbs1179.com/yando/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/yando_staff target=_blank>@yando_staff</a>",
               "pfm": "明石家さんま、村上ショージ、飯窪春菜、横山玲奈（モーニング娘。’20）、週替わりヤン娘。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/ceqjjawioa.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "明石家さんま"
+                  },
+                  {
+                    "name": "村上ショージ"
+                  },
+                  {
+                    "name": "飯窪春菜"
+                  },
+                  {
+                    "name": "横山玲奈"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -526,7 +651,7 @@
               }
             },
             {
-              "-id": "9531914016",
+              "-id": "9532019344",
               "-ft": "20200829233000",
               "-to": "20200830000000",
               "-ftl": "2330",
@@ -540,6 +665,21 @@
               "desc": "メールアドレス：<a href=mailto:uwas@mbs1179.com target=_blank>uwas@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/uwa/ target=_blank>こちらをクリック</a>",
               "pfm": "上泉雄一（MBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/638833c0-958d-4179-938a-344e9aa58f5a.jpeg",
+              "tag": {
+                "item": {
+                  "name": "上泉雄一"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -548,7 +688,7 @@
               }
             },
             {
-              "-id": "9531890793",
+              "-id": "9532019346",
               "-ft": "20200830000000",
               "-to": "20200830013000",
               "-ftl": "2400",
@@ -562,6 +702,32 @@
               "desc": "メールアドレス：<a href=mailto:yarudo@mbs1179.com target=_blank>yarudo@mbs1179.com</a><br /><br /><br />番組ホームページは<a href=https://www.mbs1179.com/yaru/ target=_blank>こちらをクリック</a>",
               "pfm": "城島茂（TOKIO）、さらば青春の光、尼神インター、齊藤京子（日向坂46）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/696e1ece-a9c7-4064-965f-c4282c524f5f.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "さらば青春の光"
+                  },
+                  {
+                    "name": "尼神インター"
+                  },
+                  {
+                    "name": "城島茂"
+                  },
+                  {
+                    "name": "齋藤京子"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -570,7 +736,7 @@
               }
             },
             {
-              "-id": "9531865578",
+              "-id": "9532019348",
               "-ft": "20200830013000",
               "-to": "20200830042800",
               "-ftl": "2530",
@@ -584,6 +750,38 @@
               "desc": "★★主なコーナー★★<br /><br />▽採用されてナンボ、マイク前でお便りを読もうのコーナー<br />▽ヤンヤンガールズ、トップを目指せのコーナー<br /><br /><br />メールアドレス：<a href=mailto:oredo@mbs1179.com target=_blank>oredo@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/ore/ target=_blank>こちらをクリック</a>",
               "pfm": "有野晋哉（よゐこ）、井戸田潤（スピードワゴン）、田村亮（ロンドンブーツ1号2号）、村上健志（フルーツポンチ）、今泉佑唯、ヤンヤンガールズ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/b8268cec-a5ff-48a7-9e38-37125699fdaa.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "今泉佑唯"
+                  },
+                  {
+                    "name": "ヤンヤンガールズ"
+                  },
+                  {
+                    "name": "有野晋哉"
+                  },
+                  {
+                    "name": "井戸田潤"
+                  },
+                  {
+                    "name": "田村亮"
+                  },
+                  {
+                    "name": "村上健志"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -592,7 +790,7 @@
               }
             },
             {
-              "-id": "9531823508",
+              "-id": "9532019350",
               "-ft": "20200830042800",
               "-to": "20200830043000",
               "-ftl": "2828",
@@ -603,6 +801,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/0ec3e29f-a11b-4d6c-9af1-4761ebbf21c9.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -611,7 +815,7 @@
               }
             },
             {
-              "-id": "9531890803",
+              "-id": "9531969577",
               "-ft": "20200830043000",
               "-to": "20200830050000",
               "-ftl": "2830",
