@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1598637258",
+    "srvtime": "1598896446",
     "stations": {
       "station": {
         "-id": "CBC",
@@ -10,7 +10,7 @@
           "date": "20200903",
           "prog": [
             {
-              "-id": "9532152771",
+              "-id": "9532598706",
               "-ft": "20200903050000",
               "-to": "20200903052500",
               "-ftl": "0500",
@@ -25,6 +25,16 @@
               "info": "毎日が始まる朝のひととき、演歌・歌謡曲の名曲と共に、リスナーの皆さんへ元気をお届けします。\n<br />あなたと一緒にすてきな番組にしていきたいと願いつつ、あなたが聴きたい曲をお送りします。\n<br />その歌にまつわる思い出などのおたよりも、お待ちしております。\n\n<br /><br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=393'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
               "pfm": "梓夕子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/azmu5ow65z.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -33,7 +43,7 @@
               }
             },
             {
-              "-id": "9532152822",
+              "-id": "9532598710",
               "-ft": "20200903052500",
               "-to": "20200903053000",
               "-ftl": "0525",
@@ -46,6 +56,12 @@
               "ts_out_ng": "0",
               "desc": "CBCが選ぶ“おトク”な商品をご紹介します。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/ab1c097c-1cae-4518-bfa1-18baa2d30769.png",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -54,7 +70,7 @@
               }
             },
             {
-              "-id": "9532238177",
+              "-id": "9532561941",
               "-ft": "20200903053000",
               "-to": "20200903063000",
               "-ftl": "0530",
@@ -77,7 +93,7 @@
               }
             },
             {
-              "-id": "9532152920",
+              "-id": "9532598715",
               "-ft": "20200903063000",
               "-to": "20200903070000",
               "-ftl": "0630",
@@ -92,6 +108,16 @@
               "info": "「歌のない歌謡曲」では、なつメロから最新のヒット曲まで皆さんのリクエストにカラオケでお応えしていきます。\n\n<br/><br/>リクエスト、おたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=411'><u>こちら</u></a>\n<br/>FAXは 052-263-6800 まで",
               "pfm": "多田しげお　加藤愛",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/44cfa371-32ed-474b-a4f2-a10b8023f189.png",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -100,7 +126,7 @@
               }
             },
             {
-              "-id": "9532152987",
+              "-id": "9532598722",
               "-ft": "20200903070000",
               "-to": "20200903090000",
               "-ftl": "0700",
@@ -115,6 +141,16 @@
               "info": "多田しげおと、木曜アシスタント 加藤愛が元気にお送りします！\n<br/>あなたの忙しい朝に、面白くてためになる「朝PON」をお聴き逃しなく♪\n\n<br /><br />番組記事を読む→<a href=\"https://radichubu.jp/kibun/\"><u>こちら</u></a>\n<br/>番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=409'><u>こちら</u></a>\n<br/>FAXは 052-263-6800 まで",
               "pfm": "多田しげお　加藤愛",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/44cfa371-32ed-474b-a4f2-a10b8023f189.png",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -123,7 +159,7 @@
               }
             },
             {
-              "-id": "9532153225",
+              "-id": "9532598730",
               "-ft": "20200903090000",
               "-to": "20200903115500",
               "-ftl": "0900",
@@ -138,6 +174,16 @@
               "info": "つボイノリオと、アシスタント 小高直子アナウンサーの名コンビがお送りします！\n<br />時代や世相を斬る鋭いトークから日々の生活に役立つ話題まで、ネタの広さは天下一品。\n<br />まだまだその面白さは衰えませんよ～♪\n\n<br /><br />10時40分頃からは「キユーピーラジオクッキング」\n<br />料理研究家　宮本和秀先生が作り方とポイントをアドバイスしてくださいます。\n<br />キユーピーラジオクッキング　詳しいレシピはこちら <a href='http://hicbc.com/radio/kikeba/cooking/'>http://hicbc.com/radio/kikeba/cooking/</a>\n\n<br /><br />おかげさまで1993年10月4日の番組スタートから26年目を迎えました！\n<br />毎日全力で放送中！お聴き逃しなく！\n\n<br /><br />番組記事を読む→<a href=\"https://radichubu.jp/kikeba/\"><u>こちら</u></a>\n<br />番組ツイッターは<a href=\"https://twitter.com/cbc1053kikeba\"><u>こちら</u></a>\n<br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=387'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
               "pfm": "つボイノリオ　小高直子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/bhb76xdo1k.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -146,7 +192,7 @@
               }
             },
             {
-              "-id": "9532118480",
+              "-id": "9532598737",
               "-ft": "20200903115500",
               "-to": "20200903120000",
               "-ftl": "1155",
@@ -158,6 +204,16 @@
               "ts_out_ng": "0",
               "desc": "この時間は、最新のニュースをお伝えします。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/8012b89f-e068-4972-ae6d-81b4c0601d59.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -166,7 +222,7 @@
               }
             },
             {
-              "-id": "9532144826",
+              "-id": "9532561955",
               "-ft": "20200903120000",
               "-to": "20200903122000",
               "-ftl": "1200",
@@ -187,7 +243,7 @@
               }
             },
             {
-              "-id": "9532153468",
+              "-id": "9532561956",
               "-ft": "20200903122000",
               "-to": "20200903123000",
               "-ftl": "1220",
@@ -207,7 +263,7 @@
               }
             },
             {
-              "-id": "9532153488",
+              "-id": "9532598743",
               "-ft": "20200903123000",
               "-to": "20200903130000",
               "-ftl": "1230",
@@ -222,6 +278,16 @@
               "info": "「きく！ラジオ」では、専門の医師の話などを交えながら、\n<br />より健やかに生きていくために必要な「健康」「医療」に関する「正しい知識・情報」をお届けします。\n\n<br /><br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=394'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
               "pfm": "江田亮",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/12fa1943-73b1-40f7-9f81-ad3affd807d6.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P010",
+                  "name": "医療"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -230,7 +296,7 @@
               }
             },
             {
-              "-id": "9532144858",
+              "-id": "9532598749",
               "-ft": "20200903130000",
               "-to": "20200903160000",
               "-ftl": "1300",
@@ -245,6 +311,16 @@
               "info": "パーソナリティ 北野誠が今日もお金のことから男女の仲まで人間の煩悩を赤裸々に語りつくします！\n<br />お楽しみに！\n\n<br /><br />ズバリ公式LINE＠は<a href=\"http://accountpage.line.me/makozuba1053\"><u>ここから</u></a>\n<br />番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=384'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n\n<br /><br />北野誠とリスナーが自腹で飲み会をする「マコ酒RUN」では、\n<br />北野誠に食べに来てほしいお店を募集中！\n<br />応募は<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=384'><u>こちら</u></a>",
               "pfm": "北野誠　氏田朋子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/44frmnsgec.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -253,7 +329,7 @@
               }
             },
             {
-              "-id": "9532145763",
+              "-id": "9532598762",
               "-ft": "20200903160000",
               "-to": "20200903175300",
               "-ftl": "1600",
@@ -268,6 +344,16 @@
               "info": "『超ド級、スポーツエンタ』をコンセプトにしたスポーツ・情報番組。\n<br />月曜は、ドラファンで音楽に精通した大谷ノブ彦が担当し、火曜～金曜は、個性豊かな４人のスポーツアナウンサーが、現場至上主義のスポーツ最新情報を取材秘話までお送りします。\n<br />ドラゴンズ応援番組ナンバーワンを目指します。\n\n\n<br /><br />番組ツイッターは<a href=\"https://twitter.com/DragonsCBC\"><u>こちら</u></a>\n<br />番組記事を読む→<a href='https://radichubu.jp/dradama-king/'><u>こちら</u></a>\n<br />番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=439'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
               "pfm": "西村俊仁　柳沢彩美",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/f43e2a41-8844-45e8-b14e-20685b8c9562.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -276,7 +362,7 @@
               }
             },
             {
-              "-id": "9532154018",
+              "-id": "9532598776",
               "-ft": "20200903175300",
               "-to": "20200903175700",
               "-ftl": "1753",
@@ -287,6 +373,16 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/ee9888c3-73ae-4a72-8bb3-adaf70f50137.png",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -295,7 +391,7 @@
               }
             },
             {
-              "-id": "9532241322",
+              "-id": "9532598778",
               "-ft": "20200903175700",
               "-to": "20200903200000",
               "-ftl": "1757",
@@ -309,6 +405,12 @@
               "info": "今年もクリアで迫力あるFMの音声で、臨場感のある野球実況をお楽しみ頂きます。\n\n<br /><br /><b>中日×広島（ナゴヤ）</b>\n<br />解説者：川上憲伸\n<br />実況者：高田寛之\n\n<br /><br />※試合終了まで中継するため、以降の番組は時間変更の場合がございます。\n\n<br /><br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=388'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n",
               "pfm": "解説者：川上憲伸／実況者：高田寛之",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/ee9888c3-73ae-4a72-8bb3-adaf70f50137.png",
+              "genre": {
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -317,7 +419,7 @@
               }
             },
             {
-              "-id": "9532241339",
+              "-id": "9532598791",
               "-ft": "20200903200000",
               "-to": "20200903210000",
               "-ftl": "2000",
@@ -331,6 +433,12 @@
               "info": "今年もクリアで迫力あるFMの音声で、臨場感のある野球実況をお楽しみ頂きます。\n\n<br /><br /><b>中日×広島（ナゴヤ）</b>\n<br />解説者：川上憲伸\n<br />実況者：高田寛之\n\n<br /><br />※試合終了まで中継するため、以降の番組は時間変更の場合がございます。\n\n<br /><br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=388'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n",
               "pfm": "解説者：川上憲伸／実況者：高田寛之",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/ee9888c3-73ae-4a72-8bb3-adaf70f50137.png",
+              "genre": {
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -339,7 +447,7 @@
               }
             },
             {
-              "-id": "9532154245",
+              "-id": "9532598797",
               "-ft": "20200903210000",
               "-to": "20200903220000",
               "-ftl": "2100",
@@ -354,6 +462,16 @@
               "info": "プロ野球ナイターのあとは 戸井トークで延長戦!!\n<br/>「今日のゲームはああだった!」 「あの戦略はこうだった!!」 リスナーすべてが評論家。\n<br/>明日の試合が10倍楽しくなる、勝っても負けてもドラゴンズを応援します!!\n\n<br /><br/>※野球中継延長の場合、放送時間・内容に変更が生じます。あらかじめご了承ください。\n\n<br/><br/>番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=390'>こちら</a>\n<br/>FAXは 052-263-6800 まで",
               "pfm": "戸井康成",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/b9eeb5eb-d3bf-42bd-be32-6f6d86a0caeb.png",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -362,7 +480,7 @@
               }
             },
             {
-              "-id": "9532154330",
+              "-id": "9532598803",
               "-ft": "20200903220000",
               "-to": "20200904003000",
               "-ftl": "2200",
@@ -376,6 +494,16 @@
               "info": "自分が好きなアイドルやメンバーのことを意味する「推シ」。<br />\nその「推シ」を紹介し、応援してくれるファンを「マシ」、つまり増やしていこうという、アイドル応援番組が「推シマシ」です。<br />\n\n<br />そして、22:50ごろ～23:00からは、乃木坂46の「れなち」こと山崎怜奈が、自分自身の推し、リスナーの皆さんの推しを紹介する、乃木坂46 山崎怜奈の『推しの１コマ』も放送！\n<br />番組公式ハッシュタグ“#ザキ推し”でツイートしてね！\n\n<br />番組ツイッターは<a href=\"https://twitter.com/oshi_mashi\"><u>こちら</u></a>\n<br />番組へのおたよりは<a href=\"https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=542\"target=\"_blank\"><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
               "pfm": "坂本遥奈（TEAM SHACHI）　酒井直斗　コーナー出演：山崎怜奈（乃木坂46）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/1551b9a7-e5eb-4934-9dcf-4ebc532e6ca0.png",
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -384,7 +512,7 @@
               }
             },
             {
-              "-id": "9532236571",
+              "-id": "9532598809",
               "-ft": "20200904003000",
               "-to": "20200904010000",
               "-ftl": "2430",
@@ -399,6 +527,16 @@
               "info": "番組へのおたよりは<a href=\"https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=246\"target=\"_blank\"><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
               "pfm": "MAG!C☆PRINCE　永岡歩",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/2a3b662d-526a-4d9e-8456-1a15b3f18ff6.png",
+              "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -407,7 +545,7 @@
               }
             },
             {
-              "-id": "9532241427",
+              "-id": "9532561992",
               "-ft": "20200904010000",
               "-to": "20200904030000",
               "-ftl": "2500",
@@ -429,7 +567,7 @@
               }
             },
             {
-              "-id": "9532235198",
+              "-id": "9532561995",
               "-ft": "20200904030000",
               "-to": "20200904050000",
               "-ftl": "2700",
