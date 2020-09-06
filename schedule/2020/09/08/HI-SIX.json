@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1599242065",
+    "srvtime": "1599414903",
     "stations": {
       "station": {
         "-id": "HI-SIX",
@@ -10,7 +10,7 @@
           "date": "20200908",
           "prog": [
             {
-              "-id": "9532956853",
+              "-id": "9533169739",
               "-ft": "20200908050000",
               "-to": "20200908053000",
               "-ftl": "0500",
@@ -32,7 +32,7 @@
               }
             },
             {
-              "-id": "9532956862",
+              "-id": "9533169741",
               "-ft": "20200908053000",
               "-to": "20200908060000",
               "-ftl": "0530",
@@ -54,7 +54,7 @@
               }
             },
             {
-              "-id": "9532956865",
+              "-id": "9533169743",
               "-ft": "20200908060000",
               "-to": "20200908073000",
               "-ftl": "0600",
@@ -82,7 +82,7 @@
               }
             },
             {
-              "-id": "9532956875",
+              "-id": "9533216482",
               "-ft": "20200908073000",
               "-to": "20200908075000",
               "-ftl": "0730",
@@ -97,8 +97,8 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HI-SIX/zjmlpff214.png",
               "genre": {
                 "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 },
                 "program": {
                   "-id": "P003",
@@ -113,7 +113,7 @@
               }
             },
             {
-              "-id": "9533009296",
+              "-id": "9533216483",
               "-ft": "20200908075000",
               "-to": "20200908075400",
               "-ftl": "0750",
@@ -144,7 +144,7 @@
               }
             },
             {
-              "-id": "9533009297",
+              "-id": "9533216484",
               "-ft": "20200908075400",
               "-to": "20200908080000",
               "-ftl": "0754",
@@ -159,8 +159,8 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HI-SIX/kh9im7y8j7.jpg",
               "genre": {
                 "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 }
               },
               "metas": {
@@ -171,7 +171,7 @@
               }
             },
             {
-              "-id": "9532956878",
+              "-id": "9533169751",
               "-ft": "20200908080000",
               "-to": "20200908082000",
               "-ftl": "0800",
@@ -198,7 +198,7 @@
               }
             },
             {
-              "-id": "9532956881",
+              "-id": "9533216487",
               "-ft": "20200908082000",
               "-to": "20200908085500",
               "-ftl": "0820",
@@ -213,38 +213,8 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HI-SIX/zjmlpff214.png",
               "genre": {
                 "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9532956883",
-              "-ft": "20200908085500",
-              "-to": "20200908090000",
-              "-ftl": "0855",
-              "-tol": "0900",
-              "-dur": "300",
-              "title": "JFNニュース",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.fmkochi.com/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/LV/program/49541_91c85d2b_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HI-SIX/vtx1de1b4c.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 },
                 "program": {
                   "-id": "P001",
@@ -259,7 +229,37 @@
               }
             },
             {
-              "-id": "9532956886",
+              "-id": "9533216489",
+              "-ft": "20200908085500",
+              "-to": "20200908090000",
+              "-ftl": "0855",
+              "-tol": "0900",
+              "-dur": "300",
+              "title": "JFNニュース",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.fmkochi.com/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/LV/program/49541_91c85d2b_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HI-SIX/vtx1de1b4c.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9533216491",
               "-ft": "20200908090000",
               "-to": "20200908095500",
               "-ftl": "0900",
@@ -274,8 +274,8 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HI-SIX/zjmlpff214.png",
               "genre": {
                 "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 },
                 "program": {
                   "-id": "P003",
@@ -290,7 +290,7 @@
               }
             },
             {
-              "-id": "9533009298",
+              "-id": "9533216494",
               "-ft": "20200908095500",
               "-to": "20200908100000",
               "-ftl": "0955",
@@ -320,7 +320,7 @@
               }
             },
             {
-              "-id": "9532956890",
+              "-id": "9533216495",
               "-ft": "20200908100000",
               "-to": "20200908105500",
               "-ftl": "1000",
@@ -335,8 +335,8 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HI-SIX/zjmlpff214.png",
               "genre": {
                 "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 },
                 "program": {
                   "-id": "P003",
@@ -351,7 +351,7 @@
               }
             },
             {
-              "-id": "9532956893",
+              "-id": "9533216498",
               "-ft": "20200908105500",
               "-to": "20200908110000",
               "-ftl": "1055",
@@ -365,6 +365,12 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/word\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/29832_77800570_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/5389_0f123d94_sq.jpg\" height=\"60\" width=\"60\" alt=\"真飛聖\"></td>  </tr></table><br /><br />\t今日はコミュニケーションに役立つ名言です。 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/word\">http://www.jfn.jp/word</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/213\">https://ssl2.jfn.co.jp/mailbox/index/213</a><br /><br /></div>",
               "pfm": "真飛聖",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HI-SIX/qmi9dp9rad.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -373,7 +379,7 @@
               }
             },
             {
-              "-id": "9532956894",
+              "-id": "9533169762",
               "-ft": "20200908110000",
               "-to": "20200908113000",
               "-ftl": "1100",
@@ -395,7 +401,7 @@
               }
             },
             {
-              "-id": "9532956896",
+              "-id": "9533169764",
               "-ft": "20200908113000",
               "-to": "20200908115500",
               "-ftl": "1130",
@@ -417,7 +423,7 @@
               }
             },
             {
-              "-id": "9532956899",
+              "-id": "9533216502",
               "-ft": "20200908115500",
               "-to": "20200908120000",
               "-ftl": "1155",
@@ -431,8 +437,8 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HI-SIX/vtx1de1b4c.jpg",
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 },
                 "program": {
                   "-id": "P001",
@@ -447,7 +453,7 @@
               }
             },
             {
-              "-id": "9532956901",
+              "-id": "9533169768",
               "-ft": "20200908120000",
               "-to": "20200908124500",
               "-ftl": "1200",
@@ -469,7 +475,7 @@
               }
             },
             {
-              "-id": "9533009299",
+              "-id": "9533216507",
               "-ft": "20200908124500",
               "-to": "20200908130000",
               "-ftl": "1245",
@@ -500,7 +506,7 @@
               }
             },
             {
-              "-id": "9532956910",
+              "-id": "9533169773",
               "-ft": "20200908130000",
               "-to": "20200908133000",
               "-ftl": "1300",
@@ -522,7 +528,7 @@
               }
             },
             {
-              "-id": "9532956912",
+              "-id": "9533169776",
               "-ft": "20200908133000",
               "-to": "20200908135500",
               "-ftl": "1330",
@@ -544,7 +550,7 @@
               }
             },
             {
-              "-id": "9532956914",
+              "-id": "9533169777",
               "-ft": "20200908135500",
               "-to": "20200908140000",
               "-ftl": "1355",
@@ -565,7 +571,7 @@
               }
             },
             {
-              "-id": "9532956915",
+              "-id": "9533169779",
               "-ft": "20200908140000",
               "-to": "20200908141500",
               "-ftl": "1400",
@@ -587,7 +593,7 @@
               }
             },
             {
-              "-id": "9532956919",
+              "-id": "9533169781",
               "-ft": "20200908141500",
               "-to": "20200908142000",
               "-ftl": "1415",
@@ -607,7 +613,7 @@
               }
             },
             {
-              "-id": "9532956920",
+              "-id": "9533169782",
               "-ft": "20200908142000",
               "-to": "20200908145500",
               "-ftl": "1420",
@@ -629,7 +635,7 @@
               }
             },
             {
-              "-id": "9532956921",
+              "-id": "9533169783",
               "-ft": "20200908145500",
               "-to": "20200908150000",
               "-ftl": "1455",
@@ -651,7 +657,7 @@
               }
             },
             {
-              "-id": "9532956925",
+              "-id": "9533169785",
               "-ft": "20200908150000",
               "-to": "20200908154200",
               "-ftl": "1500",
@@ -673,7 +679,7 @@
               }
             },
             {
-              "-id": "9532956927",
+              "-id": "9533169789",
               "-ft": "20200908154200",
               "-to": "20200908154700",
               "-ftl": "1542",
@@ -695,7 +701,7 @@
               }
             },
             {
-              "-id": "9532956928",
+              "-id": "9533169790",
               "-ft": "20200908154700",
               "-to": "20200908155500",
               "-ftl": "1547",
@@ -717,7 +723,7 @@
               }
             },
             {
-              "-id": "9532956929",
+              "-id": "9533216518",
               "-ft": "20200908155500",
               "-to": "20200908160000",
               "-ftl": "1555",
@@ -731,8 +737,8 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HI-SIX/vtx1de1b4c.jpg",
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 },
                 "program": {
                   "-id": "P001",
@@ -747,7 +753,7 @@
               }
             },
             {
-              "-id": "9533009300",
+              "-id": "9533216519",
               "-ft": "20200908160000",
               "-to": "20200908165500",
               "-ftl": "1600",
@@ -765,6 +771,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -775,7 +785,7 @@
               }
             },
             {
-              "-id": "9533009301",
+              "-id": "9533216527",
               "-ft": "20200908165500",
               "-to": "20200908170000",
               "-ftl": "1655",
@@ -805,7 +815,7 @@
               }
             },
             {
-              "-id": "9532956940",
+              "-id": "9533216529",
               "-ft": "20200908170000",
               "-to": "20200908171000",
               "-ftl": "1700",
@@ -819,6 +829,12 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/kento/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/program/43986_775dd6d9_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/7246_a4816df3_sq.jpg\" height=\"60\" width=\"60\" alt=\"賀来賢人\"></td>  </tr></table><br /><br />\t賀来賢人 SUZUKI “KENTO'S CLUB”<br />クラブ会長の賀来賢人が、クラブ会員であるリスナーの皆さんと、<br />ラジオを通して楽しくコミュニケーションしていきます！ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/kento/\">https://www.tfm.co.jp/kento/</a><br />\tメールアドレス：<a href=\"mailto:kento@tfm.co.jp\">kento@tfm.co.jp</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/kento/form/\">https://www.tfm.co.jp/kento/form/</a><br /><br /></div>",
               "pfm": "賀来賢人",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HI-SIX/kjt3jh7n8y.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C002",
+                  "name": "俳優"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -827,7 +843,7 @@
               }
             },
             {
-              "-id": "9533009302",
+              "-id": "9533216530",
               "-ft": "20200908171000",
               "-to": "20200908185500",
               "-ftl": "1710",
@@ -845,6 +861,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -855,7 +875,7 @@
               }
             },
             {
-              "-id": "9532956956",
+              "-id": "9533216545",
               "-ft": "20200908185500",
               "-to": "20200908190000",
               "-ftl": "1855",
@@ -869,8 +889,8 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HI-SIX/vtx1de1b4c.jpg",
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 },
                 "program": {
                   "-id": "P001",
@@ -885,7 +905,7 @@
               }
             },
             {
-              "-id": "9532956959",
+              "-id": "9533169805",
               "-ft": "20200908190000",
               "-to": "20200908195500",
               "-ftl": "1900",
@@ -907,7 +927,7 @@
               }
             },
             {
-              "-id": "9532956961",
+              "-id": "9533216548",
               "-ft": "20200908195500",
               "-to": "20200908200000",
               "-ftl": "1955",
@@ -921,8 +941,8 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HI-SIX/vtx1de1b4c.jpg",
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 },
                 "program": {
                   "-id": "P001",
@@ -937,7 +957,7 @@
               }
             },
             {
-              "-id": "9532956963",
+              "-id": "9533169811",
               "-ft": "20200908200000",
               "-to": "20200908205500",
               "-ftl": "2000",
@@ -959,7 +979,7 @@
               }
             },
             {
-              "-id": "9532956967",
+              "-id": "9533216553",
               "-ft": "20200908205500",
               "-to": "20200908210000",
               "-ftl": "2055",
@@ -973,8 +993,8 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HI-SIX/vtx1de1b4c.jpg",
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 },
                 "program": {
                   "-id": "P001",
@@ -989,7 +1009,7 @@
               }
             },
             {
-              "-id": "9532956969",
+              "-id": "9533216555",
               "-ft": "20200908210000",
               "-to": "20200908213000",
               "-ftl": "2100",
@@ -1003,6 +1023,16 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/city\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/program/29830_9bbab2a7_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/person/5400_eea7e1f1_sq.jpg\" height=\"60\" width=\"60\" alt=\"安田レイ\"></td>  </tr></table><br /><br />\tこの番組では、新旧シティポップ楽曲を中心に、様々な街、時間帯、季節感、気候のイメージがリンクする楽曲とナレーションをオンエア。街中に心地良い音楽が流れる時間を演出します。 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/city\">http://www.jfn.jp/city</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/216\">https://ssl2.jfn.co.jp/mailbox/index/216</a><br /><br /></div>",
               "pfm": "安田レイ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HI-SIX/opkk5wrqa9.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1011,7 +1041,7 @@
               }
             },
             {
-              "-id": "9532956973",
+              "-id": "9533216559",
               "-ft": "20200908213000",
               "-to": "20200908215500",
               "-ftl": "2130",
@@ -1025,6 +1055,16 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"https://park.gsj.mobi/program/show/41144\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/program/41144_77573020_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/person/6856_487c2dbd_sq.jpg\" height=\"60\" width=\"60\" alt=\"鈴華ゆう子\"></td>  </tr></table><br /><br />\t魅力的な日本に住んでいる喜びの再発見と、そんな魅力いっぱいの日本に、もっともっと住みたくなるという思いを、日本と海外を音楽で結ぶ大きな活動をしている和楽器バンドのボーカル鈴華ゆう子がDJとして発信し、リスナーのみなさんと共有していきたいと思います。 <br /><br />\t番組Webサイト：<a href=\"https://park.gsj.mobi/program/show/41144\">https://park.gsj.mobi/program/show/41144</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/266\">https://ssl2.jfn.co.jp/mailbox/index/266</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E9%88%B4%E8%8F%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3\">#鈴華ジャパン</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/suzuhana_japan\">@suzuhana_japan</a>」<br /><br /></div>",
               "pfm": "鈴華ゆう子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HI-SIX/ase2uph7ty.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -1039,7 +1079,7 @@
               }
             },
             {
-              "-id": "9532956974",
+              "-id": "9533216560",
               "-ft": "20200908215500",
               "-to": "20200908220000",
               "-ftl": "2155",
@@ -1053,8 +1093,8 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HI-SIX/vtx1de1b4c.jpg",
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 },
                 "program": {
                   "-id": "P001",
@@ -1069,7 +1109,7 @@
               }
             },
             {
-              "-id": "9532956977",
+              "-id": "9533169820",
               "-ft": "20200908220000",
               "-to": "20200908235500",
               "-ftl": "2200",
@@ -1097,7 +1137,7 @@
               }
             },
             {
-              "-id": "9532956983",
+              "-id": "9533216565",
               "-ft": "20200908235500",
               "-to": "20200909000000",
               "-ftl": "2355",
@@ -1111,6 +1151,16 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/person/1515_2397c8c0_sq.jpg\" height=\"60\" width=\"60\" alt=\"池山文\"></td>  </tr></table><br /><br />\t今の話題曲、注目曲を解説（Ｒｅｍａｒｋ）する、この番組でチェック!!<br /><br />「ゆず」の新曲『公私混同』 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/remark\">http://www.jfn.jp/remark</a><br /><br /></div>",
               "pfm": "池山文",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HI-SIX/5tfi6bdw3q.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1119,7 +1169,7 @@
               }
             },
             {
-              "-id": "9532956988",
+              "-id": "9533169826",
               "-ft": "20200909000000",
               "-to": "20200909005500",
               "-ftl": "2400",
@@ -1141,7 +1191,7 @@
               }
             },
             {
-              "-id": "9532956991",
+              "-id": "9533216570",
               "-ft": "20200909005500",
               "-to": "20200909010000",
               "-ftl": "2455",
@@ -1155,8 +1205,8 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HI-SIX/vtx1de1b4c.jpg",
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 },
                 "program": {
                   "-id": "P001",
@@ -1171,7 +1221,7 @@
               }
             },
             {
-              "-id": "9532956994",
+              "-id": "9533169830",
               "-ft": "20200909010000",
               "-to": "20200909020000",
               "-ftl": "2500",
@@ -1199,7 +1249,7 @@
               }
             },
             {
-              "-id": "9532956998",
+              "-id": "9533169833",
               "-ft": "20200909020000",
               "-to": "20200909030000",
               "-ftl": "2600",
@@ -1227,7 +1277,7 @@
               }
             },
             {
-              "-id": "9532957002",
+              "-id": "9533169837",
               "-ft": "20200909030000",
               "-to": "20200909040000",
               "-ftl": "2700",
@@ -1255,7 +1305,7 @@
               }
             },
             {
-              "-id": "9532957005",
+              "-id": "9533169840",
               "-ft": "20200909040000",
               "-to": "20200909050000",
               "-ftl": "2800",
