@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1600885564",
+    "srvtime": "1601058242",
     "stations": {
       "station": {
         "-id": "BSN",
@@ -10,7 +10,7 @@
           "date": "20200927",
           "prog": [
             {
-              "-id": "9535254613",
+              "-id": "9535472132",
               "-ft": "20200927050000",
               "-to": "20200927053000",
               "-ftl": "0500",
@@ -23,6 +23,16 @@
               "desc": "　　",
               "pfm": "水森英夫（作曲家）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/BSN/2821ac47-3045-4339-a4b7-c12840f9ce76.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -607,7 +617,7 @@
               }
             },
             {
-              "-id": "9535254746",
+              "-id": "9535472236",
               "-ft": "20200927091500",
               "-to": "20200927093000",
               "-ftl": "0915",
@@ -620,6 +630,11 @@
               "desc": "　　",
               "pfm": "相田翔子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/BSN/owr37ubiqw.jpg",
+              "tag": {
+                "item": {
+                  "name": "相田翔子"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -690,7 +705,7 @@
               }
             },
             {
-              "-id": "9535254775",
+              "-id": "9535485865",
               "-ft": "20200927110000",
               "-to": "20200927123000",
               "-ftl": "1100",
@@ -702,7 +717,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "若者応援！音楽リクエストバラエティ、生放送！\n⊿＃TASKRADIC",
-              "pfm": "パーソナリティ：麦島侑",
+              "pfm": "パーソナリティ：麦島侑、DECORADICゲスト：PULPS 田井",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/BSN/b8428aa2-8441-47fe-aaf0-dba26ff0db14.jpeg",
               "tag": {
                 "item": [
@@ -1279,7 +1294,7 @@
               }
             },
             {
-              "-id": "9535255011",
+              "-id": "9535472467",
               "-ft": "20200928000000",
               "-to": "20200928003000",
               "-ftl": "2400",
@@ -1292,6 +1307,11 @@
               "desc": "深夜ラジオ番組ならではのラジオっぽい番組を目指します！\n⊿番組公式メールアドレス tatsuya@abc1008.com\n⊿番組公式Twitter @tatsuradio1008",
               "pfm": "藤原竜也",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/BSN/927b1481-0bb3-47aa-ab77-4538aa2abe4d.jpeg",
+              "tag": {
+                "item": {
+                  "name": "藤原竜也"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1300,7 +1320,7 @@
               }
             },
             {
-              "-id": "9535255020",
+              "-id": "9535472477",
               "-ft": "20200928003000",
               "-to": "20200928005900",
               "-ftl": "2430",
@@ -1313,6 +1333,26 @@
               "desc": "　　",
               "pfm": "松原健之・Bitter&Sweet",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/BSN/2821ac47-3045-4339-a4b7-c12840f9ce76.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "松原健之"
+                  },
+                  {
+                    "name": "ビター&スイート"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
