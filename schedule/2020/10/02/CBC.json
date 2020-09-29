@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1601144700",
+    "srvtime": "1601403849",
     "stations": {
       "station": {
         "-id": "CBC",
@@ -10,18 +10,25 @@
           "date": "20201002",
           "prog": [
             {
-              "-id": "9535513043",
+              "-id": "9536092513",
               "-ft": "20201002050000",
               "-to": "20201002051000",
               "-ftl": "0500",
               "-tol": "0510",
               "-dur": "600",
-              "title": "朝colorレポドラ",
+              "title": "文化・楽楽～ＣＢＣクラブ人と技～",
+              "url": "https://hicbc.com/whatscbc/cbcclub/lecture/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "レポートドライバー",
+              "info": "ＣＢＣクラブの会員をゲストに迎え\"文化\"をキーワードにお話を伺います。\n",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/eaa20984-6000-454a-9004-053e28ae3f9c.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -30,13 +37,13 @@
               }
             },
             {
-              "-id": "9535421221",
+              "-id": "9536092514",
               "-ft": "20201002051000",
-              "-to": "20201002052500",
+              "-to": "20201002053000",
               "-ftl": "0510",
-              "-tol": "0525",
-              "-dur": "900",
-              "title": "健やかインフォメーション",
+              "-tol": "0530",
+              "-dur": "1200",
+              "title": "【新番組】健やかインフォメーション",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -49,7 +56,7 @@
               }
             },
             {
-              "-id": "9535513139",
+              "-id": "9536092515",
               "-ft": "20201002052500",
               "-to": "20201002053000",
               "-ftl": "0525",
@@ -62,12 +69,6 @@
               "ts_out_ng": "0",
               "desc": "CBCが選ぶ、おトクな商品をご紹介します。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/ab1c097c-1cae-4518-bfa1-18baa2d30769.png",
-              "genre": {
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -76,7 +77,7 @@
               }
             },
             {
-              "-id": "9535614017",
+              "-id": "9536092516",
               "-ft": "20201002053000",
               "-to": "20201002063000",
               "-ftl": "0530",
@@ -99,7 +100,7 @@
               }
             },
             {
-              "-id": "9535513328",
+              "-id": "9536092520",
               "-ft": "20201002063000",
               "-to": "20201002070000",
               "-ftl": "0630",
@@ -118,10 +119,6 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
                 }
               },
               "metas": {
@@ -132,7 +129,7 @@
               }
             },
             {
-              "-id": "9535513470",
+              "-id": "9536092524",
               "-ft": "20201002070000",
               "-to": "20201002090000",
               "-ftl": "0700",
@@ -151,10 +148,6 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
                 }
               },
               "metas": {
@@ -165,7 +158,7 @@
               }
             },
             {
-              "-id": "9535513845",
+              "-id": "9536092526",
               "-ft": "20201002090000",
               "-to": "20201002115500",
               "-ftl": "0900",
@@ -184,10 +177,6 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -198,7 +187,7 @@
               }
             },
             {
-              "-id": "9535466602",
+              "-id": "9536092529",
               "-ft": "20201002115500",
               "-to": "20201002120000",
               "-ftl": "1155",
@@ -214,10 +203,6 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -228,7 +213,7 @@
               }
             },
             {
-              "-id": "9535514278",
+              "-id": "9536092531",
               "-ft": "20201002120000",
               "-to": "20201002122000",
               "-ftl": "1200",
@@ -249,7 +234,7 @@
               }
             },
             {
-              "-id": "9535514337",
+              "-id": "9536092532",
               "-ft": "20201002122000",
               "-to": "20201002123000",
               "-ftl": "1220",
@@ -269,7 +254,7 @@
               }
             },
             {
-              "-id": "9535514372",
+              "-id": "9536092533",
               "-ft": "20201002123000",
               "-to": "20201002130000",
               "-ftl": "1230",
@@ -284,6 +269,16 @@
               "info": "より健やかに生きていくために必要な「健康」「医療」に関する「正しい知識や情報」をわかりやすくお伝えします。\n\n<br /><br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=394'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
               "pfm": "渡辺美香",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/12fa1943-73b1-40f7-9f81-ad3affd807d6.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P010",
+                  "name": "医療"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -292,7 +287,7 @@
               }
             },
             {
-              "-id": "9535514500",
+              "-id": "9536092534",
               "-ft": "20201002130000",
               "-to": "20201002160000",
               "-ftl": "1300",
@@ -311,6 +306,34 @@
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9536092538",
+              "-ft": "20201002160000",
+              "-to": "20201002175300",
+              "-ftl": "1600",
+              "-tol": "1753",
+              "-dur": "6780",
+              "title": "ドラ魂キング",
+              "url": "https://hicbc.com/radio/dradama-king/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "『超ド級、スポーツエンタ』をコンセプトにしたスポーツ・情報番組。\n<br />月曜は、ドラファンで音楽に精通した大谷ノブ彦が担当し、火曜～金曜は、個性豊かな４人のスポーツアナウンサーが、現場至上主義のスポーツ最新情報を取材秘話までお送りします。\n<br />ドラゴンズ応援番組ナンバーワンを目指します。\n\n\n<br /><br />番組ツイッターは<a href=\"https://twitter.com/DragonsCBC\"><u>こちら</u></a>\n<br />番組記事を読む→<a href='https://radichubu.jp/dradama-king/'><u>こちら</u></a>\n<br />番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=439'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
+              "pfm": "若狭敬一　加藤里奈",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/aff267cb-25dd-4669-806c-6007c6c2dbb5.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
                   "-id": "P006",
@@ -325,29 +348,7 @@
               }
             },
             {
-              "-id": "9535514875",
-              "-ft": "20201002160000",
-              "-to": "20201002175300",
-              "-ftl": "1600",
-              "-tol": "1753",
-              "-dur": "6780",
-              "title": "ドラ魂キング",
-              "url": "https://hicbc.com/radio/dradama-king/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "『超ド級、スポーツエンタ』をコンセプトにしたスポーツ・情報番組。\n<br />月曜は、ドラファンで音楽に精通した大谷ノブ彦が担当し、火曜～金曜は、個性豊かな４人のスポーツアナウンサーが、現場至上主義のスポーツ最新情報を取材秘話までお送りします。\n<br />ドラゴンズ応援番組ナンバーワンを目指します。\n\n\n<br /><br />番組ツイッターは<a href=\"https://twitter.com/DragonsCBC\"><u>こちら</u></a>\n<br />番組記事を読む→<a href='https://radichubu.jp/dradama-king/'><u>こちら</u></a>\n<br />番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=439'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
-              "pfm": "若狭敬一　加藤里奈",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/aff267cb-25dd-4669-806c-6007c6c2dbb5.png",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9535515192",
+              "-id": "9536092539",
               "-ft": "20201002175300",
               "-to": "20201002175700",
               "-ftl": "1753",
@@ -357,15 +358,11 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/ee9888c3-73ae-4a72-8bb3-adaf70f50137.png",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/eaa20984-6000-454a-9004-053e28ae3f9c.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
-                },
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
                 }
               },
               "metas": {
@@ -376,18 +373,41 @@
               }
             },
             {
-              "-id": "9535515221",
+              "-id": "9536092541",
               "-ft": "20201002175700",
-              "-to": "20201002210000",
+              "-to": "20201002200000",
               "-ftl": "1757",
-              "-tol": "2100",
-              "-dur": "10980",
-              "title": "CBCドラゴンズナイター",
+              "-tol": "2000",
+              "-dur": "7380",
+              "title": "CBCドラゴンズナイター　DeNA×中日（横浜）",
               "url": "https://hicbc.com/radio/musicstrike/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "今年もクリアで迫力あるＦＭの音声で、臨場感のある野球実況を試合終了までお楽しみ頂きます。\n\n<br /><br />※試合終了まで中継するため、以降の番組は時間変更の場合がございます。\n\n<br /><br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=388'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n",
+              "info": "今年もクリアで迫力あるFMの音声で、臨場感のある野球実況をお楽しみ頂きます。\n\n<br /><br /><b>DeNA×中日（横浜）</b>\n<br />解説者：牛島和彦\n<br />実況者：小笠原亘\n\n<br /><br />※試合終了まで中継するため、以降の番組は時間変更の場合がございます。\n<br />※雨天中止の場合、他球場の試合を放送いたします。\n\n<br /><br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=388'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n",
+              "pfm": "解説者：牛島和彦／実況者：小笠原亘",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/ee9888c3-73ae-4a72-8bb3-adaf70f50137.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9536092544",
+              "-ft": "20201002200000",
+              "-to": "20201002210000",
+              "-ftl": "2000",
+              "-tol": "2100",
+              "-dur": "3600",
+              "title": "CBCドラゴンズナイター　DeNA×中日（横浜）",
+              "url": "https://hicbc.com/radio/musicstrike/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "今年もクリアで迫力あるFMの音声で、臨場感のある野球実況をお楽しみ頂きます。\n\n<br /><br /><b>DeNA×中日（横浜）</b>\n<br />解説者：牛島和彦\n<br />実況者：小笠原亘\n\n<br /><br />※試合終了まで中継するため、以降の番組は時間変更の場合がございます。\n<br />※雨天中止の場合、他球場の試合を放送いたします。\n\n<br /><br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=388'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n",
+              "pfm": "解説者：牛島和彦／実況者：小笠原亘",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/ee9888c3-73ae-4a72-8bb3-adaf70f50137.png",
               "genre": {
                 "program": {
@@ -403,7 +423,7 @@
               }
             },
             {
-              "-id": "9535515674",
+              "-id": "9536092546",
               "-ft": "20201002210000",
               "-to": "20201002214500",
               "-ftl": "2100",
@@ -422,10 +442,6 @@
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
-                },
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
                 }
               },
               "metas": {
@@ -436,7 +452,7 @@
               }
             },
             {
-              "-id": "9535515767",
+              "-id": "9536092549",
               "-ft": "20201002214500",
               "-to": "20201002220000",
               "-ftl": "2145",
@@ -458,7 +474,7 @@
               }
             },
             {
-              "-id": "9535515864",
+              "-id": "9536092552",
               "-ft": "20201002220000",
               "-to": "20201003003000",
               "-ftl": "2200",
@@ -470,8 +486,18 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "STELLAθ（ステラシータ）が、金曜深夜にお送りする2時間30分の生放送。<br />\n毎月第2金曜日はBMKが担当！<br />\nイケメンの「ワチャワチャしたおしゃべり」が楽しめるほか、旬な音楽あり！笑いもあり！となんでもありのバラエティー番組です。\n\n\n<br/><br />番組ツイッターは<a href=\"https://twitter.com/mix_youth_radio\"><u>こちら</u></a>\n<br/>番組記事を読む→<a href='https://radichubu.jp/mixyouthradio'><u>こちら</u></a>\n<br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=522'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
-              "pfm": "STELLAθ",
+              "pfm": "STELLAθ（ステラシータ）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/523f99b5-7298-43d4-b3e7-ef1e8f8da3c1.png",
+              "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -480,7 +506,7 @@
               }
             },
             {
-              "-id": "9535621155",
+              "-id": "9536092554",
               "-ft": "20201003003000",
               "-to": "20201003010000",
               "-ftl": "2430",
@@ -495,6 +521,16 @@
               "info": "番組へのおたよりは <a href='https://cipher.asahi.co.jp/r_tatsuyafujiwara/'><u>こちら</u></a>まで\n<br/>",
               "pfm": "藤原竜也",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/c28a99ec-41b8-44cd-96cd-10112df8af67.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C002",
+                  "name": "俳優"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -503,7 +539,7 @@
               }
             },
             {
-              "-id": "9535622233",
+              "-id": "9536092555",
               "-ft": "20201003010000",
               "-to": "20201003030000",
               "-ftl": "2500",
@@ -525,7 +561,7 @@
               }
             },
             {
-              "-id": "9535614132",
+              "-id": "9536092556",
               "-ft": "20201003030000",
               "-to": "20201003050000",
               "-ftl": "2700",
