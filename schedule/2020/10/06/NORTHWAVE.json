@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1601576667",
+    "srvtime": "1601663067",
     "stations": {
       "station": {
         "-id": "NORTHWAVE",
@@ -10,7 +10,7 @@
           "date": "20201006",
           "prog": [
             {
-              "-id": "9536136795",
+              "-id": "9536488819",
               "-ft": "20201006050000",
               "-to": "20201006060000",
               "-ftl": "0500",
@@ -36,7 +36,7 @@
               }
             },
             {
-              "-id": "9536136806",
+              "-id": "9536488858",
               "-ft": "20201006060000",
               "-to": "20201006090000",
               "-ftl": "0600",
@@ -85,7 +85,7 @@
               }
             },
             {
-              "-id": "9536136838",
+              "-id": "9536488954",
               "-ft": "20201006090000",
               "-to": "20201006120000",
               "-ftl": "0900",
@@ -137,7 +137,7 @@
               }
             },
             {
-              "-id": "9536136859",
+              "-id": "9536489036",
               "-ft": "20201006120000",
               "-to": "20201006150000",
               "-ftl": "1200",
@@ -189,7 +189,7 @@
               }
             },
             {
-              "-id": "9536136860",
+              "-id": "9536489037",
               "-ft": "20201006150000",
               "-to": "20201006153000",
               "-ftl": "1500",
@@ -241,7 +241,7 @@
               }
             },
             {
-              "-id": "9536136889",
+              "-id": "9536576605",
               "-ft": "20201006153000",
               "-to": "20201006160000",
               "-ftl": "1530",
@@ -252,18 +252,34 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%8D%E3%81%9F%E3%82%89%E3%81%98\">#きたらじ</a>」「#ノースウェーブ」",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%8D%E3%81%9F%E3%82%89%E3%81%98\">#きたらじ</a>」「#ノースウェーブ」<br />twitterアカウントは「<a href=\"http://twitter.com/northwave825\">@northwave825</a>」",
               "pfm": "ヒロユキ／ばんび",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/NORTHWAVE/lzqox5wfmf.png",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#きたらじ"
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
                 }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#きたらじ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:northwave825"
+                  }
+                ]
               }
             },
             {
-              "-id": "9536136894",
+              "-id": "9536489129",
               "-ft": "20201006160000",
               "-to": "20201006190000",
               "-ftl": "1600",
@@ -315,7 +331,7 @@
               }
             },
             {
-              "-id": "9536312167",
+              "-id": "9536498369",
               "-ft": "20201006190000",
               "-to": "20201006210000",
               "-ftl": "1900",
@@ -364,7 +380,7 @@
               }
             },
             {
-              "-id": "9536136935",
+              "-id": "9536498464",
               "-ft": "20201006210000",
               "-to": "20201006220000",
               "-ftl": "2100",
@@ -413,7 +429,7 @@
               }
             },
             {
-              "-id": "9536136945",
+              "-id": "9536498538",
               "-ft": "20201006220000",
               "-to": "20201006230000",
               "-ftl": "2200",
@@ -462,7 +478,7 @@
               }
             },
             {
-              "-id": "9536136952",
+              "-id": "9536576741",
               "-ft": "20201006230000",
               "-to": "20201007000000",
               "-ftl": "2300",
@@ -477,6 +493,16 @@
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96\">#ノースウェーブ</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/NORTH_NAVI\">@NORTH_NAVI</a>」",
               "pfm": "ヤマタ／DJ KEIZI",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/NORTHWAVE/4xr7gqkw6h.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -491,7 +517,7 @@
               }
             },
             {
-              "-id": "9536166162",
+              "-id": "9536498639",
               "-ft": "20201007000000",
               "-to": "20201007010000",
               "-ftl": "2400",
@@ -503,8 +529,14 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "毎週火曜日24:00からの１時間は、WESSのライブ情報番組「Radio WE!」。これから、北海道内でライブを行うアーティストの曲やコメントをON AIR！ 番組で曲をON AIRしたアーティストのライブ情報は、FM NORTH WAVEのホームページにある「Radio WE!」の番組ページまたは、WESSのホームページで確認することができます！火曜日の夜は、この番組で今後行われるライブ情報をチェックしよう！<br /><br />WESS HP→ <a href=\"http://wess.jp/\" target=\"_blank\">http://wess.jp/</a>",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IMPACT\">#IMPACT</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/WESSIMPACT\">@WESSIMPACT</a>」",
+              "info": "【10/6(火)放送分 ライブ情報】<br /><br />☆マカロニえんぴつ☆  <a href=\"http://macaroniempitsu.com/\" target=\"_blank\">http://macaroniempitsu.com/</a><br />☆SAKANAMON☆  <a href=\"http://sakanamon.com/\" target=\"_blank\">http://sakanamon.com/</a><br />☆ヤユヨ☆    <a href=\"https://yayuyo-dayo.amebaownd.com/\" target=\"_blank\">https://yayuyo-dayo.amebaownd.com/</a><br />10/24(土)「IMPACT! XVI × TALTOナイト」<br />会場：Zepp Sapporo   OPEN 17:30  START 18:30<br />出演：SAKANAMON / マカロニえんぴつ / ヤユヨ<br /><br />☆→Pia-no-jaC←☆  <a href=\"http://pia-no-jac.net/index.html\" target=\"_blank\">http://pia-no-jac.net/index.html</a><br />10/17(土) Zepp Sapporo    OPEN 16:30   START 17:00<br /><br />☆フレデリック☆  <a href=\"https://frederic-official.com/\" target=\"_blank\">https://frederic-official.com/</a><br />10/10(土)  Zepp Sapporo    OPEN 17:00   START 18:00<br /><br />☆ドミコ☆  <a href=\"https://www.domico-music.com/\" target=\"_blank\">https://www.domico-music.com/</a><br />10/18(日)  BESSIE HALL    OPEN 17:30   START 18:00<br />10/18(日)  BESSIE HALL    OPEN 20:30   START 21:00<br /><br />☆UNISON SQUARE GARDEN☆  <a href=\"https://unison-s-g.com/\" target=\"_blank\">https://unison-s-g.com/</a><br />10/18(日)  札幌文化芸術劇場 hitaru   OPEN 15:45   START 16:45<br />10/18(日)  札幌文化芸術劇場 hitaru   OPEN 18:30   START 19:30<br /><br />☆サイダーガール☆  <a href=\"https://cidergirl.jp/\" target=\"_blank\">https://cidergirl.jp/</a><br />10/16(金)  公演中止<br /><br />☆キタニタツヤ☆   <a href=\"https://tatsuyakitani.com/\" target=\"_blank\">https://tatsuyakitani.com/</a><br />10/10(土)  公演中止<br /><br />☆林 萌々子☆  <a href=\"http://www.humpbackofficial.com/\" target=\"_blank\">http://www.humpbackofficial.com/</a><br />10/8(木)  ペニーレーン24    OPEN 18:00   START 19:00<br /><br />☆おいしくるメロンパン☆  <a href=\"http://oisiclemelonpan.com/\" target=\"_blank\">http://oisiclemelonpan.com/</a><br />2021/3/28(日) Sound Lab mole    OPEN 17:30   START 18:00<br /><br />☆ハンブレッダーズ☆   <a href=\"http://humbreaders.com/\" target=\"_blank\">http://humbreaders.com/</a><br />10/24(土)  cube garden    OPEN 15:30   START 16:00<br />10/24(土)  cube garden    OPEN 18:00   START 18:30<br /><br />☆TETORA☆   <a href=\"http://www.tetoraosaka.com/\" target=\"_blank\">http://www.tetoraosaka.com/</a><br />11/14(土)  cube garden      OPEN 18:15   START 19:00<br />11/15(日)  SOUND CRUE    OPEN 17:15   START 18:00<br /><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IMPACT\">#IMPACT</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/WESSIMPACT\">@WESSIMPACT</a>」",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/NORTHWAVE/llfk4or9kv.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -519,7 +551,7 @@
               }
             },
             {
-              "-id": "9536156104",
+              "-id": "9536498696",
               "-ft": "20201007010000",
               "-to": "20201007040000",
               "-ftl": "2500",
@@ -546,7 +578,7 @@
               }
             },
             {
-              "-id": "9536156105",
+              "-id": "9536498697",
               "-ft": "20201007040000",
               "-to": "20201007050000",
               "-ftl": "2800",
