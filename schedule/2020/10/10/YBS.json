@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1601922283",
+    "srvtime": "1602008651",
     "stations": {
       "station": {
         "-id": "YBS",
@@ -10,7 +10,7 @@
           "date": "20201010",
           "prog": [
             {
-              "-id": "9536622874",
+              "-id": "9537125926",
               "-ft": "20201010050000",
               "-to": "20201010052400",
               "-ftl": "0500",
@@ -23,6 +23,16 @@
               "desc": "旬のアーティストを迎えて送る音楽＆トーク番組です",
               "pfm": "松本英子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YBS/45r3ma8ixp.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -51,7 +61,7 @@
               }
             },
             {
-              "-id": "9536640176",
+              "-id": "9537136762",
               "-ft": "20201010052500",
               "-to": "20201010053000",
               "-ftl": "0525",
@@ -63,6 +73,16 @@
               "ts_out_ng": "0",
               "desc": "　　　　",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YBS/m5n50qpwsq.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
+                "program": {
+                  "-id": "P016",
+                  "name": "宗教"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1207,7 +1227,7 @@
               }
             },
             {
-              "-id": "9536976676",
+              "-id": "9537054268",
               "-ft": "20201010220000",
               "-to": "20201010230000",
               "-ftl": "2200",

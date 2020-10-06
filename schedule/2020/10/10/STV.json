@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1601922279",
+    "srvtime": "1602008646",
     "stations": {
       "station": {
         "-id": "STV",
@@ -10,7 +10,7 @@
           "date": "20201010",
           "prog": [
             {
-              "-id": "9536640163",
+              "-id": "9537107655",
               "-ft": "20201010050000",
               "-to": "20201010050500",
               "-ftl": "0500",
@@ -22,6 +22,12 @@
               "ts_out_ng": "0",
               "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/lia1vnrzqp.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P016",
+                  "name": "宗教"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -330,7 +336,7 @@
               }
             },
             {
-              "-id": "9536650386",
+              "-id": "9537107776",
               "-ft": "20201010135500",
               "-to": "20201010150000",
               "-ftl": "1355",
@@ -345,6 +351,16 @@
               "info": "メール：live@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "解説：白井一幸　実況：佐藤宏樹",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/37eb0eb3-5bfd-4012-8515-d1d5c8d48b74.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -353,7 +369,7 @@
               }
             },
             {
-              "-id": "9536650421",
+              "-id": "9537107787",
               "-ft": "20201010150000",
               "-to": "20201010170000",
               "-ftl": "1500",
@@ -368,6 +384,16 @@
               "info": "メール：live@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "解説：白井一幸　実況：佐藤宏樹",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/37eb0eb3-5bfd-4012-8515-d1d5c8d48b74.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -769,7 +795,7 @@
               }
             },
             {
-              "-id": "9537012380",
+              "-id": "9537054394",
               "-ft": "20201011030000",
               "-to": "20201011050000",
               "-ftl": "2700",

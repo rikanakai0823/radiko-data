@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1601922278",
+    "srvtime": "1602008645",
     "stations": {
       "station": {
         "-id": "KBS",
@@ -117,7 +117,7 @@
               }
             },
             {
-              "-id": "9536954283",
+              "-id": "9537111366",
               "-ft": "20201010060000",
               "-to": "20201010060500",
               "-ftl": "0600",
@@ -129,10 +129,19 @@
               "ts_out_ng": "0",
               "pfm": "[出]海平和",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/54z57flp7k.jpg",
+              "tag": {
+                "item": {
+                  "name": "海平和"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -287,7 +296,7 @@
               }
             },
             {
-              "-id": "9536954307",
+              "-id": "9537053680",
               "-ft": "20201010080000",
               "-to": "20201010083000",
               "-ftl": "0800",
@@ -301,6 +310,17 @@
               "desc": "悩み相談・人生指南の達人として迷える人々と向き合ってきた僧侶・川村妙慶が、“心の栄養”をキーワードに、さまざまなお話・エピソードを通して、また、時にはゲストも交えて贈るラジオ番組です。<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/egao/\">★番組サイト</a><br /><a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/egao.htm\">★番組へのメッセージ</a>",
               "pfm": "[出]川村妙慶",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/u3rufav09d.jpg",
+              "tag": {
+                "item": {
+                  "name": "川村妙慶"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -309,7 +329,7 @@
               }
             },
             {
-              "-id": "9536954314",
+              "-id": "9537111388",
               "-ft": "20201010083000",
               "-to": "20201010115500",
               "-ftl": "0830",
@@ -323,6 +343,25 @@
               "desc": "お休みの人にはくつろぎのひとときを、お仕事中の人にはちょっと息抜きのひとときを。爽やかな音楽とリラックス気分のトークで、土曜の朝を彩るラジオ。<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/tabi/\">★番組サイト</a><br /><a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/tabi.htm\">★番組へのメッセージ</a>",
               "pfm": "[出]羽川英樹、西上真帆、尾道ケイ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/1juxaar06n.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "尾道ケイ"
+                  },
+                  {
+                    "name": "羽川英樹"
+                  },
+                  {
+                    "name": "西上真帆"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -378,7 +417,7 @@
               }
             },
             {
-              "-id": "9537037535",
+              "-id": "9537204229",
               "-ft": "20201010140000",
               "-to": "20201010160000",
               "-ftl": "1400",
@@ -521,7 +560,7 @@
               }
             },
             {
-              "-id": "9536954396",
+              "-id": "9537054113",
               "-ft": "20201010180000",
               "-to": "20201010210000",
               "-ftl": "1800",
@@ -535,10 +574,39 @@
               "desc": "ナイターオフの京都で話題沸騰のサタミが、21回目のシーズンを爽快に走り抜けます。森脇健児を中心に、個性派の面々が番組に大集合。ともに笑い、ともに悩み、ともに汗して、ともに感動する…。サタミならではの勇往邁進、抱腹絶倒の展開が、リスナーを待ち受けています。さてこの秋冬は、どんなドラマが繰り広げられるのでしょうか。<br /><br />メール:<a href=\"mailto:moriwaki@kbs.kyoto\">moriwaki@kbs.kyoto</a>",
               "pfm": "[出]森脇健児、渡辺裕薫",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/chswpbp3fa.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "渡辺裕薫"
+                  },
+                  {
+                    "name": "森脇健児"
+                  },
+                  {
+                    "name": "大野実"
+                  },
+                  {
+                    "name": "外野"
+                  },
+                  {
+                    "name": "松竹"
+                  },
+                  {
+                    "name": "恋愛教習所"
+                  },
+                  {
+                    "name": "姫"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -549,7 +617,7 @@
               }
             },
             {
-              "-id": "9536954420",
+              "-id": "9537112065",
               "-ft": "20201010210000",
               "-to": "20201010212000",
               "-ftl": "2100",
@@ -561,10 +629,19 @@
               "ts_out_ng": "0",
               "pfm": "[出]熊木杏里",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/4hi42faesm.jpg",
+              "tag": {
+                "item": {
+                  "name": "熊木杏里"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -613,7 +690,7 @@
               }
             },
             {
-              "-id": "9536954430",
+              "-id": "9537054255",
               "-ft": "20201010220000",
               "-to": "20201010230000",
               "-ftl": "2200",
@@ -627,10 +704,27 @@
               "desc": "地元京都をこよなく愛するチュートリアル。そんな彼らが「自分たちの出発点」と語るラジオ・プログラム。全国区メディアでは見られない、見せられない、絶対聴けない、素顔が垣間見える。<br />KBS京都をキーステーションに現在全国17局ネット。<br /><br />メール:<a href=\"mailto:real@kbs.kyoto\">real@kbs.kyoto</a>",
               "pfm": "[出]チュートリアル(徳井義実、福田充徳)",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/fcqdykqkii.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "チュートリアル"
+                  },
+                  {
+                    "name": "徳井義実"
+                  },
+                  {
+                    "name": "福田充徳"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -641,7 +735,7 @@
               }
             },
             {
-              "-id": "9536954435",
+              "-id": "9537054280",
               "-ft": "20201010230000",
               "-to": "20201010233000",
               "-ftl": "2300",
@@ -653,6 +747,17 @@
               "ts_out_ng": "0",
               "pfm": "[出]梶浦梶子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/eroyifxp1g.jpg",
+              "tag": {
+                "item": {
+                  "name": "梶浦梶子"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -681,7 +786,7 @@
               }
             },
             {
-              "-id": "9536954452",
+              "-id": "9537054353",
               "-ft": "20201011010000",
               "-to": "20201011030000",
               "-ftl": "2500",
