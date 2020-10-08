@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1602095053",
+    "srvtime": "1602181424",
     "stations": {
       "station": {
         "-id": "FMF",
@@ -10,7 +10,7 @@
           "date": "20201007",
           "prog": [
             {
-              "-id": "9537306526",
+              "-id": "9537493511",
               "-ft": "20201007050000",
               "-to": "20201007053000",
               "-ftl": "0500",
@@ -32,7 +32,7 @@
               }
             },
             {
-              "-id": "9537306538",
+              "-id": "9537493526",
               "-ft": "20201007053000",
               "-to": "20201007060000",
               "-ftl": "0530",
@@ -54,7 +54,7 @@
               }
             },
             {
-              "-id": "9537306545",
+              "-id": "9537493532",
               "-ft": "20201007060000",
               "-to": "20201007073000",
               "-ftl": "0600",
@@ -82,7 +82,7 @@
               }
             },
             {
-              "-id": "9537306573",
+              "-id": "9537554236",
               "-ft": "20201007073000",
               "-to": "20201007075000",
               "-ftl": "0730",
@@ -96,6 +96,29 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/TV/person/8569_75631813_sq.png\" height=\"60\" width=\"60\" alt=\"北村茉倫（ふくしまFMアナウンサー）\"></td>  </tr></table><br /><br />\t朝のお目覚めは”ふくしまFM”。朝だから知りたいニュースや天気、交通情報と、今日の豆知識・地元の話題を、爽やかにあなたへ届けます。前半は“情報をコンパクトに聴きやすく”、後半は“音楽・アーティスト情報”などを交えて、朝のひと時を演出します。リクエストにも応えます！お出かけソングをラジオで聴いて、一日元気にお過ごしください。 <br /><br />\t番組Webサイト：<a href=\"https://www.fmf.co.jp/radio/morningfreeway/\">https://www.fmf.co.jp/radio/morningfreeway/</a><br />\tメールアドレス：<a href=\"mailto:mf@fmf.co.jp\">mf@fmf.co.jp</a><br />\tメッセージフォーム：<a href=\"https://www.fmf.co.jp/form/2\">https://www.fmf.co.jp/form/2</a><br />\tFAX：024-991-9800<br /> <br /> twitterアカウントは「<a href=\"http://twitter.com/MFF0249919000\">@MFF0249919000</a>」<br /><br /></div>",
               "pfm": "北村茉倫（ふくしまFMアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/l4k3aqkgnk.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "モーフリ"
+                  },
+                  {
+                    "name": "ふくしまFM"
+                  },
+                  {
+                    "name": "北村茉倫"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -104,7 +127,7 @@
               }
             },
             {
-              "-id": "9537306577",
+              "-id": "9537554237",
               "-ft": "20201007075000",
               "-to": "20201007080000",
               "-ftl": "0750",
@@ -118,6 +141,29 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/TV/person/3271_81d6395c_sq.png\" height=\"60\" width=\"60\" alt=\"小松田あこ\"></td>  </tr></table><br /><br />\tここから始まる１日が、明るく、楽しくなる、トピックスをお届けします！▼月曜日：アコセレ月替わりのテーマで、パーソナリティの小松田あこが気になる福島県内のモノ・コトを深掘りします。▼火曜日 / 水曜日 / 木曜日：福島人福島県内で活躍をしている“福島人“を、毎週お一人お招きしてお話しを伺います！▼金曜日：ヒストリー ドライブ毎週ある年をピックアップし、その年に時空のドライブへと出かけます！素敵な1日を“ここから”始めましょう！ <br /><br />\t番組Webサイト：<a href=\"https://www.fmf.co.jp/radio/morningfreeway/toyota_morning/\">https://www.fmf.co.jp/radio/morningfreeway/toyota_morning/</a><br />\tFAX：024-991-9800<br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%93%E3%81%93%E3%83%A2%E3%83%8B\">#ここモニ</a>」<br /><br /></div>",
               "pfm": "小松田あこ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/kh4f8y6plq.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ふくしまFM"
+                  },
+                  {
+                    "name": "ここモニ"
+                  },
+                  {
+                    "name": "小松田あこ"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -126,7 +172,7 @@
               }
             },
             {
-              "-id": "9537306585",
+              "-id": "9537554241",
               "-ft": "20201007080000",
               "-to": "20201007100000",
               "-ftl": "0800",
@@ -140,6 +186,29 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/TV/person/8569_75631813_sq.png\" height=\"60\" width=\"60\" alt=\"北村茉倫（ふくしまFMアナウンサー）\"></td>  </tr></table><br /><br />\t朝のお目覚めは”ふくしまFM”。朝だから知りたいニュースや天気、交通情報と、今日の豆知識・地元の話題を、爽やかにあなたへ届けます。前半は“情報をコンパクトに聴きやすく”、後半は“音楽・アーティスト情報”などを交えて、朝のひと時を演出します。リクエストにも応えます！お出かけソングをラジオで聴いて、一日元気にお過ごしください。 <br /><br />\t番組Webサイト：<a href=\"https://www.fmf.co.jp/radio/morningfreeway/\">https://www.fmf.co.jp/radio/morningfreeway/</a><br />\tメールアドレス：<a href=\"mailto:mf@fmf.co.jp\">mf@fmf.co.jp</a><br />\tメッセージフォーム：<a href=\"https://www.fmf.co.jp/form/2\">https://www.fmf.co.jp/form/2</a><br />\tFAX：024-991-9800<br /> <br /> twitterアカウントは「<a href=\"http://twitter.com/MFF0249919000\">@MFF0249919000</a>」<br /><br /></div>",
               "pfm": "北村茉倫（ふくしまFMアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/l4k3aqkgnk.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "モーフリ"
+                  },
+                  {
+                    "name": "ふくしまFM"
+                  },
+                  {
+                    "name": "北村茉倫"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -148,7 +217,7 @@
               }
             },
             {
-              "-id": "9537306611",
+              "-id": "9537493597",
               "-ft": "20201007100000",
               "-to": "20201007110000",
               "-ftl": "1000",
@@ -176,7 +245,7 @@
               }
             },
             {
-              "-id": "9537306621",
+              "-id": "9537493610",
               "-ft": "20201007110000",
               "-to": "20201007113000",
               "-ftl": "1100",
@@ -198,7 +267,7 @@
               }
             },
             {
-              "-id": "9537306629",
+              "-id": "9537554268",
               "-ft": "20201007113000",
               "-to": "20201007114500",
               "-ftl": "1130",
@@ -210,6 +279,12 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/gel8nps1dl.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -218,7 +293,7 @@
               }
             },
             {
-              "-id": "9537306630",
+              "-id": "9537554274",
               "-ft": "20201007114500",
               "-to": "20201007115000",
               "-ftl": "1145",
@@ -231,6 +306,12 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://park.gsj.mobi/program/show/41142\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/TV/program/41351_81105612_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br />\t一枚の絵の前に佇む。その絵は　時にあなたの心を震わせ 時にあなたの心にそっと寄り添う…。つかの間の あなただけの音の美術館へ　ようこそ！ <br /><br />\t番組Webサイト：<a href=\"http://park.gsj.mobi/program/show/41142\">http://park.gsj.mobi/program/show/41142</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/268\">https://ssl2.jfn.co.jp/mailbox/index/268</a><br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/gel8nps1dl.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -239,7 +320,7 @@
               }
             },
             {
-              "-id": "9537306631",
+              "-id": "9537554276",
               "-ft": "20201007115000",
               "-to": "20201007115500",
               "-ftl": "1150",
@@ -251,6 +332,12 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/3if9c06cva.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -259,7 +346,7 @@
               }
             },
             {
-              "-id": "9537306635",
+              "-id": "9537554279",
               "-ft": "20201007115500",
               "-to": "20201007120000",
               "-ftl": "1155",
@@ -271,6 +358,12 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/45tgp76njr.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -279,7 +372,7 @@
               }
             },
             {
-              "-id": "9537306636",
+              "-id": "9537493638",
               "-ft": "20201007120000",
               "-to": "20201007130000",
               "-ftl": "1200",
@@ -301,7 +394,7 @@
               }
             },
             {
-              "-id": "9537306658",
+              "-id": "9537493661",
               "-ft": "20201007130000",
               "-to": "20201007133000",
               "-ftl": "1300",
@@ -323,7 +416,7 @@
               }
             },
             {
-              "-id": "9537306667",
+              "-id": "9537493672",
               "-ft": "20201007133000",
               "-to": "20201007145500",
               "-ftl": "1330",
@@ -345,7 +438,7 @@
               }
             },
             {
-              "-id": "9537306678",
+              "-id": "9537493697",
               "-ft": "20201007145500",
               "-to": "20201007150000",
               "-ftl": "1455",
@@ -367,7 +460,7 @@
               }
             },
             {
-              "-id": "9537306682",
+              "-id": "9537493703",
               "-ft": "20201007150000",
               "-to": "20201007160000",
               "-ftl": "1500",
@@ -389,7 +482,7 @@
               }
             },
             {
-              "-id": "9537306692",
+              "-id": "9537554336",
               "-ft": "20201007160000",
               "-to": "20201007172000",
               "-ftl": "1600",
@@ -403,6 +496,29 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/TV/person/304_486da8bb_sq.png\" height=\"60\" width=\"60\" alt=\"矢野真未\"></td>  </tr></table><br /><br />\tスイッチが“ON”から“OFF”へと切替わる平日夕方のひとときに、心地よい音楽とパーソナリティのトークをお届けします。夕方を快適に過ごせるような音楽と共に地域のニュース、ウェザー、交通情報などをお送りします。また、ミュージシャンからのメッセージや特別な企画も展開中！あなたからの“メッセージ＆リクエスト”お待ちしています！ <br /><br />\t番組Webサイト：<a href=\"https://www.fmf.co.jp/radio/radio_groove/\">https://www.fmf.co.jp/radio/radio_groove/</a><br />\tメールアドレス：<a href=\"mailto:rg@fmf.co.jp\">rg@fmf.co.jp</a><br />\tメッセージフォーム：<a href=\"https://www.fmf.co.jp/form/3\">https://www.fmf.co.jp/form/3</a><br />\tFAX：024-991-9800<br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%AC%E3%83%87%E3%82%A3%E3%82%B0%E3%83%AB\">#レディグル</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/fmfRADIOGROOVE\">@fmfRADIOGROOVE</a>」<br /><br /></div>",
               "pfm": "矢野真未",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/kpmkzii65w.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ふくしまFM"
+                  },
+                  {
+                    "name": "レディグル"
+                  },
+                  {
+                    "name": "矢野真未"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -417,7 +533,7 @@
               }
             },
             {
-              "-id": "9537306720",
+              "-id": "9537493760",
               "-ft": "20201007172000",
               "-to": "20201007173000",
               "-ftl": "1720",
@@ -439,7 +555,7 @@
               }
             },
             {
-              "-id": "9537306724",
+              "-id": "9537554357",
               "-ft": "20201007173000",
               "-to": "20201007190000",
               "-ftl": "1730",
@@ -453,6 +569,29 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/TV/person/304_486da8bb_sq.png\" height=\"60\" width=\"60\" alt=\"矢野真未\"></td>  </tr></table><br /><br />\tスイッチが“ON”から“OFF”へと切替わる平日夕方のひとときに、心地よい音楽とパーソナリティのトークをお届けします。夕方を快適に過ごせるような音楽と共に地域のニュース、ウェザー、交通情報などをお送りします。また、ミュージシャンからのメッセージや特別な企画も展開中！あなたからの“メッセージ＆リクエスト”お待ちしています！ <br /><br />\t番組Webサイト：<a href=\"https://www.fmf.co.jp/radio/radio_groove/\">https://www.fmf.co.jp/radio/radio_groove/</a><br />\tメールアドレス：<a href=\"mailto:rg@fmf.co.jp\">rg@fmf.co.jp</a><br />\tメッセージフォーム：<a href=\"https://www.fmf.co.jp/form/3\">https://www.fmf.co.jp/form/3</a><br />\tFAX：024-991-9800<br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%AC%E3%83%87%E3%82%A3%E3%82%B0%E3%83%AB\">#レディグル</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/fmfRADIOGROOVE\">@fmfRADIOGROOVE</a>」<br /><br /></div>",
               "pfm": "矢野真未",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/kpmkzii65w.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ふくしまFM"
+                  },
+                  {
+                    "name": "レディグル"
+                  },
+                  {
+                    "name": "矢野真未"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -467,7 +606,7 @@
               }
             },
             {
-              "-id": "9537306751",
+              "-id": "9537493794",
               "-ft": "20201007190000",
               "-to": "20201007195500",
               "-ftl": "1900",
@@ -489,7 +628,7 @@
               }
             },
             {
-              "-id": "9537306761",
+              "-id": "9537554383",
               "-ft": "20201007195500",
               "-to": "20201007200000",
               "-ftl": "1955",
@@ -501,6 +640,12 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/3if9c06cva.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -509,7 +654,7 @@
               }
             },
             {
-              "-id": "9537306765",
+              "-id": "9537554387",
               "-ft": "20201007200000",
               "-to": "20201007203000",
               "-ftl": "2000",
@@ -523,6 +668,16 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/kyoko\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/program/19256_aeeceaba_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/person/3937_dec67057_sq.jpg\" height=\"60\" width=\"60\" alt=\"杏子\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/person/6432_4d59cc8b_sq.jpg\" height=\"60\" width=\"60\" alt=\"松室政哉\"></td>  </tr></table><br /><br />\tゲストはシンガーソングライターの山崎まさよしさん。<br />リスナーの質問から始まった大調査！<br />オフィスオーガスタ所属アーティストで、泳ぎが得意な人は誰なのか。<br />題して「泳げるオーガスタと泳げないオーガスタ」結果発表！<br />泳げると思っていたスキマスイッチのあの人が？<br />意外にも秦 基博さんが？<br />山崎まさよしさんと一緒にオーガスタファミリーならではの話をたっぷりとお届けします！ <br /><br />\t本日のゲスト：\t\t山崎まさよし（シンガーソングライター）\t<br />\t<br />\t番組Webサイト：<a href=\"http://www.jfn.jp/kyoko\">http://www.jfn.jp/kyoko</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/97\">https://ssl2.jfn.co.jp/mailbox/index/97</a><br /><br /></div>",
               "pfm": "杏子 / 松室政哉",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/vk9g7a94oy.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -531,7 +686,7 @@
               }
             },
             {
-              "-id": "9537306774",
+              "-id": "9537554393",
               "-ft": "20201007203000",
               "-to": "20201007205500",
               "-ftl": "2030",
@@ -545,6 +700,16 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://jfn.jp/maruzono\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/program/43955_b7df928a_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/person/7147_f4c5643c_sq.jpg\" height=\"60\" width=\"60\" alt=\"丸山桂里奈\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/person/5402_97f2ab6f_sq.jpg\" height=\"60\" width=\"60\" alt=\"前園真聖\"></td>  </tr></table><br /><br />\tスポーツと音楽は夫婦である。オリンピック、パラリンピック、ワールドカップ、世界陸上、どんな大会にも必ずテーマソング、応援ソングが存在し、サポーターは歌い、踊り、跳ね、そのリズムに乗って応援をする。そんな思いを持って始まった篠園音楽堂がリニューアル。元サッカー日本代表の前園真聖と、元女子サッカー日本代表で、２０１１年ワールドカップドイツ大会の優勝メンバーである丸山桂里奈のサッカーコンビが、お互いの押し曲をぶつけ合います。 <br /><br />\t番組Webサイト：<a href=\"http://jfn.jp/maruzono\">http://jfn.jp/maruzono</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/294\">https://ssl2.jfn.co.jp/mailbox/index/294</a><br /><br /></div>",
               "pfm": "丸山桂里奈 / 前園真聖",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/w0477jl1dh.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C013",
+                  "name": "アスリート"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -553,7 +718,7 @@
               }
             },
             {
-              "-id": "9537306775",
+              "-id": "9537554397",
               "-ft": "20201007205500",
               "-to": "20201007210000",
               "-ftl": "2055",
@@ -565,6 +730,12 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/3if9c06cva.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -573,7 +744,7 @@
               }
             },
             {
-              "-id": "9537306780",
+              "-id": "9537554400",
               "-ft": "20201007210000",
               "-to": "20201007213000",
               "-ftl": "2100",
@@ -586,6 +757,26 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"https://ssl2.jfn.co.jp/mailbox/index/332\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/program/48125_c88e3700_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/person/7841_3bf2533c_sq.jpg\" height=\"60\" width=\"60\" alt=\"佐藤竹善\"></td>  </tr></table><br /><br />\t世界的なギタリスト「アル・ディ・メオラ」さんと医師の「犬房 春彦」さんのオンライン対談について、佐藤竹善の音楽観を大きく変えたアーティストなど、今回も1人喋りでゆったりとお届けします。<br />「佐藤竹善おすすめ洋楽コーナー」も必聴です。お楽しみに！ <br /><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/332\">https://ssl2.jfn.co.jp/mailbox/index/332</a><br /><br /></div>",
               "pfm": "佐藤竹善",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/ufo5rddd68.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "佐藤竹善"
+                  },
+                  {
+                    "name": "JFN"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -594,7 +785,7 @@
               }
             },
             {
-              "-id": "9537306791",
+              "-id": "9537554407",
               "-ft": "20201007213000",
               "-to": "20201007215500",
               "-ftl": "2130",
@@ -607,6 +798,16 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"https://ssl2.jfn.co.jp/mailbox/index/370\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/program/51584_4a1e2859_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/person/8715_507ab451_sq.jpg\" height=\"60\" width=\"60\" alt=\"髙橋ひかる\"></td>  </tr></table><br /><br />\t所属事務所オスカープロモーションのイチオシの女優として、２０２０年後半も大きな露出を予定している髙橋ひかるの、テレビでは見せない素顔を、リスナーと一緒に共有するラジオプログラム。 <br /><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/370\">https://ssl2.jfn.co.jp/mailbox/index/370</a><br /><br /></div>",
               "pfm": "髙橋ひかる",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/iggx4mbofp.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -615,7 +816,7 @@
               }
             },
             {
-              "-id": "9537306792",
+              "-id": "9537554409",
               "-ft": "20201007215500",
               "-to": "20201007220000",
               "-ftl": "2155",
@@ -627,6 +828,12 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/45tgp76njr.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -635,7 +842,7 @@
               }
             },
             {
-              "-id": "9537306797",
+              "-id": "9537493857",
               "-ft": "20201007220000",
               "-to": "20201007235500",
               "-ftl": "2200",
@@ -663,7 +870,7 @@
               }
             },
             {
-              "-id": "9537306814",
+              "-id": "9537554422",
               "-ft": "20201007235500",
               "-to": "20201008000000",
               "-ftl": "2355",
@@ -675,6 +882,12 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/3if9c06cva.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -683,7 +896,7 @@
               }
             },
             {
-              "-id": "9537306816",
+              "-id": "9537493878",
               "-ft": "20201008000000",
               "-to": "20201008005500",
               "-ftl": "2400",
@@ -705,7 +918,7 @@
               }
             },
             {
-              "-id": "9537306826",
+              "-id": "9537554430",
               "-ft": "20201008005500",
               "-to": "20201008010000",
               "-ftl": "2455",
@@ -717,6 +930,12 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/45tgp76njr.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -725,7 +944,7 @@
               }
             },
             {
-              "-id": "9537306828",
+              "-id": "9537493892",
               "-ft": "20201008010000",
               "-to": "20201008020000",
               "-ftl": "2500",
@@ -753,7 +972,7 @@
               }
             },
             {
-              "-id": "9537306837",
+              "-id": "9537493899",
               "-ft": "20201008020000",
               "-to": "20201008040000",
               "-ftl": "2600",
@@ -781,7 +1000,7 @@
               }
             },
             {
-              "-id": "9537306853",
+              "-id": "9537493911",
               "-ft": "20201008040000",
               "-to": "20201008050000",
               "-ftl": "2800",
