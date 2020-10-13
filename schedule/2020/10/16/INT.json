@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1602527109",
+    "srvtime": "1602613482",
     "stations": {
       "station": {
         "-id": "INT",
@@ -184,7 +184,7 @@
               }
             },
             {
-              "-id": "9537641214",
+              "-id": "9538309282",
               "-ft": "20201016065600",
               "-to": "20201016070000",
               "-ftl": "0656",
@@ -198,9 +198,14 @@
               "desc": "InterFM897が開局以来続けている「P.S.A.」(Public Service Announcement)は、在日外国人に向け、生活情報や災害時の避難場所などの案内を含め、日本での生活に役立つ情報を中心に、各言語でお届けしています。<br /><br />\n都内で最初に外国人向けに放送を開始したのが品川区です。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/c960548e-7e3f-4823-bf85-4f14551cccee.jpeg",
               "tag": {
-                "item": {
-                  "name": "品川"
-                }
+                "item": [
+                  {
+                    "name": "品川"
+                  },
+                  {
+                    "name": "English"
+                  }
+                ]
               },
               "genre": {
                 "program": {
@@ -367,7 +372,7 @@
               }
             },
             {
-              "-id": "9538200067",
+              "-id": "9538340012",
               "-ft": "20201016093000",
               "-to": "20201016094500",
               "-ftl": "0930",
@@ -433,7 +438,7 @@
               }
             },
             {
-              "-id": "9537633012",
+              "-id": "9538299488",
               "-ft": "20201016110000",
               "-to": "20201016120000",
               "-ftl": "1100",
@@ -451,6 +456,12 @@
                   "name": "MUSIC MIX"
                 }
               },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -459,7 +470,7 @@
               }
             },
             {
-              "-id": "9537633078",
+              "-id": "9538299504",
               "-ft": "20201016120000",
               "-to": "20201016125100",
               "-ftl": "1200",
@@ -472,6 +483,17 @@
               "ts_out_ng": "0",
               "desc": "世界の今の音を紹介する番組「InterFM897 BRUNCH MIXTAPE」<br /><br />\n期間限定で、時代の旬と本質を音楽で表現するレコードショップ兼レーベル、ビームス レコーズがプロデュース。<br /><br />\n音楽好きのビームススタッフによる個性溢れる選曲をお届けします。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/8804d6fa-560b-4e97-a6ae-83f35e2292ab.jpeg",
+              "tag": {
+                "item": {
+                  "name": "BEAMS"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -668,7 +690,7 @@
               }
             },
             {
-              "-id": "9537642036",
+              "-id": "9538304505",
               "-ft": "20201016160000",
               "-to": "20201016170000",
               "-ftl": "1600",
@@ -679,11 +701,17 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "Dave Fromm厳選のRock Tuneと共に笑いと毒を発信する陰謀ROCKバラエティ番組 「The Dave Fromm Show」！夕方4時からの2時間に渡り、さらに一歩踏み込んだ陰謀トークがあなたを待ってます。毎週水曜日には世の中の陰謀やオカルトについて語り合うDeepなコーナーもお送りします！<br />\nAssistant DJs：ジョー横溝 / Furukawa Taro / Ali Morizumi",
+              "desc": "16:30- 嘉衛門 Presents 「The Road」!<br />\n10/16と23（金）は、ニューヨークを拠点に活動するフォトグラファー、OGATAさんをお招きして様々なお話を伺います。お楽しみに！",
               "pfm": "Dave Fromm",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/ade5523f-fe3f-47da-8eda-70b7e0c8a74b.jpeg",
               "tag": {
                 "item": [
+                  {
+                    "name": "フォトグラファー"
+                  },
+                  {
+                    "name": "OGATA"
+                  },
                   {
                     "name": "ロックンロール"
                   },
