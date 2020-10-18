@@ -1,0 +1,790 @@
+{
+  "radiko": {
+    "ttl": "1800",
+    "srvtime": "1603045532",
+    "stations": {
+      "station": {
+        "-id": "TBS",
+        "name": "TBSラジオ",
+        "progs": {
+          "date": "20201024",
+          "prog": [
+            {
+              "-id": "9538791737",
+              "-ft": "20201024050000",
+              "-to": "20201024050500",
+              "-ftl": "0500",
+              "-tol": "0505",
+              "-dur": "300",
+              "title": "ニュース・天気予報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/782f8002-5dbc-4385-b2fc-03f77dd2ec86.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538811912",
+              "-ft": "20201024050500",
+              "-to": "20201024060000",
+              "-ftl": "0505",
+              "-tol": "0600",
+              "-dur": "3300",
+              "title": "生島ヒロシのサタデー・一直線",
+              "url": "http://www.tbsradio.jp/sat-1/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "メール：<a href=\"mailto:sat-1@tbs.co.jp\">sat-1@tbs.co.jp</a><br/>",
+              "pfm": "生島ヒロシ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/ni4a4b52d7.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538814609",
+              "-ft": "20201024060000",
+              "-to": "20201024070000",
+              "-ftl": "0600",
+              "-tol": "0700",
+              "-dur": "3600",
+              "title": "土曜朝6時 木梨の会。",
+              "url": "https://www.tbsradio.jp/kinashi/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "週末が始まる土曜の朝に、木梨憲武さんがお送りする明るく元気なトークバラエティ番組！<br/> 50代になって自身もすっかり朝型生活になったというノリさんが「いろんな人の話を聞きながら」これから迎える週末を充実させるお手伝いをします。<br/><br/> <a href=\"https://twitter.com/kinashinokai?lang=ja\">twitter</a><br/> <a href=\"mailto:kinashi@tbs.co.jp\">メール</a><br/>",
+              "pfm": "木梨憲武/古谷有美（TBSアナウンサー）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/j6thusw1wh.jpg",
+              "tag": {
+                "item": {
+                  "name": "木梨憲武"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538805103",
+              "-ft": "20201024070000",
+              "-to": "20201024090000",
+              "-ftl": "0700",
+              "-tol": "0900",
+              "-dur": "7200",
+              "title": "蓮見孝之 まとめて！土曜日",
+              "url": "http://www.tbsradio.jp/matomete/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "twitterアカウントは「<a href=\"http://twitter.com/matomete954905\">@matomete954905</a>」<br/> メール：<a href=\"mailto:matomete@tbs.co.jp\">matomete@tbs.co.jp</a><br/>",
+              "pfm": "蓮見孝之（TBSアナウンサー）/北村まあさ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/s6n8m07gho.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "from:matomete954905"
+                }
+              }
+            },
+            {
+              "-id": "9538812036",
+              "-ft": "20201024090000",
+              "-to": "20201024110000",
+              "-ftl": "0900",
+              "-tol": "1100",
+              "-dur": "7200",
+              "title": "土曜ワイドラジオTOKYO ナイツのちゃきちゃき大放送 (1)",
+              "url": "http://www.tbsradio.jp/chaki/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": " <a href=\"https://twitter.com/chaki954\">twitter</a><br/> <a href=\"https://www.instagram.com/knights_chakichaki/\">instagram</a><br/> <a href=\"mailto:chaki@tbs.co.jp\">メール</a><br/>",
+              "pfm": "ナイツ/出水麻衣（TBSアナウンサー）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/6vxihjhxvh.jpg",
+              "tag": {
+                "item": {
+                  "name": "ナイツ"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538812095",
+              "-ft": "20201024110000",
+              "-to": "20201024130000",
+              "-ftl": "1100",
+              "-tol": "1300",
+              "-dur": "7200",
+              "title": "土曜ワイドラジオTOKYO ナイツのちゃきちゃき大放送 (2)",
+              "url": "http://www.tbsradio.jp/chaki/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": " <a href=\"https://twitter.com/chaki954\">twitter</a><br/> <a href=\"https://www.instagram.com/knights_chakichaki/\">instagram</a><br/> <a href=\"mailto:chaki@tbs.co.jp\">メール</a><br/>",
+              "pfm": "ナイツ/出水麻衣（TBSアナウンサー）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/6vxihjhxvh.jpg",
+              "tag": {
+                "item": {
+                  "name": "ナイツ"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538805221",
+              "-ft": "20201024130000",
+              "-to": "20201024145500",
+              "-ftl": "1300",
+              "-tol": "1455",
+              "-dur": "6900",
+              "title": "久米宏 ラジオなんですけど",
+              "url": "http://www.tbsradio.jp/kume954/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "受付電話番号：03-3584-0954<br/>受付FAX番号：03-5562-9540<br/>メール：<a href=\"mailto:kume954@tbs.co.jp\">kume954@tbs.co.jp</a><br/>ラジオクラウド：<a href=\"https://radiocloud.jp/archive/kume954\">https://radiocloud.jp/archive/kume954</a><br/>",
+              "pfm": "久米宏/堀井美香",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/z30jasmm3m.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538814058",
+              "-ft": "20201024145500",
+              "-to": "20201024150000",
+              "-ftl": "1455",
+              "-tol": "1500",
+              "-dur": "300",
+              "title": "毎日がスペシャル！BS-TBS",
+              "url": "http://www.tbsradio.jp/bs-tbs/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "古谷有美（TBSアナウンサー）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/782f8002-5dbc-4385-b2fc-03f77dd2ec86.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538812166",
+              "-ft": "20201024150000",
+              "-to": "20201024170000",
+              "-ftl": "1500",
+              "-tol": "1700",
+              "-dur": "7200",
+              "title": "大沢悠里のゆうゆうワイド 土曜日版",
+              "url": "http://www.tbsradio.jp/yuyuwide/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "メール:<a href=\"mailto:yuyuwide@tbs.co.jp\">yuyuwide@tbs.co.jp</a><br/>",
+              "pfm": "大沢悠里/さこみちよ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/ajcbn9z7x2.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "大沢悠里"
+                  },
+                  {
+                    "name": "西村知江子"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538806577",
+              "-ft": "20201024170000",
+              "-to": "20201024171500",
+              "-ftl": "1700",
+              "-tol": "1715",
+              "-dur": "900",
+              "title": "中野浩一のフリートーク",
+              "url": "http://www.tbsradio.jp/nakano/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "中野浩一/山形純菜（TBSアナウンサー）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/xnbbi8atea.png",
+              "tag": {
+                "item": {
+                  "name": "中野浩一"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C013",
+                  "name": "アスリート"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538812203",
+              "-ft": "20201024171500",
+              "-to": "20201024173000",
+              "-ftl": "1715",
+              "-tol": "1730",
+              "-dur": "900",
+              "title": "～歌を絆に～東北希望コンサート",
+              "url": "http://www.tbsradio.jp/kibou/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "メール：<a href=\"mailto:kibo@tbs.co.jp\">kibo@tbs.co.jp</a><br/>",
+              "pfm": "佐藤渚",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/8rkzml3yt7.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538812210",
+              "-ft": "20201024173000",
+              "-to": "20201024174000",
+              "-ftl": "1730",
+              "-tol": "1740",
+              "-dur": "600",
+              "title": "中嶋常幸のティーグラウンドへようこそ！",
+              "url": "http://www.tbsradio.jp/nakajima/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "中嶋常幸/大槻りこ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/ckotkgiv5l.jpg",
+              "tag": {
+                "item": {
+                  "name": "中嶋常幸"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C013",
+                  "name": "アスリート"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538792057",
+              "-ft": "20201024174000",
+              "-to": "20201024174500",
+              "-ftl": "1740",
+              "-tol": "1745",
+              "-dur": "300",
+              "title": "交通情報プラス",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/782f8002-5dbc-4385-b2fc-03f77dd2ec86.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538805369",
+              "-ft": "20201024174500",
+              "-to": "20201024175000",
+              "-ftl": "1745",
+              "-tol": "1750",
+              "-dur": "300",
+              "title": "ウィークエンドネットワーク",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/782f8002-5dbc-4385-b2fc-03f77dd2ec86.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538812217",
+              "-ft": "20201024175000",
+              "-to": "20201024180000",
+              "-ftl": "1750",
+              "-tol": "1800",
+              "-dur": "600",
+              "title": "エア・ナビゲーション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/acprh3gjmw.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538812241",
+              "-ft": "20201024180000",
+              "-to": "20201024183000",
+              "-ftl": "1800",
+              "-tol": "1830",
+              "-dur": "1800",
+              "title": "川口技研プレゼンツ 司馬遼太郎短篇傑作選",
+              "url": "http://www.tbsradio.jp/shiba-ryoutarou/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "竹下景子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/w612zt5419.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "竹下景子"
+                  },
+                  {
+                    "name": "司馬遼太郎"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538812257",
+              "-ft": "20201024183000",
+              "-to": "20201024190000",
+              "-ftl": "1830",
+              "-tol": "1900",
+              "-dur": "1800",
+              "title": "ガスワンプレゼンツ 田中みな実 あったかタイム",
+              "url": "http://www.tbsradio.jp/atataka/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "メール:<a href=\"mailto:atataka@tbs.co.jp\">atataka@tbs.co.jp</a><br/>",
+              "pfm": "田中みな実",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/sce6sl5ll8.jpg",
+              "tag": {
+                "item": {
+                  "name": "田中みな実"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538805395",
+              "-ft": "20201024190000",
+              "-to": "20201024210000",
+              "-ftl": "1900",
+              "-tol": "2100",
+              "-dur": "7200",
+              "title": "簡易恋愛プログラム 宮川賢のデートの時間でそ？！",
+              "url": "http://www.tbsradio.jp/deso/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "メール:<a href=\"mailto:deso@tbs.co.jp\">deso@tbs.co.jp</a><br/>",
+              "pfm": "宮川賢",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/qdmizmbllz.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538805439",
+              "-ft": "20201024210000",
+              "-to": "20201024220000",
+              "-ftl": "2100",
+              "-tol": "2200",
+              "-dur": "3600",
+              "title": "明日へのエール～ことばにのせて",
+              "url": "http://www.tbsradio.jp/yell/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "言葉と音楽でつづる<br/><br/>メール：<a href=\"mailto:yell@tbs.co.jp\">yell@tbs.co.jp</a><br/>",
+              "pfm": "西村江太郎",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/6vykju9v7f.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538812383",
+              "-ft": "20201024220000",
+              "-to": "20201025000000",
+              "-ftl": "2200",
+              "-tol": "2400",
+              "-dur": "7200",
+              "title": "TALK ABOUT",
+              "url": "https://www.tbsradio.jp/talk/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "街頭調査や番組へのメッセージで、徹底的にみんなの声を取材！学校生活、 勉強、進路、友達、恋愛…<br/> 「今、どんなことを考えている？」「何に悩んでいる？」みんなの今を共有します。<br/> 一歩先をいくカルチャー情報など、ティーンの「知りたい」が集まる番組です。<br/><br/>  ◆マンスリー「TALK ABOUT」<br/> ◆11時～「カルチャーTALK ABOUT」<br/> ◆あなたに直接電話！超個人的なビッグイベントを応援するコーナーも<br/><br/> <a href=\"https://twitter.com/radio_talkabout\">twitter</a><br/> <a href=\"https://www.instagram.com/radio_talkabout\">instagram</a><br/> <a href=\"https://line.me/R/ti/p/%40lca8329d\">メッセージはLINEで募集</a><br/>",
+              "pfm": "工藤大輝（Da-iCE)",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/jbcsdj37ue.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "工藤大輝"
+                  },
+                  {
+                    "name": "DaーiCE"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538941780",
+              "-ft": "20201025000000",
+              "-to": "20201025003000",
+              "-ftl": "2400",
+              "-tol": "2430",
+              "-dur": "1800",
+              "title": "サンドウィッチマンの週刊ラジオジャンプ",
+              "url": "https://www.tbsradio.jp/jump/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "「週刊少年ジャンプ」が2018年に創刊50周年を迎えることを記念した、TBSラジオとのコラボ番組。<br/> サンドウィッチマンの二人が、人気漫画家の先生をゲストに招き、作品についてもさることながら「今はまっていること」や「休日の過ごし方」「好きな音楽」など、幅広く普段あまり表に出ることのない先生の人となりについて、お話を伺います！<br/><br/> メール：<a href=\"mailto:jump@tbs.co.jp\">jump@tbs.co.jp</a><br/> ",
+              "pfm": "サンドウィッチマン",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/488lwyek0i.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538943445",
+              "-ft": "20201025003000",
+              "-to": "20201025010000",
+              "-ftl": "2430",
+              "-tol": "2500",
+              "-dur": "1800",
+              "title": "鈴木聖奈 LIFE LAB～○○のおじ様たち～",
+              "url": "https://www.tbsradio.jp/seina/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "鈴木聖奈",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/5c6z6vll14.jpg",
+              "tag": {
+                "item": {
+                  "name": "鈴木聖奈"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538943478",
+              "-ft": "20201025010000",
+              "-to": "20201025030000",
+              "-ftl": "2500",
+              "-tol": "2700",
+              "-dur": "7200",
+              "title": "JUNKサタデー　エレ片のコント太郎",
+              "url": "http://www.tbsradio.jp/elekata/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "メール：<a href=\"mailto:elekata@tbs.co.jp\">elekata@tbs.co.jp</a><br/>ラジオクラウド：<a href=\"https://radiocloud.jp/archive/elekata\">https://radiocloud.jp/archive/elekata</a><br/>",
+              "pfm": "エレ片（エレキコミック/片桐仁）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/9tq4h0rtsl.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "エレ片"
+                  },
+                  {
+                    "name": "エレキコミック"
+                  },
+                  {
+                    "name": "片桐仁"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538943504",
+              "-ft": "20201025030000",
+              "-to": "20201025040000",
+              "-ftl": "2700",
+              "-tol": "2800",
+              "-dur": "3600",
+              "title": "THE ARTIST BOX",
+              "url": "http://www.tbsradio.jp/a-box/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "BOYS AND MEN：<a href=\"mailto:boymen@tbs.co.jp\">boymen@tbs.co.jp</a><br/> XOX：<a href=\"mailto:xox@tbs.co.jp\">xox@tbs.co.jp</a><br/> lol：<a href=\"mailto:lol@tbs.co.jp\">lol@tbs.co.jp</a><br/>",
+              "pfm": "lol/XOX/BOYS AND MEN/山本匠晃（TBSアナウンサー）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/vcczwtbzus.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9538936784",
+              "-ft": "20201025040000",
+              "-to": "20201025050000",
+              "-ftl": "2800",
+              "-tol": "2900",
+              "-dur": "3600",
+              "title": "菊地成孔の粋な夜電波",
+              "url": "http://www.tbsradio.jp/denpa/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "ジャズミュージシャンの菊地成孔が、世界中の音楽から吟味した選曲で極上の癒しの時間を提供する６０分。<br/><br/> メール：<a href=\"mailto:denpa@tbs.co.jp\">denpa@tbs.co.jp</a><br/>",
+              "pfm": "菊地成孔",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/hnwve33rcp.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
