@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1603045534",
+    "srvtime": "1603131893",
     "stations": {
       "station": {
         "-id": "TOKAIRADIO",
@@ -1369,7 +1369,7 @@
               }
             },
             {
-              "-id": "9538767828",
+              "-id": "9539133838",
               "-ft": "20201024170000",
               "-to": "20201024180000",
               "-ftl": "1700",
@@ -1384,6 +1384,21 @@
               "info": "<br>日本のミュージック・シーンにカリスマ的存在として君臨するシンガー・ソングライター松山千春。歯に衣着せぬ発言や、優しさに満ちあふれた愛で、社会の出来事やスポーツ、芸術にいたるまで千春ワールドを展開します。<br><br>番組へのメッセージは <a href=\"mailto:radio@matsuyamachiharu.com\">radio@matsuyamachiharu.com</a>",
               "pfm": "松山千春",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TOKAIRADIO/c31e6fdd-3262-4f3b-894e-54fb4a7c1e49.jpeg",
+              "tag": {
+                "item": {
+                  "name": "松山千春"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1677,7 +1692,7 @@
               }
             },
             {
-              "-id": "9538819861",
+              "-id": "9539133891",
               "-ft": "20201024233000",
               "-to": "20201025010000",
               "-ftl": "2330",
@@ -1692,6 +1707,29 @@
               "info": "<br>番組へのメッセージは <a href=\"mailto:st@allnightnippon.com\">st@allnightnippon.com</a><br><br>番組公式twitterアカウントは「<a href=\"http://twitter.com/SixTONESANNSat\">@SixTONESANNSat</a>」<br><br>番組ハッシュタグは「#SixTONESANN」<br><br><br>※プロ野球中継延長により、上記の内容は予告なく変更になる場合があります。",
               "pfm": "SixTONES",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TOKAIRADIO/efc5f958-471d-47cc-b3eb-4a9185a6671c.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "SixTONES"
+                  },
+                  {
+                    "name": "オールナイトニッポン"
+                  },
+                  {
+                    "name": "SixTONESANN"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
