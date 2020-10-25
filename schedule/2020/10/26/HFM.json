@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1603391162",
+    "srvtime": "1603650248",
     "stations": {
       "station": {
         "-id": "HFM",
@@ -10,7 +10,7 @@
           "date": "20201026",
           "prog": [
             {
-              "-id": "9539427475",
+              "-id": "9539982238",
               "-ft": "20201026050000",
               "-to": "20201026053000",
               "-ftl": "0500",
@@ -23,6 +23,16 @@
               "ts_out_ng": "0",
               "desc": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/ct3ohruqbu.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -31,7 +41,7 @@
               }
             },
             {
-              "-id": "9539427476",
+              "-id": "9539982255",
               "-ft": "20201026053000",
               "-to": "20201026055400",
               "-ftl": "0530",
@@ -44,6 +54,16 @@
               "ts_out_ng": "0",
               "desc": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/iua6n6tghj.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -52,7 +72,7 @@
               }
             },
             {
-              "-id": "9539427477",
+              "-id": "9539942616",
               "-ft": "20201026055400",
               "-to": "20201026060000",
               "-ftl": "0554",
@@ -65,16 +85,6 @@
               "ts_out_ng": "0",
               "desc": "0120 ヨーイシナゴー!!\n<br>\n快適生活ラジオショッピング\n<br>\n商品のお申し込み･お問い合わせは\n<br>\n０１２０－４０－１４７５　まで!!\n<br>\n<br>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/a4swfvqg1l.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "快適生活"
-                  },
-                  {
-                    "name": "0120401475"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -93,7 +103,7 @@
               }
             },
             {
-              "-id": "9539427478",
+              "-id": "9539982268",
               "-ft": "20201026060000",
               "-to": "20201026073000",
               "-ftl": "0600",
@@ -106,6 +116,32 @@
               "ts_out_ng": "0",
               "desc": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/pjcmzgvxlv.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ワンモ"
+                  },
+                  {
+                    "name": "スズコメ"
+                  },
+                  {
+                    "name": "鈴村健一"
+                  },
+                  {
+                    "name": "ハードキャッスルエリザベス"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C005",
+                  "name": "男性声優"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -114,7 +150,7 @@
               }
             },
             {
-              "-id": "9539427479",
+              "-id": "9539942650",
               "-ft": "20201026073000",
               "-to": "20201026074000",
               "-ftl": "0730",
@@ -126,16 +162,6 @@
               "ts_out_ng": "0",
               "desc": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/004bd0ce-33f2-44b0-bc9f-7969c7c89b96.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "広島FM"
-                  },
-                  {
-                    "name": "HFM"
-                  }
-                ]
-              },
               "genre": {
                 "program": {
                   "-id": "P001",
@@ -150,7 +176,7 @@
               }
             },
             {
-              "-id": "9539427480",
+              "-id": "9539942651",
               "-ft": "20201026074000",
               "-to": "20201026074500",
               "-ftl": "0740",
@@ -163,22 +189,6 @@
               "ts_out_ng": "0",
               "desc": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/004bd0ce-33f2-44b0-bc9f-7969c7c89b96.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "広島FM"
-                  },
-                  {
-                    "name": "HFM"
-                  },
-                  {
-                    "name": "HFMパワープレイ"
-                  },
-                  {
-                    "name": "しほどん"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -197,7 +207,7 @@
               }
             },
             {
-              "-id": "9539427481",
+              "-id": "9539942652",
               "-ft": "20201026074500",
               "-to": "20201026075000",
               "-ftl": "0745",
@@ -218,7 +228,7 @@
               }
             },
             {
-              "-id": "9539427482",
+              "-id": "9539942653",
               "-ft": "20201026075000",
               "-to": "20201026080000",
               "-ftl": "0750",
@@ -230,19 +240,6 @@
               "ts_out_ng": "0",
               "desc": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/004bd0ce-33f2-44b0-bc9f-7969c7c89b96.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "広島FM"
-                  },
-                  {
-                    "name": "HFM"
-                  },
-                  {
-                    "name": "モーニングトピックス"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -261,7 +258,7 @@
               }
             },
             {
-              "-id": "9539427483",
+              "-id": "9539982297",
               "-ft": "20201026080000",
               "-to": "20201026080900",
               "-ftl": "0800",
@@ -274,6 +271,16 @@
               "ts_out_ng": "0",
               "desc": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/004bd0ce-33f2-44b0-bc9f-7969c7c89b96.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C005",
+                  "name": "男性声優"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -282,7 +289,7 @@
               }
             },
             {
-              "-id": "9539427484",
+              "-id": "9539982299",
               "-ft": "20201026080900",
               "-to": "20201026081000",
               "-ftl": "0809",
@@ -294,6 +301,16 @@
               "ts_out_ng": "0",
               "desc": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/004bd0ce-33f2-44b0-bc9f-7969c7c89b96.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C005",
+                  "name": "男性声優"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -302,12 +319,12 @@
               }
             },
             {
-              "-id": "9539427485",
+              "-id": "9539982302",
               "-ft": "20201026081000",
-              "-to": "20201026082000",
+              "-to": "20201026081900",
               "-ftl": "0810",
-              "-tol": "0820",
-              "-dur": "600",
+              "-tol": "0819",
+              "-dur": "540",
               "title": "Honda Smile Mission",
               "url": "https://www.tfm.co.jp/smile/",
               "failed_record": "0",
@@ -315,6 +332,26 @@
               "ts_out_ng": "0",
               "desc": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/004bd0ce-33f2-44b0-bc9f-7969c7c89b96.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "hondasmilemission"
+                  },
+                  {
+                    "name": "スマイルミッション"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -323,12 +360,12 @@
               }
             },
             {
-              "-id": "9539427486",
-              "-ft": "20201026082000",
+              "-id": "9539942663",
+              "-ft": "20201026081900",
               "-to": "20201026110000",
-              "-ftl": "0820",
+              "-ftl": "0819",
               "-tol": "1100",
-              "-dur": "9600",
+              "-dur": "9660",
               "title": "笹原綾乃のGOOD JOG",
               "url": "http://hfm.jp/blog/good_jog/",
               "failed_record": "0",
@@ -337,22 +374,6 @@
               "desc": "<a href=\"https://hfm.jp/tops/request/?program=p23\" target=\"_blank\">《この番組へのメッセージ･リクエストはこちら》</a>\n<br>\n<br>\n<a href=\"http://hfm.jp/tops/nowonair/search.php\" target=\"_blank\">♪オンエア曲名･アーティスト名のチェックはこちら♪</a>",
               "info": "<br />\n★広島に、とことんこだわった話題をお届けする「JOG AROUND HIROSHIMA」<br />\n　インスタグラムやTikTokでも話題の「カフェプリ」が広島初上陸！<br />\n★クイズに答えてチケットをゲット「クイズ！ジョグチケ」<br />\n　シェラトングランドホテル広島で使える食事券を用意！<br />\n★今年のノーベル平和賞を受賞した国連世界食糧計画（WFP）に呉出身の職員が！！<br />\n　飢餓と貧困の撲滅に取り組む、WFPの兼光由美子さんとジョグトーク！",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/ipham06are.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "GOODJOG"
-                  },
-                  {
-                    "name": "広島FM"
-                  },
-                  {
-                    "name": "HFM"
-                  },
-                  {
-                    "name": "笹原綾乃"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -371,7 +392,7 @@
               }
             },
             {
-              "-id": "9539427487",
+              "-id": "9539982351",
               "-ft": "20201026110000",
               "-to": "20201026113000",
               "-ftl": "1100",
@@ -384,6 +405,26 @@
               "ts_out_ng": "0",
               "desc": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/x5vi2ejc98.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ディアフレンズ"
+                  },
+                  {
+                    "name": "坂本美雨"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -392,7 +433,7 @@
               }
             },
             {
-              "-id": "9539427488",
+              "-id": "9539942717",
               "-ft": "20201026113000",
               "-to": "20201026125400",
               "-ftl": "1130",
@@ -413,7 +454,7 @@
               }
             },
             {
-              "-id": "9539427489",
+              "-id": "9539942736",
               "-ft": "20201026125400",
               "-to": "20201026130000",
               "-ftl": "1254",
@@ -426,16 +467,6 @@
               "ts_out_ng": "0",
               "desc": "0120 ヨーイシナゴー!!\n<br>\n快適生活ラジオショッピング\n<br>\n商品のお申し込み･お問い合わせは\n<br>\n０１２０－４０－１４７５　まで!!\n<br>\n<br>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/a4swfvqg1l.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "快適生活"
-                  },
-                  {
-                    "name": "0120401475"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -454,7 +485,7 @@
               }
             },
             {
-              "-id": "9539427490",
+              "-id": "9539942752",
               "-ft": "20201026130000",
               "-to": "20201026133000",
               "-ftl": "1300",
@@ -475,7 +506,7 @@
               }
             },
             {
-              "-id": "9539427491",
+              "-id": "9539942762",
               "-ft": "20201026133000",
               "-to": "20201026140000",
               "-ftl": "1330",
@@ -489,22 +520,6 @@
               "desc": " ",
               "info": "★県内各地の空模様を電話でインタビュー！「もしもしWEATHER」<br />\n★DAYS!へのメッセージ＆リクエストは、HFMのホームページから送信♪",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/wxlfai9wdj.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "広島FM"
-                  },
-                  {
-                    "name": "HFM"
-                  },
-                  {
-                    "name": "HFMデイズ"
-                  },
-                  {
-                    "name": "しほどん"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -523,7 +538,7 @@
               }
             },
             {
-              "-id": "9539427492",
+              "-id": "9539942776",
               "-ft": "20201026140000",
               "-to": "20201026150000",
               "-ftl": "1400",
@@ -537,22 +552,6 @@
               "desc": " ",
               "info": "★「フォスター」の楽曲歌詞に基づき、里親の方にインタビュー最終回！<br />\n　「柔和智也の“そしたら、フォスター”supported by 広島県・広島市”」<br />\n★食べる音を聴いてお菓子をGET！「クイズサックサク」<br />\n★DAYS!へのメッセージ＆リクエストは、HFMのホームページから送信♪",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/wxlfai9wdj.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "広島FM"
-                  },
-                  {
-                    "name": "HFM"
-                  },
-                  {
-                    "name": "HFMデイズ"
-                  },
-                  {
-                    "name": "しほどん"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -571,7 +570,7 @@
               }
             },
             {
-              "-id": "9539427493",
+              "-id": "9539942800",
               "-ft": "20201026150000",
               "-to": "20201026160000",
               "-ftl": "1500",
@@ -585,22 +584,6 @@
               "desc": " ",
               "info": "★シャケとチョコが好きな2人が語り合う！！「さとうもかのSHAKE CHOCO RADIO」<br />\n★ブライダルソングに合わせてエクササイズ！ 「START ON A JOURNEY！」<br />\n★DAYS!へのメッセージ＆リクエストは、HFMのホームページから送信♪",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/wxlfai9wdj.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "広島FM"
-                  },
-                  {
-                    "name": "HFM"
-                  },
-                  {
-                    "name": "HFMデイズ"
-                  },
-                  {
-                    "name": "しほどん"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -619,7 +602,7 @@
               }
             },
             {
-              "-id": "9539427494",
+              "-id": "9539942819",
               "-ft": "20201026160000",
               "-to": "20201026163000",
               "-ftl": "1600",
@@ -640,7 +623,7 @@
               }
             },
             {
-              "-id": "9539427495",
+              "-id": "9539942822",
               "-ft": "20201026163000",
               "-to": "20201026175400",
               "-ftl": "1630",
@@ -654,22 +637,6 @@
               "desc": "番組へのメールは<a href=\"https://hfm.jp/tops/request/?program=p32\">こちら</a><br />\n",
               "info": "<br />\n★１０月からは夕方４時３０分からスタートの「ゴッジ」！<br />\n★広島で輝く方をお迎えするゴッジメンのコーナー！<br />\n　広島市内で気軽に弓道体験！弓道体験道場の方が登場！ <br />\n★メッセージ&楽曲リクエストは２４時間受付中！<br />\n★番組ブログに応募中のメッセージテーマを掲載！<br />\n★番組Twitter、Instagramのフォローもお願いします！",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/02iy80m2ns.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "広島FM"
-                  },
-                  {
-                    "name": "HFM"
-                  },
-                  {
-                    "name": "ゴッジ"
-                  },
-                  {
-                    "name": "江本一真"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -688,7 +655,7 @@
               }
             },
             {
-              "-id": "9539427496",
+              "-id": "9539942841",
               "-ft": "20201026175400",
               "-to": "20201026180000",
               "-ftl": "1754",
@@ -701,16 +668,6 @@
               "ts_out_ng": "0",
               "desc": "0120 ヨーイシナゴー!!\n<br>\n快適生活ラジオショッピング\n<br>\n商品のお申し込み･お問い合わせは\n<br>\n０１２０－４０－１４７５　まで!!\n<br>\n<br>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/a4swfvqg1l.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "快適生活"
-                  },
-                  {
-                    "name": "0120401475"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -729,7 +686,7 @@
               }
             },
             {
-              "-id": "9539427497",
+              "-id": "9539942851",
               "-ft": "20201026180000",
               "-to": "20201026183000",
               "-ftl": "1800",
@@ -743,25 +700,6 @@
               "desc": " ",
               "info": "★広島市中区のファッションビル・サンモールを舞台にお届けするリアルインタビューバラエティ！<br />\n★あなたはどっち！？<br />\n　参観日、親に来てほしかった？来てほしくなかった？<br />\n★インタビューから垣間見える「好き」を探ります！<br />\n★番組instagramもあります！「slor_hfm」で検索してね！",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/wiknku40p2.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "広島FM"
-                  },
-                  {
-                    "name": "SUNMALLLIKEONRADIO"
-                  },
-                  {
-                    "name": "サンモール"
-                  },
-                  {
-                    "name": "小竹彩花"
-                  },
-                  {
-                    "name": "ヤルキスト"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -780,7 +718,7 @@
               }
             },
             {
-              "-id": "9539427498",
+              "-id": "9539942859",
               "-ft": "20201026183000",
               "-to": "20201026185500",
               "-ftl": "1830",
@@ -801,7 +739,7 @@
               }
             },
             {
-              "-id": "9539427499",
+              "-id": "9539942867",
               "-ft": "20201026185500",
               "-to": "20201026190000",
               "-ftl": "1855",
@@ -813,16 +751,6 @@
               "ts_out_ng": "0",
               "desc": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/u10px82dz4.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "広島FM"
-                  },
-                  {
-                    "name": "HFM"
-                  }
-                ]
-              },
               "genre": {
                 "program": {
                   "-id": "P001",
@@ -837,7 +765,7 @@
               }
             },
             {
-              "-id": "9539427500",
+              "-id": "9539982535",
               "-ft": "20201026190000",
               "-to": "20201026195400",
               "-ftl": "1900",
@@ -853,6 +781,9 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/ufo3psjl3s.jpg",
               "tag": {
                 "item": [
+                  {
+                    "name": "カープ"
+                  },
                   {
                     "name": "アラカー"
                   },
@@ -885,7 +816,7 @@
               }
             },
             {
-              "-id": "9539427501",
+              "-id": "9539942891",
               "-ft": "20201026195400",
               "-to": "20201026200000",
               "-ftl": "1954",
@@ -898,16 +829,6 @@
               "ts_out_ng": "0",
               "desc": "0120 ヨーイシナゴー!!\n<br>\n快適生活ラジオショッピング\n<br>\n商品のお申し込み･お問い合わせは\n<br>\n０１２０－４０－１４７５　まで!!\n<br>\n<br>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/a4swfvqg1l.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "快適生活"
-                  },
-                  {
-                    "name": "0120401475"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -926,7 +847,7 @@
               }
             },
             {
-              "-id": "9539427502",
+              "-id": "9539942902",
               "-ft": "20201026200000",
               "-to": "20201026210000",
               "-ftl": "2000",
@@ -940,28 +861,6 @@
               "desc": "<a href=\"https://hfm.jp/tops/request/?program=p4\" target=\"_blank\">《この番組へのメッセージ･リクエストはこちら》</a>\n<br>\n<br>\n<a href=\"http://hfm.jp/tops/nowonair/search.php\" target=\"_blank\">♪オンエア曲名･アーティスト名のチェックはこちら♪</a>\n<br>\n<br>\n番組WEBサイト  ：<a href=\"http://hfm.jp/blog/9/\" target=\"_blank\">http://hfm.jp/blog/9/</a>\n<br>\n番組公式Twitter：<a href=\"https://twitter.com/kujiraji\" target=\"_blank\">@kujiraji　https://twitter.com/kujiraji</a>\n<br>\n番組公式LINE   ：<a href=\"https://line.me/ti/p/%40rqi2027q\" target=\"_blank\">このQRコードをLINEアプリでスキャンしてね</a>\n<br>",
               "info": "<br />\n★月曜８時台のアシスタントDJはYASUこと安広修平！<br />\n★先週から募集してきた「あなたにとってのONE OK ROCK最強の1曲」をオンエアします！<br />\n★広島県内の学生にまつわるニュースを紹介する「９ジラジスクールニュース」！<br />\n★ホームテレビとタッグを組んで１０代を応援する「９ジラジテレビ」のコーナ―！<br />\n★９ジラジのＬＩＮＥ公式アカウント、お友達追加してね♪Twitterは「＠kujiraji」で検索！<br />\n★mail：ＨＦＭのホームページにあるメッセージ＆リクエストフォームから",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/22bixoayq5.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "広島FM"
-                  },
-                  {
-                    "name": "HFM"
-                  },
-                  {
-                    "name": "9ジラジ"
-                  },
-                  {
-                    "name": "クジラジ"
-                  },
-                  {
-                    "name": "くじらじ"
-                  },
-                  {
-                    "name": "9時ラジ"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -980,7 +879,7 @@
               }
             },
             {
-              "-id": "9539427503",
+              "-id": "9539942926",
               "-ft": "20201026210000",
               "-to": "20201026220000",
               "-ftl": "2100",
@@ -994,25 +893,53 @@
               "desc": "<a href=\"https://hfm.jp/tops/request/?program=p4\" target=\"_blank\">《この番組へのメッセージ･リクエストはこちら》</a>\n<br>\n<br>\n<a href=\"http://hfm.jp/tops/nowonair/search.php\" target=\"_blank\">♪オンエア曲名･アーティスト名のチェックはこちら♪</a>\n<br>\n<br>\n番組WEBサイト  ：<a href=\"http://hfm.jp/blog/9/\" target=\"_blank\">http://hfm.jp/blog/9/</a>\n<br>\n番組公式Twitter：<a href=\"https://twitter.com/kujiraji\" target=\"_blank\">@kujiraji　https://twitter.com/kujiraji</a>\n<br>\n番組公式LINE   ：<a href=\"https://line.me/ti/p/%40rqi2027q\" target=\"_blank\">このQRコードをLINEアプリでスキャンしてね</a>\n<br>",
               "info": "<br />\n★先週から募集してきた「あなたにとってのONE OK ROCK最強の1曲」をオンエアします！<br />\n★広島県内の学生にまつわるニュースを紹介する「９ジラジスクールニュース」！<br />\n★ホームテレビとタッグを組んで１０代を応援する「９ジラジテレビ」のコーナ―！<br />\n★９ジラジのＬＩＮＥ公式アカウント、お友達追加してね♪Twitterは「＠kujiraji」で検索！<br />\n★mail：ＨＦＭのホームページにあるメッセージ＆リクエストフォームから",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/dqsyo51ufb.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9539982608",
+              "-ft": "20201026220000",
+              "-to": "20201026235500",
+              "-ftl": "2200",
+              "-tol": "2355",
+              "-dur": "6900",
+              "title": "SCHOOL OF LOCK!",
+              "url": "https://www.tfm.co.jp/lock/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": " ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/qosbn3hjyu.jpg",
               "tag": {
                 "item": [
                   {
-                    "name": "広島FM"
+                    "name": "Perfume"
                   },
                   {
-                    "name": "HFM"
+                    "name": "SOL"
                   },
                   {
-                    "name": "9ジラジ"
+                    "name": "さかた校長"
                   },
                   {
-                    "name": "クジラジ"
+                    "name": "こもり教頭"
                   },
                   {
-                    "name": "くじらじ"
-                  },
-                  {
-                    "name": "9時ラジ"
+                    "name": "豆柴の大群"
                   }
                 ]
               },
@@ -1034,28 +961,7 @@
               }
             },
             {
-              "-id": "9539427504",
-              "-ft": "20201026220000",
-              "-to": "20201026235500",
-              "-ftl": "2200",
-              "-tol": "2355",
-              "-dur": "6900",
-              "title": "SCHOOL OF LOCK!",
-              "url": "https://www.tfm.co.jp/lock/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": " ",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/qosbn3hjyu.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9539427505",
+              "-id": "9539942970",
               "-ft": "20201026235500",
               "-to": "20201027000000",
               "-ftl": "2355",
@@ -1076,7 +982,7 @@
               }
             },
             {
-              "-id": "9539427506",
+              "-id": "9539982636",
               "-ft": "20201027000000",
               "-to": "20201027005500",
               "-ftl": "2400",
@@ -1089,6 +995,26 @@
               "ts_out_ng": "0",
               "desc": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/hddb3lnzhn.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "福山雅治"
+                  },
+                  {
+                    "name": "JETSTREAM"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1097,7 +1023,7 @@
               }
             },
             {
-              "-id": "9539427507",
+              "-id": "9539942983",
               "-ft": "20201027005500",
               "-to": "20201027010000",
               "-ftl": "2455",
@@ -1109,16 +1035,6 @@
               "ts_out_ng": "0",
               "desc": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/004bd0ce-33f2-44b0-bc9f-7969c7c89b96.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "広島FM"
-                  },
-                  {
-                    "name": "HFM"
-                  }
-                ]
-              },
               "genre": {
                 "program": {
                   "-id": "P001",
@@ -1133,7 +1049,7 @@
               }
             },
             {
-              "-id": "9539427508",
+              "-id": "9539982652",
               "-ft": "20201027010000",
               "-to": "20201027020000",
               "-ftl": "2500",
@@ -1146,6 +1062,17 @@
               "ts_out_ng": "0",
               "desc": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/pbumfmyv0m.jpg",
+              "tag": {
+                "item": {
+                  "name": "SPEAKEASY"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1154,7 +1081,7 @@
               }
             },
             {
-              "-id": "9539427509",
+              "-id": "9539982661",
               "-ft": "20201027020000",
               "-to": "20201027040000",
               "-ftl": "2600",
@@ -1167,6 +1094,21 @@
               "ts_out_ng": "0",
               "desc": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/px7u5vonha.jpg",
+              "tag": {
+                "item": {
+                  "name": "オンプラ"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1175,7 +1117,7 @@
               }
             },
             {
-              "-id": "9539427510",
+              "-id": "9539982677",
               "-ft": "20201027040000",
               "-to": "20201027050000",
               "-ftl": "2800",
@@ -1188,6 +1130,21 @@
               "ts_out_ng": "0",
               "desc": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/004bd0ce-33f2-44b0-bc9f-7969c7c89b96.jpeg",
+              "tag": {
+                "item": {
+                  "name": "朝倉あき"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
