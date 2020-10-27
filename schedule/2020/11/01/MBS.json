@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1603736712",
+    "srvtime": "1603823062",
     "stations": {
       "station": {
         "-id": "MBS",
@@ -10,7 +10,7 @@
           "date": "20201101",
           "prog": [
             {
-              "-id": "9540095573",
+              "-id": "9540255372",
               "-ft": "20201101050000",
               "-to": "20201101051500",
               "-ftl": "0500",
@@ -39,7 +39,7 @@
               }
             },
             {
-              "-id": "9540095578",
+              "-id": "9540255378",
               "-ft": "20201101051500",
               "-to": "20201101053000",
               "-ftl": "0515",
@@ -68,7 +68,7 @@
               }
             },
             {
-              "-id": "9540095586",
+              "-id": "9540255385",
               "-ft": "20201101053000",
               "-to": "20201101060000",
               "-ftl": "0530",
@@ -90,7 +90,7 @@
               }
             },
             {
-              "-id": "9540095609",
+              "-id": "9540255411",
               "-ft": "20201101060000",
               "-to": "20201101061500",
               "-ftl": "0600",
@@ -115,7 +115,7 @@
               }
             },
             {
-              "-id": "9540095617",
+              "-id": "9540255419",
               "-ft": "20201101061500",
               "-to": "20201101062000",
               "-ftl": "0615",
@@ -126,12 +126,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/0ec3e29f-a11b-4d6c-9af1-4761ebbf21c9.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -140,7 +134,7 @@
               }
             },
             {
-              "-id": "9540095620",
+              "-id": "9540255423",
               "-ft": "20201101062000",
               "-to": "20201101064500",
               "-ftl": "0620",
@@ -155,9 +149,20 @@
               "pfm": "井上雅雄（MBSアナウンサー）、スタイヤーノ梨々菜（女子プロゴルファー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/865ccf65-6e76-44c7-b2af-e3e8c6fb62ec.jpeg",
               "tag": {
-                "item": {
-                  "name": "スタイヤーノ梨々菜"
-                }
+                "item": [
+                  {
+                    "name": "スタイヤーノ梨々菜"
+                  },
+                  {
+                    "name": "井上雅雄"
+                  },
+                  {
+                    "name": "金山泉"
+                  },
+                  {
+                    "name": "馬野雅行"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -177,7 +182,7 @@
               }
             },
             {
-              "-id": "9540095630",
+              "-id": "9540255437",
               "-ft": "20201101064500",
               "-to": "20201101070000",
               "-ftl": "0645",
@@ -191,16 +196,6 @@
               "desc": "メールアドレス：<a href=mailto:donai@mbs1179.com target=_blank>donai@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/donai/ target=_blank>こちらをクリック</a>",
               "pfm": "子守康範、大塚由美",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/dl1kwq465g.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -209,7 +204,7 @@
               }
             },
             {
-              "-id": "9540095646",
+              "-id": "9540255451",
               "-ft": "20201101070000",
               "-to": "20201101072000",
               "-ftl": "0700",
@@ -223,16 +218,6 @@
               "desc": "★★主なコーナー★★<br /><br />▽お答えちょんまげ、ごきげんリサーチ<br /><br /><br />メールアドレス：<a href=mailto:gsm@mbs1179.com target=_blank>gsm@mbs1179.com</a><br /><br /><br />◆ごきげんサンデー・ミュージック番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/gsm/ target=_blank>こちらをクリック</a><br />☆Instagram：<a href=https://www.instagram.com/lidaomeixue/ target=_blank>lidaomeixue</a>",
               "pfm": "豊島美雪",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/0405c367-d74d-4103-80de-dbe6540cefd7.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -241,7 +226,7 @@
               }
             },
             {
-              "-id": "9540095653",
+              "-id": "9540255461",
               "-ft": "20201101072000",
               "-to": "20201101073000",
               "-ftl": "0720",
@@ -255,6 +240,11 @@
               "desc": "メールアドレス：<a href=mailto:ak@mbs1179.com target=_blank>ak@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/ak/ target=_blank>こちらをクリック</a>",
               "pfm": "松井愛（MBSアナウンサー）、杉本容子（(株)ワイキューブ・ラボ代表取締役）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/feb42dc8-bae7-40cc-95b7-295fb372fdf0.jpeg",
+              "tag": {
+                "item": {
+                  "name": "松井愛"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -273,7 +263,7 @@
               }
             },
             {
-              "-id": "9540095663",
+              "-id": "9540255471",
               "-ft": "20201101073000",
               "-to": "20201101075900",
               "-ftl": "0730",
@@ -287,16 +277,6 @@
               "desc": "★★主なコーナー★★<br /><br />▽私のうふふ<br />▽おもいでふうふう<br /><br />メールアドレス：<a href=mailto:fufu@mbs1179.com target=_blank>fufu@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/fufu/ target=_blank>こちらをクリック</a>",
               "pfm": "原田伸郎、遠藤のぶこ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/fxwogb9w9w.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -305,7 +285,7 @@
               }
             },
             {
-              "-id": "9540095678",
+              "-id": "9540255485",
               "-ft": "20201101075900",
               "-to": "20201101080000",
               "-ftl": "0759",
@@ -316,12 +296,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/0ec3e29f-a11b-4d6c-9af1-4761ebbf21c9.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -330,7 +304,7 @@
               }
             },
             {
-              "-id": "9540095694",
+              "-id": "9540255501",
               "-ft": "20201101080000",
               "-to": "20201101083000",
               "-ftl": "0800",
@@ -344,16 +318,6 @@
               "desc": "★★主なコーナー★★<br /><br />▽今週のお話…<br />▽コンちゃんのストライク！<br />▽コンちゃんのかくかくしかじか<br /><br />メールアドレス：<a href=mailto:sunkon@mbs1179.com target=_blank>sunkon@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/sunkon/ target=_blank>こちらをクリック</a>",
               "pfm": "近藤光史、青柳万美（昭和プロダクション）、渡辺裕薫（シンデレラエキスプレス）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/9d82d51a-4727-47f0-bb99-c433b1015c61.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -362,7 +326,7 @@
               }
             },
             {
-              "-id": "9540095714",
+              "-id": "9540255523",
               "-ft": "20201101083000",
               "-to": "20201101090000",
               "-ftl": "0830",
@@ -376,16 +340,6 @@
               "desc": "メールアドレス：<a href=mailto:akarui@mbs1179.com target=_blank>akarui@mbs1179.com</a><br /><br />番組ホームページは<a href=http://www.mbs1179.com/akarui/ target=_blank>こちらをクリック</a>",
               "pfm": "竹原信夫、高井美紀（MBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/h23laiizl6.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C012",
-                  "name": "文化人"
-                },
-                "program": {
-                  "-id": "P013",
-                  "name": "経済"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -394,7 +348,7 @@
               }
             },
             {
-              "-id": "9540095740",
+              "-id": "9540255551",
               "-ft": "20201101090000",
               "-to": "20201101091500",
               "-ftl": "0900",
@@ -406,16 +360,6 @@
               "ts_out_ng": "0",
               "pfm": "原田伸郎、遠藤のぶこ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/0ec3e29f-a11b-4d6c-9af1-4761ebbf21c9.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -424,7 +368,7 @@
               }
             },
             {
-              "-id": "9540095748",
+              "-id": "9540255563",
               "-ft": "20201101091500",
               "-to": "20201101093000",
               "-ftl": "0915",
@@ -443,7 +387,7 @@
               }
             },
             {
-              "-id": "9540095762",
+              "-id": "9540255585",
               "-ft": "20201101093000",
               "-to": "20201101100000",
               "-ftl": "0930",
@@ -457,16 +401,6 @@
               "desc": "メールアドレス：<a href=mailto:sae@mbs1179.com target=_blank>sae@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/sae/ target=_blank>こちらをクリック</a>",
               "pfm": "三枝輝行、唐渡吉則",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/2nioy5hp0o.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C012",
-                  "name": "文化人"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -475,7 +409,7 @@
               }
             },
             {
-              "-id": "9540095787",
+              "-id": "9540255611",
               "-ft": "20201101100000",
               "-to": "20201101105700",
               "-ftl": "1000",
@@ -489,16 +423,6 @@
               "desc": "★★主なコーナー★★<br /><br />ヤマヒロ・エエやろ・買えるやろ<br /><br />●今週の会議室<br /><br /><br />メールアドレス：<a href=mailto:cyk@mbs1179.com>cyk@mbs1179.com</a><br /><br /><br />◆茶屋町ヤマヒロ会議番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/cyk/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/cyk1179 target=_blank>@cyk1179</a><br />☆facebook：<a href=https://www.facebook.com/mbs1179cyk/ target=_blank>こちらをクリック</a>",
               "pfm": "山本浩之、山本量子、きたP、わに、週替わりゲスト",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/l6ol03buck.png",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -507,7 +431,7 @@
               }
             },
             {
-              "-id": "9540095809",
+              "-id": "9540255631",
               "-ft": "20201101105700",
               "-to": "20201101110000",
               "-ftl": "1057",
@@ -518,12 +442,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/0ec3e29f-a11b-4d6c-9af1-4761ebbf21c9.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -532,7 +450,7 @@
               }
             },
             {
-              "-id": "9540095823",
+              "-id": "9540255642",
               "-ft": "20201101110000",
               "-to": "20201101125000",
               "-ftl": "1100",
@@ -546,16 +464,6 @@
               "desc": "★★主なコーナー★★<br /><br />▽カモン買いもん！サンデーマーケット<br />▽桂二葉の日曜、何しよう？<br />▽きんめ鯛のソレ知り鯛<br /><br />交（11時台）<br />Ｎ・天（12時台）<br /><br /><br />メールアドレス：<a href=mailto:goe@mbs1179.com target=_blank>goe@mbs1179.com</a><br /><br /><br />◆サンデーライブ　ゴエでSHOW！番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/goe/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/sundaylive_goe target=_blank>@sundaylive_goe</a><br />☆Instagram：<a href=https://www.instagram.com/sundaylive_goe/ target=_blank>sundaylive_goe</a>",
               "pfm": "浅越ゴエ（ザ・プラン9）、豊島美雪、桂二葉（落語家）、きんめ鯛",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/c9gjl50eus.png",
-              "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -564,7 +472,7 @@
               }
             },
             {
-              "-id": "9540095883",
+              "-id": "9540255698",
               "-ft": "20201101125000",
               "-to": "20201101130000",
               "-ftl": "1250",
@@ -586,7 +494,7 @@
               }
             },
             {
-              "-id": "9540095903",
+              "-id": "9540255719",
               "-ft": "20201101130000",
               "-to": "20201101163000",
               "-ftl": "1300",
@@ -600,16 +508,6 @@
               "desc": "11月1日<br /><br />・天皇賞秋 G1 （東京）<br />・カシオペアS （京都）<br />・福島民友C （福島）<br /><br />N・交（13時・14時台）<br />天（13時台）<br /><br /><br />メールアドレス：<a href=mailto:keiba@mbs1179.com target=_blank>keiba@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/keiba/ target=_blank>こちらをクリック</a>",
               "pfm": "佐藤哲三（元JRA騎手）、来栖正之（MBSアナウンサー）、仙田和吉（MBSアナウンサー）、河本光正（MBSアナウンサー）、三宅秀一郎、奥村麻衣子、原山実子、青木行雄、西村敬",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/ar1v2k1whh.png",
-              "genre": {
-                "personality": {
-                  "-id": "C013",
-                  "name": "アスリート"
-                },
-                "program": {
-                  "-id": "P019",
-                  "name": "公営競技"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -618,7 +516,7 @@
               }
             },
             {
-              "-id": "9540095992",
+              "-id": "9540255808",
               "-ft": "20201101163000",
               "-to": "20201101170000",
               "-ftl": "1630",
@@ -639,7 +537,7 @@
               }
             },
             {
-              "-id": "9540096017",
+              "-id": "9540255834",
               "-ft": "20201101170000",
               "-to": "20201101170900",
               "-ftl": "1700",
@@ -659,7 +557,7 @@
               }
             },
             {
-              "-id": "9540096018",
+              "-id": "9540255835",
               "-ft": "20201101170900",
               "-to": "20201101171000",
               "-ftl": "1709",
@@ -670,12 +568,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/0ec3e29f-a11b-4d6c-9af1-4761ebbf21c9.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -684,7 +576,7 @@
               }
             },
             {
-              "-id": "9540096019",
+              "-id": "9540255836",
               "-ft": "20201101171000",
               "-to": "20201101174000",
               "-ftl": "1710",
@@ -698,6 +590,16 @@
               "desc": "人気声優　寺島惇太と三澤紗千香　が小説投稿サイト「小説家になろう」に、実際に投稿された作品をピックアップ！<br />その作品のあらすじ・ヨミどころを、人気声優ならではの色で紹介します！<br />毎週日曜日の夕方に、異世界へと誘います。<br />放送をもう1度お聴きになりたい方は、MBSラジオyoutubeチャンネルをチェック！<br /><br /><br />メールアドレス：<a href=mailto:narou@mbs1179.com target=_blank>narou@mbs1179.com</a><br /><br /><br />◆寺島惇太と三澤紗千香の小説家になろうnavi　-2nd book-番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/narou/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/narou_mbs target=_blank>@narou_mbs</a>",
               "pfm": "寺島惇太、三澤紗千香",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/b09cc74b-f7df-4ec8-af30-15f621cbdc3f.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "寺島惇太"
+                  },
+                  {
+                    "name": "三澤紗千香"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C005",
@@ -716,7 +618,7 @@
               }
             },
             {
-              "-id": "9540096026",
+              "-id": "9540255848",
               "-ft": "20201101174000",
               "-to": "20201101174300",
               "-ftl": "1740",
@@ -727,12 +629,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/0ec3e29f-a11b-4d6c-9af1-4761ebbf21c9.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -741,7 +637,7 @@
               }
             },
             {
-              "-id": "9540096027",
+              "-id": "9540255849",
               "-ft": "20201101174300",
               "-to": "20201101174500",
               "-ftl": "1743",
@@ -752,12 +648,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/0ec3e29f-a11b-4d6c-9af1-4761ebbf21c9.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -766,7 +656,7 @@
               }
             },
             {
-              "-id": "9540096029",
+              "-id": "9540255851",
               "-ft": "20201101174500",
               "-to": "20201101175900",
               "-ftl": "1745",
@@ -780,16 +670,6 @@
               "desc": "メールアドレス：<a href=mailto:takaramono@mbs1179.com target=_blank>takaramono@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/takaramono/ target=_blank>こちらをクリック</a>",
               "pfm": "野村啓司、中倉真梨子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/53970fce-fa24-4cc1-9804-f8f21d70c1c9.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -798,7 +678,7 @@
               }
             },
             {
-              "-id": "9540096040",
+              "-id": "9540255861",
               "-ft": "20201101175900",
               "-to": "20201101210000",
               "-ftl": "1759",
@@ -810,6 +690,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "メールアドレス：<a href=mailto:park@mbs1179.com target=_blank>park@mbs1179.com</a><br /><br /><br />◆MBSベースボールパーク番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/tigers/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/tigers_park_mbs target=_blank>@tigers_park_mbs</a><br />☆Instagram：<a href=https://www.instagram.com/mbs_baseballpark/ target=_blank>mbs_baseballpark</a>",
+              "pfm": "太田幸司、チキチキジョニー、森本栄浩（MBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/64c39a63-b682-4549-a318-e1a2bc5d23fc.jpeg",
               "metas": {
                 "meta": {
@@ -819,7 +700,7 @@
               }
             },
             {
-              "-id": "9540096152",
+              "-id": "9540255980",
               "-ft": "20201101210000",
               "-to": "20201101213000",
               "-ftl": "2100",
@@ -833,6 +714,19 @@
               "desc": "スポーツ界で活躍するアスリートのリアルな声や、<br />彼らに役立つひょうごの魅力や情報を、<br />元ラグビー日本代表・大畑大介がお届けします。<br /><br /><br />メールアドレス：<a href=mailto:try@mbs1179.com target=_blank>try@mbs1179.com</a><br /><br /><br />◆大畑大介の”ひょうご五国”へLETS トライ！ 番組サイト◆<br /><br />☆番組ホームページ：<a href=https://www.mbs1179.com/try/ target=_blank>こちらをクリック</a><br />☆Instagram：<a href=https://www.instagram.com/ohata_mbs/ target=_blank>ohata_mbs</a><br />☆facebook：<a href=https://www.facebook.com/ohata.hyogo.mbs/ target=_blank>こちらをクリック</a>",
               "pfm": "大畑大介、市川いずみ、松本麻衣子（MBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/3fca9808-d5e0-49da-b4d2-75da7ed72d53.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "大畑大介"
+                  },
+                  {
+                    "name": "市川いずみ"
+                  },
+                  {
+                    "name": "松本麻衣子(MBSアナウンサー)"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C013",
@@ -851,7 +745,7 @@
               }
             },
             {
-              "-id": "9540096166",
+              "-id": "9540255991",
               "-ft": "20201101213000",
               "-to": "20201101220000",
               "-ftl": "2130",
@@ -865,6 +759,19 @@
               "desc": "歌好きのママ、キム・ランヒが切り盛りする酒場。<br />日曜日の夜になると、二人の常連客が顔を出し、<br />歌と楽しいトークに花が咲く。<br />さあ、今宵も陽気な歌酒場、開店です！<br /><br /><br />メールアドレス：<a href=mailto:ranhi@mbs1179.com target=_blank>ranhi@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/ranhi/ target=_blank>こちらをクリック</a>",
               "pfm": "キム・ランヒ、桂春團治（落語家）、シゲ高木",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/ada865b0-67a8-42cf-93a0-58c109b75328.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "キム・ランヒ"
+                  },
+                  {
+                    "name": "桂春團治"
+                  },
+                  {
+                    "name": "シゲ高木"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -883,7 +790,7 @@
               }
             },
             {
-              "-id": "9540096188",
+              "-id": "9540256012",
               "-ft": "20201101220000",
               "-to": "20201101233000",
               "-ftl": "2200",
@@ -897,16 +804,6 @@
               "desc": "メールアドレス：<a href=mailto:yantan@mbs1179.com target=_blank>yantan@mbs1179.com</a><br /><br /><br />◆MBSヤングタウン日曜日番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/yan_sun/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/yantansunday/ target=_blank>@yantansunday</a>",
               "pfm": "笑福亭鶴瓶（落語家）、三遊亭とむ、田口万莉、福島暢啓（MBSアナウンサー）、森本尚太（MBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/0ec3e29f-a11b-4d6c-9af1-4761ebbf21c9.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -915,7 +812,7 @@
               }
             },
             {
-              "-id": "9540096243",
+              "-id": "9540256057",
               "-ft": "20201101233000",
               "-to": "20201102000000",
               "-ftl": "2330",
@@ -929,16 +826,6 @@
               "desc": "この番組は6人組エンターテイメント集団「祭nine.」が、関西のことを『めっちゃ』勉強して、 『めっちゃ』関西を盛り上げるべく、いろんなことにチャレンジする番組です！<br />この番組を聞いて、祭nine.のことを『めっちゃ』好きになってください！<br /><br />★★主なコーナー★★<br /><br />▽めっちゃ聞いて欲しい！　私の〇〇な話～！！<br />▽これが関西っちゅうもんでっせー！<br />▽集まれ！めっちゃ！王将女子.<br />▽レッツリスン！めちゃプラ祭り<br /><br /><br />メールアドレス：<a href=mailto:matsuri@mbs1179.com target=_blank>matsuri@mbs1179.com</a><br /><br /><br />◆めっちゃ！祭nine.番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/matsuri/ target=_blank>こちらをクリック</a><br />☆Instagram：<a href=https://www.instagram.com/matsuri9_mbs/ target=_blank>matsuri9_mbs</a>",
               "pfm": "祭nine.",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/0d4ca89d-d1ad-49dd-a2b9-757937f4c8bc.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C007",
-                  "name": "男性アイドル"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -947,7 +834,7 @@
               }
             },
             {
-              "-id": "9540096269",
+              "-id": "9540256085",
               "-ft": "20201102000000",
               "-to": "20201102003000",
               "-ftl": "2400",
@@ -961,6 +848,16 @@
               "desc": "メールアドレス：<a href=mailto:moguradi@mbs1179.com target=_blank>moguradi@mbs1179.com</a><br /><br /><br />番組Twitter：<a href=https://twitter.com/moguradi_staff/ target=_blank>@moguradi_staff</a>",
               "pfm": "植田圭輔、高本学",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/bee74837-73f2-4508-bf9a-60221d6dd65c.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "植田圭輔"
+                  },
+                  {
+                    "name": "高本学"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C002",
@@ -979,7 +876,7 @@
               }
             },
             {
-              "-id": "9540096280",
+              "-id": "9540256096",
               "-ft": "20201102003000",
               "-to": "20201102004000",
               "-ftl": "2430",
@@ -993,6 +890,11 @@
               "desc": "番組ホームページは<a href=https://www.mbs1179.com/nanatabi/ target=_blank>こちらをクリック</a>",
               "pfm": "六車奈々",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/d98cf318-9370-4a66-be7c-a94d2e430b9f.jpeg",
+              "tag": {
+                "item": {
+                  "name": "六車奈々"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -1011,7 +913,7 @@
               }
             },
             {
-              "-id": "9540096282",
+              "-id": "9540256097",
               "-ft": "20201102004000",
               "-to": "20201102011000",
               "-ftl": "2440",
@@ -1025,6 +927,16 @@
               "desc": "メールアドレス：<a href=mailto:happy@mbs1179.com target=_blank>happy@mbs1179.com</a><br /><br />番組ホームページは<a href=http://www.mbs1179.com/happy/ target=_blank>こちらをクリック</a>",
               "pfm": "菅生新、りえ●",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/03e3d9dd-1156-4eb6-9b23-57c479b03201.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "菅生新"
+                  },
+                  {
+                    "name": "りえ●"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C012",
@@ -1043,7 +955,7 @@
               }
             },
             {
-              "-id": "9540096296",
+              "-id": "9540256109",
               "-ft": "20201102011000",
               "-to": "20201102011500",
               "-ftl": "2510",
@@ -1068,7 +980,7 @@
               }
             },
             {
-              "-id": "9540096298",
+              "-id": "9540256111",
               "-ft": "20201102011500",
               "-to": "20201102044800",
               "-ftl": "2515",
@@ -1087,7 +999,7 @@
               }
             },
             {
-              "-id": "9540096317",
+              "-id": "9540256141",
               "-ft": "20201102044800",
               "-to": "20201102045300",
               "-ftl": "2848",
@@ -1106,7 +1018,7 @@
               }
             },
             {
-              "-id": "9540096318",
+              "-id": "9540256142",
               "-ft": "20201102045300",
               "-to": "20201102045400",
               "-ftl": "2853",
@@ -1125,7 +1037,7 @@
               }
             },
             {
-              "-id": "9540096319",
+              "-id": "9540256143",
               "-ft": "20201102045400",
               "-to": "20201102045500",
               "-ftl": "2854",
@@ -1136,12 +1048,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/0ec3e29f-a11b-4d6c-9af1-4761ebbf21c9.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1150,7 +1056,7 @@
               }
             },
             {
-              "-id": "9540096321",
+              "-id": "9540256145",
               "-ft": "20201102045500",
               "-to": "20201102050000",
               "-ftl": "2855",
@@ -1164,12 +1070,6 @@
               "desc": "番組ホームページは<a href=http://www.tomoshibi.or.jp/ target=_blank>こちらをクリック</a>",
               "pfm": "坪井木の実",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/0ec3e29f-a11b-4d6c-9af1-4761ebbf21c9.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P016",
-                  "name": "宗教"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
