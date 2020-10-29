@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1603736696",
+    "srvtime": "1603995924",
     "stations": {
       "station": {
         "-id": "OBS",
@@ -10,7 +10,7 @@
           "date": "20201030",
           "prog": [
             {
-              "-id": "9539885533",
+              "-id": "9540254091",
               "-ft": "20201030050000",
               "-to": "20201030051000",
               "-ftl": "0500",
@@ -104,7 +104,7 @@
               }
             },
             {
-              "-id": "9539885559",
+              "-id": "9540643129",
               "-ft": "20201030053000",
               "-to": "20201030063000",
               "-ftl": "0530",
@@ -118,6 +118,16 @@
               "desc": "　　",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/jn1sxj1lje.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -491,7 +501,7 @@
               }
             },
             {
-              "-id": "9539561875",
+              "-id": "9540643361",
               "-ft": "20201030173000",
               "-to": "20201030174500",
               "-ftl": "1730",
@@ -503,6 +513,16 @@
               "ts_out_ng": "0",
               "desc": "　　",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/19f74227-a658-4874-ac8e-7c0663bee4d1.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -825,7 +845,7 @@
               }
             },
             {
-              "-id": "9539885856",
+              "-id": "9540643561",
               "-ft": "20201031010000",
               "-to": "20201031030000",
               "-ftl": "2500",
@@ -839,6 +859,12 @@
               "desc": "　　",
               "pfm": "三四郎",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/f83c682c-06c8-4513-a2c5-acb22ce29815.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -847,7 +873,7 @@
               }
             },
             {
-              "-id": "9539724355",
+              "-id": "9540643587",
               "-ft": "20201031030000",
               "-to": "20201031050000",
               "-ftl": "2700",
@@ -859,6 +885,16 @@
               "ts_out_ng": "0",
               "desc": "　　",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/19f74227-a658-4874-ac8e-7c0663bee4d1.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
