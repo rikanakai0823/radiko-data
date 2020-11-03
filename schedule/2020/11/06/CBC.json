@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1604341487",
+    "srvtime": "1604427840",
     "stations": {
       "station": {
         "-id": "CBC",
@@ -83,7 +83,7 @@
               }
             },
             {
-              "-id": "9541332672",
+              "-id": "9541503052",
               "-ft": "20201106053000",
               "-to": "20201106063000",
               "-ftl": "0530",
@@ -98,6 +98,16 @@
               "info": "ニュース、スポーツ、健康、シニアライフ、介護などをキーワードにわかりやすく、お伝えしていきます。",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/n9i7kubnjx.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -597,7 +607,7 @@
               }
             },
             {
-              "-id": "9541332731",
+              "-id": "9541519833",
               "-ft": "20201107010000",
               "-to": "20201107030000",
               "-ftl": "2500",
@@ -611,6 +621,12 @@
               "info": "今夜は三四郎のオールナイトニッポン！",
               "pfm": "三四郎",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/d6f8f56d-f0df-4aab-b4f9-1242bb8d86b3.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
