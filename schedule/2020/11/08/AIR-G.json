@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1604341506",
+    "srvtime": "1604514256",
     "stations": {
       "station": {
         "-id": "AIR-G",
@@ -88,29 +88,31 @@
               }
             },
             {
-              "-id": "9541327854",
+              "-id": "9541693816",
               "-ft": "20201108055500",
               "-to": "20201108060000",
               "-ftl": "0555",
               "-tol": "0600",
               "-dur": "300",
-              "title": "BRAND-NEW SONG MORNING",
+              "title": "番組審議会だより",
+              "url": "http://www.air-g.co.jp/shingikai/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/AIR-G/7u0be7h0xh.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/FU/person/67_a728f2ea_sq.jpg\" height=\"60\" width=\"60\" alt=\"高山　秀毅\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"http://www.air-g.co.jp/shingikai/\">http://www.air-g.co.jp/shingikai/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23air_g\">#air_g</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/AIRG_FM\">@AIRG_FM</a>」<br /><br /></div>",
+              "pfm": "高山　秀毅",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/AIR-G/f1641508-94ca-4489-af70-d05f12d96a92.jpeg",
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#air_g"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:AIRG_FM"
+                  }
+                ]
               }
             },
             {
@@ -1366,6 +1368,34 @@
                   "-name": "twitter",
                   "-value": "#radiko"
                 }
+              }
+            },
+            {
+              "-id": "9541692000",
+              "-ft": "20201108190000",
+              "-to": "20201108200000",
+              "-ftl": "1900",
+              "-tol": "2000",
+              "-dur": "3600",
+              "title": "さっぽろアートステージ2020 SAPPORO MUSIC SHOWCASE",
+              "url": "https://www.air-g.co.jp/hotnews/982/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/FU/person/4334_17296314_sq.jpg\" height=\"60\" width=\"60\" alt=\"森本　優\"></td>  </tr></table><br /><br />\t札幌を中心に活動するミュージシャンを公募し、<br />札幌駅前通地下歩行空間北3条広場を舞台に11月14日（土）、15日（日)LIVEイベントを開催。<br />出演者は公募の中から厳選した10組を「今、知ってほしい札幌の音楽」として<br />札幌市民をはじめ幅広い方に紹介していきます。<br />選考を勝ち抜いた10組を、番組にて先行して紹介します！<br />出場者の情報だけではなく、音楽に対する思いなども話してくれます。<br />特別番組を聴いて、一足はやくアーティスト情報をGETしよう！ <br /><br />\t番組Webサイト：<a href=\"https://www.air-g.co.jp/hotnews/982/\">https://www.air-g.co.jp/hotnews/982/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23air_g\">#air_g</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/AIRG_FM\">@AIRG_FM</a>」<br /><br /></div>",
+              "pfm": "森本　優",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/AIR-G/0aevq70uul.jpg",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#air_g"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:AIRG_FM"
+                  }
+                ]
               }
             },
             {
