@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1604514265",
+    "srvtime": "1604687145",
     "stations": {
       "station": {
         "-id": "MBC",
@@ -10,7 +10,7 @@
           "date": "20201109",
           "prog": [
             {
-              "-id": "9541350802",
+              "-id": "9542050563",
               "-ft": "20201109050000",
               "-to": "20201109051000",
               "-ftl": "0500",
@@ -31,7 +31,7 @@
               }
             },
             {
-              "-id": "9541321750",
+              "-id": "9542050594",
               "-ft": "20201109051000",
               "-to": "20201109052500",
               "-ftl": "0510",
@@ -51,7 +51,7 @@
               }
             },
             {
-              "-id": "9541330647",
+              "-id": "9542050602",
               "-ft": "20201109052500",
               "-to": "20201109053000",
               "-ftl": "0525",
@@ -72,7 +72,7 @@
               }
             },
             {
-              "-id": "9541685778",
+              "-id": "9542050609",
               "-ft": "20201109053000",
               "-to": "20201109055500",
               "-ftl": "0530",
@@ -104,7 +104,7 @@
               }
             },
             {
-              "-id": "9541321756",
+              "-id": "9542050622",
               "-ft": "20201109055500",
               "-to": "20201109055800",
               "-ftl": "0555",
@@ -135,7 +135,7 @@
               }
             },
             {
-              "-id": "9541685791",
+              "-id": "9542050636",
               "-ft": "20201109055800",
               "-to": "20201109063000",
               "-ftl": "0558",
@@ -167,7 +167,7 @@
               }
             },
             {
-              "-id": "9541350885",
+              "-id": "9542050674",
               "-ft": "20201109063000",
               "-to": "20201109070000",
               "-ftl": "0630",
@@ -179,7 +179,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "「鹿児島の朝を元気に！笑顔で！」  ニュース・交通情報・天気・季節の話題など、笑顔とともにお伝えします。",
-              "info": "番組へのメールは<A href=\"mailto:smile@mbc.co.jp\">smile@mbc.co.jp</A><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A2%E3%83%8B%E3%82%B9%E3%83%9E\">#モニスマ</a>」",
+              "info": "番組へのメールは<A href=\"mailto:smile@mbc.co.jp\">smile@mbc.co.jp</A><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A2%E3%83%8B%E3%82%B9%E3%83%9E\">#モニスマ</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "pfm": "木藪亮太",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/mb5pmaqjeg.jpg",
               "genre": {
@@ -193,14 +193,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#モニスマ"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#モニスマ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "#MBCラジオスペシャルウィーク"
+                  }
+                ]
               }
             },
             {
-              "-id": "9541350911",
+              "-id": "9542050732",
               "-ft": "20201109070000",
               "-to": "20201109071000",
               "-ftl": "0700",
@@ -212,7 +218,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "「鹿児島の朝を元気に！笑顔で！」  ニュース・交通情報・天気・季節の話題など、笑顔とともにお伝えします。",
-              "info": "番組へのメールは<A href=\"mailto:smile@mbc.co.jp\">smile@mbc.co.jp</A><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A2%E3%83%8B%E3%82%B9%E3%83%9E\">#モニスマ</a>」",
+              "info": "番組へのメールは<A href=\"mailto:smile@mbc.co.jp\">smile@mbc.co.jp</A><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A2%E3%83%8B%E3%82%B9%E3%83%9E\">#モニスマ</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "pfm": "木藪亮太",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/mb5pmaqjeg.jpg",
               "genre": {
@@ -226,14 +232,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#モニスマ"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#モニスマ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "#MBCラジオスペシャルウィーク"
+                  }
+                ]
               }
             },
             {
-              "-id": "9541350930",
+              "-id": "9542050752",
               "-ft": "20201109071000",
               "-to": "20201109080000",
               "-ftl": "0710",
@@ -245,7 +257,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "「鹿児島の朝を元気に！笑顔で！」  ニュース・交通情報・天気・季節の話題など、笑顔とともにお伝えします。",
-              "info": "番組へのメールは<A href=\"mailto:smile@mbc.co.jp\">smile@mbc.co.jp</A><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A2%E3%83%8B%E3%82%B9%E3%83%9E\">#モニスマ</a>」",
+              "info": "番組へのメールは<A href=\"mailto:smile@mbc.co.jp\">smile@mbc.co.jp</A><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A2%E3%83%8B%E3%82%B9%E3%83%9E\">#モニスマ</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "pfm": "木藪亮太",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/mb5pmaqjeg.jpg",
               "genre": {
@@ -259,14 +271,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#モニスマ"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#モニスマ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "#MBCラジオスペシャルウィーク"
+                  }
+                ]
               }
             },
             {
-              "-id": "9541350983",
+              "-id": "9542050819",
               "-ft": "20201109080000",
               "-to": "20201109090000",
               "-ftl": "0800",
@@ -277,7 +295,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<br />「鹿児島の朝を元気に！笑顔で！」  ニュース・交通情報・天気・季節の話題など、笑顔とともにお伝えします。<br /><br />番組へのメールは<A href=\"mailto:smile@mbc.co.jp\">smile@mbc.co.jp</A><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A2%E3%83%8B%E3%82%B9%E3%83%9E\">#モニスマ</a>」<br /><br />",
+              "info": "<br />「鹿児島の朝を元気に！笑顔で！」  ニュース・交通情報・天気・季節の話題など、笑顔とともにお伝えします。<br /><br />番組へのメールは<A href=\"mailto:smile@mbc.co.jp\">smile@mbc.co.jp</A><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A2%E3%83%8B%E3%82%B9%E3%83%9E\">#モニスマ</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」<br />",
               "pfm": "木藪亮太",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/mb5pmaqjeg.jpg",
               "genre": {
@@ -291,14 +309,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#モニスマ"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#モニスマ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "#MBCラジオスペシャルウィーク"
+                  }
+                ]
               }
             },
             {
-              "-id": "9541351049",
+              "-id": "9542050887",
               "-ft": "20201109090000",
               "-to": "20201109093700",
               "-ftl": "0900",
@@ -310,7 +334,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "「鹿児島の朝を元気に！笑顔で！」  ニュース・交通情報・天気・季節の話題など、笑顔とともにお伝えします。",
-              "info": "番組へのメールは<A href=\"mailto:smile@mbc.co.jp\">smile@mbc.co.jp</A><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A2%E3%83%8B%E3%82%B9%E3%83%9E\">#モニスマ</a>」",
+              "info": "番組へのメールは<A href=\"mailto:smile@mbc.co.jp\">smile@mbc.co.jp</A><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A2%E3%83%8B%E3%82%B9%E3%83%9E\">#モニスマ</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "pfm": "木藪亮太",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/mb5pmaqjeg.jpg",
               "genre": {
@@ -324,14 +348,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#モニスマ"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#モニスマ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "#MBCラジオスペシャルウィーク"
+                  }
+                ]
               }
             },
             {
-              "-id": "9541351069",
+              "-id": "9542050923",
               "-ft": "20201109093700",
               "-to": "20201109094300",
               "-ftl": "0937",
@@ -362,7 +392,7 @@
               }
             },
             {
-              "-id": "9541333176",
+              "-id": "9542050924",
               "-ft": "20201109094300",
               "-to": "20201109095000",
               "-ftl": "0943",
@@ -394,7 +424,7 @@
               }
             },
             {
-              "-id": "9541341177",
+              "-id": "9542050925",
               "-ft": "20201109095000",
               "-to": "20201109095500",
               "-ftl": "0950",
@@ -425,7 +455,7 @@
               }
             },
             {
-              "-id": "9541321782",
+              "-id": "9542050927",
               "-ft": "20201109095500",
               "-to": "20201109100000",
               "-ftl": "0955",
@@ -456,7 +486,7 @@
               }
             },
             {
-              "-id": "9541333195",
+              "-id": "9542050947",
               "-ft": "20201109100000",
               "-to": "20201109105000",
               "-ftl": "1000",
@@ -468,7 +498,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "情報・音楽・おしゃべり．．．「たんぽぽ倶楽部」はたんぽぽの花！",
-              "info": "綿毛のひとつひとつがリスナーのみなさん！パーソナリティーがラジオを通じて、たくさんの綿毛を飛ばします。<br /><A href=\"mailto:popo@mbc.co.jp\">popo@mbc.co.jp</A><br /><br />レディーストピックス<br />ラジオショッピング<br />ＣＨＯ－ＦＵＬ　ＭＵＳＩＣ<br />ミナミさんちのクイズ　たんぽぽ版<br />ＰＯＰＯ　ＰＡＲＫ<br />海童が行く<br /><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%9F%E3%82%93%E3%81%BD%E3%81%BD%E5%80%B6%E6%A5%BD%E9%83%A8\">#たんぽぽ倶楽部</a>」",
+              "info": "綿毛のひとつひとつがリスナーのみなさん！パーソナリティーがラジオを通じて、たくさんの綿毛を飛ばします。<br /><A href=\"mailto:popo@mbc.co.jp\">popo@mbc.co.jp</A><br /><br />レディーストピックス<br />ラジオショッピング<br />ＣＨＯ－ＦＵＬ　ＭＵＳＩＣ<br />ミナミさんちのクイズ　たんぽぽ版<br />ＰＯＰＯ　ＰＡＲＫ<br />海童が行く<br /><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%9F%E3%82%93%E3%81%BD%E3%81%BD%E5%80%B6%E6%A5%BD%E9%83%A8\">#たんぽぽ倶楽部</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "pfm": "宮原恵津子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/iffvx2gsjk.jpg",
               "genre": {
@@ -482,14 +512,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#たんぽぽ倶楽部"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#たんぽぽ倶楽部"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "#MBCラジオスペシャルウィーク"
+                  }
+                ]
               }
             },
             {
-              "-id": "9541341187",
+              "-id": "9542050978",
               "-ft": "20201109105000",
               "-to": "20201109110000",
               "-ftl": "1050",
@@ -520,7 +556,7 @@
               }
             },
             {
-              "-id": "9541333256",
+              "-id": "9542051013",
               "-ft": "20201109110000",
               "-to": "20201109115000",
               "-ftl": "1100",
@@ -532,7 +568,7 @@
               "ts_in_ng": "1",
               "ts_out_ng": "1",
               "desc": "情報・音楽・おしゃべり・・・  「たんぽぽ倶楽部」はたんぽぽの花！",
-              "info": "綿毛のひとつひとつがリスナーのみなさん！パーソナリティーがラジオを通じて、たくさんの綿毛を飛ばします。<br /><A href=\"mailto:popo@mbc.co.jp\">popo@mbc.co.jp</A><br /><br />テレフォン人生相談（タイムフリーではお聴きいただけません）<br />ジミちゃんチョイス<br />ランチタイム音楽ギャラリー<br />たんぽぽお出かけ隊<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%9F%E3%82%93%E3%81%BD%E3%81%BD%E5%80%B6%E6%A5%BD%E9%83%A8\">#たんぽぽ倶楽部</a>」",
+              "info": "綿毛のひとつひとつがリスナーのみなさん！パーソナリティーがラジオを通じて、たくさんの綿毛を飛ばします。<br /><A href=\"mailto:popo@mbc.co.jp\">popo@mbc.co.jp</A><br /><br />テレフォン人生相談（タイムフリーではお聴きいただけません）<br />ジミちゃんチョイス<br />ランチタイム音楽ギャラリー<br />たんぽぽお出かけ隊<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%9F%E3%82%93%E3%81%BD%E3%81%BD%E5%80%B6%E6%A5%BD%E9%83%A8\">#たんぽぽ倶楽部</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "pfm": "宮原恵津子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/iffvx2gsjk.jpg",
               "genre": {
@@ -546,14 +582,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#たんぽぽ倶楽部"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#たんぽぽ倶楽部"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "#MBCラジオスペシャルウィーク"
+                  }
+                ]
               }
             },
             {
-              "-id": "9541341203",
+              "-id": "9542051069",
               "-ft": "20201109115000",
               "-to": "20201109120000",
               "-ftl": "1150",
@@ -584,7 +626,7 @@
               }
             },
             {
-              "-id": "9541333327",
+              "-id": "9542051097",
               "-ft": "20201109120000",
               "-to": "20201109125000",
               "-ftl": "1200",
@@ -596,7 +638,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "情報・音楽・おしゃべり・・・  「たんぽぽ倶楽部」はたんぽぽの花！",
-              "info": "綿毛のひとつひとつがリスナーのみなさん！パーソナリティーがラジオを通じて、たくさんの綿毛を飛ばします。<br /><A href=\"mailto:popo@mbc.co.jp\">popo@mbc.co.jp</A><br /><br />ぽぽナビ<br />みんなみんなにありがとう<br />たんぽぽ天気やさん<br />キッチンマジック<br />おめでとう・ありがとう１０のボイスメール<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%9F%E3%82%93%E3%81%BD%E3%81%BD%E5%80%B6%E6%A5%BD%E9%83%A8\">#たんぽぽ倶楽部</a>」",
+              "info": "綿毛のひとつひとつがリスナーのみなさん！パーソナリティーがラジオを通じて、たくさんの綿毛を飛ばします。<br /><A href=\"mailto:popo@mbc.co.jp\">popo@mbc.co.jp</A><br /><br />ぽぽナビ<br />みんなみんなにありがとう<br />たんぽぽ天気やさん<br />キッチンマジック<br />おめでとう・ありがとう１０のボイスメール<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%9F%E3%82%93%E3%81%BD%E3%81%BD%E5%80%B6%E6%A5%BD%E9%83%A8\">#たんぽぽ倶楽部</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "pfm": "宮原恵津子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/iffvx2gsjk.jpg",
               "genre": {
@@ -610,14 +652,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#たんぽぽ倶楽部"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#たんぽぽ倶楽部"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "#MBCラジオスペシャルウィーク"
+                  }
+                ]
               }
             },
             {
-              "-id": "9541341214",
+              "-id": "9542051182",
               "-ft": "20201109125000",
               "-to": "20201109125500",
               "-ftl": "1250",
@@ -648,7 +696,7 @@
               }
             },
             {
-              "-id": "9541352116",
+              "-id": "9542051199",
               "-ft": "20201109125500",
               "-to": "20201109130000",
               "-ftl": "1255",
@@ -659,7 +707,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "pfm": "平松　剛\n美坂理恵",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/37tjumz4md.jpg",
               "genre": {
@@ -675,12 +723,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#MBCラジオ"
+                  "-value": "#MBCラジオスペシャルウィーク"
                 }
               }
             },
             {
-              "-id": "9541503670",
+              "-id": "9542051219",
               "-ft": "20201109130000",
               "-to": "20201109131000",
               "-ftl": "1300",
@@ -712,7 +760,7 @@
               }
             },
             {
-              "-id": "9541351241",
+              "-id": "9542051248",
               "-ft": "20201109131000",
               "-to": "20201109132000",
               "-ftl": "1310",
@@ -743,7 +791,7 @@
               }
             },
             {
-              "-id": "9541330758",
+              "-id": "9542051249",
               "-ft": "20201109132000",
               "-to": "20201109133000",
               "-ftl": "1320",
@@ -765,7 +813,7 @@
               }
             },
             {
-              "-id": "9541333437",
+              "-id": "9542051253",
               "-ft": "20201109133000",
               "-to": "20201109135000",
               "-ftl": "1330",
@@ -777,7 +825,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "楽しいおしゃべり、素敵な音楽。鹿児島の午後のひと時は「城山スズメ」とともにお過ごしください。",
-              "info": "番組へのメール・リクエストは<A href=\"mailto:suzume@mbc.co.jp\">suzume@mbc.co.jp</A><br /><br />ＦＡＸは099-250-1107へ。<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%9F%8E%E5%B1%B1%E3%82%B9%E3%82%BA%E3%83%A1\">#城山スズメ</a>」",
+              "info": "番組へのメール・リクエストは<A href=\"mailto:suzume@mbc.co.jp\">suzume@mbc.co.jp</A><br /><br />ＦＡＸは099-250-1107へ。<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%9F%8E%E5%B1%B1%E3%82%B9%E3%82%BA%E3%83%A1\">#城山スズメ</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "pfm": "采野吉洋\n笹田美樹",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/ieheoon68r.jpg",
               "genre": {
@@ -791,14 +839,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#城山スズメ"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#城山スズメ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "#MBCラジオスペシャルウィーク"
+                  }
+                ]
               }
             },
             {
-              "-id": "9541341229",
+              "-id": "9542051258",
               "-ft": "20201109135000",
               "-to": "20201109135500",
               "-ftl": "1350",
@@ -829,7 +883,7 @@
               }
             },
             {
-              "-id": "9541321801",
+              "-id": "9542051259",
               "-ft": "20201109135500",
               "-to": "20201109140000",
               "-ftl": "1355",
@@ -849,7 +903,7 @@
               }
             },
             {
-              "-id": "9541333458",
+              "-id": "9542051272",
               "-ft": "20201109140000",
               "-to": "20201109145000",
               "-ftl": "1400",
@@ -861,7 +915,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "楽しいおしゃべり、素敵な音楽。鹿児島の午後のひと時は「城山スズメ」とともにお過ごしください。",
-              "info": "番組へのメール・リクエストは<A href=\"mailto:suzume@mbc.co.jp\">suzume@mbc.co.jp</A><br /><br />ＦＡＸは099-250-1107へ。<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%9F%8E%E5%B1%B1%E3%82%B9%E3%82%BA%E3%83%A1\">#城山スズメ</a>」",
+              "info": "番組へのメール・リクエストは<A href=\"mailto:suzume@mbc.co.jp\">suzume@mbc.co.jp</A><br /><br />ＦＡＸは099-250-1107へ。<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%9F%8E%E5%B1%B1%E3%82%B9%E3%82%BA%E3%83%A1\">#城山スズメ</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "pfm": "采野吉洋\n笹田美樹",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/ieheoon68r.jpg",
               "genre": {
@@ -875,14 +929,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#城山スズメ"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#城山スズメ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "#MBCラジオスペシャルウィーク"
+                  }
+                ]
               }
             },
             {
-              "-id": "9541341237",
+              "-id": "9542051304",
               "-ft": "20201109145000",
               "-to": "20201109150000",
               "-ftl": "1450",
@@ -913,7 +973,7 @@
               }
             },
             {
-              "-id": "9541333503",
+              "-id": "9542051325",
               "-ft": "20201109150000",
               "-to": "20201109155000",
               "-ftl": "1500",
@@ -924,7 +984,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<br />楽しいおしゃべり、素敵な音楽。鹿児島の午後のひと時は「城山スズメ」とともにお過ごしください。<br /><br />番組へのメール・リクエストは<A href=\"mailto:suzume@mbc.co.jp\">suzume@mbc.co.jp</A><br /><br />ＦＡＸは099-250-1107へ。<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%9F%8E%E5%B1%B1%E3%82%B9%E3%82%BA%E3%83%A1\">#城山スズメ</a>」",
+              "info": "<br />楽しいおしゃべり、素敵な音楽。鹿児島の午後のひと時は「城山スズメ」とともにお過ごしください。<br /><br />番組へのメール・リクエストは<A href=\"mailto:suzume@mbc.co.jp\">suzume@mbc.co.jp</A><br /><br />ＦＡＸは099-250-1107へ。<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%9F%8E%E5%B1%B1%E3%82%B9%E3%82%BA%E3%83%A1\">#城山スズメ</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "pfm": "采野吉洋\n笹田美樹",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/ieheoon68r.jpg",
               "genre": {
@@ -938,14 +998,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#城山スズメ"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#城山スズメ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "#MBCラジオスペシャルウィーク"
+                  }
+                ]
               }
             },
             {
-              "-id": "9541341251",
+              "-id": "9542051357",
               "-ft": "20201109155000",
               "-to": "20201109160000",
               "-ftl": "1550",
@@ -976,7 +1042,7 @@
               }
             },
             {
-              "-id": "9541333545",
+              "-id": "9542051388",
               "-ft": "20201109160000",
               "-to": "20201109164000",
               "-ftl": "1600",
@@ -988,7 +1054,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "楽しいおしゃべり、素敵な音楽。鹿児島の午後のひと時は「城山スズメ」とともにお過ごしください。",
-              "info": "番組へのメール・リクエストは<A href=\"mailto:suzume@mbc.co.jp\">suzume@mbc.co.jp</A><br /><br />ＦＡＸは099-250-1107へ。<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%9F%8E%E5%B1%B1%E3%82%B9%E3%82%BA%E3%83%A1\">#城山スズメ</a>」",
+              "info": "番組へのメール・リクエストは<A href=\"mailto:suzume@mbc.co.jp\">suzume@mbc.co.jp</A><br /><br />ＦＡＸは099-250-1107へ。<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%9F%8E%E5%B1%B1%E3%82%B9%E3%82%BA%E3%83%A1\">#城山スズメ</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "pfm": "采野吉洋\n笹田美樹",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/ieheoon68r.jpg",
               "genre": {
@@ -1002,14 +1068,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#城山スズメ"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#城山スズメ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "#MBCラジオスペシャルウィーク"
+                  }
+                ]
               }
             },
             {
-              "-id": "9541686610",
+              "-id": "9542051435",
               "-ft": "20201109164000",
               "-to": "20201109165000",
               "-ftl": "1640",
@@ -1040,7 +1112,7 @@
               }
             },
             {
-              "-id": "9541341269",
+              "-id": "9542051451",
               "-ft": "20201109165000",
               "-to": "20201109165500",
               "-ftl": "1650",
@@ -1071,7 +1143,7 @@
               }
             },
             {
-              "-id": "9541321814",
+              "-id": "9542051458",
               "-ft": "20201109165500",
               "-to": "20201109170000",
               "-ftl": "1655",
@@ -1102,7 +1174,7 @@
               }
             },
             {
-              "-id": "9541503717",
+              "-id": "9542051468",
               "-ft": "20201109170000",
               "-to": "20201109171500",
               "-ftl": "1700",
@@ -1123,7 +1195,7 @@
               }
             },
             {
-              "-id": "9541342979",
+              "-id": "9542051480",
               "-ft": "20201109171500",
               "-to": "20201109172500",
               "-ftl": "1715",
@@ -1134,7 +1206,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "pfm": "宮原恵津子\n東川隆太郎",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/2pd7p1g40k.jpg",
               "genre": {
@@ -1150,12 +1222,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#MBCラジオ"
+                  "-value": "#MBCラジオスペシャルウィーク"
                 }
               }
             },
             {
-              "-id": "9541321820",
+              "-id": "9542051486",
               "-ft": "20201109172500",
               "-to": "20201109173000",
               "-ftl": "1725",
@@ -1166,7 +1238,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "夕方の道路の混み具合は？",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/2pjjysvfkt.jpg",
               "genre": {
                 "personality": {
@@ -1181,12 +1253,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#MBCラジオ"
+                  "-value": "#MBCラジオスペシャルウィーク"
                 }
               }
             },
             {
-              "-id": "9541522625",
+              "-id": "9542051498",
               "-ft": "20201109173000",
               "-to": "20201109174500",
               "-ftl": "1730",
@@ -1216,7 +1288,7 @@
               }
             },
             {
-              "-id": "9541333621",
+              "-id": "9542051503",
               "-ft": "20201109174500",
               "-to": "20201109175000",
               "-ftl": "1745",
@@ -1227,18 +1299,18 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "pfm": "加来耕三",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/.iipqws82q.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#MBCラジオ"
+                  "-value": "#MBCラジオスペシャルウィーク"
                 }
               }
             },
             {
-              "-id": "9541341282",
+              "-id": "9542051513",
               "-ft": "20201109175000",
               "-to": "20201109175500",
               "-ftl": "1750",
@@ -1269,7 +1341,7 @@
               }
             },
             {
-              "-id": "9541333626",
+              "-id": "9542051517",
               "-ft": "20201109175500",
               "-to": "20201109180000",
               "-ftl": "1755",
@@ -1281,7 +1353,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "鹿児島のスポーツから世界のスポーツまで。活躍の舞台裏や選手の背景に迫ります。",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "pfm": "下山英哉",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/46f73h60sf.jpg",
               "genre": {
@@ -1297,12 +1369,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#MBCラジオ"
+                  "-value": "#MBCラジオスペシャルウィーク"
                 }
               }
             },
             {
-              "-id": "9541352163",
+              "-id": "9542051527",
               "-ft": "20201109180000",
               "-to": "20201109185000",
               "-ftl": "1800",
@@ -1313,7 +1385,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」<br /><br /><br />",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」<br /><br /><br />",
               "pfm": "下山英哉",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/oycip3pdrg.jpg",
               "genre": {
@@ -1329,12 +1401,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#MBCラジオ"
+                  "-value": "#MBCラジオスペシャルウィーク"
                 }
               }
             },
             {
-              "-id": "9541333650",
+              "-id": "9542051566",
               "-ft": "20201109185000",
               "-to": "20201109190000",
               "-ftl": "1850",
@@ -1345,7 +1417,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "pfm": "栫　綾",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/pmayru1gxh.jpg",
               "genre": {
@@ -1361,12 +1433,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#MBCラジオ"
+                  "-value": "#MBCラジオスペシャルウィーク"
                 }
               }
             },
             {
-              "-id": "9541351587",
+              "-id": "9542051594",
               "-ft": "20201109190000",
               "-to": "20201109191000",
               "-ftl": "1900",
@@ -1377,7 +1449,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<br />商店街・通り会・青年会など街を盛り上げようと頑張る団体の試みやイベントを紹介！<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」<br /><br />",
+              "info": "<br />商店街・通り会・青年会など街を盛り上げようと頑張る団体の試みやイベントを紹介！<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」<br /><br />",
               "pfm": "今井由美子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/tfwyccrbmu.jpg",
               "genre": {
@@ -1393,12 +1465,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#MBCラジオ"
+                  "-value": "#MBCラジオスペシャルウィーク"
                 }
               }
             },
             {
-              "-id": "9541344490",
+              "-id": "9542051619",
               "-ft": "20201109191000",
               "-to": "20201109193000",
               "-ftl": "1910",
@@ -1409,7 +1481,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "pfm": "古川廣生",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/8dnglhr09a.jpg",
               "genre": {
@@ -1425,12 +1497,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#MBCラジオ"
+                  "-value": "#MBCラジオスペシャルウィーク"
                 }
               }
             },
             {
-              "-id": "9541321844",
+              "-id": "9542051625",
               "-ft": "20201109193000",
               "-to": "20201109200000",
               "-ftl": "1930",
@@ -1450,7 +1522,7 @@
               }
             },
             {
-              "-id": "9541321848",
+              "-id": "9542051663",
               "-ft": "20201109200000",
               "-to": "20201109210000",
               "-ftl": "2000",
@@ -1481,7 +1553,7 @@
               }
             },
             {
-              "-id": "9541351669",
+              "-id": "9542051722",
               "-ft": "20201109210000",
               "-to": "20201109211500",
               "-ftl": "2100",
@@ -1502,7 +1574,7 @@
               }
             },
             {
-              "-id": "9541321857",
+              "-id": "9542051757",
               "-ft": "20201109211500",
               "-to": "20201109213000",
               "-ftl": "2115",
@@ -1522,7 +1594,7 @@
               }
             },
             {
-              "-id": "9541321860",
+              "-id": "9542051770",
               "-ft": "20201109213000",
               "-to": "20201109214000",
               "-ftl": "2130",
@@ -1554,7 +1626,7 @@
               }
             },
             {
-              "-id": "9541321861",
+              "-id": "9542051782",
               "-ft": "20201109214000",
               "-to": "20201109215000",
               "-ftl": "2140",
@@ -1574,7 +1646,7 @@
               }
             },
             {
-              "-id": "9541321863",
+              "-id": "9542051786",
               "-ft": "20201109215000",
               "-to": "20201109220000",
               "-ftl": "2150",
@@ -1595,7 +1667,7 @@
               }
             },
             {
-              "-id": "9541333765",
+              "-id": "9542051813",
               "-ft": "20201109220000",
               "-to": "20201109230000",
               "-ftl": "2200",
@@ -1606,7 +1678,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A8%E3%82%AF\">#ミューエク</a>」",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A8%E3%82%AF\">#ミューエク</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "pfm": "ＺＥＢＲＡ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/g4rqykrbai.jpg",
               "genre": {
@@ -1620,14 +1692,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#ミューエク"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ミューエク"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "#MBCラジオスペシャルウィーク"
+                  }
+                ]
               }
             },
             {
-              "-id": "9541333787",
+              "-id": "9542051850",
               "-ft": "20201109230000",
               "-to": "20201110000000",
               "-ftl": "2300",
@@ -1638,7 +1716,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A8%E3%82%AF\">#ミューエク</a>」",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A8%E3%82%AF\">#ミューエク</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%AF\">#MBCラジオスペシャルウィーク</a>」",
               "pfm": "ＺＥＢＲＡ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/g4rqykrbai.jpg",
               "genre": {
@@ -1652,14 +1730,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#ミューエク"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ミューエク"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "#MBCラジオスペシャルウィーク"
+                  }
+                ]
               }
             },
             {
-              "-id": "9541691783",
+              "-id": "9542051920",
               "-ft": "20201110000000",
               "-to": "20201110010000",
               "-ftl": "2400",
@@ -1688,7 +1772,7 @@
               }
             },
             {
-              "-id": "9541686679",
+              "-id": "9542051983",
               "-ft": "20201110010000",
               "-to": "20201110030000",
               "-ftl": "2500",
@@ -1720,7 +1804,7 @@
               }
             },
             {
-              "-id": "9541527946",
+              "-id": "9542052074",
               "-ft": "20201110030000",
               "-to": "20201110040000",
               "-ftl": "2700",
@@ -1741,7 +1825,7 @@
               }
             },
             {
-              "-id": "9541527984",
+              "-id": "9541884891",
               "-ft": "20201110040000",
               "-to": "20201110050000",
               "-ftl": "2800",
