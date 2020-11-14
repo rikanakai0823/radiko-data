@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1605119090",
+    "srvtime": "1605378310",
     "stations": {
       "station": {
         "-id": "SBS",
@@ -10,7 +10,7 @@
           "date": "20201117",
           "prog": [
             {
-              "-id": "9542648567",
+              "-id": "9543316839",
               "-ft": "20201117050000",
               "-to": "20201117051000",
               "-ftl": "0500",
@@ -21,6 +21,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/bf1be807-0946-4173-b327-1231d1d2a2f2.png",
+              "genre": {
+                "program": {
+                  "-id": "P016",
+                  "name": "宗教"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -29,7 +35,7 @@
               }
             },
             {
-              "-id": "9542557406",
+              "-id": "9543316844",
               "-ft": "20201117051000",
               "-to": "20201117052500",
               "-ftl": "0510",
@@ -40,6 +46,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/92eb2105-43f2-4211-9d48-eb10a3a5686a.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -48,7 +60,7 @@
               }
             },
             {
-              "-id": "9542635866",
+              "-id": "9543316845",
               "-ft": "20201117052500",
               "-to": "20201117053000",
               "-ftl": "0525",
@@ -59,6 +71,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/dixk3zyeth.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P016",
+                  "name": "宗教"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -67,7 +85,7 @@
               }
             },
             {
-              "-id": "9542778533",
+              "-id": "9543256529",
               "-ft": "20201117053000",
               "-to": "20201117063000",
               "-ftl": "0530",
@@ -81,6 +99,110 @@
               "desc": "聴くスポーツ新聞、それがこの番組です。ニュース、スポーツ、そして健康、シニアライフ、介護などをキーワードに生島ヒロシがわかりやすく、元気に様々な情報をお伝えしていきます！",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/0vi23rrgwl.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9543256533",
+              "-ft": "20201117063000",
+              "-to": "20201117063800",
+              "-ftl": "0630",
+              "-tol": "0638",
+              "-dur": "480",
+              "title": "ENEOSプレゼンツ　あさナビ",
+              "url": "https://www.1242.com/asanav/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "黒木瞳",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/92eb2105-43f2-4211-9d48-eb10a3a5686a.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9543316857",
+              "-ft": "20201117063800",
+              "-to": "20201117064500",
+              "-ftl": "0638",
+              "-tol": "0645",
+              "-dur": "420",
+              "title": "MUSIC CROSSOVER MORNING",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "鮎貝健 or 松本ともこ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/c0c6635e-5135-42a5-bb6b-3af8ab220360.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9543316858",
+              "-ft": "20201117064500",
+              "-to": "20201117070000",
+              "-ftl": "0645",
+              "-tol": "0700",
+              "-dur": "900",
+              "title": "歌のない歌謡曲",
+              "url": "https://www.utanashi.com/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "柳澤亜弓",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/92eb2105-43f2-4211-9d48-eb10a3a5686a.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9543316863",
+              "-ft": "20201117070000",
+              "-to": "20201117080000",
+              "-ftl": "0700",
+              "-tol": "0800",
+              "-dur": "3600",
+              "title": "牧野克彦のIPPO（7時台）",
+              "url": "http://www.at-s.com/sbsradio/program/ippo/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "最新ニュース・交通情報・天気予報はもちろん、スポーツニュースから芸能ニュース、マーケット情報まで、これさえ聞けば「世の中の動きがすべて分かる！」をテーマに朝の出勤リズムにぴったりなスピード感を持ってお伝えします。",
+              "pfm": "牧野克彦",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/87f4c60a-7ea8-4cf9-8bb9-0356a6abf43d.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -99,101 +221,7 @@
               }
             },
             {
-              "-id": "9542637707",
-              "-ft": "20201117063000",
-              "-to": "20201117063800",
-              "-ftl": "0630",
-              "-tol": "0638",
-              "-dur": "480",
-              "title": "ENEOSプレゼンツ　あさナビ",
-              "url": "https://www.1242.com/asanav/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "pfm": "黒木瞳",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/92eb2105-43f2-4211-9d48-eb10a3a5686a.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C003",
-                  "name": "女優"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9542648687",
-              "-ft": "20201117063800",
-              "-to": "20201117064500",
-              "-ftl": "0638",
-              "-tol": "0645",
-              "-dur": "420",
-              "title": "MUSIC CROSSOVER MORNING",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "pfm": "鮎貝健 or 松本ともこ",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/c0c6635e-5135-42a5-bb6b-3af8ab220360.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9542648705",
-              "-ft": "20201117064500",
-              "-to": "20201117070000",
-              "-ftl": "0645",
-              "-tol": "0700",
-              "-dur": "900",
-              "title": "歌のない歌謡曲",
-              "url": "https://www.utanashi.com/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "pfm": "柳澤亜弓",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/92eb2105-43f2-4211-9d48-eb10a3a5686a.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9542648733",
-              "-ft": "20201117070000",
-              "-to": "20201117080000",
-              "-ftl": "0700",
-              "-tol": "0800",
-              "-dur": "3600",
-              "title": "牧野克彦のIPPO（7時台）",
-              "url": "http://www.at-s.com/sbsradio/program/ippo/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "最新ニュース・交通情報・天気予報はもちろん、スポーツニュースから芸能ニュース、マーケット情報まで、これさえ聞けば「世の中の動きがすべて分かる！」をテーマに朝の出勤リズムにぴったりなスピード感を持ってお伝えします。",
-              "pfm": "牧野克彦",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/87f4c60a-7ea8-4cf9-8bb9-0356a6abf43d.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9542648825",
+              "-id": "9543316872",
               "-ft": "20201117080000",
               "-to": "20201117090000",
               "-ftl": "0800",
@@ -207,6 +235,16 @@
               "desc": "最新ニュース・交通情報・天気予報はもちろん、スポーツニュースから芸能ニュース、マーケット情報まで、これさえ聞けば「世の中の動きがすべて分かる！」をテーマに朝の出勤リズムにぴったりなスピード感を持ってお伝えします。",
               "pfm": "牧野克彦",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/87f4c60a-7ea8-4cf9-8bb9-0356a6abf43d.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -215,7 +253,7 @@
               }
             },
             {
-              "-id": "9542643880",
+              "-id": "9543316885",
               "-ft": "20201117090000",
               "-to": "20201117100000",
               "-ftl": "0900",
@@ -229,6 +267,16 @@
               "desc": "働き盛りのあなたに。てっちゃんが、元気に営業先で、配達先で、すぐに話せるような「ネタ」や「話題」を届けます。聴いたら誰かに話したくなる、話さずにはいられない！お昼は少しゆったりと、音楽＆トークを楽しんでね。",
               "pfm": "鉄崎幹人、大槻有沙",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/67da3013-8ad5-44d4-bf85-b1ae8a86e8f0.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -237,7 +285,7 @@
               }
             },
             {
-              "-id": "9542643886",
+              "-id": "9543316892",
               "-ft": "20201117100000",
               "-to": "20201117110000",
               "-ftl": "1000",
@@ -251,6 +299,16 @@
               "desc": "働き盛りのあなたに。てっちゃんが、元気に営業先で、配達先で、すぐに話せるような「ネタ」や「話題」を届けます。聴いたら誰かに話したくなる、話さずにはいられない！お昼は少しゆったりと、音楽＆トークを楽しんでね。",
               "pfm": "鉄崎幹人、大槻有沙",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/67da3013-8ad5-44d4-bf85-b1ae8a86e8f0.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -259,7 +317,7 @@
               }
             },
             {
-              "-id": "9542636697",
+              "-id": "9543256558",
               "-ft": "20201117110000",
               "-to": "20201117112000",
               "-ftl": "1100",
@@ -272,16 +330,6 @@
               "ts_out_ng": "2",
               "desc": "※このコンテンツは、タイムフリーおよびエリアフリー配信はありませんのでご了承ください。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/92eb2105-43f2-4211-9d48-eb10a3a5686a.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C012",
-                  "name": "文化人"
-                },
-                "program": {
-                  "-id": "P009",
-                  "name": "ドキュメンタリー"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -290,7 +338,7 @@
               }
             },
             {
-              "-id": "9542643894",
+              "-id": "9543316907",
               "-ft": "20201117112000",
               "-to": "20201117120000",
               "-ftl": "1120",
@@ -304,6 +352,16 @@
               "desc": "働き盛りのあなたに。てっちゃんが、元気に営業先で、配達先で、すぐに話せるような「ネタ」や「話題」を届けます。聴いたら誰かに話したくなる、話さずにはいられない！お昼は少しゆったりと、音楽＆トークを楽しんでね。",
               "pfm": "鉄崎幹人、大槻有沙",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/67da3013-8ad5-44d4-bf85-b1ae8a86e8f0.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -312,7 +370,7 @@
               }
             },
             {
-              "-id": "9542643905",
+              "-id": "9543316913",
               "-ft": "20201117120000",
               "-to": "20201117123500",
               "-ftl": "1200",
@@ -326,6 +384,16 @@
               "desc": "働き盛りのあなたに。てっちゃんが、元気に営業先で、配達先で、すぐに話せるような「ネタ」や「話題」を届けます。聴いたら誰かに話したくなる、話さずにはいられない！お昼は少しゆったりと、音楽＆トークを楽しんでね。",
               "pfm": "鉄崎幹人、大槻有沙",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/67da3013-8ad5-44d4-bf85-b1ae8a86e8f0.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -334,7 +402,7 @@
               }
             },
             {
-              "-id": "9542635906",
+              "-id": "9543256565",
               "-ft": "20201117123500",
               "-to": "20201117124500",
               "-ftl": "1235",
@@ -356,7 +424,7 @@
               }
             },
             {
-              "-id": "9542636718",
+              "-id": "9543256566",
               "-ft": "20201117124500",
               "-to": "20201117125500",
               "-ftl": "1245",
@@ -368,16 +436,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/92eb2105-43f2-4211-9d48-eb10a3a5686a.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -386,7 +444,7 @@
               }
             },
             {
-              "-id": "9542591325",
+              "-id": "9543316921",
               "-ft": "20201117125500",
               "-to": "20201117130000",
               "-ftl": "1255",
@@ -398,6 +456,16 @@
               "ts_out_ng": "0",
               "pfm": "（SBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/92eb2105-43f2-4211-9d48-eb10a3a5686a.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -406,7 +474,7 @@
               }
             },
             {
-              "-id": "9542649032",
+              "-id": "9543316927",
               "-ft": "20201117130000",
               "-to": "20201117140000",
               "-ftl": "1300",
@@ -420,6 +488,16 @@
               "desc": "あなたの午後に癒しと笑いを。しあわせの種、蒔きます。",
               "pfm": "内山絵里加、サバンナ八木",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/ff1f8207-b4de-4c3a-8e92-9d4b883b8830.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -428,7 +506,7 @@
               }
             },
             {
-              "-id": "9542649073",
+              "-id": "9543316938",
               "-ft": "20201117140000",
               "-to": "20201117150000",
               "-ftl": "1400",
@@ -442,6 +520,16 @@
               "desc": "あなたの午後に癒しと笑いを。しあわせの種、蒔きます。",
               "pfm": "内山絵里加、サバンナ八木",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/ff1f8207-b4de-4c3a-8e92-9d4b883b8830.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -450,7 +538,7 @@
               }
             },
             {
-              "-id": "9542649105",
+              "-id": "9543316949",
               "-ft": "20201117150000",
               "-to": "20201117160000",
               "-ftl": "1500",
@@ -464,6 +552,16 @@
               "desc": "あなたの午後に癒しと笑いを。しあわせの種、蒔きます。",
               "pfm": "内山絵里加、サバンナ八木",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/ff1f8207-b4de-4c3a-8e92-9d4b883b8830.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -472,7 +570,7 @@
               }
             },
             {
-              "-id": "9542649151",
+              "-id": "9543256582",
               "-ft": "20201117160000",
               "-to": "20201117161000",
               "-ftl": "1600",
@@ -483,12 +581,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/92eb2105-43f2-4211-9d48-eb10a3a5686a.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -497,7 +589,7 @@
               }
             },
             {
-              "-id": "9542649158",
+              "-id": "9543256584",
               "-ft": "20201117161000",
               "-to": "20201117162000",
               "-ftl": "1610",
@@ -508,12 +600,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/92eb2105-43f2-4211-9d48-eb10a3a5686a.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -522,7 +608,7 @@
               }
             },
             {
-              "-id": "9542641429",
+              "-id": "9543256585",
               "-ft": "20201117162000",
               "-to": "20201117163000",
               "-ftl": "1620",
@@ -541,7 +627,7 @@
               }
             },
             {
-              "-id": "9542649173",
+              "-id": "9543316966",
               "-ft": "20201117163000",
               "-to": "20201117180000",
               "-ftl": "1630",
@@ -555,6 +641,16 @@
               "desc": "夕方、帰宅時のドライバーをターゲットとしたこだわりの音楽を届けるワンマンスタイルの生番組。コンセプトは、「仕事帰りの人に、（これから残業の人にも…）気分を切り替えるグッドミュージックとナイスチョイスな話題をお届け」。",
               "pfm": "鮎貝健",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/372eeb8d-8276-4c58-9ef1-6aa0f8a4fae8.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -563,7 +659,7 @@
               }
             },
             {
-              "-id": "9542643970",
+              "-id": "9543316985",
               "-ft": "20201117180000",
               "-to": "20201117184500",
               "-ftl": "1800",
@@ -577,6 +673,16 @@
               "desc": "「静岡からインストゥルメンタル文化を全国に発信！」をミッションに、キーボーディスト・ADAM atとThe Hey Songのキットが軽快なトークで至極のインスト楽曲を紹介するコンシェルジュプログラム。“詞がない音楽”の魅力をリスナーに届けます！ ★『ADAM at の詞がないラジオ』番組公式Twitterアカウントは、@adamatsbs　★番組へのメセージは、#adamatsbs を付けてツイートしてください",
               "pfm": "ADAM at（キーボーディスト）、キット（The Hey Song / ベース）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/fwu0gv380a.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -585,7 +691,7 @@
               }
             },
             {
-              "-id": "9542649339",
+              "-id": "9543256593",
               "-ft": "20201117184500",
               "-to": "20201117190000",
               "-ftl": "1845",
@@ -607,7 +713,7 @@
               }
             },
             {
-              "-id": "9542649364",
+              "-id": "9543316998",
               "-ft": "20201117190000",
               "-to": "20201117210000",
               "-ftl": "1900",
@@ -621,6 +727,16 @@
               "desc": "アルコ＆ピース・酒井健太と“やばたん”ことSBSアナウンサー・矢端名結があなたを刹那な夜へと誘います。",
               "pfm": "酒井健太（アルコ＆ピース）、矢端名結（SBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/6a924a7a-cc2e-40ba-adaa-ac9292006782.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -629,7 +745,7 @@
               }
             },
             {
-              "-id": "9542649408",
+              "-id": "9543317015",
               "-ft": "20201117210000",
               "-to": "20201117220000",
               "-ftl": "2100",
@@ -643,6 +759,29 @@
               "desc": "番組コンセプトは「現役のミュージシャン＆クリエーターが解説する、音楽の楽しみ方」。最新の曲から懐かしい曲まで、静岡屈指のミュージシャンJam9が音楽をキュレーションする“音楽教養バラエティー”プログラムです。\n\nTwitter公式アカウント　@Jam9sbs\nTwitterハッシュタグ　#jam9sbs",
               "pfm": "校長：イシノユウキ（Jam9）、教頭：Giz‘Mo（Jam9）、生徒会長：CLEEM MIKU",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/a3460def-a792-4833-843e-47833b9d1e62.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "jam9sbs"
+                  },
+                  {
+                    "name": "Jam9"
+                  },
+                  {
+                    "name": "CLEEMMIKU"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -651,7 +790,7 @@
               }
             },
             {
-              "-id": "9542784546",
+              "-id": "9543256604",
               "-ft": "20201117220000",
               "-to": "20201117230000",
               "-ftl": "2200",
@@ -664,12 +803,6 @@
               "ts_out_ng": "0",
               "desc": "ティーンズから圧倒的な支持を得ている「レコメン！」。常に新しい企画、話を聞いてみたい人が登場！月～水曜日は「オテンキ」の「のり」がDJを務めます。木曜日のパーソナリティにはジャニーズWESTの桐山照史・中間淳太。ジャニーズらしからぬ歯に衣着せぬ本音トーク満載。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/vxxba92evj.png",
-              "genre": {
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -678,7 +811,7 @@
               }
             },
             {
-              "-id": "9542784560",
+              "-id": "9543256607",
               "-ft": "20201117230000",
               "-to": "20201118000000",
               "-ftl": "2300",
@@ -691,12 +824,6 @@
               "ts_out_ng": "0",
               "desc": "ティーンズから圧倒的な支持を得ている「レコメン！」。常に新しい企画、話を聞いてみたい人が登場！月～水曜日は「オテンキ」の「のり」がDJを務めます。木曜日のパーソナリティにはジャニーズWESTの桐山照史・中間淳太。ジャニーズらしからぬ歯に衣着せぬ本音トーク満載。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/vxxba92evj.png",
-              "genre": {
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -705,7 +832,7 @@
               }
             },
             {
-              "-id": "9542784616",
+              "-id": "9543256610",
               "-ft": "20201118000000",
               "-to": "20201118010000",
               "-ftl": "2400",
@@ -718,12 +845,6 @@
               "ts_out_ng": "0",
               "desc": "ティーンズから圧倒的な支持を得ている「レコメン！」。常に新しい企画、話を聞いてみたい人が登場！月～水曜日は「オテンキ」の「のり」がDJを務めます。木曜日のパーソナリティにはジャニーズWESTの桐山照史・中間淳太。ジャニーズらしからぬ歯に衣着せぬ本音トーク満載。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/vxxba92evj.png",
-              "genre": {
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -732,7 +853,7 @@
               }
             },
             {
-              "-id": "9542784694",
+              "-id": "9543256613",
               "-ft": "20201118010000",
               "-to": "20201118030000",
               "-ftl": "2500",
@@ -746,16 +867,6 @@
               "desc": "音楽家、俳優、文筆家と幅広い活躍を続ける星野源が、“オールナイトニッポン”の歴史を作ります！\n「無理しない」「できるだけ普段の感じ」の星野源がお送りする2時間を、AMラジオ・ワイドFMラジオ・そしてradikoと様々な方法で感じて下さい！",
               "pfm": "星野源",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/SBS/4927b2ab-aefa-4d2d-b992-40a11786c3a6.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -764,7 +875,7 @@
               }
             },
             {
-              "-id": "9542784776",
+              "-id": "9543256616",
               "-ft": "20201118030000",
               "-to": "20201118050000",
               "-ftl": "2700",
