@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1605291874",
+    "srvtime": "1605637147",
     "stations": {
       "station": {
         "-id": "HFM",
@@ -487,23 +487,44 @@
               }
             },
             {
-              "-id": "9543107950",
+              "-id": "9543685055",
               "-ft": "20201119140000",
               "-to": "20201119150000",
               "-ftl": "1400",
               "-tol": "1500",
               "-dur": "3600",
               "title": "俊山真美のDAYS! 14時台",
+              "url": "http://hfm.jp/blog/days/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": " ",
               "info": "★食べる音を聴いてお菓子をGET！「クイズサックサク」<br />\n★DAYS!へのメッセージ＆リクエストは、HFMのホームページから送信♪",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/w3drmvvmu9.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "広島FM"
+                  },
+                  {
+                    "name": "HFM"
+                  },
+                  {
+                    "name": "HFMデイズ"
+                  },
+                  {
+                    "name": "マミーゴ"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
