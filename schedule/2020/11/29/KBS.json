@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1606242110",
+    "srvtime": "1606328426",
     "stations": {
       "station": {
         "-id": "KBS",
@@ -10,7 +10,7 @@
           "date": "20201129",
           "prog": [
             {
-              "-id": "9544664282",
+              "-id": "9544808920",
               "-ft": "20201129050000",
               "-to": "20201129052000",
               "-ftl": "0500",
@@ -21,9 +21,13 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "<a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/saiji.htm\">★番組へのメッセージ</a>",
-              "info": " ",
               "pfm": "[出]竹内弘一",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/knwf5fwjc1.jpg",
+              "tag": {
+                "item": {
+                  "name": "竹内弘一"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -42,7 +46,7 @@
               }
             },
             {
-              "-id": "9544664294",
+              "-id": "9544808922",
               "-ft": "20201129052000",
               "-to": "20201129054000",
               "-ftl": "0520",
@@ -52,7 +56,6 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/d58or10u41.jpg",
               "genre": {
                 "program": {
@@ -68,7 +71,7 @@
               }
             },
             {
-              "-id": "9544664300",
+              "-id": "9544808923",
               "-ft": "20201129054000",
               "-to": "20201129055500",
               "-ftl": "0540",
@@ -78,7 +81,6 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/z304bu99kc.jpg",
               "genre": {
                 "program": {
@@ -94,7 +96,7 @@
               }
             },
             {
-              "-id": "9544664304",
+              "-id": "9544808924",
               "-ft": "20201129055500",
               "-to": "20201129061000",
               "-ftl": "0555",
@@ -104,8 +106,17 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/lfkkzn2e3t.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ねづっち"
+                  },
+                  {
+                    "name": "竹内都子"
+                  }
+                ]
+              },
               "genre": {
                 "program": {
                   "-id": "P003",
@@ -120,7 +131,7 @@
               }
             },
             {
-              "-id": "9544664319",
+              "-id": "9544808926",
               "-ft": "20201129061000",
               "-to": "20201129062000",
               "-ftl": "0610",
@@ -130,7 +141,6 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/fcrnndl79o.jpg",
               "genre": {
                 "program": {
@@ -146,7 +156,7 @@
               }
             },
             {
-              "-id": "9544664323",
+              "-id": "9544808927",
               "-ft": "20201129062000",
               "-to": "20201129063500",
               "-ftl": "0620",
@@ -171,7 +181,7 @@
               }
             },
             {
-              "-id": "9544664328",
+              "-id": "9544808928",
               "-ft": "20201129063500",
               "-to": "20201129064000",
               "-ftl": "0635",
@@ -181,9 +191,13 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "pfm": "[出]海平和",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/54z57flp7k.jpg",
+              "tag": {
+                "item": {
+                  "name": "海平和"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -202,7 +216,7 @@
               }
             },
             {
-              "-id": "9544664330",
+              "-id": "9544808929",
               "-ft": "20201129064000",
               "-to": "20201129065500",
               "-ftl": "0640",
@@ -227,7 +241,7 @@
               }
             },
             {
-              "-id": "9544664335",
+              "-id": "9544808930",
               "-ft": "20201129065500",
               "-to": "20201129070000",
               "-ftl": "0655",
@@ -237,7 +251,6 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/kgvuoopudo.jpg",
               "genre": {
                 "program": {
@@ -253,7 +266,7 @@
               }
             },
             {
-              "-id": "9544664341",
+              "-id": "9544808931",
               "-ft": "20201129070000",
               "-to": "20201129080000",
               "-ftl": "0700",
@@ -263,9 +276,18 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "pfm": "[出]武部宏、小森弥生",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/jcut3bnyuw.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "武部宏"
+                  },
+                  {
+                    "name": "小森弥生"
+                  }
+                ]
+              },
               "genre": {
                 "program": {
                   "-id": "P007",
@@ -280,7 +302,7 @@
               }
             },
             {
-              "-id": "9544664366",
+              "-id": "9544808933",
               "-ft": "20201129080000",
               "-to": "20201129090000",
               "-ftl": "0800",
@@ -291,9 +313,21 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "笑福亭仁鶴が繰り出すいぶし銀の語りにのせて、リスナーの想い出が詰まったリクエスト・ソングをオンエアします。それぞれの人生に寄り添って、ゆるやかな時の流れを描く番組。あたたかなおしゃべりと心地よく響くメロディー、懐かしい想い出が織りなす日曜のひとときを贈ります。<br /><br />メール:<a href=\"mailto:nikaku@kbs.kyoto\">nikaku@kbs.kyoto</a>",
-              "info": " ",
               "pfm": "[出]笑福亭仁嬌(笑福亭仁鶴 休演)、内海裕子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/jkz1hqcm6d.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "笑福亭仁嬌"
+                  },
+                  {
+                    "name": "笑福亭仁鶴(休演)"
+                  },
+                  {
+                    "name": "内海裕子"
+                  }
+                ]
+              },
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -308,7 +342,7 @@
               }
             },
             {
-              "-id": "9544664389",
+              "-id": "9544808935",
               "-ft": "20201129090000",
               "-to": "20201129120000",
               "-ftl": "0900",
@@ -320,9 +354,13 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "ノスタルジーと明日への好奇心。ときに旺盛な知的好奇心・探求心で明日を切り拓く団塊の世代に向けた「昔」と「今」をほどよくブレンドしたラジオ。やわらかなパーソナリティの声にのせて綴る、懐かしい話題と時代をとらえた情報。知識欲をくすぐる雑学や、レジャーシーンを盛り立てる旅・グルメ情報満載の番組です。<br /><br />メール:<a href=\"mailto:yume@kbs.kyoto\">yume@kbs.kyoto</a>",
-              "info": " ",
               "pfm": "[出]塩見祐子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/bn2trme0ru.jpg",
+              "tag": {
+                "item": {
+                  "name": "塩見祐子"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -341,16 +379,17 @@
               }
             },
             {
-              "-id": "9544664462",
+              "-id": "9544813329",
               "-ft": "20201129120000",
               "-to": "20201129130000",
               "-ftl": "1200",
               "-tol": "1300",
               "-dur": "3600",
-              "title": "こちらヒラタ屋～すっべらない冬の旅行案内",
+              "title": "こちらヒラタ屋～すっべらない冬の旅行案内～",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "pfm": "[出]平田進也（株式会社 日本旅行『おもしろ旅企画ヒラタ屋』代表）、田村貴司（株式会社 日本旅行）、藤田瞳",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/eroyifxp1g.jpg",
               "metas": {
                 "meta": {
@@ -360,7 +399,7 @@
               }
             },
             {
-              "-id": "9544664484",
+              "-id": "9544808939",
               "-ft": "20201129130000",
               "-to": "20201129140000",
               "-ftl": "1300",
@@ -372,9 +411,21 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "今、大注目の兄弟お笑いコンビが、KBS京都ラジオに登場。地元・京都のリスナーに独自の笑いで勝負を挑む！！兄弟コンビならではの息の合ったトークで、とことん賑やかにオンエア。人気急上昇中の勢いのある笑いと、身近な「あるある」ネタにどっぷり浸る楽しいひとときをお届けします。<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/miki/\">★番組サイト</a><br /><a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/miki.htm\">★番組へのメッセージ</a>",
-              "info": " ",
               "pfm": "[出]ミキ(昴生、亜生)",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/wmo3f0ep6j.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ミキ"
+                  },
+                  {
+                    "name": "昴生"
+                  },
+                  {
+                    "name": "亜生"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C009",
@@ -393,7 +444,7 @@
               }
             },
             {
-              "-id": "9544664497",
+              "-id": "9544808941",
               "-ft": "20201129140000",
               "-to": "20201129170000",
               "-ftl": "1400",
@@ -405,9 +456,13 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "京都西陣在住の人気女性DJ久米村直子が、底抜けに明るくハイテンション、歯に衣着せぬマシンガントークで、日曜午後を突っ走ります。トークに織り交ぜて、心地良い音楽も軽快にオンエア。<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/sds/\">★番組サイト</a><br /><a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/sds.htm\">★番組へのメッセージ</a>",
-              "info": " ",
               "pfm": "[出]久米村直子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/o5hmeal5fn.jpg",
+              "tag": {
+                "item": {
+                  "name": "久米村直子"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -426,7 +481,7 @@
               }
             },
             {
-              "-id": "9544664546",
+              "-id": "9544808943",
               "-ft": "20201129170000",
               "-to": "20201129171500",
               "-ftl": "1700",
@@ -451,7 +506,7 @@
               }
             },
             {
-              "-id": "9544664553",
+              "-id": "9544808945",
               "-ft": "20201129171500",
               "-to": "20201129172000",
               "-ftl": "1715",
@@ -461,9 +516,13 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "pfm": "[出]海平和",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/54z57flp7k.jpg",
+              "tag": {
+                "item": {
+                  "name": "海平和"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -482,7 +541,7 @@
               }
             },
             {
-              "-id": "9544664554",
+              "-id": "9544808946",
               "-ft": "20201129172000",
               "-to": "20201129173000",
               "-ftl": "1720",
@@ -493,6 +552,11 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/eroyifxp1g.jpg",
+              "tag": {
+                "item": {
+                  "name": "谷隼人"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C002",
@@ -511,7 +575,7 @@
               }
             },
             {
-              "-id": "9544664558",
+              "-id": "9544808947",
               "-ft": "20201129173000",
               "-to": "20201129180000",
               "-ftl": "1730",
@@ -523,7 +587,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "京都産業大学出身でプロラクロスプレイヤー・スポーツアンカーの山田幸代が、幅広い世代に向けて送る“オンリーワン”なラジオレギュラープログラム。<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/only1/\">★番組サイト</a><br /><a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/only1.htm\">★番組へのメッセージ</a>",
-              "info": " ",
               "pfm": "[出]山田幸代、森谷威夫",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/rfjipeah0q.jpg",
               "metas": {
@@ -534,7 +597,7 @@
               }
             },
             {
-              "-id": "9544664575",
+              "-id": "9544808948",
               "-ft": "20201129180000",
               "-to": "20201129181500",
               "-ftl": "1800",
@@ -544,7 +607,6 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/o2rbqoaatl.jpg",
               "genre": {
                 "program": {
@@ -560,7 +622,7 @@
               }
             },
             {
-              "-id": "9544664583",
+              "-id": "9544808950",
               "-ft": "20201129181500",
               "-to": "20201129183000",
               "-ftl": "1815",
@@ -571,6 +633,11 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/eroyifxp1g.jpg",
+              "tag": {
+                "item": {
+                  "name": "湯原昌幸"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -589,7 +656,7 @@
               }
             },
             {
-              "-id": "9544664591",
+              "-id": "9544808951",
               "-ft": "20201129183000",
               "-to": "20201129190000",
               "-ftl": "1830",
@@ -618,7 +685,7 @@
               }
             },
             {
-              "-id": "9544664603",
+              "-id": "9544808953",
               "-ft": "20201129190000",
               "-to": "20201129193000",
               "-ftl": "1900",
@@ -628,9 +695,18 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "pfm": "[出]祗園、金属バット",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/eroyifxp1g.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "祗園"
+                  },
+                  {
+                    "name": "見取り図"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C009",
@@ -649,7 +725,7 @@
               }
             },
             {
-              "-id": "9544664611",
+              "-id": "9544808955",
               "-ft": "20201129193000",
               "-to": "20201129200000",
               "-ftl": "1930",
@@ -659,7 +735,6 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/p2lwkl5gdq.jpg",
               "genre": {
                 "personality": {
@@ -679,7 +754,7 @@
               }
             },
             {
-              "-id": "9544664623",
+              "-id": "9544808956",
               "-ft": "20201129200000",
               "-to": "20201129203000",
               "-ftl": "2000",
@@ -689,7 +764,6 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/l8qv3r8sp4.jpg",
               "genre": {
                 "program": {
@@ -705,7 +779,7 @@
               }
             },
             {
-              "-id": "9544664632",
+              "-id": "9544808958",
               "-ft": "20201129203000",
               "-to": "20201129205500",
               "-ftl": "2030",
@@ -724,7 +798,7 @@
               }
             },
             {
-              "-id": "9544664638",
+              "-id": "9544808959",
               "-ft": "20201129205500",
               "-to": "20201129210000",
               "-ftl": "2055",
@@ -734,8 +808,12 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/exs35qbdln.jpg",
+              "tag": {
+                "item": {
+                  "name": "木村寿伸"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -754,7 +832,7 @@
               }
             },
             {
-              "-id": "9544664648",
+              "-id": "9544808960",
               "-ft": "20201129210000",
               "-to": "20201129212000",
               "-ftl": "2100",
@@ -764,9 +842,13 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "pfm": "[出]マグナム石井",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/eroyifxp1g.jpg",
+              "tag": {
+                "item": {
+                  "name": "マグナム石井"
+                }
+              },
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -781,7 +863,7 @@
               }
             },
             {
-              "-id": "9544664654",
+              "-id": "9544808961",
               "-ft": "20201129212000",
               "-to": "20201129213000",
               "-ftl": "2120",
@@ -791,7 +873,6 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/vqy2lujuwa.jpg",
               "genre": {
                 "program": {
@@ -807,7 +888,7 @@
               }
             },
             {
-              "-id": "9544664660",
+              "-id": "9544808962",
               "-ft": "20201129213000",
               "-to": "20201129220000",
               "-ftl": "2130",
@@ -817,9 +898,18 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "pfm": "[出]永野宗典・藤谷理子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/va71ttl3ke.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "永野宗典"
+                  },
+                  {
+                    "name": "藤谷理子"
+                  }
+                ]
+              },
               "genre": {
                 "program": {
                   "-id": "P007",
@@ -834,7 +924,7 @@
               }
             },
             {
-              "-id": "9544664671",
+              "-id": "9544808963",
               "-ft": "20201129220000",
               "-to": "20201129223000",
               "-ftl": "2200",
@@ -846,6 +936,16 @@
               "ts_out_ng": "0",
               "pfm": "[出]中村一徳",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/eroyifxp1g.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "中村一徳"
+                  },
+                  {
+                    "name": "鍼灸"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C012",
@@ -864,7 +964,7 @@
               }
             },
             {
-              "-id": "9544664681",
+              "-id": "9544808965",
               "-ft": "20201129223000",
               "-to": "20201129230000",
               "-ftl": "2230",
@@ -874,9 +974,13 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "pfm": "[出]川本勇",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/r3tz30718i.jpg",
+              "tag": {
+                "item": {
+                  "name": "川本勇"
+                }
+              },
               "genre": {
                 "program": {
                   "-id": "P007",
@@ -891,7 +995,7 @@
               }
             },
             {
-              "-id": "9544664691",
+              "-id": "9544808966",
               "-ft": "20201129230000",
               "-to": "20201130000000",
               "-ftl": "2300",
@@ -901,7 +1005,6 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/xnv5nv03ip.jpg",
               "genre": {
                 "personality": {
@@ -921,7 +1024,7 @@
               }
             },
             {
-              "-id": "9544664715",
+              "-id": "9544808969",
               "-ft": "20201130000000",
               "-to": "20201130010000",
               "-ftl": "2400",
@@ -933,9 +1036,18 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "日本を席巻するお笑い総合商社の現役トップが、謎に包まれたそのヴェールを脱いで、KBS京都ラジオに姿を現します。「お気に入りの街・京都でラジオに挑戦したい!」というパーソナリティ自身の熱い想いが、タイトルに、マイクに語りかける言葉に、ぎゅっと詰まった深夜のプログラム。稀代のプロデューサーとしての本領を発揮し、番組の舵を握ります。人脈を活かして仰天のゲストを迎えるのか、お笑い界の知られざる裏側を暴くのか、それとも自らが愛する「モノ」「コト」に没頭するのか。予測不能だからこそ“耳”が離せない未知数のラジオが、京都ローカルから幕を開けます。",
-              "info": " ",
               "pfm": "[出]大崎洋、坪田信貴",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/tmz68677ln.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "大崎洋"
+                  },
+                  {
+                    "name": "坪田信貴"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C012",
@@ -954,7 +1066,7 @@
               }
             },
             {
-              "-id": "9544664730",
+              "-id": "9544808972",
               "-ft": "20201130010000",
               "-to": "20201130050000",
               "-ftl": "2500",
