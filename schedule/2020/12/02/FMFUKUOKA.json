@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1606846987",
+    "srvtime": "1606933488",
     "stations": {
       "station": {
         "-id": "FMFUKUOKA",
@@ -89,27 +89,31 @@
               }
             },
             {
-              "-id": "9544784125",
+              "-id": "9545686606",
               "-ft": "20201202055500",
               "-to": "20201202060000",
               "-ftl": "0555",
               "-tol": "0600",
               "-dur": "300",
-              "title": "ぴよぴよラジオ",
+              "title": "POWER PLAY",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /></div>",
+              "info": "<div class=\"station_content_description \">\tFM FUKUOKAのイチオシの邦楽・洋楽アーティストをご紹介！ <br /><br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUOKA/e3812451-92ec-4044-a05a-42eea423710c.jpeg",
               "tag": {
                 "item": {
-                  "name": "ショッピング"
+                  "name": "パワープレー"
                 }
               },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
