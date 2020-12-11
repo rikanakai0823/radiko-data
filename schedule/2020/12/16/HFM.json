@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1607624738",
+    "srvtime": "1607711199",
     "stations": {
       "station": {
         "-id": "HFM",
@@ -683,12 +683,12 @@
               }
             },
             {
-              "-id": "9546725454",
+              "-id": "9546866081",
               "-ft": "20201216150000",
-              "-to": "20201216160000",
+              "-to": "20201216155500",
               "-ftl": "1500",
-              "-tol": "1600",
-              "-dur": "3600",
+              "-tol": "1555",
+              "-dur": "3300",
               "title": "俊山真美のDAYS! 15時台",
               "url": "http://hfm.jp/blog/days/",
               "failed_record": "0",
@@ -697,6 +697,22 @@
               "desc": " ",
               "info": "★DAYS!へのメッセージ＆リクエストは、HFMのホームページから送信♪",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/w3drmvvmu9.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "広島FM"
+                  },
+                  {
+                    "name": "HFM"
+                  },
+                  {
+                    "name": "HFMデイズ"
+                  },
+                  {
+                    "name": "マミーゴ"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -705,6 +721,46 @@
                 "program": {
                   "-id": "P003",
                   "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9546870808",
+              "-ft": "20201216155500",
+              "-to": "20201216160000",
+              "-ftl": "1555",
+              "-tol": "1600",
+              "-dur": "300",
+              "title": "JFNニュース",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": " ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/004bd0ce-33f2-44b0-bc9f-7969c7c89b96.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "広島FM"
+                  },
+                  {
+                    "name": "HFM"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {

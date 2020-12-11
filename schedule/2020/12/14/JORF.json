@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1607624717",
+    "srvtime": "1607711173",
     "stations": {
       "station": {
         "-id": "JORF",
@@ -640,7 +640,7 @@
               }
             },
             {
-              "-id": "9546738730",
+              "-id": "9546860985",
               "-ft": "20201214140000",
               "-to": "20201214145400",
               "-ftl": "1400",
@@ -656,8 +656,32 @@
               "pfm": "加藤裕介　ゲスト：森尾由美さん（タレント）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JORF/eb402c34-1a9f-4a40-9ec3-78936542b7f7.jpeg",
               "tag": {
-                "item": {
-                  "name": "#森尾由美"
+                "item": [
+                  {
+                    "name": "#森尾由美"
+                  },
+                  {
+                    "name": "#popj1422"
+                  },
+                  {
+                    "name": "#radiko"
+                  },
+                  {
+                    "name": "#jorf"
+                  },
+                  {
+                    "name": "#AM1422"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
