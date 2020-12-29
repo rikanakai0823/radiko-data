@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1609007185",
+    "srvtime": "1609266292",
     "stations": {
       "station": {
         "-id": "MYUFM",
@@ -149,19 +149,18 @@
               }
             },
             {
-              "-id": "9548703322",
+              "-id": "9549308619",
               "-ft": "20210101082000",
-              "-to": "20210101085500",
+              "-to": "20210101082500",
               "-ftl": "0820",
-              "-tol": "0855",
-              "-dur": "2100",
-              "title": "あさＣａｆｅ",
+              "-tol": "0825",
+              "-dur": "300",
+              "title": "Bran’μSong",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/46152_2fcfa447_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/6555_8c2b9ab0_sq.png\" height=\"60\" width=\"60\" alt=\"有賀真姫\"></td>  </tr></table><br /><br />\tWeekdayのあさにOPENするラジオの中の小さなCafé♪日替わりで5人のブレンダーが登場！音楽のこと、流行のこと、鹿児島のこと、時にはまじめなお話も…それぞれにブレンド（調合）してあなたのCafeタイムを演出します♡ <br /><br />\tメールアドレス：<a href=\"mailto:cafe@myufm.jp\">cafe@myufm.jp</a><br />\tFAX：099-239-1130<br /><br /></div>",
-              "pfm": "有賀真姫",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/x0mdpnr37p.png",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53661_5aaa74f2_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/b0lv2nycdi.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -170,33 +169,85 @@
               }
             },
             {
-              "-id": "9548620616",
+              "-id": "9549328535",
+              "-ft": "20210101082500",
+              "-to": "20210101083000",
+              "-ftl": "0825",
+              "-tol": "0830",
+              "-dur": "300",
+              "title": "交通情報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53662_00b3f48b_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/b0lv2nycdi.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9549313869",
+              "-ft": "20210101083000",
+              "-to": "20210101085500",
+              "-ftl": "0830",
+              "-tol": "0855",
+              "-dur": "1500",
+              "title": "OH! HAPPY MORNING",
+              "url": "http://www.jfn.jp/oh/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/oh/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53663_426bee13_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br />\tあたり前の日常の中にこそ、ハッピーが詰まっている！ハピモニでは、リスナーの方々と一緒に、幸せになるヒントを提案していきます！ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/oh/\">http://www.jfn.jp/oh/</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/198\">https://ssl2.jfn.co.jp/mailbox/index/198</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23hapimoni\">#hapimoni</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/hapimoni\">@hapimoni</a>」<br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/b0lv2nycdi.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#hapimoni"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:hapimoni"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9549308628",
               "-ft": "20210101085500",
               "-to": "20210101090000",
               "-ftl": "0855",
               "-tol": "0900",
               "-dur": "300",
-              "title": "快適生活ラジオショッピング",
+              "title": "なるほど！かごしま",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/16503_cda4f8ea_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53664_dbd0a156_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/b0lv2nycdi.png",
-              "tag": {
-                "item": {
-                  "name": "快適生活、0120401475"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -205,19 +256,20 @@
               }
             },
             {
-              "-id": "9548703341",
+              "-id": "9549308645",
               "-ft": "20210101090000",
               "-to": "20210101095000",
               "-ftl": "0900",
               "-tol": "0950",
               "-dur": "3000",
-              "title": "あさＣａｆｅ",
+              "title": "Ｇｙｕ ｔｏ Ｎｅｗ Ｙｅａｒ ２０２１",
+              "url": "https://www.myufm.jp/gyutonewyear2021/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/46153_3beff6c0_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/6555_8c2b9ab0_sq.png\" height=\"60\" width=\"60\" alt=\"有賀真姫\"></td>  </tr></table><br /><br />\tWeekdayのあさにOPENするラジオの中の小さなCafé♪日替わりで5人のブレンダーが登場！音楽のこと、流行のこと、鹿児島のこと、時にはまじめなお話も…それぞれにブレンド（調合）してあなたのCafeタイムを演出します♡ <br /><br />\tメールアドレス：<a href=\"mailto:cafe@myufm.jp\">cafe@myufm.jp</a><br />\tFAX：099-239-1130<br /><br /></div>",
-              "pfm": "有賀真姫",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/x0mdpnr37p.png",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.myufm.jp/gyutonewyear2021/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53671_71405f11_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br />\t＜番組内容＞<br />リスナーの皆さんからの力強い「モー！モー！メール」を大募集中♪<br />採用された「モー！モー！メール」には<br />豪華プレゼントが当たるチャンス！<br /><br />元日から「モー！モー！」言って下さい！モ～！！<br />採用された「モー！モー！メール」には<br />豪華プレゼントが当たるかモ～ですモ～！！！ <br /><br />\t番組Webサイト：<a href=\"https://www.myufm.jp/gyutonewyear2021/\">https://www.myufm.jp/gyutonewyear2021/</a><br />\tメールアドレス：<a href=\"mailto:2021@myufm.jp\">2021@myufm.jp</a><br />\tFAX：0992391130<br /><br /></div>",
+              "pfm": "前畠俊二 / 辻敬子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/kwwrrbb8v5.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -256,19 +308,20 @@
               }
             },
             {
-              "-id": "9548703359",
+              "-id": "9549308659",
               "-ft": "20210101100000",
               "-to": "20210101110000",
               "-ftl": "1000",
               "-tol": "1100",
               "-dur": "3600",
-              "title": "あさＣａｆｅ",
+              "title": "Ｇｙｕ ｔｏ Ｎｅｗ Ｙｅａｒ ２０２１",
+              "url": "https://www.myufm.jp/gyutonewyear2021/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/46156_00d424a3_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/6555_8c2b9ab0_sq.png\" height=\"60\" width=\"60\" alt=\"有賀真姫\"></td>  </tr></table><br /><br />\tWeekdayのあさにOPENするラジオの中の小さなCafé♪日替わりで5人のブレンダーが登場！音楽のこと、流行のこと、鹿児島のこと、時にはまじめなお話も…それぞれにブレンド（調合）してあなたのCafeタイムを演出します♡ <br /><br />\tメールアドレス：<a href=\"mailto:cafe@myufm.jp\">cafe@myufm.jp</a><br />\tFAX：099-239-1130<br /><br /></div>",
-              "pfm": "有賀真姫",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/x0mdpnr37p.png",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.myufm.jp/gyutonewyear2021/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53672_8459ca56_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br />\t＜番組内容＞<br />リスナーの皆さんからの力強い「モー！モー！メール」を大募集中♪<br />採用された「モー！モー！メール」には<br />豪華プレゼントが当たるチャンス！<br /><br />元日から「モー！モー！」言って下さい！モ～！！<br />採用された「モー！モー！メール」には<br />豪華プレゼントが当たるかモ～ですモ～！！！ <br /><br />\t番組Webサイト：<a href=\"https://www.myufm.jp/gyutonewyear2021/\">https://www.myufm.jp/gyutonewyear2021/</a><br />\tメールアドレス：<a href=\"mailto:2021@myufm.jp\">2021@myufm.jp</a><br />\tFAX：0992391130<br /><br /></div>",
+              "pfm": "前畠俊二 / 辻敬子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/pll670o03j.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -309,43 +362,29 @@
               }
             },
             {
-              "-id": "9548701329",
+              "-id": "9549308686",
               "-ft": "20210101113000",
               "-to": "20210101125500",
               "-ftl": "1130",
               "-tol": "1255",
               "-dur": "5100",
-              "title": "アンテナ@ｂｅａｔ！！～ピピピ♪～",
+              "title": "Ｇｙｕ ｔｏ Ｎｅｗ Ｙｅａｒ ２０２１",
+              "url": "https://www.myufm.jp/gyutonewyear2021/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/38775_2733628d_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/6558_db20d625_sq.png\" height=\"60\" width=\"60\" alt=\"今末真人\"></td>  </tr></table><br /><br />\t「情報」＋「稼働力」＝『ワクワクする躍動感のある情報番組！！』みなさんからの”情報リクエスト”お待ちしてます☆ラジオとあなたを繋ぐ魔法の言葉は『～ピピピ♪～』番組ツイッター(@antena_beat)も稼働中！！「＃アンテナピピピ」で今すぐ投稿～ <br /><br />\tメールアドレス：<a href=\"mailto:pipipi@myufm.jp\">pipipi@myufm.jp</a><br />\tFAX：099-239-1130<br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A%E3%83%94%E3%83%94%E3%83%94\">#アンテナピピピ</a>」<br /><br /></div>",
-              "pfm": "今末真人",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/gfq2plifxc.png",
-              "tag": {
-                "item": {
-                  "name": "アンテナピピピ"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.myufm.jp/gyutonewyear2021/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53673_beafdd1a_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br />\t＜番組内容＞<br />リスナーの皆さんからの力強い「モー！モー！メール」を大募集中♪<br />採用された「モー！モー！メール」には<br />豪華プレゼントが当たるチャンス！<br /><br />元日から「モー！モー！」言って下さい！モ～！！<br />採用された「モー！モー！メール」には<br />豪華プレゼントが当たるかモ～ですモ～！！！ <br /><br />\t番組Webサイト：<a href=\"https://www.myufm.jp/gyutonewyear2021/\">https://www.myufm.jp/gyutonewyear2021/</a><br />\tメールアドレス：<a href=\"mailto:2021@myufm.jp\">2021@myufm.jp</a><br />\tFAX：0992391130<br /><br /></div>",
+              "pfm": "前畠俊二 / 辻敬子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/pezylswaov.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#アンテナピピピ"
+                  "-value": "#radiko"
                 }
               }
             },
             {
-              "-id": "9548830521",
+              "-id": "9549256482",
               "-ft": "20210101125500",
               "-to": "20210101130000",
               "-ftl": "1255",
@@ -377,71 +416,19 @@
               }
             },
             {
-              "-id": "9548701449",
+              "-id": "9549313968",
               "-ft": "20210101130000",
-              "-to": "20210101133000",
-              "-ftl": "1300",
-              "-tol": "1330",
-              "-dur": "1800",
-              "title": "デイリーフライヤー",
-              "url": "http://www.jfn.jp/daily/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/daily/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/1875_d53fee57_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/1074_d68d592c_sq.jpg\" height=\"60\" width=\"60\" alt=\"井門宗之\"></td>  </tr></table><br /><br />\t毎週月曜日から金曜まで！その日、その時の“気になる情報”をお届けする「デイリーフライヤー」略して「デリフラ」！あらゆるジャンルのリアルタイムなニュースをピックアップ！今すぐ使える、誰かに話したくなる情報を、30分にギュッと凝縮してお送りします。 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/daily/\">http://www.jfn.jp/daily/</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/60\">https://ssl2.jfn.co.jp/mailbox/index/60</a><br /><br /></div>",
-              "pfm": "井門宗之",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/oi4bcldlpg.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9548703473",
-              "-ft": "20210101133000",
               "-to": "20210101135500",
-              "-ftl": "1330",
+              "-ftl": "1300",
               "-tol": "1355",
-              "-dur": "1500",
-              "title": "AIR’z69",
+              "-dur": "3300",
+              "title": "大予言スペシャル　～２０２１年はこうなる！？～",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/38822_305f2a5f_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/6554_bbbdd88e_sq.png\" height=\"60\" width=\"60\" alt=\"冨永あきのり\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/6553_b4544558_sq.png\" height=\"60\" width=\"60\" alt=\"辻敬子\"></td>  </tr></table><br /><br />\t中間管理職サラリーマンや子育てをしながらちょっとだけ刺激が欲しい主婦などなど笑いと刺激を求めたロックな番組に！！時にはメール１枚に番組全てを費やすリスナーの為の番組♪”心の扉を開きつつ ガッツリラジオでロック”キーワードは数字で”６ ９”・・・ロック！！ <br /><br />\tメールアドレス：<a href=\"mailto:69@myufm.jp\">69@myufm.jp</a><br />\tFAX：099-239-1130<br /><br /></div>",
-              "pfm": "冨永あきのり / 辻敬子",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/tvq1rzt95h.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "FM鹿児島"
-                  },
-                  {
-                    "name": "AIR’z69"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/7830_c8b5eba1_sq.jpg\" height=\"60\" width=\"60\" alt=\"井門宗之\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/9083_b467014b_sq.jpg\" height=\"60\" width=\"60\" alt=\"鈴元まい\"></td>  </tr></table><br /><br />\t普段とは違う元日を迎える事になりそうな２０２１年。今年は、どんな年になるのか？コロナの今後は！？オリンピックはどうなっちゃうの！？人気占い師によるお楽しみの占いコーナーから、経済学者、ＩＴ評論家、数学者、金融、ニュース、サブカル、スマホ、アイドルなどの研究家、カレー通、ラーメン王、スイーツ好き、温泉研究家など、様々なジャンルの第一人者たちに２０２１年に実現しそうな事、流行りそうな事、注目している事などを聞き２０２１年がどんな年になるか掘り下げて行きます！！ <br /><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/380\">https://ssl2.jfn.co.jp/mailbox/index/380</a><br /><br /></div>",
+              "pfm": "井門宗之 / 鈴元まい",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/8404tl8r8g.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -485,110 +472,19 @@
               }
             },
             {
-              "-id": "9548703478",
+              "-id": "9549313986",
               "-ft": "20210101140000",
-              "-to": "20210101141500",
-              "-ftl": "1400",
-              "-tol": "1415",
-              "-dur": "900",
-              "title": "AIR’z69",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/38823_fb2c4be0_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/6554_bbbdd88e_sq.png\" height=\"60\" width=\"60\" alt=\"冨永あきのり\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/6553_b4544558_sq.png\" height=\"60\" width=\"60\" alt=\"辻敬子\"></td>  </tr></table><br /><br />\t中間管理職サラリーマンや子育てをしながらちょっとだけ刺激が欲しい主婦などなど笑いと刺激を求めたロックな番組に！！時にはメール１枚に番組全てを費やすリスナーの為の番組♪”心の扉を開きつつ ガッツリラジオでロック”キーワードは数字で”６ ９”・・・ロック！！ <br /><br />\tメールアドレス：<a href=\"mailto:69@myufm.jp\">69@myufm.jp</a><br />\tFAX：099-239-1130<br /><br /></div>",
-              "pfm": "冨永あきのり / 辻敬子",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/tvq1rzt95h.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "FM鹿児島"
-                  },
-                  {
-                    "name": "AIR’z69"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9548669042",
-              "-ft": "20210101141500",
-              "-to": "20210101142000",
-              "-ftl": "1415",
-              "-tol": "1420",
-              "-dur": "300",
-              "title": "JFNﾗｼﾞｵｼｮｯﾋﾟﾝｸﾞ",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/3896_b05671fe_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/b0lv2nycdi.png",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9548703483",
-              "-ft": "20210101142000",
               "-to": "20210101145500",
-              "-ftl": "1420",
+              "-ftl": "1400",
               "-tol": "1455",
-              "-dur": "2100",
-              "title": "AIR’z69",
+              "-dur": "3300",
+              "title": "大予言スペシャル　～２０２１年はこうなる！？～",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/38824_fb4ffa8b_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/6554_bbbdd88e_sq.png\" height=\"60\" width=\"60\" alt=\"冨永あきのり\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/6553_b4544558_sq.png\" height=\"60\" width=\"60\" alt=\"辻敬子\"></td>  </tr></table><br /><br />\t中間管理職サラリーマンや子育てをしながらちょっとだけ刺激が欲しい主婦などなど笑いと刺激を求めたロックな番組に！！時にはメール１枚に番組全てを費やすリスナーの為の番組♪”心の扉を開きつつ ガッツリラジオでロック”キーワードは数字で”６ ９”・・・ロック！！ <br /><br /><br /></div>",
-              "pfm": "冨永あきのり / 辻敬子",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/tvq1rzt95h.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "FM鹿児島"
-                  },
-                  {
-                    "name": "AIR’z69"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/7830_c8b5eba1_sq.jpg\" height=\"60\" width=\"60\" alt=\"井門宗之\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/9083_b467014b_sq.jpg\" height=\"60\" width=\"60\" alt=\"鈴元まい\"></td>  </tr></table><br /><br />\t普段とは違う元日を迎える事になりそうな２０２１年。今年は、どんな年になるのか？コロナの今後は！？オリンピックはどうなっちゃうの！？人気占い師によるお楽しみの占いコーナーから、経済学者、ＩＴ評論家、数学者、金融、ニュース、サブカル、スマホ、アイドルなどの研究家、カレー通、ラーメン王、スイーツ好き、温泉研究家など、様々なジャンルの第一人者たちに２０２１年に実現しそうな事、流行りそうな事、注目している事などを聞き２０２１年がどんな年になるか掘り下げて行きます！！ <br /><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/380\">https://ssl2.jfn.co.jp/mailbox/index/380</a><br /><br /></div>",
+              "pfm": "井門宗之 / 鈴元まい",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/yutuzzmk8l.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -737,30 +633,18 @@
               }
             },
             {
-              "-id": "9548669068",
+              "-id": "9549308765",
               "-ft": "20210101154500",
               "-to": "20210101160000",
               "-ftl": "1545",
               "-tol": "1600",
               "-dur": "900",
-              "title": "Music Remark",
-              "url": "http://www.jfn.jp/remark",
+              "title": "ほっとんくんと仲間たち",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/person/1515_2397c8c0_sq.jpg\" height=\"60\" width=\"60\" alt=\"池山文\"></td>  </tr></table><br /><br />\t今の話題曲、注目曲を解説（Ｒｅｍａｒｋ）する、この番組でチェック!!<br /><br />「a crowd of rebellion」のNEWアルバム『Zealot City』 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/remark\">http://www.jfn.jp/remark</a><br /><br /></div>",
-              "pfm": "池山文",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/r0l1bputog.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
+              "info": "<div class=\"station_content_description \">\tリスナーの皆さん。こんにちは。<br />僕は、ほっとんくん。<br />ほけんの110番のマスコットキャラクターです。<br /><br />みんなは「地域活動」って知っているかな??<br />地域のコミュニティの中で、主体的に行う活動のことなんだけど<br /><br />この番組では、地域活動を通して、みんなが「幸せになるために」<br />頑張る仲間を紹介しています。<br /><br />みんな、よろしくね！ <br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/eagq5gswfb.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -769,39 +653,20 @@
               }
             },
             {
-              "-id": "9548703525",
+              "-id": "9549308777",
               "-ft": "20210101160000",
               "-to": "20210101165500",
               "-ftl": "1600",
               "-tol": "1655",
               "-dur": "3300",
-              "title": "AIR’z69",
+              "title": "WOMAN`S NEO ＃neo女子のお正月in霧島",
+              "url": "https://www.myufm.jp/womansneo202001tokuban/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/38825_13afdfbb_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/6554_bbbdd88e_sq.png\" height=\"60\" width=\"60\" alt=\"冨永あきのり\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/6553_b4544558_sq.png\" height=\"60\" width=\"60\" alt=\"辻敬子\"></td>  </tr></table><br /><br />\t中間管理職サラリーマンや子育てをしながらちょっとだけ刺激が欲しい主婦などなど笑いと刺激を求めたロックな番組に！！時にはメール１枚に番組全てを費やすリスナーの為の番組♪”心の扉を開きつつ ガッツリラジオでロック”キーワードは数字で”６ ９”・・・ロック！！ <br /><br />\tメールアドレス：<a href=\"mailto:69@myufm.jp\">69@myufm.jp</a><br />\tFAX：099-239-1130<br /><br /></div>",
-              "pfm": "冨永あきのり / 辻敬子",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/tvq1rzt95h.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "FM鹿児島"
-                  },
-                  {
-                    "name": "AIR’z69"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.myufm.jp/womansneo202001tokuban/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53675_f61c1f61_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br />\tWOMAN`S NEO初の特別番組決定♡<br /><br />《旅のしおり》<br />有賀真姫＆中島身依とラジオで旅しちゃいましょう♪<br />neo女子のneoな旅をお楽しみください。<br /><br />行き先は霧島！<br />素敵な宿に温泉、食事に女性に嬉しいあのスポットもご紹介♪ <br /><br />\t番組Webサイト：<a href=\"https://www.myufm.jp/womansneo202001tokuban/\">https://www.myufm.jp/womansneo202001tokuban/</a><br />\tメールアドレス：<a href=\"mailto:neo@myufm.jp\">neo@myufm.jp</a><br /><br /></div>",
+              "pfm": "有賀真姫 / 中島身依",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/ovwiw5fpb3.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -830,39 +695,61 @@
               }
             },
             {
-              "-id": "9548703575",
+              "-id": "9549308795",
               "-ft": "20210101170000",
-              "-to": "20210101185500",
+              "-to": "20210101175500",
               "-ftl": "1700",
-              "-tol": "1855",
-              "-dur": "6900",
-              "title": "AIR’z69",
+              "-tol": "1755",
+              "-dur": "3300",
+              "title": "２０２１年モォーッと住宅事情♪いい住宅に住モォー♬",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/38825_13afdfbb_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/6554_bbbdd88e_sq.png\" height=\"60\" width=\"60\" alt=\"冨永あきのり\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/6553_b4544558_sq.png\" height=\"60\" width=\"60\" alt=\"辻敬子\"></td>  </tr></table><br /><br />\t中間管理職サラリーマンや子育てをしながらちょっとだけ刺激が欲しい主婦などなど笑いと刺激を求めたロックな番組に！！時にはメール１枚に番組全てを費やすリスナーの為の番組♪”心の扉を開きつつ ガッツリラジオでロック”キーワードは数字で”６ ９”・・・ロック！！ <br /><br />\tメールアドレス：<a href=\"mailto:69@myufm.jp\">69@myufm.jp</a><br />\tFAX：099-239-1130<br /><br /></div>",
-              "pfm": "冨永あきのり / 辻敬子",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/tvq1rzt95h.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "FM鹿児島"
-                  },
-                  {
-                    "name": "AIR’z69"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53682_6c6d8b0f_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br />\t＜番組内容＞<br />今知りたい！気になる住宅事情を５５分に渡って<br />詳しくお伝えしていきます。<br />この番組を聴いてあなたも、いい住宅にモォーッと住みたくなる！！<br />という事で今回は・・・<br />３つの住宅の扉（情報）をオープンして参りました！！<br /><br />（マンション）◎ラ・カーサグランデ付属小前<br />（住宅ローン）◎JAバンク鹿児島<br />（戸建て）◎マルタ建設<br /><br />★おススメの“ＣＯＷ買うポイント”～～たくさんお聞きしましたよ♪<br /><br />それぞれ約12分間のロングインタビュー！！<br />是非、最後までお楽しみ下さい！！<br /><br />★2021年ありまゆき・・・家をCOW？買う？ <br /><br /><br /></div>",
+              "pfm": "ありまゆき",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/uf547y3vf2.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
                 }
-              },
+              }
+            },
+            {
+              "-id": "9549308807",
+              "-ft": "20210101175500",
+              "-to": "20210101180000",
+              "-ftl": "1755",
+              "-tol": "1800",
+              "-dur": "300",
+              "title": "くろいさでつながろう我らくろいさ特派員",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53676_842e44d7_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/b0lv2nycdi.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9549308817",
+              "-ft": "20210101180000",
+              "-to": "20210101185500",
+              "-ftl": "1800",
+              "-tol": "1855",
+              "-dur": "3300",
+              "title": "SPORTS＋元日スペシャル～コタツでまったりスポーツトーク２０２１",
+              "url": "https://www.myufm.jp/sportsplus_newyear2021/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.myufm.jp/sportsplus_newyear2021/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53683_60494a88_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br />\t＜番組内容＞<br />延期となった<br />東京オリンピック開催予定の２０２１年。<br />スポーツが盛り上がる２０２１年の元日に<br />SPORTS＋の特別番組をお届け！<br /><br />メダリストDJの宮下純一さんと<br />アスリートDJ　MACKYこと有賀真姫が<br />生放送でお送りします。<br /><br />スタジオになんとコタツが出現！<br />元日なのでまったりお酒を飲みながら<br />熱くスポーツについて語ります。<br /><br />＜コーナー＞<br />宮下純一の“鹿児島にはスポーツがあるじゃないか！”<br /><br />＜インタビュー＞<br />高校サッカー注目の日本代表選手 神村学園大迫塁選手＆福田師王選手のインタビューも！<br /><br />さらに・・・<br />東京オリンピック ボクシング代表 岡澤セオン選手、電話生出演も♪<br /><br />メダリストDJ　宮下純一さんとのトークも注目です。 <br /><br />\t番組Webサイト：<a href=\"https://www.myufm.jp/sportsplus_newyear2021/\">https://www.myufm.jp/sportsplus_newyear2021/</a><br />\tメールアドレス：<a href=\"mailto:sports@myufm.jp\">sports@myufm.jp</a><br />\tFAX：0992391130<br /><br /></div>",
+              "pfm": "有賀真姫 / 宮下純一",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/4wucf9rw8m.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -901,42 +788,20 @@
               }
             },
             {
-              "-id": "9548703673",
+              "-id": "9549308840",
               "-ft": "20210101190000",
               "-to": "20210101195500",
               "-ftl": "1900",
               "-tol": "1955",
               "-dur": "3300",
-              "title": "鹿児島スポーツ応援部 ＳＰＯＲＴＳ+",
+              "title": "SPORTS＋元日スペシャル～コタツでまったりスポーツトーク２０２１",
+              "url": "https://www.myufm.jp/sportsplus_newyear2021/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/38855_a27f1874_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/519_3f33053c_sq.jpg\" height=\"60\" width=\"60\" alt=\"有賀真姫\"></td>  </tr></table><br /><br />\t鹿児島のスポーツを盛り上げる“生放送部活動”SPORTS+！！！部長のアスリートDJマッキーと毎週変わる顧問の先生、そしてリスナー部員で　鹿児島のスポーツを盛り上げましょう！#カゴスポ応援部 <br /><br /><br /></div>",
-              "pfm": "有賀真姫",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/b0lv2nycdi.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "FM鹿児島"
-                  },
-                  {
-                    "name": "鹿児島"
-                  },
-                  {
-                    "name": "スポーツ+"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
-                }
-              },
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.myufm.jp/sportsplus_newyear2021/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53684_16f190ef_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br />\t＜番組内容＞<br />延期となった<br />東京オリンピック開催予定の２０２１年。<br />スポーツが盛り上がる２０２１年の元日に<br />SPORTS＋の特別番組をお届け！<br /><br />メダリストDJの宮下純一さんと<br />アスリートDJ　MACKYこと有賀真姫が<br />生放送でお送りします。<br /><br />スタジオになんとコタツが出現！<br />元日なのでまったりお酒を飲みながら<br />熱くスポーツについて語ります。<br /><br />＜コーナー＞<br />宮下純一の“鹿児島にはスポーツがあるじゃないか！”<br /><br />＜インタビュー＞<br />高校サッカー注目の日本代表選手 神村学園大迫塁選手＆福田師王選手のインタビューも！<br /><br />さらに・・・<br />東京オリンピック ボクシング代表 岡澤セオン選手、電話生出演も♪<br /><br />メダリストDJ　宮下純一さんとのトークも注目です。 <br /><br />\t番組Webサイト：<a href=\"https://www.myufm.jp/sportsplus_newyear2021/\">https://www.myufm.jp/sportsplus_newyear2021/</a><br />\tメールアドレス：<a href=\"mailto:sports@myufm.jp\">sports@myufm.jp</a><br />\tFAX：0992391130<br /><br /></div>",
+              "pfm": "有賀真姫 / 宮下純一",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/qd4as40uyc.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -975,7 +840,7 @@
               }
             },
             {
-              "-id": "9548708756",
+              "-id": "9549122761",
               "-ft": "20210101200000",
               "-to": "20210101203000",
               "-ftl": "2000",
@@ -1491,7 +1356,7 @@
               }
             },
             {
-              "-id": "9548837115",
+              "-id": "9549262269",
               "-ft": "20210102010000",
               "-to": "20210102050000",
               "-ftl": "2500",

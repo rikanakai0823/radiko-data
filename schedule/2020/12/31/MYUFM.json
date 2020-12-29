@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1608920804",
+    "srvtime": "1609266284",
     "stations": {
       "station": {
         "-id": "MYUFM",
@@ -112,7 +112,7 @@
               }
             },
             {
-              "-id": "9548561726",
+              "-id": "9549269071",
               "-ft": "20201231073000",
               "-to": "20201231082000",
               "-ftl": "0730",
@@ -150,19 +150,18 @@
               }
             },
             {
-              "-id": "9548568876",
+              "-id": "9549247209",
               "-ft": "20201231082000",
-              "-to": "20201231085500",
+              "-to": "20201231082500",
               "-ftl": "0820",
-              "-tol": "0855",
-              "-dur": "2100",
-              "title": "あさＣａｆｅ",
+              "-tol": "0825",
+              "-dur": "300",
+              "title": "Bran’μSong",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/46152_2fcfa447_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/7540_f7eae881_sq.png\" height=\"60\" width=\"60\" alt=\"田上真澄\"></td>  </tr></table><br /><br />\tWeekdayのあさにOPENするラジオの中の小さなCafé♪日替わりで5人のブレンダーが登場！音楽のこと、流行のこと、鹿児島のこと、時にはまじめなお話も…それぞれにブレンド（調合）してあなたのCafeタイムを演出します♡ <br /><br />\tメールアドレス：<a href=\"mailto:cafe@myufm.jp\">cafe@myufm.jp</a><br />\tFAX：099-239-1130<br /><br /></div>",
-              "pfm": "田上真澄",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/x0mdpnr37p.png",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53661_5aaa74f2_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/b0lv2nycdi.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -171,33 +170,85 @@
               }
             },
             {
-              "-id": "9548475101",
+              "-id": "9549252975",
+              "-ft": "20201231082500",
+              "-to": "20201231083000",
+              "-ftl": "0825",
+              "-tol": "0830",
+              "-dur": "300",
+              "title": "交通情報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53662_00b3f48b_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/b0lv2nycdi.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9549269086",
+              "-ft": "20201231083000",
+              "-to": "20201231085500",
+              "-ftl": "0830",
+              "-tol": "0855",
+              "-dur": "1500",
+              "title": "OH! HAPPY MORNING",
+              "url": "http://www.jfn.jp/oh/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/oh/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53663_426bee13_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br />\tあたり前の日常の中にこそ、ハッピーが詰まっている！ハピモニでは、リスナーの方々と一緒に、幸せになるヒントを提案していきます！ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/oh/\">http://www.jfn.jp/oh/</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/198\">https://ssl2.jfn.co.jp/mailbox/index/198</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23hapimoni\">#hapimoni</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/hapimoni\">@hapimoni</a>」<br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/b0lv2nycdi.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#hapimoni"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:hapimoni"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9549247217",
               "-ft": "20201231085500",
               "-to": "20201231090000",
               "-ftl": "0855",
               "-tol": "0900",
               "-dur": "300",
-              "title": "快適生活ラジオショッピング",
+              "title": "なるほど！かごしま",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/16503_cda4f8ea_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53664_dbd0a156_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/b0lv2nycdi.png",
-              "tag": {
-                "item": {
-                  "name": "快適生活、0120401475"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -206,24 +257,40 @@
               }
             },
             {
-              "-id": "9548568913",
+              "-id": "9549269103",
               "-ft": "20201231090000",
               "-to": "20201231095000",
               "-ftl": "0900",
               "-tol": "0950",
               "-dur": "3000",
-              "title": "あさＣａｆｅ",
+              "title": "OH! HAPPY MORNING",
+              "url": "http://www.jfn.jp/oh/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/46153_3beff6c0_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/7540_f7eae881_sq.png\" height=\"60\" width=\"60\" alt=\"田上真澄\"></td>  </tr></table><br /><br />\tWeekdayのあさにOPENするラジオの中の小さなCafé♪日替わりで5人のブレンダーが登場！音楽のこと、流行のこと、鹿児島のこと、時にはまじめなお話も…それぞれにブレンド（調合）してあなたのCafeタイムを演出します♡ <br /><br />\tメールアドレス：<a href=\"mailto:cafe@myufm.jp\">cafe@myufm.jp</a><br />\tFAX：099-239-1130<br /><br /></div>",
-              "pfm": "田上真澄",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/x0mdpnr37p.png",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/oh/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53665_b846ed90_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br />\tあたり前の日常の中にこそ、ハッピーが詰まっている！ハピモニでは、リスナーの方々と一緒に、幸せになるヒントを提案していきます！ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/oh/\">http://www.jfn.jp/oh/</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/198\">https://ssl2.jfn.co.jp/mailbox/index/198</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23hapimoni\">#hapimoni</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/hapimoni\">@hapimoni</a>」<br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/b0lv2nycdi.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
                 }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#hapimoni"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:hapimoni"
+                  }
+                ]
               }
             },
             {
@@ -257,19 +324,55 @@
               }
             },
             {
-              "-id": "9548568937",
+              "-id": "9549269113",
               "-ft": "20201231100000",
-              "-to": "20201231110000",
+              "-to": "20201231105500",
               "-ftl": "1000",
-              "-tol": "1100",
-              "-dur": "3600",
-              "title": "あさＣａｆｅ",
+              "-tol": "1055",
+              "-dur": "3300",
+              "title": "OH! HAPPY MORNING",
+              "url": "http://www.jfn.jp/oh/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/46156_00d424a3_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/7540_f7eae881_sq.png\" height=\"60\" width=\"60\" alt=\"田上真澄\"></td>  </tr></table><br /><br />\tWeekdayのあさにOPENするラジオの中の小さなCafé♪日替わりで5人のブレンダーが登場！音楽のこと、流行のこと、鹿児島のこと、時にはまじめなお話も…それぞれにブレンド（調合）してあなたのCafeタイムを演出します♡ <br /><br />\tメールアドレス：<a href=\"mailto:cafe@myufm.jp\">cafe@myufm.jp</a><br />\tFAX：099-239-1130<br /><br /></div>",
-              "pfm": "田上真澄",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/x0mdpnr37p.png",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/oh/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53666_a84d8169_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br />\tあたり前の日常の中にこそ、ハッピーが詰まっている！ハピモニでは、リスナーの方々と一緒に、幸せになるヒントを提案していきます！ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/oh/\">http://www.jfn.jp/oh/</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/198\">https://ssl2.jfn.co.jp/mailbox/index/198</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23hapimoni\">#hapimoni</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/hapimoni\">@hapimoni</a>」<br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/b0lv2nycdi.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#hapimoni"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:hapimoni"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9549247252",
+              "-ft": "20201231105500",
+              "-to": "20201231110000",
+              "-ftl": "1055",
+              "-tol": "1100",
+              "-dur": "300",
+              "title": "Bran’μSong",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53667_442d6f5b_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/b0lv2nycdi.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -310,38 +413,23 @@
               }
             },
             {
-              "-id": "9548566456",
+              "-id": "9549279194",
               "-ft": "20201231113000",
               "-to": "20201231125500",
               "-ftl": "1130",
               "-tol": "1255",
               "-dur": "5100",
-              "title": "アンテナ@ｂｅａｔ！！～ピピピ♪～",
+              "title": "simple style －オヒルノオト－",
+              "url": "http://www.jfn.jp/oto",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/38775_2733628d_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/6558_db20d625_sq.png\" height=\"60\" width=\"60\" alt=\"今末真人\"></td>  </tr></table><br /><br />\t「情報」＋「稼働力」＝『ワクワクする躍動感のある情報番組！！』みなさんからの”情報リクエスト”お待ちしてます☆ラジオとあなたを繋ぐ魔法の言葉は『～ピピピ♪～』番組ツイッター(@antena_beat)も稼働中！！「＃アンテナピピピ」で今すぐ投稿～ <br /><br />\tメールアドレス：<a href=\"mailto:pipipi@myufm.jp\">pipipi@myufm.jp</a><br />\tFAX：099-239-1130<br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A%E3%83%94%E3%83%94%E3%83%94\">#アンテナピピピ</a>」<br /><br /></div>",
-              "pfm": "今末真人",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/gfq2plifxc.png",
-              "tag": {
-                "item": {
-                  "name": "アンテナピピピ"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/oto\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53668_ceeffc27_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br />\t晴れたお昼時、お弁当を持って、ちょっと会社を抜け出し、外で日向ぼっこ。携帯でラジオを聴きながら、こころは日常からちょっと離れて旅気分。雨の日、あいにく外出できないのでムシャクシャ。雨を見ながら、仲間と談笑。携帯でラジオを聴きながら、「この曲はなんだ？このモノはなんだ？」と検索。やっぱり、こころは日常からちょっと逸脱。この番組では、そんなあなたの好奇心・冒険心に火をともす「お昼」を演出します。 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/oto\">http://www.jfn.jp/oto</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/100\">https://ssl2.jfn.co.jp/mailbox/index/100</a><br />\tFAX：03-3228-8955<br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/b0lv2nycdi.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#アンテナピピピ"
+                  "-value": "#radiko"
                 }
               }
             },
@@ -366,62 +454,19 @@
               }
             },
             {
-              "-id": "9548567403",
+              "-id": "9549276269",
               "-ft": "20201231130000",
-              "-to": "20201231133000",
-              "-ftl": "1300",
-              "-tol": "1330",
-              "-dur": "1800",
-              "title": "デイリーフライヤー",
-              "url": "http://www.jfn.jp/daily/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/daily/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/1875_d53fee57_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/1074_d68d592c_sq.jpg\" height=\"60\" width=\"60\" alt=\"井門宗之\"></td>  </tr></table><br /><br />\t毎週月曜日から金曜まで！その日、その時の“気になる情報”をお届けする「デイリーフライヤー」略して「デリフラ」！あらゆるジャンルのリアルタイムなニュースをピックアップ！今すぐ使える、誰かに話したくなる情報を、30分にギュッと凝縮してお送りします。 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/daily/\">http://www.jfn.jp/daily/</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/60\">https://ssl2.jfn.co.jp/mailbox/index/60</a><br /><br /></div>",
-              "pfm": "井門宗之",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/oi4bcldlpg.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9548567414",
-              "-ft": "20201231133000",
               "-to": "20201231135500",
-              "-ftl": "1330",
+              "-ftl": "1300",
               "-tol": "1355",
-              "-dur": "1500",
-              "title": "Seasoning～season your life with music～",
-              "url": "http://www.jfn.jp/seasoning",
+              "-dur": "3300",
+              "title": "今日だけは、あの人に会いたい！2020",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/seasoning\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/38287_c0b54344_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6469_339aa7b8_sq.jpg\" height=\"60\" width=\"60\" alt=\"市川美絵\"></td>  </tr></table><br /><br />\tradio。ふと流れてきた音楽に癒され、ふと流れてきた言葉に心癒される瞬間があります。それは、人生のちょっとしたエッセンス、そしてスパイスです。Seasoning　～音楽で、言葉で、あなたの人生を彩ります。～ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/seasoning\">http://www.jfn.jp/seasoning</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/255\">https://ssl2.jfn.co.jp/mailbox/index/255</a><br /><br /></div>",
-              "pfm": "市川美絵",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/h3vyc868ro.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/7264_b2b1274c_sq.jpg\" height=\"60\" width=\"60\" alt=\"高橋茉奈\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/9082_6f72f987_sq.jpg\" height=\"60\" width=\"60\" alt=\"副島淳\"></td>  </tr></table><br /><br />\t「大切な人に会いたい」そんな気持ちを音楽と情報でサポートしていきます。各家庭のリモート帰省事情、家族の愛を感じる映画・ドラマ紹介、リスナーの「大切な人」へのメッセージ紹介、そして「会いたい気持ち」が詰まったナンバーの生演奏も予定しています。 <br /><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/379\">https://ssl2.jfn.co.jp/mailbox/index/379</a><br /><br /></div>",
+              "pfm": "高橋茉奈 / 副島淳",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/qwml0gig7v.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -465,92 +510,19 @@
               }
             },
             {
-              "-id": "9548567422",
+              "-id": "9549276284",
               "-ft": "20201231140000",
-              "-to": "20201231141500",
-              "-ftl": "1400",
-              "-tol": "1415",
-              "-dur": "900",
-              "title": "Seasoning～season your life with music～",
-              "url": "http://www.jfn.jp/seasoning",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/seasoning\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/38288_190ec59f_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6469_339aa7b8_sq.jpg\" height=\"60\" width=\"60\" alt=\"市川美絵\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6655_c1c40c35_sq.jpg\" height=\"60\" width=\"60\" alt=\"若新雄純\"></td>  </tr></table><br /><br />\tradio。ふと流れてきた音楽に癒され、ふと流れてきた言葉に心癒される瞬間があります。それは、人生のちょっとしたエッセンス、そしてスパイスです。Seasoning　～音楽で、言葉で、あなたの人生を彩ります。～ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/seasoning\">http://www.jfn.jp/seasoning</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/255\">https://ssl2.jfn.co.jp/mailbox/index/255</a><br /><br /></div>",
-              "pfm": "市川美絵 / 若新雄純",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/h3vyc868ro.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9548475642",
-              "-ft": "20201231141500",
-              "-to": "20201231142000",
-              "-ftl": "1415",
-              "-tol": "1420",
-              "-dur": "300",
-              "title": "JFNﾗｼﾞｵｼｮｯﾋﾟﾝｸﾞ",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/3896_b05671fe_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/b0lv2nycdi.png",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9548567428",
-              "-ft": "20201231142000",
               "-to": "20201231145500",
-              "-ftl": "1420",
+              "-ftl": "1400",
               "-tol": "1455",
-              "-dur": "2100",
-              "title": "Seasoning～season your life with music～",
-              "url": "http://www.jfn.jp/seasoning",
+              "-dur": "3300",
+              "title": "今日だけは、あの人に会いたい！2020",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/seasoning\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/38289_f74922ba_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6469_339aa7b8_sq.jpg\" height=\"60\" width=\"60\" alt=\"市川美絵\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6655_c1c40c35_sq.jpg\" height=\"60\" width=\"60\" alt=\"若新雄純\"></td>  </tr></table><br /><br />\tradio。ふと流れてきた音楽に癒され、ふと流れてきた言葉に心癒される瞬間があります。それは、人生のちょっとしたエッセンス、そしてスパイスです。Seasoning　～音楽で、言葉で、あなたの人生を彩ります。～ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/seasoning\">http://www.jfn.jp/seasoning</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/255\">https://ssl2.jfn.co.jp/mailbox/index/255</a><br /><br /></div>",
-              "pfm": "市川美絵 / 若新雄純",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/h3vyc868ro.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/7264_b2b1274c_sq.jpg\" height=\"60\" width=\"60\" alt=\"高橋茉奈\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/9082_6f72f987_sq.jpg\" height=\"60\" width=\"60\" alt=\"副島淳\"></td>  </tr></table><br /><br />\t２０２０年。新型コロナウイルスに翻弄されたままの年越し。<br />孫に会えない、親に会えない、親友に会えない、故郷に、実家に帰れない・・・。<br />そんな人も多いのでは？？我慢すべきか。でも、来年絶対に会える保障もない。人生何があるか分からない。イマ、会いたい。会って楽しく時間を過ごした方がいいんじゃないか・・・。<br />正解はどこにもありません。<br />でも、「大切な人に会いたい」。その気持ちだけは、本当にまっすぐで人間らしいものですよね。<br />番組は、そんな気持ちを音楽と情報でサポートしていきます。 <br /><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/379\">https://ssl2.jfn.co.jp/mailbox/index/379</a><br /><br /></div>",
+              "pfm": "高橋茉奈 / 副島淳",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/rnvdtv6t5f.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -591,94 +563,19 @@
               }
             },
             {
-              "-id": "9548567440",
+              "-id": "9549276305",
               "-ft": "20201231150000",
-              "-to": "20201231154200",
-              "-ftl": "1500",
-              "-tol": "1542",
-              "-dur": "2520",
-              "title": "Seasoning～season your life with music～",
-              "url": "http://www.jfn.jp/seasoning",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/seasoning\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/38290_fac5d3a0_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6469_339aa7b8_sq.jpg\" height=\"60\" width=\"60\" alt=\"市川美絵\"></td>  </tr></table><br /><br />\tこれまでも、そしてこれからも、ラジオは聴き手の生活に近く寄り添ったもの。ふと流れてきた音楽に癒され、ふと流れてきた言葉に心癒される瞬間がある。それは、多くの人にとって人生の全てではありませんが、大切なエッセンス、そしてスパイスです。Seasoning　～音楽で、言葉で、あなたの人生を彩ります。～ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/seasoning\">http://www.jfn.jp/seasoning</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/255\">https://ssl2.jfn.co.jp/mailbox/index/255</a><br /><br /></div>",
-              "pfm": "市川美絵",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/h3vyc868ro.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9548567451",
-              "-ft": "20201231154200",
-              "-to": "20201231154700",
-              "-ftl": "1542",
-              "-tol": "1547",
-              "-dur": "300",
-              "title": "Seasoning～season your life with music～",
-              "url": "http://www.jfn.jp/seasoning",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/seasoning\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/38292_ddd830e0_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6469_339aa7b8_sq.jpg\" height=\"60\" width=\"60\" alt=\"市川美絵\"></td>  </tr></table><br /><br />\tradio。ふと流れてきた音楽に癒され、ふと流れてきた言葉に心癒される瞬間があります。それは、人生のちょっとしたエッセンス、そしてスパイスです。Seasoning　～音楽で、言葉で、あなたの人生を彩ります。～ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/seasoning\">http://www.jfn.jp/seasoning</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/255\">https://ssl2.jfn.co.jp/mailbox/index/255</a><br /><br /></div>",
-              "pfm": "市川美絵",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/h3vyc868ro.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9548567453",
-              "-ft": "20201231154700",
               "-to": "20201231155500",
-              "-ftl": "1547",
+              "-ftl": "1500",
               "-tol": "1555",
-              "-dur": "480",
-              "title": "Seasoning～season your life with music～",
-              "url": "http://www.jfn.jp/seasoning",
+              "-dur": "3300",
+              "title": "今日だけは、あの人に会いたい！2020",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/seasoning\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/38291_a4dccbdd_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6469_339aa7b8_sq.jpg\" height=\"60\" width=\"60\" alt=\"市川美絵\"></td>  </tr></table><br /><br />\tradio。ふと流れてきた音楽に癒され、ふと流れてきた言葉に心癒される瞬間があります。それは、人生のちょっとしたエッセンス、そしてスパイスです。Seasoning　～音楽で、言葉で、あなたの人生を彩ります。～ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/seasoning\">http://www.jfn.jp/seasoning</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/255\">https://ssl2.jfn.co.jp/mailbox/index/255</a><br /><br /></div>",
-              "pfm": "市川美絵",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/h3vyc868ro.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/7264_b2b1274c_sq.jpg\" height=\"60\" width=\"60\" alt=\"高橋茉奈\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/9082_6f72f987_sq.jpg\" height=\"60\" width=\"60\" alt=\"副島淳\"></td>  </tr></table><br /><br />\t２０２０年。新型コロナウイルスに翻弄されたままの年越し。<br />孫に会えない、親に会えない、親友に会えない、故郷に、実家に帰れない・・・。<br />そんな人も多いのでは？？我慢すべきか。でも、来年絶対に会える保障もない。人生何があるか分からない。イマ、会いたい。会って楽しく時間を過ごした方がいいんじゃないか・・・。<br />正解はどこにもありません。<br />でも、「大切な人に会いたい」。その気持ちだけは、本当にまっすぐで人間らしいものですよね。<br />番組は、そんな気持ちを音楽と情報でサポートしていきます。 <br /><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/379\">https://ssl2.jfn.co.jp/mailbox/index/379</a><br /><br /></div>",
+              "pfm": "高橋茉奈 / 副島淳",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/.978c1o71m.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -985,12 +882,12 @@
               }
             },
             {
-              "-id": "9548570819",
+              "-id": "9549243894",
               "-ft": "20201231220000",
-              "-to": "20201231235500",
+              "-to": "20201231225500",
               "-ftl": "2200",
-              "-tol": "2355",
-              "-dur": "6900",
+              "-tol": "2255",
+              "-dur": "3300",
               "title": "SCHOOL OF LOCK！",
               "url": "https://www.tfm.co.jp/lock/",
               "failed_record": "0",
@@ -1023,92 +920,18 @@
               }
             },
             {
-              "-id": "9548476405",
-              "-ft": "20201231235500",
-              "-to": "20210101000000",
-              "-ftl": "2355",
-              "-tol": "2400",
+              "-id": "9549247454",
+              "-ft": "20201231225500",
+              "-to": "20201231230000",
+              "-ftl": "2255",
+              "-tol": "2300",
               "-dur": "300",
-              "title": "ビートルズは終わらない～The Beatles 4 Ever～",
-              "url": "http://www.jfn.jp/b4",
+              "title": "Bran’μSong",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/b4\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/49538_22d38184_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/8070_205dfee6_sq.jpg\" height=\"60\" width=\"60\" alt=\"登坂淳一\"></td>  </tr></table><br /><br />\tグループ解散から50年。改めてザ・ビートルズの音楽を紐解きます。<br />▽今回は「シーズ・リーヴィング・ホーム」のカバーバージョンを紹介。 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/b4\">http://www.jfn.jp/b4</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/346\">https://ssl2.jfn.co.jp/mailbox/index/346</a><br /><br /></div>",
-              "pfm": "登坂淳一",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/18a3o875wl.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9548718798",
-              "-ft": "20210101000000",
-              "-to": "20210101005500",
-              "-ftl": "2400",
-              "-tol": "2455",
-              "-dur": "3300",
-              "title": "JET STREAM",
-              "url": "https://www.tfm.co.jp/jetstream/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/jetstream/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/program/128_f41275e9_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/8149_db360e96_sq.png\" height=\"60\" width=\"60\" alt=\"福山雅治\"></td>  </tr></table><br /><br />\t「旅への誘い」をテーマに、心地良い音楽とナレーションで綴ります。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/jetstream/\">https://www.tfm.co.jp/jetstream/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/jetstream/message\">https://www.tfm.co.jp/f/jetstream/message</a><br /><br /></div>",
-              "pfm": "福山雅治",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/kxg1pskqu5.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9548657498",
-              "-ft": "20210101005500",
-              "-to": "20210101010000",
-              "-ftl": "2455",
-              "-tol": "2500",
-              "-dur": "300",
-              "title": "FM鹿児島ﾆｭｰｽ",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/3880_b05671fe_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/53670_c835d39c_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/b0lv2nycdi.png",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1117,7 +940,35 @@
               }
             },
             {
-              "-id": "9548748248",
+              "-id": "9549279237",
+              "-ft": "20201231230000",
+              "-to": "20210101010000",
+              "-ftl": "2300",
+              "-tol": "2500",
+              "-dur": "7200",
+              "title": "村上RADIO年越しスペシャル～牛坂21～",
+              "url": "https://www.tfm.co.jp/murakamiradio/toshikoshisp2020/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/6793_fee7b417_sq.jpg\" height=\"60\" width=\"60\" alt=\"村上春樹\"></td>  </tr></table><br /><br />\t本日のゲスト：\t\t山極壽一（人類学者）\t\t\t、\t\t山中伸弥（京都大学iPS細胞研究所所長）\t<br />\t<br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/murakamiradio/toshikoshisp2020/\">https://www.tfm.co.jp/murakamiradio/toshikoshisp2020/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E6%9D%91%E4%B8%8ARADIO\">#村上RADIO</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/Murakamiradiofm\">@Murakamiradiofm</a>」<br /><br /></div>",
+              "pfm": "村上春樹",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/ds1jvmjh12.jpg",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#村上RADIO"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:Murakamiradiofm"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9549261775",
               "-ft": "20210101010000",
               "-to": "20210101020000",
               "-ftl": "2500",
@@ -1151,68 +1002,19 @@
               }
             },
             {
-              "-id": "9548707397",
+              "-id": "9549276454",
               "-ft": "20210101020000",
-              "-to": "20210101030000",
-              "-ftl": "2600",
-              "-tol": "2700",
-              "-dur": "3600",
-              "title": "ON THE PLANET",
-              "url": "http://www.jfn.jp/planet",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/planet\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/22198_f38b8f67_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/7236_33d337f2_sq.jpg\" height=\"60\" width=\"60\" alt=\"浦朋恵\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/planet\">http://www.jfn.jp/planet</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/159\">https://ssl2.jfn.co.jp/mailbox/index/159</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%AA%E3%83%B3%E3%83%97%E3%83%A9\">#オンプラ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/JFN_OTP\">@JFN_OTP</a>」<br /><br /></div>",
-              "pfm": "浦朋恵",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/8le4ordvsh.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C012",
-                  "name": "文化人"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#オンプラ"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:JFN_OTP"
-                  }
-                ]
-              }
-            },
-            {
-              "-id": "9548707450",
-              "-ft": "20210101030000",
               "-to": "20210101040000",
-              "-ftl": "2700",
+              "-ftl": "2600",
               "-tol": "2800",
-              "-dur": "3600",
-              "title": "ON THE PLANET",
+              "-dur": "7200",
+              "title": "THE SOUND OF HOPE -ON THE PLANET SPECIAL-",
               "url": "http://www.jfn.jp/planet",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/planet\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/22199_9684df80_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/7236_33d337f2_sq.jpg\" height=\"60\" width=\"60\" alt=\"浦朋恵\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/planet\">http://www.jfn.jp/planet</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/159\">https://ssl2.jfn.co.jp/mailbox/index/159</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%AA%E3%83%B3%E3%83%97%E3%83%A9\">#オンプラ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/JFN_OTP\">@JFN_OTP</a>」<br /><br /></div>",
-              "pfm": "浦朋恵",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/planet\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/53172_9e03fe2a_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br />\t年始特別番組『THE SOUND OF HOPE』では、国内をはじめ、新年を迎えた・これから迎えようとする国々とリアルタイムで繋がって、現在の状況、そして、２０２１年への希望を伺っていきます。 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/planet\">http://www.jfn.jp/planet</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/159\">https://ssl2.jfn.co.jp/mailbox/index/159</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%AA%E3%83%B3%E3%83%97%E3%83%A9\">#オンプラ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/JFN_OTP\">@JFN_OTP</a>」<br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/8le4ordvsh.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C012",
-                  "name": "文化人"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
               "metas": {
                 "meta": [
                   {
