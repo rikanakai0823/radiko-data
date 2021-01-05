@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1609611946",
+    "srvtime": "1609871091",
     "stations": {
       "station": {
         "-id": "KBC",
@@ -436,19 +436,43 @@
               }
             },
             {
-              "-id": "9549654092",
+              "-id": "9550160032",
               "-ft": "20210108123000",
               "-to": "20210108123500",
               "-ftl": "1230",
               "-tol": "1235",
               "-dur": "300",
               "title": "中西和久ひと日記",
-              "url": "https://kbc.co.jp/radio/",
+              "url": "https://kbc.co.jp/r-radio/hito/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "パーソナリティ：中西和久",
+              "desc": "多彩なテーマで俳優 中西和久がインタビューする「人権」のいま！",
+              "pfm": "中西和久",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/6c1d8b6f-5414-4970-ad51-1b55f295f077.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "人権"
+                  },
+                  {
+                    "name": "中西和久"
+                  },
+                  {
+                    "name": "インタビュー"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C002",
+                  "name": "俳優"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1016,7 +1040,7 @@
               }
             },
             {
-              "-id": "9549772454",
+              "-id": "9550176154",
               "-ft": "20210109010000",
               "-to": "20210109030000",
               "-ftl": "2500",
