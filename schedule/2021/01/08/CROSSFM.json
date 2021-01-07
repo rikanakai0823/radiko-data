@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1609871094",
+    "srvtime": "1610043879",
     "stations": {
       "station": {
         "-id": "CROSSFM",
@@ -88,7 +88,7 @@
               }
             },
             {
-              "-id": "9550175946",
+              "-id": "9550439540",
               "-ft": "20210108090000",
               "-to": "20210108114700",
               "-ftl": "0900",
@@ -158,7 +158,7 @@
               }
             },
             {
-              "-id": "9550175964",
+              "-id": "9550467291",
               "-ft": "20210108114700",
               "-to": "20210108120000",
               "-ftl": "1147",
@@ -169,8 +169,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "OA:Every Fri. 11:47～11：57<br />Navigator　：　中嶋順子<br /><br />九州の魅力的なお取り寄せグルメにスポットを当てて紹介する10分間。<br />今週のお取り寄せグルメは、何でしょうか…??? <br />",
-              "info": "<img src='https://www.crossfm.co.jp/contpgms/imgsrc/content_0_20201228144138.jpg' border='0' /><br />",
+              "desc": "OA:Every Fri. 11:47～11：57<br />Navigator　：　中嶋順子<br />twitter:@oj_crossfm<br /><br />九州の魅力的なお取り寄せグルメにスポットを当てて紹介する10分間。<br />今週のお取り寄せグルメは、何でしょうか…??? <br />https://www.otoriyose.site/",
+              "info": "<img src='https://www.crossfm.co.jp/contpgms/imgsrc/content_0_20201228144138.jpg' border='0' /><br />  twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23crossfm\">#crossfm</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/oj_crossfm\">@oj_crossfm</a>」",
               "pfm": "中嶋順子 ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CROSSFM/nn9tu950ar.jpg",
               "tag": {
@@ -189,10 +189,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#crossfm"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:oj_crossfm"
+                  }
+                ]
               }
             },
             {

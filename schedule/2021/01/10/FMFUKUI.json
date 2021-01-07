@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1609957523",
+    "srvtime": "1610043900",
     "stations": {
       "station": {
         "-id": "FMFUKUI",
@@ -10,7 +10,7 @@
           "date": "20210110",
           "prog": [
             {
-              "-id": "9549900143",
+              "-id": "9550512235",
               "-ft": "20210110050000",
               "-to": "20210110060000",
               "-ftl": "0500",
@@ -67,7 +67,7 @@
               }
             },
             {
-              "-id": "9549900235",
+              "-id": "9550512239",
               "-ft": "20210110060000",
               "-to": "20210110073000",
               "-ftl": "0600",
@@ -121,7 +121,7 @@
               }
             },
             {
-              "-id": "9549900437",
+              "-id": "9550512244",
               "-ft": "20210110073000",
               "-to": "20210110080000",
               "-ftl": "0730",
@@ -156,7 +156,7 @@
               }
             },
             {
-              "-id": "9549900496",
+              "-id": "9550512245",
               "-ft": "20210110080000",
               "-to": "20210110083000",
               "-ftl": "0800",
@@ -193,7 +193,7 @@
               }
             },
             {
-              "-id": "9549900537",
+              "-id": "9550512248",
               "-ft": "20210110083000",
               "-to": "20210110085500",
               "-ftl": "0830",
@@ -244,7 +244,7 @@
               }
             },
             {
-              "-id": "9550185664",
+              "-id": "9550512249",
               "-ft": "20210110085500",
               "-to": "20210110090000",
               "-ftl": "0855",
@@ -257,9 +257,14 @@
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/9564914f-29cc-4f7f-8090-60b85f9ee973.jpeg",
               "tag": {
-                "item": {
-                  "name": "国内・海外のニュース"
-                }
+                "item": [
+                  {
+                    "name": "インフォメーション"
+                  },
+                  {
+                    "name": "ぐるスタ!"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -267,8 +272,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -279,7 +284,7 @@
               }
             },
             {
-              "-id": "9550370893",
+              "-id": "9550512250",
               "-ft": "20210110090000",
               "-to": "20210110093000",
               "-ftl": "0900",
@@ -321,7 +326,7 @@
               }
             },
             {
-              "-id": "9550307001",
+              "-id": "9550512253",
               "-ft": "20210110093000",
               "-to": "20210110095500",
               "-ftl": "0930",
@@ -369,7 +374,7 @@
               }
             },
             {
-              "-id": "9549906770",
+              "-id": "9550512254",
               "-ft": "20210110095500",
               "-to": "20210110100000",
               "-ftl": "0955",
@@ -411,7 +416,7 @@
               }
             },
             {
-              "-id": "9550307698",
+              "-id": "9550512255",
               "-ft": "20210110100000",
               "-to": "20210110103000",
               "-ftl": "1000",
@@ -453,7 +458,7 @@
               }
             },
             {
-              "-id": "9549900751",
+              "-id": "9550512258",
               "-ft": "20210110103000",
               "-to": "20210110105500",
               "-ftl": "1030",
@@ -498,7 +503,7 @@
               }
             },
             {
-              "-id": "9549835651",
+              "-id": "9550512259",
               "-ft": "20210110105500",
               "-to": "20210110110000",
               "-ftl": "1055",
@@ -543,7 +548,7 @@
               }
             },
             {
-              "-id": "9549907823",
+              "-id": "9550512260",
               "-ft": "20210110110000",
               "-to": "20210110113000",
               "-ftl": "1100",
@@ -557,6 +562,11 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/5310_b8224006_sq.jpg\" height=\"60\" width=\"60\" alt=\"坂上みき\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/legendary/\">https://www.tfm.co.jp/legendary/</a><br /><br /></div>",
               "pfm": "坂上みき",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/l3vdedpes7.png",
+              "tag": {
+                "item": {
+                  "name": "坂上みき"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -575,7 +585,7 @@
               }
             },
             {
-              "-id": "9549907870",
+              "-id": "9550512263",
               "-ft": "20210110113000",
               "-to": "20210110115500",
               "-ftl": "1130",
@@ -589,6 +599,19 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/833__sq.jpg\" height=\"60\" width=\"60\" alt=\"木村拓哉\"></td>  </tr></table><br /><br />\t拓哉キャプテンと“親交”のある方から“はじめまして”な方まで、<br />様々なステキなゲストをお迎えしてお送りする「Flow」！ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/flow/\">https://www.tfm.co.jp/flow/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/flow/index.php?catid=3748\">https://www.tfm.co.jp/flow/index.php?catid=3748</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%95%E3%83%AD%E3%82%A6%E3%81%95%E3%82%93\">#フロウさん</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/flowsaaaan\">@flowsaaaan</a>」<br /><br /></div>",
               "pfm": "木村拓哉",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/8w9vnk0fka.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "木村拓哉"
+                  },
+                  {
+                    "name": "フロウさん"
+                  },
+                  {
+                    "name": "Flow"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C007",
@@ -613,7 +636,7 @@
               }
             },
             {
-              "-id": "9550185722",
+              "-id": "9550512264",
               "-ft": "20210110115500",
               "-to": "20210110120000",
               "-ftl": "1155",
@@ -626,9 +649,14 @@
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/9564914f-29cc-4f7f-8090-60b85f9ee973.jpeg",
               "tag": {
-                "item": {
-                  "name": "国内・海外のニュース"
-                }
+                "item": [
+                  {
+                    "name": "インフォメーション"
+                  },
+                  {
+                    "name": "ぐるスタ!"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -636,8 +664,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -648,7 +676,7 @@
               }
             },
             {
-              "-id": "9549908762",
+              "-id": "9550512265",
               "-ft": "20210110120000",
               "-to": "20210110122500",
               "-ftl": "1200",
@@ -693,7 +721,7 @@
               }
             },
             {
-              "-id": "9549900873",
+              "-id": "9550512268",
               "-ft": "20210110122500",
               "-to": "20210110123000",
               "-ftl": "1225",
@@ -720,7 +748,7 @@
               }
             },
             {
-              "-id": "9549900916",
+              "-id": "9550512269",
               "-ft": "20210110123000",
               "-to": "20210110125500",
               "-ftl": "1230",
@@ -757,7 +785,7 @@
               }
             },
             {
-              "-id": "9550185743",
+              "-id": "9550512270",
               "-ft": "20210110125500",
               "-to": "20210110130000",
               "-ftl": "1255",
@@ -770,9 +798,14 @@
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/9564914f-29cc-4f7f-8090-60b85f9ee973.jpeg",
               "tag": {
-                "item": {
-                  "name": "国内・海外のニュース"
-                }
+                "item": [
+                  {
+                    "name": "インフォメーション"
+                  },
+                  {
+                    "name": "ぐるスタ!"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -780,8 +813,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -792,7 +825,7 @@
               }
             },
             {
-              "-id": "9549906836",
+              "-id": "9550512271",
               "-ft": "20210110130000",
               "-to": "20210110135500",
               "-ftl": "1300",
@@ -814,7 +847,7 @@
               }
             },
             {
-              "-id": "9549836159",
+              "-id": "9550512274",
               "-ft": "20210110135500",
               "-to": "20210110140000",
               "-ftl": "1355",
@@ -859,7 +892,7 @@
               }
             },
             {
-              "-id": "9549907955",
+              "-id": "9550512275",
               "-ft": "20210110140000",
               "-to": "20210110145500",
               "-ftl": "1400",
@@ -873,6 +906,16 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/ssb/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/program/11718_77d17726_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/901_545d9251_sq.jpg\" height=\"60\" width=\"60\" alt=\"山下達郎\"></td>  </tr></table><br /><br />\t山下達郎の個人コレクションを使って発信される日本最高のオールディーズ・プログラム！ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/ssb/\">https://www.tfm.co.jp/ssb/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/ssb/form/\">https://www.tfm.co.jp/ssb/form/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23sundaysongbook\">#sundaysongbook</a>」<br /><br /></div>",
               "pfm": "山下達郎",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/tje9sfw5rk.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "sundaysongbook"
+                  },
+                  {
+                    "name": "山下達郎"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -891,7 +934,7 @@
               }
             },
             {
-              "-id": "9549906858",
+              "-id": "9550512278",
               "-ft": "20210110145500",
               "-to": "20210110150000",
               "-ftl": "1455",
@@ -934,7 +977,7 @@
               }
             },
             {
-              "-id": "9549908845",
+              "-id": "9550512279",
               "-ft": "20210110150000",
               "-to": "20210110155000",
               "-ftl": "1500",
@@ -985,7 +1028,7 @@
               }
             },
             {
-              "-id": "9549908017",
+              "-id": "9550512282",
               "-ft": "20210110155000",
               "-to": "20210110155500",
               "-ftl": "1550",
@@ -999,6 +1042,11 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/2544_d2eee82f_sq.jpg\" height=\"60\" width=\"60\" alt=\"浜崎美保\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/relay/\">https://www.tfm.co.jp/relay/</a><br /> <br /> twitterアカウントは「<a href=\"http://twitter.com/oishii5959\">@oishii5959</a>」<br /><br /></div>",
               "pfm": "浜崎美保",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/t25btsqj3b.jpg",
+              "tag": {
+                "item": {
+                  "name": "浜崎美保"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -1017,7 +1065,7 @@
               }
             },
             {
-              "-id": "9549836427",
+              "-id": "9550512283",
               "-ft": "20210110155500",
               "-to": "20210110160000",
               "-ftl": "1555",
@@ -1062,7 +1110,7 @@
               }
             },
             {
-              "-id": "9549901074",
+              "-id": "9550512290",
               "-ft": "20210110160000",
               "-to": "20210110165500",
               "-ftl": "1600",
@@ -1073,9 +1121,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/clover/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/program/25636_9bdcea6a_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/4860_c1fae88b_sq.jpg\" height=\"60\" width=\"60\" alt=\"ももいろクローバーZ\"></td>  </tr></table><br /><br />\t好奇心を刺激する“知識”と、日曜夕方を彩る“音楽”をあわせ持った、<br />家族で楽しめる「知識＋音楽のハイブリッドプログラム」！ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/clover/\">https://www.tfm.co.jp/clover/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/clover/index.php?catid=2799\">https://www.tfm.co.jp/clover/index.php?catid=2799</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%8F%E3%83%94%E3%82%AF%E3%83%AD\">#ハピクロ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/happyclo\">@happyclo</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/clover/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/program/25636_9bdcea6a_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/4860_c1fae88b_sq.jpg\" height=\"60\" width=\"60\" alt=\"ももいろクローバーZ\"></td>  </tr></table><br /><br />\t好奇心を刺激する“知識”と、日曜夕方を彩る“音楽”をあわせ持った、<br />家族で楽しめる「知識＋音楽のハイブリッドプログラム」！！ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/clover/\">https://www.tfm.co.jp/clover/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/clover/index.php?catid=2799\">https://www.tfm.co.jp/clover/index.php?catid=2799</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%8F%E3%83%94%E3%82%AF%E3%83%AD\">#ハピクロ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/happyclo\">@happyclo</a>」<br /><br /></div>",
               "pfm": "ももいろクローバーZ",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/p8qlhte36y.jpg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/dloyotisxx.jpg",
               "tag": {
                 "item": [
                   {
@@ -1113,7 +1161,7 @@
               }
             },
             {
-              "-id": "9549901119",
+              "-id": "9550512301",
               "-ft": "20210110165500",
               "-to": "20210110170000",
               "-ftl": "1655",
@@ -1158,7 +1206,7 @@
               }
             },
             {
-              "-id": "9549901161",
+              "-id": "9550512302",
               "-ft": "20210110170000",
               "-to": "20210110175500",
               "-ftl": "1700",
@@ -1206,7 +1254,7 @@
               }
             },
             {
-              "-id": "9550185812",
+              "-id": "9550512305",
               "-ft": "20210110175500",
               "-to": "20210110180000",
               "-ftl": "1755",
@@ -1219,9 +1267,14 @@
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/9564914f-29cc-4f7f-8090-60b85f9ee973.jpeg",
               "tag": {
-                "item": {
-                  "name": "国内・海外のニュース"
-                }
+                "item": [
+                  {
+                    "name": "インフォメーション"
+                  },
+                  {
+                    "name": "ぐるスタ!"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1229,8 +1282,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -1241,7 +1294,7 @@
               }
             },
             {
-              "-id": "9550178164",
+              "-id": "9550512306",
               "-ft": "20210110180000",
               "-to": "20210110183000",
               "-ftl": "1800",
@@ -1286,7 +1339,7 @@
               }
             },
             {
-              "-id": "9549893486",
+              "-id": "9550512309",
               "-ft": "20210110183000",
               "-to": "20210110185500",
               "-ftl": "1830",
@@ -1328,7 +1381,7 @@
               }
             },
             {
-              "-id": "9550185836",
+              "-id": "9550512310",
               "-ft": "20210110185500",
               "-to": "20210110190000",
               "-ftl": "1855",
@@ -1341,9 +1394,14 @@
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/9564914f-29cc-4f7f-8090-60b85f9ee973.jpeg",
               "tag": {
-                "item": {
-                  "name": "国内・海外のニュース"
-                }
+                "item": [
+                  {
+                    "name": "インフォメーション"
+                  },
+                  {
+                    "name": "ぐるスタ!"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1351,8 +1409,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -1363,7 +1421,7 @@
               }
             },
             {
-              "-id": "9550314230",
+              "-id": "9550529096",
               "-ft": "20210110190000",
               "-to": "20210110195500",
               "-ftl": "1900",
@@ -1376,6 +1434,29 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/person/9085_fb4e149e_sq.jpg\" height=\"60\" width=\"60\" alt=\"百花繚乱\"></td>  </tr></table><br /><br />\t現在も進化し続けているVOCALOIDやボカロPに関する最新情報などと共に<br />2020年の音楽シーンを振り返る音楽特番です。<br />12月11日から13日まで開催したボーカロイドのイベント「The VOCALOID Collection2020」と完全連動。<br />投稿されたばかりの最新ボカロ曲をいち早くオンエア致します。 <br /><br /><br /></div>",
               "pfm": "百花繚乱 / ボカロP",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/cbnk2xg0b5.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "百花繚乱"
+                  },
+                  {
+                    "name": "VOCALOID"
+                  },
+                  {
+                    "name": "ボカロ"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1384,7 +1465,7 @@
               }
             },
             {
-              "-id": "9549837051",
+              "-id": "9550512315",
               "-ft": "20210110195500",
               "-to": "20210110200000",
               "-ftl": "1955",
@@ -1429,7 +1510,7 @@
               }
             },
             {
-              "-id": "9549901380",
+              "-id": "9550512316",
               "-ft": "20210110200000",
               "-to": "20210110215500",
               "-ftl": "2000",
@@ -1471,7 +1552,7 @@
               }
             },
             {
-              "-id": "9549837318",
+              "-id": "9550512321",
               "-ft": "20210110215500",
               "-to": "20210110220000",
               "-ftl": "2155",
@@ -1516,7 +1597,7 @@
               }
             },
             {
-              "-id": "9549908335",
+              "-id": "9550512322",
               "-ft": "20210110220000",
               "-to": "20210110225500",
               "-ftl": "2200",
@@ -1530,6 +1611,16 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/wanima\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/51583_b627f90b_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/8448_51600028_sq.jpg\" height=\"60\" width=\"60\" alt=\"WANIMA\"></td>  </tr></table><br /><br />\tスリーピースロックバンド：WANIMAのレギュラーラジオ番組「WANIMAのラジオ」毎週日曜の夜にWANIMAがリアルタイムでリスナーと開催していく５５分‼︎ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/wanima\">http://www.jfn.jp/wanima</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/369\">https://ssl2.jfn.co.jp/mailbox/index/369</a><br /><br /></div>",
               "pfm": "WANIMA",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/zrxv6vmwgc.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "WANIMAの音楽トーク"
+                  },
+                  {
+                    "name": "WANIMA"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -1548,7 +1639,7 @@
               }
             },
             {
-              "-id": "9550185899",
+              "-id": "9550512325",
               "-ft": "20210110225500",
               "-to": "20210110230000",
               "-ftl": "2255",
@@ -1561,9 +1652,14 @@
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/9564914f-29cc-4f7f-8090-60b85f9ee973.jpeg",
               "tag": {
-                "item": {
-                  "name": "国内・海外のニュース"
-                }
+                "item": [
+                  {
+                    "name": "インフォメーション"
+                  },
+                  {
+                    "name": "ぐるスタ!"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1571,8 +1667,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -1583,7 +1679,7 @@
               }
             },
             {
-              "-id": "9549901544",
+              "-id": "9550512326",
               "-ft": "20210110230000",
               "-to": "20210110233000",
               "-ftl": "2300",
@@ -1628,7 +1724,7 @@
               }
             },
             {
-              "-id": "9549908433",
+              "-id": "9550512329",
               "-ft": "20210110233000",
               "-to": "20210110235500",
               "-ftl": "2330",
@@ -1642,6 +1738,16 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/mom\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/program/52015_28f8cb98_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/8811_b74f54c3_sq.jpg\" height=\"60\" width=\"60\" alt=\"稲村亜美\"></td>  </tr></table><br /><br />\t取材、観戦を通してみた、その時の記憶を紐解きながら、競技の魅力、アスリートの素顔、アスリートを支えた裏側に、稲村亜美が迫ります。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/mom\">https://www.tfm.co.jp/mom</a><br /><br /></div>",
               "pfm": "稲村亜美",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/8wqviu2i2y.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "MYOLYMPIC"
+                  },
+                  {
+                    "name": "稲村亜美"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -1660,7 +1766,7 @@
               }
             },
             {
-              "-id": "9549901601",
+              "-id": "9550512330",
               "-ft": "20210110235500",
               "-to": "20210111000000",
               "-ftl": "2355",
@@ -1701,7 +1807,7 @@
               }
             },
             {
-              "-id": "9549954830",
+              "-id": "9550512331",
               "-ft": "20210111000000",
               "-to": "20210111003000",
               "-ftl": "2400",
@@ -1743,7 +1849,7 @@
               }
             },
             {
-              "-id": "9550370970",
+              "-id": "9550512334",
               "-ft": "20210111003000",
               "-to": "20210111010000",
               "-ftl": "2430",
@@ -1785,7 +1891,7 @@
               }
             },
             {
-              "-id": "9549954973",
+              "-id": "9550512335",
               "-ft": "20210111010000",
               "-to": "20210111040000",
               "-ftl": "2500",
@@ -1805,7 +1911,7 @@
               }
             },
             {
-              "-id": "9550370977",
+              "-id": "9550512342",
               "-ft": "20210111040000",
               "-to": "20210111050000",
               "-ftl": "2800",
