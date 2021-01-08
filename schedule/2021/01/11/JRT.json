@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1610043911",
+    "srvtime": "1610130331",
     "stations": {
       "station": {
         "-id": "JRT",
@@ -118,7 +118,7 @@
               }
             },
             {
-              "-id": "9550446636",
+              "-id": "9550581601",
               "-ft": "20210111053000",
               "-to": "20210111063000",
               "-ftl": "0530",
@@ -365,14 +365,14 @@
               }
             },
             {
-              "-id": "9550452896",
+              "-id": "9550661398",
               "-ft": "20210111083000",
               "-to": "20210111114000",
               "-ftl": "0830",
               "-tol": "1140",
               "-dur": "11400",
               "title": "ラジオ大福",
-              "url": "http://www2.jrt.co.jp/cgi-bin3/daifuku/index.html",
+              "url": "https://www2.jrt.co.jp/cgi-bin3/daifuku/index.html",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -559,14 +559,14 @@
               }
             },
             {
-              "-id": "9549956302",
+              "-id": "9550661435",
               "-ft": "20210111121000",
               "-to": "20210111121500",
               "-ftl": "1210",
               "-tol": "1215",
               "-dur": "300",
               "title": "天気予報",
-              "url": "http://www.jrt.co.jp/weather/sp/index.htm",
+              "url": "https://www.jrt.co.jp/weather/sp/index.htm",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -805,14 +805,14 @@
               }
             },
             {
-              "-id": "9550021639",
+              "-id": "9550661447",
               "-ft": "20210111132000",
               "-to": "20210111163000",
               "-ftl": "1320",
               "-tol": "1630",
               "-dur": "11400",
               "title": "となりのラジオ",
-              "url": "http://www.jrt.co.jp/radio/tonari/index.htm",
+              "url": "https://www.jrt.co.jp/radio/tonari/index.htm",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -898,7 +898,7 @@
               }
             },
             {
-              "-id": "9550439633",
+              "-id": "9550581658",
               "-ft": "20210111165000",
               "-to": "20210111170000",
               "-ftl": "1650",
@@ -1286,14 +1286,14 @@
               }
             },
             {
-              "-id": "9550022037",
+              "-id": "9550661522",
               "-ft": "20210111210000",
               "-to": "20210111230000",
               "-ftl": "2100",
               "-tol": "2300",
               "-dur": "7200",
               "title": "バンリク",
-              "url": "http://www.jrt.co.jp/radio/banriku/index.htm",
+              "url": "https://www.jrt.co.jp/radio/banriku/index.htm",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -1409,7 +1409,7 @@
               }
             },
             {
-              "-id": "9550178756",
+              "-id": "9550587859",
               "-ft": "20210112010000",
               "-to": "20210112030000",
               "-ftl": "2500",
@@ -1421,6 +1421,16 @@
               "ts_out_ng": "0",
               "pfm": "菅田将暉",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/8d40f3e4-6ba5-4a93-b8d7-f8ff112348e1.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C002",
+                  "name": "俳優"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
