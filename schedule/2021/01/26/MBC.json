@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1611167090",
+    "srvtime": "1611253497",
     "stations": {
       "station": {
         "-id": "MBC",
@@ -72,7 +72,7 @@
               }
             },
             {
-              "-id": "9552101505",
+              "-id": "9552235120",
               "-ft": "20210126053000",
               "-to": "20210126055500",
               "-ftl": "0530",
@@ -135,7 +135,7 @@
               }
             },
             {
-              "-id": "9552101518",
+              "-id": "9552235133",
               "-ft": "20210126055800",
               "-to": "20210126063000",
               "-ftl": "0558",
@@ -416,7 +416,7 @@
               }
             },
             {
-              "-id": "9551974102",
+              "-id": "9552219855",
               "-ft": "20210126095500",
               "-to": "20210126100000",
               "-ftl": "0955",
@@ -426,11 +426,23 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23mbc1107\">#mbc1107</a>」",
+              "pfm": "松木由美子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/pgnghoc0d6.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#mbc1107"
                 }
               }
             },
@@ -997,7 +1009,7 @@
               }
             },
             {
-              "-id": "9552107725",
+              "-id": "9552234112",
               "-ft": "20210126164000",
               "-to": "20210126165000",
               "-ftl": "1640",
@@ -1090,7 +1102,7 @@
               }
             },
             {
-              "-id": "9552107742",
+              "-id": "9552239866",
               "-ft": "20210126170000",
               "-to": "20210126171500",
               "-ftl": "1700",
@@ -1515,7 +1527,7 @@
               }
             },
             {
-              "-id": "9551986326",
+              "-id": "9552219882",
               "-ft": "20210126230000",
               "-to": "20210127000000",
               "-ftl": "2300",
@@ -1526,6 +1538,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%A8%E3%82%AF\">#ミューエク</a> <a href=\"http://twitter.com/search?q=%23%E3%83%93%E3%83%83%E3%82%B1%E3%81%A8%E4%BD%93%E8%82%B2\">#ビッケと体育</a>」",
+              "pfm": "赤塚里美",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/g4rqykrbai.jpg",
               "genre": {
                 "personality": {
@@ -1538,14 +1552,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ミューエク"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "#ビッケと体育"
+                  }
+                ]
               }
             },
             {
-              "-id": "9552107823",
+              "-id": "9552239967",
               "-ft": "20210127000000",
               "-to": "20210127010000",
               "-ftl": "2400",
@@ -1560,12 +1580,6 @@
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23mbc1107\">#mbc1107</a>」",
               "pfm": "オテンキのり",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBC/y21ndxsj7t.png",
-              "genre": {
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1574,7 +1588,7 @@
               }
             },
             {
-              "-id": "9552108758",
+              "-id": "9552241649",
               "-ft": "20210127010000",
               "-to": "20210127030000",
               "-ftl": "2500",
