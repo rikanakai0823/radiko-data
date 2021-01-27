@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1611685480",
+    "srvtime": "1611771902",
     "stations": {
       "station": {
         "-id": "TBS",
@@ -10,7 +10,7 @@
           "date": "20210127",
           "prog": [
             {
-              "-id": "9552879857",
+              "-id": "9553021502",
               "-ft": "20210127050000",
               "-to": "20210127063000",
               "-ftl": "0500",
@@ -24,6 +24,22 @@
               "info": "◆5時45分　眞田クリニック・眞田祥一院長「脳卒中の基礎知識」<br/> ◆6時10分　料理研究家・藤野真紀子さん 「旬の食材を使った美味しいレシピ」<br/> ◆6時20分　女優の檀れいさんが登場！<br/><br/> メール：<a href=\"mailto:ohayou@tbs.co.jp\">ohayou@tbs.co.jp</a><br/>受付FAX番号：03-5562-0954<br/><br/>TBSラジオショッピング<br/>0120-234-954<br/>",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/iwd3kec3ga.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "生島ヒロシ"
+                  },
+                  {
+                    "name": "檀れい"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -32,7 +48,7 @@
               }
             },
             {
-              "-id": "9552771718",
+              "-id": "9553021513",
               "-ft": "20210127063000",
               "-to": "20210127083000",
               "-ftl": "0630",
@@ -60,10 +76,6 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -74,7 +86,7 @@
               }
             },
             {
-              "-id": "9552839650",
+              "-id": "9553021522",
               "-ft": "20210127083000",
               "-to": "20210127100000",
               "-ftl": "0830",
@@ -97,10 +109,6 @@
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -111,7 +119,7 @@
               }
             },
             {
-              "-id": "9552839671",
+              "-id": "9553021531",
               "-ft": "20210127100000",
               "-to": "20210127110000",
               "-ftl": "1000",
@@ -126,18 +134,19 @@
               "pfm": "伊集院光/安田美香　　ゲスト：ミッツ・マングローブ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/jx4z3iid48.jpg",
               "tag": {
-                "item": {
-                  "name": "伊集院光"
-                }
+                "item": [
+                  {
+                    "name": "ミッツ・マングローブ"
+                  },
+                  {
+                    "name": "伊集院光"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -148,7 +157,7 @@
               }
             },
             {
-              "-id": "9552839688",
+              "-id": "9553021536",
               "-ft": "20210127110000",
               "-to": "20210127130000",
               "-ftl": "1100",
@@ -165,6 +174,15 @@
               "tag": {
                 "item": [
                   {
+                    "name": "堀井美香"
+                  },
+                  {
+                    "name": "チーズ"
+                  },
+                  {
+                    "name": "料理"
+                  },
+                  {
                     "name": "ジェーン・スー"
                   },
                   {
@@ -176,10 +194,6 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
                 }
               },
               "metas": {
@@ -190,7 +204,7 @@
               }
             },
             {
-              "-id": "9552771805",
+              "-id": "9553021541",
               "-ft": "20210127130000",
               "-to": "20210127153000",
               "-ftl": "1300",
@@ -205,18 +219,22 @@
               "pfm": "赤江珠緒/博多大吉",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/ovasn1cmje.jpg",
               "tag": {
-                "item": {
-                  "name": "赤江珠緒"
-                }
+                "item": [
+                  {
+                    "name": "博多大吉"
+                  },
+                  {
+                    "name": "春風亭一之輔"
+                  },
+                  {
+                    "name": "赤江珠緒"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -227,7 +245,7 @@
               }
             },
             {
-              "-id": "9552771834",
+              "-id": "9553021549",
               "-ft": "20210127153000",
               "-to": "20210127175000",
               "-ftl": "1530",
@@ -255,10 +273,6 @@
                 "personality": {
                   "-id": "C014",
                   "name": "評論家"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -269,7 +283,7 @@
               }
             },
             {
-              "-id": "9552839832",
+              "-id": "9553021554",
               "-ft": "20210127175000",
               "-to": "20210127180000",
               "-ftl": "1750",
@@ -286,10 +300,6 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P023",
-                  "name": "劇場/公演"
                 }
               },
               "metas": {
@@ -300,7 +310,7 @@
               }
             },
             {
-              "-id": "9552771877",
+              "-id": "9553021555",
               "-ft": "20210127180000",
               "-to": "20210127190000",
               "-ftl": "1800",
@@ -311,11 +321,20 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "◆18時30分　てらさわホーク（ひとり総選挙：ワンダビジョン編）<br/> ◆19:時　CMJK<br/> ◆20時　OKB48結果発表会 with 文具王 ＆ KREVA<br/><br/> <a href=\"https://twitter.com/after6junction\">twitter</a><br/> <a href=\"https://www.instagram.com/after6junction\">instagram</a><br/> <a href=\"mailto:utamaru@tbs.co.jp\">メール</a><br/>",
+              "info": "◆18時30分　てらさわホーク（ひとり総選挙：ワンダビジョン編）<br/> ◆19時　CMJK<br/> ◆20時　OKB48結果発表会 with 文具王 ＆ KREVA<br/><br/> <a href=\"https://twitter.com/after6junction\">twitter</a><br/> <a href=\"https://www.instagram.com/after6junction\">instagram</a><br/> <a href=\"mailto:utamaru@tbs.co.jp\">メール</a><br/>",
               "pfm": "ライムスター宇多丸/日比麻音子（TBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/qjm6o2m44i.jpg",
               "tag": {
                 "item": [
+                  {
+                    "name": "てらさわホーク"
+                  },
+                  {
+                    "name": "ワンダビジョン"
+                  },
+                  {
+                    "name": "映画"
+                  },
                   {
                     "name": "ライムスター"
                   },
@@ -328,10 +347,6 @@
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P012",
-                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -342,7 +357,7 @@
               }
             },
             {
-              "-id": "9552771892",
+              "-id": "9553021559",
               "-ft": "20210127190000",
               "-to": "20210127200000",
               "-ftl": "1900",
@@ -353,11 +368,14 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "◆18時30分　てらさわホーク（ひとり総選挙：ワンダビジョン編）<br/> ◆19:時　CMJK<br/> ◆20時　OKB48結果発表会 with 文具王 ＆ KREVA<br/><br/> <a href=\"https://twitter.com/after6junction\">twitter</a><br/> <a href=\"https://www.instagram.com/after6junction\">instagram</a><br/> <a href=\"mailto:utamaru@tbs.co.jp\">メール</a><br/>",
+              "info": "◆18時30分　てらさわホーク（ひとり総選挙：ワンダビジョン編）<br/> ◆19時　CMJK<br/> ◆20時　OKB48結果発表会 with 文具王 ＆ KREVA<br/><br/> <a href=\"https://twitter.com/after6junction\">twitter</a><br/> <a href=\"https://www.instagram.com/after6junction\">instagram</a><br/> <a href=\"mailto:utamaru@tbs.co.jp\">メール</a><br/>",
               "pfm": "ライムスター宇多丸/日比麻音子（TBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/qjm6o2m44i.jpg",
               "tag": {
                 "item": [
+                  {
+                    "name": "CMJK"
+                  },
                   {
                     "name": "ライムスター"
                   },
@@ -370,10 +388,6 @@
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P012",
-                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -384,7 +398,7 @@
               }
             },
             {
-              "-id": "9552771902",
+              "-id": "9553021563",
               "-ft": "20210127200000",
               "-to": "20210127210000",
               "-ftl": "2000",
@@ -395,11 +409,20 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "◆18時30分　てらさわホーク（ひとり総選挙：ワンダビジョン編）<br/> ◆19:時　CMJK<br/> ◆20時　OKB48結果発表会 with 文具王 ＆ KREVA<br/><br/> <a href=\"https://twitter.com/after6junction\">twitter</a><br/> <a href=\"https://www.instagram.com/after6junction\">instagram</a><br/> <a href=\"mailto:utamaru@tbs.co.jp\">メール</a><br/>",
+              "info": "◆18時30分　てらさわホーク（ひとり総選挙：ワンダビジョン編）<br/> ◆19時　CMJK<br/> ◆20時　OKB48結果発表会 with 文具王 ＆ KREVA<br/><br/> <a href=\"https://twitter.com/after6junction\">twitter</a><br/> <a href=\"https://www.instagram.com/after6junction\">instagram</a><br/> <a href=\"mailto:utamaru@tbs.co.jp\">メール</a><br/>",
               "pfm": "ライムスター宇多丸/日比麻音子（TBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/qjm6o2m44i.jpg",
               "tag": {
                 "item": [
+                  {
+                    "name": "KREVA"
+                  },
+                  {
+                    "name": "文具"
+                  },
+                  {
+                    "name": "文房具"
+                  },
                   {
                     "name": "ライムスター"
                   },
@@ -412,10 +435,6 @@
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P012",
-                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -426,7 +445,7 @@
               }
             },
             {
-              "-id": "9552839874",
+              "-id": "9553021567",
               "-ft": "20210127210000",
               "-to": "20210127213000",
               "-ftl": "2100",
@@ -449,10 +468,6 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
                 }
               },
               "metas": {
@@ -463,7 +478,7 @@
               }
             },
             {
-              "-id": "9552839886",
+              "-id": "9553021570",
               "-ft": "20210127213000",
               "-to": "20210127220000",
               "-ftl": "2130",
@@ -486,10 +501,6 @@
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
                 }
               },
               "metas": {
@@ -500,7 +511,7 @@
               }
             },
             {
-              "-id": "9552839894",
+              "-id": "9553021571",
               "-ft": "20210127220000",
               "-to": "20210127235500",
               "-ftl": "2200",
@@ -523,10 +534,6 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P012",
-                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -537,7 +544,7 @@
               }
             },
             {
-              "-id": "9552839921",
+              "-id": "9553021577",
               "-ft": "20210127235500",
               "-to": "20210128000000",
               "-ftl": "2355",
@@ -559,10 +566,6 @@
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
                 }
               },
               "metas": {
@@ -573,7 +576,7 @@
               }
             },
             {
-              "-id": "9552839929",
+              "-id": "9553021578",
               "-ft": "20210128000000",
               "-to": "20210128010000",
               "-ftl": "2400",
@@ -596,10 +599,6 @@
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -610,7 +609,7 @@
               }
             },
             {
-              "-id": "9552771968",
+              "-id": "9553021581",
               "-ft": "20210128010000",
               "-to": "20210128030000",
               "-ftl": "2500",
@@ -633,10 +632,6 @@
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -647,7 +642,7 @@
               }
             },
             {
-              "-id": "9552771986",
+              "-id": "9553021586",
               "-ft": "20210128030000",
               "-to": "20210128050000",
               "-ftl": "2700",
@@ -670,10 +665,6 @@
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
                 }
               },
               "metas": {
