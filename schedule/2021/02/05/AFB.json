@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1612031186",
+    "srvtime": "1612117547",
     "stations": {
       "station": {
         "-id": "AFB",
@@ -226,12 +226,69 @@
               }
             },
             {
-              "-id": "9553364697",
+              "-id": "9553607837",
               "-ft": "20210205090000",
-              "-to": "20210205105000",
+              "-to": "20210205095500",
               "-ftl": "0900",
+              "-tol": "0955",
+              "-dur": "3300",
+              "title": "OH! HAPPY MORNING",
+              "url": "http://www.jfn.jp/oh/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\tあたり前の日常の中にこそ、ハッピーが詰まっている！ハピモニでは、リスナーの方々と一緒に、幸せになるヒントを提案していきます！ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/oh/\">http://www.jfn.jp/oh/</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/198\">https://ssl2.jfn.co.jp/mailbox/index/198</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23hapimoni\">#hapimoni</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/hapimoni\">@hapimoni</a>」<br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/AFB/edda417a-426a-40e1-9f15-1272722ea666.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#hapimoni"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:hapimoni"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9553607840",
+              "-ft": "20210205095500",
+              "-to": "20210205100000",
+              "-ftl": "0955",
+              "-tol": "1000",
+              "-dur": "300",
+              "title": "ラジオ放射線講座",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/AFB/edda417a-426a-40e1-9f15-1272722ea666.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9553611185",
+              "-ft": "20210205100000",
+              "-to": "20210205105000",
+              "-ftl": "1000",
               "-tol": "1050",
-              "-dur": "6600",
+              "-dur": "3000",
               "title": "OH! HAPPY MORNING",
               "url": "http://www.jfn.jp/oh/",
               "failed_record": "0",
