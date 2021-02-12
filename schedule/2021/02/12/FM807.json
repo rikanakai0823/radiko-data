@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1613067790",
+    "srvtime": "1613154155",
     "stations": {
       "station": {
         "-id": "FM807",
@@ -101,7 +101,7 @@
               }
             },
             {
-              "-id": "9554176169",
+              "-id": "9554965583",
               "-ft": "20210212073000",
               "-to": "20210212080000",
               "-ftl": "0730",
@@ -115,7 +115,16 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/MV/person/981_213fad30_sq.jpg\" height=\"60\" width=\"60\" alt=\"大和たきみ\"></td>  </tr></table><br /><br />\tスマートフォンをタッチするように、ヘッドライン、お天気、スポーツ情報など、朝知りたい情報をスマートに、最新楽曲とともにお届けします。忙しい朝、一日の始まりにどうぞお付き合いください。 <br /><br />\t番組Webサイト：<a href=\"http://www.fm807.jp/program/touch/index.html\">http://www.fm807.jp/program/touch/index.html</a><br />\tメールアドレス：<a href=\"mailto:up@fm807.jp\">up@fm807.jp</a><br />\tFAX：088-656-2131<br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%EF%BC%A6%EF%BC%AD%E5%BE%B3%E5%B3%B6\">#ＦＭ徳島</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/fm807\">@fm807</a>」<br /><br /></div>",
               "pfm": "大和たきみ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM807/ou91ejogun.png",
+              "tag": {
+                "item": {
+                  "name": "大和たきみ"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -315,7 +324,7 @@
               }
             },
             {
-              "-id": "9554913922",
+              "-id": "9554931882",
               "-ft": "20210212110000",
               "-to": "20210212113000",
               "-ftl": "1100",
@@ -347,7 +356,7 @@
               }
             },
             {
-              "-id": "9554857124",
+              "-id": "9554964193",
               "-ft": "20210212113000",
               "-to": "20210212115500",
               "-ftl": "1130",
@@ -414,7 +423,7 @@
               }
             },
             {
-              "-id": "9554913940",
+              "-id": "9554964208",
               "-ft": "20210212120000",
               "-to": "20210212125500",
               "-ftl": "1200",
@@ -446,7 +455,7 @@
               }
             },
             {
-              "-id": "9554850662",
+              "-id": "9554961202",
               "-ft": "20210212125500",
               "-to": "20210212130000",
               "-ftl": "1255",
@@ -526,7 +535,7 @@
               }
             },
             {
-              "-id": "9554176251",
+              "-id": "9554973538",
               "-ft": "20210212153000",
               "-to": "20210212155500",
               "-ftl": "1530",
@@ -539,7 +548,21 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/MV/person/3099_42382f52_sq.jpg\" height=\"60\" width=\"60\" alt=\"上野優華\"></td>  </tr></table><br /><br />\t徳島県出身、歌手・上野優華の華金をお届け！華金で週末をハッピーに！ <br /><br /><br /></div>",
               "pfm": "上野優華",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM807/tndzdfkv66.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "上野優華"
+                  },
+                  {
+                    "name": "ネッツ徳島"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -1361,7 +1384,7 @@
               }
             },
             {
-              "-id": "9554914152",
+              "-id": "9554964399",
               "-ft": "20210213010000",
               "-to": "20210213050000",
               "-ftl": "2500",
