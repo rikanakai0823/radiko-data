@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1613413407",
+    "srvtime": "1613499933",
     "stations": {
       "station": {
         "-id": "FMT",
@@ -358,7 +358,7 @@
               }
             },
             {
-              "-id": "9555218784",
+              "-id": "9555442970",
               "-ft": "20210221080000",
               "-to": "20210221083000",
               "-ftl": "0800",
@@ -594,7 +594,7 @@
               }
             },
             {
-              "-id": "9555201093",
+              "-id": "9555443050",
               "-ft": "20210221100000",
               "-to": "20210221103000",
               "-ftl": "1000",
@@ -608,10 +608,27 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/898_08463fd3_sq.jpg\" height=\"60\" width=\"60\" alt=\"小川洋子\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/899_d2efac0c_sq.jpg\" height=\"60\" width=\"60\" alt=\"藤丸由華\"></td>  </tr></table><br /><br />\t作家・小川洋子が未来に残したい文学遺産を紹介しています。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/ml/\">https://www.tfm.co.jp/ml/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/ml/message/\">https://www.tfm.co.jp/ml/message/</a><br /><br /></div>",
               "pfm": "小川洋子 / 藤丸由華",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/xtxiw53u09.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "小川洋子"
+                  },
+                  {
+                    "name": "藤丸由華"
+                  },
+                  {
+                    "name": "MelodiousLibrary"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                },
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
                 }
               },
               "metas": {
@@ -1491,7 +1508,7 @@
               }
             },
             {
-              "-id": "9555331136",
+              "-id": "9555396300",
               "-ft": "20210221190000",
               "-to": "20210221195500",
               "-ftl": "1900",
@@ -2211,12 +2228,63 @@
               }
             },
             {
-              "-id": "9555263625",
+              "-id": "9555450001",
               "-ft": "20210222020000",
-              "-to": "20210222050000",
+              "-to": "20210222023000",
               "-ftl": "2600",
+              "-tol": "2630",
+              "-dur": "1800",
+              "title": "LDH PERFECT YEAR 2020 RADIO",
+              "url": "https://park.gsj.mobi/program/show/46756",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://park.gsj.mobi/program/show/46756\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/program/54134_11d403b8_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/9289_10318082_sq.jpg\" height=\"60\" width=\"60\" alt=\"EXILE MAKIDAI\"></td>  </tr></table><br /><br />\t2008年から6年に1度開催されてきた「PERFECT YEAR」。<br />2020年はLDHグループの総力をあげて、過去最大となる『LDH PERFECT YEAR 2020』を開催！！<br />この日本最大級の音楽とダンスの祭典を盛り上げるべくOAする「LDH PERFECT YEAR 2020 RADIO」。<br />「Love, Dream, Happiness」をテーマに、様々なゲストをお迎えながらお送りします！ <br /><br />\t番組Webサイト：<a href=\"https://park.gsj.mobi/program/show/46756\">https://park.gsj.mobi/program/show/46756</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/318\">https://ssl2.jfn.co.jp/mailbox/index/318</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23L%E3%83%A9%E3%82%B8\">#Lラジ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/jfnldh\">@jfnldh</a>」<br /><br /></div>",
+              "pfm": "EXILE MAKIDAI",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/rj7y00tgly.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "MAKIDAI"
+                  },
+                  {
+                    "name": "EXILE"
+                  },
+                  {
+                    "name": "Lラジ"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#Lラジ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:jfnldh"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9555446127",
+              "-ft": "20210222023000",
+              "-to": "20210222050000",
+              "-ftl": "2630",
               "-tol": "2900",
-              "-dur": "10800",
+              "-dur": "9000",
               "title": "放送休止",
               "failed_record": "0",
               "ts_in_ng": "0",
