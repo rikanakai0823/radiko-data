@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1613672593",
+    "srvtime": "1613758964",
     "stations": {
       "station": {
         "-id": "IBS",
@@ -423,7 +423,7 @@
               }
             },
             {
-              "-id": "9555660957",
+              "-id": "9555780715",
               "-ft": "20210225000000",
               "-to": "20210225010000",
               "-ftl": "2400",
@@ -436,6 +436,12 @@
               "ts_out_ng": "0",
               "pfm": "オテンキのり",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/e71b1f51-a767-45ca-aa53-57eef06d9eec.png",
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -444,7 +450,7 @@
               }
             },
             {
-              "-id": "9555665401",
+              "-id": "9555780738",
               "-ft": "20210225010000",
               "-to": "20210225030000",
               "-ftl": "2500",
@@ -457,6 +463,16 @@
               "ts_out_ng": "0",
               "pfm": "乃木坂46",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/eb3c3008-86e3-4812-8416-7e9fc333902b.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
