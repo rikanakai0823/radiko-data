@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1614104574",
+    "srvtime": "1614191003",
     "stations": {
       "station": {
         "-id": "ALPHA-STATION",
@@ -10,7 +10,7 @@
           "date": "20210301",
           "prog": [
             {
-              "-id": "9556290821",
+              "-id": "9556399264",
               "-ft": "20210301050000",
               "-to": "20210301060000",
               "-ftl": "0500",
@@ -49,7 +49,7 @@
               }
             },
             {
-              "-id": "9556290833",
+              "-id": "9556399276",
               "-ft": "20210301060000",
               "-to": "20210301070000",
               "-ftl": "0600",
@@ -88,7 +88,7 @@
               }
             },
             {
-              "-id": "9556270228",
+              "-id": "9556329833",
               "-ft": "20210301070000",
               "-to": "20210301100000",
               "-ftl": "0700",
@@ -107,6 +107,10 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -160,7 +164,7 @@
               }
             },
             {
-              "-id": "9556270230",
+              "-id": "9556298789",
               "-ft": "20210301110000",
               "-to": "20210301120000",
               "-ftl": "1100",
@@ -179,6 +183,10 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -203,7 +211,7 @@
               }
             },
             {
-              "-id": "9556273196",
+              "-id": "9556298806",
               "-ft": "20210301120000",
               "-to": "20210301150000",
               "-ftl": "1200",
@@ -326,7 +334,7 @@
               }
             },
             {
-              "-id": "9556270234",
+              "-id": "9556298857",
               "-ft": "20210301180000",
               "-to": "20210301190000",
               "-ftl": "1800",
@@ -345,6 +353,10 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -365,7 +377,7 @@
               }
             },
             {
-              "-id": "9556270235",
+              "-id": "9556298872",
               "-ft": "20210301190000",
               "-to": "20210301210000",
               "-ftl": "1900",
@@ -384,6 +396,10 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -451,7 +467,7 @@
               }
             },
             {
-              "-id": "9556270237",
+              "-id": "9556344757",
               "-ft": "20210301220000",
               "-to": "20210301230000",
               "-ftl": "2200",
@@ -466,6 +482,16 @@
               "info": "<br /><br /><p>⇒リクエストは<a href=\"http://fm-kyoto.jp/message/?program=Logic%20Radio\">コチラへ</a></p><br /> <p>◇twitterアカウントは「<a href=\"http://twitter.com/fmkyoto\">@fmkyoto</a>」</p> <p>☆twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%CE%B1STATION\">#αSTATION</a>」</p> <p>☆twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23FM%E4%BA%AC%E9%83%BD\">#FM京都</a>」</p>",
               "pfm": "松武秀樹",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ALPHA-STATION/1125fc30-7647-4a0b-9bdf-7503e7673dd9.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -484,7 +510,7 @@
               }
             },
             {
-              "-id": "9556270238",
+              "-id": "9556329967",
               "-ft": "20210301230000",
               "-to": "20210302000000",
               "-ftl": "2300",
@@ -499,6 +525,16 @@
               "info": "<br /><br /><p>⇒リクエストは<a href=\"http://fm-kyoto.jp/message/?program=kmf%20REDIO\">コチラへ</a></p> <p>◇twitterアカウントは「<a href=\"http://twitter.com/fmkyoto\">@fmkyoto</a>」</p> <p>☆twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%CE%B1STATION\">#αSTATION</a>」</p> <p>☆twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23FM%E4%BA%AC%E9%83%BD\">#FM京都</a>」</p> ",
               "pfm": "M.W.PRODUCERS",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ALPHA-STATION/26e93d60-66a1-404a-9ebd-f7dfcdb4bc71.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P023",
+                  "name": "劇場/公演"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -583,7 +619,7 @@
               }
             },
             {
-              "-id": "9556290974",
+              "-id": "9556399418",
               "-ft": "20210302040000",
               "-to": "20210302050000",
               "-ftl": "2800",
