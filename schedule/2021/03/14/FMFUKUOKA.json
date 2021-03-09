@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1615227790",
+    "srvtime": "1615314189",
     "stations": {
       "station": {
         "-id": "FMFUKUOKA",
@@ -1295,28 +1295,79 @@
               }
             },
             {
-              "-id": "9557571140",
+              "-id": "9557900756",
               "-ft": "20210314190000",
-              "-to": "20210314195500",
+              "-to": "20210314192500",
               "-ftl": "1900",
-              "-tol": "1955",
-              "-dur": "3300",
-              "title": "FM名曲コレクション",
-              "url": "https://fmfukuoka.co.jp/program/fmmc/",
+              "-tol": "1925",
+              "-dur": "1500",
+              "title": "Re-Folk",
+              "url": "https://fmfukuoka.co.jp/program/rf/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\tFM FUKUOKA オススメのアーティストや日頃はなかなか聞けないような楽曲、様々なジャンルの音楽を織り交ぜノンストップでお送りしている音楽番組です。 <br /><br />\t番組Webサイト：<a href=\"https://fmfukuoka.co.jp/program/fmmc/\">https://fmfukuoka.co.jp/program/fmmc/</a><br />\tメッセージフォーム：<a href=\"https://fmfukuoka.co.jp/message/?program_id=30\">https://fmfukuoka.co.jp/message/?program_id=30</a><br /><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUOKA/p0vmo3ggwu.jpg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/DU/person/270_67664ec3_sq.jpg\" height=\"60\" width=\"60\" alt=\"こはまもとこ\"></td>  </tr></table><br /><br />\tフォーク世代ではない年代、僕たちのようにフォークを体験していない世代からフォークを見つめていこう、見直してみよう！という番組です。 <br /><br />\t番組Webサイト：<a href=\"https://fmfukuoka.co.jp/program/rf/\">https://fmfukuoka.co.jp/program/rf/</a><br />\tメールアドレス：<a href=\"mailto:rf@fmfukuoka.jp\">rf@fmfukuoka.jp</a><br />\tメッセージフォーム：<a href=\"https://fmfukuoka.co.jp/message/?program_id=17\">https://fmfukuoka.co.jp/message/?program_id=17</a><br /><br /></div>",
+              "pfm": "こはまもとこ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUOKA/q8ovh2jeyi.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9557906323",
+              "-ft": "20210314192500",
+              "-to": "20210314193000",
+              "-ftl": "1925",
+              "-tol": "1930",
+              "-dur": "300",
+              "title": "D U know?",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\tFM FUKUOKAがおススメする情報をご紹介！ <br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUOKA/e3812451-92ec-4044-a05a-42eea423710c.jpeg",
               "tag": {
-                "item": [
-                  {
-                    "name": "名曲"
-                  },
-                  {
-                    "name": "コレクション"
-                  }
-                ]
+                "item": {
+                  "name": "情報番組"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9557906325",
+              "-ft": "20210314193000",
+              "-to": "20210314195500",
+              "-ftl": "1930",
+              "-tol": "1955",
+              "-dur": "1500",
+              "title": "FM SELECTION",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\tFM FUKUOKA おすすめのアーティストやライブ情報など最新情報をお届けします。 <br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUOKA/e3812451-92ec-4044-a05a-42eea423710c.jpeg",
+              "tag": {
+                "item": {
+                  "name": "楽曲セレクト"
+                }
               },
               "genre": {
                 "personality": {
