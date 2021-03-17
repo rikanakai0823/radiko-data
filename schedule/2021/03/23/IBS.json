@@ -1,0 +1,568 @@
+{
+  "radiko": {
+    "ttl": "1800",
+    "srvtime": "1616005347",
+    "stations": {
+      "station": {
+        "-id": "IBS",
+        "name": "IBS茨城放送",
+        "progs": {
+          "date": "20210323",
+          "prog": [
+            {
+              "-id": "9558847917",
+              "-ft": "20210323050000",
+              "-to": "20210323060000",
+              "-ftl": "0500",
+              "-tol": "0600",
+              "-dur": "3600",
+              "title": "テスト音楽",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/m2j43hwg5u.jpg",
+              "tag": {
+                "item": {
+                  "name": "テスト音楽"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9558848072",
+              "-ft": "20210323060000",
+              "-to": "20210323090000",
+              "-ftl": "0600",
+              "-tol": "0900",
+              "-dur": "10800",
+              "title": "Morningナビ！！",
+              "url": "http://www.ibs-radio.com/navi",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "7年目を迎える茨城放送の朝ワイドプログラム。\n楽しく元気に、茨城はもちろん全国のニュース・話題を取り上げます。\nまた、それぞれのパーソナリティーの視点から、スポーツ、ビジネス、茨城の話題をお伝えします。\n朝は、Morningナビ！！で情報ゲット！<br>",
+              "info": "<p>▼6:17　「朝刊チェック！」（一般紙が休刊のときはおやすみです）</p>\n<p>▼6:30　「茨城放送ニュース」</p>\n<p>▼6:40　「市場だより」</p>\n<p>▼6:55　「トレインインフォメーション」</p>\n<p>▼7:00　「茨城放送ニュース、天気予報、スポーツニュース」</p>\n<p>▼7:25　「茨城放送交通情報、天気予報」</p>\n<p>▼7:42　「ニュース・ピックアップ」</p>\n<p>▼8:00　「茨城放送ニュース、天気予報、交通情報」</p>\n<p>▼8:10　「ナビゲートeye」</p>\n<p>▼8:18　「天気予報、交通情報」</p>\n<p>▼8:30　「茨城放送ニュース、天気予報、交通情報」</p>\n<p>▼8:52　「交通情報」</p>\n\n<p>リクエストやメッセージは下記アドレスまでどうぞ！<br />メール：<a href=\"mailto:navi@ibs-radio.com\">navi@ibs-radio.com</a><br /> \n\n●<a href=\"http://ibs-radio.com/blog_navi\">番組ブログ</a>",
+              "pfm": "今章子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/c0yz1dyw4i.jpg",
+              "tag": {
+                "item": {
+                  "name": "Morningナビ!!"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9558848388",
+              "-ft": "20210323090000",
+              "-to": "20210323110000",
+              "-ftl": "0900",
+              "-tol": "1100",
+              "-dur": "7200",
+              "title": "HAPPYパンチ！　①",
+              "url": "http://www.ibs-radio.com/happy",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "メインパーソナリティーは、地元茨城出身のシンガーソングライター「KATSUMI」。そして、これまで20年にわたり茨城放送の人気番組を多数担当してきた「たかとりじゅん」。 <br><br>\nメインパーソナリティー2人の個性（爽やかな色気、おしゃれ感）に、女性アシスタントの若い感性をプラスして楽しい時間をお届けします！",
+              "info": "メッセージやリクエストは下記アドレスまでどうぞ！<br> メール：<a href=\"mailto:happy@ibs-radio.com\">happy@ibs-radio.com</a><br>\n●<a href=\"http://ibs-radio.com/blog-happy\">番組ブログ</a>",
+              "pfm": "KATSUMI・大島千穂",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/5qw870tmhd.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "HAPPYパンチ!"
+                  },
+                  {
+                    "name": "ハピパン"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9558848534",
+              "-ft": "20210323110000",
+              "-to": "20210323125500",
+              "-ftl": "1100",
+              "-tol": "1255",
+              "-dur": "6900",
+              "title": "HAPPYパンチ！　②",
+              "url": "http://www.ibs-radio.com/happy",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "メインパーソナリティーは、地元茨城出身のシンガーソングライター「KATSUMI」。そして、これまで20年にわたり茨城放送の人気番組を多数担当してきた「たかとりじゅん」。 <br><br>\nメインパーソナリティー2人の個性（爽やかな色気、おしゃれ感）に、女性アシスタントの若い感性をプラスして楽しい時間をお届けします！",
+              "info": "メッセージやリクエストは下記アドレスまでどうぞ！<br> メール：<a href=\"mailto:happy@ibs-radio.com\">happy@ibs-radio.com</a><br>\n●<a href=\"http://ibs-radio.com/blog-happy\">番組ブログ</a>",
+              "pfm": "KATSUMI・大島千穂",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/5qw870tmhd.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "HAPPYパンチ!"
+                  },
+                  {
+                    "name": "ハピパン"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9558848747",
+              "-ft": "20210323125500",
+              "-to": "20210323130000",
+              "-ftl": "1255",
+              "-tol": "1300",
+              "-dur": "300",
+              "title": "お昼の聞き耳ガイド",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/af36ec56-8a33-4c94-b854-f3f1edcb798b.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9558869325",
+              "-ft": "20210323130000",
+              "-to": "20210323160000",
+              "-ftl": "1300",
+              "-tol": "1600",
+              "-dur": "10800",
+              "title": "MUSIC STATE",
+              "url": "http://www.ibs-radio.com/ims",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "曜日変わりのパーソナリティが個性豊かなトークと音楽で綴るミュージックワイドプログラムです。\n火曜・水曜はイーアスつくばｉスタジオから公開生放送！<br>\n\n\n",
+              "info": "<p>イーアスつくばｉスタジオからから生放送！<br /> \n▼13：15　「STATE i Topics」<br />\n▼13：30　「Music R」<br />\n▼14：26　「首都圏ハイウェイ情報」<br /> \n▼14：30　「sound jam」</p>\n<p>リクエストやメッセージは下記アドレスまでどうぞ！<br />メール：<a href=\"mailto:ims@ibs-radio.com\">ims@ibs-radio.com</a><br /> <br>\n●<a href=\"http://ibs-radio.com/blog-ims\">番組ブログ</a>",
+              "pfm": "木村さおり",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/rohiphhme8.png",
+              "tag": {
+                "item": {
+                  "name": "MUSIC STATE"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9558862204",
+              "-ft": "20210323160000",
+              "-to": "20210323183000",
+              "-ftl": "1600",
+              "-tol": "1830",
+              "-dur": "9000",
+              "title": "ＣＯＮＮＥＣＴ",
+              "url": "http://www.ibs-radio.com/co",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "MiC（月・火）と水間有紀（水）と川口智美（木）がお届けする情報エンターテイメント番組。30代・東京在住ならではのトレンド情報や音楽、トークでリスナーをナビゲートします。茨城県内の話題も取り上げ、「県外から見た茨城とは？」の視点を加えることで、県内の魅力を再発見していきます。<br><br>\n\n新しい情報とつながろう、茨城からつながっていこう・CONNECTしていこうというメッセージを込めてお送りします。",
+              "info": "<p><br>リクエストやメッセージは下記アドレスまでどうぞ！<br /> メール：<a href=\"mailto:co@ibs-radio.com\">co@ibs-radio.com</a><br /></p>",
+              "pfm": "MiC(ミック)",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/u08ca57ajr.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "CONNECT"
+                  },
+                  {
+                    "name": "MiC"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9558789452",
+              "-ft": "20210323183000",
+              "-to": "20210323184500",
+              "-ftl": "1830",
+              "-tol": "1845",
+              "-dur": "900",
+              "title": "旬!SHUN!ピックアップ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/af36ec56-8a33-4c94-b854-f3f1edcb798b.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9558863260",
+              "-ft": "20210323184500",
+              "-to": "20210323190000",
+              "-ftl": "1845",
+              "-tol": "1900",
+              "-dur": "900",
+              "title": "ココロのオンガク",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/af36ec56-8a33-4c94-b854-f3f1edcb798b.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9558863277",
+              "-ft": "20210323190000",
+              "-to": "20210323200000",
+              "-ftl": "1900",
+              "-tol": "2000",
+              "-dur": "3600",
+              "title": "磯山純の Love　yourself",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "1万人規模の野外音楽フェス「茨城総合物産音楽フェスティバル」を主催する、茨城県水戸市出身のシンガーソングライター　磯山純がお届けする1時間。<br>\n音楽や茨城のことを話したり、時にはゲストが登場したり、生歌を披露したりすることも？！<br>\n磯山純と共に、ゆったりした時間をお過ごしください♪<br><br>",
+              "info": "メッセージは下記アドレスまでどうぞ！<br>\nメール：<a href=\"mailto:isojun@ibs-radio.com\">isojun@ibs-radio.com</a>\n",
+              "pfm": "磯山純",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/fca3mexicv.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "isojun"
+                  },
+                  {
+                    "name": "磯山純"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9558861898",
+              "-ft": "20210323200000",
+              "-to": "20210323210000",
+              "-ftl": "2000",
+              "-tol": "2100",
+              "-dur": "3600",
+              "title": "菊地真衣のこんなんで、いいのかYO①",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "『こんな女子アナいたのかYO!?』をコンセプトに始まり、はや6年。\nこの秋改編で2時間に放送拡大！2時間は未知の領域！はたして時間は、持つのかYO!?\nさらにパワーアップする『いいのかYO!?』をYOチェック☆",
+              "info": "メッセージは下記アドレスまでどうぞ！<br>\nメール：<a href=\"mailto:yo@ibs-radio.com\">yo@ibs-radio.com</a>",
+              "pfm": "菊地真衣",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/0c4f2a5a-60e3-4e40-afd7-a97a885a7017.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "菊地真衣"
+                  },
+                  {
+                    "name": "いいのかyo"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9558861906",
+              "-ft": "20210323210000",
+              "-to": "20210323220000",
+              "-ftl": "2100",
+              "-tol": "2200",
+              "-dur": "3600",
+              "title": "菊地真衣のこんなんで、いいのかYO！？②",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "『こんな女子アナいたのかYO!?』をコンセプトに始まり、はや6年。\nこの秋改編で2時間に放送拡大！2時間は未知の領域！はたして時間は、持つのかYO!?\nさらにパワーアップする『いいのかYO!?』をYOチェック☆",
+              "info": "メッセージは下記アドレスまでどうぞ！<br>\nメール：<a href=\"mailto:yo@ibs-radio.com\">yo@ibs-radio.com</a>",
+              "pfm": "菊地真衣",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/0c4f2a5a-60e3-4e40-afd7-a97a885a7017.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "菊地真衣"
+                  },
+                  {
+                    "name": "いいのかyo"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9558968108",
+              "-ft": "20210323220000",
+              "-to": "20210324000000",
+              "-ftl": "2200",
+              "-tol": "2400",
+              "-dur": "7200",
+              "title": "オールナイトニッポン MUSIC 10",
+              "url": "http://www.allnightnippon.com/music10/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "メール：<a href=\"mailto:10@1242.com\">10@1242.com</a>",
+              "pfm": "鈴木杏樹",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/r3l6ahbbw6.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9558962817",
+              "-ft": "20210324000000",
+              "-to": "20210324010000",
+              "-ftl": "2400",
+              "-tol": "2500",
+              "-dur": "3600",
+              "title": "レコメン！",
+              "url": "http://www.joqr.co.jp/reco/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "お便りの宛先は：<a href=mailto:reco@joqr.net\">reco@joqr.net</a> FAX：03-5403-1151 ハガキ〒105-8002文化放送「レコメン！」\"",
+              "pfm": "オテンキのり",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/e71b1f51-a767-45ca-aa53-57eef06d9eec.png",
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9558969062",
+              "-ft": "20210324010000",
+              "-to": "20210324030000",
+              "-ftl": "2500",
+              "-tol": "2700",
+              "-dur": "7200",
+              "title": "オールナイトニッポン",
+              "url": "http://www.allnightnippon.com/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "メール：<a href=\"mailto:gen@allnightnippon.com\">gen@allnightnippon.com</a>",
+              "pfm": "星野　源",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/qlkbo3h943.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9558955789",
+              "-ft": "20210324030000",
+              "-to": "20210324043000",
+              "-ftl": "2700",
+              "-tol": "2830",
+              "-dur": "5400",
+              "title": "オールナイトニッポン0（ZERO）",
+              "url": "http://www.allnightnippon.com/program/zero/tue/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "Creepy Nuts",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/89e1ff22-d379-406b-a35b-1cec0ab81ce9.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9558955842",
+              "-ft": "20210324043000",
+              "-to": "20210324050000",
+              "-ftl": "2830",
+              "-tol": "2900",
+              "-dur": "1800",
+              "title": "上柳昌彦　あさぼらけ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "上柳昌彦",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBS/bxuwbnkj3a.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
