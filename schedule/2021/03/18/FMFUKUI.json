@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1616005310",
+    "srvtime": "1616091684",
     "stations": {
       "station": {
         "-id": "FMFUKUI",
@@ -10,7 +10,7 @@
           "date": "20210318",
           "prog": [
             {
-              "-id": "9558846424",
+              "-id": "9559118424",
               "-ft": "20210318050000",
               "-to": "20210318053000",
               "-ftl": "0500",
@@ -58,7 +58,7 @@
               }
             },
             {
-              "-id": "9558166746",
+              "-id": "9559118425",
               "-ft": "20210318053000",
               "-to": "20210318060000",
               "-ftl": "0530",
@@ -109,7 +109,7 @@
               }
             },
             {
-              "-id": "9559019198",
+              "-id": "9559118426",
               "-ft": "20210318060000",
               "-to": "20210318073000",
               "-ftl": "0600",
@@ -163,7 +163,7 @@
               }
             },
             {
-              "-id": "9558180747",
+              "-id": "9559118427",
               "-ft": "20210318073000",
               "-to": "20210318080000",
               "-ftl": "0730",
@@ -229,7 +229,7 @@
               }
             },
             {
-              "-id": "9558180783",
+              "-id": "9559118428",
               "-ft": "20210318080000",
               "-to": "20210318080900",
               "-ftl": "0800",
@@ -276,7 +276,7 @@
               }
             },
             {
-              "-id": "9558180815",
+              "-id": "9559118429",
               "-ft": "20210318080900",
               "-to": "20210318081000",
               "-ftl": "0809",
@@ -322,7 +322,7 @@
               }
             },
             {
-              "-id": "9558166923",
+              "-id": "9559118430",
               "-ft": "20210318081000",
               "-to": "20210318082000",
               "-ftl": "0810",
@@ -364,7 +364,7 @@
               }
             },
             {
-              "-id": "9558180827",
+              "-id": "9559118431",
               "-ft": "20210318082000",
               "-to": "20210318105000",
               "-ftl": "0820",
@@ -430,7 +430,7 @@
               }
             },
             {
-              "-id": "9558180898",
+              "-id": "9559118432",
               "-ft": "20210318105000",
               "-to": "20210318105500",
               "-ftl": "1050",
@@ -470,7 +470,7 @@
               }
             },
             {
-              "-id": "9558846526",
+              "-id": "9559155497",
               "-ft": "20210318105500",
               "-to": "20210318110000",
               "-ftl": "1055",
@@ -483,14 +483,19 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.fmfukui.jp/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/LU/program/2566_b82e7b73_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br />\tFM福井スタンプラリー「ぐるスタ」の協賛店情報、県内の企業情報、イベントなどをご紹介。 <br /><br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/3ndqm5s4oy.jpg",
               "tag": {
-                "item": {
-                  "name": "国内・海外のニュース"
-                }
+                "item": [
+                  {
+                    "name": "インフォメーション"
+                  },
+                  {
+                    "name": "ぐるスタ!"
+                  }
+                ]
               },
               "genre": {
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -501,7 +506,7 @@
               }
             },
             {
-              "-id": "9559019222",
+              "-id": "9559118434",
               "-ft": "20210318110000",
               "-to": "20210318113000",
               "-ftl": "1100",
@@ -543,7 +548,7 @@
               }
             },
             {
-              "-id": "9558181826",
+              "-id": "9559118435",
               "-ft": "20210318113000",
               "-to": "20210318125500",
               "-ftl": "1130",
@@ -588,7 +593,7 @@
               }
             },
             {
-              "-id": "9558954164",
+              "-id": "9559118436",
               "-ft": "20210318125500",
               "-to": "20210318130000",
               "-ftl": "1255",
@@ -633,7 +638,7 @@
               }
             },
             {
-              "-id": "9558783229",
+              "-id": "9559118437",
               "-ft": "20210318130000",
               "-to": "20210318133000",
               "-ftl": "1300",
@@ -678,7 +683,7 @@
               }
             },
             {
-              "-id": "9558167212",
+              "-id": "9559118438",
               "-ft": "20210318133000",
               "-to": "20210318155000",
               "-ftl": "1330",
@@ -732,7 +737,7 @@
               }
             },
             {
-              "-id": "9558174759",
+              "-id": "9559118439",
               "-ft": "20210318155000",
               "-to": "20210318155500",
               "-ftl": "1550",
@@ -772,7 +777,7 @@
               }
             },
             {
-              "-id": "9558846579",
+              "-id": "9559155498",
               "-ft": "20210318155500",
               "-to": "20210318160000",
               "-ftl": "1555",
@@ -803,7 +808,7 @@
               }
             },
             {
-              "-id": "9558954349",
+              "-id": "9559118441",
               "-ft": "20210318160000",
               "-to": "20210318164500",
               "-ftl": "1600",
@@ -817,27 +822,10 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/hhp\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/22200_bd5cb775_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/4342_d547d8fa_sq.jpg\" height=\"60\" width=\"60\" alt=\"杉崎真宏\"></td>  </tr></table><br /><br />\t3月18日は「PASMOの運用が開始された日」。<br />「PASMO」という名前の由来は、加盟鉄道共通磁気カードである「パスネット」と、<br />「もっと」の意味を表す英語「MORE」の頭文字を組み合わせた言葉なんですね。<br />そこでテーマは「名前の由来を勝手に考えよう」<br />身の回りの物や人、事柄の名前の由来を、いかにも本当っぽく語っちゃいましょう。<br />メッセージ、お待ちしています。<br /><br />後半コーナーは「ハピアワレディオ〜起笑点結〜」。<br />起承転結、４つの短い文章で完結する話を作って送ってください。<br />今回のクラスは乙女組！<br />宿題のテーマは「乙女の卒業式」です。<br />時間までに宿題の提出、忘れないように！<br /><br />「はぴねすくらぶラジオショッピング」でのお買い物もお忘れなく♪ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/hhp\">http://www.jfn.jp/hhp</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/157\">https://ssl2.jfn.co.jp/mailbox/index/157</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23hhp\">#hhp</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/jfn_hhp\">@jfn_hhp</a>」<br /><br /></div>",
               "pfm": "杉崎真宏",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/fpb6ftwega.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ショッピング"
-                  },
-                  {
-                    "name": "杉崎真宏"
-                  },
-                  {
-                    "name": "スギシャマ"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -854,7 +842,7 @@
               }
             },
             {
-              "-id": "9558162320",
+              "-id": "9559118442",
               "-ft": "20210318164500",
               "-to": "20210318165500",
               "-ftl": "1645",
@@ -868,27 +856,10 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/1802_34962e45_sq.jpg\" height=\"60\" width=\"60\" alt=\"川瀬良子\"></td>  </tr></table><br /><br />\t日本の未来を元気にする農業応援プログラム！全国の生産者と消費者をおいしいリズムでつなげます <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/agrizm/\">https://www.tfm.co.jp/agrizm/</a><br />\tメールアドレス：<a href=\"mailto:agri@tfm.co.jp\">agri@tfm.co.jp</a><br /> facebookページは「<a href='https://www.facebook.com/agrizm'>https://www.facebook.com/agrizm</a>」<br /><br /></div>",
               "pfm": "川瀬良子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/9564914f-29cc-4f7f-8090-60b85f9ee973.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "川瀬良子"
-                  },
-                  {
-                    "name": "日本の農業を考えるプログラム"
-                  },
-                  {
-                    "name": "あぐりずむ"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P015",
-                  "name": "教養"
                 }
               },
               "metas": {
@@ -899,7 +870,7 @@
               }
             },
             {
-              "-id": "9558167369",
+              "-id": "9559118443",
               "-ft": "20210318165500",
               "-to": "20210318170000",
               "-ftl": "1655",
@@ -911,24 +882,10 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.fmfukui.jp/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/LU/program/11211_199f7e26_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br />\t協賛社のお得な中古車情報を曜日替わりでお届けしています。 <br /><br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/3ndqm5s4oy.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "山田有紀"
-                  },
-                  {
-                    "name": "中古車"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
                 }
               },
               "metas": {
@@ -939,7 +896,7 @@
               }
             },
             {
-              "-id": "9558181181",
+              "-id": "9559118444",
               "-ft": "20210318170000",
               "-to": "20210318173000",
               "-ftl": "1700",
@@ -952,27 +909,10 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.fmfukui.jp/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/LU/program/51523_b620f6e0_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/LU/person/258_51303bf2_sq.jpg\" height=\"60\" width=\"60\" alt=\"藤田佳代\"></td>  </tr></table><br /><br />\t「Lagom」とは、北欧スウェーデンの言葉、スウェーデン人の精神に深くしみ込んでいる概念で「多すぎず、少なすぎず、ちょうどよい」といった意味合いを持っています。この番組では「ちょうどいい、暮らし」への第一歩を歩まれたご家族の物語をお届けします。 <br /><br />\tメールアドレス：<a href=\"mailto:lagom@fmfukui.co.jp\">lagom@fmfukui.co.jp</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23lagom\">#lagom</a>」<br /><br /></div>",
               "pfm": "藤田佳代",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/qxi1intc7c.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "藤田佳代"
-                  },
-                  {
-                    "name": "住宅情報"
-                  },
-                  {
-                    "name": "北欧の家"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P021",
-                  "name": "ライフスタイル"
                 }
               },
               "metas": {
@@ -983,7 +923,7 @@
               }
             },
             {
-              "-id": "9558107076",
+              "-id": "9559118445",
               "-ft": "20210318173000",
               "-to": "20210318173500",
               "-ftl": "1730",
@@ -997,24 +937,10 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/person/1515_2397c8c0_sq.jpg\" height=\"60\" width=\"60\" alt=\"池山文\"></td>  </tr></table><br /><br />\t今の話題曲、注目曲を解説（Ｒｅｍａｒｋ）する、この番組でチェック!!<br /><br />「橋本愛」のカバー曲『木綿のハンカチーフ』 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/remark\">http://www.jfn.jp/remark</a><br /><br /></div>",
               "pfm": "池山文",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/ye48x5w2q9.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "新譜情報"
-                  },
-                  {
-                    "name": "池山文"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1025,7 +951,7 @@
               }
             },
             {
-              "-id": "9559019263",
+              "-id": "9559118446",
               "-ft": "20210318173500",
               "-to": "20210318174500",
               "-ftl": "1735",
@@ -1039,24 +965,10 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/kento/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/program/43986_775dd6d9_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/7246_a4816df3_sq.jpg\" height=\"60\" width=\"60\" alt=\"賀来賢人\"></td>  </tr></table><br /><br />\t賀来賢人 SUZUKI“KENTO'S CLUB”<br />クラブ会長の賀来賢人が、クラブ会員であるリスナーの皆さんとラジオを通して楽しくコミュニケーションしていきます！<br />▽今日は、会長がやりたいことを好きにやっていきます！<br /><a href=\"https://audee.jp/program/show/43986\">★無料アプリAuDeeで「ケンクラ スペシャル ダイジェスト」を毎週配信中！詳しくはこちら</a> <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/kento/\">https://www.tfm.co.jp/kento/</a><br />\tメールアドレス：<a href=\"mailto:kento@tfm.co.jp\">kento@tfm.co.jp</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/kento/form/\">https://www.tfm.co.jp/kento/form/</a><br /><br /></div>",
               "pfm": "賀来賢人",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/qgist7jia8.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ケンクラ"
-                  },
-                  {
-                    "name": "賀来賢人"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C002",
                   "name": "俳優"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
                 }
               },
               "metas": {
@@ -1067,7 +979,7 @@
               }
             },
             {
-              "-id": "9558181948",
+              "-id": "9559118447",
               "-ft": "20210318174500",
               "-to": "20210318190000",
               "-ftl": "1745",
@@ -1081,33 +993,10 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"https://blog.fmfukui.jp/update/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/LU/program/50714_0948e4f3_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/LU/person/8142_9ae37c91_sq.jpg\" height=\"60\" width=\"60\" alt=\"天谷可菜（ほくりくアイドル部）\"></td>  </tr></table><br /><br />\t仕事をしている人 家でのんびりしている人 友達と遊んでいる人 ドライブ<br />をしている人 家族で食事をしている人・・・<br />いろんな人がいろんな夕方を過ごしている。<br />その時間が少しでもより良いものになりますよう。<br />Update Evening!<br />現代は多様性に満ちている。 <br /><br />\t番組Webサイト：<a href=\"https://blog.fmfukui.jp/update/\">https://blog.fmfukui.jp/update/</a><br /> <br /> twitterアカウントは「<a href=\"http://twitter.com/UpdateEvening\">@UpdateEvening</a>」<br /><br /></div>",
               "pfm": "天谷可菜（ほくりくアイドル部）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/jj99qn78hq.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ほくりくアイドル部"
-                  },
-                  {
-                    "name": "Update Music"
-                  },
-                  {
-                    "name": "アーティストコメント"
-                  },
-                  {
-                    "name": "福井の音楽情報"
-                  },
-                  {
-                    "name": "天谷可菜"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C008",
                   "name": "女性アイドル"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1118,7 +1007,7 @@
               }
             },
             {
-              "-id": "9558167475",
+              "-id": "9559118448",
               "-ft": "20210318190000",
               "-to": "20210318205500",
               "-ftl": "1900",
@@ -1132,24 +1021,10 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/1036_3379f942_sq.jpg\" height=\"60\" width=\"60\" alt=\"ユキ・ラインハート\"></td>  </tr></table><br /><br />\t≪お気に入りのコンピレーションＣＤ≫を楽しむ感覚で一日の疲れをクールダウン。上質な音楽をお届けする。 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/aor/\">http://www.jfn.jp/aor/</a><br /><br /></div>",
               "pfm": "ユキ・ラインハート",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/h52g7emz3o.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "AOR"
-                  },
-                  {
-                    "name": "ユキラインハート"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1160,7 +1035,7 @@
               }
             },
             {
-              "-id": "9558846650",
+              "-id": "9559155502",
               "-ft": "20210318205500",
               "-to": "20210318210000",
               "-ftl": "2055",
@@ -1191,7 +1066,7 @@
               }
             },
             {
-              "-id": "9558508660",
+              "-id": "9559118450",
               "-ft": "20210318210000",
               "-to": "20210318215500",
               "-ftl": "2100",
@@ -1205,30 +1080,10 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/6320_0b36432d_sq.jpg\" height=\"60\" width=\"60\" alt=\"草野マサムネ\"></td>  </tr></table><br /><br />\tスピッツ草野マサムネが、ロック大陸という架空の大陸を音楽と共に旅する番組「ロック大陸漫遊記」。<br /><br />今回は【好きなドラマーリクエスト・その１で漫遊記】<br /><br />野球で言えばキャッチャーのような、バンドの土台であり、ある意味の司令塔の役割を果たすドラマーを大特集！<br /><br />アナタから寄せられたリクエストを元に名ドラマーがフィーチャーされたロックナンバーで漫遊します。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/manyuki/\">https://www.tfm.co.jp/manyuki/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/manyuki/index.php?catid=3348\">https://www.tfm.co.jp/manyuki/index.php?catid=3348</a><br /><br /></div>",
               "pfm": "草野マサムネ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/m1n6hu6qcv.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ロック大陸漫遊記"
-                  },
-                  {
-                    "name": "草野マサムネ"
-                  },
-                  {
-                    "name": "spitz"
-                  },
-                  {
-                    "name": "草野マサムネの音楽トーク"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1239,7 +1094,7 @@
               }
             },
             {
-              "-id": "9558846662",
+              "-id": "9559155504",
               "-ft": "20210318215500",
               "-to": "20210318220000",
               "-ftl": "2155",
@@ -1270,7 +1125,7 @@
               }
             },
             {
-              "-id": "9559019288",
+              "-id": "9559118452",
               "-ft": "20210318220000",
               "-to": "20210318235500",
               "-ftl": "2200",
@@ -1284,39 +1139,10 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/lock/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/program/11820_fef7f3f1_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/8123_0baf55ab_sq.jpg\" height=\"60\" width=\"60\" alt=\"さかた校長\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/8124_7359831f_sq.jpg\" height=\"60\" width=\"60\" alt=\"こもり教頭\"></td>  </tr></table><br /><br />\t今日は【神はサイコロを振らない】先生が来校！<br />授業テーマは『君を照らしてくれた人』<br />家族・先生・クラスメイト・部活の仲間…<br />身の周りで、君が頼りにしている人について聞かせてほしい！<br /><br /><a href=\"https://park.gsj.mobi/program/show/11820\">★無料アプリAuDeeで「学校運営反省会議」配信中！詳しくはこちら</a><br /><a href=\"https://audee.jp/about\">★AuDeeについて</a><br /><br />▼22:55～『豆柴LOCKS!』 (一部地域のみ)<br />今週は「マメビアの泉」！！！<br />明日、人に教えたくなる…かもしれない、豆柴の大群にまつわる、無駄な“豆”知識＝「マメビア」をご紹介していきます。<br /><a href=\"https://park.gsj.mobi/program/show/100000095\"> ★無料アプリAuDeeで「放課後 豆柴LOCKS！」を配信中！詳しくはこちら</a><br /><br />▼23:10頃～『Eve LOCKS!』<br />“異文化の講師”Eve先生が登場！<br />今日は100回目の授業！ <br /><br />\t本日のゲスト：\t\t神はサイコロを振らない\t<br />\t<br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/lock/\">https://www.tfm.co.jp/lock/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/lock/mail.html\">https://www.tfm.co.jp/lock/mail.html</a><br />\tFAX：03-3221-1800<br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23SOL\">#SOL</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/sol_info\">@sol_info</a>」<br /><br /></div>",
               "pfm": "さかた校長 / こもり教頭",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/3jpv4an0ob.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "さかた校長"
-                  },
-                  {
-                    "name": "こもり教頭"
-                  },
-                  {
-                    "name": "豆柴の大群"
-                  },
-                  {
-                    "name": "Perfume"
-                  },
-                  {
-                    "name": "ミセス"
-                  },
-                  {
-                    "name": "ヒゲダン"
-                  },
-                  {
-                    "name": "Eve"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -1333,7 +1159,7 @@
               }
             },
             {
-              "-id": "9558167604",
+              "-id": "9559118453",
               "-ft": "20210318235500",
               "-to": "20210319000000",
               "-ftl": "2355",
@@ -1346,24 +1172,10 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.fmfukui.jp/docs/heavyrotation/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/LU/program/2584_b82e7b73_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br />\t月替わりでお届けするFM福井のヘビーローテーションをオンエア！ <br /><br />\t番組Webサイト：<a href=\"http://www.fmfukui.jp/docs/heavyrotation/\">http://www.fmfukui.jp/docs/heavyrotation/</a><br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/3ndqm5s4oy.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ヘビーローテーション"
-                  },
-                  {
-                    "name": "新譜情報"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1374,7 +1186,7 @@
               }
             },
             {
-              "-id": "9558322016",
+              "-id": "9559118454",
               "-ft": "20210319000000",
               "-to": "20210319005500",
               "-ftl": "2400",
@@ -1388,24 +1200,10 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/jetstream/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/program/128_f41275e9_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/8149_db360e96_sq.png\" height=\"60\" width=\"60\" alt=\"福山雅治\"></td>  </tr></table><br /><br />\t「旅への誘い」をテーマに、心地良い音楽とナレーションで綴ります。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/jetstream/\">https://www.tfm.co.jp/jetstream/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/jetstream/message\">https://www.tfm.co.jp/f/jetstream/message</a><br /><br /></div>",
               "pfm": "福山雅治",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/le7q87s8tg.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "福山雅治"
-                  },
-                  {
-                    "name": "JETSTREAM"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1416,7 +1214,7 @@
               }
             },
             {
-              "-id": "9558846700",
+              "-id": "9559155505",
               "-ft": "20210319005500",
               "-to": "20210319010000",
               "-ftl": "2455",
@@ -1447,7 +1245,7 @@
               }
             },
             {
-              "-id": "9558965596",
+              "-id": "9559118456",
               "-ft": "20210319010000",
               "-to": "20210319020000",
               "-ftl": "2500",
@@ -1461,17 +1259,6 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/speakeasy/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/49902_f1007451_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/8568_e6bcfa9e_sq.jpg\" height=\"60\" width=\"60\" alt=\"遠山大輔（グランジ）\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/9368_1b4a604e_sq.jpg\" height=\"60\" width=\"60\" alt=\"尾関梨香（櫻坂46）\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/9369_d3add4ee_sq.jpg\" height=\"60\" width=\"60\" alt=\"藤吉夏鈴（櫻坂46）\"></td>  </tr></table><br /><br />\t各界の大物たちが訪れ、「ここでしか語れない」様々な会話が繰り広げられるBAR「SPEAKEASY」。<br />今夜のお客様は、グランジ・遠山大輔さん＆櫻坂46・尾関梨香さん、 藤吉夏鈴さん。<br />とーやま元校長がBarに櫻坂46・尾関さん、藤吉さんを招待！<br />一足早く夜櫻満開？？？ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/speakeasy/\">https://www.tfm.co.jp/speakeasy/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/speakeasy/message\">https://www.tfm.co.jp/f/speakeasy/message</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23speakeasy\">#speakeasy</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/TokyoSpeakeasy\">@TokyoSpeakeasy</a>」<br /><br /></div>",
               "pfm": "遠山大輔（グランジ） / 尾関梨香（櫻坂46） / 藤吉夏鈴（櫻坂46）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/tgfm4ff8gj.jpg",
-              "tag": {
-                "item": {
-                  "name": "SPEAKEASY"
-                }
-              },
-              "genre": {
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
               "metas": {
                 "meta": [
                   {
@@ -1486,7 +1273,7 @@
               }
             },
             {
-              "-id": "9558783271",
+              "-id": "9559118458",
               "-ft": "20210319020000",
               "-to": "20210319040000",
               "-ftl": "2600",
@@ -1500,24 +1287,10 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/planet\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/22198_f38b8f67_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/7236_33d337f2_sq.jpg\" height=\"60\" width=\"60\" alt=\"浦朋恵\"></td>  </tr></table><br /><br />\t地球の“今”が聞こえてくるプログラム「ON THE PLANET」<br /><br />◇シェリーfrom NY<br />NYの今をシェリーめぐみが伝える <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/planet\">http://www.jfn.jp/planet</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/159\">https://ssl2.jfn.co.jp/mailbox/index/159</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%AA%E3%83%B3%E3%83%97%E3%83%A9\">#オンプラ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/JFN_OTP\">@JFN_OTP</a>」<br /><br /></div>",
               "pfm": "浦朋恵",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/svq4xetbcs.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "オンプラ"
-                  },
-                  {
-                    "name": "浦朋恵"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
-                },
-                "program": {
-                  "-id": "P015",
-                  "name": "教養"
                 }
               },
               "metas": {
@@ -1534,7 +1307,7 @@
               }
             },
             {
-              "-id": "9558317489",
+              "-id": "9559118459",
               "-ft": "20210319040000",
               "-to": "20210319050000",
               "-ftl": "2800",
@@ -1548,19 +1321,10 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/9045_f7703268_sq.jpg\" height=\"60\" width=\"60\" alt=\"関口舞\"></td>  </tr></table><br /><br />\t金曜の朝は、アプリクリエイターの関口舞が担当しています。<br /><br />今朝の音楽特集のテーマは＜春の花＞です。<br />お楽しみに。<br /><br />また、AuDeeでは、スピンオフ番組「関口舞のゆるふわ相談室」も絶賛配信中。<br />お悩みも募集しています。 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/md\">http://www.jfn.jp/md</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/165\">https://ssl2.jfn.co.jp/mailbox/index/165</a><br /><br /></div>",
               "pfm": "関口舞",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/iosgpmt86p.jpg",
-              "tag": {
-                "item": {
-                  "name": "関口舞"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
                 }
               },
               "metas": {
