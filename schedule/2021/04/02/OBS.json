@@ -1,0 +1,928 @@
+{
+  "radiko": {
+    "ttl": "1800",
+    "srvtime": "1616869338",
+    "stations": {
+      "station": {
+        "-id": "OBS",
+        "name": "OBSラジオ",
+        "progs": {
+          "date": "20210402",
+          "prog": [
+            {
+              "-id": "9560341741",
+              "-ft": "20210402050000",
+              "-to": "20210402052000",
+              "-ftl": "0500",
+              "-tol": "0520",
+              "-dur": "1200",
+              "title": "昭和歌謡セレクション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "佐藤健一",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/19f74227-a658-4874-ac8e-7c0663bee4d1.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560436541",
+              "-ft": "20210402052000",
+              "-to": "20210402052500",
+              "-ftl": "0520",
+              "-tol": "0525",
+              "-dur": "300",
+              "title": "三遊亭円楽のおたよりください",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "三遊亭円楽",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/19f74227-a658-4874-ac8e-7c0663bee4d1.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560436542",
+              "-ft": "20210402052500",
+              "-to": "20210402053000",
+              "-ftl": "0525",
+              "-tol": "0530",
+              "-dur": "300",
+              "title": "心のともしび",
+              "url": "https://tomoshibi.or.jp/radio/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/q8pl8qgp4c.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P016",
+                  "name": "宗教"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560436545",
+              "-ft": "20210402053000",
+              "-to": "20210402063000",
+              "-ftl": "0530",
+              "-tol": "0630",
+              "-dur": "3600",
+              "title": "生島ヒロシのおはよう一直線",
+              "url": "https://www.tbsradio.jp/ohayou/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "生島ヒロシ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/jn1sxj1lje.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560187432",
+              "-ft": "20210402063000",
+              "-to": "20210402063500",
+              "-ftl": "0630",
+              "-tol": "0635",
+              "-dur": "300",
+              "title": "ミュージックセレクション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/461f4ef2-4b9a-4189-947d-db6ae70239ff.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560436555",
+              "-ft": "20210402063500",
+              "-to": "20210402065500",
+              "-ftl": "0635",
+              "-tol": "0655",
+              "-dur": "1200",
+              "title": "おはよう寺ちゃんニュース最前線",
+              "url": "http://www.joqr.co.jp/tera/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "寺島尚正",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/9ac94a78-0f70-4b34-ae40-a53a306e6be9.png",
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560436558",
+              "-ft": "20210402065500",
+              "-to": "20210402070000",
+              "-ftl": "0655",
+              "-tol": "0700",
+              "-dur": "300",
+              "title": "ミュージックセレクション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/461f4ef2-4b9a-4189-947d-db6ae70239ff.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560436559",
+              "-ft": "20210402070000",
+              "-to": "20210402085000",
+              "-ftl": "0700",
+              "-tol": "0850",
+              "-dur": "6600",
+              "title": "情熱ライブ！Ｖｏｉｃｅ～ＭＵＳＩＣ　ＳＱＵＡＲＥ～",
+              "url": "https://1098.am/program/voice",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "平山沙絵　實山加代子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/698f112d-0ab0-424a-b998-6bf5196239aa.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560436572",
+              "-ft": "20210402085000",
+              "-to": "20210402085500",
+              "-ftl": "0850",
+              "-tol": "0855",
+              "-dur": "300",
+              "title": "情熱ライブ！Ｖｏｉｃｅ～ＭＵＳＩＣ　ＳＱＵＡＲＥ～",
+              "url": "https://www.1242.com/hada/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "羽田美智子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/851e0df4-c277-436b-bf46-e0ee7f0bdd6c.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560436573",
+              "-ft": "20210402085500",
+              "-to": "20210402110000",
+              "-ftl": "0855",
+              "-tol": "1100",
+              "-dur": "7500",
+              "title": "情熱ライブ！Ｖｏｉｃｅ～ＭＵＳＩＣ　ＳＱＵＡＲＥ～　part１",
+              "url": "https://1098.am/program/voice",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "平山沙絵　實山加代子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/698f112d-0ab0-424a-b998-6bf5196239aa.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560436590",
+              "-ft": "20210402110000",
+              "-to": "20210402130000",
+              "-ftl": "1100",
+              "-tol": "1300",
+              "-dur": "7200",
+              "title": "情熱ライブ！Ｖｏｉｃｅ～ＭＵＳＩＣ　ＳＱＵＡＲＥ～　part２",
+              "url": "https://1098.am/program/voice",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "平山沙絵　實山加代子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/698f112d-0ab0-424a-b998-6bf5196239aa.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560436607",
+              "-ft": "20210402130000",
+              "-to": "20210402160000",
+              "-ftl": "1300",
+              "-tol": "1600",
+              "-dur": "10800",
+              "title": "情熱ライブ！Ｖｏｉｃｅ～ときめきアフタヌーン～　part１",
+              "url": "https://1098.am/program/voice",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "飯倉寛子　新人アナウンサー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/698f112d-0ab0-424a-b998-6bf5196239aa.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560436624",
+              "-ft": "20210402160000",
+              "-to": "20210402164500",
+              "-ftl": "1600",
+              "-tol": "1645",
+              "-dur": "2700",
+              "title": "情熱ライブ！Ｖｏｉｃｅ～ときめきアフタヌーン～　part２",
+              "url": "https://1098.am/program/voice",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "飯倉寛子　新人アナウンサー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/698f112d-0ab0-424a-b998-6bf5196239aa.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560187441",
+              "-ft": "20210402164500",
+              "-to": "20210402170000",
+              "-ftl": "1645",
+              "-tol": "1700",
+              "-dur": "900",
+              "title": "健康生活インフォメーション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/19f74227-a658-4874-ac8e-7c0663bee4d1.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P017",
+                  "name": "健康"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560187442",
+              "-ft": "20210402170000",
+              "-to": "20210402171500",
+              "-ftl": "1700",
+              "-tol": "1715",
+              "-dur": "900",
+              "title": "ニュースパレード",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/19f74227-a658-4874-ac8e-7c0663bee4d1.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560268158",
+              "-ft": "20210402171500",
+              "-to": "20210402172100",
+              "-ftl": "1715",
+              "-tol": "1721",
+              "-dur": "360",
+              "title": "荻原次晴のニッポン応援団",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "荻原次晴",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/50228e26-4667-4a3a-8449-ca15ea0ac2f6.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C013",
+                  "name": "アスリート"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560187444",
+              "-ft": "20210402172100",
+              "-to": "20210402172500",
+              "-ftl": "1721",
+              "-tol": "1725",
+              "-dur": "240",
+              "title": "夕暮れだより",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/f39a7fc4-4fbc-45c0-9ca4-048fdfffcbe3.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560187445",
+              "-ft": "20210402172500",
+              "-to": "20210402173000",
+              "-ftl": "1725",
+              "-tol": "1730",
+              "-dur": "300",
+              "title": "道路交通情報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/1075ab28-8aff-4a91-9fe4-b412287379be.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560187446",
+              "-ft": "20210402173000",
+              "-to": "20210402174500",
+              "-ftl": "1730",
+              "-tol": "1745",
+              "-dur": "900",
+              "title": "ネットワークトゥデイ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/19f74227-a658-4874-ac8e-7c0663bee4d1.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560187447",
+              "-ft": "20210402174500",
+              "-to": "20210402180000",
+              "-ftl": "1745",
+              "-tol": "1800",
+              "-dur": "900",
+              "title": "今旬！インフォメーション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/19f74227-a658-4874-ac8e-7c0663bee4d1.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560187448",
+              "-ft": "20210402180000",
+              "-to": "20210402180500",
+              "-ftl": "1800",
+              "-tol": "1805",
+              "-dur": "300",
+              "title": "ミュージックセレクション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/461f4ef2-4b9a-4189-947d-db6ae70239ff.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560187449",
+              "-ft": "20210402180500",
+              "-to": "20210402181000",
+              "-ftl": "1805",
+              "-tol": "1810",
+              "-dur": "300",
+              "title": "ＯＢＳラジオ・ザ・ニュース",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/19f74227-a658-4874-ac8e-7c0663bee4d1.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560187450",
+              "-ft": "20210402181000",
+              "-to": "20210402182000",
+              "-ftl": "1810",
+              "-tol": "1820",
+              "-dur": "600",
+              "title": "動物なしか！",
+              "url": "https://1098.am/program/doubutsu_nashika",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "吉田寛　神田岳委",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/stz5bgpq68.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560187451",
+              "-ft": "20210402182000",
+              "-to": "20210402183000",
+              "-ftl": "1820",
+              "-tol": "1830",
+              "-dur": "600",
+              "title": "ＯＩＴＡつり王国！",
+              "url": "https://1098.am/program/oita-tsuri/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/19f74227-a658-4874-ac8e-7c0663bee4d1.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560436647",
+              "-ft": "20210402183000",
+              "-to": "20210402184500",
+              "-ftl": "1830",
+              "-tol": "1845",
+              "-dur": "900",
+              "title": "ＡＭＥＭＩＹＡの「とにかく歌います♪」",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/19f74227-a658-4874-ac8e-7c0663bee4d1.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560187453",
+              "-ft": "20210402184500",
+              "-to": "20210402210000",
+              "-ftl": "1845",
+              "-tol": "2100",
+              "-dur": "8100",
+              "title": "ＯＢＳゴールデンナイター　part１",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "解説：星崎智也　実況：松本秀夫",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/19f74227-a658-4874-ac8e-7c0663bee4d1.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560187462",
+              "-ft": "20210402210000",
+              "-to": "20210402220000",
+              "-ftl": "2100",
+              "-tol": "2200",
+              "-dur": "3600",
+              "title": "ＯＢＳゴールデンナイター　part２",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "解説：星崎智也　実況：松本秀夫",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/19f74227-a658-4874-ac8e-7c0663bee4d1.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560268249",
+              "-ft": "20210402220000",
+              "-to": "20210403000000",
+              "-ftl": "2200",
+              "-tol": "2400",
+              "-dur": "7200",
+              "title": "オールナイトニッポンＧＯＬＤ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "古舘伊知郎",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/c844cb66-360b-44da-8815-9381fd0730fb.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560436695",
+              "-ft": "20210403000000",
+              "-to": "20210403010000",
+              "-ftl": "2400",
+              "-tol": "2500",
+              "-dur": "3600",
+              "title": "嵐・相葉雅紀のレコメン！アラシリミックス",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "相葉雅紀",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/19f74227-a658-4874-ac8e-7c0663bee4d1.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560436711",
+              "-ft": "20210403010000",
+              "-to": "20210403030000",
+              "-ftl": "2500",
+              "-tol": "2700",
+              "-dur": "7200",
+              "title": "オールナイトニッポン",
+              "url": "http://www.allnightnippon.com/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "霜降り明星",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/2680a6a4-3f4e-4940-8d5c-490de5094da9.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560436735",
+              "-ft": "20210403030000",
+              "-to": "20210403050000",
+              "-ftl": "2700",
+              "-tol": "2900",
+              "-dur": "7200",
+              "title": "ＣＩＴＹ　ＣＨＩＬＬ　ＣＬＵＢ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/4db24fae-060b-4974-b028-f0ffd2d015f4.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
