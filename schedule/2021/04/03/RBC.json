@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1616955796",
+    "srvtime": "1617042164",
     "stations": {
       "station": {
         "-id": "RBC",
@@ -10,13 +10,13 @@
           "date": "20210403",
           "prog": [
             {
-              "-id": "9560352167",
+              "-id": "9560714627",
               "-ft": "20210403050000",
               "-to": "20210403051000",
               "-ftl": "0500",
               "-tol": "0510",
               "-dur": "600",
-              "title": "K's juke box",
+              "title": "K's juke box (再）",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -41,7 +41,7 @@
               }
             },
             {
-              "-id": "9560308413",
+              "-id": "9560714628",
               "-ft": "20210403051000",
               "-to": "20210403052500",
               "-ftl": "0510",
@@ -60,7 +60,7 @@
               }
             },
             {
-              "-id": "9560334375",
+              "-id": "9560714629",
               "-ft": "20210403052500",
               "-to": "20210403053000",
               "-ftl": "0525",
@@ -92,30 +92,17 @@
               }
             },
             {
-              "-id": "9560342049",
+              "-id": "9560714630",
               "-ft": "20210403053000",
               "-to": "20210403054500",
               "-ftl": "0530",
               "-tol": "0545",
               "-dur": "900",
-              "title": "幸福への出発",
-              "url": "http://onair.jp.seicho-no-ie.org/",
+              "title": "ヒヨコで踊るラジオ",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "生長の家がお届けするラジオ番組",
-              "pfm": "谷口雅宣",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/ff8e6300-3b1b-4a31-ab4f-d1f8bff8c50b.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P016",
-                  "name": "宗教"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -124,7 +111,7 @@
               }
             },
             {
-              "-id": "9560231012",
+              "-id": "9560714631",
               "-ft": "20210403054500",
               "-to": "20210403060000",
               "-ftl": "0545",
@@ -153,17 +140,37 @@
               }
             },
             {
-              "-id": "9560335583",
+              "-id": "9560766517",
               "-ft": "20210403060000",
               "-to": "20210403061000",
               "-ftl": "0600",
               "-tol": "0610",
               "-dur": "600",
-              "title": "録音風物誌",
+              "title": "僕の作文わたしの作文",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "半世紀以上の歴史を持つ録音構成番組。\n\n全国の放送局がその土地ならではの風俗\nをそこでしか聞くことのできない音とと\nもに紹介します。",
+              "desc": "県内の小学生の作文をお送りします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/ff8e6300-3b1b-4a31-ab4f-d1f8bff8c50b.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560766520",
+              "-ft": "20210403061000",
+              "-to": "20210403061500",
+              "-ftl": "0610",
+              "-tol": "0615",
+              "-dur": "300",
+              "title": "シャワープッシュ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "今月一押しの楽曲をお届けします",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/ff8e6300-3b1b-4a31-ab4f-d1f8bff8c50b.jpeg",
               "genre": {
                 "personality": {
@@ -171,8 +178,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -183,26 +190,7 @@
               }
             },
             {
-              "-id": "9560231085",
-              "-ft": "20210403061000",
-              "-to": "20210403061500",
-              "-ftl": "0610",
-              "-tol": "0615",
-              "-dur": "300",
-              "title": "ヒヨコで踊るラジオ",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/ff8e6300-3b1b-4a31-ab4f-d1f8bff8c50b.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9560344058",
+              "-id": "9560714634",
               "-ft": "20210403061500",
               "-to": "20210403063000",
               "-ftl": "0615",
@@ -232,7 +220,7 @@
               }
             },
             {
-              "-id": "9560231133",
+              "-id": "9560714635",
               "-ft": "20210403063000",
               "-to": "20210403064500",
               "-ftl": "0630",
@@ -242,6 +230,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "desc": "女性パーソナリティーと有識者による対談形式の健康情報番組。\n身近でわかりやすい健康生活情報をお送りいたします。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/ff8e6300-3b1b-4a31-ab4f-d1f8bff8c50b.jpeg",
               "genre": {
                 "personality": {
@@ -261,27 +250,17 @@
               }
             },
             {
-              "-id": "9560231152",
+              "-id": "9560714636",
               "-ft": "20210403064500",
               "-to": "20210403070000",
               "-ftl": "0645",
               "-tol": "0700",
               "-dur": "900",
-              "title": "イマドキショッピング",
+              "title": "納得健康１５分",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/ff8e6300-3b1b-4a31-ab4f-d1f8bff8c50b.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -290,28 +269,28 @@
               }
             },
             {
-              "-id": "9560335600",
+              "-id": "9560768968",
               "-ft": "20210403070000",
               "-to": "20210403073000",
               "-ftl": "0700",
               "-tol": "0730",
               "-dur": "1800",
-              "title": "北方謙三　水滸伝",
-              "url": "http://www.kbc.co.jp/r-radio/suikoden/",
+              "title": "野菜ソムリエ スタジオβ",
+              "url": "http://www.rbc.co.jp/radio_program/yasai/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "中国四大奇書の一つ「水滸伝」を人気作家北方謙三が大胆にアレンジし、\n世に送り出したベストセラー「北方版水滸伝」をもとに\n「耳で聞く活劇小説」をお送りします。\n硬派なロックアーティストとしてもしられる俳優・石橋凌がナレーターを務め、\n世の中をただそうと立ち上がり、そして死んでいく英雄たちの志を熱く語ります。",
-              "pfm": "石橋凌",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/bo72n17uvg.jpg",
+              "desc": "野菜ソムリエプロ、アスリートフードマイスター2級の資格を持つ玉城美香が、\nおいしい食材の選び方や、旬のおいしい野菜や果物のおすすめの食べ方、\nスポーツをしている方たちの体をサポートする食事など、日々の食卓の\n参考にいかがですか？ \n<br />\nFBページは<a href=\"https://www.facebook.com/yasairbc?fref=ts\"target=\"_blank\">こちらから</a><br />\nメールは<a href=\"mailto:yasai@rbc.co.jp\">yasai@rbc.co.jp</a><br />",
+              "pfm": "玉城美香",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/jnmn40hmdf.jpg",
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
                 },
                 "program": {
-                  "-id": "P004",
-                  "name": "ドラマ"
+                  "-id": "P017",
+                  "name": "健康"
                 }
               },
               "metas": {
@@ -322,27 +301,28 @@
               }
             },
             {
-              "-id": "9560345845",
+              "-id": "9560768970",
               "-ft": "20210403073000",
               "-to": "20210403080000",
               "-ftl": "0730",
               "-tol": "0800",
               "-dur": "1800",
-              "title": "RBCアナウンサー朗読～ひとり語りシアター～",
+              "title": "サファイア玲子の恋せよ！お仕事♪",
+              "url": "http://www.rbc.co.jp/radio_program/safaiareiko/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "\n\n",
-              "pfm": "RBCアナウンサー",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/ff8e6300-3b1b-4a31-ab4f-d1f8bff8c50b.jpeg",
+              "desc": "各方面の第一線で活躍されている方々をスタジオに招き、\n活動の裏話や苦労している点などを聞きます！\nどうしてその仕事に就いたのか、\nこれまでの苦労をどう乗り越えたのか、\n人生のヒント、見つけます！\nメールは <a href=\"mailto:koi@rbc.co.jp\">koi@rbc.co.jp</a><br />\n\n",
+              "pfm": "サファイア玲子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/t7u98u7mi5.jpg",
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C010",
+                  "name": "タレント"
                 },
                 "program": {
-                  "-id": "P015",
-                  "name": "教養"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -353,7 +333,7 @@
               }
             },
             {
-              "-id": "9560343266",
+              "-id": "9560714640",
               "-ft": "20210403080000",
               "-to": "20210403081500",
               "-ftl": "0800",
@@ -385,7 +365,7 @@
               }
             },
             {
-              "-id": "9560231381",
+              "-id": "9560714641",
               "-ft": "20210403081500",
               "-to": "20210403083000",
               "-ftl": "0815",
@@ -414,7 +394,7 @@
               }
             },
             {
-              "-id": "9560344112",
+              "-id": "9560714642",
               "-ft": "20210403083000",
               "-to": "20210403090000",
               "-ftl": "0830",
@@ -445,28 +425,19 @@
               }
             },
             {
-              "-id": "9560337324",
+              "-id": "9560766568",
               "-ft": "20210403090000",
               "-to": "20210403091500",
               "-ftl": "0900",
               "-tol": "0915",
               "-dur": "900",
-              "title": "ニュース＆ミュージック",
+              "title": "ミュージックブレイク",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "RBCアナウンサー",
+              "desc": "ナガハマヒロキがセレクトしたオリジナル楽曲をお届けします！\n",
+              "pfm": "ナガハマヒロキ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/ff8e6300-3b1b-4a31-ab4f-d1f8bff8c50b.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -475,7 +446,7 @@
               }
             },
             {
-              "-id": "9560344160",
+              "-id": "9560714644",
               "-ft": "20210403091500",
               "-to": "20210403093000",
               "-ftl": "0915",
@@ -506,7 +477,7 @@
               }
             },
             {
-              "-id": "9560344178",
+              "-id": "9560714645",
               "-ft": "20210403093000",
               "-to": "20210403095000",
               "-ftl": "0930",
@@ -536,7 +507,7 @@
               }
             },
             {
-              "-id": "9560352472",
+              "-id": "9560714646",
               "-ft": "20210403095000",
               "-to": "20210403100000",
               "-ftl": "0950",
@@ -566,18 +537,19 @@
               }
             },
             {
-              "-id": "9560308573",
+              "-id": "9560766589",
               "-ft": "20210403100000",
               "-to": "20210403113000",
               "-ftl": "1000",
               "-tol": "1130",
               "-dur": "5400",
-              "title": "新番組～１部～",
+              "title": "ナガハマヒロキの週刊リッスン　～１部～",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "あなたをラジオに引き寄せたい！そんな想いでお送りするテンション高めの3時間半！じっくり聞かずにBGMとしてどうぞ。<br /><br /><img src=\"https://www.rbc.co.jp/radiko/sat-magnet.jpg\"><br /><br />＜10:20＞花の藤商　ずみぱな<br /><br />メール→ <a href=\"mailto:mag@rbc.co.jp\">mag@rbc.co.jp</a><br />Ｔｗｉｔｔｅｒ→<a href=\"https://twitter.com/SUNDAYMAGNET?lang=ja\" target=\"_blank\">こちら</a>　ハッシュタグ <a href=\"https://twitter.com/intent/tweet?hashtags=mag738\" target=\"_blank\">#mag738</a><br />Ｉｎｓｔａｇｒａｍ→<a href=\"https://www.instagram.com/sunday.magnet/\" target=\"_blank\">こちら</a><br />\nＴｗｉｔｔｅｒ→<a href=\"https://twitter.com/SUNDAYMAGNET?lang=ja\" target=\"_blank\">こちら</a>　ハッシュタグ <a href=\"https://twitter.com/intent/tweet?hashtags=mag738\" target=\"_blank\">#mag738</a><br />\nＩｎｓｔａｇｒａｍ→<a href=\"https://www.instagram.com/sunday.magnet/\" target=\"_blank\">こちら</a><br />",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/axro214vcy.jpg",
+              "desc": "「聴く週刊誌」をコンセプトに、『ローカル』『カルチャー』\n『エンタメ』など様々なトピックを発信します。\n<br />\n目玉企画は毎週の巻頭特集!トレンドや話題をナガハマ編集長\n自ら取材を通して掘り下げます。\n<br />\nまた、沖縄本島・離島・県外の方から地元の生きた情報を提供\nしてもらう『現地特派員のコーナー』や積極的に外の声も放送。\n<br />\nオンエア前の平日に週末の放送内容を随時予告!リスナーの 1 週間\nの楽しみを目指すプログラム。\n<br />\n<br /><img src=\"https://www.rbc.co.jp/radiko/listen_nagahama.jpg\"><br />\n<br />＜10:20＞花の藤商　ずみぱな\n<br />＜10:30＞今週の特集<br />\n<br />\nメール→ <a href=\"mailto:lis@rbc.co.jp\">lis@rbc.co.jp</a><br />\nＴｗｉｔｔｅｒ→ハッシュタグ <a href=\"https://twitter.com/intent/tweet?hashtags=リッスン\" target=\"_blank\">#リッスン</a><br />",
+              "pfm": "ナガハマヒロキ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/e5bf6c23-b2ff-4b63-a040-585bdeba5a69.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -586,7 +558,7 @@
               }
             },
             {
-              "-id": "9560344276",
+              "-id": "9560714648",
               "-ft": "20210403113000",
               "-to": "20210403114500",
               "-ftl": "1130",
@@ -616,7 +588,7 @@
               }
             },
             {
-              "-id": "9560344281",
+              "-id": "9560714649",
               "-ft": "20210403114500",
               "-to": "20210403120000",
               "-ftl": "1145",
@@ -647,18 +619,19 @@
               }
             },
             {
-              "-id": "9560308675",
+              "-id": "9560766610",
               "-ft": "20210403120000",
               "-to": "20210403140000",
               "-ftl": "1200",
               "-tol": "1400",
               "-dur": "7200",
-              "title": "新番組～２部～",
+              "title": "ナガハマヒロキの週刊リッスン　～２部～",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "あなたをラジオに引き寄せたい！そんな想いでお送りするテンション高めの４時間半！\n第２部　じっくり聞かずにBGMとしてどうぞ。<br />\n<br /><img src=\"https://www.rbc.co.jp/radiko/sat-magnet.jpg\"><br /><br />\n＊ゲストコーナー\nマジで頑張っている方々をスタジオに迎えるゲストトークコーナー<br />\n＊ラジオカー　\nゴルフ女子横山胡桃が、街の話題をリポート！　（12時台、14時台）<br />\n＊伊良部ラジオ\n伊良部島出身のＭＣ嘉大雅と伊良部島の血を引くADナガハマヒロキが\n繰り広げる超絶ローカルラジオコーナー<br />\n＊メガネ一番週末天気予報\n気になる週末情報<br />\n＊嘉ション大雅ンバル\nMC嘉大雅が肉体と頭脳を駆使して様々なことにチャレンジするコーナー\n対戦相手は、ほぼAD平井　<br />\n＊ＲＢＣオリジナルランキングＪ・ＰＯＰ１０\n県内３つの専門店のセール数を総合した\nＲＢＣｉラジオのオリジナルの最新の邦楽ヒットを\nランキング形式で紹介します。<br />\n＊よしもとユンタクハンタク\nよしもと興行の芸人さんを迎えて、楽しくユンタクハンタク！<br />\n＊プレゼント当選者に生電話\nプレゼント当選者に生電話?<br />\nメール→ <a href=\"mailto:mag@rbc.co.jp\">mag@rbc.co.jp</a>\n<br />Ｔｗｉｔｔｅｒ→<a href=\"https://twitter.com/SUNDAYMAGNET?lang=ja\" target=\"_blank\">こちら</a>　ハッシュタグ <a href=\"https://twitter.com/intent/tweet?hashtags=mag738\" target=\"_blank\">#mag738</a><br />\nＩｎｓｔａｇｒａｍ→<a href=\"https://www.instagram.com/sunday.magnet/\" target=\"_blank\">こちら</a><br />\nＴｗｉｔｔｅｒ→<a href=\"https://twitter.com/SUNDAYMAGNET?lang=ja\" target=\"_blank\">こちら</a>　ハッシュタグ <a href=\"https://twitter.com/intent/tweet?hashtags=mag738\" target=\"_blank\">#mag738</a><br />\nＩｎｓｔａｇｒａｍ→<a href=\"https://www.instagram.com/sunday.magnet/\" target=\"_blank\">こちら</a>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/axro214vcy.jpg",
+              "desc": "「聴く週刊誌」をコンセプトに、『ローカル』『カルチャー』\n『エンタメ』など様々なトピックを発信します。\n<br />\n目玉企画は毎週の巻頭特集!トレンドや話題をナガハマ編集長\n自ら取材を通して掘り下げます。\n<br />\nまた、沖縄本島・離島・県外の方から地元の生きた情報を提供\nしてもらう『現地特派員のコーナー』や積極的に外の声も放送。\n<br />\nオンエア前の平日に週末の放送内容を随時予告!リスナーの 1 週間\nの楽しみを目指すプログラム。\n<br />\n<br />＜12:00＞ゲストコーナー\n<br />＜13:00＞よしもと \n<br />＜13:20＞メガネ一番天気予報\n<br />＜13:40＞ Bランチ\n\n<br /><img src=\"https://www.rbc.co.jp/radiko/listen_nagahama.jpg\"><br />\nメール→ <a href=\"mailto:lis@rbc.co.jp\">lis@rbc.co.jp</a><br />\nＴｗｉｔｔｅｒ→ハッシュタグ <a href=\"https://twitter.com/intent/tweet?hashtags=リッスン\" target=\"_blank\">#リッスン</a><br />",
+              "pfm": "ナガハマヒロキ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/e5bf6c23-b2ff-4b63-a040-585bdeba5a69.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -667,7 +640,7 @@
               }
             },
             {
-              "-id": "9560344391",
+              "-id": "9560714651",
               "-ft": "20210403140000",
               "-to": "20210403160000",
               "-ftl": "1400",
@@ -699,7 +672,7 @@
               }
             },
             {
-              "-id": "9560344457",
+              "-id": "9560714652",
               "-ft": "20210403160000",
               "-to": "20210403170000",
               "-ftl": "1600",
@@ -710,7 +683,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "「応援１８の旅立ちチャリティーキャンペーン」\n来年３月、児童養護施設と里親家庭から旅立つ子供たちは32人。\n彼らの自立と私たちに出来るサポートについてお伝えします。",
+              "desc": "「障害者隔離　歴史の闇」\n\n精神障害者に福祉を提供せず、行政の許可のもと、\n小屋などに隔離した「私宅監置」 という制度がかつて\n日本にありました。\n\n番組では、沖縄各地に残る犠牲の記憶を描いた映画に\nついて特集します。\n\n",
+              "info": "\n",
               "pfm": "仲田紀久子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/6e1cf316-b8b2-4799-aee5-e735fe77297d.jpeg",
               "genre": {
@@ -731,29 +705,20 @@
               }
             },
             {
-              "-id": "9560269025",
+              "-id": "9560769010",
               "-ft": "20210403170000",
               "-to": "20210403173000",
               "-ftl": "1700",
               "-tol": "1730",
               "-dur": "1800",
-              "title": "純次と直樹",
+              "title": "９２ラジ",
+              "url": "https://www.rbc.co.jp/radio_program/92radi/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "トップランナー2人による「適当」で「オトナ」な対談番組。\n仕事にも趣味にもこだわりを持った「かっこいいオトナ」の2人が\n仕事や音楽、映画など、お互いの近況や趣味の話を\n自由気ままにトークします。\n\n",
-              "pfm": "高田純次　浦沢直樹",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/48ca4d0c-d221-4501-8c4c-4066e7261b35.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
+              "desc": "「愛唄」「キセキ」など数々のヒット曲を送り続けている\n４人組ヴォーカルグループ「ＧＲｅｅｅｅＮ」。\n\nそのメンバーの１人、沖縄出身の「９２（クニ）」さんが、\n初のレギュラーパーソナリティを務めるラジオ番組が\nRBCiラジオでいよいよスタート！\n\n「沖縄の魅力・愛する音楽・スポーツ」を、\n地元沖縄から熱く届ける３０分。\n\nリスナーからの悩みや質問にも答えます。\nメールアドレスは <a href=\"mailto:92radi@rbc.co.jp\">92radi@rbc.co.jp</a><br />\ntwitterハッシュタグは「#92ラジ」<br />\n\n出演；９２(ＧＲｅｅｅｅＮ)、片野達朗（RBCアナウンサー）\n\n\n\n",
+              "pfm": "９２(ＧＲｅｅｅｅＮ) 片野達朗（RBCアナウンサー）\n",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/810bc170-84de-4283-8260-9e4a7420c03b.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -762,7 +727,7 @@
               }
             },
             {
-              "-id": "9560344563",
+              "-id": "9560714654",
               "-ft": "20210403173000",
               "-to": "20210403174500",
               "-ftl": "1730",
@@ -792,7 +757,7 @@
               }
             },
             {
-              "-id": "9560335930",
+              "-id": "9560714655",
               "-ft": "20210403174500",
               "-to": "20210403175000",
               "-ftl": "1745",
@@ -822,7 +787,7 @@
               }
             },
             {
-              "-id": "9560337371",
+              "-id": "9560714656",
               "-ft": "20210403175000",
               "-to": "20210403180000",
               "-ftl": "1750",
@@ -854,7 +819,7 @@
               }
             },
             {
-              "-id": "9560336790",
+              "-id": "9560714657",
               "-ft": "20210403180000",
               "-to": "20210403183000",
               "-ftl": "1800",
@@ -886,7 +851,7 @@
               }
             },
             {
-              "-id": "9560335949",
+              "-id": "9560714658",
               "-ft": "20210403183000",
               "-to": "20210403190000",
               "-ftl": "1830",
@@ -918,7 +883,7 @@
               }
             },
             {
-              "-id": "9560344695",
+              "-id": "9560714659",
               "-ft": "20210403190000",
               "-to": "20210403193000",
               "-ftl": "1900",
@@ -951,13 +916,13 @@
               }
             },
             {
-              "-id": "9560353246",
+              "-id": "9560714660",
               "-ft": "20210403193000",
               "-to": "20210403200000",
               "-ftl": "1930",
               "-tol": "2000",
               "-dur": "1800",
-              "title": "It’s EUROBEAT",
+              "title": "It’s EUROBEAT(再）",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -982,7 +947,7 @@
               }
             },
             {
-              "-id": "9560344752",
+              "-id": "9560714661",
               "-ft": "20210403200000",
               "-to": "20210403203000",
               "-ftl": "2000",
@@ -1014,29 +979,29 @@
               }
             },
             {
-              "-id": "9560344771",
+              "-id": "9560774439",
               "-ft": "20210403203000",
               "-to": "20210403210000",
               "-ftl": "2030",
               "-tol": "2100",
               "-dur": "1800",
-              "title": "よしもと沖縄「テーファーラジオ」",
-              "url": "http://www.rbc.co.jp/radio_program/tefa/",
+              "title": "ありんくりんのヨーガクナイト",
+              "url": "https://www.rbc.co.jp/radio_program/arikuri-yogakunight/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "お笑いは下剋上！\nよしもと沖縄の芸人達が毎週勝ち残りをかけてお笑いネタバトル。\n今週の勝者は・・・？\n<br />\nメールは <a href=\"mailto:738@rbc.co.jp\">738@rbc.co.jp</a><br />\n\n<img src=\"http://www.rbc.co.jp/radiko/yoshimoto_o.png\"><br />",
-              "info": "\n",
-              "pfm": "よしもと沖縄所属芸人",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/bkjrtql59s.jpg",
+              "desc": "よしもとお笑いコンビありんくりんの二人が\nヨーガクを中心にお届けしながら進める、ミュージック&バラエティ番組。\n\nリスナーからのメッセージやリクエストも募集し、\n今話題のヨーガクをありんくりん独自の目線でお届け。",
+              "info": "\n\n",
+              "pfm": "ありんくりん",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/2fc464f8-ee84-4363-a974-278e0b1730c3.jpeg",
               "genre": {
                 "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
+                  "-id": "C010",
+                  "name": "タレント"
                 },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1047,7 +1012,7 @@
               }
             },
             {
-              "-id": "9560344800",
+              "-id": "9560714663",
               "-ft": "20210403210000",
               "-to": "20210403213000",
               "-ftl": "2100",
@@ -1080,28 +1045,27 @@
               }
             },
             {
-              "-id": "9560344828",
+              "-id": "9560774455",
               "-ft": "20210403213000",
               "-to": "20210403220000",
               "-ftl": "2130",
               "-tol": "2200",
               "-dur": "1800",
-              "title": "ポニーテールリボンズと平川美香のパイパイパイナップル！",
+              "title": "２次元ＳＷＡＭＰ",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": " 1人音楽プロジェクト、ポニーテールリボンズのポカ＝ユイチンと、\nおじさんメイクの歌うま歌手、平川美香による番組。\n<br />\n確かな音楽のクオリティがありながら、インパクトのあるビジュアルという\n個性の塊が過ぎる２人の絶妙なトークで大人な話しや、生歌など、\n土曜の夜にふふふと笑える時間を作ります。\n<img src=\"https://www.rbc.co.jp/radiko/paipai.jpg\"><br />\n\n番組へのメッセージはメールで <a href=\"mailto:paipai@rbc.co.jp\"> paipai@rbc.co.jp</a><br />\n番組twitterアカウントは @paipaipineapple <a href=\"https://twitter.com/intent/tweet?screen_name= @paipaipineapple &hashtags= @paipaipineapple\" target=\"_blank\">こちらから</a><br >\n番組の感想は #パイパイパイナップル　でつぶやいてね。",
-              "info": "\n\n",
-              "pfm": "ポニーテールリボンズのポカ＝ユイチン 平川美香",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/8ccab91e-4715-4fa8-8358-321d17cb6a6a.jpeg",
+              "desc": "マンガ・アニメ・ゲームに関する最新情報を沖縄から発信！\n世界からも注目されている業界を、表からも裏からも楽しもう！\nアニメ・マンガ・ゲームにはまる＝沼＝ＳＷＡＭＰな嘉大雅アナウンサーと\n各業種の専門家と共に送る３０分。",
+              "pfm": "嘉大雅\n",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/e5b157ac-2fd6-47bd-b863-e9c46a2ba60c.jpeg",
               "genre": {
                 "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
+                  "-id": "P008",
+                  "name": "アニラジ"
                 }
               },
               "metas": {
@@ -1112,7 +1076,7 @@
               }
             },
             {
-              "-id": "9560344866",
+              "-id": "9560714665",
               "-ft": "20210403220000",
               "-to": "20210403230000",
               "-ftl": "2200",
@@ -1149,7 +1113,7 @@
               }
             },
             {
-              "-id": "9560272996",
+              "-id": "9560714666",
               "-ft": "20210403230000",
               "-to": "20210404000000",
               "-ftl": "2300",
@@ -1181,27 +1145,26 @@
               }
             },
             {
-              "-id": "9560562166",
+              "-id": "9560774494",
               "-ft": "20210404000000",
               "-to": "20210404003000",
               "-ftl": "2400",
               "-tol": "2430",
               "-dur": "1800",
-              "title": "２次元ＳＷＡＭＰ",
+              "title": "RBCアナウンサー朗読～ひとり語りシアター～(再放送）",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "マンガ・アニメ・ゲームに関する最新情報を沖縄から発信！\n世界からも注目されている業界を、表からも裏からも楽しもう！\nアニメ・マンガ・ゲームにはまる＝沼＝ＳＷＡＭＰな嘉大雅アナウンサーと\n各業種の専門家と共に送る３０分。",
-              "pfm": "嘉大雅\n",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/e5b157ac-2fd6-47bd-b863-e9c46a2ba60c.jpeg",
+              "pfm": "RBCアナウンサー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/ff8e6300-3b1b-4a31-ab4f-d1f8bff8c50b.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P008",
-                  "name": "アニラジ"
+                  "-id": "P015",
+                  "name": "教養"
                 }
               },
               "metas": {
@@ -1212,7 +1175,7 @@
               }
             },
             {
-              "-id": "9560562182",
+              "-id": "9560714668",
               "-ft": "20210404003000",
               "-to": "20210404010000",
               "-ftl": "2430",
@@ -1244,20 +1207,43 @@
               }
             },
             {
-              "-id": "9560553117",
+              "-id": "9560766790",
               "-ft": "20210404010000",
-              "-to": "20210404030000",
+              "-to": "20210404020000",
               "-ftl": "2500",
-              "-tol": "2700",
-              "-dur": "7200",
-              "title": "JUNKサタデー　エレ片コント太郎",
+              "-tol": "2600",
+              "-dur": "3600",
+              "title": "エレ片の ケツビ！",
               "url": "https://www.tbsradio.jp/elekata/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "JUNKの中でも抜きん出てモテない3人がお送りする、\nモテの下流社会ラジオ「エレ片のコント太郎」！ \n\nモテないやつらのリアルな生態。 学生時代から知り\n合いの3人が、ついつい楽しいことやっちゃいます！",
+              "desc": "ＴＢＳラジオで１５年間放送してきた\n「JUNK サタデー・エレ片のコント太郎」が新たに生まれ変わります！\n\nここでしか聞けない、エレ片３人による軽快なトークはそのままに、\n１週間の疲れやストレスを吹き飛ばし、最高にくだらないけど最高に面白い。\n\nそんな６０分をワチャワチャしながらお届けします～。\n週末の夜が笑顔で終わり、素敵な日曜日を迎えられるはず！！",
               "pfm": "エレキコミック　片桐仁（ラーメンズ）",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/02397cad-62bb-475e-8b82-1a1d055811e9.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/ff8e6300-3b1b-4a31-ab4f-d1f8bff8c50b.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560718068",
+              "-ft": "20210404020000",
+              "-to": "20210404030000",
+              "-ftl": "2600",
+              "-tol": "2700",
+              "-dur": "3600",
+              "title": "東京ポッド許可局",
+              "url": "http://www.tbsradio.jp/tokyopod/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "2008年、売れてない芸人3人でひっそり始めた自主制作のポッドキャスト番組をTBSラジオが異例の輸入！<br />\nモットーは「屁理屈をエンタテインメントに！」<br />\nエンタテインメントとインタレスト、2つの意味の「おもしろい！」を両立させた刺激的な内容を<br />\n3人のおじさんが「屁理屈」たっぷりに語る。\n<br />\nMC：サンキュータツオ　プチ鹿島　マキタスポーツ\nメールはコチラ→<a href=\"mailto:tokyopod@tbs.co.jp\">tokyopod@tbs.co.jp</a>",
+              "info": "<a href=\"mailto:tokyopod@tbs.co.jp\">tokyopod@tbs.co.jp</a>",
+              "pfm": "サンキュータツオ　プチ鹿島　マキタスポーツ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/d1b6b726-cf1e-43fa-9ff4-a993f7188cce.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -1276,7 +1262,7 @@
               }
             },
             {
-              "-id": "9560562246",
+              "-id": "9560714671",
               "-ft": "20210404030000",
               "-to": "20210404033000",
               "-ftl": "2700",
@@ -1306,41 +1292,12 @@
               }
             },
             {
-              "-id": "9560562257",
+              "-id": "9560714672",
               "-ft": "20210404033000",
-              "-to": "20210404040000",
-              "-ftl": "2730",
-              "-tol": "2800",
-              "-dur": "1800",
-              "title": "空気階段の踊り場",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RBC/8477043f-bb92-41f5-93fc-d18d146e46f7.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9560418698",
-              "-ft": "20210404040000",
               "-to": "20210404050000",
-              "-ftl": "2800",
+              "-ftl": "2730",
               "-tol": "2900",
-              "-dur": "3600",
+              "-dur": "5400",
               "title": "放送休止",
               "failed_record": "0",
               "ts_in_ng": "0",
