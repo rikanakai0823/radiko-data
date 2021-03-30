@@ -1,0 +1,981 @@
+{
+  "radiko": {
+    "ttl": "1800",
+    "srvtime": "1617128538",
+    "stations": {
+      "station": {
+        "-id": "TBC",
+        "name": "TBCラジオ",
+        "progs": {
+          "date": "20210405",
+          "prog": [
+            {
+              "-id": "9560694069",
+              "-ft": "20210405050000",
+              "-to": "20210405050500",
+              "-ftl": "0500",
+              "-tol": "0505",
+              "-dur": "300",
+              "title": "ｔｂｃニュース",
+              "url": "http://www.tbc-sendai.co.jp/01news/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/2490be48-9913-47ae-9622-da7ba032dca2.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560639954",
+              "-ft": "20210405050500",
+              "-to": "20210405052000",
+              "-ftl": "0505",
+              "-tol": "0520",
+              "-dur": "900",
+              "title": "まいどあり～。",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/57ae7f43-9dbd-434d-a21d-7f3c067c4ed7.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560769242",
+              "-ft": "20210405052000",
+              "-to": "20210405053000",
+              "-ftl": "0520",
+              "-tol": "0530",
+              "-dur": "600",
+              "title": "めざましラジオ～朝いちばん～",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "鈴木俊光",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/4ba1bf90-db7f-4ae4-85ac-cbc6f009539a.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560940618",
+              "-ft": "20210405053000",
+              "-to": "20210405063000",
+              "-ftl": "0530",
+              "-tol": "0630",
+              "-dur": "3600",
+              "title": "生島ヒロシのおはよう一直線",
+              "url": "https://www.tbsradio.jp/ohayou/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "生島ヒロシ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/9da26c8d-3696-48bb-b7d5-8d64267ea6de.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560769250",
+              "-ft": "20210405063000",
+              "-to": "20210405083000",
+              "-ftl": "0630",
+              "-tol": "0830",
+              "-dur": "7200",
+              "title": "Ｇｏｏｄモーニング",
+              "url": "http://www.tbc-sendai.co.jp/02radio/morning/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "パーソナリティ：松尾武 アシスタント：（新）鎧坂文菜",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/b7210cc7-717e-419f-97b3-bb66f0e09a1c.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560770146",
+              "-ft": "20210405083000",
+              "-to": "20210405083500",
+              "-ftl": "0830",
+              "-tol": "0835",
+              "-dur": "300",
+              "title": "スズキ・ハッピーモーニング　羽田美智子のいってらっしゃい",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "羽田美智子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/3ae72b37-925c-46cc-af66-03482501c5ae.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560694108",
+              "-ft": "20210405083500",
+              "-to": "20210405084000",
+              "-ftl": "0835",
+              "-tol": "0840",
+              "-dur": "300",
+              "title": "ｔｂｃラジオ防災減災一口メモ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/db81df59-24af-4b5e-af16-2cdea5124674.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560694109",
+              "-ft": "20210405084000",
+              "-to": "20210405084300",
+              "-ftl": "0840",
+              "-tol": "0843",
+              "-dur": "180",
+              "title": "ｔｂｃ交通情報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/5c47ef42-7dbe-42c7-9fdb-d175d2ba4d10.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560694110",
+              "-ft": "20210405084300",
+              "-to": "20210405084500",
+              "-ftl": "0843",
+              "-tol": "0845",
+              "-dur": "120",
+              "title": "ｔｂｃイベントインフォメーション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/0a638e21-7194-448e-8479-cb54f5f5a728.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560767777",
+              "-ft": "20210405084500",
+              "-to": "20210405085500",
+              "-ftl": "0845",
+              "-tol": "0855",
+              "-dur": "600",
+              "title": "武田鉄矢・今朝の三枚おろし",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "武田鉄矢",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/4b99df73-9fc4-43c5-979d-94643698d2c3.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C002",
+                  "name": "俳優"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560694126",
+              "-ft": "20210405085500",
+              "-to": "20210405090000",
+              "-ftl": "0855",
+              "-tol": "0900",
+              "-dur": "300",
+              "title": "河北新報ニュース",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/2490be48-9913-47ae-9622-da7ba032dca2.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560770160",
+              "-ft": "20210405090000",
+              "-to": "20210405113000",
+              "-ftl": "0900",
+              "-tol": "1130",
+              "-dur": "9000",
+              "title": "ｅｎ  ∞  Ｖｏｙａｇｅ",
+              "url": "http://www.tbc-sendai.co.jp/02radio/envoyage/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "石川太郎",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/2ad903fc-b784-4d74-8e11-292f32245d71.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560640751",
+              "-ft": "20210405113000",
+              "-to": "20210405113500",
+              "-ftl": "1130",
+              "-tol": "1135",
+              "-dur": "300",
+              "title": "ヒヨコで踊るラジオ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/57ae7f43-9dbd-434d-a21d-7f3c067c4ed7.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560770187",
+              "-ft": "20210405113500",
+              "-to": "20210405114000",
+              "-ftl": "1135",
+              "-tol": "1140",
+              "-dur": "300",
+              "title": "金子耕弐のファミリートーク",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "金子耕弐",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/ed63a10f-d0f2-4a99-a008-67d0a4eb841f.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560767984",
+              "-ft": "20210405114000",
+              "-to": "20210405115000",
+              "-ftl": "1140",
+              "-tol": "1150",
+              "-dur": "600",
+              "title": "氷川きよし　限界突破RADIO",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "氷川きよし・寺島尚正",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/716837b7-70d9-401b-832c-6c1cdeb25764.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560694151",
+              "-ft": "20210405115000",
+              "-to": "20210405120000",
+              "-ftl": "1150",
+              "-tol": "1200",
+              "-dur": "600",
+              "title": "河北新報ニュース",
+              "url": "http://www.tbc-sendai.co.jp/01news/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/2490be48-9913-47ae-9622-da7ba032dca2.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560768031",
+              "-ft": "20210405120000",
+              "-to": "20210405140000",
+              "-ftl": "1200",
+              "-tol": "1400",
+              "-dur": "7200",
+              "title": "ＧｏＧｏはみみこい　ラジオな気分",
+              "url": "http://www.tbc-sendai.co.jp/02radio/rkibun/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "パーソナリティ：佐々木淳吾、安東理紗",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/fc6d60ff-0d90-415b-8df8-a463c34af961.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560768215",
+              "-ft": "20210405140000",
+              "-to": "20210405160000",
+              "-ftl": "1400",
+              "-tol": "1600",
+              "-dur": "7200",
+              "title": "ＧｏＧｏはみみこい　ラジオな気分",
+              "url": "http://www.tbc-sendai.co.jp/02radio/rkibun/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "パーソナリティ：佐々木淳吾、安東理紗",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/fc6d60ff-0d90-415b-8df8-a463c34af961.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560769385",
+              "-ft": "20210405160000",
+              "-to": "20210405180000",
+              "-ftl": "1600",
+              "-tol": "1800",
+              "-dur": "7200",
+              "title": "シロクジＴＵＮＥ",
+              "url": "http://www.tbc-sendai.co.jp/02radio/4-6-tune/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "守屋周",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/a5efb8fc-44e7-454c-bb3d-52f236a7e904.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560770257",
+              "-ft": "20210405180000",
+              "-to": "20210405183000",
+              "-ftl": "1800",
+              "-tol": "1830",
+              "-dur": "1800",
+              "title": "坂本サトル  ひとりの時間。",
+              "url": "http://www.sakamotosatoru.com",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "坂本サトル",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/2221bbbe-531c-4816-a2d4-5490fb374486.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560770267",
+              "-ft": "20210405183000",
+              "-to": "20210405190000",
+              "-ftl": "1830",
+              "-tol": "1900",
+              "-dur": "1800",
+              "title": "カラーボトル竹森マサユキのがらくたパレード",
+              "url": "http://www.tbc-sendai.co.jp/02radio/garakuta/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/0e4df708-291d-401e-a773-8917a7cd9b79.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560770278",
+              "-ft": "20210405190000",
+              "-to": "20210405193000",
+              "-ftl": "1900",
+              "-tol": "1930",
+              "-dur": "1800",
+              "title": "３・１１みやぎホットライン",
+              "url": "http://www.1260.jp/bl/311hotline/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "藤沢智子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/xdztzqcony.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560769478",
+              "-ft": "20210405193000",
+              "-to": "20210405215500",
+              "-ftl": "1930",
+              "-tol": "2155",
+              "-dur": "8700",
+              "title": "ＮＥＷ　ＮＥＷＳ",
+              "url": "http://www.tbc-sendai.co.jp/02radio/newnews/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "ニードル（ＧＡＫＩＯ・伊藤政仁）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/e5c64f38-841a-46b0-ae6a-4f58e6d093d0.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560694419",
+              "-ft": "20210405215500",
+              "-to": "20210405220000",
+              "-ftl": "2155",
+              "-tol": "2200",
+              "-dur": "300",
+              "title": "ｔｂｃニュース",
+              "url": "http://www.tbc-sendai.co.jp/01news/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/2490be48-9913-47ae-9622-da7ba032dca2.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560769683",
+              "-ft": "20210405220000",
+              "-to": "20210405230000",
+              "-ftl": "2200",
+              "-tol": "2300",
+              "-dur": "3600",
+              "title": "“It”sounds",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "名久井麻利",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/57ae7f43-9dbd-434d-a21d-7f3c067c4ed7.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560775589",
+              "-ft": "20210405230000",
+              "-to": "20210405232000",
+              "-ftl": "2300",
+              "-tol": "2320",
+              "-dur": "1200",
+              "title": "イワイガワの誠実ラジオ「二畳半の小部屋から」",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "イワイガワ（井川修司・岩井ジョニ男）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/adc79f91-ad53-4394-8bc6-e8d18d1a9efd.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560642163",
+              "-ft": "20210405232000",
+              "-to": "20210405235000",
+              "-ftl": "2320",
+              "-tol": "2350",
+              "-dur": "1800",
+              "title": "宮川賢のまつぼっくり王国",
+              "url": "http://matsubo.info/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "メールアドレス：miyakawa@1260.jp",
+              "pfm": "宮川賢",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/qdg74kyolr.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560769752",
+              "-ft": "20210405235000",
+              "-to": "20210405235700",
+              "-ftl": "2350",
+              "-tol": "2357",
+              "-dur": "420",
+              "title": "スポーツ伝説",
+              "url": "http://www.1242.com/sports/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "滝本沙奈",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/2129cd4d-847c-49c1-b99c-a3bcb92eefe6.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560694429",
+              "-ft": "20210405235700",
+              "-to": "20210406000000",
+              "-ftl": "2357",
+              "-tol": "2400",
+              "-dur": "180",
+              "title": "河北新報ニュース",
+              "url": "http://www.tbc-sendai.co.jp/01news/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/2490be48-9913-47ae-9622-da7ba032dca2.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560940961",
+              "-ft": "20210406000000",
+              "-to": "20210406010000",
+              "-ftl": "2400",
+              "-tol": "2500",
+              "-dur": "3600",
+              "title": "レコメン！",
+              "url": "http://www.joqr.co.jp/reco/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "オテンキのり、菅井友香（櫻坂46）、KinKi Kids",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/fe793a36-d43f-4959-8c49-133b89a1c648.png",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560941010",
+              "-ft": "20210406010000",
+              "-to": "20210406030000",
+              "-ftl": "2500",
+              "-tol": "2700",
+              "-dur": "7200",
+              "title": "オールナイトニッポン",
+              "url": "http://www.allnightnippon.com/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "菅田将暉",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/hrt7kylrsu.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560953734",
+              "-ft": "20210406030000",
+              "-to": "20210406043000",
+              "-ftl": "2700",
+              "-tol": "2830",
+              "-dur": "5400",
+              "title": "オールナイトニッポン０（ＺＥＲＯ）",
+              "url": "http://www.allnightnippon.com/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "ファーストサマーウイカ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/da767331-98a1-4344-8c26-3c82c888aa8e.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560941071",
+              "-ft": "20210406043000",
+              "-to": "20210406045900",
+              "-ftl": "2830",
+              "-tol": "2859",
+              "-dur": "1740",
+              "title": "上柳昌彦　あさぼらけ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "上柳昌彦",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/f686c52b-6aff-46a0-90d4-688af058b922.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9560832709",
+              "-ft": "20210406045900",
+              "-to": "20210406050000",
+              "-ftl": "2859",
+              "-tol": "2900",
+              "-dur": "60",
+              "title": "配信休止",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBC/57ae7f43-9dbd-434d-a21d-7f3c067c4ed7.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

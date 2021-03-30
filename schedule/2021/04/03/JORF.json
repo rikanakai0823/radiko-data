@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1617042161",
+    "srvtime": "1617128516",
     "stations": {
       "station": {
         "-id": "JORF",
@@ -437,7 +437,7 @@
               }
             },
             {
-              "-id": "9560761433",
+              "-id": "9560947545",
               "-ft": "20210403093000",
               "-to": "20210403130000",
               "-ftl": "0930",
@@ -483,7 +483,7 @@
               }
             },
             {
-              "-id": "9560743548",
+              "-id": "9560947624",
               "-ft": "20210403130000",
               "-to": "20210403163500",
               "-ftl": "1300",
@@ -908,22 +908,46 @@
               }
             },
             {
-              "-id": "9560711389",
+              "-id": "9561036504",
               "-ft": "20210403223000",
               "-to": "20210403230000",
               "-ftl": "2230",
               "-tol": "2300",
               "-dur": "1800",
-              "title": "【新】日テレアナ・ザ・ワールド",
+              "title": "【新】日テレアナ・ザ・ワールド！",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
+              "desc": "▽ふだんテレビの世界でお仕事をする日本テレビアナウンサーが、ラジオを全力で楽しむ番組です！<br><br>日本テレビのイチオシ情報はもちろん、アナウンサーたちの素顔が垣間見える30分。日テレアナウンス室から毎回週替りでアナウンサーが登場、30分１本勝負の「疑似生放送スタイル」でお届けします。<br><br>番組公式twitterアカウント：<A Href=\"https://twitter.com/ntvanotherworld\"target=\"_blank\">ntvanotherworld</A>",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%A2%E3%83%8A%E3%82%B6%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89\">#アナザワールド</a>」",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JORF/01fe345f-5d2c-4700-91af-0092036f4545.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "#日本テレビ"
+                  },
+                  {
+                    "name": "#アナウンサー"
+                  },
+                  {
+                    "name": "#日テレアナ"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#jorf"
+                  "-value": "#アナザワールド"
                 }
               }
             },
