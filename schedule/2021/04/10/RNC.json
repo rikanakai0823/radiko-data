@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1617560548",
+    "srvtime": "1617646933",
     "stations": {
       "station": {
         "-id": "RNC",
@@ -203,7 +203,7 @@
               }
             },
             {
-              "-id": "9561846257",
+              "-id": "9561999178",
               "-ft": "20210410072500",
               "-to": "20210410073000",
               "-ftl": "0725",
@@ -304,7 +304,7 @@
               }
             },
             {
-              "-id": "9561594249",
+              "-id": "9561890083",
               "-ft": "20210410074500",
               "-to": "20210410075500",
               "-ftl": "0745",
@@ -316,7 +316,7 @@
               "ts_out_ng": "0",
               "info": "良いものから悪いものまで、無数の情報で溢れかえっているこの世の中。情報の森に迷い込んでいるシニアの為に谷隼人独自の目線と感性でズバズバ切り込んで道を拓いていきます。",
               "pfm": "谷隼人　四元エリカ",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RNC/ec94caa7-75cc-45d3-bba2-e24ed3b5fccf.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RNC/e2e4c252-eb30-489e-9399-202f5c16c1a0.png",
               "genre": {
                 "personality": {
                   "-id": "C002",
@@ -397,7 +397,7 @@
               }
             },
             {
-              "-id": "9561511956",
+              "-id": "9561999188",
               "-ft": "20210410081500",
               "-to": "20210410083000",
               "-ftl": "0815",
@@ -410,6 +410,10 @@
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23RNC%E3%83%A9%E3%82%B8%E3%82%AA\">#RNCラジオ</a>」<br>twitterアカウントは「<a href=\"http://twitter.com/RNC_RADIO_FES\">@RNC_RADIO_FES</a>」",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RNC/ec94caa7-75cc-45d3-bba2-e24ed3b5fccf.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P018",
                   "name": "ショッピング"
@@ -497,7 +501,7 @@
               }
             },
             {
-              "-id": "9561576531",
+              "-id": "9561999216",
               "-ft": "20210410111500",
               "-to": "20210410113000",
               "-ftl": "1115",
@@ -510,6 +514,10 @@
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23RNC%E3%83%A9%E3%82%B8%E3%82%AA\">#RNCラジオ</a>」<br>twitterアカウントは「<a href=\"http://twitter.com/RNC_RADIO_FES\">@RNC_RADIO_FES</a>」",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RNC/ec94caa7-75cc-45d3-bba2-e24ed3b5fccf.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P018",
                   "name": "ショッピング"
@@ -1139,7 +1147,7 @@
               }
             },
             {
-              "-id": "9561763804",
+              "-id": "9561999346",
               "-ft": "20210411030000",
               "-to": "20210411050000",
               "-ftl": "2700",
@@ -1150,29 +1158,24 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23RNC%E3%83%A9%E3%82%B8%E3%82%AA\">#RNCラジオ</a>」<br>twitterアカウントは「<a href=\"http://twitter.com/RNC_RADIO_FES\">@RNC_RADIO_FES</a>」",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RNC/fol3hgt4rq.jpg",
+              "info": "オールナイトニッポン０～決戦！お笑い有楽城～を放送します。<br>出演：ランジャタイ、ママタルト、しちふく、パンプキンポテトフライ、Ｇパンパンダ、モシモシ、ヒコロヒー、ＸＸＣＬＵＢ　<br>審査員：松村邦洋、バイきんぐ西村、小宮有紗（声優）、松田健次（放送作家）、金子司（番組チーフディレクター）　",
+              "pfm": "ＭＣ：ラバーガール　",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RNC/827b9aa5-a91e-4214-bef0-68a7d74b4613.jpeg",
               "genre": {
                 "personality": {
-                  "-id": "C008",
-                  "name": "女性アイドル"
+                  "-id": "C009",
+                  "name": "芸人"
                 },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#RNCラジオ"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:RNC_RADIO_FES"
-                  }
-                ]
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
               }
             }
           ]
