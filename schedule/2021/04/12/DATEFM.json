@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1617819792",
+    "srvtime": "1617906127",
     "stations": {
       "station": {
         "-id": "DATEFM",
@@ -38,7 +38,7 @@
               }
             },
             {
-              "-id": "9562237835",
+              "-id": "9562266925",
               "-ft": "20210412053000",
               "-to": "20210412055500",
               "-ftl": "0530",
@@ -176,12 +176,12 @@
               }
             },
             {
-              "-id": "9561923472",
+              "-id": "9562305227",
               "-ft": "20210412090000",
-              "-to": "20210412110000",
+              "-to": "20210412105500",
               "-ftl": "0900",
-              "-tol": "1100",
-              "-dur": "7200",
+              "-tol": "1055",
+              "-dur": "6900",
               "title": "Morning Brush",
               "url": "http://www.datefm.jp/pgm/brush/",
               "failed_record": "0",
@@ -194,8 +194,32 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9562305228",
+              "-ft": "20210412105500",
+              "-to": "20210412110000",
+              "-ftl": "1055",
+              "-tol": "1100",
+              "-dur": "300",
+              "title": "快適生活ラジオショッピング",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/DATEFM/009fa7c3-e26d-4518-a835-72dd16044d6f.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -925,7 +949,7 @@
               }
             },
             {
-              "-id": "9561924789",
+              "-id": "9562305229",
               "-ft": "20210412213000",
               "-to": "20210412215500",
               "-ftl": "2130",
@@ -935,13 +959,13 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JU/person/9564_e2e268f9_sq.jpg\" height=\"60\" width=\"60\" alt=\"折坂悠太\"></td>  </tr></table><br /><br />\t【出演】折坂悠太 <br /><br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JU/person/9564_e2e268f9_sq.jpg\" height=\"60\" width=\"60\" alt=\"折坂悠太\"></td>  </tr></table><br /><br />\t【出演】折坂悠太 <br /><br /> <br /> twitterアカウントは「<a href=\"http://twitter.com/madon36\">@madon36</a>」<br /><br /></div>",
               "pfm": "折坂悠太",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/DATEFM/r2w8t3g0yp.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "from:madon36"
                 }
               }
             },

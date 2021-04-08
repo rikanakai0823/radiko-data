@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1617819804",
+    "srvtime": "1617906135",
     "stations": {
       "station": {
         "-id": "DATEFM",
@@ -32,7 +32,7 @@
               }
             },
             {
-              "-id": "9562237924",
+              "-id": "9562267206",
               "-ft": "20210413053000",
               "-to": "20210413055500",
               "-ftl": "0530",
@@ -164,12 +164,12 @@
               }
             },
             {
-              "-id": "9562182499",
+              "-id": "9562305232",
               "-ft": "20210413090000",
-              "-to": "20210413110000",
+              "-to": "20210413105500",
               "-ftl": "0900",
-              "-tol": "1100",
-              "-dur": "7200",
+              "-tol": "1055",
+              "-dur": "6900",
               "title": "Morning Brush",
               "url": "http://www.datefm.jp/pgm/brush/",
               "failed_record": "0",
@@ -178,6 +178,26 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JU/person/1687_484e282c_sq.jpg\" height=\"60\" width=\"60\" alt=\"千葉めぐみ\"></td>  </tr></table><br /><br />\tDate fm Just Fine! Just Music!<br />～こんな時だからこそ、心を元気に～ <br /><br />\t番組Webサイト：<a href=\"http://www.datefm.jp/pgm/brush/\">http://www.datefm.jp/pgm/brush/</a><br />\tメールアドレス：<a href=\"mailto:m@datefm.co.jp\">m@datefm.co.jp</a><br />\tメッセージフォーム：<a href=\"https://771.fm/sys_rqtform/index.aspx?pno=68\">https://771.fm/sys_rqtform/index.aspx?pno=68</a><br />\tFAX：022-711-9555<br /><br /></div>",
               "pfm": "千葉めぐみ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/DATEFM/hxcm12ioio.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9562305233",
+              "-ft": "20210413105500",
+              "-to": "20210413110000",
+              "-ftl": "1055",
+              "-tol": "1100",
+              "-dur": "300",
+              "title": "快適生活ラジオショッピング",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/DATEFM/009fa7c3-e26d-4518-a835-72dd16044d6f.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -332,7 +352,7 @@
               }
             },
             {
-              "-id": "9562174642",
+              "-id": "9562329325",
               "-ft": "20210413123000",
               "-to": "20210413125500",
               "-ftl": "1230",
@@ -937,7 +957,7 @@
               }
             },
             {
-              "-id": "9562052610",
+              "-id": "9562305234",
               "-ft": "20210413213000",
               "-to": "20210413215500",
               "-ftl": "2130",
@@ -947,14 +967,20 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JU/person/9565_c87cb15b_sq.jpg\" height=\"60\" width=\"60\" alt=\"WATWING\"></td>  </tr></table><br /><br />\t【出演】WATWING <br /><br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JU/person/9565_c87cb15b_sq.jpg\" height=\"60\" width=\"60\" alt=\"WATWING\"></td>  </tr></table><br /><br />\t【出演】WATWING <br /><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23WATWING\">#WATWING</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/watwing_info\">@watwing_info</a>」<br /><br /></div>",
               "pfm": "WATWING",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/DATEFM/r2w8t3g0yp.jpg",
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#WATWING"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:watwing_info"
+                  }
+                ]
               }
             },
             {
