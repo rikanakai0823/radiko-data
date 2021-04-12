@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1618165300",
+    "srvtime": "1618251622",
     "stations": {
       "station": {
         "-id": "JORF",
@@ -949,7 +949,7 @@
               }
             },
             {
-              "-id": "9561923170",
+              "-id": "9562927704",
               "-ft": "20210411223000",
               "-to": "20210411230000",
               "-ftl": "2230",
@@ -959,19 +959,37 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
+              "desc": "6人組ガールズバンド・Gacharic Spinのアンジェリーナ1/3が初パーソナリティを務めるラジオ番組。10代ならではのアンジェリーナ1/3の等身大ラジオに乞うご期待！</A><br>番組公式twitterアカウント：<A Href=\"https://twitter.com/Gachapin_info\" target=\"_blank\">@Gachapin_info</A>",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23GacharicSpin\">#GacharicSpin</a>」",
               "pfm": "アンジェリーナ１／３",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JORF/cda95b51-96cd-478b-8a13-0611f58b3967.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "#アンジェネ"
+                  },
+                  {
+                    "name": "#GacharicSpin"
+                  },
+                  {
+                    "name": "#ラジオ日本"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#jorf"
+                  "-value": "#GacharicSpin"
                 }
               }
             },
@@ -1117,7 +1135,7 @@
               }
             },
             {
-              "-id": "9562494848",
+              "-id": "9562927709",
               "-ft": "20210412003000",
               "-to": "20210412010000",
               "-ftl": "2430",
@@ -1152,6 +1170,16 @@
                     "name": "#ハロプロ研修生"
                   }
                 ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
               },
               "metas": {
                 "meta": {
