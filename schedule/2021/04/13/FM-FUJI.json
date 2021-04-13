@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1617819802",
+    "srvtime": "1618338127",
     "stations": {
       "station": {
         "-id": "FM-FUJI",
@@ -69,7 +69,7 @@
               }
             },
             {
-              "-id": "9562174518",
+              "-id": "9563128370",
               "-ft": "20210413070000",
               "-to": "20210413090000",
               "-ftl": "0700",
@@ -120,12 +120,12 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -136,7 +136,7 @@
               }
             },
             {
-              "-id": "9562174565",
+              "-id": "9563128375",
               "-ft": "20210413090000",
               "-to": "20210413120000",
               "-ftl": "0900",
@@ -187,12 +187,12 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -229,13 +229,13 @@
               }
             },
             {
-              "-id": "9562051498",
+              "-id": "9563068117",
               "-ft": "20210413130000",
-              "-to": "20210413160000",
+              "-to": "20210413155400",
               "-ftl": "1300",
-              "-tol": "1600",
-              "-dur": "10800",
-              "title": "Bumpy(13:00～16:00)",
+              "-tol": "1554",
+              "-dur": "10440",
+              "title": "Bumpy(13:00～15:54)",
               "url": "http://fmftp.lekumo.biz/bumpy/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -244,14 +244,39 @@
               "info": "<a href=\"http://www.fmfuji.jp/mail.php?cd=510\" title=\"Bumpy\" target=\"_blank\">bumpy@fmfuji.jp</a><br />twitterアカウントは「<a href=\"http://twitter.com/jocvfm\">@jocvfm</a>」",
               "pfm": "上野智子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/901e2816-6d3b-4ae0-add7-7ea94d9fafc4.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "from:jocvfm"
+                }
+              }
+            },
+            {
+              "-id": "9563074768",
+              "-ft": "20210413155400",
+              "-to": "20210413160000",
+              "-ftl": "1554",
+              "-tol": "1600",
+              "-dur": "360",
+              "title": "SOUND LEAF",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "twitterアカウントは「<a href=\"http://twitter.com/jocvfm\">@jocvfm</a>」",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/xxix6g6lmz.jpg",
+              "tag": {
+                "item": {
+                  "name": "邦楽"
+                }
+              },
               "genre": {
                 "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -262,7 +287,7 @@
               }
             },
             {
-              "-id": "9562051859",
+              "-id": "9563128385",
               "-ft": "20210413160000",
               "-to": "20210413185000",
               "-ftl": "1600",
@@ -277,6 +302,34 @@
               "info": "<a href=\"http://www.fmfuji.jp/mail.php?cd=510\" title=\"Bumpy\" target=\"_blank\">bumpy@fmfuji.jp</a><br />twitterアカウントは「<a href=\"http://twitter.com/jocvfm\">@jocvfm</a>」",
               "pfm": "上野智子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/901e2816-6d3b-4ae0-add7-7ea94d9fafc4.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "LA"
+                  },
+                  {
+                    "name": "ファッショントレンド"
+                  },
+                  {
+                    "name": "80’s"
+                  },
+                  {
+                    "name": "ばんぴーのとも"
+                  },
+                  {
+                    "name": "上野智子"
+                  },
+                  {
+                    "name": "フィットネス"
+                  },
+                  {
+                    "name": "多摩"
+                  },
+                  {
+                    "name": "Youtuber"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -464,7 +517,7 @@
               }
             },
             {
-              "-id": "9562174874",
+              "-id": "9563068230",
               "-ft": "20210413210000",
               "-to": "20210413230000",
               "-ftl": "2100",
