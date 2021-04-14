@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1618338168",
+    "srvtime": "1618424586",
     "stations": {
       "station": {
         "-id": "FMNIIGATA",
@@ -10,7 +10,7 @@
           "date": "20210418",
           "prog": [
             {
-              "-id": "9563051356",
+              "-id": "9563282748",
               "-ft": "20210418050000",
               "-to": "20210418060000",
               "-ftl": "0500",
@@ -28,6 +28,12 @@
                   "name": "劇場型オムニバス・ゲスト・トーク番組"
                 }
               },
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -36,7 +42,7 @@
               }
             },
             {
-              "-id": "9563051357",
+              "-id": "9563282765",
               "-ft": "20210418060000",
               "-to": "20210418065500",
               "-ftl": "0600",
@@ -55,6 +61,12 @@
                   "name": "箕輪行泰のよもやまトーク・プログラム"
                 }
               },
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -63,7 +75,7 @@
               }
             },
             {
-              "-id": "9563055358",
+              "-id": "9563282778",
               "-ft": "20210418065500",
               "-to": "20210418070000",
               "-ftl": "0655",
@@ -78,17 +90,13 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
               "tag": {
                 "item": {
-                  "name": "FM NIIGATA 今月のパワープレイ"
+                  "name": "FMーNIIGATA今月のパワープレイ"
                 }
               },
               "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -99,7 +107,7 @@
               }
             },
             {
-              "-id": "9563051359",
+              "-id": "9563282782",
               "-ft": "20210418070000",
               "-to": "20210418072500",
               "-ftl": "0700",
@@ -126,7 +134,7 @@
               }
             },
             {
-              "-id": "9563051360",
+              "-id": "9563282784",
               "-ft": "20210418072500",
               "-to": "20210418073000",
               "-ftl": "0725",
@@ -148,6 +156,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
                 }
               },
               "metas": {
@@ -158,7 +170,7 @@
               }
             },
             {
-              "-id": "9563051361",
+              "-id": "9563282787",
               "-ft": "20210418073000",
               "-to": "20210418080000",
               "-ftl": "0730",
@@ -176,6 +188,12 @@
                   "name": "仏法真理解説プログラム"
                 }
               },
+              "genre": {
+                "program": {
+                  "-id": "P016",
+                  "name": "宗教"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -184,7 +202,7 @@
               }
             },
             {
-              "-id": "9563051362",
+              "-id": "9563282796",
               "-ft": "20210418080000",
               "-to": "20210418085500",
               "-ftl": "0800",
@@ -207,6 +225,10 @@
                 "personality": {
                   "-id": "C007",
                   "name": "男性アイドル"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -217,7 +239,7 @@
               }
             },
             {
-              "-id": "9563082951",
+              "-id": "9563282801",
               "-ft": "20210418085500",
               "-to": "20210418090000",
               "-ftl": "0855",
@@ -231,13 +253,17 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
               "tag": {
                 "item": {
-                  "name": "FM NIIGATA ニュース"
+                  "name": "FM新潟ニュース"
                 }
               },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -248,7 +274,7 @@
               }
             },
             {
-              "-id": "9563051364",
+              "-id": "9563282805",
               "-ft": "20210418090000",
               "-to": "20210418093000",
               "-ftl": "0900",
@@ -275,7 +301,7 @@
               }
             },
             {
-              "-id": "9563051365",
+              "-id": "9563282813",
               "-ft": "20210418093000",
               "-to": "20210418095500",
               "-ftl": "0930",
@@ -298,6 +324,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -308,7 +338,7 @@
               }
             },
             {
-              "-id": "9563055387",
+              "-id": "9563282814",
               "-ft": "20210418095500",
               "-to": "20210418100000",
               "-ftl": "0955",
@@ -322,7 +352,7 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
               "tag": {
                 "item": {
-                  "name": "FM NIIGATA 今月のパワープレイ"
+                  "name": "FMインフォメーション"
                 }
               },
               "genre": {
@@ -343,7 +373,7 @@
               }
             },
             {
-              "-id": "9563051367",
+              "-id": "9563282818",
               "-ft": "20210418100000",
               "-to": "20210418103000",
               "-ftl": "1000",
@@ -366,6 +396,10 @@
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                },
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
                 }
               },
               "metas": {
@@ -376,7 +410,7 @@
               }
             },
             {
-              "-id": "9563051368",
+              "-id": "9563282823",
               "-ft": "20210418103000",
               "-to": "20210418105500",
               "-ftl": "1030",
@@ -399,6 +433,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -409,14 +447,13 @@
               }
             },
             {
-              "-id": "9563055397",
+              "-id": "9563226261",
               "-ft": "20210418105500",
               "-to": "20210418110000",
               "-ftl": "1055",
               "-tol": "1100",
               "-dur": "300",
-              "title": "Power Play",
-              "url": "http://www.fmniigata.com/user/p_p_list/",
+              "title": "FMインフォメーション",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -424,17 +461,7 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
               "tag": {
                 "item": {
-                  "name": "FM NIIGATA 今月のパワープレイ"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "name": "FMインフォメーション"
                 }
               },
               "metas": {
@@ -445,7 +472,7 @@
               }
             },
             {
-              "-id": "9563051370",
+              "-id": "9563282830",
               "-ft": "20210418110000",
               "-to": "20210418113000",
               "-ftl": "1100",
@@ -472,7 +499,7 @@
               }
             },
             {
-              "-id": "9563051371",
+              "-id": "9563282836",
               "-ft": "20210418113000",
               "-to": "20210418115500",
               "-ftl": "1130",
@@ -495,6 +522,10 @@
                 "personality": {
                   "-id": "C007",
                   "name": "男性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -505,7 +536,7 @@
               }
             },
             {
-              "-id": "9563082985",
+              "-id": "9563282840",
               "-ft": "20210418115500",
               "-to": "20210418120000",
               "-ftl": "1155",
@@ -519,13 +550,17 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
               "tag": {
                 "item": {
-                  "name": "FM NIIGATA ニュース"
+                  "name": "FM新潟ニュース"
                 }
               },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -536,7 +571,7 @@
               }
             },
             {
-              "-id": "9563051373",
+              "-id": "9563282846",
               "-ft": "20210418120000",
               "-to": "20210418122500",
               "-ftl": "1200",
@@ -562,7 +597,7 @@
               }
             },
             {
-              "-id": "9563051374",
+              "-id": "9563282850",
               "-ft": "20210418122500",
               "-to": "20210418123000",
               "-ftl": "1225",
@@ -579,6 +614,12 @@
                   "name": "健康ミニ情報プログラム"
                 }
               },
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -587,7 +628,7 @@
               }
             },
             {
-              "-id": "9563051375",
+              "-id": "9563282853",
               "-ft": "20210418123000",
               "-to": "20210418125500",
               "-ftl": "1230",
@@ -613,7 +654,7 @@
               }
             },
             {
-              "-id": "9563055420",
+              "-id": "9563282855",
               "-ft": "20210418125500",
               "-to": "20210418130000",
               "-ftl": "1255",
@@ -628,7 +669,65 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
               "tag": {
                 "item": {
-                  "name": "FM NIIGATA 今月のパワープレイ"
+                  "name": "FMーNIIGATA今月のパワープレイ"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9563282859",
+              "-ft": "20210418130000",
+              "-to": "20210418135500",
+              "-ftl": "1300",
+              "-tol": "1355",
+              "-dur": "3300",
+              "title": "Monthly Artist File ～ The Voice ～",
+              "url": "https://www.tfm.co.jp/maf/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><br /><br /></div>",
+              "pfm": "YUKI",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/207e09e0-6205-4973-a909-0576a4ea5cba.jpeg",
+              "tag": {
+                "item": {
+                  "name": "マンスリー・ワンアーティストの音楽トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9563282865",
+              "-ft": "20210418135500",
+              "-to": "20210418140000",
+              "-ftl": "1355",
+              "-tol": "1400",
+              "-dur": "300",
+              "title": "WEATHER Report",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
+              "tag": {
+                "item": {
+                  "name": "ウエザーリポート"
                 }
               },
               "genre": {
@@ -649,65 +748,7 @@
               }
             },
             {
-              "-id": "9563051377",
-              "-ft": "20210418130000",
-              "-to": "20210418135500",
-              "-ftl": "1300",
-              "-tol": "1355",
-              "-dur": "3300",
-              "title": "Monthly Artist File ～ The Voice ～",
-              "url": "https://www.tfm.co.jp/maf/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /><br /></div>",
-              "pfm": "ａｉｋｏ",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/5f32a8e5-f691-4382-9746-3af6c3d433cd.jpeg",
-              "tag": {
-                "item": {
-                  "name": "マンスリー・ワンアーティストの音楽トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9563083005",
-              "-ft": "20210418135500",
-              "-to": "20210418140000",
-              "-ftl": "1355",
-              "-tol": "1400",
-              "-dur": "300",
-              "title": "WEATHER Report",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
-              "tag": {
-                "item": {
-                  "name": "FM NIIGATA ニュース"
-                }
-              },
-              "genre": {
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9563051383",
+              "-id": "9563282866",
               "-ft": "20210418140000",
               "-to": "20210418145500",
               "-ftl": "1400",
@@ -730,6 +771,10 @@
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -740,7 +785,7 @@
               }
             },
             {
-              "-id": "9563055431",
+              "-id": "9563282869",
               "-ft": "20210418145500",
               "-to": "20210418150000",
               "-ftl": "1455",
@@ -755,7 +800,103 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
               "tag": {
                 "item": {
-                  "name": "FM NIIGATA 今月のパワープレイ"
+                  "name": "FMーNIIGATA今月のパワープレイ"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9563282873",
+              "-ft": "20210418150000",
+              "-to": "20210418155000",
+              "-ftl": "1500",
+              "-tol": "1550",
+              "-dur": "3000",
+              "title": "SUNDAY'S POST",
+              "url": "https://www.tfm.co.jp/post/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><br /><br /></div>",
+              "pfm": "小山薫堂  宇賀なつみ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/012f5c80-f5a9-4078-a9e1-41899264451c.jpeg",
+              "tag": {
+                "item": {
+                  "name": "小山薫堂・宇賀なつみのゲストトーク"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9563226280",
+              "-ft": "20210418155000",
+              "-to": "20210418155500",
+              "-ftl": "1550",
+              "-tol": "1555",
+              "-dur": "300",
+              "title": "ｷﾘﾝ一番搾り 全国ﾊﾟｰｿﾅﾘﾃｨ ｢ これが私の一番おいしい！｣ﾘﾚｰ",
+              "url": "https://www.tfm.co.jp/relay/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><br /><br /></div>",
+              "pfm": "浜崎美保",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/2d12f69b-f92b-4f7d-9f3e-75654e776d6d.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9563282881",
+              "-ft": "20210418155500",
+              "-to": "20210418160000",
+              "-ftl": "1555",
+              "-tol": "1600",
+              "-dur": "300",
+              "title": "FM NIIGATA NEWS",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
+              "tag": {
+                "item": {
+                  "name": "FM新潟ニュース"
                 }
               },
               "genre": {
@@ -776,93 +917,7 @@
               }
             },
             {
-              "-id": "9563051385",
-              "-ft": "20210418150000",
-              "-to": "20210418155000",
-              "-ftl": "1500",
-              "-tol": "1550",
-              "-dur": "3000",
-              "title": "SUNDAY'S POST",
-              "url": "https://www.tfm.co.jp/post/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /><br /></div>",
-              "pfm": "小山薫堂  宇賀なつみ",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/012f5c80-f5a9-4078-a9e1-41899264451c.jpeg",
-              "tag": {
-                "item": {
-                  "name": "小山薫堂・宇賀なつみのゲストトーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9563051386",
-              "-ft": "20210418155000",
-              "-to": "20210418155500",
-              "-ftl": "1550",
-              "-tol": "1555",
-              "-dur": "300",
-              "title": "ｷﾘﾝ一番搾り 全国ﾊﾟｰｿﾅﾘﾃｨ ｢ これが私の一番おいしい！｣ﾘﾚｰ",
-              "url": "https://www.tfm.co.jp/relay/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /><br /></div>",
-              "pfm": "浜崎美保",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/2d12f69b-f92b-4f7d-9f3e-75654e776d6d.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9563083019",
-              "-ft": "20210418155500",
-              "-to": "20210418160000",
-              "-ftl": "1555",
-              "-tol": "1600",
-              "-dur": "300",
-              "title": "FM NIIGATA NEWS",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
-              "tag": {
-                "item": {
-                  "name": "FM NIIGATA ニュース"
-                }
-              },
-              "genre": {
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9563051388",
+              "-id": "9563282887",
               "-ft": "20210418160000",
               "-to": "20210418165500",
               "-ftl": "1600",
@@ -885,6 +940,10 @@
                 "personality": {
                   "-id": "C008",
                   "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -895,7 +954,7 @@
               }
             },
             {
-              "-id": "9563083030",
+              "-id": "9563282893",
               "-ft": "20210418165500",
               "-to": "20210418170000",
               "-ftl": "1655",
@@ -909,13 +968,17 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
               "tag": {
                 "item": {
-                  "name": "FM NIIGATA ニュース"
+                  "name": "トラッフィックアンドウェザー"
                 }
               },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -926,7 +989,7 @@
               }
             },
             {
-              "-id": "9563051390",
+              "-id": "9563282898",
               "-ft": "20210418170000",
               "-to": "20210418175500",
               "-ftl": "1700",
@@ -949,6 +1012,10 @@
                 "personality": {
                   "-id": "C002",
                   "name": "俳優"
+                },
+                "program": {
+                  "-id": "P004",
+                  "name": "ドラマ"
                 }
               },
               "metas": {
@@ -959,7 +1026,7 @@
               }
             },
             {
-              "-id": "9563055466",
+              "-id": "9563282909",
               "-ft": "20210418175500",
               "-to": "20210418180000",
               "-ftl": "1755",
@@ -974,7 +1041,104 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
               "tag": {
                 "item": {
-                  "name": "FM NIIGATA 今月のパワープレイ"
+                  "name": "FMーNIIGATA今月のパワープレイ"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9563282915",
+              "-ft": "20210418180000",
+              "-to": "20210418183000",
+              "-ftl": "1800",
+              "-tol": "1830",
+              "-dur": "1800",
+              "title": "難波章浩の今夜もCLOSE TO ME",
+              "url": "http://www.fmniigata.com/user/prog/prog_id/111",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<a href=\"http://www.fmniigata.com/user/prog/prog_id/111\"><img src=\"https://www.fmniigata.com/photo/111_prog_top_1498445208.jpg\"width=\"550\"height=\"115\"alt=\"難波章浩の今夜もCLOSE TO ME\" /></a><br /><br />パーソナリティー：難波章浩  <br />難波章浩（from Hi-STANDARD）による音楽情報番組！<br />その瞬間でしか体験できない難波章浩の<br />熱いメッセージを見逃すな！<br /><br />リクエスト、メッセージお待ちしてます！<br />【<a href=\"https://www.fmniigata.com/user/req/req_id/12236/prog_id/111\">リクエスト、メッセージはこちら</a>】<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fm775\">#fm775</a>」<br />facebookページは<a href=\"http://www.facebook.com/pages/FM-NIIGATA/240978102610951\">こちら</a>",
+              "pfm": "難波章浩",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/901fa537-5f77-4d25-8344-4a3b448968f1.jpeg",
+              "tag": {
+                "item": {
+                  "name": "難波章浩の音楽トーク"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#fm775"
+                }
+              }
+            },
+            {
+              "-id": "9563282924",
+              "-ft": "20210418183000",
+              "-to": "20210418185500",
+              "-ftl": "1830",
+              "-tol": "1855",
+              "-dur": "1500",
+              "title": "VIP Group Presents Mika's Pretty Thing",
+              "url": "https://www.fmniigata.com/user/prog/prog_id/286/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><br /><br /></div>",
+              "pfm": "Mika Walker",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
+              "tag": {
+                "item": {
+                  "name": "Mika Walkerのフリートーク"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9563282926",
+              "-ft": "20210418185500",
+              "-to": "20210418190000",
+              "-ftl": "1855",
+              "-tol": "1900",
+              "-dur": "300",
+              "title": "FM NIIGATA NEWS",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
+              "tag": {
+                "item": {
+                  "name": "FM新潟ニュース"
                 }
               },
               "genre": {
@@ -995,92 +1159,7 @@
               }
             },
             {
-              "-id": "9563051392",
-              "-ft": "20210418180000",
-              "-to": "20210418183000",
-              "-ftl": "1800",
-              "-tol": "1830",
-              "-dur": "1800",
-              "title": "難波章浩の今夜もCLOSE TO ME",
-              "url": "http://www.fmniigata.com/user/prog/prog_id/111",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<a href=\"http://www.fmniigata.com/user/prog/prog_id/111\"><img src=\"https://www.fmniigata.com/photo/111_prog_top_1498445208.jpg\"width=\"550\"height=\"115\"alt=\"難波章浩の今夜もCLOSE TO ME\" /></a><br /><br />パーソナリティー：難波章浩  <br />難波章浩（from Hi-STANDARD）による音楽情報番組！<br />その瞬間でしか体験できない難波章浩の<br />熱いメッセージを見逃すな！<br /><br />リクエスト、メッセージお待ちしてます！<br />【<a href=\"https://www.fmniigata.com/user/req/req_id/12236/prog_id/111\">リクエスト、メッセージはこちら</a>】<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fm775\">#fm775</a>」<br />facebookページは<a href=\"http://www.facebook.com/pages/FM-NIIGATA/240978102610951\">こちら</a>",
-              "pfm": "難波章浩",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/901fa537-5f77-4d25-8344-4a3b448968f1.jpeg",
-              "tag": {
-                "item": {
-                  "name": "難波章浩の音楽トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#fm775"
-                }
-              }
-            },
-            {
-              "-id": "9563051393",
-              "-ft": "20210418183000",
-              "-to": "20210418185500",
-              "-ftl": "1830",
-              "-tol": "1855",
-              "-dur": "1500",
-              "title": "VIP Group Presents Mika's Pretty Thing",
-              "url": "https://www.fmniigata.com/user/prog/prog_id/286/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /><br /></div>",
-              "pfm": "Mika Walker",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
-              "tag": {
-                "item": {
-                  "name": "Mika Walkerのフリートーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9563083059",
-              "-ft": "20210418185500",
-              "-to": "20210418190000",
-              "-ftl": "1855",
-              "-tol": "1900",
-              "-dur": "300",
-              "title": "FM NIIGATA NEWS",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
-              "tag": {
-                "item": {
-                  "name": "FM NIIGATA ニュース"
-                }
-              },
-              "genre": {
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9563051396",
+              "-id": "9563226289",
               "-ft": "20210418190000",
               "-to": "20210418195500",
               "-ftl": "1900",
@@ -1102,7 +1181,7 @@
               }
             },
             {
-              "-id": "9563055490",
+              "-id": "9563282937",
               "-ft": "20210418195500",
               "-to": "20210418200000",
               "-ftl": "1955",
@@ -1117,17 +1196,13 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
               "tag": {
                 "item": {
-                  "name": "FM NIIGATA 今月のパワープレイ"
+                  "name": "FMーNIIGATA今月のパワープレイ"
                 }
               },
               "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1138,7 +1213,7 @@
               }
             },
             {
-              "-id": "9563051400",
+              "-id": "9563282941",
               "-ft": "20210418200000",
               "-to": "20210418205500",
               "-ftl": "2000",
@@ -1160,6 +1235,10 @@
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -1170,7 +1249,7 @@
               }
             },
             {
-              "-id": "9563055498",
+              "-id": "9563282946",
               "-ft": "20210418205500",
               "-to": "20210418210000",
               "-ftl": "2055",
@@ -1185,17 +1264,13 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
               "tag": {
                 "item": {
-                  "name": "FM NIIGATA 今月のパワープレイ"
+                  "name": "FMーNIIGATA今月のパワープレイ"
                 }
               },
               "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1206,7 +1281,7 @@
               }
             },
             {
-              "-id": "9563051406",
+              "-id": "9563282953",
               "-ft": "20210418210000",
               "-to": "20210418215500",
               "-ftl": "2100",
@@ -1228,6 +1303,10 @@
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -1238,7 +1317,7 @@
               }
             },
             {
-              "-id": "9563055512",
+              "-id": "9563282962",
               "-ft": "20210418215500",
               "-to": "20210418220000",
               "-ftl": "2155",
@@ -1253,17 +1332,13 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
               "tag": {
                 "item": {
-                  "name": "FM NIIGATA 今月のパワープレイ"
+                  "name": "FMーNIIGATA今月のパワープレイ"
                 }
               },
               "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1274,7 +1349,7 @@
               }
             },
             {
-              "-id": "9563051408",
+              "-id": "9563282968",
               "-ft": "20210418220000",
               "-to": "20210418225500",
               "-ftl": "2200",
@@ -1297,6 +1372,10 @@
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1307,7 +1386,7 @@
               }
             },
             {
-              "-id": "9563055524",
+              "-id": "9563282975",
               "-ft": "20210418225500",
               "-to": "20210418230000",
               "-ftl": "2255",
@@ -1322,17 +1401,13 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
               "tag": {
                 "item": {
-                  "name": "FM NIIGATA 今月のパワープレイ"
+                  "name": "FMーNIIGATA今月のパワープレイ"
                 }
               },
               "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1343,7 +1418,7 @@
               }
             },
             {
-              "-id": "9563051410",
+              "-id": "9563226307",
               "-ft": "20210418230000",
               "-to": "20210418233000",
               "-ftl": "2300",
@@ -1361,6 +1436,10 @@
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                },
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
                 }
               },
               "metas": {
@@ -1371,7 +1450,7 @@
               }
             },
             {
-              "-id": "9563051412",
+              "-id": "9563282987",
               "-ft": "20210418233000",
               "-to": "20210418235500",
               "-ftl": "2330",
@@ -1397,7 +1476,7 @@
               }
             },
             {
-              "-id": "9563055538",
+              "-id": "9563282990",
               "-ft": "20210418235500",
               "-to": "20210419000000",
               "-ftl": "2355",
@@ -1412,17 +1491,13 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
               "tag": {
                 "item": {
-                  "name": "FM NIIGATA 今月のパワープレイ"
+                  "name": "FMーNIIGATA今月のパワープレイ"
                 }
               },
               "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1433,7 +1508,7 @@
               }
             },
             {
-              "-id": "9563051414",
+              "-id": "9563226310",
               "-ft": "20210419000000",
               "-to": "20210419003000",
               "-ftl": "2400",
@@ -1446,6 +1521,12 @@
               "ts_out_ng": "0",
               "info": "<a href=\"http://www.fmniigata.com/user/prog/prog_id/26\"><br /><img src=\"http://www.fmniigata.com/thumb/phpThumb.php?src=/photo/26_prog_top_1190969050.jpg&w=380&q=100\" alt=\"週刊アコギ倶楽部\" /></a><br /><br />パーソナリティー:ＷＡＫＡ  <br />１９６０～８０年代のアコースティックギターを<br />中心とした音楽を前面に出し、曲を聞きながら、<br />その曲の時代を語ります。<br /><br />リクエスト、メッセージお待ちしてます！<br />【<a href=\"https://www.fmniigata.com/user/req/req_id/48/prog_id/26\">リクエスト、メッセージはこちら</a>】<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fm775\">#fm775</a>」<br />facebookページは<a href=\"http://www.facebook.com/pages/FM-NIIGATA/240978102610951\">こちら</a>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1454,7 +1535,7 @@
               }
             },
             {
-              "-id": "9563051415",
+              "-id": "9563283002",
               "-ft": "20210419003000",
               "-to": "20210419005500",
               "-ftl": "2430",
@@ -1480,7 +1561,7 @@
               }
             },
             {
-              "-id": "9563055551",
+              "-id": "9563283004",
               "-ft": "20210419005500",
               "-to": "20210419010000",
               "-ftl": "2455",
@@ -1495,17 +1576,13 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
               "tag": {
                 "item": {
-                  "name": "FM NIIGATA 今月のパワープレイ"
+                  "name": "FMーNIIGATA今月のパワープレイ"
                 }
               },
               "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1516,7 +1593,7 @@
               }
             },
             {
-              "-id": "9563051417",
+              "-id": "9563226313",
               "-ft": "20210419010000",
               "-to": "20210419013000",
               "-ftl": "2500",
@@ -1530,6 +1607,12 @@
               "info": "<div class=\"station_content_description \"><br /><br /></div>",
               "pfm": "山中千尋",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1538,7 +1621,7 @@
               }
             },
             {
-              "-id": "9563051418",
+              "-id": "9563226314",
               "-ft": "20210419013000",
               "-to": "20210419040000",
               "-ftl": "2530",
@@ -1558,7 +1641,7 @@
               }
             },
             {
-              "-id": "9563051419",
+              "-id": "9563283024",
               "-ft": "20210419040000",
               "-to": "20210419045500",
               "-ftl": "2800",
@@ -1570,7 +1653,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /><br />「ロック」「GS」「フォーク」<br />「ニューミュージック」「J-POP」…日本の音楽が生きてきた<br />激動の時代に、キャリアを重ねながらも常に現役で生き、<br />様々な音楽を生み出してきた、伝説のアーティストたちが登場！<br /><br /></div>",
-              "pfm": "甲斐よしひろ 森山良子 岩崎宏美 宇崎竜堂",
+              "pfm": "岩崎宏美",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
               "tag": {
                 "item": {
@@ -1581,6 +1664,10 @@
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1591,7 +1678,7 @@
               }
             },
             {
-              "-id": "9563055574",
+              "-id": "9563283028",
               "-ft": "20210419045500",
               "-to": "20210419050000",
               "-ftl": "2855",
@@ -1606,17 +1693,13 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/su0t64aeyq.jpg",
               "tag": {
                 "item": {
-                  "name": "FM NIIGATA 今月のパワープレイ"
+                  "name": "FMーNIIGATA今月のパワープレイ"
                 }
               },
               "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
