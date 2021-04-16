@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1618510922",
+    "srvtime": "1618597367",
     "stations": {
       "station": {
         "-id": "K-MIX",
@@ -540,12 +540,12 @@
               }
             },
             {
-              "-id": "9563210212",
+              "-id": "9563426238",
               "-ft": "20210421203000",
-              "-to": "20210421210000",
+              "-to": "20210421205500",
               "-ftl": "2030",
-              "-tol": "2100",
-              "-dur": "1800",
+              "-tol": "2055",
+              "-dur": "1500",
               "title": "しずおか 星空案内室",
               "url": "https://www.k-mix.co.jp/program-shizuoka-star",
               "failed_record": "0",
@@ -558,6 +558,31 @@
                 "program": {
                   "-id": "P015",
                   "name": "教養"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9563436362",
+              "-ft": "20210421205500",
+              "-to": "20210421210000",
+              "-ftl": "2055",
+              "-tol": "2100",
+              "-dur": "300",
+              "title": "NEWS",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/K-MIX/tsx9ic4sys.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
