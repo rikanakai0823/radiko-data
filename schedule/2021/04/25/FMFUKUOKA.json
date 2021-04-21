@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1618856573",
+    "srvtime": "1619029338",
     "stations": {
       "station": {
         "-id": "FMFUKUOKA",
@@ -154,7 +154,7 @@
               }
             },
             {
-              "-id": "9563722314",
+              "-id": "9564105289",
               "-ft": "20210425063000",
               "-to": "20210425065500",
               "-ftl": "0630",
@@ -465,7 +465,7 @@
               }
             },
             {
-              "-id": "9563720713",
+              "-id": "9564105353",
               "-ft": "20210425100000",
               "-to": "20210425103000",
               "-ftl": "1000",
@@ -943,7 +943,7 @@
               }
             },
             {
-              "-id": "9563728014",
+              "-id": "9564163358",
               "-ft": "20210425155000",
               "-to": "20210425155500",
               "-ftl": "1550",
@@ -954,7 +954,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/2544_d2eee82f_sq.jpg\" height=\"60\" width=\"60\" alt=\"浜崎美保\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/relay/\">https://www.tfm.co.jp/relay/</a><br /> <br /> twitterアカウントは「<a href=\"http://twitter.com/oishii5959\">@oishii5959</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/2544_d2eee82f_sq.jpg\" height=\"60\" width=\"60\" alt=\"浜崎美保\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/relay/\">https://www.tfm.co.jp/relay/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%93%E3%82%8C%E3%81%8C%E7%A7%81%E3%81%AE%E4%B8%80%E7%95%AA%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%E3%83%AA%E3%83%AC%E3%83%BC\">#これが私の一番おいしいリレー</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/oishii5959\">@oishii5959</a>」<br /><br /></div>",
               "pfm": "浜崎美保",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUOKA/puup9qykcp.jpg",
               "genre": {
@@ -968,10 +968,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "from:oishii5959"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#これが私の一番おいしいリレー"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:oishii5959"
+                  }
+                ]
               }
             },
             {
@@ -1340,21 +1346,21 @@
               }
             },
             {
-              "-id": "9563696567",
+              "-id": "9564133080",
               "-ft": "20210425195500",
               "-to": "20210425200000",
               "-ftl": "1955",
               "-tol": "2000",
               "-dur": "300",
-              "title": "POWER PLAY",
+              "title": "D U know?",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\tFM FUKUOKAのイチオシの邦楽・洋楽アーティストをご紹介！ <br /><br /><br /></div>",
+              "info": "<div class=\"station_content_description \">\tFM FUKUOKAがおススメする情報をご紹介！ <br /><br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUOKA/e3812451-92ec-4044-a05a-42eea423710c.jpeg",
               "tag": {
                 "item": {
-                  "name": "パワープレー"
+                  "name": "情報番組"
                 }
               },
               "genre": {
@@ -1363,8 +1369,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1618942960",
+    "srvtime": "1619029342",
     "stations": {
       "station": {
         "-id": "FM-OKAYAMA",
@@ -218,7 +218,7 @@
               }
             },
             {
-              "-id": "9563726845",
+              "-id": "9564105310",
               "-ft": "20210425080000",
               "-to": "20210425083000",
               "-ftl": "0800",
@@ -250,7 +250,7 @@
               }
             },
             {
-              "-id": "9563972075",
+              "-id": "9564105323",
               "-ft": "20210425083000",
               "-to": "20210425085500",
               "-ftl": "0830",
@@ -361,7 +361,7 @@
               }
             },
             {
-              "-id": "9563714854",
+              "-id": "9564105340",
               "-ft": "20210425091500",
               "-to": "20210425093000",
               "-ftl": "0915",
@@ -464,7 +464,7 @@
               }
             },
             {
-              "-id": "9563972136",
+              "-id": "9564105379",
               "-ft": "20210425100000",
               "-to": "20210425103000",
               "-ftl": "1000",
@@ -743,7 +743,7 @@
               }
             },
             {
-              "-id": "9564029878",
+              "-id": "9564065371",
               "-ft": "20210425125500",
               "-to": "20210425130000",
               "-ftl": "1255",
@@ -755,6 +755,32 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/963d8793-7aef-47d2-86be-0823387a9abd.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ニュース"
+                  },
+                  {
+                    "name": "交通"
+                  },
+                  {
+                    "name": "天気"
+                  },
+                  {
+                    "name": "地域の情報"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -946,7 +972,7 @@
               }
             },
             {
-              "-id": "9563728041",
+              "-id": "9564163752",
               "-ft": "20210425155000",
               "-to": "20210425155500",
               "-ftl": "1550",
@@ -957,7 +983,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/2544_d2eee82f_sq.jpg\" height=\"60\" width=\"60\" alt=\"浜崎美保\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/relay/\">https://www.tfm.co.jp/relay/</a><br /> <br /> twitterアカウントは「<a href=\"http://twitter.com/oishii5959\">@oishii5959</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/2544_d2eee82f_sq.jpg\" height=\"60\" width=\"60\" alt=\"浜崎美保\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/relay/\">https://www.tfm.co.jp/relay/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%93%E3%82%8C%E3%81%8C%E7%A7%81%E3%81%AE%E4%B8%80%E7%95%AA%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%E3%83%AA%E3%83%AC%E3%83%BC\">#これが私の一番おいしいリレー</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/oishii5959\">@oishii5959</a>」<br /><br /></div>",
               "pfm": "浜崎美保",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/8p0z3r3q8a.jpg",
               "genre": {
@@ -971,10 +997,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "from:oishii5959"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#これが私の一番おいしいリレー"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:oishii5959"
+                  }
+                ]
               }
             },
             {
@@ -1312,7 +1344,7 @@
               }
             },
             {
-              "-id": "9564033299",
+              "-id": "9564114940",
               "-ft": "20210425190000",
               "-to": "20210425195500",
               "-ftl": "1900",
