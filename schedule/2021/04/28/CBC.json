@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1619202151",
+    "srvtime": "1619288652",
     "stations": {
       "station": {
         "-id": "CBC",
@@ -70,7 +70,7 @@
               }
             },
             {
-              "-id": "9564358339",
+              "-id": "9564514211",
               "-ft": "20210428053000",
               "-to": "20210428063000",
               "-ftl": "0530",
@@ -85,6 +85,16 @@
               "info": "ニュース、スポーツ、健康、シニアライフ、介護などをキーワードにわかりやすく、お伝えしていきます。",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/n9i7kubnjx.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -626,7 +636,7 @@
               }
             },
             {
-              "-id": "9564358367",
+              "-id": "9564523300",
               "-ft": "20210429010000",
               "-to": "20210429030000",
               "-ftl": "2500",
@@ -640,6 +650,12 @@
               "desc": "今夜は乃木坂46のオールナイトニッポン！",
               "pfm": "乃木坂46",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/f3c1677e-5582-48eb-bf5f-396d8a0fa443.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
