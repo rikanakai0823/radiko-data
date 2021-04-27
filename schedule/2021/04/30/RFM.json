@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1619461323",
+    "srvtime": "1619547723",
     "stations": {
       "station": {
         "-id": "RFM",
@@ -434,27 +434,33 @@
               }
             },
             {
-              "-id": "9564303932",
+              "-id": "9564975706",
               "-ft": "20210430105500",
               "-to": "20210430110000",
               "-ftl": "1055",
               "-tol": "1100",
               "-dur": "300",
-              "title": "JFNラジオショッピング",
+              "title": "Music Remark",
+              "url": "http://www.jfn.jp/remark",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFM/bd383171-e46c-4fd1-8751-6bb05e463600.jpeg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/person/1515_2397c8c0_sq.jpg\" height=\"60\" width=\"60\" alt=\"池山文\"></td>  </tr></table><br /><br />\t今の話題曲、注目曲を解説（Ｒｅｍａｒｋ）する、この番組でチェック!!<br /><br />「向井太一」のニューアルバム『COLORLESS』 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/remark\">http://www.jfn.jp/remark</a><br /><br /></div>",
+              "pfm": "池山文",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFM/yissjxwykh.jpg",
               "tag": {
                 "item": {
-                  "name": "ラジオショッピング"
+                  "name": "Music Remark"
                 }
               },
               "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1606,7 +1612,7 @@
               }
             },
             {
-              "-id": "9564834496",
+              "-id": "9564860997",
               "-ft": "20210430210000",
               "-to": "20210430215500",
               "-ftl": "2100",
@@ -1793,7 +1799,7 @@
               }
             },
             {
-              "-id": "9564834501",
+              "-id": "9564861042",
               "-ft": "20210430225500",
               "-to": "20210430230000",
               "-ftl": "2255",
@@ -1876,7 +1882,7 @@
               }
             },
             {
-              "-id": "9564514356",
+              "-id": "9564911227",
               "-ft": "20210430235500",
               "-to": "20210501000000",
               "-ftl": "2355",
@@ -2003,7 +2009,7 @@
               }
             },
             {
-              "-id": "9564649902",
+              "-id": "9564911272",
               "-ft": "20210501010000",
               "-to": "20210501050000",
               "-ftl": "2500",
