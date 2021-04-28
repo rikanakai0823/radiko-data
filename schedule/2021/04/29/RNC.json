@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1619288663",
+    "srvtime": "1619634132",
     "stations": {
       "station": {
         "-id": "RNC",
@@ -41,7 +41,7 @@
               }
             },
             {
-              "-id": "9564514262",
+              "-id": "9565043916",
               "-ft": "20210429053000",
               "-to": "20210429063000",
               "-ftl": "0530",
@@ -599,7 +599,7 @@
               }
             },
             {
-              "-id": "9564519909",
+              "-id": "9565044113",
               "-ft": "20210429165000",
               "-to": "20210429170000",
               "-ftl": "1650",
@@ -630,7 +630,7 @@
               }
             },
             {
-              "-id": "9564249752",
+              "-id": "9565051152",
               "-ft": "20210429170000",
               "-to": "20210429171500",
               "-ftl": "1700",
@@ -694,17 +694,19 @@
               }
             },
             {
-              "-id": "9564593739",
+              "-id": "9565115242",
               "-ft": "20210429181500",
               "-to": "20210429190000",
               "-ftl": "1815",
               "-tol": "1900",
               "-dur": "2700",
               "title": "ナイタースペシャル　５５！！（ＧｏＧｏ）みんなのプロ野球",
+              "url": "http://www.1242.com/timetable_tt/index.php?target_date=20210429",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "パーソナリティはニッポン放送のスポーツアナウンサー、プロ野球情報満載でお送りします。",
+              "pfm": "里崎智也　清水久嗣（ニッポン放送）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RNC/ec94caa7-75cc-45d3-bba2-e24ed3b5fccf.jpeg",
               "genre": {
                 "personality": {
@@ -724,19 +726,20 @@
               }
             },
             {
-              "-id": "9564593740",
+              "-id": "9565115243",
               "-ft": "20210429190000",
               "-to": "20210429200000",
               "-ftl": "1900",
               "-tol": "2000",
               "-dur": "3600",
               "title": "ナイタースペシャル　日比谷音楽祭２０２１　ｏｎ　Ｒａｄｉｏ",
+              "url": "http://www.1242.com/timetable_tt/index.php?target_date=20210429",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "５月２９日に行われる日比谷音楽祭２０２１の魅力をナビゲートします。",
-              "pfm": "亀田誠治",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RNC/ec94caa7-75cc-45d3-bba2-e24ed3b5fccf.jpeg",
+              "info": "5月29日（土）30日（日）に緑あふれる日比谷公園で行われる「日比谷音楽祭2021」。今年はどんな「音」が楽しめるのか、日比谷音楽祭実行委員長の亀田誠治（音楽プロデューサー・ベーシスト）がその魅力について語りつくす1時間。イベント出演アーティストもゲストで登場予定！\n    \n\n\n",
+              "pfm": "亀田誠治　吉田尚記（ニッポン放送）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RNC/aed3c9e3-9f08-417d-b67c-8b3d190cc959.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -755,19 +758,20 @@
               }
             },
             {
-              "-id": "9564593741",
+              "-id": "9565115244",
               "-ft": "20210429200000",
               "-to": "20210429210000",
               "-ftl": "2000",
               "-tol": "2100",
               "-dur": "3600",
               "title": "ナイタースペシャル　エイトブリッジのちょっと聴いてミテッテ",
+              "url": "http://www.1242.com/timetable_tt/index.php?target_date=20210429",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "注目の若手芸人・エイトブリッジの二人がお笑い満載でお送りします。",
+              "info": "注目の若手芸人・エイトブリッジの二人がお笑い満載でお送りします。ミテッチメールアドレス： 8b@1242.com twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E8%81%B4%E3%81%84%E3%81%A6%E3%83%9F%E3%83%86%E3%83%83%E3%83%81\">#聴いてミテッチ</a>」twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」 facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
               "pfm": "エイトブリッジ（別府ともひこ　篠栗たかし）",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RNC/ec94caa7-75cc-45d3-bba2-e24ed3b5fccf.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RNC/9a7e7e2c-fdba-4c4f-86c9-43f7c1da0bcd.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C009",
@@ -779,10 +783,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#聴いてミテッチ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:1242_PR"
+                  }
+                ]
               }
             },
             {
