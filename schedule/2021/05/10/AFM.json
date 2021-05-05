@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1620152572",
+    "srvtime": "1620238982",
     "stations": {
       "station": {
         "-id": "AFM",
@@ -122,12 +122,12 @@
               }
             },
             {
-              "-id": "9565704802",
+              "-id": "9566005641",
               "-ft": "20210510073000",
-              "-to": "20210510080000",
+              "-to": "20210510075000",
               "-ftl": "0730",
-              "-tol": "0800",
-              "-dur": "1800",
+              "-tol": "0750",
+              "-dur": "1200",
               "title": "OH! HAPPY MORNING",
               "url": "http://www.jfn.jp/oh/",
               "failed_record": "0",
@@ -157,6 +157,47 @@
                     "-value": "from:hapimoni"
                   }
                 ]
+              }
+            },
+            {
+              "-id": "9566005642",
+              "-ft": "20210510075000",
+              "-to": "20210510075500",
+              "-ftl": "0750",
+              "-tol": "0755",
+              "-dur": "300",
+              "title": "ぐっとらっくん",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/PU/person/73_26f3ea1e_sq.jpg\" height=\"60\" width=\"60\" alt=\"真坂はづき\"></td>  </tr></table><br /><br /><br /></div>",
+              "pfm": "真坂はづき",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/AFM/y4cenfvv8m.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9566005643",
+              "-ft": "20210510075500",
+              "-to": "20210510080000",
+              "-ftl": "0755",
+              "-tol": "0800",
+              "-dur": "300",
+              "title": "AFMヘッドラインニュース",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/AFM/y4cenfvv8m.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
               }
             },
             {
@@ -404,7 +445,7 @@
               }
             },
             {
-              "-id": "9565711105",
+              "-id": "9565944323",
               "-ft": "20210510105500",
               "-to": "20210510110000",
               "-ftl": "1055",
@@ -530,7 +571,7 @@
               }
             },
             {
-              "-id": "9565815861",
+              "-id": "9565939430",
               "-ft": "20210510120000",
               "-to": "20210510125500",
               "-ftl": "1200",
@@ -562,7 +603,7 @@
               }
             },
             {
-              "-id": "9565817058",
+              "-id": "9565944348",
               "-ft": "20210510125500",
               "-to": "20210510130000",
               "-ftl": "1255",
@@ -1412,7 +1453,7 @@
               }
             },
             {
-              "-id": "9565764638",
+              "-id": "9565956455",
               "-ft": "20210511020000",
               "-to": "20210511030000",
               "-ftl": "2600",
@@ -1450,7 +1491,7 @@
               }
             },
             {
-              "-id": "9565764680",
+              "-id": "9565956489",
               "-ft": "20210511030000",
               "-to": "20210511040000",
               "-ftl": "2700",
