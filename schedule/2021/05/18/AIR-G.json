@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1620843754",
+    "srvtime": "1620930141",
     "stations": {
       "station": {
         "-id": "AIR-G",
@@ -1044,12 +1044,12 @@
               }
             },
             {
-              "-id": "9566730355",
+              "-id": "9566988732",
               "-ft": "20210518160000",
-              "-to": "20210518170000",
+              "-to": "20210518165500",
               "-ftl": "1600",
-              "-tol": "1700",
-              "-dur": "3600",
+              "-tol": "1655",
+              "-dur": "3300",
               "title": "LUV TRACKS",
               "url": "http://www.air-g.co.jp/LT/",
               "failed_record": "0",
@@ -1093,6 +1093,60 @@
                   {
                     "-name": "twitter",
                     "-value": "from:luv_tracks"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9566992233",
+              "-ft": "20210518165500",
+              "-to": "20210518170000",
+              "-ftl": "1655",
+              "-tol": "1700",
+              "-dur": "300",
+              "title": "FIGHTERS THE RADIO TIME.",
+              "url": "https://www.air-g.co.jp/f_radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/FU/person/7183_cc4aee11_sq.jpg\" height=\"60\" width=\"60\" alt=\"西川　賢\"></td>  </tr></table><br /><br />\tファイターズ2021シーズンの情報をお届けします！ <br /><br />\t番組Webサイト：<a href=\"https://www.air-g.co.jp/f_radio/\">https://www.air-g.co.jp/f_radio/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23air_g\">#air_g</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/AIRG_FM\">@AIRG_FM</a>」<br /><br /></div>",
+              "pfm": "西川　賢",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/AIR-G/cgdv688m0m.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ファイターズ"
+                  },
+                  {
+                    "name": "日本ハム"
+                  },
+                  {
+                    "name": "龍太"
+                  },
+                  {
+                    "name": "札幌ドーム"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#air_g"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:AIRG_FM"
                   }
                 ]
               }
