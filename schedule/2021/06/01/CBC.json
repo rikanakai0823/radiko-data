@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1622139814",
+    "srvtime": "1622485241",
     "stations": {
       "station": {
         "-id": "CBC",
@@ -54,7 +54,7 @@
               }
             },
             {
-              "-id": "9568778995",
+              "-id": "9569318541",
               "-ft": "20210601053000",
               "-to": "20210601063000",
               "-ftl": "0530",
@@ -296,12 +296,12 @@
               }
             },
             {
-              "-id": "9568662176",
+              "-id": "9569392164",
               "-ft": "20210601160000",
-              "-to": "20210601175300",
+              "-to": "20210601172600",
               "-ftl": "1600",
-              "-tol": "1753",
-              "-dur": "6780",
+              "-tol": "1726",
+              "-dur": "5160",
               "title": "ドラ魂キング",
               "url": "https://hicbc.com/radio/dradama-king/",
               "failed_record": "0",
@@ -310,6 +310,16 @@
               "info": "『超ド級、スポーツエンタ』をコンセプトにしたスポーツ・情報番組。\n<br />月曜は、ドラファンで音楽に精通した大谷ノブ彦が担当し、火曜～金曜は、個性豊かな４人のスポーツアナウンサーが、現場至上主義のスポーツ最新情報を取材秘話までお送りします。\n<br />ドラゴンズ応援番組ナンバーワンを目指します。\n\n\n<br /><br />番組ツイッターは<a href=\"https://twitter.com/DragonsCBC\"><u>こちら</u></a>\n<br />番組記事を読む→<a href='https://radichubu.jp/dradama-king/'><u>こちら</u></a>\n<br />番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=439'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
               "pfm": "高田寛之　加藤由香",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/ee72516e-6a0e-4d3d-972a-4c7cdb3c0dd8.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -318,17 +328,27 @@
               }
             },
             {
-              "-id": "9568662182",
-              "-ft": "20210601175300",
-              "-to": "20210601175700",
-              "-ftl": "1753",
-              "-tol": "1757",
+              "-id": "9569403415",
+              "-ft": "20210601172600",
+              "-to": "20210601173000",
+              "-ftl": "1726",
+              "-tol": "1730",
               "-dur": "240",
               "title": "ドラゴンズナイター最前線",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/ee9888c3-73ae-4a72-8bb3-adaf70f50137.png",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -337,12 +357,31 @@
               }
             },
             {
-              "-id": "9568785615",
-              "-ft": "20210601175700",
+              "-id": "9569403419",
+              "-ft": "20210601173000",
+              "-to": "20210601174400",
+              "-ftl": "1730",
+              "-tol": "1744",
+              "-dur": "840",
+              "title": "ネットワークトゥデイ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/eaa20984-6000-454a-9004-053e28ae3f9c.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9569403421",
+              "-ft": "20210601174400",
               "-to": "20210601200000",
-              "-ftl": "1757",
+              "-ftl": "1744",
               "-tol": "2000",
-              "-dur": "7380",
+              "-dur": "8160",
               "title": "CBCドラゴンズナイター　中日×ロッテ（バンテリン）",
               "url": "https://hicbc.com/radio/dra_nighter/",
               "failed_record": "0",
@@ -512,7 +551,7 @@
               }
             },
             {
-              "-id": "9568773625",
+              "-id": "9568919432",
               "-ft": "20210602010000",
               "-to": "20210602030000",
               "-ftl": "2500",
