@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1623176456",
+    "srvtime": "1623262789",
     "stations": {
       "station": {
         "-id": "MBS",
@@ -291,7 +291,7 @@
               }
             },
             {
-              "-id": "9570836735",
+              "-id": "9570887991",
               "-ft": "20210608175400",
               "-to": "20210608223000",
               "-ftl": "1754",
@@ -336,7 +336,7 @@
               }
             },
             {
-              "-id": "9570836773",
+              "-id": "9570903420",
               "-ft": "20210608223000",
               "-to": "20210608224000",
               "-ftl": "2230",
@@ -347,6 +347,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -355,7 +361,7 @@
               }
             },
             {
-              "-id": "9570836774",
+              "-id": "9570954632",
               "-ft": "20210608224000",
               "-to": "20210609001000",
               "-ftl": "2240",
@@ -369,6 +375,32 @@
               "desc": "メールアドレス：<a href=mailto:yaruka@mbs1179.com target=_blank>yaruka@mbs1179.com</a><br /><br /><br />◆アッパレやってまーす！火曜　番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/yaru/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/mbs_yaruka/ target=_blank>@mbs_yaruka</a>",
               "pfm": "くっきー!、アインシュタイン、内田雄馬、小栗有以（AKB48）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/8acfd085-d09c-455f-9017-f2d2da883b02.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "くっきー!"
+                  },
+                  {
+                    "name": "アインシュタイン"
+                  },
+                  {
+                    "name": "内田雄馬"
+                  },
+                  {
+                    "name": "小栗有以(AKB48)"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -377,7 +409,7 @@
               }
             },
             {
-              "-id": "9570836790",
+              "-id": "9570968687",
               "-ft": "20210609001000",
               "-to": "20210609004000",
               "-ftl": "2410",
@@ -391,6 +423,29 @@
               "desc": "メールアドレス：<a href=mailto:ebi@mbs1179.com target=_blank>ebi@mbs1179.com</a><br /><br /><br />◆エビ中☆なんやねん番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/ebi/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/ebi_nanyanen/ target=_blank>@ebi_nanyanen</a>",
               "pfm": "私立恵比寿中学、木本武宏（TKO）、オズワルド",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/61c99a06-7666-47bc-b925-126c38cabd49.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "私立恵比寿中学"
+                  },
+                  {
+                    "name": "木本武宏(TKO)"
+                  },
+                  {
+                    "name": "オズワルド"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -399,7 +454,7 @@
               }
             },
             {
-              "-id": "9570836791",
+              "-id": "9570955470",
               "-ft": "20210609004000",
               "-to": "20210609014000",
               "-ftl": "2440",
@@ -413,6 +468,26 @@
               "desc": "メールアドレス：<a href=mailto:hitka@mbs1179.com target=_blank>hitka@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/hitka/ target=_blank>こちらをクリック</a>",
               "pfm": "吉田照美、小池美波（櫻坂46）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/d22a0102-ff2a-4aa5-8e3f-71ce4be45cb1.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "吉田照美"
+                  },
+                  {
+                    "name": "小池美波"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -421,7 +496,7 @@
               }
             },
             {
-              "-id": "9570839912",
+              "-id": "9570955471",
               "-ft": "20210609014000",
               "-to": "20210609024000",
               "-ftl": "2540",
@@ -487,7 +562,7 @@
               }
             },
             {
-              "-id": "9570836799",
+              "-id": "9570947173",
               "-ft": "20210609024000",
               "-to": "20210609044000",
               "-ftl": "2640",
@@ -501,6 +576,11 @@
               "desc": "★★主なコーナー★★<br /><br />▽加納軍団VS村上軍団<br />▽今月のB面フェイクニュース<br />▽イルカも泳ぐわい<br />　お題：梅雨とかけまして、クイズ！ミリオネアとときます。そのこころは、どちらも洗濯(選択)に悩みます<br /><br /><br />メールアドレス：<a href=mailto:aa@mbs179.com target=_blank>aa@mbs179.com</a><br /><br /><br />◆Aマッソの両A面番組サイト◆<br />☆番組ホームページ：<a href=https://www.mbs1179.com/aa/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/amassoaa/ target=_blank>@amassoaa</a>",
               "pfm": "Aマッソ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/18c5f3cb-9931-421d-b685-3adea1adfeec.jpeg",
+              "tag": {
+                "item": {
+                  "name": "Aマッソ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
