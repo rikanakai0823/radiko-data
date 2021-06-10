@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1623262794",
+    "srvtime": "1623349204",
     "stations": {
       "station": {
         "-id": "MBS",
@@ -10,7 +10,7 @@
           "date": "20210609",
           "prog": [
             {
-              "-id": "9569701728",
+              "-id": "9571158611",
               "-ft": "20210609050000",
               "-to": "20210609060000",
               "-ftl": "0500",
@@ -47,7 +47,7 @@
               }
             },
             {
-              "-id": "9569694157",
+              "-id": "9571158616",
               "-ft": "20210609060000",
               "-to": "20210609080000",
               "-ftl": "0600",
@@ -89,7 +89,7 @@
               }
             },
             {
-              "-id": "9569871343",
+              "-id": "9571158618",
               "-ft": "20210609080000",
               "-to": "20210609103000",
               "-ftl": "0800",
@@ -134,7 +134,7 @@
               }
             },
             {
-              "-id": "9570961363",
+              "-id": "9571158620",
               "-ft": "20210609103000",
               "-to": "20210609123000",
               "-ftl": "1030",
@@ -171,7 +171,7 @@
               }
             },
             {
-              "-id": "9569694291",
+              "-id": "9571158623",
               "-ft": "20210609123000",
               "-to": "20210609153000",
               "-ftl": "1230",
@@ -208,7 +208,7 @@
               }
             },
             {
-              "-id": "9570961410",
+              "-id": "9571158625",
               "-ft": "20210609153000",
               "-to": "20210609174500",
               "-ftl": "1530",
@@ -253,7 +253,7 @@
               }
             },
             {
-              "-id": "9569702043",
+              "-id": "9571158628",
               "-ft": "20210609174500",
               "-to": "20210609175400",
               "-ftl": "1745",
@@ -295,7 +295,7 @@
               }
             },
             {
-              "-id": "9571017573",
+              "-id": "9571158629",
               "-ft": "20210609175400",
               "-to": "20210609215500",
               "-ftl": "1754",
@@ -340,7 +340,7 @@
               }
             },
             {
-              "-id": "9571017587",
+              "-id": "9571158632",
               "-ft": "20210609215500",
               "-to": "20210609220500",
               "-ftl": "2155",
@@ -351,6 +351,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -359,7 +365,7 @@
               }
             },
             {
-              "-id": "9571017591",
+              "-id": "9571158633",
               "-ft": "20210609220500",
               "-to": "20210609233500",
               "-ftl": "2205",
@@ -373,6 +379,29 @@
               "desc": "メールアドレス：<a href=mailto:yarusui@mbs1179.com target=_blank>yarusui@mbs1179.com</a><br /><br /><br />◆アッパレやってまーす！水曜　番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/yaru/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/yarusui1179 target=_blank>@yarusui1179</a>",
               "pfm": "ケンドーコバヤシ、アンガールズ、柏木由紀（AKB48）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/8acfd085-d09c-455f-9017-f2d2da883b02.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ケンドーコバヤシ"
+                  },
+                  {
+                    "name": "アンガールズ"
+                  },
+                  {
+                    "name": "柏木由紀(AKB48)"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -381,7 +410,7 @@
               }
             },
             {
-              "-id": "9571017597",
+              "-id": "9571158637",
               "-ft": "20210609233500",
               "-to": "20210610000500",
               "-ftl": "2335",
@@ -395,6 +424,29 @@
               "desc": "増田貴久がNEWSライブツアー終了直後の想いを語る。またスペシャルウィークを記念して、番組オリジナルグッズを発表し、プレゼントする。<br /><br /><br />メールアドレス：<a href=mailto:massmaru@mbs1179.com target=_blank>massmaru@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/massmaru/ target=_blank>こちらをクリック</a>",
               "pfm": "増田貴久（NEWS）、中丸雄一（KAT-TUN）、宮島咲良",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/842b616e-3bc0-4d8a-bf8b-d204e82e3301.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "増田貴久"
+                  },
+                  {
+                    "name": "中丸雄一"
+                  },
+                  {
+                    "name": "宮島咲良"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -403,7 +455,7 @@
               }
             },
             {
-              "-id": "9571017602",
+              "-id": "9571158643",
               "-ft": "20210610000500",
               "-to": "20210610010500",
               "-ftl": "2405",
@@ -417,6 +469,32 @@
               "desc": "メールアドレス：<a href=mailto:hitsui@mbs1179.com target=_blank>hitsui@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/hitsui/ target=_blank>こちらをクリック</a>",
               "pfm": "早川聖来（乃木坂46）、高田秋、久松郁実",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/aa45dc8c-1395-4e09-b919-676d5d2c3173.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "西川貴教"
+                  },
+                  {
+                    "name": "高田秋"
+                  },
+                  {
+                    "name": "久松郁実"
+                  },
+                  {
+                    "name": "早川聖来"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -425,7 +503,7 @@
               }
             },
             {
-              "-id": "9571017606",
+              "-id": "9571158658",
               "-ft": "20210610010500",
               "-to": "20210610020500",
               "-ftl": "2505",
@@ -439,6 +517,12 @@
               "desc": "◆角野隼斗のはやとちりラジオ◆<br /><br /><br />★★主なコーナー★★<br /><br />▽Welcome to My Living Room<br />▽In My Bed Room<br /><br />メールアドレス：<a href=mailto:sumino@mbs1179.com target=_blank>sumino@mbs1179.com</a><br /><br /><br />◆メゾン・ド・ミュージック番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/mm/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/MyricaMusic target=_blank>@MyricaMusic</a>",
               "pfm": "角野隼斗（ピアニスト）、小西遼（CRCK/LCKS）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/e6f442f9-ea42-4b0f-ab9f-a69476a6df52.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -447,7 +531,7 @@
               }
             },
             {
-              "-id": "9571017609",
+              "-id": "9571158659",
               "-ft": "20210610020500",
               "-to": "20210610023500",
               "-ftl": "2605",
@@ -460,7 +544,7 @@
               "ts_out_ng": "0",
               "desc": "占術家・暮れの酉と銀シャリ・鰻和弘がお届けする占い番組！ <br />リスナーからのお悩みを占って、解決へのお手伝い！<br />銀シャリ鰻も占えないけどアドバイス!?<br />心の栄養満点、酉と鰻の高たんぱくラジオです。<br /><br /><br />メールアドレス：<a href=mailto:uranai@mbs1179.com target=_blank>uranai@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/uranai/ target=_blank>こちらをクリック</a>",
               "pfm": "暮れの酉（占術家）、鰻和弘（銀シャリ）",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/350e1f3f-2424-4e09-8441-064094080752.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -469,7 +553,7 @@
               }
             },
             {
-              "-id": "9571021746",
+              "-id": "9571158660",
               "-ft": "20210610023500",
               "-to": "20210610044000",
               "-ftl": "2635",
@@ -497,7 +581,7 @@
               }
             },
             {
-              "-id": "9569768636",
+              "-id": "9571158661",
               "-ft": "20210610044000",
               "-to": "20210610045500",
               "-ftl": "2840",
@@ -531,7 +615,7 @@
               }
             },
             {
-              "-id": "9569862591",
+              "-id": "9571158662",
               "-ft": "20210610045500",
               "-to": "20210610050000",
               "-ftl": "2855",
