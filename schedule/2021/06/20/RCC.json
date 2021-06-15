@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1623694901",
+    "srvtime": "1623781307",
     "stations": {
       "station": {
         "-id": "RCC",
@@ -105,7 +105,7 @@
               }
             },
             {
-              "-id": "9571674730",
+              "-id": "9572023811",
               "-ft": "20210620055500",
               "-to": "20210620060000",
               "-ftl": "0555",
@@ -760,7 +760,7 @@
               }
             },
             {
-              "-id": "9571687708",
+              "-id": "9572009557",
               "-ft": "20210620140000",
               "-to": "20210620170000",
               "-ftl": "1400",
@@ -773,6 +773,7 @@
               "ts_out_ng": "0",
               "desc": "DeNA×広島（東京ドーム）",
               "info": "カープ戦全試合生中継！ＲＣＣラジオは試合終了までカープを、Veryカープに応援します！<br><br/><a href=\"https://radio.rcc.jp/carp/\"><img src=\"https://radio.rcc.jp/topimages/daygame2020_icon-trans.png\"  /></a><br><br/>twitter<a href=\"https://twitter.com/rccradio\">フォローミー</a><br><br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23carp\">#carp</a>」",
+              "pfm": "解説：槙原寛己 実況：熊崎風斗",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/a8b67929-1347-4fb9-bc90-056b5b45dfb7.jpeg",
               "tag": {
                 "item": [
@@ -938,24 +939,44 @@
               }
             },
             {
-              "-id": "9571686225",
+              "-id": "9572039773",
               "-ft": "20210620200000",
-              "-to": "20210620205500",
+              "-to": "20210620203000",
               "-ftl": "2000",
-              "-tol": "2055",
-              "-dur": "3300",
-              "title": "（再）ザ★横山雄二ショー",
-              "url": "https://radio.rcc.jp/yujishow/",
+              "-tol": "2030",
+              "-dur": "1800",
+              "title": "アンガールズのカープ愛炸裂番組　カーティスト",
+              "url": "https://radio.rcc.jp/cartist/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "有名無名を問わずゲストとじっくり語り合う「ヨコヤマトークショー」",
-              "pfm": "横山雄二",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/u3u9i6k2yu.png",
+              "desc": "アンガールズがカープを愛するアーティスト「カーティスト」とカープと音楽の話題をたっぷりお届けするトーク＆音楽バラエティー",
+              "info": "メール:<a href=\"mailto:cartist@rcc.net?subject=カーティスト\">cartist@rcc.net</a><br/>Twitter:<a href=\"https://twitter.com/cartist1350\">@cartist1350</a>",
+              "pfm": "アンガールズ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/88a2ebb7-1f6e-4e8e-ad84-f5776529a10d.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "カープ"
+                  },
+                  {
+                    "name": "広島"
+                  },
+                  {
+                    "name": "プロ野球"
+                  },
+                  {
+                    "name": "アンガールズ"
+                  },
+                  {
+                    "name": "芸人"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C009",
+                  "name": "芸人"
                 },
                 "program": {
                   "-id": "P006",
@@ -970,25 +991,29 @@
               }
             },
             {
-              "-id": "9571583764",
-              "-ft": "20210620205500",
+              "-id": "9572039775",
+              "-ft": "20210620203000",
               "-to": "20210620210000",
-              "-ftl": "2055",
+              "-ftl": "2030",
               "-tol": "2100",
-              "-dur": "300",
-              "title": "ニュース",
+              "-dur": "1800",
+              "title": "佐々木リョウのバリＡじゃんラジオ",
+              "url": "https://radio.rcc.jp/bari_radi/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/81bb17ee-f0e8-44d7-9de0-1fa38f167ad2.jpeg",
+              "desc": "佐々木リョウがバリえぇと思う人や、ものについて、ゲストを招いたりしながら語ります",
+              "info": "<img src=\"https://radio.rcc.jp/topimages/bariradi_icon-trans.png?2019\" alt=\"佐々木リョウのバリAじゃんラジオ\" /><br /><br/>メールアドレス：<a href=\"mailto:music@rcc.net\">music@rcc.net </a><br />（件名に「バリAじゃんラジオ」とご記入下さい）<br />歌ってほしい曲や、みなさんのバリえぇ話をお待ちしてます！",
+              "pfm": "佐々木リョウ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/9b219b68-d1dc-4886-b014-78b4d6e3df3f.jpeg",
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C004",
+                  "name": "ミュージシャン"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -999,34 +1024,21 @@
               }
             },
             {
-              "-id": "9571686260",
+              "-id": "9572035219",
               "-ft": "20210620210000",
               "-to": "20210620213000",
               "-ftl": "2100",
               "-tol": "2130",
               "-dur": "1800",
-              "title": "（再）STU48 のちりめんパーティー",
-              "url": "https://radio.rcc.jp/chirimen/",
+              "title": "保田隆のＨｅａｒｔＢｅａｔラジオ",
+              "url": "https://radio.rcc.jp/heart/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "STU48、ボールボーイ佐竹",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/8fb11da4-60e8-44aa-93c0-d89bfc6c4846.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "アイドル"
-                  },
-                  {
-                    "name": "STU48"
-                  }
-                ]
-              },
+              "info": "■Ｅメール：<A HREF=\"mailto:music@rcc.net?subject=Heart Beatラジオ\" >music@rcc.net</a><br/>■お手紙：<br/>〒730－8504<br/>ＲＣＣラジオ</br><br/>「保田隆のHeart Beatラジオ」係<br/>■ホームページ<br/><A HREF=\"https://radio.rcc.jp/heart/\">HeartBeatラジオ</A>",
+              "pfm": "保田隆",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/a4f8614c-5ea5-4abf-8ae5-3d145bd6d768.jpeg",
               "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -1287,7 +1299,7 @@
               }
             },
             {
-              "-id": "9571760813",
+              "-id": "9572023862",
               "-ft": "20210621012500",
               "-to": "20210621013000",
               "-ftl": "2525",

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1623694899",
+    "srvtime": "1623781305",
     "stations": {
       "station": {
         "-id": "TBS",
@@ -10,7 +10,7 @@
           "date": "20210620",
           "prog": [
             {
-              "-id": "9571880132",
+              "-id": "9571963586",
               "-ft": "20210620050000",
               "-to": "20210620060000",
               "-ftl": "0500",
@@ -24,10 +24,19 @@
               "info": "週末の早朝のひとときにお送りするミュージックプログラム。<br/> ポップスから演歌・歌謡曲など、様々なジャンルの新曲を中心に、音楽とトークで1日の始まりを告げる番組。<br/><br/> ◆04時00分台　「私のプレイリストコーナー」ミュージックキュレーターは青山新さん。<br/> ◆「マンスリーアーティスト～今週のつぶやき～」は、カノエラナさんが担当します。<br/> ◆05時00分台　「朝の音楽室」のコーナーのゲストは、SEX MACHINEGUNSをお迎えします。<br/><br/> メール：<a href=\"mailto:mp@tbs.co.jp\">mp@tbs.co.jp</a><br/><br/>",
               "pfm": "宮崎由加　　ゲスト：SEX MACHINEGUNS",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/cgbfcsvic9.jpg",
+              "tag": {
+                "item": {
+                  "name": "宮崎由加"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -235,7 +244,7 @@
               }
             },
             {
-              "-id": "9571880192",
+              "-id": "9572030615",
               "-ft": "20210620100000",
               "-to": "20210620115500",
               "-ftl": "1000",
@@ -249,10 +258,27 @@
               "info": "◆メッセージテーマ「父さんの愉快な話」<br/> ◆ゲストはみうらじゅんさんです。<br/> twitterアカウントは「<a href=\"http://twitter.com/nichiten954\">@nichiten954</a>」<br/> 受付電話番号:03-3584-0954<br/> 受付FAX番号:03-5562-0954<br/> メール:<a href=\"mailto:nichiten@tbs.co.jp\">nichiten@tbs.co.jp</a><br/><br/>",
               "pfm": "安住紳一郎（TBSアナウンサー）/中澤有美子　　ゲスト：みうらじゅん",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/hjnshfherj.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "nichiten"
+                  },
+                  {
+                    "name": "安住紳一郎"
+                  },
+                  {
+                    "name": "中澤有美子"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -294,7 +320,7 @@
               }
             },
             {
-              "-id": "9571880222",
+              "-id": "9572030652",
               "-ft": "20210620120000",
               "-to": "20210620123000",
               "-ftl": "1200",
@@ -308,10 +334,19 @@
               "info": "クルマを愛してやまない安東弘樹が、同じくクルマ愛に溢れるゲストを迎え、「ドライブ」だけじゃない「カーライフ」の楽しみ方をお届けする30分間。<br/> 「愛車自慢」「車への拘り」「独特のメンテナンス」「DIYでのドレスアップ」など、様々な角度で「カーライフ」の楽しさを発信します。<br/><br/> <a href=\"mailto:garagehero@tbs.co.jp\">メール</a><br/>",
               "pfm": "安東弘樹　　ゲスト：ケンドーコバヤシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/0jvhsec2xd.jpg",
+              "tag": {
+                "item": {
+                  "name": "安東弘樹"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -517,7 +552,7 @@
               }
             },
             {
-              "-id": "9571880261",
+              "-id": "9571963678",
               "-ft": "20210620170000",
               "-to": "20210620173000",
               "-ftl": "1700",
@@ -531,10 +566,19 @@
               "info": "メール：<a href=\"mailto:masaca@tbs.co.jp\">masaca@tbs.co.jp</a><br/>",
               "pfm": "コシノジュンコ/出水麻衣（TBSアナウンサー）　　ゲスト：神田伯山",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/lcj1wy54sk.jpg",
+              "tag": {
+                "item": {
+                  "name": "コシノジュンコ"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
