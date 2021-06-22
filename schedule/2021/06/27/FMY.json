@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1624299721",
+    "srvtime": "1624386103",
     "stations": {
       "station": {
         "-id": "FMY",
@@ -238,7 +238,7 @@
               }
             },
             {
-              "-id": "9572921102",
+              "-id": "9573285288",
               "-ft": "20210627093000",
               "-to": "20210627095500",
               "-ftl": "0930",
@@ -286,7 +286,7 @@
               }
             },
             {
-              "-id": "9572898543",
+              "-id": "9573286228",
               "-ft": "20210627100000",
               "-to": "20210627103000",
               "-ftl": "1000",
@@ -304,10 +304,6 @@
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
-                },
-                "program": {
-                  "-id": "P015",
-                  "name": "教養"
                 }
               },
               "metas": {
@@ -973,24 +969,31 @@
               }
             },
             {
-              "-id": "9572919052",
+              "-id": "9573365047",
               "-ft": "20210627190000",
               "-to": "20210627195500",
               "-ftl": "1900",
               "-tol": "1955",
               "-dur": "3300",
-              "title": "村上RADIO～クラシック音楽が元ネタ（ロシア人作曲家編）～",
+              "title": "村上RADIO～クラシック音楽が元ネタ(ロシア人作曲家編)～",
               "url": "https://www.tfm.co.jp/murakamiradio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t番組Webサイト：<a href=\"https://www.tfm.co.jp/murakamiradio/\">https://www.tfm.co.jp/murakamiradio/</a><br /><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMY/dv77idx8ev.jpg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/6793_fee7b417_sq.jpg\" height=\"60\" width=\"60\" alt=\"村上春樹\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/murakamiradio/\">https://www.tfm.co.jp/murakamiradio/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E6%9D%91%E4%B8%8ARADIO\">#村上RADIO</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/Murakamiradiofm\">@Murakamiradiofm</a>」<br /><br /></div>",
+              "pfm": "村上春樹",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMY/c3d0127c-bfc8-4b50-befa-ca8edc50cc6d.jpeg",
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#村上RADIO"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:Murakamiradiofm"
+                  }
+                ]
               }
             },
             {
