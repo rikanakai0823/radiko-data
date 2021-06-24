@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1624386103",
+    "srvtime": "1624558908",
     "stations": {
       "station": {
         "-id": "FM_OKINAWA",
@@ -70,7 +70,7 @@
               }
             },
             {
-              "-id": "9573285258",
+              "-id": "9573659329",
               "-ft": "20210627070000",
               "-to": "20210627072500",
               "-ftl": "0700",
@@ -150,7 +150,7 @@
               }
             },
             {
-              "-id": "9572905087",
+              "-id": "9573659340",
               "-ft": "20210627080000",
               "-to": "20210627083000",
               "-ftl": "0800",
@@ -338,7 +338,7 @@
               }
             },
             {
-              "-id": "9573286230",
+              "-id": "9573659408",
               "-ft": "20210627100000",
               "-to": "20210627103000",
               "-ftl": "1000",
@@ -356,6 +356,10 @@
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                },
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
                 }
               },
               "metas": {
@@ -1029,7 +1033,7 @@
               }
             },
             {
-              "-id": "9572824229",
+              "-id": "9573659454",
               "-ft": "20210627190000",
               "-to": "20210627192500",
               "-ftl": "1900",
@@ -1170,7 +1174,7 @@
               }
             },
             {
-              "-id": "9573292596",
+              "-id": "9573444072",
               "-ft": "20210627210000",
               "-to": "20210627215500",
               "-ftl": "2100",
@@ -1228,7 +1232,7 @@
               }
             },
             {
-              "-id": "9572904346",
+              "-id": "9573666148",
               "-ft": "20210627220000",
               "-to": "20210627223000",
               "-ftl": "2200",
@@ -1239,8 +1243,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/IU/person/4945_4cc2a02c_sq.jpg\" height=\"60\" width=\"60\" alt=\"ORANGE RANGE\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/IU/person/4946_122b1931_sq.jpg\" height=\"60\" width=\"60\" alt=\"かりゆし58\"></td>  </tr></table><br /><br />\t2002年のデビュー以来、沖縄ミュージックシーンを牽引し、活躍し続けるバンド「ORANGE RANGE」のボーカルHIROKI。<br>シングル「アンマー」で多くの共感を呼んだ、こちらも沖縄を代表する「かりゆし５８」。<br>30代の大人になった２バンドが、「今、感じてること、思うこと」を“てれこ”でお伝えします。 <br /><br />\t番組Webサイト：<a href=\"https://www.fmokinawa.co.jp/program/tereko/\">https://www.fmokinawa.co.jp/program/tereko/</a><br />\tメッセージフォーム：<a href=\"https://www.fmokinawa.co.jp/program/tereko/message/\">https://www.fmokinawa.co.jp/program/tereko/message/</a><br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/IU/person/4945_4cc2a02c_sq.jpg\" height=\"60\" width=\"60\" alt=\"ORANGE RANGE\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/IU/person/4946_122b1931_sq.jpg\" height=\"60\" width=\"60\" alt=\"かりゆし58\"></td>  </tr></table><br /><br />\t2002年のデビュー以来、沖縄ミュージックシーンを牽引し、活躍し続けるバンド「ORANGE RANGE」のボーカルHIROKI。<br>シングル「アンマー」で多くの共感を呼んだ、こちらも沖縄を代表する「かりゆし５８」。<br>30代の大人になった２バンドが、「今、感じてること、思うこと」を“てれこ”でお伝えします。 <br /><br />\t番組Webサイト：<a href=\"https://www.fmokinawa.co.jp/program/tereko/\">https://www.fmokinawa.co.jp/program/tereko/</a><br />\tメッセージフォーム：<a href=\"https://www.fmokinawa.co.jp/program/tereko/message/\">https://www.fmokinawa.co.jp/program/tereko/message/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%A6%E3%82%8C%E3%81%93873\">#てれこ873</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/tereko873\">@tereko873</a>」<br /><br /></div>",
               "pfm": "ORANGE RANGE / かりゆし58",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM_OKINAWA/judz2w5c91.png",
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -1252,10 +1257,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#てれこ873"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:tereko873"
+                  }
+                ]
               }
             },
             {
