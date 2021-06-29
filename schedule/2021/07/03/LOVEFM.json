@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1624818128",
+    "srvtime": "1624990885",
     "stations": {
       "station": {
         "-id": "LOVEFM",
@@ -10,12 +10,12 @@
           "date": "20210703",
           "prog": [
             {
-              "-id": "9574081858",
+              "-id": "9574563473",
               "-ft": "20210703050000",
-              "-to": "20210703080000",
+              "-to": "20210703073000",
               "-ftl": "0500",
-              "-tol": "0800",
-              "-dur": "10800",
+              "-tol": "0730",
+              "-dur": "9000",
               "title": "Sunrise",
               "url": "http://lovefm.co.jp/sunrise/programs/more",
               "failed_record": "0",
@@ -44,6 +44,28 @@
                   "name": "音楽"
                 }
               },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9574563482",
+              "-ft": "20210703073000",
+              "-to": "20210703080000",
+              "-ftl": "0730",
+              "-tol": "0800",
+              "-dur": "1800",
+              "title": "九電グループpresents　歴史ロマン街道",
+              "url": "http://lovefm.co.jp/kyuden_kyushu_rekishi/programs/more",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<p>毎回九州各地の魅力を発掘！地域のために活躍しているゲストを迎えて展開する「九州の地域活性・魅力情報発信番組」。<br />放送後、番組は毎回PODCASTでも配信を行います。いつでも、番組のWEBページからバックナンバーをお聴き頂けます♪<br /><br />番組監修：<a href=\"https://www.facebook.com/mapfan\" target=\"_blank\">益田啓一郎</a><br /><br />-----<br />提供：<a href=\"https://www.kyuden.co.jp/\" target=\"_blank\">九州電力</a></p>",
+              "pfm": "小柳有紀",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LOVEFM/vp6snbkvqp.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -148,7 +170,7 @@
               }
             },
             {
-              "-id": "9574192634",
+              "-id": "9574593604",
               "-ft": "20210703131500",
               "-to": "20210703133000",
               "-ftl": "1315",
@@ -196,30 +218,20 @@
               }
             },
             {
-              "-id": "9574191903",
+              "-id": "9574587175",
               "-ft": "20210703133000",
               "-to": "20210703140000",
               "-ftl": "1330",
               "-tol": "1400",
               "-dur": "1800",
-              "title": "U.S Hits Profile",
-              "url": "http://lovefm.co.jp/USHits/programs/more",
+              "title": "こちヨロ（こちらヨーロッパ企画福岡支部）",
+              "url": "http://lovefm.co.jp/europe_kikaku/programs/more",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<p><span style=\"font-size: small;\">U.S.のUP TO DATEなアーティストを紹介するMUSIC PROGRAM♪<br /></span></p><p><span style=\"font-size: small;\">毎週一人のUSアーティストにフィーチャーし、そのアーティストのプロフィールや歴史などをわかりやすく紹介していきます。<br /><br /><br /></span></p><p><span style=\"color: #0000ff;\"><strong><span style=\"font-size: medium;\">♦オンエア情報</span></strong></span></p><p><span style=\"font-size: small;\">毎週土曜日　13：30～14：00</span><br /><span style=\"font-size: small;\">番組やDJ Kへの応援メッセージは<a href=\"mailto:761@lovefm.co.jp\">コチラ</a>から。</span></p>",
-              "pfm": "DJ K",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LOVEFM/hwdbci64dm.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
+              "info": "<p>京都を拠点に活動する劇団・ヨーロッパ企画による福岡発オリジナル番組。</p><p><span style=\"text-decoration: underline;\"><strong>～コーナー紹介～</strong></span><br /><span style=\"color: #ff0000;\">■イシダカクテル</span>　2013年、第1シーズンから続く大人気コーナー大人の恋愛ラジオドラマ。ラジオ版では番組構成作家【団長】の一言もお聴き逃しなく。</p><p>ラジオ番組とは一味違うPodcast版は随時不定期更新。<br /> podcastはこちら！ <a href=\"http://lovefm.co.jp/europe_kikaku/blogs/podcast\">http://lovefm.co.jp/europe_kikaku/blogs/podcast</a> <br />◆ヨーロッパ企画……<a href=\"http://www.europe-kikaku.com/\" target=\"_blank\">http://www.europe-kikaku.com/</a> <br />◆番組Twitterアカウント <a href=\"https://twitter.com/kochiyoro\" target=\"_blank\">@kochiyoro<br /></a>◆番組note <a href=\"https://note.com/kochiyoro\" target=\"_blank\">https://note.com/kochiyoro</a></p><br /><p><b>Corner</b></p><br /><p><b>イシダカクテル</b></p><p>DJ石田剛太が全監修を務める【オトナ】の恋愛ラジオドラマです。</p>（提供：<a href=\"http://t.pia.jp/kyushu/\" target=\"_blank\">チケットぴあ</a>）<br />",
+              "pfm": "石田剛太 (ヨーロッパ企画)",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LOVEFM/y09t3jci7o.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",

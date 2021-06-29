@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1624904509",
+    "srvtime": "1624990885",
     "stations": {
       "station": {
         "-id": "FMAICHI",
@@ -84,7 +84,7 @@
               }
             },
             {
-              "-id": "9574017947",
+              "-id": "9574512574",
               "-ft": "20210703060000",
               "-to": "20210703080000",
               "-ftl": "0600",
@@ -95,7 +95,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "◆週末の朝、注目トピックスをコンパクトにお届けします！◆",
+              "info": "◆週末の朝、注目トピックスをコンパクトにお届けします！◆<BR /><BR /><a href=\"https://fma.co.jp/f/req/?cd=onemornings\">メッセージ・リクエストはこちら</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%E3%83%AF%E3%83%B3%E3%83%A2807\">ワンモ807</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/onemorningsat\">@onemorningsat</a>」<br />",
               "pfm": "重田優平",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMAICHI/w33bzz0q3d.jpg",
               "genre": {
@@ -109,10 +109,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "ワンモ807"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:onemorningsat"
+                  }
+                ]
               }
             },
             {
@@ -558,7 +564,7 @@
               }
             },
             {
-              "-id": "9573910007",
+              "-id": "9574567320",
               "-ft": "20210703120000",
               "-to": "20210703123000",
               "-ftl": "1200",
@@ -569,6 +575,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "desc": "皆さんから届いた、あ?ちゃんにつけるラジオネームをご紹介します！<br /><br />",
               "info": "◆独特の言語センスと、抜けない広島弁。ときに天然、奔放、毒舌・・・。<br />卓越したトーク能力で「西脇師匠」とも称されるPerfume西脇綾香:通称“あ～ちゃん”と、その妹でこちらもおしゃべり大好き。アイドルながら毎週5時間のラジオ生放送レギュラーもこなしていた9nine西脇彩華:通称“ちゃあぽん”の姉妹によるコラボレーション番組。◆<BR /><BR />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23FMAICHI\">#FMAICHI</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/FMAICHI\">@FMAICHI</a>」<br />",
               "pfm": "Perfume西脇綾香、9nine西脇彩華",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMAICHI/v8zvq2tbyd.jpg",
@@ -673,7 +680,7 @@
               }
             },
             {
-              "-id": "9574348167",
+              "-id": "9574484261",
               "-ft": "20210703130000",
               "-to": "20210703135500",
               "-ftl": "1300",
@@ -881,7 +888,7 @@
               }
             },
             {
-              "-id": "9574348180",
+              "-id": "9574484322",
               "-ft": "20210703153000",
               "-to": "20210703155500",
               "-ftl": "1530",
@@ -1032,7 +1039,7 @@
               }
             },
             {
-              "-id": "9574023578",
+              "-id": "9574545436",
               "-ft": "20210703170000",
               "-to": "20210703175500",
               "-ftl": "1700",
