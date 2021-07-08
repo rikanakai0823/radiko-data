@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1625682118",
+    "srvtime": "1625768506",
     "stations": {
       "station": {
         "-id": "MYUFM",
@@ -313,7 +313,7 @@
               }
             },
             {
-              "-id": "9575967341",
+              "-id": "9576003668",
               "-ft": "20210712100000",
               "-to": "20210712105800",
               "-ftl": "1000",
@@ -367,7 +367,7 @@
               }
             },
             {
-              "-id": "9575967344",
+              "-id": "9576038921",
               "-ft": "20210712105800",
               "-to": "20210712110000",
               "-ftl": "1058",
@@ -419,7 +419,7 @@
               }
             },
             {
-              "-id": "9575967347",
+              "-id": "9576083575",
               "-ft": "20210712113000",
               "-to": "20210712125800",
               "-ftl": "1130",
@@ -462,7 +462,7 @@
               }
             },
             {
-              "-id": "9575967351",
+              "-id": "9576038927",
               "-ft": "20210712125800",
               "-to": "20210712130000",
               "-ftl": "1258",
@@ -848,12 +848,80 @@
               }
             },
             {
-              "-id": "9575566148",
+              "-id": "9576107284",
               "-ft": "20210712160000",
-              "-to": "20210712190000",
+              "-to": "20210712164800",
               "-ftl": "1600",
+              "-tol": "1648",
+              "-dur": "2880",
+              "title": "μ’s UP",
+              "url": "https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/myus-up/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/myus-up/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/54991_d4c10072_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/9514_ba708a66_sq.png\" height=\"60\" width=\"60\" alt=\"DJ POCKY\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/9515_138de6ef_sq.png\" height=\"60\" width=\"60\" alt=\"安藤 菜夏\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/myus-up/\">https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/myus-up/</a><br />\tメールアドレス：<a href=\"mailto:up@myufm.jp\">up@myufm.jp</a><br />\tFAX：099-239-1130<br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%82%A2%E3%83%83%E3%83%97\">#ミューズアップ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/myufm_myusup\">@myufm_myusup</a>」<br /><br /></div>",
+              "pfm": "DJ POCKY / 安藤 菜夏",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/ztd0myjaun.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "FM鹿児島"
+                  },
+                  {
+                    "name": "ミューズアップ"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ミューズアップ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:myufm_myusup"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9576107285",
+              "-ft": "20210712164800",
+              "-to": "20210712165000",
+              "-ftl": "1648",
+              "-tol": "1650",
+              "-dur": "120",
+              "title": "直前！東京2020オリンピック情報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/56402_ab41d3d8_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br />\tオリンピックの話題の選手<br />注目の競技などを紹介 <br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/y5cr5ah4hj.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9576150070",
+              "-ft": "20210712165000",
+              "-to": "20210712190000",
+              "-ftl": "1650",
               "-tol": "1900",
-              "-dur": "10800",
+              "-dur": "7800",
               "title": "μ’s UP",
               "url": "https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/myus-up/",
               "failed_record": "0",
@@ -958,7 +1026,7 @@
               }
             },
             {
-              "-id": "9575566192",
+              "-id": "9576120776",
               "-ft": "20210712210000",
               "-to": "20210712215500",
               "-ftl": "2100",
@@ -969,7 +1037,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/flapthemyu_mon/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/55286_f11069b9_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br />\t番組Webサイト：<a href=\"https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/flapthemyu_mon/\">https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/flapthemyu_mon/</a><br /><br /></div>",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/flapthemyu_mon/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/55286_f11069b9_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br />\tFLAP THE μ「ハイヴォイスレディオ！」<br /><br />ハイヴォイスとは「高い声」のこと。<br />暑い夏の夜に聴きたくなるのは<br />涼やかなハイトーンボイスのボーカル…のはず。<br />新進気鋭のハイトーンな男性ボーカルのナンバーを<br />μFMイチのハイトーン男子パーソナリティー<br />今末真人がノンストップで紹介する55分！<br />新たなお気に入りが見つかるかも?!<br /><br />今回の選曲基準は<br />「女性ボーカルも曲によっては歌える今末アナが、ガチでカラオケでしんどいor声が出ない曲」<br />かなりの高音揃いです:;(∩´﹏`∩);: <br /><br />\t番組Webサイト：<a href=\"https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/flapthemyu_mon/\">https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/flapthemyu_mon/</a><br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/xqk4wukv7d.png",
               "metas": {
                 "meta": {
