@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1625595692",
+    "srvtime": "1625854902",
     "stations": {
       "station": {
         "-id": "JOEU-FM",
@@ -10,7 +10,7 @@
           "date": "20210711",
           "prog": [
             {
-              "-id": "9575400091",
+              "-id": "9576221262",
               "-ft": "20210711050000",
               "-to": "20210711060000",
               "-ftl": "0500",
@@ -23,15 +23,15 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EU/person/146_7aaedba8_sq.jpg\" height=\"60\" width=\"60\" alt=\"ヒシイミチコ\"></td>  </tr></table><br /><br />\t様々な人のプレイリストを、1時間に渡ってお送りする音楽プログラム。あなたも自分のプレイリストを、FM愛媛で紹介してみませんか？ <br /><br />\tメールアドレス：<a href=\"mailto:play@joeufm.com\">play@joeufm.com</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23FM%E6%84%9B%E5%AA%9BMyPLAYLIST\">#FM愛媛MyPLAYLIST</a>」<br /><br /></div>",
               "pfm": "ヒシイミチコ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ヒシイミチコ"
-                  },
-                  {
-                    "name": "プレイリスト"
-                  }
-                ]
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
               },
               "metas": {
                 "meta": {
@@ -41,7 +41,7 @@
               }
             },
             {
-              "-id": "9575406996",
+              "-id": "9576221272",
               "-ft": "20210711060000",
               "-to": "20210711063000",
               "-ftl": "0600",
@@ -53,25 +53,6 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "邦楽"
-                  },
-                  {
-                    "name": "懐かしい"
-                  },
-                  {
-                    "name": "JーPOP"
-                  },
-                  {
-                    "name": "ランキン"
-                  },
-                  {
-                    "name": "ヒット曲"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -90,7 +71,7 @@
               }
             },
             {
-              "-id": "9575297687",
+              "-id": "9576221280",
               "-ft": "20210711063000",
               "-to": "20210711063500",
               "-ftl": "0630",
@@ -120,7 +101,7 @@
               }
             },
             {
-              "-id": "9575396416",
+              "-id": "9576221282",
               "-ft": "20210711063500",
               "-to": "20210711070000",
               "-ftl": "0635",
@@ -134,11 +115,6 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/796_7e75ae62_sq.jpg\" height=\"60\" width=\"60\" alt=\"高橋万里恵\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/forest/\">https://www.tfm.co.jp/forest/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/forest/index.php?catid=1563\">https://www.tfm.co.jp/forest/index.php?catid=1563</a><br /><br /></div>",
               "pfm": "高橋万里恵 / 鎮守の森のプロジェクト",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/dryqskfacc.jpg",
-              "tag": {
-                "item": {
-                  "name": "高橋万里恵"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -157,7 +133,7 @@
               }
             },
             {
-              "-id": "9575407510",
+              "-id": "9576221288",
               "-ft": "20210711070000",
               "-to": "20210711073000",
               "-ftl": "0700",
@@ -170,22 +146,6 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EU/person/9140_eb927b95_sq.jpg\" height=\"60\" width=\"60\" alt=\"mimosa\"></td>  </tr></table><br /><br />\t愛媛県松山市発の3ピースガールズバンド「mimosa」による、初の冠ラジオ番組。番組内のコーナーではメンバーのおすすめのもの紹介や、ここだけで語るエピソードも。 <br /><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23mimosa%E3%81%AE%E3%81%95%E3%82%93%E3%81%A8%E3%82%8A%E3%81%8A\">#mimosaのさんとりお</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/mi_mo_sa_3\">@mi_mo_sa_3</a>」<br /><br /></div>",
               "pfm": "mimosa",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/ypxoitcf3q.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "mimosa"
-                  },
-                  {
-                    "name": "ガールズバンド"
-                  },
-                  {
-                    "name": "愛媛"
-                  },
-                  {
-                    "name": "さんとりお"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -210,7 +170,7 @@
               }
             },
             {
-              "-id": "9575727296",
+              "-id": "9576250291",
               "-ft": "20210711073000",
               "-to": "20210711075500",
               "-ftl": "0730",
@@ -248,7 +208,7 @@
               }
             },
             {
-              "-id": "9575398385",
+              "-id": "9576221298",
               "-ft": "20210711075500",
               "-to": "20210711080000",
               "-ftl": "0755",
@@ -260,22 +220,6 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ミュージカル"
-                  },
-                  {
-                    "name": "舞台"
-                  },
-                  {
-                    "name": "坊っちゃん劇場"
-                  },
-                  {
-                    "name": "近藤誠二"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C002",
@@ -294,7 +238,7 @@
               }
             },
             {
-              "-id": "9575400238",
+              "-id": "9576221301",
               "-ft": "20210711080000",
               "-to": "20210711085500",
               "-ftl": "0800",
@@ -307,18 +251,15 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EU/person/1647_cee4e5ab_sq.jpg\" height=\"60\" width=\"60\" alt=\"猪井真弓\"></td>  </tr></table><br /><br /><br /></div>",
               "pfm": "猪井真弓",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "愛媛"
-                  },
-                  {
-                    "name": "地域情報"
-                  },
-                  {
-                    "name": "地域活性"
-                  }
-                ]
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
               },
               "metas": {
                 "meta": {
@@ -328,7 +269,7 @@
               }
             },
             {
-              "-id": "9575398412",
+              "-id": "9576221305",
               "-ft": "20210711085500",
               "-to": "20210711090000",
               "-ftl": "0855",
@@ -341,31 +282,6 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EU/person/5787_4c4d79aa_sq.jpg\" height=\"60\" width=\"60\" alt=\"吉見まき子\"></td>  </tr></table><br /><br /><br /></div>",
               "pfm": "吉見まき子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "朗読"
-                  },
-                  {
-                    "name": "坂村真民"
-                  },
-                  {
-                    "name": "詩"
-                  },
-                  {
-                    "name": "砥部町"
-                  },
-                  {
-                    "name": "坂村真民記念館"
-                  },
-                  {
-                    "name": "西澤孝一"
-                  },
-                  {
-                    "name": "愛媛の偉人"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -384,7 +300,7 @@
               }
             },
             {
-              "-id": "9575398424",
+              "-id": "9576221307",
               "-ft": "20210711090000",
               "-to": "20210711093000",
               "-ftl": "0900",
@@ -398,25 +314,6 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EU/person/3677_dd9e3359_sq.jpg\" height=\"60\" width=\"60\" alt=\"千宝美\"></td>  </tr></table><br /><br />\t3つのワードをもとに即興でジングルを作る「ひらめきジングル1、2、3！」、 日々の読書タイムで出会った珠玉のフレーズをご紹介する「千宝美、心の図書館」、ドライブミュージックを選曲して月一でお届けする「あの日、あの時にプレイバック！」、思い出と共に時代を振り返る「つれづれメモリー」、ゲストの方とのセッションコーナー、スタジオライブをお届けする「ナチュラルブリーズミュージック」、おすすめの映画を色でイメージ「色彩シネマ」などなど、とにかく盛りだくさんの30分！ <br /><br />\t番組Webサイト：<a href=\"http://www.joeufm.co.jp/nb/\">http://www.joeufm.co.jp/nb/</a><br /><br /></div>",
               "pfm": "千宝美",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "映画"
-                  },
-                  {
-                    "name": "千宝美"
-                  },
-                  {
-                    "name": "SOLATO"
-                  },
-                  {
-                    "name": "太陽石油"
-                  },
-                  {
-                    "name": "弾き語り"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -435,7 +332,7 @@
               }
             },
             {
-              "-id": "9575400344",
+              "-id": "9576221310",
               "-ft": "20210711093000",
               "-to": "20210711095500",
               "-ftl": "0930",
@@ -448,15 +345,15 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EU/person/8081_9c8d42e1_sq.jpg\" height=\"60\" width=\"60\" alt=\"たけやま3.5\"></td>  </tr></table><br /><br />\tラジオで楽しめる「たけやま３．５」！たけやま３．５のメンバーが、ラジオの中で様々な事にチャレンジ！たけやま３．５の新たな魅力を発見できる！？プログラム。リスナーのみなさんから、たけやまのメンバーにチャレンジしてほしいことや、応援・質問メッセージ募集中。 <br /><br />\tメールアドレス：<a href=\"mailto:takeyama@joeufm.com\">takeyama@joeufm.com</a><br /><br /></div>",
               "pfm": "たけやま3.5",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "たけやま3.5"
-                  },
-                  {
-                    "name": "アイドル"
-                  }
-                ]
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
               },
               "metas": {
                 "meta": {
@@ -466,7 +363,7 @@
               }
             },
             {
-              "-id": "9575398449",
+              "-id": "9576221311",
               "-ft": "20210711095500",
               "-to": "20210711100000",
               "-ftl": "0955",
@@ -478,31 +375,6 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "イベント"
-                  },
-                  {
-                    "name": "愛媛県"
-                  },
-                  {
-                    "name": "松山市"
-                  },
-                  {
-                    "name": "暮らし"
-                  },
-                  {
-                    "name": "安全情報"
-                  },
-                  {
-                    "name": "市長"
-                  },
-                  {
-                    "name": "野志克仁"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -521,7 +393,7 @@
               }
             },
             {
-              "-id": "9575727371",
+              "-id": "9576250389",
               "-ft": "20210711100000",
               "-to": "20210711103000",
               "-ftl": "1000",
@@ -553,7 +425,7 @@
               }
             },
             {
-              "-id": "9575396758",
+              "-id": "9576221317",
               "-ft": "20210711103000",
               "-to": "20210711105500",
               "-ftl": "1030",
@@ -585,7 +457,7 @@
               }
             },
             {
-              "-id": "9575405861",
+              "-id": "9576221320",
               "-ft": "20210711105500",
               "-to": "20210711110000",
               "-ftl": "1055",
@@ -598,22 +470,6 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EU/person/163_3361bed0_sq.jpg\" height=\"60\" width=\"60\" alt=\"高橋真実子\"></td>  </tr></table><br /><br /><br /></div>",
               "pfm": "高橋真実子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "高速道路"
-                  },
-                  {
-                    "name": "愛媛県"
-                  },
-                  {
-                    "name": "セーフティドライブ"
-                  },
-                  {
-                    "name": "車"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -632,7 +488,7 @@
               }
             },
             {
-              "-id": "9575407580",
+              "-id": "9576221322",
               "-ft": "20210711110000",
               "-to": "20210711113000",
               "-ftl": "1100",
@@ -670,7 +526,7 @@
               }
             },
             {
-              "-id": "9575400442",
+              "-id": "9576221329",
               "-ft": "20210711113000",
               "-to": "20210711115500",
               "-ftl": "1130",
@@ -684,6 +540,16 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/833__sq.jpg\" height=\"60\" width=\"60\" alt=\"木村拓哉\"></td>  </tr></table><br /><br />\t拓哉キャプテンと“親交”のある方から“はじめまして”な方まで、<br />様々なステキなゲストをお迎えしてお送りする「Flow」！ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/flow/\">https://www.tfm.co.jp/flow/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/flow/index.php?catid=3748\">https://www.tfm.co.jp/flow/index.php?catid=3748</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%95%E3%83%AD%E3%82%A6%E3%81%95%E3%82%93\">#フロウさん</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/flowsaaaan\">@flowsaaaan</a>」<br /><br /></div>",
               "pfm": "木村拓哉",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/tzvm6lv47m.png",
+              "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -698,7 +564,7 @@
               }
             },
             {
-              "-id": "9575341301",
+              "-id": "9576221332",
               "-ft": "20210711115500",
               "-to": "20210711120000",
               "-ftl": "1155",
@@ -728,7 +594,7 @@
               }
             },
             {
-              "-id": "9575400494",
+              "-id": "9576221334",
               "-ft": "20210711120000",
               "-to": "20210711122500",
               "-ftl": "1200",
@@ -742,6 +608,16 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/1346_f4e12ad9_sq.jpg\" height=\"60\" width=\"60\" alt=\"ホラン千秋\"></td>  </tr></table><br /><br />\tホラン千秋がパーソナリティをつとめる番組『apollostation Drive Discovery PRESS』。<br />この番組では、「ラジオの中の編集部」を舞台に、全国の食べ物やスポットなど、様々な“良いもの”を探していく番組です。遠出が難しいこの時勢だからこそ、ラジオから全国津々浦々の情報をお届けしていきます。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/discovery/\">https://www.tfm.co.jp/discovery/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/discovery/message\">https://www.tfm.co.jp/f/discovery/message</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23DD%E3%83%97%E3%83%AC%E3%82%B9\">#DDプレス</a>」<br /><br /></div>",
               "pfm": "ホラン千秋",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/nehewl9c2u.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -750,7 +626,7 @@
               }
             },
             {
-              "-id": "9575396898",
+              "-id": "9576221339",
               "-ft": "20210711122500",
               "-to": "20210711123000",
               "-ftl": "1225",
@@ -777,7 +653,7 @@
               }
             },
             {
-              "-id": "9575400546",
+              "-id": "9576221340",
               "-ft": "20210711123000",
               "-to": "20210711125500",
               "-ftl": "1230",
@@ -791,6 +667,16 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/4726_bf8a41c4_sq.jpg\" height=\"60\" width=\"60\" alt=\"きゃりーぱみゅぱみゅ\"></td>  </tr></table><br /><br />\tきゃりーぱみゅぱみゅが興味のあることをお話ししたり、話を聴きたい方をゲストに迎えたりしながら、リスナーのあなたと一緒に、人生の新たな一歩を踏み出すヒントを探します。そして、隔週の番組内コーナとして暮らしに役立つヒント「CHINTAI情報局 on the Radio」を浜崎美保がお届けします。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/heart/\">https://www.tfm.co.jp/heart/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/heart/message\">https://www.tfm.co.jp/f/heart/message</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%81%E3%83%A3%E3%83%97%E3%82%BF%E3%83%BC0\">#チャプター0</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/ChapterZero_JFN\">@ChapterZero_JFN</a>」<br /><br /></div>",
               "pfm": "きゃりーぱみゅぱみゅ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/sebuvg7nwi.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -805,7 +691,7 @@
               }
             },
             {
-              "-id": "9575398547",
+              "-id": "9576221342",
               "-ft": "20210711125500",
               "-to": "20210711130000",
               "-ftl": "1255",
@@ -818,28 +704,6 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EU/person/163_3361bed0_sq.jpg\" height=\"60\" width=\"60\" alt=\"高橋真実子\"></td>  </tr></table><br /><br />\tE-システムの「協和バーク」を使って、パーソナリティがゼロから「ベランダ菜園」をスタート！誰でも気軽に楽しく始められることを発信していきます。担当パーソナリティは3ヶ月で入れ替わります。 <br /><br /><br /></div>",
               "pfm": "高橋真実子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "Eーシステム"
-                  },
-                  {
-                    "name": "協和バーク"
-                  },
-                  {
-                    "name": "家庭菜園"
-                  },
-                  {
-                    "name": "ガーデニング"
-                  },
-                  {
-                    "name": "ベランダ菜園"
-                  },
-                  {
-                    "name": "高橋真実子"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -858,7 +722,7 @@
               }
             },
             {
-              "-id": "9575398569",
+              "-id": "9576221344",
               "-ft": "20210711130000",
               "-to": "20210711135500",
               "-ftl": "1300",
@@ -880,7 +744,7 @@
               }
             },
             {
-              "-id": "9575341385",
+              "-id": "9576221347",
               "-ft": "20210711135500",
               "-to": "20210711140000",
               "-ftl": "1355",
@@ -910,7 +774,7 @@
               }
             },
             {
-              "-id": "9575407075",
+              "-id": "9576221349",
               "-ft": "20210711140000",
               "-to": "20210711145500",
               "-ftl": "1400",
@@ -942,7 +806,7 @@
               }
             },
             {
-              "-id": "9575341403",
+              "-id": "9576221353",
               "-ft": "20210711145500",
               "-to": "20210711150000",
               "-ftl": "1455",
@@ -972,7 +836,7 @@
               }
             },
             {
-              "-id": "9575406013",
+              "-id": "9576221355",
               "-ft": "20210711150000",
               "-to": "20210711155000",
               "-ftl": "1500",
@@ -1002,7 +866,7 @@
               }
             },
             {
-              "-id": "9575407119",
+              "-id": "9576221358",
               "-ft": "20210711155000",
               "-to": "20210711155500",
               "-ftl": "1550",
@@ -1040,7 +904,7 @@
               }
             },
             {
-              "-id": "9575341433",
+              "-id": "9576221359",
               "-ft": "20210711155500",
               "-to": "20210711160000",
               "-ftl": "1555",
@@ -1070,7 +934,7 @@
               }
             },
             {
-              "-id": "9575397059",
+              "-id": "9576221361",
               "-ft": "20210711160000",
               "-to": "20210711165500",
               "-ftl": "1600",
@@ -1108,7 +972,7 @@
               }
             },
             {
-              "-id": "9575299100",
+              "-id": "9576221367",
               "-ft": "20210711165500",
               "-to": "20210711170000",
               "-ftl": "1655",
@@ -1120,16 +984,6 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "音楽"
-                  },
-                  {
-                    "name": "パワープレイ"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -1148,7 +1002,7 @@
               }
             },
             {
-              "-id": "9575390956",
+              "-id": "9576221369",
               "-ft": "20210711170000",
               "-to": "20210711175500",
               "-ftl": "1700",
@@ -1186,7 +1040,7 @@
               }
             },
             {
-              "-id": "9575341505",
+              "-id": "9576221373",
               "-ft": "20210711175500",
               "-to": "20210711180000",
               "-ftl": "1755",
@@ -1216,7 +1070,7 @@
               }
             },
             {
-              "-id": "9575398683",
+              "-id": "9576221376",
               "-ft": "20210711180000",
               "-to": "20210711190000",
               "-ftl": "1800",
@@ -1229,22 +1083,6 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EU/person/7601_5c710d9f_sq.jpg\" height=\"60\" width=\"60\" alt=\"岩渕敏司\"></td>  </tr></table><br /><br />\tリスナーのみなさんからのリクエストを基にランキングを作成！愛媛の最新の音楽ランキングを紹介します！ <br /><br />\tメールアドレス：<a href=\"mailto:hit@joeufm.com\">hit@joeufm.com</a><br /><br /></div>",
               "pfm": "岩渕敏司",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/eqnwqpfmiu.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "愛媛"
-                  },
-                  {
-                    "name": "音楽ランキング"
-                  },
-                  {
-                    "name": "最新音楽情報"
-                  },
-                  {
-                    "name": "岩渕敏司"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -1263,7 +1101,7 @@
               }
             },
             {
-              "-id": "9575398742",
+              "-id": "9576221386",
               "-ft": "20210711190000",
               "-to": "20210711193000",
               "-ftl": "1900",
@@ -1283,7 +1121,7 @@
               }
             },
             {
-              "-id": "9575398745",
+              "-id": "9576221390",
               "-ft": "20210711193000",
               "-to": "20210711195500",
               "-ftl": "1930",
@@ -1296,22 +1134,6 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EU/person/5421_3396d3bb_sq.jpg\" height=\"60\" width=\"60\" alt=\"渡部志織\"></td>  </tr></table><br /><br /><br /></div>",
               "pfm": "渡部志織",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "洋楽"
-                  },
-                  {
-                    "name": "邦楽"
-                  },
-                  {
-                    "name": "名盤"
-                  },
-                  {
-                    "name": "渡部志織"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -1330,7 +1152,7 @@
               }
             },
             {
-              "-id": "9575398748",
+              "-id": "9576221391",
               "-ft": "20210711195500",
               "-to": "20210711200000",
               "-ftl": "1955",
@@ -1343,22 +1165,6 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\t2013年4月にスタートした『コトノノコト』は、コトノがコトノノコトについて楽しくお話しするラジオ番組です。月末の放送では、ラジオで弾き語りライブも行っています！ <br /><br />\t番組Webサイト：<a href=\"http://kotono.cc\">http://kotono.cc</a><br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "生演奏"
-                  },
-                  {
-                    "name": "コトノ"
-                  },
-                  {
-                    "name": "シンガーソングライター"
-                  },
-                  {
-                    "name": "エッセイ"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -1377,7 +1183,7 @@
               }
             },
             {
-              "-id": "9575398759",
+              "-id": "9576221394",
               "-ft": "20210711200000",
               "-to": "20210711203000",
               "-ftl": "2000",
@@ -1389,16 +1195,6 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "シカゴプードル"
-                  },
-                  {
-                    "name": "ピアノバンド"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -1417,7 +1213,7 @@
               }
             },
             {
-              "-id": "9575398775",
+              "-id": "9576346397",
               "-ft": "20210711203000",
               "-to": "20210711210000",
               "-ftl": "2030",
@@ -1434,19 +1230,10 @@
               "tag": {
                 "item": [
                   {
-                    "name": "中岡りょういち"
-                  },
-                  {
-                    "name": "ジャパハリネット"
-                  },
-                  {
-                    "name": "ジャパハリ"
-                  },
-                  {
                     "name": "ハリラジ"
                   },
                   {
-                    "name": "城戸けんじろ"
+                    "name": "ジャパハリネット"
                   }
                 ]
               },
@@ -1468,7 +1255,7 @@
               }
             },
             {
-              "-id": "9575398788",
+              "-id": "9576221404",
               "-ft": "20210711210000",
               "-to": "20210711213000",
               "-ftl": "2100",
@@ -1481,25 +1268,6 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EU/person/147_6476c951_sq.jpg\" height=\"60\" width=\"60\" alt=\"ポン川村\"></td>  </tr></table><br /><br /><br /></div>",
               "pfm": "ポン川村",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ポン川村"
-                  },
-                  {
-                    "name": "美ら島沖縄大使"
-                  },
-                  {
-                    "name": "沖縄"
-                  },
-                  {
-                    "name": "三線"
-                  },
-                  {
-                    "name": "琉球民謡"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -1518,7 +1286,7 @@
               }
             },
             {
-              "-id": "9575406276",
+              "-id": "9576221407",
               "-ft": "20210711213000",
               "-to": "20210711220000",
               "-ftl": "2130",
@@ -1531,19 +1299,6 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EU/person/7170_772a1410_sq.jpg\" height=\"60\" width=\"60\" alt=\"奥村真友里\"></td>  </tr></table><br /><br /><br /></div>",
               "pfm": "奥村真友里",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "奥村真友里"
-                  },
-                  {
-                    "name": "輸入車"
-                  },
-                  {
-                    "name": "ジャガー・ランドローバー愛媛"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -1562,7 +1317,7 @@
               }
             },
             {
-              "-id": "9575406296",
+              "-id": "9576221410",
               "-ft": "20210711220000",
               "-to": "20210711223000",
               "-ftl": "2200",
@@ -1575,22 +1330,6 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EU/person/8796_a6388ea8_sq.jpg\" height=\"60\" width=\"60\" alt=\"若藤昌男、中村タカシ\"></td>  </tr></table><br /><br />\tレトロ玩具を紹介しているYouTubeの”英雄星チャンネル”で紹介できない懐かしのアニソンなどの音楽にスポットを当てた番組です。毎週日曜日22:00頃～リクエストやメッセージも募集中!!radikoタイムフリーで後から聴ける！ <br /><br /><br /></div>",
               "pfm": "若藤昌男、中村タカシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/2egydhm868.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "アニソン"
-                  },
-                  {
-                    "name": "若藤昌男"
-                  },
-                  {
-                    "name": "中村タカシ"
-                  },
-                  {
-                    "name": "特撮ヒーロー"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C012",
@@ -1609,7 +1348,7 @@
               }
             },
             {
-              "-id": "9575398834",
+              "-id": "9576221413",
               "-ft": "20210711223000",
               "-to": "20210711230000",
               "-ftl": "2230",
@@ -1621,25 +1360,6 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "音楽プロデューサー"
-                  },
-                  {
-                    "name": "キーボーディスト"
-                  },
-                  {
-                    "name": "アレンジャー"
-                  },
-                  {
-                    "name": "ミュージシャン"
-                  },
-                  {
-                    "name": "夏目一朗"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -1658,7 +1378,7 @@
               }
             },
             {
-              "-id": "9575397498",
+              "-id": "9576221416",
               "-ft": "20210711230000",
               "-to": "20210711233000",
               "-ftl": "2300",
@@ -1690,7 +1410,7 @@
               }
             },
             {
-              "-id": "9575407791",
+              "-id": "9576221421",
               "-ft": "20210711233000",
               "-to": "20210711235500",
               "-ftl": "2330",
@@ -1722,7 +1442,7 @@
               }
             },
             {
-              "-id": "9575299930",
+              "-id": "9576221423",
               "-ft": "20210711235500",
               "-to": "20210712000000",
               "-ftl": "2355",
@@ -1734,16 +1454,6 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "音楽"
-                  },
-                  {
-                    "name": "パワープレイ"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -1762,7 +1472,7 @@
               }
             },
             {
-              "-id": "9575565961",
+              "-id": "9576221425",
               "-ft": "20210712000000",
               "-to": "20210712003000",
               "-ftl": "2400",
@@ -1776,11 +1486,6 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EU/person/9327_7219dd79_sq.jpg\" height=\"60\" width=\"60\" alt=\"ティモンディ\"></td>  </tr></table><br /><br />\t話題のお笑いコンビ、ティモンディ初の冠ラジオ番組がスタート！FM愛媛のすぐそこ、済美高校野球部出身ということで、まさに凱旋放送！日曜の深夜、明日から学校や仕事に行きたくない…そんな人たちの背中を笑いでグイグイ押すような番組！（に、なる予定）番組へのメール、ビシバシお待ちしております。やればできる！ <br /><br />\t番組Webサイト：<a href=\"https://www.joeufm.co.jp/tmd/\">https://www.joeufm.co.jp/tmd/</a><br />\tメールアドレス：<a href=\"mailto:tmd@joeufm.com\">tmd@joeufm.com</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%86%E3%82%A3%E3%83%A2%E3%83%B3%E3%83%87%E3%82%A3%E3%81%AE%E6%B1%BA%E8%B5%B7%E9%9B%86%E4%BC%9A\">#ティモンディの決起集会</a>」<br /><br /></div>",
               "pfm": "ティモンディ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/ncdyvy5xqm.jpg",
-              "tag": {
-                "item": {
-                  "name": "ティモンディ"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C009",
@@ -1799,7 +1504,7 @@
               }
             },
             {
-              "-id": "9575565974",
+              "-id": "9576221429",
               "-ft": "20210712003000",
               "-to": "20210712010000",
               "-ftl": "2430",
@@ -1812,16 +1517,6 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EU/person/9371_94437135_sq.jpg\" height=\"60\" width=\"60\" alt=\"太田将熙\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EU/person/9372_eec96013_sq.jpg\" height=\"60\" width=\"60\" alt=\"石賀和輝\"></td>  </tr></table><br /><br />\tネクストブレイクを期待されている若手俳優、太田将熙と石賀和輝。　まだまだ未熟な彼らが、これから、もっともっと大きく羽ばたく為に必要な事は…磨く(Polish)こと！この番組では、彼らが色々な自分磨きに挑戦し、そして、輝きを増していく様をお届けしていきます！ <br /><br /><br /></div>",
               "pfm": "太田将熙 / 石賀和輝",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "太田将煕"
-                  },
-                  {
-                    "name": "石賀和輝"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C002",
@@ -1840,7 +1535,7 @@
               }
             },
             {
-              "-id": "9575565984",
+              "-id": "9576221433",
               "-ft": "20210712010000",
               "-to": "20210712013000",
               "-ftl": "2500",
@@ -1852,16 +1547,6 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOEU-FM/a5e2c199-20fc-4ed2-8f86-bf223bfa9b38.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "JAZZ"
-                  },
-                  {
-                    "name": "ジャズ"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -1880,7 +1565,7 @@
               }
             },
             {
-              "-id": "9575531258",
+              "-id": "9576221436",
               "-ft": "20210712013000",
               "-to": "20210712050000",
               "-ftl": "2530",

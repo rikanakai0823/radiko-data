@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1625422907",
+    "srvtime": "1625854890",
     "stations": {
       "station": {
         "-id": "ALPHA-STATION",
@@ -10,7 +10,7 @@
           "date": "20210710",
           "prog": [
             {
-              "-id": "9575482113",
+              "-id": "9576345829",
               "-ft": "20210710050000",
               "-to": "20210710060000",
               "-ftl": "0500",
@@ -49,7 +49,7 @@
               }
             },
             {
-              "-id": "9575482127",
+              "-id": "9576345848",
               "-ft": "20210710060000",
               "-to": "20210710070000",
               "-ftl": "0600",
@@ -527,25 +527,74 @@
               }
             },
             {
-              "-id": "9575398266",
+              "-id": "9576241310",
               "-ft": "20210711010000",
-              "-to": "20210711050000",
+              "-to": "20210711020000",
               "-ftl": "2500",
-              "-tol": "2900",
-              "-dur": "14400",
-              "title": "京都大作戦 MIDNIGHT BREEZING",
-              "url": "https://fm-kyoto.jp/information/info-107693/",
+              "-tol": "2600",
+              "-dur": "3600",
+              "title": "α-MIDNIGHT JAZZ",
+              "url": "https://fm-kyoto.jp/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "京都大作戦2021の1日目と2日目、そして3日目と4日目の狭間にお送りする、出演アーティストの楽曲によるNONDJのノンストップ・ミュージックプログラム。",
-              "pfm": "NON-DJ(京都大作戦 MIDNIGHT BREEZING)",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ALPHA-STATION/15415959-c37e-4430-842a-9460a7ec14a3.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
+              "desc": "特別席を想像させるような極上のJAZZを中心にソフィスケートされたミュージックプログラム。\n",
+              "info": "<br /><br /> <p>twitterアカウントは「<a href=\"http://twitter.com/fmkyoto\">@fmkyoto</a>」</p> <p>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%CE%B1STATION\">#αSTATION</a>」</p> <p>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23FM%E4%BA%AC%E9%83%BD\">#FM京都</a>」</p> ",
+              "pfm": "NON-DJ(α-MIDNIGHT JAZZ)",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ALPHA-STATION/exbuko4ovt.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#αSTATION"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "#FM京都"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:fmkyoto"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9576237188",
+              "-ft": "20210711020000",
+              "-to": "20210711050000",
+              "-ftl": "2600",
+              "-tol": "2900",
+              "-dur": "10800",
+              "title": "TMAINTE",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "只今、メンテナンス中です。",
+              "info": "<br /><br /> <p>twitterアカウントは「<a href=\"http://twitter.com/fmkyoto\">@fmkyoto</a>」</p> <p>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%CE%B1STATION\">#αSTATION</a>」</p> <p>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23FM%E4%BA%AC%E9%83%BD\">#FM京都</a>」</p> ",
+              "pfm": "TMAINTE",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ALPHA-STATION/exbuko4ovt.jpg",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#αSTATION"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "#FM京都"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:fmkyoto"
+                  }
+                ]
               }
             }
           ]

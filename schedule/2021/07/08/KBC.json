@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1625768460",
+    "srvtime": "1625854870",
     "stations": {
       "station": {
         "-id": "KBC",
@@ -742,7 +742,7 @@
               }
             },
             {
-              "-id": "9576139418",
+              "-id": "9576231612",
               "-ft": "20210708174000",
               "-to": "20210708235500",
               "-ftl": "1740",
@@ -755,6 +755,26 @@
               "ts_out_ng": "0",
               "desc": "ＫＢＣラジオは今シーズンもホークス戦を全試合実況中継",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/4bf89a28-28e4-477e-b8da-3a8b147f67c2.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "#カチタカ"
+                  },
+                  {
+                    "name": "#sbhawks"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -763,7 +783,7 @@
               }
             },
             {
-              "-id": "9576139456",
+              "-id": "9576231707",
               "-ft": "20210708235500",
               "-to": "20210709000000",
               "-ftl": "2355",
@@ -775,6 +795,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/4bf89a28-28e4-477e-b8da-3a8b147f67c2.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -887,7 +913,7 @@
               }
             },
             {
-              "-id": "9575889482",
+              "-id": "9576260728",
               "-ft": "20210709030000",
               "-to": "20210709050000",
               "-ftl": "2700",
