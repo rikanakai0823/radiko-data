@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1625941348",
+    "srvtime": "1626114103",
     "stations": {
       "station": {
         "-id": "DATEFM",
@@ -578,12 +578,70 @@
               }
             },
             {
-              "-id": "9576246455",
+              "-id": "9576849273",
               "-ft": "20210716150000",
-              "-to": "20210716165000",
+              "-to": "20210716154500",
               "-ftl": "1500",
+              "-tol": "1545",
+              "-dur": "2700",
+              "title": "AIR JAM Friday",
+              "url": "http://www.datefm.jp/airjamfriday/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.datefm.jp/airjamfriday/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JU/program/50850_491d8a99_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JU/person/137_6021d395_sq.jpg\" height=\"60\" width=\"60\" alt=\"本間秋彦\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JU/person/7300_09ec0f34_sq.jpg\" height=\"60\" width=\"60\" alt=\"佐藤友紀乃\"></td>  </tr></table><br /><br />\tDate fm Just Fine! Just Music!<br />～こんな時だからこそ、心を元気に～ <br /><br />\t番組Webサイト：<a href=\"http://www.datefm.jp/airjamfriday/\">http://www.datefm.jp/airjamfriday/</a><br />\tメッセージフォーム：<a href=\"https://771.fm/sys_rqtform/index.aspx?pno=64\">https://771.fm/sys_rqtform/index.aspx?pno=64</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23AIRJAMFriday\">#AIRJAMFriday</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/airjamfriday771\">@airjamfriday771</a>」<br /><br /></div>",
+              "pfm": "本間秋彦 / 佐藤友紀乃",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/DATEFM/xcoozogs4m.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#AIRJAMFriday"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:airjamfriday771"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9576849275",
+              "-ft": "20210716154500",
+              "-to": "20210716155500",
+              "-ftl": "1545",
+              "-tol": "1555",
+              "-dur": "600",
+              "title": "東京2020オリンピックハイライト",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t【出演】新保友映、笹木かおり <br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/DATEFM/009fa7c3-e26d-4518-a835-72dd16044d6f.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9576854328",
+              "-ft": "20210716155500",
+              "-to": "20210716165000",
+              "-ftl": "1555",
               "-tol": "1650",
-              "-dur": "6600",
+              "-dur": "3300",
               "title": "AIR JAM Friday",
               "url": "http://www.datefm.jp/airjamfriday/",
               "failed_record": "0",
@@ -970,12 +1028,32 @@
               }
             },
             {
-              "-id": "9576420723",
+              "-id": "9576849282",
               "-ft": "20210716200000",
-              "-to": "20210716203000",
+              "-to": "20210716201000",
               "-ftl": "2000",
+              "-tol": "2010",
+              "-dur": "600",
+              "title": "東京2020オリンピックハイライト",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t【出演】新保友映、笹木かおり <br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/DATEFM/009fa7c3-e26d-4518-a835-72dd16044d6f.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9576854369",
+              "-ft": "20210716201000",
+              "-to": "20210716203000",
+              "-ftl": "2010",
               "-tol": "2030",
-              "-dur": "1800",
+              "-dur": "1200",
               "title": "GENERATIONSのGENETALK",
               "url": "http://www.jfn.jp/gene",
               "failed_record": "0",
@@ -992,7 +1070,7 @@
               }
             },
             {
-              "-id": "9576420728",
+              "-id": "9576600948",
               "-ft": "20210716203000",
               "-to": "20210716205500",
               "-ftl": "2030",
@@ -1307,7 +1385,7 @@
               }
             },
             {
-              "-id": "9576430146",
+              "-id": "9576602683",
               "-ft": "20210717010000",
               "-to": "20210717050000",
               "-ftl": "2500",
