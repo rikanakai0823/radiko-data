@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1626114117",
+    "srvtime": "1626200486",
     "stations": {
       "station": {
         "-id": "RCC",
@@ -105,7 +105,7 @@
               }
             },
             {
-              "-id": "9576506112",
+              "-id": "9576945617",
               "-ft": "20210718055500",
               "-to": "20210718060000",
               "-ftl": "0555",
@@ -853,7 +853,7 @@
               }
             },
             {
-              "-id": "9576507840",
+              "-id": "9576945675",
               "-ft": "20210718163900",
               "-to": "20210718164300",
               "-ftl": "1639",
@@ -1140,83 +1140,48 @@
               }
             },
             {
-              "-id": "9576617890",
+              "-id": "9576962946",
               "-ft": "20210718210000",
               "-to": "20210718213000",
               "-ftl": "2100",
               "-tol": "2130",
               "-dur": "1800",
-              "title": "（再）STU48 のちりめんパーティー",
-              "url": "https://radio.rcc.jp/chirimen/",
+              "title": "アンガールズのカープ愛炸裂番組　カーティスト",
+              "url": "https://radio.rcc.jp/cartist/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "STU48、ボールボーイ佐竹",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/8fb11da4-60e8-44aa-93c0-d89bfc6c4846.jpeg",
+              "desc": "アンガールズがカープを愛するアーティスト「カーティスト」とカープと音楽の話題をたっぷりお届けするトーク＆音楽バラエティー",
+              "info": "メール:<a href=\"mailto:cartist@rcc.net?subject=カーティスト\">cartist@rcc.net</a><br/>Twitter:<a href=\"https://twitter.com/cartist1350\">@cartist1350</a>",
+              "pfm": "アンガールズ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/88a2ebb7-1f6e-4e8e-ad84-f5776529a10d.jpeg",
               "tag": {
                 "item": [
-                  {
-                    "name": "アイドル"
-                  },
-                  {
-                    "name": "STU48"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9576611518",
-              "-ft": "20210718213000",
-              "-to": "20210718214500",
-              "-ftl": "2130",
-              "-tol": "2145",
-              "-dur": "900",
-              "title": "（再）カープのU la la ！",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "pfm": "ＲＣＣスポーツアナウンサー",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/9005f8b1-d831-4f75-9bd3-3a915024248e.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "広島"
-                  },
                   {
                     "name": "カープ"
                   },
                   {
-                    "name": "実況"
+                    "name": "広島"
                   },
                   {
-                    "name": "野球"
+                    "name": "プロ野球"
+                  },
+                  {
+                    "name": "アンガールズ"
+                  },
+                  {
+                    "name": "芸人"
                   }
                 ]
               },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C009",
+                  "name": "芸人"
                 },
                 "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -1227,22 +1192,29 @@
               }
             },
             {
-              "-id": "9576617920",
-              "-ft": "20210718214500",
+              "-id": "9576962951",
+              "-ft": "20210718213000",
               "-to": "20210718220000",
-              "-ftl": "2145",
+              "-ftl": "2130",
               "-tol": "2200",
-              "-dur": "900",
-              "title": "（再）RCCPLAY ！RADIO",
-              "url": "https://radio.rcc.jp/rccplayradio/",
+              "-dur": "1800",
+              "title": "佐々木リョウのバリＡじゃんラジオ",
+              "url": "https://radio.rcc.jp/bari_radi/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "田口麻衣",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/a58fa730-82ff-4f22-84b5-e65e0a77e5cb.jpeg",
-              "tag": {
-                "item": {
-                  "name": "イベント情報"
+              "desc": "佐々木リョウがバリえぇと思う人や、ものについて、ゲストを招いたりしながら語ります",
+              "info": "<img src=\"https://radio.rcc.jp/topimages/bariradi_icon-trans.png?2019\" alt=\"佐々木リョウのバリAじゃんラジオ\" /><br /><br/>メールアドレス：<a href=\"mailto:music@rcc.net\">music@rcc.net </a><br />（件名に「バリAじゃんラジオ」とご記入下さい）<br />歌ってほしい曲や、みなさんのバリえぇ話をお待ちしてます！",
+              "pfm": "佐々木リョウ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/9b219b68-d1dc-4886-b014-78b4d6e3df3f.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -1358,7 +1330,7 @@
               }
             },
             {
-              "-id": "9576758647",
+              "-id": "9576924439",
               "-ft": "20210719003000",
               "-to": "20210719010000",
               "-ftl": "2430",
@@ -1370,7 +1342,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "Youtubeラジオ局「PILOT」が制作した様々な番組を放送！放送終了後には、Youtubeの「PILOT」チャンネルにアップ！",
-              "info": "今週の放送は、Ａマッソ加納×ヒコロヒーの「レイコーラジオ」をお送りします。<br><br/><br><br/>メール：pr＠pilotradio.jp<br><br/>twitter：<a href=\"https://twitter.com/radio_pilot\">@radio_pilot</a><br><br/>ハッシュタグ：#パイロットラジオ<br><br/>Youtube：<a href=\"https://t.co/AJxGqcT8M9?amp=1\">https://t.co/AJxGqcT8M9?amp=1</a><br><br/>CAMPFIREコミュニティ：<a href=\"https://community.camp-fire.jp/projects/view/295814\">https://community.camp-fire.jp/projects/view/295814</a><br>",
+              "info": "今週の放送は、トンツカタン森本×ザ・マミィ林田の「ポスクラ」をお送りします。<br><br/><br><br/>メール：pr＠pilotradio.jp<br><br/>twitter：<a href=\"https://twitter.com/radio_pilot\">@radio_pilot</a><br><br/>ハッシュタグ：#パイロットラジオ<br><br/>Youtube：<a href=\"https://t.co/AJxGqcT8M9?amp=1\">https://t.co/AJxGqcT8M9?amp=1</a><br><br/>CAMPFIREコミュニティ：<a href=\"https://community.camp-fire.jp/projects/view/295814\">https://community.camp-fire.jp/projects/view/295814</a><br>",
               "pfm": "トンツカタン森本、ザ・マミィ林田",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/ec78c67a-1172-44c5-b4fa-65cfc54b5a51.jpeg",
               "metas": {
@@ -1420,7 +1392,7 @@
               }
             },
             {
-              "-id": "9576680657",
+              "-id": "9576945723",
               "-ft": "20210719012500",
               "-to": "20210719013000",
               "-ftl": "2525",

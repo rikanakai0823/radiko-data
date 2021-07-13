@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1626114106",
+    "srvtime": "1626200473",
     "stations": {
       "station": {
         "-id": "JORF",
@@ -523,12 +523,12 @@
               }
             },
             {
-              "-id": "9576598470",
+              "-id": "9576884434",
               "-ft": "20210717164000",
-              "-to": "20210717165000",
+              "-to": "20210717170000",
               "-ftl": "1640",
-              "-tol": "1650",
-              "-dur": "600",
+              "-tol": "1700",
+              "-dur": "1200",
               "title": "サタデースポーツトピックス",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -544,36 +544,6 @@
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#jorf"
-                }
-              }
-            },
-            {
-              "-id": "9576585039",
-              "-ft": "20210717165000",
-              "-to": "20210717170000",
-              "-ftl": "1650",
-              "-tol": "1700",
-              "-dur": "600",
-              "title": "ラジオ日本演歌ランキング",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JORF/2a3d6b87-cd38-49ef-bcc2-4dfd3cbf36c6.png",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
                 }
               },
               "metas": {
