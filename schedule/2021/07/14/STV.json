@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1625768517",
+    "srvtime": "1626286839",
     "stations": {
       "station": {
         "-id": "STV",
@@ -57,7 +57,7 @@
               }
             },
             {
-              "-id": "9575893590",
+              "-id": "9576961166",
               "-ft": "20210714052000",
               "-to": "20210714053000",
               "-ftl": "0520",
@@ -272,7 +272,7 @@
               }
             },
             {
-              "-id": "9575894003",
+              "-id": "9576961329",
               "-ft": "20210714130000",
               "-to": "20210714160000",
               "-ftl": "1300",
@@ -305,7 +305,7 @@
               }
             },
             {
-              "-id": "9575902363",
+              "-id": "9577139074",
               "-ft": "20210714160000",
               "-to": "20210714175500",
               "-ftl": "1600",
@@ -320,6 +320,16 @@
               "info": "メール：live@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "吉川のりお　草野あずみ　／　牧やすまさ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/685cc077-3bd9-41bb-a67e-8410802c59ef.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -350,12 +360,44 @@
               }
             },
             {
-              "-id": "9575902461",
+              "-id": "9577184659",
               "-ft": "20210714190000",
               "-to": "20210714210000",
               "-ftl": "1900",
               "-tol": "2100",
               "-dur": "7200",
+              "title": "ＳＴＶファイターズＬＩＶＥ　巨人ｖｓヤクルト＠東京ドーム",
+              "url": "https://www.stv.jp/radio/fighters-live/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "メール：win@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "解説：大矢明彦　実況：宮田統樹",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/1a79addc-55b2-4110-bba8-e9f160cb5ee1.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9577185327",
+              "-ft": "20210714210000",
+              "-to": "20210714221500",
+              "-ftl": "2100",
+              "-tol": "2215",
+              "-dur": "4500",
               "title": "ＳＴＶファイターズＬＩＶＥ　巨人ｖｓヤクルト＠東京ドーム",
               "url": "https://www.stv.jp/radio/fighters-live/index.html",
               "failed_record": "0",
@@ -372,34 +414,12 @@
               }
             },
             {
-              "-id": "9575894208",
-              "-ft": "20210714210000",
-              "-to": "20210714220000",
-              "-ftl": "2100",
-              "-tol": "2200",
-              "-dur": "3600",
-              "title": "リアルタイム！",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "ＳＴＶファイターズＬＩＶＥが終わったら、今知りたい情報にこだわってお送りする「リアルタイム！」で今日１日をおさらい！",
-              "info": "メール：win@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
-              "pfm": "田村みなみ",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/ba0eaefb-c860-47c4-89b0-0088196515f4.png",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9575901077",
-              "-ft": "20210714220000",
+              "-id": "9577185333",
+              "-ft": "20210714221500",
               "-to": "20210715000000",
-              "-ftl": "2200",
+              "-ftl": "2215",
               "-tol": "2400",
-              "-dur": "7200",
+              "-dur": "6300",
               "title": "オールナイトニッポン  ＭＵＳＩＣ１０",
               "url": "http://www.allnightnippon.com/music10/",
               "failed_record": "0",
@@ -476,7 +496,7 @@
               }
             },
             {
-              "-id": "9576090677",
+              "-id": "9576771097",
               "-ft": "20210715010000",
               "-to": "20210715030000",
               "-ftl": "2500",

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1626200453",
+    "srvtime": "1626286847",
     "stations": {
       "station": {
         "-id": "MBS",
@@ -10,7 +10,7 @@
           "date": "20210715",
           "prog": [
             {
-              "-id": "9576800275",
+              "-id": "9577160878",
               "-ft": "20210715050000",
               "-to": "20210715060000",
               "-ftl": "0500",
@@ -24,10 +24,19 @@
               "desc": "令和にLadyがRadioで5時からReady Go！<br />元日本道路交通情報センターの2人が送るその日にちなんだ音楽番組です。<br /><br /><br />★★主なコーナー★★<br /><br />▽ちなみソング<br />▽N・天・交<br /><br />5：53～6：00　「ENEOSプレゼンツ黒木瞳のあさナビ」<br /><br /><br />メールアドレス：<a href=mailto:go@mbs1179.com>go@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/go/ target=_blank>こちらをクリック</a>",
               "pfm": "柴田由美子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/94bf2555-d945-43bd-abda-1ba459bba121.jpeg",
+              "tag": {
+                "item": {
+                  "name": "柴田由美子"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -38,7 +47,7 @@
               }
             },
             {
-              "-id": "9576800283",
+              "-id": "9577160883",
               "-ft": "20210715060000",
               "-to": "20210715080000",
               "-ftl": "0600",
@@ -53,9 +62,14 @@
               "pfm": "子守康範、大塚由美",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/05619443-62b6-47f1-b1bc-5db3cae436ad.jpeg",
               "tag": {
-                "item": {
-                  "name": "大塚由美"
-                }
+                "item": [
+                  {
+                    "name": "大塚由美"
+                  },
+                  {
+                    "name": "子守康範"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -75,7 +89,7 @@
               }
             },
             {
-              "-id": "9576953668",
+              "-id": "9577160888",
               "-ft": "20210715080000",
               "-to": "20210715103000",
               "-ftl": "0800",
@@ -99,6 +113,9 @@
                   },
                   {
                     "name": "愛希れいか"
+                  },
+                  {
+                    "name": "浜村淳"
                   }
                 ]
               },
@@ -120,7 +137,7 @@
               }
             },
             {
-              "-id": "9576953681",
+              "-id": "9577160895",
               "-ft": "20210715103000",
               "-to": "20210715123000",
               "-ftl": "1030",
@@ -141,6 +158,12 @@
                   },
                   {
                     "name": "令和喜多みな実 河野"
+                  },
+                  {
+                    "name": "松井愛"
+                  },
+                  {
+                    "name": "MBSアナウンサー"
                   }
                 ]
               },
@@ -162,7 +185,7 @@
               }
             },
             {
-              "-id": "9576886666",
+              "-id": "9577160902",
               "-ft": "20210715123000",
               "-to": "20210715153000",
               "-ftl": "1230",
@@ -216,7 +239,7 @@
               }
             },
             {
-              "-id": "9576955400",
+              "-id": "9577160909",
               "-ft": "20210715153000",
               "-to": "20210715174500",
               "-ftl": "1530",
@@ -270,7 +293,7 @@
               }
             },
             {
-              "-id": "9576800326",
+              "-id": "9577160915",
               "-ft": "20210715174500",
               "-to": "20210715175400",
               "-ftl": "1745",
@@ -284,10 +307,24 @@
               "desc": "メールアドレス：<a href=mailto:park@mbs1179.com target=_blank>park@mbs1179.com</a><br /><br /><br />◆MBSベースボールパーク番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/tigers/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/tigers_park_mbs target=_blank>@tigers_park_mbs</a><br />☆facebook：<a href=https://www.facebook.com/mbs.tigers.live/ target=_blank>こちらをクリック</a><br />☆Instagram：<a href=https://www.instagram.com/mbs_baseballpark/ target=_blank>mbs_baseballpark</a>",
               "pfm": "上泉雄一（MBSアナウンサー）、江間丈",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/d0284195-7a9d-44cd-9358-7c571616b0c2.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "上泉雄一"
+                  },
+                  {
+                    "name": "江間丈"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C013",
                   "name": "アスリート"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
                 }
               },
               "metas": {
@@ -298,7 +335,7 @@
               }
             },
             {
-              "-id": "9576886753",
+              "-id": "9577160917",
               "-ft": "20210715175400",
               "-to": "20210715210000",
               "-ftl": "1754",
@@ -309,8 +346,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "試合終了まで中継いたしますので、以降の番組は時間変更の場合があります。<br />変更内容については野球中継終了後、以後の番組の時間が確定次第掲載します。<br /><br />【中止の場合】<br />NRNフィラー番組を放送致します<br />18：00～19：00　『ナイタースペシャル 55!!(GoGo!!)みんなのプロ野球』<br />19：00～21：00　『ナイタースペシャル　熊谷実帆のサウンドコレクション』<br /><br /><br />メールアドレス：<a href=mailto:park@mbs1179.com target=_blank>park@mbs1179.com</a><br /><br /><br />◆MBSベースボールパーク番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/tigers/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/tigers_park_mbs target=_blank>@tigers_park_mbs</a><br />☆Instagram：<a href=https://www.instagram.com/mbs_baseballpark/ target=_blank>mbs_baseballpark</a>",
-              "pfm": "★フレッシュオールスター★ ウエスタン・リーグ×イースタン・リーグ（松山）　解説：野村弘樹　実況：大泉健斗・小永井一歩　試合終了まで中継いたしますので、以降の番組は時間変更の場合があります。　変更内容については野球中継終了後、以後の番組の時間が確定次第掲載します。　【中止の場合】　NRNフィラー番組を放送致します。　18：00～19：00　『ナイタースペシャル 55!!(GoGo!!)みんなのプロ野球』　19：00～21：00　『ナイタースペシャル　熊谷実帆のサウンドコレクション』",
+              "desc": "★フレッシュオールスターゲーム2021★<br /><br />ウエスタン・リーグ×イースタン・リーグ（松山）<br />解説：野村弘樹<br />実況：大泉健斗・小永井一歩<br /><br />試合終了まで中継いたしますので、以降の番組は時間変更の場合があります。<br />変更内容については野球中継終了後、以後の番組の時間が確定次第掲載します。<br /><br />【中止の場合】<br />NRNフィラー番組を放送致します<br />18：00～19：00　『ナイタースペシャル 55!!(GoGo!!)みんなのプロ野球』<br />19：00～21：00　『ナイタースペシャル　熊谷実帆のサウンドコレクション』<br /><br /><br />メールアドレス：<a href=mailto:park@mbs1179.com target=_blank>park@mbs1179.com</a><br /><br /><br />◆MBSベースボールパーク番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/tigers/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/tigers_park_mbs target=_blank>@tigers_park_mbs</a><br />☆Instagram：<a href=https://www.instagram.com/mbs_baseballpark/ target=_blank>mbs_baseballpark</a>",
+              "pfm": "★フレッシュオールスターゲーム2021★ ウエスタン・リーグ×イースタン・リーグ（松山）　解説：野村弘樹　実況：大泉健斗・小永井一歩　試合終了まで中継いたしますので、以降の番組は時間変更の場合があります。　変更内容については野球中継終了後、以後の番組の時間が確定次第掲載します。　【中止の場合】　NRNフィラー番組を放送致します。　18：00～19：00　『ナイタースペシャル 55!!(GoGo!!)みんなのプロ野球』　19：00～21：00　『ナイタースペシャル　熊谷実帆のサウンドコレクション』",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/64c39a63-b682-4549-a318-e1a2bc5d23fc.jpeg",
               "tag": {
                 "item": {
@@ -335,7 +372,7 @@
               }
             },
             {
-              "-id": "9576800338",
+              "-id": "9577160925",
               "-ft": "20210715210000",
               "-to": "20210715215000",
               "-ftl": "2100",
@@ -349,10 +386,19 @@
               "desc": "メールアドレス：<a href=mailto:park@mbs1179.com target=_blank>park@mbs1179.com</a><br /><br /><br />◆MBSベースボールパークEXトラ！番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/tigers/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/tigers_park_mbs target=_blank>@tigers_park_mbs</a><br />☆Instagram：<a href=https://www.instagram.com/mbs_baseballpark/ target=_blank>mbs_baseballpark</a>",
               "pfm": "江間丈",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/d0284195-7a9d-44cd-9358-7c571616b0c2.jpeg",
+              "tag": {
+                "item": {
+                  "name": "江間丈"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
                 }
               },
               "metas": {
@@ -363,7 +409,7 @@
               }
             },
             {
-              "-id": "9576800342",
+              "-id": "9577160927",
               "-ft": "20210715215000",
               "-to": "20210715220000",
               "-ftl": "2150",
@@ -374,6 +420,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -382,7 +434,7 @@
               }
             },
             {
-              "-id": "9576886796",
+              "-id": "9577160928",
               "-ft": "20210715220000",
               "-to": "20210715233000",
               "-ftl": "2200",
@@ -436,7 +488,7 @@
               }
             },
             {
-              "-id": "9576955440",
+              "-id": "9577160933",
               "-ft": "20210715233000",
               "-to": "20210716000000",
               "-ftl": "2330",
@@ -490,7 +542,7 @@
               }
             },
             {
-              "-id": "9576886810",
+              "-id": "9577160935",
               "-ft": "20210716000000",
               "-to": "20210716003000",
               "-ftl": "2400",
@@ -532,7 +584,7 @@
               }
             },
             {
-              "-id": "9576800354",
+              "-id": "9577160938",
               "-ft": "20210716003000",
               "-to": "20210716010000",
               "-ftl": "2430",
@@ -546,10 +598,19 @@
               "desc": "TVコメンテーターとしても多数出演、一児の母でもあるエッセイスト、犬山紙子。<br />いま、女性と社会をとりまく問題をはじめ、「コミュニケーション」を仕事にする彼女が、<br />忖度なしの本音で、一人語りのラジオに挑戦。<br />恋愛や性、夫婦問題、子育て、差別や嫉妬…<br />常に生き方更新中の彼女だから考える、いま関心のあること、<br />いま伝えるべきことを忖度ナシの本音で語り尽くします!!<br />「私たち、これからどう生きていく!?」<br /><br /><br />メールアドレス：<a href=mailto:inuboe@mbs1179.com target=_blank>inuboe@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/inuboe/ target=_blank>こちらをクリック</a>",
               "pfm": "犬山紙子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/66c8a92b-5f80-40a6-9a8f-16e146732127.jpeg",
+              "tag": {
+                "item": {
+                  "name": "犬山紙子"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -560,7 +621,7 @@
               }
             },
             {
-              "-id": "9576886819",
+              "-id": "9577160939",
               "-ft": "20210716010000",
               "-to": "20210716023000",
               "-ftl": "2500",
@@ -602,7 +663,7 @@
               }
             },
             {
-              "-id": "9576955449",
+              "-id": "9577160944",
               "-ft": "20210716023000",
               "-to": "20210716030000",
               "-ftl": "2630",
@@ -639,7 +700,7 @@
               }
             },
             {
-              "-id": "9576800364",
+              "-id": "9577221275",
               "-ft": "20210716030000",
               "-to": "20210716044000",
               "-ftl": "2700",
@@ -653,6 +714,12 @@
               "desc": "メールアドレス：<a href=mailto:ad@mbs1179.com target=_blank>ad@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/ad/ target=_blank>こちらをクリック</a>",
               "pfm": "福井高（エキスプレス）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/9b7eab5b-2e90-45a1-9cf6-839a5e5e9de6.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -661,7 +728,7 @@
               }
             },
             {
-              "-id": "9576800369",
+              "-id": "9577160952",
               "-ft": "20210716044000",
               "-to": "20210716045500",
               "-ftl": "2840",
@@ -672,6 +739,11 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ショッピング"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C009",
@@ -686,7 +758,7 @@
               }
             },
             {
-              "-id": "9576886833",
+              "-id": "9577160953",
               "-ft": "20210716045500",
               "-to": "20210716050000",
               "-ftl": "2855",
