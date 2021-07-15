@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1626286856",
+    "srvtime": "1626373301",
     "stations": {
       "station": {
         "-id": "FMFUKUI",
@@ -10,7 +10,7 @@
           "date": "20210715",
           "prog": [
             {
-              "-id": "9576952085",
+              "-id": "9577305779",
               "-ft": "20210715050000",
               "-to": "20210715053000",
               "-ftl": "0500",
@@ -58,7 +58,7 @@
               }
             },
             {
-              "-id": "9576070189",
+              "-id": "9577263509",
               "-ft": "20210715053000",
               "-to": "20210715060000",
               "-ftl": "0530",
@@ -109,7 +109,7 @@
               }
             },
             {
-              "-id": "9577200947",
+              "-id": "9577263515",
               "-ft": "20210715060000",
               "-to": "20210715073000",
               "-ftl": "0600",
@@ -166,7 +166,7 @@
               }
             },
             {
-              "-id": "9576090800",
+              "-id": "9577263537",
               "-ft": "20210715073000",
               "-to": "20210715080000",
               "-ftl": "0730",
@@ -232,7 +232,7 @@
               }
             },
             {
-              "-id": "9576084464",
+              "-id": "9577263541",
               "-ft": "20210715080000",
               "-to": "20210715080900",
               "-ftl": "0800",
@@ -282,7 +282,7 @@
               }
             },
             {
-              "-id": "9576084486",
+              "-id": "9577263546",
               "-ft": "20210715080900",
               "-to": "20210715081000",
               "-ftl": "0809",
@@ -331,7 +331,7 @@
               }
             },
             {
-              "-id": "9576084500",
+              "-id": "9577263548",
               "-ft": "20210715081000",
               "-to": "20210715082000",
               "-ftl": "0810",
@@ -380,7 +380,7 @@
               }
             },
             {
-              "-id": "9576090841",
+              "-id": "9577263550",
               "-ft": "20210715082000",
               "-to": "20210715105000",
               "-ftl": "0820",
@@ -446,7 +446,7 @@
               }
             },
             {
-              "-id": "9576081931",
+              "-id": "9577263575",
               "-ft": "20210715105000",
               "-to": "20210715105500",
               "-ftl": "1050",
@@ -458,6 +458,11 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.fmfukui.jp/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/LU/program/2565_b82e7b73_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br />\t今日のお昼ご飯はもうお決まりですか？この番組では協賛店各社の最新ランチ情報を曜日替わりでお伝えしています。 <br /><br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/3ndqm5s4oy.jpg",
+              "tag": {
+                "item": {
+                  "name": "ランチ"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -476,7 +481,7 @@
               }
             },
             {
-              "-id": "9576018892",
+              "-id": "9577392840",
               "-ft": "20210715105500",
               "-to": "20210715110000",
               "-ftl": "1055",
@@ -489,14 +494,19 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.fmfukui.jp/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/LU/program/2566_b82e7b73_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br />\tFM福井スタンプラリー「ぐるスタ」の協賛店情報、県内の企業情報、イベントなどをご紹介。 <br /><br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/3ndqm5s4oy.jpg",
               "tag": {
-                "item": {
-                  "name": "国内・海外のニュース"
-                }
+                "item": [
+                  {
+                    "name": "インフォメーション"
+                  },
+                  {
+                    "name": "ぐるスタ!"
+                  }
+                ]
               },
               "genre": {
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -507,7 +517,7 @@
               }
             },
             {
-              "-id": "9577200963",
+              "-id": "9577263579",
               "-ft": "20210715110000",
               "-to": "20210715113000",
               "-ftl": "1100",
@@ -549,7 +559,7 @@
               }
             },
             {
-              "-id": "9576084615",
+              "-id": "9577263587",
               "-ft": "20210715113000",
               "-to": "20210715125500",
               "-ftl": "1130",
@@ -594,7 +604,7 @@
               }
             },
             {
-              "-id": "9577126042",
+              "-id": "9577301404",
               "-ft": "20210715125500",
               "-to": "20210715130000",
               "-ftl": "1255",
@@ -639,7 +649,7 @@
               }
             },
             {
-              "-id": "9576849225",
+              "-id": "9577263615",
               "-ft": "20210715130000",
               "-to": "20210715133000",
               "-ftl": "1300",
@@ -684,7 +694,7 @@
               }
             },
             {
-              "-id": "9576072326",
+              "-id": "9577263623",
               "-ft": "20210715133000",
               "-to": "20210715155000",
               "-ftl": "1330",
@@ -741,7 +751,7 @@
               }
             },
             {
-              "-id": "9576080470",
+              "-id": "9577263651",
               "-ft": "20210715155000",
               "-to": "20210715155500",
               "-ftl": "1550",
@@ -776,7 +786,7 @@
               }
             },
             {
-              "-id": "9576018976",
+              "-id": "9577263652",
               "-ft": "20210715155500",
               "-to": "20210715160000",
               "-ftl": "1555",
@@ -789,14 +799,19 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.fmfukui.jp/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/LU/program/11371_3fc39947_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/3ndqm5s4oy.jpg",
               "tag": {
-                "item": {
-                  "name": "国内・海外のニュース"
-                }
+                "item": [
+                  {
+                    "name": "インフォメーション"
+                  },
+                  {
+                    "name": "ぐるスタ!"
+                  }
+                ]
               },
               "genre": {
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -807,7 +822,7 @@
               }
             },
             {
-              "-id": "9577126060",
+              "-id": "9577301429",
               "-ft": "20210715160000",
               "-to": "20210715164500",
               "-ftl": "1600",
@@ -858,7 +873,7 @@
               }
             },
             {
-              "-id": "9576251489",
+              "-id": "9577263668",
               "-ft": "20210715164500",
               "-to": "20210715165500",
               "-ftl": "1645",
@@ -899,7 +914,7 @@
               }
             },
             {
-              "-id": "9576074184",
+              "-id": "9577263671",
               "-ft": "20210715165500",
               "-to": "20210715170000",
               "-ftl": "1655",
@@ -934,7 +949,7 @@
               }
             },
             {
-              "-id": "9576261235",
+              "-id": "9577263673",
               "-ft": "20210715170000",
               "-to": "20210715173000",
               "-ftl": "1700",
@@ -947,6 +962,22 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.fmfukui.jp/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/LU/program/51523_b620f6e0_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/LU/person/258_51303bf2_sq.jpg\" height=\"60\" width=\"60\" alt=\"藤田佳代\"></td>  </tr></table><br /><br />\t「Lagom」とは、北欧スウェーデンの言葉、スウェーデン人の精神に深くしみ込んでいる概念で「多すぎず、少なすぎず、ちょうどよい」といった意味合いを持っています。この番組では「ちょうどいい、暮らし」への第一歩を歩まれたご家族の物語をお届けします。 <br /><br />\tメールアドレス：<a href=\"mailto:lagom@fmfukui.co.jp\">lagom@fmfukui.co.jp</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23lagom\">#lagom</a>」<br /><br /></div>",
               "pfm": "藤田佳代",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/qxi1intc7c.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "藤田佳代"
+                  },
+                  {
+                    "name": "しあわせものがたり"
+                  },
+                  {
+                    "name": "世界のしあわせキッチン"
+                  },
+                  {
+                    "name": "北欧の家"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -965,7 +996,7 @@
               }
             },
             {
-              "-id": "9575973753",
+              "-id": "9577263680",
               "-ft": "20210715173000",
               "-to": "20210715173500",
               "-ftl": "1730",
@@ -1007,7 +1038,7 @@
               }
             },
             {
-              "-id": "9577200991",
+              "-id": "9577263681",
               "-ft": "20210715173500",
               "-to": "20210715174500",
               "-ftl": "1735",
@@ -1044,7 +1075,7 @@
               }
             },
             {
-              "-id": "9576091072",
+              "-id": "9577263682",
               "-ft": "20210715174500",
               "-to": "20210715190000",
               "-ftl": "1745",
@@ -1095,7 +1126,7 @@
               }
             },
             {
-              "-id": "9577060711",
+              "-id": "9577263699",
               "-ft": "20210715190000",
               "-to": "20210715205500",
               "-ftl": "1900",
@@ -1137,7 +1168,7 @@
               }
             },
             {
-              "-id": "9576019064",
+              "-id": "9577263719",
               "-ft": "20210715205500",
               "-to": "20210715210000",
               "-ftl": "2055",
@@ -1150,14 +1181,19 @@
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/9564914f-29cc-4f7f-8090-60b85f9ee973.jpeg",
               "tag": {
-                "item": {
-                  "name": "国内・海外のニュース"
-                }
+                "item": [
+                  {
+                    "name": "インフォメーション"
+                  },
+                  {
+                    "name": "ぐるスタ!"
+                  }
+                ]
               },
               "genre": {
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -1168,7 +1204,7 @@
               }
             },
             {
-              "-id": "9576498811",
+              "-id": "9577263724",
               "-ft": "20210715210000",
               "-to": "20210715215500",
               "-ftl": "2100",
@@ -1216,7 +1252,7 @@
               }
             },
             {
-              "-id": "9576019092",
+              "-id": "9577263736",
               "-ft": "20210715215500",
               "-to": "20210715220000",
               "-ftl": "2155",
@@ -1229,14 +1265,19 @@
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/9564914f-29cc-4f7f-8090-60b85f9ee973.jpeg",
               "tag": {
-                "item": {
-                  "name": "国内・海外のニュース"
-                }
+                "item": [
+                  {
+                    "name": "インフォメーション"
+                  },
+                  {
+                    "name": "ぐるスタ!"
+                  }
+                ]
               },
               "genre": {
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -1247,7 +1288,7 @@
               }
             },
             {
-              "-id": "9577201007",
+              "-id": "9577263741",
               "-ft": "20210715220000",
               "-to": "20210715235500",
               "-ftl": "2200",
@@ -1316,7 +1357,7 @@
               }
             },
             {
-              "-id": "9576074299",
+              "-id": "9577263758",
               "-ft": "20210715235500",
               "-to": "20210716000000",
               "-ftl": "2355",
@@ -1332,10 +1373,10 @@
               "tag": {
                 "item": [
                   {
-                    "name": "ヘビーローテーション"
+                    "name": "新譜情報"
                   },
                   {
-                    "name": "新譜情報"
+                    "name": "ヘビーローテーション"
                   }
                 ]
               },
@@ -1357,7 +1398,7 @@
               }
             },
             {
-              "-id": "9576262304",
+              "-id": "9577263765",
               "-ft": "20210716000000",
               "-to": "20210716005500",
               "-ftl": "2400",
@@ -1371,6 +1412,16 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/jetstream/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/program/128_f41275e9_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/8149_db360e96_sq.png\" height=\"60\" width=\"60\" alt=\"福山雅治\"></td>  </tr></table><br /><br />\t「旅への誘い」をテーマに、心地良い音楽とナレーションで綴ります。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/jetstream/\">https://www.tfm.co.jp/jetstream/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/jetstream/message\">https://www.tfm.co.jp/f/jetstream/message</a><br /><br /></div>",
               "pfm": "福山雅治",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/le7q87s8tg.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "福山雅治"
+                  },
+                  {
+                    "name": "JETSTREAM"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -1389,7 +1440,7 @@
               }
             },
             {
-              "-id": "9576204279",
+              "-id": "9577263772",
               "-ft": "20210716005500",
               "-to": "20210716010000",
               "-ftl": "2455",
@@ -1402,14 +1453,19 @@
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/9564914f-29cc-4f7f-8090-60b85f9ee973.jpeg",
               "tag": {
-                "item": {
-                  "name": "国内・海外のニュース"
-                }
+                "item": [
+                  {
+                    "name": "インフォメーション"
+                  },
+                  {
+                    "name": "ぐるスタ!"
+                  }
+                ]
               },
               "genre": {
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -1420,7 +1476,7 @@
               }
             },
             {
-              "-id": "9576362143",
+              "-id": "9577263777",
               "-ft": "20210716010000",
               "-to": "20210716020000",
               "-ftl": "2500",
@@ -1459,7 +1515,7 @@
               }
             },
             {
-              "-id": "9576849253",
+              "-id": "9577263786",
               "-ft": "20210716020000",
               "-to": "20210716040000",
               "-ftl": "2600",
@@ -1507,7 +1563,7 @@
               }
             },
             {
-              "-id": "9576498813",
+              "-id": "9577263802",
               "-ft": "20210716040000",
               "-to": "20210716050000",
               "-ftl": "2800",

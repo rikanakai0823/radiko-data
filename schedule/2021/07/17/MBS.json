@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1626286872",
+    "srvtime": "1626373309",
     "stations": {
       "station": {
         "-id": "MBS",
@@ -10,7 +10,7 @@
           "date": "20210717",
           "prog": [
             {
-              "-id": "9577161005",
+              "-id": "9577333138",
               "-ft": "20210717050000",
               "-to": "20210717053000",
               "-ftl": "0500",
@@ -38,6 +38,10 @@
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -48,7 +52,7 @@
               }
             },
             {
-              "-id": "9577161009",
+              "-id": "9577333142",
               "-ft": "20210717053000",
               "-to": "20210717054500",
               "-ftl": "0530",
@@ -79,6 +83,10 @@
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -89,7 +97,7 @@
               }
             },
             {
-              "-id": "9577161011",
+              "-id": "9577333144",
               "-ft": "20210717054500",
               "-to": "20210717060000",
               "-ftl": "0545",
@@ -100,6 +108,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P016",
+                  "name": "宗教"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -108,7 +122,7 @@
               }
             },
             {
-              "-id": "9577161013",
+              "-id": "9577333146",
               "-ft": "20210717060000",
               "-to": "20210717080000",
               "-ftl": "0600",
@@ -136,6 +150,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -146,7 +164,7 @@
               }
             },
             {
-              "-id": "9577161024",
+              "-id": "9577333154",
               "-ft": "20210717080000",
               "-to": "20210717113000",
               "-ftl": "0800",
@@ -161,14 +179,23 @@
               "pfm": "浜村淳、佐々木りつ子、西川きよし（休演）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/a19c228d-f162-4053-97ff-fc3fae016603.jpeg",
               "tag": {
-                "item": {
-                  "name": "浜村淳"
-                }
+                "item": [
+                  {
+                    "name": "佐々木りつ子"
+                  },
+                  {
+                    "name": "浜村淳"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -179,7 +206,7 @@
               }
             },
             {
-              "-id": "9577161045",
+              "-id": "9577333167",
               "-ft": "20210717113000",
               "-to": "20210717125500",
               "-ftl": "1130",
@@ -194,14 +221,26 @@
               "pfm": "メッセンジャー、武川智美（MBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/712348dd-db22-458a-906d-d1bbdccafa66.jpeg",
               "tag": {
-                "item": {
-                  "name": "メッセンジャー"
-                }
+                "item": [
+                  {
+                    "name": "武川智美"
+                  },
+                  {
+                    "name": "MBSアナウンサー"
+                  },
+                  {
+                    "name": "メッセンジャー"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -212,7 +251,7 @@
               }
             },
             {
-              "-id": "9577161050",
+              "-id": "9577333168",
               "-ft": "20210717125500",
               "-to": "20210717130000",
               "-ftl": "1255",
@@ -223,6 +262,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -231,7 +276,7 @@
               }
             },
             {
-              "-id": "9577161053",
+              "-id": "9577333170",
               "-ft": "20210717130000",
               "-to": "20210717135000",
               "-ftl": "1300",
@@ -259,6 +304,10 @@
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -269,7 +318,7 @@
               }
             },
             {
-              "-id": "9577161057",
+              "-id": "9577333171",
               "-ft": "20210717135000",
               "-to": "20210717135900",
               "-ftl": "1350",
@@ -283,10 +332,19 @@
               "desc": "番組ホームページは<a href=https://blog.rkbr.jp/kaden/ target=_blank>こちらをクリック</a>",
               "pfm": "ロバート",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ロバート"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -297,7 +355,7 @@
               }
             },
             {
-              "-id": "9577161060",
+              "-id": "9577333172",
               "-ft": "20210717135900",
               "-to": "20210717164000",
               "-ftl": "1359",
@@ -311,10 +369,27 @@
               "desc": "番組進行は「MBSベースボールパーク」でおなじみの豊永真琴とMBSプロ野球実況アナウンサーが担当し、リスナーから寄せられるリクエスト曲を中心に、自らの得意分野の曲をはじめ、新旧・洋邦問わずに様々なジャンルの音楽をお届けします。<br /><br /><br />★★主なコーナー★★<br /><br />16：38～16：40　直前！東京2020オリンピック情報<br /><br /><br />メールアドレス：<a href=mailto:mpark@mbs1179.com target=_blank>mpark@mbs1179.com</a><br /><br /><br />◆豊永真琴のMBSミュージックパーク番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/mpark/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/MBSmusicpark target=_blank>@MBSmusicpark</a>",
               "pfm": "豊永真琴、金山泉（MBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/081afcc8-4d23-4c1f-9fb8-2bb6b2086551.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "金山泉"
+                  },
+                  {
+                    "name": "MBSアナウンサー"
+                  },
+                  {
+                    "name": "豊永真琴"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -325,7 +400,7 @@
               }
             },
             {
-              "-id": "9577161075",
+              "-id": "9577393438",
               "-ft": "20210717164000",
               "-to": "20210717174000",
               "-ftl": "1640",
@@ -339,10 +414,27 @@
               "desc": "メールアドレス：<a href=mailto:bunshi@mbs1179.com target=_blank>bunshi@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/bunshi/ target=_blank>こちらをクリック</a>",
               "pfm": "桂文枝（落語家）、彩羽真矢",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/yvkalbumxf.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "桂文枝"
+                  },
+                  {
+                    "name": "落語家"
+                  },
+                  {
+                    "name": "彩羽真矢"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                },
+                "program": {
+                  "-id": "P014",
+                  "name": "落語"
                 }
               },
               "metas": {
@@ -353,7 +445,7 @@
               }
             },
             {
-              "-id": "9577161080",
+              "-id": "9577333187",
               "-ft": "20210717174000",
               "-to": "20210717174300",
               "-ftl": "1740",
@@ -364,6 +456,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -372,7 +470,7 @@
               }
             },
             {
-              "-id": "9577161081",
+              "-id": "9577333188",
               "-ft": "20210717174300",
               "-to": "20210717174500",
               "-ftl": "1743",
@@ -383,6 +481,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -391,7 +495,7 @@
               }
             },
             {
-              "-id": "9577161082",
+              "-id": "9577333190",
               "-ft": "20210717174500",
               "-to": "20210717175900",
               "-ftl": "1745",
@@ -405,10 +509,19 @@
               "desc": "メールアドレス：<a href=mailto:kodomo@mbs1179.com target=_blank>kodomo@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/kodomo/ target=_blank>こちらをクリック</a>",
               "pfm": "野嶋紗己子（MBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/1c75a143-19e5-4d42-b6a3-985d3cb9bbeb.jpeg",
+              "tag": {
+                "item": {
+                  "name": "野嶋紗己子"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -419,7 +532,7 @@
               }
             },
             {
-              "-id": "9577161084",
+              "-id": "9577393459",
               "-ft": "20210717175900",
               "-to": "20210717210000",
               "-ftl": "1759",
@@ -433,10 +546,24 @@
               "desc": "★マイナビオールスタ―ゲーム2021　第2戦★<br /><br />パシフィック・リーグ×セントラル・リーグ（楽天生命P）<br />解説：青山浩二<br />実況：守屋周<br /><br />試合終了まで中継いたしますので、以降の番組は時間変更の場合があります。<br />変更内容については野球中継終了後、以後の番組の時間が確定次第掲載します。<br /><br />【中止の場合】<br />17：54～21：00　豊永真琴のＭＢＳミュージックパーク延長ＳＰ<br /><br /><br />メールアドレス：<a href=mailto:park@mbs1179.com target=_blank>park@mbs1179.com</a><br /><br /><br />◆MBSベースボールパーク番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/tigers/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/tigers_park_mbs target=_blank>@tigers_park_mbs</a><br />☆Instagram：<a href=https://www.instagram.com/mbs_baseballpark/ target=_blank>mbs_baseballpark</a>",
               "pfm": "★マイナビオールスタ―ゲーム2021　第2戦★　パシフィック・リーグ×セントラル・リーグ（楽天生命P）　解説：青山浩二　実況：守屋周　試合終了まで中継いたしますので、以降の番組は時間変更の場合があります。　変更内容については野球中継終了後、以後の番組の時間が確定次第掲載します。　【中止の場合】　17：54～21：00　豊永真琴のＭＢＳミュージックパーク延長ＳＰ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/64c39a63-b682-4549-a318-e1a2bc5d23fc.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "オールスターゲーム!"
+                  },
+                  {
+                    "name": "プロ野球"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C013",
                   "name": "アスリート"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
                 }
               },
               "metas": {
@@ -447,7 +574,7 @@
               }
             },
             {
-              "-id": "9577161100",
+              "-id": "9577333198",
               "-ft": "20210717210000",
               "-to": "20210717214500",
               "-ftl": "2100",
@@ -478,6 +605,10 @@
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -488,7 +619,7 @@
               }
             },
             {
-              "-id": "9577161105",
+              "-id": "9577333200",
               "-ft": "20210717214500",
               "-to": "20210717220000",
               "-ftl": "2145",
@@ -506,6 +637,10 @@
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -516,7 +651,7 @@
               }
             },
             {
-              "-id": "9577161107",
+              "-id": "9577333202",
               "-ft": "20210717220000",
               "-to": "20210717233000",
               "-ftl": "2200",
@@ -532,6 +667,12 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/4ac18b11-9a2f-43f1-baf1-e58c646d5da9.jpeg",
               "tag": {
                 "item": [
+                  {
+                    "name": "藤本美貴"
+                  },
+                  {
+                    "name": "清水佐紀"
+                  },
                   {
                     "name": "明石家さんま"
                   },
@@ -550,6 +691,10 @@
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -560,7 +705,7 @@
               }
             },
             {
-              "-id": "9577161117",
+              "-id": "9577333204",
               "-ft": "20210717233000",
               "-to": "20210718000000",
               "-ftl": "2330",
@@ -574,10 +719,19 @@
               "desc": "メールアドレス：<a href=mailto:chance@mbs1179.com target=_blank>chance@mbs1179.com</a><br /><br /><br />◆A Music Chance番組サイト◆<br />☆ホームページ：<a https://www.mbs1179.com/chance/ target=_blank>こちらをクリック</a><br />☆番組Twitter：<a href=https://twitter.com/AMusicChance1 target=_blank>@AMusicChance1</a>",
               "pfm": "U.K.、ヤマトパンクス（PK Shampoo）、山崎（元teto）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/d720de6f-fb8a-41fe-9170-6e772850eb41.jpeg",
+              "tag": {
+                "item": {
+                  "name": "山崎陸"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -588,7 +742,7 @@
               }
             },
             {
-              "-id": "9577161122",
+              "-id": "9577333205",
               "-ft": "20210718000000",
               "-to": "20210718013000",
               "-ftl": "2400",
@@ -606,6 +760,10 @@
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -616,7 +774,7 @@
               }
             },
             {
-              "-id": "9577161127",
+              "-id": "9577333207",
               "-ft": "20210718013000",
               "-to": "20210718042800",
               "-ftl": "2530",
@@ -634,6 +792,10 @@
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -644,7 +806,7 @@
               }
             },
             {
-              "-id": "9577161139",
+              "-id": "9577333210",
               "-ft": "20210718042800",
               "-to": "20210718043000",
               "-ftl": "2828",
@@ -655,6 +817,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -663,7 +831,7 @@
               }
             },
             {
-              "-id": "9577161140",
+              "-id": "9577333211",
               "-ft": "20210718043000",
               "-to": "20210718050000",
               "-ftl": "2830",
@@ -681,6 +849,10 @@
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
