@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1626546214",
+    "srvtime": "1626718864",
     "stations": {
       "station": {
         "-id": "FM_OITA",
@@ -403,12 +403,12 @@
               }
             },
             {
-              "-id": "9577500083",
+              "-id": "9578056804",
               "-ft": "20210723082000",
-              "-to": "20210723100000",
+              "-to": "20210723085000",
               "-ftl": "0820",
-              "-tol": "1000",
-              "-dur": "6000",
+              "-tol": "0850",
+              "-dur": "1800",
               "title": "Ｓｋｙ　Ｔｕｎｅ　ＯＩＴＡ",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -439,12 +439,107 @@
               }
             },
             {
-              "-id": "9577486822",
+              "-id": "9578059121",
+              "-ft": "20210723085000",
+              "-to": "20210723090000",
+              "-ftl": "0850",
+              "-tol": "0900",
+              "-dur": "600",
+              "title": "東京2020オリンピックリポート",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br /><br /></div>",
+              "pfm": "新保友映 / 笹木かおり",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM_OITA/f9giky97t3.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9578062714",
+              "-ft": "20210723090000",
+              "-to": "20210723100000",
+              "-ftl": "0900",
+              "-tol": "1000",
+              "-dur": "3600",
+              "title": "Ｓｋｙ　Ｔｕｎｅ　ＯＩＴＡ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JV/person/5544_ea956d80_sq.jpg\" height=\"60\" width=\"60\" alt=\"米澤有加\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JV/person/4397_2ac29992_sq.jpg\" height=\"60\" width=\"60\" alt=\"TATSU\"></td>  </tr></table><br /><br />\t毎日、2人のパーソナリティが、大分の清々しい「空」から、素敵な音楽や様々な情報をお届けします。 <br /><br /><br /></div>",
+              "pfm": "米澤有加 / TATSU",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM_OITA/a5zy7mn42s.jpg",
+              "tag": {
+                "item": {
+                  "name": "SkyTuneOITA"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9578056824",
               "-ft": "20210723100000",
               "-to": "20210723101000",
               "-ftl": "1000",
               "-tol": "1010",
               "-dur": "600",
+              "title": "OH! HAPPY MORNING",
+              "url": "http://www.jfn.jp/oh/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/oh/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/27266_81733842_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/1124_be92675b_sq.jpg\" height=\"60\" width=\"60\" alt=\"小谷大輔\"></td>  </tr></table><br /><br />\tあたり前の日常の中にこそ、ハッピーが詰まっている！ハピモニでは、リスナーの方々と一緒に、幸せになるヒントを提案していきます！ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/oh/\">http://www.jfn.jp/oh/</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/198\">https://ssl2.jfn.co.jp/mailbox/index/198</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23hapimoni\">#hapimoni</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/hapimoni\">@hapimoni</a>」<br /><br /></div>",
+              "pfm": "小谷大輔",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM_OITA/ko3bc36jw6.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#hapimoni"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:hapimoni"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9578062720",
+              "-ft": "20210723101000",
+              "-to": "20210723101500",
+              "-ftl": "1010",
+              "-tol": "1015",
+              "-dur": "300",
               "title": "OH! HAPPY MORNING",
               "url": "http://www.jfn.jp/oh/",
               "failed_record": "0",
@@ -461,25 +556,6 @@
                   "name": "情報"
                 }
               },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9577381727",
-              "-ft": "20210723101000",
-              "-to": "20210723101500",
-              "-ftl": "1010",
-              "-tol": "1015",
-              "-dur": "300",
-              "title": "ＪＦＮラジオショッピング",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /></div>",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -817,7 +893,7 @@
               }
             },
             {
-              "-id": "9577743177",
+              "-id": "9577775085",
               "-ft": "20210723135500",
               "-to": "20210723140000",
               "-ftl": "1355",
@@ -881,17 +957,28 @@
               }
             },
             {
-              "-id": "9577382116",
+              "-id": "9578062766",
               "-ft": "20210723141500",
               "-to": "20210723142000",
               "-ftl": "1415",
               "-tol": "1420",
               "-dur": "300",
-              "title": "ＪＦＮラジオショッピング",
+              "title": "FRIDAY GOES ON～あっ、それいただきっ！～",
+              "url": "http://www.jfn.jp/friday/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /></div>",
+              "info": "<div class=\"station_content_description \">\t番組Webサイト：<a href=\"http://www.jfn.jp/friday/\">http://www.jfn.jp/friday/</a><br /><br /></div>",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1104,62 +1191,19 @@
               }
             },
             {
-              "-id": "9577382279",
+              "-id": "9578059141",
               "-ft": "20210723165000",
-              "-to": "20210723165500",
-              "-ftl": "1650",
-              "-tol": "1655",
-              "-dur": "300",
-              "title": "UNISON　SQUARE　GARDENの機材車ラジオ",
-              "url": "http://park.gsj.mobi/program/show/41143",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://park.gsj.mobi/program/show/41143\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/program/41143_af28011f_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/person/6855_74317ee5_sq.jpg\" height=\"60\" width=\"60\" alt=\"UNISON SQUARE GARDEN\"></td>  </tr></table><br /><br />\t２００４年結成の３ピースロックバンド、UNISON SQUARE GARDEN。透明感に溢れつつも独特のトゲを持つ斎藤宏介のボーカルと、エッジの効いたコンビネーション抜群のバンドアンサンブルが共鳴共存するROCK／POPの新世界。ライブのＭＣも非常に少なくＳＮＳなども全くやらない３人の素顔が見られる、メッセージを聞くことができるのは、この番組だけ！ <br /><br />\t番組Webサイト：<a href=\"http://park.gsj.mobi/program/show/41143\">http://park.gsj.mobi/program/show/41143</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/269\">https://ssl2.jfn.co.jp/mailbox/index/269</a><br /><br /></div>",
-              "pfm": "UNISON SQUARE GARDEN",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM_OITA/eeunme1rc9.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9577382291",
-              "-ft": "20210723165500",
               "-to": "20210723170000",
-              "-ftl": "1655",
+              "-ftl": "1650",
               "-tol": "1700",
-              "-dur": "300",
-              "title": "Music Remark",
-              "url": "http://www.jfn.jp/remark",
+              "-dur": "600",
+              "title": "東京2020オリンピックハイライト",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/person/1515_2397c8c0_sq.jpg\" height=\"60\" width=\"60\" alt=\"池山文\"></td>  </tr></table><br /><br />\t今の話題曲、注目曲を解説（Ｒｅｍａｒｋ）する、この番組でチェック!!<br /><br />「チャラン・ポ・ランタン」のニューシングル『旅立讃歌』 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/remark\">http://www.jfn.jp/remark</a><br /><br /></div>",
-              "pfm": "池山文",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM_OITA/hu3q4vrzts.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br /><br /></div>",
+              "pfm": "新保友映 / 笹木かおり",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM_OITA/l0logmi24n.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1357,12 +1401,12 @@
               }
             },
             {
-              "-id": "9577506991",
+              "-id": "9578056933",
               "-ft": "20210723203000",
-              "-to": "20210723205500",
+              "-to": "20210723204500",
               "-ftl": "2030",
-              "-tol": "2055",
-              "-dur": "1500",
+              "-tol": "2045",
+              "-dur": "900",
               "title": "WEEKEND STARTER!!",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -1383,6 +1427,27 @@
                   "name": "情報"
                 }
               },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9578059150",
+              "-ft": "20210723204500",
+              "-to": "20210723205500",
+              "-ftl": "2045",
+              "-tol": "2055",
+              "-dur": "600",
+              "title": "東京2020オリンピックハイライト",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br /><br /></div>",
+              "pfm": "新保友映 / 笹木かおり",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM_OITA/bo305635db.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1426,7 +1491,7 @@
               }
             },
             {
-              "-id": "9577382539",
+              "-id": "9578056941",
               "-ft": "20210723210000",
               "-to": "20210723215500",
               "-ftl": "2100",
@@ -1437,7 +1502,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/radiobox/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/2011_39869bd0_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/1095_552d9701_sq.jpg\" height=\"60\" width=\"60\" alt=\"国分太一(TOKIO)\"></td>  </tr></table><br /><br />\t歌にバラエティ番組に大活躍のTOKIOの国分太一がリスナーとの2WAYコミュニケーションを軸に展開するトーク・バラエティ。 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/radiobox/\">http://www.jfn.jp/radiobox/</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/148\">https://ssl2.jfn.co.jp/mailbox/index/148</a><br /><br /></div>",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/radiobox/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/2011_39869bd0_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/1095_552d9701_sq.jpg\" height=\"60\" width=\"60\" alt=\"国分太一(TOKIO)\"></td>  </tr></table><br /><br />\t太一が司会をした音楽祭特番の裏話<br />驚きの空想科学<br />今回であのコーナーが最終回！<br /><br />▽世界から普通のお便り<br />▽Mr.チャイルドさん<br />▽未来研<br />▽新アメとムチ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/radiobox/\">http://www.jfn.jp/radiobox/</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/148\">https://ssl2.jfn.co.jp/mailbox/index/148</a><br /><br /></div>",
               "pfm": "国分太一(TOKIO)",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM_OITA/pns7t4nwfo.jpg",
               "genre": {

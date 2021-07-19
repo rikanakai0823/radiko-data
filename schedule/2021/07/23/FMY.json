@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1626546214",
+    "srvtime": "1626718866",
     "stations": {
       "station": {
         "-id": "FMY",
@@ -238,12 +238,70 @@
               }
             },
             {
-              "-id": "9577506552",
+              "-id": "9578091034",
               "-ft": "20210723090000",
-              "-to": "20210723101500",
+              "-to": "20210723094500",
               "-ftl": "0900",
+              "-tol": "0945",
+              "-dur": "2700",
+              "title": "PURE Morning",
+              "url": "http://www.fmy.co.jp/prg/pure/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/UU/person/7226_cf1cfa62_sq.jpg\" height=\"60\" width=\"60\" alt=\"山田香織\"></td>  </tr></table><br /><br />\t山口の朝を彩るWeekdayのモーニングプログラム。<br /><br />Good Musicとともにお役立ち情報をお届け。<br />あなたの新しい一日のスタートを心地よく応援します。 <br /><br />\t番組Webサイト：<a href=\"http://www.fmy.co.jp/prg/pure/\">http://www.fmy.co.jp/prg/pure/</a><br />\tメールアドレス：<a href=\"mailto:pure@fmy.co.jp\">pure@fmy.co.jp</a><br />\tFAX：0839248673<br /> <br /> twitterアカウントは「<a href=\"http://twitter.com/purefmy\">@purefmy</a>」<br /><br /></div>",
+              "pfm": "山田香織",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMY/m9gcbjx5p1.jpg",
+              "tag": {
+                "item": {
+                  "name": "山田香織"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "from:purefmy"
+                }
+              }
+            },
+            {
+              "-id": "9578096080",
+              "-ft": "20210723094500",
+              "-to": "20210723095500",
+              "-ftl": "0945",
+              "-tol": "0955",
+              "-dur": "600",
+              "title": "東京2020オリンピックリポート",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br /><br /></div>",
+              "pfm": "新保友映 / 笹木かおり",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMY/roa7lcaaob.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9578100196",
+              "-ft": "20210723095500",
+              "-to": "20210723101500",
+              "-ftl": "0955",
               "-tol": "1015",
-              "-dur": "4500",
+              "-dur": "1200",
               "title": "PURE Morning",
               "url": "http://www.fmy.co.jp/prg/pure/",
               "failed_record": "0",
@@ -814,12 +872,12 @@
               }
             },
             {
-              "-id": "9577500401",
+              "-id": "9578091116",
               "-ft": "20210723160000",
-              "-to": "20210723170000",
+              "-to": "20210723165000",
               "-ftl": "1600",
-              "-tol": "1700",
-              "-dur": "3600",
+              "-tol": "1650",
+              "-dur": "3000",
               "title": "Happy Happy Friday",
               "url": "http://www.fmy.co.jp/prg/happy/",
               "failed_record": "0",
@@ -880,6 +938,27 @@
                     "-value": "from:happyfmy31"
                   }
                 ]
+              }
+            },
+            {
+              "-id": "9578096117",
+              "-ft": "20210723165000",
+              "-to": "20210723170000",
+              "-ftl": "1650",
+              "-tol": "1700",
+              "-dur": "600",
+              "title": "東京2020オリンピックハイライト",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br /><br /></div>",
+              "pfm": "新保友映 / 笹木かおり",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMY/oshuf3f0xm.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
               }
             },
             {
@@ -952,12 +1031,12 @@
               }
             },
             {
-              "-id": "9577500517",
+              "-id": "9578091145",
               "-ft": "20210723180000",
-              "-to": "20210723185500",
+              "-to": "20210723184000",
               "-ftl": "1800",
-              "-tol": "1855",
-              "-dur": "3300",
+              "-tol": "1840",
+              "-dur": "2400",
               "title": "Happy Happy Friday",
               "url": "http://www.fmy.co.jp/prg/happy/",
               "failed_record": "0",
@@ -1007,6 +1086,55 @@
                   "name": "バラエティ"
                 }
               },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ハピフラ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:happyfmy31"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9578096130",
+              "-ft": "20210723184000",
+              "-to": "20210723185000",
+              "-ftl": "1840",
+              "-tol": "1850",
+              "-dur": "600",
+              "title": "東京2020オリンピックハイライト",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br /><br /></div>",
+              "pfm": "新保友映 / 笹木かおり",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMY/fcx7acqu82.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9578091159",
+              "-ft": "20210723185000",
+              "-to": "20210723185500",
+              "-ftl": "1850",
+              "-tol": "1855",
+              "-dur": "300",
+              "title": "Happy Happy Friday",
+              "url": "http://www.fmy.co.jp/prg/happy/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/UU/person/1018_3109776d_sq.jpg\" height=\"60\" width=\"60\" alt=\"金光一昭\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/UU/person/8157_77a527e4_sq.jpg\" height=\"60\" width=\"60\" alt=\"兼頭のぞみ\"></td>  </tr></table><br /><br />\t新山口駅北口前広場のサテライトスタジオ「0スタジオ」からオンエアー！<br />会いに行けるラジオ番組です！<br />遊びに来てね！1 <br /><br />\t番組Webサイト：<a href=\"http://www.fmy.co.jp/prg/happy/\">http://www.fmy.co.jp/prg/happy/</a><br />\tメールアドレス：<a href=\"mailto:happy@fmy.co.jp\">happy@fmy.co.jp</a><br />\tメッセージフォーム：<a href=\"https://www.fmy.co.jp/prg/happy/form.html\">https://www.fmy.co.jp/prg/happy/form.html</a><br />\tFAX：0839237373<br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%8F%E3%83%94%E3%83%95%E3%83%A9\">#ハピフラ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/happyfmy31\">@happyfmy31</a>」<br /> facebookページは「<a href='https://www.facebook.com/profile.php?id=100018136531514'>https://www.facebook.com/profile.php?id=100018136531514</a>」<br /><br /></div>",
+              "pfm": "金光一昭 / 兼頭のぞみ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMY/vu3k386pjb.jpg",
               "metas": {
                 "meta": [
                   {
@@ -1358,7 +1486,7 @@
               }
             },
             {
-              "-id": "9577743300",
+              "-id": "9577775142",
               "-ft": "20210723235500",
               "-to": "20210724000000",
               "-ftl": "2355",

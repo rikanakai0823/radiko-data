@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1626546213",
+    "srvtime": "1626718863",
     "stations": {
       "station": {
         "-id": "FMK",
@@ -383,12 +383,12 @@
               }
             },
             {
-              "-id": "9577486750",
+              "-id": "9578085965",
               "-ft": "20210723082000",
-              "-to": "20210723085500",
+              "-to": "20210723085000",
               "-ftl": "0820",
-              "-tol": "0855",
-              "-dur": "2100",
+              "-tol": "0850",
+              "-dur": "1800",
               "title": "FMK charmy×2",
               "url": "https://fmk.fm/charmy/",
               "failed_record": "0",
@@ -431,44 +431,19 @@
               }
             },
             {
-              "-id": "9577430777",
-              "-ft": "20210723085500",
+              "-id": "9578096075",
+              "-ft": "20210723085000",
               "-to": "20210723090000",
-              "-ftl": "0855",
+              "-ftl": "0850",
               "-tol": "0900",
-              "-dur": "300",
-              "title": "熊本日日新聞ニュース",
+              "-dur": "600",
+              "title": "東京2020オリンピックリポート",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t熊本日日新聞ニュースをお伝えします。 <br /><br /><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMK/224966ec-d539-4b1d-a97c-d75c9d3c654f.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "FMK"
-                  },
-                  {
-                    "name": "エフエム熊本"
-                  },
-                  {
-                    "name": "熊本"
-                  },
-                  {
-                    "name": "九州"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br /><br /></div>",
+              "pfm": "新保友映 / 笹木かおり",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMK/uqdwvzvoec.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -804,7 +779,7 @@
               }
             },
             {
-              "-id": "9577496746",
+              "-id": "9578012989",
               "-ft": "20210723105000",
               "-to": "20210723110000",
               "-ftl": "1050",
@@ -1558,12 +1533,12 @@
               }
             },
             {
-              "-id": "9577500399",
+              "-id": "9578085971",
               "-ft": "20210723160000",
-              "-to": "20210723165500",
+              "-to": "20210723164500",
               "-ftl": "1600",
-              "-tol": "1655",
-              "-dur": "3300",
+              "-tol": "1645",
+              "-dur": "2700",
               "title": "FMK Feel the Voice",
               "url": "https://fmk.fm/fv/",
               "failed_record": "0",
@@ -1606,11 +1581,11 @@
               }
             },
             {
-              "-id": "9577515131",
-              "-ft": "20210723165500",
-              "-to": "20210723170000",
-              "-ftl": "1655",
-              "-tol": "1700",
+              "-id": "9578100282",
+              "-ft": "20210723164500",
+              "-to": "20210723165000",
+              "-ftl": "1645",
+              "-tol": "1650",
               "-dur": "300",
               "title": "くろいさでつながろう「我らくろいさ特派員」",
               "url": "http://blog.fmk.fm/kuroisa/",
@@ -1646,6 +1621,27 @@
                   "name": "情報"
                 }
               },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9578091131",
+              "-ft": "20210723165000",
+              "-to": "20210723170000",
+              "-ftl": "1650",
+              "-tol": "1700",
+              "-dur": "600",
+              "title": "東京2020オリンピックハイライト",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br /><br /></div>",
+              "pfm": "新保友映 / 笹木かおり",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMK/99nm7ifbh8.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1844,12 +1840,12 @@
               }
             },
             {
-              "-id": "9577500532",
+              "-id": "9578085975",
               "-ft": "20210723181500",
-              "-to": "20210723185500",
+              "-to": "20210723184500",
               "-ftl": "1815",
-              "-tol": "1855",
-              "-dur": "2400",
+              "-tol": "1845",
+              "-dur": "1800",
               "title": "FMK Feel the Voice",
               "url": "https://fmk.fm/fv/",
               "failed_record": "0",
@@ -1884,6 +1880,27 @@
                   "name": "音楽"
                 }
               },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9578091157",
+              "-ft": "20210723184500",
+              "-to": "20210723185500",
+              "-ftl": "1845",
+              "-tol": "1855",
+              "-dur": "600",
+              "title": "東京2020オリンピックハイライト",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br /><br /></div>",
+              "pfm": "新保友映 / 笹木かおり",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMK/w37ehg22wr.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
