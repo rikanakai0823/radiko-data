@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1626718893",
+    "srvtime": "1626805290",
     "stations": {
       "station": {
         "-id": "FMY",
@@ -10,7 +10,7 @@
           "date": "20210725",
           "prog": [
             {
-              "-id": "9578094981",
+              "-id": "9578123907",
               "-ft": "20210725050000",
               "-to": "20210725060000",
               "-ftl": "0500",
@@ -176,7 +176,7 @@
               }
             },
             {
-              "-id": "9578096355",
+              "-id": "9578216491",
               "-ft": "20210725085500",
               "-to": "20210725090000",
               "-ftl": "0855",
@@ -197,7 +197,7 @@
               }
             },
             {
-              "-id": "9577859710",
+              "-id": "9578199764",
               "-ft": "20210725090000",
               "-to": "20210725093000",
               "-ftl": "0900",
@@ -229,7 +229,7 @@
               }
             },
             {
-              "-id": "9577859731",
+              "-id": "9578201041",
               "-ft": "20210725093000",
               "-to": "20210725095500",
               "-ftl": "0930",
@@ -277,7 +277,7 @@
               }
             },
             {
-              "-id": "9577849380",
+              "-id": "9578201059",
               "-ft": "20210725100000",
               "-to": "20210725103000",
               "-ftl": "1000",
@@ -734,7 +734,7 @@
               }
             },
             {
-              "-id": "9578096374",
+              "-id": "9578124114",
               "-ft": "20210725155500",
               "-to": "20210725160000",
               "-ftl": "1555",
@@ -913,7 +913,7 @@
               }
             },
             {
-              "-id": "9578096382",
+              "-id": "9578124163",
               "-ft": "20210725185500",
               "-to": "20210725190000",
               "-ftl": "1855",
@@ -934,24 +934,31 @@
               }
             },
             {
-              "-id": "9577861094",
+              "-id": "9578262112",
               "-ft": "20210725190000",
               "-to": "20210725195500",
               "-ftl": "1900",
               "-tol": "1955",
               "-dur": "3300",
-              "title": "村上RADIO",
+              "title": "村上RADIO～夏だ、ビーチだ、サーフィンだ！～",
               "url": "https://www.tfm.co.jp/murakamiradio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t番組Webサイト：<a href=\"https://www.tfm.co.jp/murakamiradio/\">https://www.tfm.co.jp/murakamiradio/</a><br /><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMY/c3d0127c-bfc8-4b50-befa-ca8edc50cc6d.jpeg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/6793_fee7b417_sq.jpg\" height=\"60\" width=\"60\" alt=\"村上春樹\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/murakamiradio/\">https://www.tfm.co.jp/murakamiradio/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E6%9D%91%E4%B8%8ARADIO\">#村上RADIO</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/Murakamiradiofm\">@Murakamiradiofm</a>」<br /><br /></div>",
+              "pfm": "村上春樹",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMY/16301h4ykm.jpg",
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#村上RADIO"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:Murakamiradiofm"
+                  }
+                ]
               }
             },
             {
