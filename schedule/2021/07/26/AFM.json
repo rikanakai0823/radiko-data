@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1626891723",
+    "srvtime": "1626978095",
     "stations": {
       "station": {
         "-id": "AFM",
@@ -252,7 +252,7 @@
               }
             },
             {
-              "-id": "9578428551",
+              "-id": "9578536715",
               "-ft": "20210726081000",
               "-to": "20210726082000",
               "-ftl": "0810",
@@ -339,12 +339,12 @@
               }
             },
             {
-              "-id": "9578013529",
+              "-id": "9578594585",
               "-ft": "20210726090000",
-              "-to": "20210726100000",
+              "-to": "20210726095000",
               "-ftl": "0900",
-              "-tol": "1000",
-              "-dur": "3600",
+              "-tol": "0950",
+              "-dur": "3000",
               "title": "OH! HAPPY MORNING",
               "url": "http://www.jfn.jp/oh/",
               "failed_record": "0",
@@ -363,6 +363,26 @@
                   "name": "情報"
                 }
               },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9578599288",
+              "-ft": "20210726095000",
+              "-to": "20210726100000",
+              "-ftl": "0950",
+              "-tol": "1000",
+              "-dur": "600",
+              "title": "東京2020オリンピックリポート",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/AFM/koox1qmb9i.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -581,7 +601,7 @@
               }
             },
             {
-              "-id": "9578366484",
+              "-id": "9578533637",
               "-ft": "20210726120000",
               "-to": "20210726125500",
               "-ftl": "1200",
@@ -613,7 +633,7 @@
               }
             },
             {
-              "-id": "9578363288",
+              "-id": "9578527535",
               "-ft": "20210726125500",
               "-to": "20210726130000",
               "-ftl": "1255",
@@ -631,10 +651,6 @@
                 "personality": {
                   "-id": "C003",
                   "name": "女優"
-                },
-                "program": {
-                  "-id": "P015",
-                  "name": "教養"
                 }
               },
               "metas": {
@@ -677,7 +693,7 @@
               }
             },
             {
-              "-id": "9578017517",
+              "-id": "9578527541",
               "-ft": "20210726133000",
               "-to": "20210726135500",
               "-ftl": "1330",
@@ -695,10 +711,6 @@
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -740,7 +752,7 @@
               }
             },
             {
-              "-id": "9578017546",
+              "-id": "9578527545",
               "-ft": "20210726140000",
               "-to": "20210726141500",
               "-ftl": "1400",
@@ -758,10 +770,6 @@
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -792,7 +800,7 @@
               }
             },
             {
-              "-id": "9578017566",
+              "-id": "9578527549",
               "-ft": "20210726142000",
               "-to": "20210726145000",
               "-ftl": "1420",
@@ -810,10 +818,6 @@
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -851,12 +855,12 @@
               }
             },
             {
-              "-id": "9578025140",
+              "-id": "9578594587",
               "-ft": "20210726150000",
-              "-to": "20210726155500",
+              "-to": "20210726151000",
               "-ftl": "1500",
-              "-tol": "1555",
-              "-dur": "3300",
+              "-tol": "1510",
+              "-dur": "600",
               "title": "mix",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -874,6 +878,53 @@
                   "name": "情報"
                 }
               },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#mixafm"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:mixafm"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9578599349",
+              "-ft": "20210726151000",
+              "-to": "20210726152000",
+              "-ftl": "1510",
+              "-tol": "1520",
+              "-dur": "600",
+              "title": "東京2020オリンピックハイライト",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/AFM/wlc8nn1qvt.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9578594589",
+              "-ft": "20210726152000",
+              "-to": "20210726155500",
+              "-ftl": "1520",
+              "-tol": "1555",
+              "-dur": "2100",
+              "title": "mix",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/PU/person/73_26f3ea1e_sq.jpg\" height=\"60\" width=\"60\" alt=\"真坂はづき\"></td>  </tr></table><br /><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23mixafm\">#mixafm</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/mixafm\">@mixafm</a>」<br /><br /></div>",
+              "pfm": "真坂はづき",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/AFM/ijzgurj2is.jpg",
               "metas": {
                 "meta": [
                   {
@@ -1177,12 +1228,12 @@
               }
             },
             {
-              "-id": "9578017900",
+              "-id": "9578594590",
               "-ft": "20210726200000",
-              "-to": "20210726205500",
+              "-to": "20210726205000",
               "-ftl": "2000",
-              "-tol": "2055",
-              "-dur": "3300",
+              "-tol": "2050",
+              "-dur": "3000",
               "title": "A・O・R",
               "url": "http://www.jfn.jp/aor/",
               "failed_record": "0",
@@ -1209,28 +1260,19 @@
               }
             },
             {
-              "-id": "9577918364",
-              "-ft": "20210726205500",
+              "-id": "9578599428",
+              "-ft": "20210726205000",
               "-to": "20210726210000",
-              "-ftl": "2055",
+              "-ftl": "2050",
               "-tol": "2100",
-              "-dur": "300",
-              "title": "AFMニュース",
+              "-dur": "600",
+              "title": "東京2020オリンピックハイライト",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/AFM/y4cenfvv8m.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br /><br /></div>",
+              "pfm": "新保友映 / 笹木かおり",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/AFM/r61vf34ygw.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1239,7 +1281,7 @@
               }
             },
             {
-              "-id": "9578366538",
+              "-id": "9578533820",
               "-ft": "20210726210000",
               "-to": "20210726215500",
               "-ftl": "2100",
@@ -1335,7 +1377,7 @@
               }
             },
             {
-              "-id": "9578433744",
+              "-id": "9578461850",
               "-ft": "20210726235500",
               "-to": "20210727000000",
               "-ftl": "2355",
