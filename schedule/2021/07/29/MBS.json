@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1627064508",
+    "srvtime": "1627323624",
     "stations": {
       "station": {
         "-id": "MBS",
@@ -10,7 +10,7 @@
           "date": "20210729",
           "prog": [
             {
-              "-id": "9578541060",
+              "-id": "9579207959",
               "-ft": "20210729050000",
               "-to": "20210729060000",
               "-ftl": "0500",
@@ -24,19 +24,10 @@
               "desc": "令和にLadyがRadioで5時からReady Go！<br />元日本道路交通情報センターの2人が送るその日にちなんだ音楽番組です。<br /><br /><br />★★主なコーナー★★<br /><br />▽ちなみソング<br />▽N・天・交<br /><br />5：53～6：00　「ENEOSプレゼンツ黒木瞳のあさナビ」<br /><br /><br />メールアドレス：<a href=mailto:go@mbs1179.com>go@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/go/ target=_blank>こちらをクリック</a>",
               "pfm": "柴田由美子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/94bf2555-d945-43bd-abda-1ba459bba121.jpeg",
-              "tag": {
-                "item": {
-                  "name": "柴田由美子"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
                 }
               },
               "metas": {
@@ -47,7 +38,7 @@
               }
             },
             {
-              "-id": "9578534711",
+              "-id": "9579207966",
               "-ft": "20210729060000",
               "-to": "20210729080000",
               "-ftl": "0600",
@@ -63,17 +54,13 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/05619443-62b6-47f1-b1bc-5db3cae436ad.jpeg",
               "tag": {
                 "item": {
-                  "name": "子守康範"
+                  "name": "大塚由美"
                 }
               },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
                 }
               },
               "metas": {
@@ -84,7 +71,7 @@
               }
             },
             {
-              "-id": "9578537664",
+              "-id": "9579207987",
               "-ft": "20210729080000",
               "-to": "20210729103000",
               "-ftl": "0800",
@@ -99,18 +86,22 @@
               "pfm": "浜村淳、鳥居睦子、ありがとう娘。（西田愛、岡田麻紗巳、吉村珠佳、田下愉香）、紅ゆずる（女優）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/a19c228d-f162-4053-97ff-fc3fae016603.jpeg",
               "tag": {
-                "item": {
-                  "name": "浜村淳"
-                }
+                "item": [
+                  {
+                    "name": "鳥居睦子"
+                  },
+                  {
+                    "name": "ありがとう娘。"
+                  },
+                  {
+                    "name": "紅ゆずる"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
                 }
               },
               "metas": {
@@ -121,7 +112,7 @@
               }
             },
             {
-              "-id": "9578528194",
+              "-id": "9579208007",
               "-ft": "20210729103000",
               "-to": "20210729123000",
               "-ftl": "1030",
@@ -138,10 +129,10 @@
               "tag": {
                 "item": [
                   {
-                    "name": "松井愛"
+                    "name": "メッセンジャーあいはら"
                   },
                   {
-                    "name": "MBSアナウンサー"
+                    "name": "令和喜多みな実 河野"
                   }
                 ]
               },
@@ -149,10 +140,6 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
                 }
               },
               "metas": {
@@ -163,7 +150,7 @@
               }
             },
             {
-              "-id": "9578647687",
+              "-id": "9579208022",
               "-ft": "20210729123000",
               "-to": "20210729153000",
               "-ftl": "1230",
@@ -178,18 +165,19 @@
               "pfm": "近藤光史、上田悦子（MBSアナウンサー）、渡辺裕薫（シンデレラエキスプレス）、秋川雅史",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/77c668bf-3d99-42e8-9d51-d39e1aa2c35e.jpeg",
               "tag": {
-                "item": {
-                  "name": "近藤光史"
-                }
+                "item": [
+                  {
+                    "name": "渡辺裕薫(シンデレラエキスプレス)"
+                  },
+                  {
+                    "name": "秋川雅史"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
                 }
               },
               "metas": {
@@ -200,7 +188,7 @@
               }
             },
             {
-              "-id": "9578534864",
+              "-id": "9579208038",
               "-ft": "20210729153000",
               "-to": "20210729174500",
               "-ftl": "1530",
@@ -217,10 +205,10 @@
               "tag": {
                 "item": [
                   {
-                    "name": "上泉雄一"
+                    "name": "村瀬哲史"
                   },
                   {
-                    "name": "MBSアナウンサー"
+                    "name": "からし蓮根 青空"
                   }
                 ]
               },
@@ -228,10 +216,6 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
                 }
               },
               "metas": {
@@ -242,7 +226,7 @@
               }
             },
             {
-              "-id": "9578541577",
+              "-id": "9579208060",
               "-ft": "20210729174500",
               "-to": "20210729175400",
               "-ftl": "1745",
@@ -256,24 +240,10 @@
               "desc": "メールアドレス：<a href=mailto:park@mbs1179.com target=_blank>park@mbs1179.com</a><br /><br /><br />◆MBSベースボールパーク番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/tigers/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/tigers_park_mbs target=_blank>@tigers_park_mbs</a><br />☆facebook：<a href=https://www.facebook.com/mbs.tigers.live/ target=_blank>こちらをクリック</a><br />☆Instagram：<a href=https://www.instagram.com/mbs_baseballpark/ target=_blank>mbs_baseballpark</a>",
               "pfm": "上泉雄一（MBSアナウンサー）、江間丈",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/d0284195-7a9d-44cd-9358-7c571616b0c2.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "上泉雄一"
-                  },
-                  {
-                    "name": "江間丈"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C013",
                   "name": "アスリート"
-                },
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
                 }
               },
               "metas": {
@@ -284,7 +254,7 @@
               }
             },
             {
-              "-id": "9578546176",
+              "-id": "9579208063",
               "-ft": "20210729175400",
               "-to": "20210729210000",
               "-ftl": "1754",
@@ -298,27 +268,10 @@
               "desc": "★2021プロ野球エキシビションマッチ★<br /><br />阪神×ロッテ（甲子園）<br />解説：八木裕<br />実況：金山泉<br /><br />19：45ごろ　東京2020オリンピックハイライト<br /><br />最大21時50分まで中継いたしますので、以降の番組は時間変更の場合があります。<br />変更内容については野球中継終了後、以後の番組の時間が確定次第掲載します。<br /><br />【中止の場合】<br />17：54～21：00　NRNフィラー番組を放送致します。<br />　　　　　　　　　　『ナイタースペシャル　ひろたみゆ紀のサウンドコレクション』<br /><br /><br />メールアドレス：<a href=mailto:park@mbs1179.com target=_blank>park@mbs1179.com</a><br /><br /><br />◆MBSベースボールパーク番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/tigers/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/tigers_park_mbs target=_blank>@tigers_park_mbs</a><br />☆Instagram：<a href=https://www.instagram.com/mbs_baseballpark/ target=_blank>mbs_baseballpark</a>",
               "pfm": "★2021プロ野球エキシビションマッチ★　阪神×ロッテ（甲子園）　解説：八木裕　実況：金山泉　19：45ごろ　東京2020オリンピックハイライト　最大21時50分まで中継いたしますので、以降の番組は時間変更の場合があります。　変更内容については野球中継終了後、以後の番組の時間が確定次第掲載します。　【中止の場合】　17：54～21：00　NRNフィラー番組を放送致します。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/d0284195-7a9d-44cd-9358-7c571616b0c2.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "阪神タイガース"
-                  },
-                  {
-                    "name": "タイガース全力応援宣言"
-                  },
-                  {
-                    "name": "MBSベースボールパーク"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C013",
                   "name": "アスリート"
-                },
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
                 }
               },
               "metas": {
@@ -329,7 +282,7 @@
               }
             },
             {
-              "-id": "9578541704",
+              "-id": "9579208085",
               "-ft": "20210729210000",
               "-to": "20210729215000",
               "-ftl": "2100",
@@ -345,17 +298,13 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/d0284195-7a9d-44cd-9358-7c571616b0c2.jpeg",
               "tag": {
                 "item": {
-                  "name": "江間丈"
+                  "name": "狩野恵輔"
                 }
               },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
-                },
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
                 }
               },
               "metas": {
@@ -366,7 +315,7 @@
               }
             },
             {
-              "-id": "9578480991",
+              "-id": "9579208091",
               "-ft": "20210729215000",
               "-to": "20210729220000",
               "-ftl": "2150",
@@ -377,12 +326,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -391,7 +334,7 @@
               }
             },
             {
-              "-id": "9578546236",
+              "-id": "9579208093",
               "-ft": "20210729220000",
               "-to": "20210729233000",
               "-ftl": "2200",
@@ -405,36 +348,10 @@
               "desc": "メールアドレス：<a href=mailto:yarumoku@mbs1179.com target=_blank>yarumoku@mbs1179.com</a><br /><br /><br />◆アッパレやってまーす！木曜　番組サイト◆<br />☆番組サイト：<a href=https://www.mbs1179.com/yaru/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/mbs_yarumoku/ target=_blank>@mbs_yarumoku</a>",
               "pfm": "極楽とんぼ、小峠英二（週替わり）（バイきんぐ）、小沢一敬（週替わり）（スピードワゴン）、小林豊（BOYS AND MEN）、大谷映美里（=LOVE）、池田裕子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/5272d216-cca7-4e07-91a3-b5acb22cd11e.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "極楽とんぼ"
-                  },
-                  {
-                    "name": "小峠英二"
-                  },
-                  {
-                    "name": "小沢一敬"
-                  },
-                  {
-                    "name": "小林豊"
-                  },
-                  {
-                    "name": "大谷映美里"
-                  },
-                  {
-                    "name": "池田裕子"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -445,7 +362,7 @@
               }
             },
             {
-              "-id": "9578528577",
+              "-id": "9579208102",
               "-ft": "20210729233000",
               "-to": "20210730000000",
               "-ftl": "2330",
@@ -459,36 +376,10 @@
               "desc": "★★主なコーナー★★<br /><br />▽なぜ違う！？比べてみよう同じランキング！<br />▽2次元でもマジ惚れ！？理想の男さがせ！<br />▽ゴチャ・まぜっ天国！価値観ニュース。<br /><br />メールアドレス：<a href=mailto:gochaten@mbs1179.com target=_blank>gochaten@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/gochaten/ target=_blank>こちらをクリック</a>",
               "pfm": "大久保佳代子（オアシズ）、武井壮、木下隆行（TKO）、小坂温子、おおかわら（鬼ヶ島）、土生瑞穂（櫻坂46）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/dc874eae-a01c-4ddb-8fa6-d54ef8a86c9c.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "武井壮"
-                  },
-                  {
-                    "name": "大久保佳代子"
-                  },
-                  {
-                    "name": "木下隆行"
-                  },
-                  {
-                    "name": "小坂温子"
-                  },
-                  {
-                    "name": "おおかわら"
-                  },
-                  {
-                    "name": "土生瑞穂"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -499,7 +390,7 @@
               }
             },
             {
-              "-id": "9578703463",
+              "-id": "9579208108",
               "-ft": "20210730000000",
               "-to": "20210730003000",
               "-ftl": "2400",
@@ -513,24 +404,10 @@
               "desc": "ダンス＆ボーカルグループのＭ！ＬＫのメンバーが<br />いろんなことに挑戦する番組。リスナーからのメールも紹介する。<br /><br /><br />メールアドレス：<a href=mailto:milk@mbs1179.com target=_blank>milk@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/milk/ target=_blank>こちらをクリック</a>",
               "pfm": "M!LK、コロコロチキチキペッパーズ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/e9e41d84-d8df-42ef-a544-476872ecc540.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "M!LK"
-                  },
-                  {
-                    "name": "コロコロチキチキペッパーズ"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C007",
                   "name": "男性アイドル"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -541,7 +418,7 @@
               }
             },
             {
-              "-id": "9578706252",
+              "-id": "9579208111",
               "-ft": "20210730003000",
               "-to": "20210730010000",
               "-ftl": "2430",
@@ -555,19 +432,10 @@
               "desc": "TVコメンテーターとしても多数出演、一児の母でもあるエッセイスト、犬山紙子。<br />いま、女性と社会をとりまく問題をはじめ、「コミュニケーション」を仕事にする彼女が、<br />忖度なしの本音で、一人語りのラジオに挑戦。<br />恋愛や性、夫婦問題、子育て、差別や嫉妬…<br />常に生き方更新中の彼女だから考える、いま関心のあること、<br />いま伝えるべきことを忖度ナシの本音で語り尽くします!!<br />「私たち、これからどう生きていく!?」<br /><br /><br />メールアドレス：<a href=mailto:inuboe@mbs1179.com target=_blank>inuboe@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/inuboe/ target=_blank>こちらをクリック</a>",
               "pfm": "犬山紙子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/66c8a92b-5f80-40a6-9a8f-16e146732127.jpeg",
-              "tag": {
-                "item": {
-                  "name": "犬山紙子"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
                 }
               },
               "metas": {
@@ -578,7 +446,7 @@
               }
             },
             {
-              "-id": "9578600274",
+              "-id": "9579208113",
               "-ft": "20210730010000",
               "-to": "20210730023000",
               "-ftl": "2500",
@@ -592,24 +460,10 @@
               "desc": "メールアドレス：<a href=mailto:chiteijin@shiburadi.com target=_blank>chiteijin@shiburadi.com</a><br /><br />番組ホームページは<a href=https://chiteijinradio.com target=_blank>こちらをクリック</a>",
               "pfm": "福山雅治、荘口彰久",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/54e84507-801e-400b-9794-698f0095a832.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "福山雅治"
-                  },
-                  {
-                    "name": "荘口彰久"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
                 }
               },
               "metas": {
@@ -620,7 +474,7 @@
               }
             },
             {
-              "-id": "9578705034",
+              "-id": "9579208118",
               "-ft": "20210730023000",
               "-to": "20210730030000",
               "-ftl": "2630",
@@ -634,19 +488,10 @@
               "desc": "ラジオ番組のアシスタントは、ニュース、雑学、スポーツなどの知識に加えて、的確なツッコミ、パーソナリティーを持ち上げる“よいしょ”、そして運…様々な能力が求められる、いわば番組を支える屋台骨です。<br /><br />この番組では、次世代のMBSラジオを担うスーパーアシスタントを発掘すべく、毎週、才能の原石をご紹介。<br />各々のスキルを発揮してもらいながら、グランプリを決定していく、新感覚のリアルオーディションバラエティです。<br />登場するのは、これまで夢を持ちながらスポットライトを浴びてこなかった個性的な面々。<br /><br />さぁ、彼らが夢の第一歩を踏み出す瞬間にお立合いください。<br /><br /><br />☆ホームページ：<a href=https://www.mbs1179.com/audition/ target=_blank>こちらをクリック</a>",
               "pfm": "山本量子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/5c3d5ed1-cb61-4a9c-b635-db2789114821.jpeg",
-              "tag": {
-                "item": {
-                  "name": "山本量子"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
                 }
               },
               "metas": {
@@ -657,7 +502,7 @@
               }
             },
             {
-              "-id": "9578695818",
+              "-id": "9579208120",
               "-ft": "20210730030000",
               "-to": "20210730044000",
               "-ftl": "2700",
@@ -671,12 +516,6 @@
               "desc": "メールアドレス：<a href=mailto:ad@mbs1179.com target=_blank>ad@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/ad/ target=_blank>こちらをクリック</a>",
               "pfm": "番匠谷紗衣（シンガーソングライター）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/9b7eab5b-2e90-45a1-9cf6-839a5e5e9de6.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -685,7 +524,7 @@
               }
             },
             {
-              "-id": "9578600403",
+              "-id": "9579208125",
               "-ft": "20210730044000",
               "-to": "20210730045500",
               "-ftl": "2840",
@@ -696,19 +535,10 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ショッピング"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
-                },
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -719,7 +549,7 @@
               }
             },
             {
-              "-id": "9578687458",
+              "-id": "9579208126",
               "-ft": "20210730045500",
               "-to": "20210730050000",
               "-ftl": "2855",
@@ -733,12 +563,6 @@
               "desc": "番組ホームページは<a href=http://www.tomoshibi.or.jp/ target=_blank>こちらをクリック</a>",
               "pfm": "坪井木の実",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P016",
-                  "name": "宗教"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
