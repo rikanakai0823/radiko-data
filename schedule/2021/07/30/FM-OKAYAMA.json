@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1627237272",
+    "srvtime": "1627410024",
     "stations": {
       "station": {
         "-id": "FM-OKAYAMA",
@@ -529,7 +529,7 @@
               }
             },
             {
-              "-id": "9578843897",
+              "-id": "9579356160",
               "-ft": "20210730125500",
               "-to": "20210730130000",
               "-ftl": "1255",
@@ -985,7 +985,7 @@
               }
             },
             {
-              "-id": "9579039984",
+              "-id": "9579365935",
               "-ft": "20210730200000",
               "-to": "20210730203000",
               "-ftl": "2000",
@@ -1022,12 +1022,12 @@
               }
             },
             {
-              "-id": "9578929245",
+              "-id": "9579426061",
               "-ft": "20210730203000",
-              "-to": "20210730205500",
+              "-to": "20210730204500",
               "-ftl": "2030",
-              "-tol": "2055",
-              "-dur": "1500",
+              "-tol": "2045",
+              "-dur": "900",
               "title": "Music Remark",
               "url": "http://www.jfn.jp/remark",
               "failed_record": "0",
@@ -1035,6 +1035,50 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\t「新しい音楽はチェックしたいけど、自分で探している時間がなかなかない…」という方に…今の話題曲、注目曲をこの番組でチェック。なぜ、この曲が話題になっているのか、なぜ注目曲なのかもあわせて解説。最新ミュージックシーンがわかるミュージック・プログラム。ナビゲーターは池山文。 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/remark\">http://www.jfn.jp/remark</a><br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/963d8793-7aef-47d2-86be-0823387a9abd.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽"
+                  },
+                  {
+                    "name": "洋楽"
+                  },
+                  {
+                    "name": "邦楽"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9579429532",
+              "-ft": "20210730204500",
+              "-to": "20210730205500",
+              "-ftl": "2045",
+              "-tol": "2055",
+              "-dur": "600",
+              "title": "東京2020オリンピックハイライト",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br /><br /></div>",
+              "pfm": "新保友映 / 笹木かおり",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/46ktes56f5.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1089,12 +1133,12 @@
               }
             },
             {
-              "-id": "9578965648",
+              "-id": "9579426063",
               "-ft": "20210730210000",
-              "-to": "20210730214900",
+              "-to": "20210730215500",
               "-ftl": "2100",
-              "-tol": "2149",
-              "-dur": "2940",
+              "-tol": "2155",
+              "-dur": "3300",
               "title": "国分太一 Radio Box",
               "url": "http://www.jfn.jp/radiobox/",
               "failed_record": "0",
@@ -1121,65 +1165,18 @@
               }
             },
             {
-              "-id": "9578965651",
-              "-ft": "20210730214900",
-              "-to": "20210730215900",
-              "-ftl": "2149",
-              "-tol": "2159",
-              "-dur": "600",
-              "title": "東京2020オリンピックハイライト",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br /><br /></div>",
-              "pfm": "新保友映 / 笹木かおり",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/46ktes56f5.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9578977891",
-              "-ft": "20210730215900",
+              "-id": "9579426066",
+              "-ft": "20210730215500",
               "-to": "20210730220000",
-              "-ftl": "2159",
+              "-ftl": "2155",
               "-tol": "2200",
-              "-dur": "60",
+              "-dur": "300",
               "title": "JFNニュース",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/963d8793-7aef-47d2-86be-0823387a9abd.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ニュース"
-                  },
-                  {
-                    "name": "交通"
-                  },
-                  {
-                    "name": "天気"
-                  },
-                  {
-                    "name": "地域の情報"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1424,7 +1421,7 @@
               }
             },
             {
-              "-id": "9578844161",
+              "-id": "9579365997",
               "-ft": "20210731010000",
               "-to": "20210731050000",
               "-ftl": "2500",

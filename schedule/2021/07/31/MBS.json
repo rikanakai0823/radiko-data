@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1627323648",
+    "srvtime": "1627410026",
     "stations": {
       "station": {
         "-id": "MBS",
@@ -10,7 +10,7 @@
           "date": "20210731",
           "prog": [
             {
-              "-id": "9579208206",
+              "-id": "9579369009",
               "-ft": "20210731050000",
               "-to": "20210731053000",
               "-ftl": "0500",
@@ -24,10 +24,24 @@
               "desc": "メールアドレス：<a href=mailto:575@mbs1179.com target=_blank>575@mbs1179.com</a><br /><br />番組ホームページは<a href=http://www.mbs1179.com/575/ target=_blank>こちらをクリック</a>",
               "pfm": "近藤勝重、水野晶子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/32e58520-db91-4b7b-8c88-5039937479b1.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "近藤勝重"
+                  },
+                  {
+                    "name": "水野晶子"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -38,7 +52,7 @@
               }
             },
             {
-              "-id": "9579208209",
+              "-id": "9579369012",
               "-ft": "20210731053000",
               "-to": "20210731054500",
               "-ftl": "0530",
@@ -52,10 +66,27 @@
               "desc": "メールアドレス：<a href=mailto:utagoyomi@mbs1179.com target=_blank>utagoyomi@mbs1179.com</a><br /><br />番組ホームページは<a href=http://www.mbs1179.com/utagoyomi/ target=_blank>こちらをクリック</a>",
               "pfm": "上野誠（國學院大學　教授）、上田悦子（MBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/de8dea6a-b60f-4fcf-b266-f9e21b21e1f3.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "万葉集"
+                  },
+                  {
+                    "name": "上野誠"
+                  },
+                  {
+                    "name": "上田悦子"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -66,7 +97,7 @@
               }
             },
             {
-              "-id": "9579208210",
+              "-id": "9579369013",
               "-ft": "20210731054500",
               "-to": "20210731060000",
               "-ftl": "0545",
@@ -77,6 +108,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P016",
+                  "name": "宗教"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -85,7 +122,7 @@
               }
             },
             {
-              "-id": "9579208211",
+              "-id": "9579369014",
               "-ft": "20210731060000",
               "-to": "20210731080000",
               "-ftl": "0600",
@@ -99,10 +136,24 @@
               "desc": "★★主なコーナー★★<br /><br />▽カメカメトピックス<br />▽まりこのベスト３なこと～<br />▽今週のトホホ<br />▽週末のちっちゃい予定<br />▽今週のブラ亀<br />▽快適生活ラジオショッピング<br /><br />N（6・7時台）<br />天・交（7時台）<br /><br /><br />メールアドレス：<a href=mailto:kame@mbs1179.com target=_blank>kame@mbs1179.com</a><br /><br /><br />◆かめばかむほど亀井希生です！番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/kame/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/kame1179 target=_blank>@kame1179</a>",
               "pfm": "亀井希生（MBSアナウンサー）、森田まりこ、岡田直子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/6ac608ec-a219-437d-a378-2139eb8a059b.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "亀井希生"
+                  },
+                  {
+                    "name": "森田まりこ"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -113,7 +164,7 @@
               }
             },
             {
-              "-id": "9579208216",
+              "-id": "9579369019",
               "-ft": "20210731080000",
               "-to": "20210731113000",
               "-ftl": "0800",
@@ -134,6 +185,9 @@
                   },
                   {
                     "name": "西川きよし"
+                  },
+                  {
+                    "name": "浜村淳"
                   }
                 ]
               },
@@ -141,6 +195,10 @@
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -151,7 +209,7 @@
               }
             },
             {
-              "-id": "9579208225",
+              "-id": "9579369028",
               "-ft": "20210731113000",
               "-to": "20210731125500",
               "-ftl": "1130",
@@ -166,14 +224,23 @@
               "pfm": "メッセンジャー、川岸ゆか",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/712348dd-db22-458a-906d-d1bbdccafa66.jpeg",
               "tag": {
-                "item": {
-                  "name": "川岸ゆか"
-                }
+                "item": [
+                  {
+                    "name": "川岸ゆか"
+                  },
+                  {
+                    "name": "メッセンジャー"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -184,7 +251,7 @@
               }
             },
             {
-              "-id": "9579208228",
+              "-id": "9579369031",
               "-ft": "20210731125500",
               "-to": "20210731130000",
               "-ftl": "1255",
@@ -195,6 +262,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -203,7 +276,7 @@
               }
             },
             {
-              "-id": "9579208229",
+              "-id": "9579369032",
               "-ft": "20210731130000",
               "-to": "20210731135000",
               "-ftl": "1300",
@@ -217,10 +290,24 @@
               "desc": "★★主なコーナー★★<br /><br />みんなのお怒り！のコーナー<br /><br />メールアドレス：<a href=mailto:hi@mbs1179.com target=_blank>hi@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/hi/ target=_blank>こちらをクリック</a>",
               "pfm": "ハイヒール、亀井希生（MBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/ca44cdd1-53d0-454e-a285-3dfaa5951b57.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ハイヒール"
+                  },
+                  {
+                    "name": "亀井希生"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -231,7 +318,7 @@
               }
             },
             {
-              "-id": "9579208232",
+              "-id": "9579369035",
               "-ft": "20210731135000",
               "-to": "20210731135900",
               "-ftl": "1350",
@@ -245,10 +332,19 @@
               "desc": "番組ホームページは<a href=https://blog.rkbr.jp/kaden/ target=_blank>こちらをクリック</a>",
               "pfm": "ロバート",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ロバート"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -259,7 +355,7 @@
               }
             },
             {
-              "-id": "9579208233",
+              "-id": "9579369036",
               "-ft": "20210731135900",
               "-to": "20210731174300",
               "-ftl": "1359",
@@ -274,14 +370,23 @@
               "pfm": "豊永真琴、金山泉（MBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/081afcc8-4d23-4c1f-9fb8-2bb6b2086551.jpeg",
               "tag": {
-                "item": {
-                  "name": "金山泉(MBSアナウンサー)"
-                }
+                "item": [
+                  {
+                    "name": "金山泉(MBSアナウンサー)"
+                  },
+                  {
+                    "name": "豊永真琴"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -292,7 +397,7 @@
               }
             },
             {
-              "-id": "9579208243",
+              "-id": "9579369046",
               "-ft": "20210731174300",
               "-to": "20210731174500",
               "-ftl": "1743",
@@ -303,6 +408,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -311,7 +422,7 @@
               }
             },
             {
-              "-id": "9579208244",
+              "-id": "9579369047",
               "-ft": "20210731174500",
               "-to": "20210731175900",
               "-ftl": "1745",
@@ -325,10 +436,19 @@
               "desc": "メールアドレス：<a href=mailto:kodomo@mbs1179.com target=_blank>kodomo@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/kodomo/ target=_blank>こちらをクリック</a>",
               "pfm": "野嶋紗己子（MBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/1c75a143-19e5-4d42-b6a3-985d3cb9bbeb.jpeg",
+              "tag": {
+                "item": {
+                  "name": "野嶋紗己子"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -339,7 +459,7 @@
               }
             },
             {
-              "-id": "9579223309",
+              "-id": "9579369048",
               "-ft": "20210731175900",
               "-to": "20210731210000",
               "-ftl": "1759",
@@ -384,7 +504,7 @@
               }
             },
             {
-              "-id": "9579208252",
+              "-id": "9579369056",
               "-ft": "20210731210000",
               "-to": "20210731214500",
               "-ftl": "2100",
@@ -398,10 +518,27 @@
               "desc": "番組ホームページは<a href=https://www.tbsradio.jp/yell/ target=_blank>こちらをクリック</a>",
               "pfm": "西村江太郎、田代沙織、上杉桜子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/8e61f7ac-838b-427a-a182-a74e50416632.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "西村江太郎"
+                  },
+                  {
+                    "name": "田代沙織"
+                  },
+                  {
+                    "name": "上杉桜子"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -412,7 +549,7 @@
               }
             },
             {
-              "-id": "9579208255",
+              "-id": "9579369059",
               "-ft": "20210731214500",
               "-to": "20210731220000",
               "-ftl": "2145",
@@ -426,10 +563,27 @@
               "desc": "不確実性の時代をいかにして生き残るか？書評サイトHONZ代表、元日本マイクロソフト社長の成毛眞が、日々のニュースの中から、社会システムの問題点、テクノロジーの芽生え、未来と見通す視座をお届けするビジネスエンタテインメントです。<br />・・・という、いたって真面目な内容を、成毛さんのご自宅とスタジオをつないでリラッ～クスした雰囲気でお送りします。<br /><br /><br />メールアドレス：<a href=mailto:naruke@mbs1179.com target=_blank>naruke@mbs1179.com</a><br /><br />番組ホームページは<a href=https://www.mbs1179.com/naruke/ target=_blank>こちらをクリック</a>",
               "pfm": "成毛眞、上泉雄一（MBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/3bc4b3bf-4637-46a0-b034-f301c2abed2b.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "成毛眞"
+                  },
+                  {
+                    "name": "上泉雄一"
+                  },
+                  {
+                    "name": "MBSアナウンサー"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -440,7 +594,7 @@
               }
             },
             {
-              "-id": "9579208256",
+              "-id": "9579369060",
               "-ft": "20210731220000",
               "-to": "20210731233000",
               "-ftl": "2200",
@@ -455,14 +609,32 @@
               "pfm": "明石家さんま、村上ショージ、飯窪春菜（休演）、横山玲奈（モーニング娘。’21）、野中美希（モーニング娘。’21）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/4ac18b11-9a2f-43f1-baf1-e58c646d5da9.jpeg",
               "tag": {
-                "item": {
-                  "name": "野中美希(モーニング娘。’21)"
-                }
+                "item": [
+                  {
+                    "name": "野中美希(モーニング娘。’21)"
+                  },
+                  {
+                    "name": "明石家さんま"
+                  },
+                  {
+                    "name": "村上ショージ"
+                  },
+                  {
+                    "name": "飯窪春菜"
+                  },
+                  {
+                    "name": "横山玲奈"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -473,7 +645,7 @@
               }
             },
             {
-              "-id": "9579208261",
+              "-id": "9579369065",
               "-ft": "20210731233000",
               "-to": "20210801000000",
               "-ftl": "2330",
@@ -487,10 +659,24 @@
               "desc": "メールアドレス：<a href=mailto:chance@mbs1179.com target=_blank>chance@mbs1179.com</a><br /><br /><br />◆A Music Chance番組サイト◆<br />☆ホームページ：<a https://www.mbs1179.com/chance/ target=_blank>こちらをクリック</a><br />☆番組Twitter：<a href=https://twitter.com/AMusicChance1 target=_blank>@AMusicChance1</a>",
               "pfm": "U.K.、ヤマトパンクス（PK Shampoo）、利根さやな（SIR）、安井京香（SIR）、RAY",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/d720de6f-fb8a-41fe-9170-6e772850eb41.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "U.K."
+                  },
+                  {
+                    "name": "ヤマトパンクス"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -501,7 +687,7 @@
               }
             },
             {
-              "-id": "9579208263",
+              "-id": "9579369067",
               "-ft": "20210801000000",
               "-to": "20210801013000",
               "-ftl": "2400",
@@ -515,10 +701,30 @@
               "desc": "メールアドレス：<a href=mailto:yarudo@mbs1179.com target=_blank>yarudo@mbs1179.com</a><br /><br /><br />◆アッパレやってまーす！～土曜日です～番組サイト◆<br />☆番組ホームページ：<a href=https://www.mbs1179.com/yaru/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/mbs_yarudo/ target=_blank>@mbs_yarudo</a>",
               "pfm": "城島茂（TOKIO）、さらば青春の光、尼神インター、齊藤京子（日向坂46）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/6ff0b838-2453-4734-ad79-0be88a84b425.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "城島茂(TOKIO)"
+                  },
+                  {
+                    "name": "さらば青春の光"
+                  },
+                  {
+                    "name": "尼神インター"
+                  },
+                  {
+                    "name": "齊藤京子(日向坂46)"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -529,13 +735,13 @@
               }
             },
             {
-              "-id": "9579208268",
+              "-id": "9579369072",
               "-ft": "20210801013000",
-              "-to": "20210801042800",
+              "-to": "20210801023000",
               "-ftl": "2530",
-              "-tol": "2828",
-              "-dur": "10680",
-              "title": "オレたちゴチャ・まぜっ！～集まれヤンヤン～",
+              "-tol": "2630",
+              "-dur": "3600",
+              "title": "オレたちゴチャ・まぜっ！～集まれヤンヤン～ (1)",
               "url": "https://www.mbs1179.com/ore/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -543,10 +749,36 @@
               "desc": "★★主なコーナー★★<br /><br />▽採用されてナンボ、マイク前でお便りを読もうのコーナー<br />▽ヤンヤンガールズ、トップを目指せのコーナー<br /><br /><br />メールアドレス：<a href=mailto:oredo@mbs1179.com target=_blank>oredo@mbs1179.com</a><br /><br />◆オレたちゴチャ・まぜっ！～集まれヤンヤン～番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/ore/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/mbs_oredo/ target=_blank>@mbs_oredo</a>",
               "pfm": "有野晋哉（よゐこ）、井戸田潤（スピードワゴン）、田村亮（ロンドンブーツ1号2号）、村上健志（フルーツポンチ）、堀未央奈、ヤンヤンガールズ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/457ba621-896a-4c8f-891a-c601895bef92.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "有野晋哉(よゐこ)"
+                  },
+                  {
+                    "name": "井戸田潤(スピードワゴン)"
+                  },
+                  {
+                    "name": "田村亮(ロンドンブーツ1号2号)"
+                  },
+                  {
+                    "name": "村上健志(フルーツポンチ)"
+                  },
+                  {
+                    "name": "堀未央奈"
+                  },
+                  {
+                    "name": "ヤンヤンガールズ"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -557,7 +789,115 @@
               }
             },
             {
-              "-id": "9579208276",
+              "-id": "9579369073",
+              "-ft": "20210801023000",
+              "-to": "20210801033000",
+              "-ftl": "2630",
+              "-tol": "2730",
+              "-dur": "3600",
+              "title": "オレたちゴチャ・まぜっ！～集まれヤンヤン～ (2)",
+              "url": "https://www.mbs1179.com/ore/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "★★主なコーナー★★<br /><br />▽採用されてナンボ、マイク前でお便りを読もうのコーナー<br />▽ヤンヤンガールズ、トップを目指せのコーナー<br /><br /><br />メールアドレス：<a href=mailto:oredo@mbs1179.com target=_blank>oredo@mbs1179.com</a><br /><br />◆オレたちゴチャ・まぜっ！～集まれヤンヤン～番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/ore/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/mbs_oredo/ target=_blank>@mbs_oredo</a>",
+              "pfm": "有野晋哉（よゐこ）、井戸田潤（スピードワゴン）、田村亮（ロンドンブーツ1号2号）、村上健志（フルーツポンチ）、堀未央奈、ヤンヤンガールズ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/457ba621-896a-4c8f-891a-c601895bef92.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "有野晋哉(よゐこ)"
+                  },
+                  {
+                    "name": "井戸田潤(スピードワゴン)"
+                  },
+                  {
+                    "name": "田村亮(ロンドンブーツ1号2号)"
+                  },
+                  {
+                    "name": "村上健志(フルーツポンチ)"
+                  },
+                  {
+                    "name": "堀未央奈"
+                  },
+                  {
+                    "name": "ヤンヤンガールズ"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9579369074",
+              "-ft": "20210801033000",
+              "-to": "20210801042800",
+              "-ftl": "2730",
+              "-tol": "2828",
+              "-dur": "3480",
+              "title": "オレたちゴチャ・まぜっ！～集まれヤンヤン～ (3)",
+              "url": "https://www.mbs1179.com/ore/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "★★主なコーナー★★<br /><br />▽採用されてナンボ、マイク前でお便りを読もうのコーナー<br />▽ヤンヤンガールズ、トップを目指せのコーナー<br /><br /><br />メールアドレス：<a href=mailto:oredo@mbs1179.com target=_blank>oredo@mbs1179.com</a><br /><br />◆オレたちゴチャ・まぜっ！～集まれヤンヤン～番組サイト◆<br />☆ホームページ：<a href=https://www.mbs1179.com/ore/ target=_blank>こちらをクリック</a><br />☆Twitter：<a href=https://twitter.com/mbs_oredo/ target=_blank>@mbs_oredo</a>",
+              "pfm": "有野晋哉（よゐこ）、井戸田潤（スピードワゴン）、田村亮（ロンドンブーツ1号2号）、村上健志（フルーツポンチ）、堀未央奈、ヤンヤンガールズ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/457ba621-896a-4c8f-891a-c601895bef92.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "有野晋哉(よゐこ)"
+                  },
+                  {
+                    "name": "井戸田潤(スピードワゴン)"
+                  },
+                  {
+                    "name": "田村亮(ロンドンブーツ1号2号)"
+                  },
+                  {
+                    "name": "村上健志(フルーツポンチ)"
+                  },
+                  {
+                    "name": "堀未央奈"
+                  },
+                  {
+                    "name": "ヤンヤンガールズ"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9579369082",
               "-ft": "20210801042800",
               "-to": "20210801043000",
               "-ftl": "2828",
@@ -568,6 +908,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -576,7 +922,7 @@
               }
             },
             {
-              "-id": "9579208277",
+              "-id": "9579369083",
               "-ft": "20210801043000",
               "-to": "20210801050000",
               "-ftl": "2830",
@@ -590,10 +936,27 @@
               "desc": "メールアドレス：<a href=mailto:m@hbc.co.jp target=_blank>m@hbc.co.jp</a><br /><br />番組ホームページは<a href=https://www.hbc.co.jp/radio/minna/index.html target=_blank>こちらをクリック</a>",
               "pfm": "大山慎介",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MBS/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "大山慎介"
+                  },
+                  {
+                    "name": "柳谷杏奈"
+                  },
+                  {
+                    "name": "高橋咲希"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
