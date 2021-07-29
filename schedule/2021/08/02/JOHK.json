@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1627410064",
+    "srvtime": "1627582926",
     "stations": {
       "station": {
         "-id": "JOHK",
@@ -369,18 +369,38 @@
               }
             },
             {
-              "-id": "9579211662",
+              "-id": "9579690207",
               "-ft": "20210802100000",
-              "-to": "20210802115000",
+              "-to": "20210802113000",
               "-ftl": "1000",
-              "-tol": "1150",
-              "-dur": "6600",
+              "-tol": "1130",
+              "-dur": "5400",
               "title": "らじるラボ",
               "url": "https://www4.nhk.or.jp/radiru-lab/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOHK/tdczz4m8kh.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9579690222",
+              "-ft": "20210802113000",
+              "-to": "20210802115000",
+              "-ftl": "1130",
+              "-tol": "1150",
+              "-dur": "1200",
+              "title": "東京２０２０オリンピック「関連情報」",
+              "url": "https://sports.nhk.or.jp/olympic/",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOHK/.qhst9qryu.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -431,7 +451,7 @@
               }
             },
             {
-              "-id": "9579202461",
+              "-id": "9579523546",
               "-ft": "20210802165500",
               "-to": "20210802195000",
               "-ftl": "1655",
@@ -453,7 +473,7 @@
               }
             },
             {
-              "-id": "9579369198",
+              "-id": "9579523597",
               "-ft": "20210802195000",
               "-to": "20210802230000",
               "-ftl": "1950",
