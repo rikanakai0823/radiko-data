@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1627928446",
+    "srvtime": "1628101291",
     "stations": {
       "station": {
         "-id": "FMTOYAMA",
@@ -123,17 +123,18 @@
               }
             },
             {
-              "-id": "9580208650",
+              "-id": "9580780522",
               "-ft": "20210808063000",
-              "-to": "20210808100000",
+              "-to": "20210808064500",
               "-ftl": "0630",
-              "-tol": "1000",
-              "-dur": "12600",
-              "title": "東京2020オリンピック　男子マラソン実況中継",
+              "-tol": "0645",
+              "-dur": "900",
+              "title": "CHEER UP！STATION まもなくスタート！",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/6515_d3f8510b_sq.jpg\" height=\"60\" width=\"60\" alt=\"綿谷エリナ\"></td>  </tr></table><br /><br /><br /></div>",
+              "pfm": "綿谷エリナ",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -142,7 +143,28 @@
               }
             },
             {
-              "-id": "9580208879",
+              "-id": "9580786230",
+              "-ft": "20210808064500",
+              "-to": "20210808100000",
+              "-ftl": "0645",
+              "-tol": "1000",
+              "-dur": "11700",
+              "title": "民放ラジオ99局統一番組 東京2020オリンピック 男子マラソン実況中継",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br /><br /></div>",
+              "pfm": "別井敬之 / 増田明美",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMTOYAMA/xqxwsrbwei.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9580702240",
               "-ft": "20210808100000",
               "-to": "20210808103000",
               "-ftl": "1000",
@@ -381,27 +403,17 @@
               }
             },
             {
-              "-id": "9580143443",
+              "-id": "9580780650",
               "-ft": "20210808125500",
               "-to": "20210808130000",
               "-ftl": "1255",
               "-tol": "1300",
               "-dur": "300",
-              "title": "JFNニュース",
+              "title": "富山県シンフォニーホールガイド",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1108,12 +1120,32 @@
               }
             },
             {
-              "-id": "9580267591",
+              "-id": "9580780906",
               "-ft": "20210809010000",
-              "-to": "20210809050000",
+              "-to": "20210809020000",
               "-ftl": "2500",
+              "-tol": "2600",
+              "-dur": "3600",
+              "title": "レディークラウド",
+              "url": "https://audee.jp/program/show/54587",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\tストリーミングのサブスクの普及は手軽に多ジャンルの音楽を聴けることになったけれど、本当に必要なのは音楽があふれていることではなくて、その音楽のすばらしさを共感する事。本当の音楽はラジオを通じて空から降ってくる。その主流になったサブスク流の音楽の聴き方を、ラジオで再現したらどうだろう！それが架空AI音楽番組「レディークラウド」。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/54587\">https://audee.jp/program/show/54587</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/385\">https://ssl2.jfn.co.jp/mailbox/index/385</a><br /><br /></div>",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9580786350",
+              "-ft": "20210809020000",
+              "-to": "20210809050000",
+              "-ftl": "2600",
               "-tol": "2900",
-              "-dur": "14400",
+              "-dur": "10800",
               "title": "放送休止",
               "failed_record": "0",
               "ts_in_ng": "0",
