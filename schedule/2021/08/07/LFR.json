@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1628101271",
+    "srvtime": "1628187669",
     "stations": {
       "station": {
         "-id": "LFR",
@@ -10,7 +10,7 @@
           "date": "20210807",
           "prog": [
             {
-              "-id": "9580730077",
+              "-id": "9580882955",
               "-ft": "20210807050000",
               "-to": "20210807074000",
               "-ftl": "0500",
@@ -25,15 +25,15 @@
               "info": "メールアドレス：<br><a href=\"mailto:toku@1242.com\">toku@1242.com</a><br><br>番組ホームページは<a href=\"https://www.1242.com/toku/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jolf\">#jolf</a>」<br>twitterアカウントは「<a href=\"http://twitter.com/toku1242\">@toku1242</a>」facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
               "pfm": "徳光和夫、石川みゆき",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/nqhxqro5rp.png",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
+              "tag": {
+                "item": [
+                  {
+                    "name": "徳光和夫"
+                  },
+                  {
+                    "name": "石川みゆき"
+                  }
+                ]
               },
               "metas": {
                 "meta": [
@@ -49,7 +49,7 @@
               }
             },
             {
-              "-id": "9580730084",
+              "-id": "9580861150",
               "-ft": "20210807074000",
               "-to": "20210807080000",
               "-ftl": "0740",
@@ -63,6 +63,16 @@
               "info": "メールアドレス：<br><a href=\"mailto:lab@1242.com\">lab@1242.com</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jolf\">#jolf</a>」<br>twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」<br>facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
               "pfm": "中村陽一（立教大学社会デザイン研究所 所長）、残間里江子（プロデューサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/ql7btuidwr.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "残間里江子"
+                  },
+                  {
+                    "name": "中村陽一"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C014",
@@ -87,7 +97,7 @@
               }
             },
             {
-              "-id": "9580730085",
+              "-id": "9580861151",
               "-ft": "20210807080000",
               "-to": "20210807083000",
               "-ftl": "0800",
@@ -101,6 +111,11 @@
               "info": "メールアドレス：<br><a href=\"mailto:katsuya@1242.com\">katsuya@1242.com</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jolf\">#jolf</a>」<br>twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」<br>facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
               "pfm": "小林克也",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/yl6ptu8g5t.png",
+              "tag": {
+                "item": {
+                  "name": "小林克也"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -125,7 +140,7 @@
               }
             },
             {
-              "-id": "9580730088",
+              "-id": "9580861155",
               "-ft": "20210807083000",
               "-to": "20210807092500",
               "-ftl": "0830",
@@ -140,6 +155,16 @@
               "info": "メールアドレス：<br><a href=\"mailto:love@1242.com\">love@1242.com</a><br><br>番組ホームページは<a href=\"https://www.1242.com/love/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%83%96%E3%83%A1%E3%83%AD\">#ラブメロ</a>」twitterアカウントは「<a href=\"http://twitter.com/lovemelo1242\">@lovemelo1242</a>」facebookページは「<a href='https://www.facebook.com/ニッポン放送-八木亜希子love-and-melody-1512037645774008/timeline?ref=page_internal'>https://www.facebook.com/ニッポン放送-八木亜希子love-and-melody-1512037645774008/timeline?ref=page_internal</a>」",
               "pfm": "八木亜希子、植松哲平",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/a3kzp1dnew.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽番組"
+                  },
+                  {
+                    "name": "八木亜希子"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -164,7 +189,7 @@
               }
             },
             {
-              "-id": "9580730092",
+              "-id": "9580861159",
               "-ft": "20210807092500",
               "-to": "20210807093000",
               "-ftl": "0925",
@@ -191,7 +216,7 @@
               }
             },
             {
-              "-id": "9580730093",
+              "-id": "9580861160",
               "-ft": "20210807093000",
               "-to": "20210807105000",
               "-ftl": "0930",
@@ -206,6 +231,16 @@
               "info": "メールアドレス：<br><a href=\"mailto:love@1242.com\">love@1242.com</a><br><br>番組ホームページは<a href=\"https://www.1242.com/love/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%83%96%E3%83%A1%E3%83%AD\">#ラブメロ</a>」twitterアカウントは「<a href=\"http://twitter.com/lovemelo1242\">@lovemelo1242</a>」facebookページは「<a href='https://www.facebook.com/ニッポン放送-八木亜希子love-and-melody-1512037645774008/timeline?ref=page_internal'>https://www.facebook.com/ニッポン放送-八木亜希子love-and-melody-1512037645774008/timeline?ref=page_internal</a>」",
               "pfm": "八木亜希子、植松哲平",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/a3kzp1dnew.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽番組"
+                  },
+                  {
+                    "name": "八木亜希子"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -230,7 +265,7 @@
               }
             },
             {
-              "-id": "9580730096",
+              "-id": "9580861163",
               "-ft": "20210807105000",
               "-to": "20210807110000",
               "-ftl": "1050",
@@ -245,6 +280,19 @@
               "info": "番組ホームページは<a href=\"https://www.kbc.co.jp/r-radio/kaden-sommelier/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jolf\">#jolf</a>」<br>twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」<br>facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
               "pfm": "キャイーン",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/wcejqsd0ik.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "キャイーン"
+                  },
+                  {
+                    "name": "天野ひろゆき"
+                  },
+                  {
+                    "name": "ウド鈴木"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C009",
@@ -269,7 +317,7 @@
               }
             },
             {
-              "-id": "9580730097",
+              "-id": "9580883035",
               "-ft": "20210807110000",
               "-to": "20210807130000",
               "-ftl": "1100",
@@ -284,15 +332,15 @@
               "info": "メールアドレス：<br><a href=\"mailto:akko@1242.com\">akko@1242.com</a><br><br>番組ホームページは<a href=\"https://www.1242.com/akko/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jolf\">#jolf</a>」<br>twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」<br>facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
               "pfm": "和田アキ子、垣花正",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/tainzjb01m.png",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
+              "tag": {
+                "item": [
+                  {
+                    "name": "和田アキ子"
+                  },
+                  {
+                    "name": "垣花正"
+                  }
+                ]
               },
               "metas": {
                 "meta": [
@@ -308,7 +356,7 @@
               }
             },
             {
-              "-id": "9580730103",
+              "-id": "9580861170",
               "-ft": "20210807130000",
               "-to": "20210807160000",
               "-ftl": "1300",
@@ -323,6 +371,16 @@
               "info": "メールアドレス：<br><a href=\"mailto:r930@1242.com\">r930@1242.com</a><br><br>番組ホームページは<a href=\"https://www.1242.com/route930/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%AB%E3%83%BC%E3%83%88930\">#ルート930</a>」twitterアカウントは「<a href=\"http://twitter.com/bbjhot100\">@bbjhot100</a>」facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
               "pfm": "天野ひろゆき",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/8cmw88sqsc.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽番組"
+                  },
+                  {
+                    "name": "天野ひろゆき"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C009",
@@ -347,7 +405,7 @@
               }
             },
             {
-              "-id": "9580730110",
+              "-id": "9580861178",
               "-ft": "20210807160000",
               "-to": "20210807162000",
               "-ftl": "1600",
@@ -375,7 +433,7 @@
               }
             },
             {
-              "-id": "9580730113",
+              "-id": "9580861181",
               "-ft": "20210807162000",
               "-to": "20210807165000",
               "-ftl": "1620",
@@ -390,6 +448,11 @@
               "info": "メールアドレス：<br><a href=\"mailto:yume5@1242.com\">yume5@1242.com</a><br><br>番組ホームページは<a href=\"https://www.1242.com/yume5/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jolf\">#jolf</a>」<br>twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」<br>facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
               "pfm": "渡邉美樹",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/oulgxw2qh9.png",
+              "tag": {
+                "item": {
+                  "name": "渡邉美樹"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C012",
@@ -414,7 +477,7 @@
               }
             },
             {
-              "-id": "9580730114",
+              "-id": "9580861182",
               "-ft": "20210807165000",
               "-to": "20210807171000",
               "-ftl": "1650",
@@ -429,6 +492,11 @@
               "info": "メールアドレス：<br><a href=\"mailto:nokko@1242.com\">nokko@1242.com</a><br><br>番組ホームページは<a href=\"https://www.1242.com/nokko/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23nokko1242\">#nokko1242</a>」twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」<br>facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
               "pfm": "NOKKO",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/zjspisigpn.png",
+              "tag": {
+                "item": {
+                  "name": "NOKKO"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -453,7 +521,7 @@
               }
             },
             {
-              "-id": "9580730117",
+              "-id": "9580861185",
               "-ft": "20210807171000",
               "-to": "20210807174000",
               "-ftl": "1710",
@@ -468,6 +536,16 @@
               "info": "メールアドレス：<br><a href=\"mailto:mk@1242.com\">mk@1242.com</a><br><br>番組ホームページは<a href=\"https://www.1242.com/radio/mk/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jolf\">#jolf</a>」<br>twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」<br>facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
               "pfm": "さまぁ～ず三村マサカズ、小島瑠璃子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/n06aszjedg.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "三村マサカズ"
+                  },
+                  {
+                    "name": "小島瑠璃子"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -492,7 +570,7 @@
               }
             },
             {
-              "-id": "9580730118",
+              "-id": "9580861186",
               "-ft": "20210807174000",
               "-to": "20210807174500",
               "-ftl": "1740",
@@ -519,12 +597,12 @@
               }
             },
             {
-              "-id": "9580730119",
+              "-id": "9580883134",
               "-ft": "20210807174500",
-              "-to": "20210807193500",
+              "-to": "20210807184500",
               "-ftl": "1745",
-              "-tol": "1935",
-              "-dur": "6600",
+              "-tol": "1845",
+              "-dur": "3600",
               "title": "TOKYO SPORTS TODAY",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -547,11 +625,11 @@
               }
             },
             {
-              "-id": "9580730124",
-              "-ft": "20210807193500",
-              "-to": "20210807194000",
-              "-ftl": "1935",
-              "-tol": "1940",
+              "-id": "9580861190",
+              "-ft": "20210807184500",
+              "-to": "20210807185000",
+              "-ftl": "1845",
+              "-tol": "1850",
               "-dur": "300",
               "title": "東京2020オリンピックハイライト",
               "failed_record": "0",
@@ -574,20 +652,20 @@
               }
             },
             {
-              "-id": "9580730125",
-              "-ft": "20210807194000",
-              "-to": "20210807211000",
-              "-ftl": "1940",
-              "-tol": "2110",
-              "-dur": "5400",
-              "title": "TOKYO SPORTS TODAY",
+              "-id": "9580893019",
+              "-ft": "20210807185000",
+              "-to": "20210807210000",
+              "-ftl": "1850",
+              "-tol": "2100",
+              "-dur": "7800",
+              "title": "東京2020オリンピック　野球　決勝 Part1",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "東京2020オリンピックの注目情報満載！<br>今大会のニッポン放送のキャッチコピーは「侍ジャパン、全部やる！」悲願の金メダルを目指す侍ジャパンの情報をショウアップナイターが誇るコメンテーター陣とともにお届けします！",
-              "info": "メールアドレス：<br><a href=\"mailto:tst@1242.com\">tst@1242.com</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jolf\">#jolf</a>」<br>twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」<br>facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
-              "pfm": "煙山光紀、真中満",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/rp8wgu0y7v.png",
+              "desc": "東京2020オリンピック　野球　決勝 Part1",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jolf\">#jolf</a>」<br>twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」<br>facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
+              "pfm": "解説：新井貴浩／実況：山内宏明",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/x6f7gfhjvb.png",
               "metas": {
                 "meta": [
                   {
@@ -602,70 +680,20 @@
               }
             },
             {
-              "-id": "9580730130",
-              "-ft": "20210807211000",
-              "-to": "20210807213000",
-              "-ftl": "2110",
-              "-tol": "2130",
-              "-dur": "1200",
-              "title": "龍 真咲のMOONLIGHT PARTY",
-              "url": "https://www.1242.com/masaki/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "土曜日の夜は、龍 真咲と月夜の下でラジオを聞きながらパーティーを！",
-              "info": "メールアドレス：<br><a href=\"mailto:masaki@1242.com\">masaki@1242.com</a><br><br>番組ホームページは<a href=\"https://www.1242.com/masaki/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jolf\">#jolf</a>」<br>twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」<br>facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
-              "pfm": "龍 真咲",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/3xczqilkii.png",
-              "genre": {
-                "personality": {
-                  "-id": "C003",
-                  "name": "女優"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#jolf"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:1242_PR"
-                  }
-                ]
-              }
-            },
-            {
-              "-id": "9580730131",
-              "-ft": "20210807213000",
+              "-id": "9580893043",
+              "-ft": "20210807210000",
               "-to": "20210807220000",
-              "-ftl": "2130",
+              "-ftl": "2100",
               "-tol": "2200",
-              "-dur": "1800",
-              "title": "山崎育三郎のI AM 1936",
-              "url": "https://www.1242.com/ikusaburo/",
+              "-dur": "3600",
+              "title": "東京2020オリンピック　野球　決勝 Part2",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "少年野球で全国大会に出場した経験もある“野球”や“ゴルフ”など趣味の話にはじまり、時には弾き語りを披露したり、ラジオドラマやコントに挑戦したり、各界からの大物ゲストが登場したり…バラエティに富んだ企画と共に、ラジオならではのトークとリスナーとのコミュニケーションをしっかり盛り込んでいきます！",
-              "info": "メールアドレス：<br><a href=\"mailto:1936@1242.com\">1936@1242.com</a><br><br>番組ホームページは<a href=\"https://www.1242.com/ikusaburo/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jolf\">#jolf</a>」<br>twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」<br>facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
-              "pfm": "山崎育三郎",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/j9kvr6xr16.png",
-              "genre": {
-                "personality": {
-                  "-id": "C002",
-                  "name": "俳優"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
+              "desc": "東京2020オリンピック　野球　決勝 Part2",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jolf\">#jolf</a>」<br>twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」<br>facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
+              "pfm": "解説：新井貴浩／実況：山内宏明",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/x6f7gfhjvb.png",
               "metas": {
                 "meta": [
                   {
@@ -680,7 +708,7 @@
               }
             },
             {
-              "-id": "9580730132",
+              "-id": "9580883199",
               "-ft": "20210807220000",
               "-to": "20210807223000",
               "-ftl": "2200",
@@ -695,14 +723,9 @@
               "info": "メールアドレス：<br><a href=\"mailto:go@1242.com\">go@1242.com</a><br><br>番組ホームページは<a href=\"https://www.1242.com/radio/goingup/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jolf\">#jolf</a>」<br>twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」<br>facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
               "pfm": "鈴木亮平",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/adgesohlja.png",
-              "genre": {
-                "personality": {
-                  "-id": "C002",
-                  "name": "俳優"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+              "tag": {
+                "item": {
+                  "name": "鈴木亮平"
                 }
               },
               "metas": {
@@ -719,7 +742,7 @@
               }
             },
             {
-              "-id": "9580730135",
+              "-id": "9580861203",
               "-ft": "20210807223000",
               "-to": "20210807230000",
               "-ftl": "2230",
@@ -734,6 +757,16 @@
               "info": "メールアドレス：<br><a href=\"mailto:gaya@1242.com\">gaya@1242.com</a><br><br>番組ホームページは<a href=\"https://www.1242.com/gaya/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E8%97%A4%E3%83%B6%E8%B0%B7%E5%A4%AA%E8%BC%94PeacefulDays\">#藤ヶ谷太輔PeacefulDays</a>」twitterアカウントは「<a href=\"http://twitter.com/ANNpremium\">@ANNpremium</a>」facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
               "pfm": "藤ヶ谷太輔",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/bt4dri7hje.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "KisーMyーFt2"
+                  },
+                  {
+                    "name": "藤ヶ谷太輔"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C007",
@@ -758,7 +791,7 @@
               }
             },
             {
-              "-id": "9580730136",
+              "-id": "9580861204",
               "-ft": "20210807230000",
               "-to": "20210807233000",
               "-ftl": "2300",
@@ -773,6 +806,11 @@
               "info": "番組ホームページは<a href=\"https://news.1242.com/article/123091\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E4%B8%AD%E5%B1%85%E6%AD%A3%E5%BA%83_ON_and_ON_AIR\">#中居正広_ON_and_ON_AIR</a>」twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」<br>facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
               "pfm": "中居正広",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/sujh6u8kpo.png",
+              "tag": {
+                "item": {
+                  "name": "中居正広"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C007",
@@ -797,7 +835,7 @@
               }
             },
             {
-              "-id": "9580730139",
+              "-id": "9580861207",
               "-ft": "20210807233000",
               "-to": "20210808010000",
               "-ftl": "2330",
@@ -812,6 +850,16 @@
               "info": "メールアドレス：<br><a href=\"mailto:st@allnightnippon.com\">st@allnightnippon.com</a><br><br>番組ホームページは<a href=\"https://www.allnightnippon.com/sixtones/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23SixTONESANN\">#SixTONESANN</a>」twitterアカウントは「<a href=\"http://twitter.com/SixTONESANNSat\">@SixTONESANNSat</a>」facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
               "pfm": "SixTONES（ジェシー／京本大我／松村北斗／髙地優吾／森本慎太郎／田中樹）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/2evfvu252u.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "SixTONES"
+                  },
+                  {
+                    "name": "オールナイトニッポン"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C007",
@@ -836,7 +884,7 @@
               }
             },
             {
-              "-id": "9580730143",
+              "-id": "9580883224",
               "-ft": "20210808010000",
               "-to": "20210808030000",
               "-ftl": "2500",
@@ -851,15 +899,15 @@
               "info": "メールアドレス：<br><a href=\"mailto:kw@allnightnippon.com\">kw@allnightnippon.com</a><br><br>番組ホームページは<a href=\"https://www.allnightnippon.com/kw/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23annkw\">#annkw</a>」twitterアカウントは「<a href=\"http://twitter.com/annkw5tyb\">@annkw5tyb</a>」facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
               "pfm": "オードリー(若林正恭/春日俊彰)",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/2uvc37bx9r.png",
-              "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
+              "tag": {
+                "item": [
+                  {
+                    "name": "オードリー"
+                  },
+                  {
+                    "name": "オールナイトニッポン"
+                  }
+                ]
               },
               "metas": {
                 "meta": [
@@ -875,7 +923,7 @@
               }
             },
             {
-              "-id": "9580730148",
+              "-id": "9580861216",
               "-ft": "20210808030000",
               "-to": "20210808045000",
               "-ftl": "2700",
@@ -890,6 +938,11 @@
               "info": "メールアドレス：<br><a href=\"mailto:enta@allnightnippon.com\">enta@allnightnippon.com</a><br><br>番組ホームページは<a href=\"https://www.allnightnippon.com/zero-sat/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1ANN0\">#エンタメANN0</a>」twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
               "pfm": "SKE48 鎌田菜月・熊崎晴香・青海ひな乃",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/zj9jnx7pf4.png",
+              "tag": {
+                "item": {
+                  "name": "オールナイトニッポン0(ZERO)"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -914,7 +967,7 @@
               }
             },
             {
-              "-id": "9580730153",
+              "-id": "9580861221",
               "-ft": "20210808045000",
               "-to": "20210808050000",
               "-ftl": "2850",
@@ -929,6 +982,11 @@
               "info": "メールアドレス：<br><a href=\"mailto:hare@1242.com\">hare@1242.com</a><br><br>番組ホームページは<a href=\"https://www.1242.com/harenosuke/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jolf\">#jolf</a>」<br>twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」<br>facebookページは「<a href='http://www.facebook.com/am1242'>http://www.facebook.com/am1242</a>」",
               "pfm": "立川晴の輔",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/mssr5q86gs.png",
+              "tag": {
+                "item": {
+                  "name": "立川晴の輔"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C009",

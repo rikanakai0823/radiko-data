@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1627841996",
+    "srvtime": "1628187671",
     "stations": {
       "station": {
         "-id": "FMFUKUOKA",
@@ -58,27 +58,36 @@
               }
             },
             {
-              "-id": "9579926332",
+              "-id": "9580914623",
               "-ft": "20210807055500",
               "-to": "20210807060000",
               "-ftl": "0555",
               "-tol": "0600",
               "-dur": "300",
-              "title": "ぴよぴよラジオ",
+              "title": "POWER PLAY",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /></div>",
+              "info": "<div class=\"station_content_description \">\tFM FUKUOKAのイチオシの邦楽・洋楽アーティストをご紹介！ <br /><br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUOKA/621e1eb7-2bf1-4265-94ee-4a7ee6e333be.jpeg",
               "tag": {
-                "item": {
-                  "name": "ショッピング"
-                }
+                "item": [
+                  {
+                    "name": "音楽"
+                  },
+                  {
+                    "name": "FM福岡"
+                  }
+                ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1427,7 +1436,7 @@
               }
             },
             {
-              "-id": "9580199559",
+              "-id": "9580883095",
               "-ft": "20210807170000",
               "-to": "20210807175500",
               "-ftl": "1700",
@@ -1913,7 +1922,7 @@
               }
             },
             {
-              "-id": "9580262810",
+              "-id": "9580881392",
               "-ft": "20210807213000",
               "-to": "20210807220000",
               "-ftl": "2130",
