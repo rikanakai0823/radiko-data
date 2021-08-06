@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1628187715",
+    "srvtime": "1628274117",
     "stations": {
       "station": {
         "-id": "JRT",
@@ -124,7 +124,7 @@
               }
             },
             {
-              "-id": "9580883922",
+              "-id": "9581049597",
               "-ft": "20210811053000",
               "-to": "20210811063000",
               "-ftl": "0530",
@@ -137,6 +137,16 @@
               "info": "聴くスポーツ新聞、それがこの番組です。ニュース、スポーツ、そして健康、シニアライフ、介護などをキーワードに生島ヒロシがわかりやすく、元気に様々な情報をお伝えしていきます！<br /><br />番組ではあなたからのメッセージを募集しています。<br />メール：<a href=\"mailto:ohayou@tbs.co.jp\">ohayou@tbs.co.jp</a><br />twitterハッシュタグは「<a href=\"http://twitter.com/#!/search/%23ikushima\">#ikushima</a>」",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/8d6dda88-f261-4316-8760-138551c56e2e.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -883,7 +893,7 @@
               }
             },
             {
-              "-id": "9580884138",
+              "-id": "9581051719",
               "-ft": "20210811165000",
               "-to": "20210811170000",
               "-ftl": "1650",
@@ -896,6 +906,16 @@
               "info": "「あなたにハッピー・メロディー」はニッポン放送をキーステーションに、四国放送はじめ全国２８局ネットでお送りする番組です。話題のアーティストやフレッシュな歌手を週替わりゲストに招いてトークと楽曲をお送りする週と、リスナーからのリクエスト曲や音楽関係者による推薦曲、番組注目のアーティストの楽曲などをお送りする週とでお送りします。旬の話題、季節の風物詩のトークも満載です。",
               "pfm": "だいすけ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/57b7a9ce-6822-401e-b5d8-fda43b11056f.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1133,7 +1153,7 @@
               }
             },
             {
-              "-id": "9580714857",
+              "-id": "9581073246",
               "-ft": "20210811210000",
               "-to": "20210811230000",
               "-ftl": "2100",
@@ -1225,12 +1245,31 @@
               }
             },
             {
-              "-id": "9580884250",
+              "-id": "9581089145",
               "-ft": "20210812000000",
-              "-to": "20210812010000",
+              "-to": "20210812003000",
               "-ftl": "2400",
+              "-tol": "2430",
+              "-dur": "1800",
+              "title": "Ｋｉｓ－Ｍｙ－Ｆｔ２　キスマイ　Ｒａｄｉｏ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/7e5c28d7-0c85-4a66-8c81-5a0cee890c42.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9581095202",
+              "-ft": "20210812003000",
+              "-to": "20210812010000",
+              "-ftl": "2430",
               "-tol": "2500",
-              "-dur": "3600",
+              "-dur": "1800",
               "title": "レコメン！",
               "url": "http://www.joqr.co.jp/reco/",
               "failed_record": "0",
@@ -1238,6 +1277,16 @@
               "ts_out_ng": "0",
               "info": "メール：<a href=\"mailto:reco@joqr.net\">reco@joqr.net</a>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/681183a4-5a3b-4d0f-8e9b-70d9daae9bd7.png",
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

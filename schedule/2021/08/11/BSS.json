@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1628187713",
+    "srvtime": "1628274115",
     "stations": {
       "station": {
         "-id": "BSS",
@@ -89,7 +89,7 @@
               }
             },
             {
-              "-id": "9580883927",
+              "-id": "9581049599",
               "-ft": "20210811053000",
               "-to": "20210811063000",
               "-ftl": "0530",
@@ -103,6 +103,16 @@
               "desc": "ニュース、スポーツ、そして健康、シニアライフ、介護など。",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/BSS/mb83rugd3h.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -780,7 +790,7 @@
               }
             },
             {
-              "-id": "9580884132",
+              "-id": "9581051716",
               "-ft": "20210811164500",
               "-to": "20210811165500",
               "-ftl": "1645",
@@ -793,6 +803,16 @@
               "desc": "あなたにハッピー・メロディ",
               "pfm": "だいすけ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/BSS/ccd0cdb4-b944-4362-8e52-c716ce8abbbe.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1065,20 +1085,43 @@
               }
             },
             {
-              "-id": "9580891088",
+              "-id": "9581073298",
               "-ft": "20210812000000",
-              "-to": "20210812010000",
+              "-to": "20210812003000",
               "-ftl": "2400",
+              "-tol": "2430",
+              "-dur": "1800",
+              "title": "Kis-My-Ft2デビュー10 周年記念！キスマイ Radio 超拡大版 SP～Everybodyキスマイ Go！～",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "Kis-My-Ft2デビュー10 周年記念！キスマイ Radio 超拡大版 SP～Everybodyキスマイ Go！～",
+              "info": "メンバーの北山宏光、千賀健永、宮田俊哉、横尾渉、藤ヶ谷太輔、玉森裕太、二階堂高嗣が7人揃って生出演！",
+              "pfm": "Kis-My-Ft2",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/BSS/e2c89cce-5326-4f52-8fcd-adff69288e97.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9581058419",
+              "-ft": "20210812003000",
+              "-to": "20210812010000",
+              "-ftl": "2430",
               "-tol": "2500",
-              "-dur": "3600",
+              "-dur": "1800",
               "title": "レコメン！",
               "url": "http://www.joqr.co.jp/reco/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "レコメン！水曜日はＫｉｓ－Ｍｙ－Ｆｔ2のコーナーもあるよ。",
-              "pfm": "オテンキのり",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/BSS/c0cc8746-6d46-449e-8cd5-7aa83491cc9a.jpeg",
+              "desc": "レコメン！",
+              "info": "「めるるのはっぴーsuるーむ」も時間変更してお送りします",
+              "pfm": "オテンキのり、田村真佑（乃木坂46）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/BSS/5e82e2ec-17e6-4907-b37b-d51b3e41fdcb.png",
               "genre": {
                 "program": {
                   "-id": "P006",
@@ -1093,7 +1136,7 @@
               }
             },
             {
-              "-id": "9580893953",
+              "-id": "9581061528",
               "-ft": "20210812010000",
               "-to": "20210812030000",
               "-ftl": "2500",

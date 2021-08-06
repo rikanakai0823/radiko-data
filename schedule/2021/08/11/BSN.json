@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1628187715",
+    "srvtime": "1628274117",
     "stations": {
       "station": {
         "-id": "BSN",
@@ -82,7 +82,7 @@
               }
             },
             {
-              "-id": "9580883921",
+              "-id": "9581049596",
               "-ft": "20210811053000",
               "-to": "20210811062900",
               "-ftl": "0530",
@@ -96,6 +96,16 @@
               "desc": "　　",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/BSN/zzitlnlv06.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1323,18 +1333,40 @@
               }
             },
             {
-              "-id": "9580891086",
+              "-id": "9581089723",
               "-ft": "20210812000000",
-              "-to": "20210812010000",
+              "-to": "20210812003000",
               "-ftl": "2400",
+              "-tol": "2430",
+              "-dur": "1800",
+              "title": "Kis-My-Ft2デビュー10周年記念！キスマイRa",
+              "url": "https://www.joqr.co.jp/qr/program/reco/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "Kis-My-Ft2",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/BSN/ce955ff7-c5c4-4b6c-bfb5-05ed57afa79a.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9581095203",
+              "-ft": "20210812003000",
+              "-to": "20210812010000",
+              "-ftl": "2430",
               "-tol": "2500",
-              "-dur": "3600",
+              "-dur": "1800",
               "title": "レコメン！",
               "url": "http://www.joqr.co.jp/reco/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "Kis-My-Ft2 キスマイRadio",
+              "desc": "　　",
               "pfm": "オテンキのり",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/BSN/pr4autkm8w.png",
               "genre": {
