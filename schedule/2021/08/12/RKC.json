@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1628274125",
+    "srvtime": "1628360516",
     "stations": {
       "station": {
         "-id": "RKC",
@@ -1257,12 +1257,12 @@
               }
             },
             {
-              "-id": "9580894810",
+              "-id": "9581188729",
               "-ft": "20210812182000",
-              "-to": "20210812220000",
+              "-to": "20210812210000",
               "-ftl": "1820",
-              "-tol": "2200",
-              "-dur": "13200",
+              "-tol": "2100",
+              "-dur": "9600",
               "title": "ＲＫＣゴールデンナイター（木）",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
@@ -1279,7 +1279,39 @@
               }
             },
             {
-              "-id": "9580895039",
+              "-id": "9581261209",
+              "-ft": "20210812210000",
+              "-to": "20210812220000",
+              "-ftl": "2100",
+              "-tol": "2200",
+              "-dur": "3600",
+              "title": "バンリク",
+              "url": "http://www.rkc-kochi.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "四国放送ラジオ制作のリクエスト番組",
+              "pfm": "四国放送アナウンサー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/d2363c96-4266-4156-9c62-4bcfb5a972ca.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9581261214",
               "-ft": "20210812220000",
               "-to": "20210812230000",
               "-ftl": "2200",
