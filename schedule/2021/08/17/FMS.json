@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1628706129",
+    "srvtime": "1628792496",
     "stations": {
       "station": {
         "-id": "FMS",
@@ -809,12 +809,12 @@
               }
             },
             {
-              "-id": "9581742793",
+              "-id": "9582156341",
               "-ft": "20210817170000",
-              "-to": "20210817175300",
+              "-to": "20210817180000",
               "-ftl": "1700",
-              "-tol": "1753",
-              "-dur": "3180",
+              "-tol": "1800",
+              "-dur": "3600",
               "title": "CHANGE",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -830,32 +830,6 @@
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9581693205",
-              "-ft": "20210817175300",
-              "-to": "20210817180000",
-              "-ftl": "1753",
-              "-tol": "1800",
-              "-dur": "420",
-              "title": "佐賀新聞ニュース",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMS/60f5d173-ea73-43a8-b8df-a0b0a320abe9.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {

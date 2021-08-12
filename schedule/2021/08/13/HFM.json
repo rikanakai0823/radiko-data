@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1628619652",
+    "srvtime": "1628792449",
     "stations": {
       "station": {
         "-id": "HFM",
@@ -144,13 +144,84 @@
               }
             },
             {
-              "-id": "9581059172",
+              "-id": "9582072917",
               "-ft": "20210813073000",
-              "-to": "20210813100900",
+              "-to": "20210813075300",
               "-ftl": "0730",
-              "-tol": "1009",
-              "-dur": "9540",
+              "-tol": "0753",
+              "-dur": "1380",
               "title": "OH! HAPPY MORNING",
+              "url": "https://audee.jp/program/show/27266",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": " ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/004bd0ce-33f2-44b0-bc9f-7969c7c89b96.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9582086011",
+              "-ft": "20210813075300",
+              "-to": "20210813080000",
+              "-ftl": "0753",
+              "-tol": "0800",
+              "-dur": "420",
+              "title": "大雨関連情報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": " ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/HFM/004bd0ce-33f2-44b0-bc9f-7969c7c89b96.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "広島FM"
+                  },
+                  {
+                    "name": "HFM"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9582076141",
+              "-ft": "20210813080000",
+              "-to": "20210813100900",
+              "-ftl": "0800",
+              "-tol": "1009",
+              "-dur": "7740",
+              "title": "OH！HAPPY MORNING",
               "url": "https://audee.jp/program/show/27266",
               "failed_record": "0",
               "ts_in_ng": "0",
