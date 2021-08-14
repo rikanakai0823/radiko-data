@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1628878847",
+    "srvtime": "1628965333",
     "stations": {
       "station": {
         "-id": "JRT",
@@ -406,18 +406,57 @@
               }
             },
             {
-              "-id": "9582216701",
+              "-id": "9582426497",
               "-ft": "20210815125500",
-              "-to": "20210815155500",
+              "-to": "20210815130000",
               "-ftl": "1255",
-              "-tol": "1555",
-              "-dur": "10800",
-              "title": "第１０３回全国高等学校野球選手権大会１回戦　阿南光高校ｖｓ沖縄尚学高校",
+              "-tol": "1300",
+              "-dur": "300",
+              "title": "徳島新聞ニュース・天気",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "第１０３回全国高等学校野球選手権大会１回戦・阿南光高校ｖｓ沖縄尚学高校",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/7744eb42-5076-43c8-9951-3c903dff2cc6.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/5c398016-fd30-4737-afde-015ca60053ab.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9582442542",
+              "-ft": "20210815130000",
+              "-to": "20210815155500",
+              "-ftl": "1300",
+              "-tol": "1555",
+              "-dur": "10500",
+              "title": "ＪＲＴ日曜懐メロ大全集",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "岩瀬弥永子／梅津龍太郎",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/82833cbd-6b13-4956-930e-1119f86fa783.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
