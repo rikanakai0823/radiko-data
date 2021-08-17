@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1629138101",
+    "srvtime": "1629224519",
     "stations": {
       "station": {
         "-id": "RKC",
@@ -351,20 +351,151 @@
               }
             },
             {
-              "-id": "9582603552",
+              "-id": "9582907133",
               "-ft": "20210822100000",
-              "-to": "20210822120000",
+              "-to": "20210822110000",
               "-ftl": "1000",
-              "-tol": "1200",
-              "-dur": "7200",
-              "title": "県中学野球選手権大会決勝",
+              "-tol": "1100",
+              "-dur": "3600",
+              "title": "板東男節",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "雨天順延の場合、レギュラー編成となります。",
-              "pfm": "(実況)　高橋龍介",
+              "desc": "徳島県鳴門市在住でシンガーソングライターの板東道生と四国放送アナウンサー佐藤旬子がお届けする音楽とトークの一時間！",
+              "pfm": "板東道生・佐藤旬子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/42e2918b-b937-40db-9105-75c2698c3e88.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9582886161",
+              "-ft": "20210822110000",
+              "-to": "20210822110500",
+              "-ftl": "1100",
+              "-tol": "1105",
+              "-dur": "300",
+              "title": "高知新聞ニュース・天気予報",
+              "url": "http://www.rkc-kochi.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/9eabc8eb-ace9-4142-9c6c-44d95441292c.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "防災士"
+                  },
+                  {
+                    "name": "高知のニュース"
+                  },
+                  {
+                    "name": "高知県"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9582886162",
+              "-ft": "20210822110500",
+              "-to": "20210822113000",
+              "-ftl": "1105",
+              "-tol": "1130",
+              "-dur": "1500",
+              "title": "三山ひろしの演歌の夜明け",
+              "url": "http://www.rkc-kochi.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "高知県出身の演歌歌手三山ひろしが送る番組。「心の一曲」のコーナーでは昭和の名曲を紹介。「ビタミン・ボイス」に注目。",
+              "pfm": "三山ひろし",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9582894765",
+              "-ft": "20210822113000",
+              "-to": "20210822120000",
+              "-ftl": "1130",
+              "-tol": "1200",
+              "-dur": "1800",
+              "title": "うみともらじお",
+              "url": "http://www.rkc-kochi.co.jp/radio/umitomo/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "明るく元気な歌声で日本中をまわる「歌う旅芸人」う～みが送る。30分間う～み満載！う～みがみなさんと喜怒哀楽をともにします。",
+              "info": "<a href='http://www.rkc-kochi.co.jp/radio/umitomo/' target='blank'>http://www.rkc-kochi.co.jp/radio/umitomo/</a>",
+              "pfm": "う～み",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/420ac135-aeb4-41a9-8b59-d0ceda05a080.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "スタジオライブ"
+                  },
+                  {
+                    "name": "う〜み"
+                  },
+                  {
+                    "name": "生演奏"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

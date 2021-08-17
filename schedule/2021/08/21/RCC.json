@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1629138090",
+    "srvtime": "1629224508",
     "stations": {
       "station": {
         "-id": "RCC",
@@ -688,21 +688,59 @@
               }
             },
             {
-              "-id": "9582757164",
+              "-id": "9582894498",
               "-ft": "20210821160000",
-              "-to": "20210821161500",
+              "-to": "20210821161000",
               "-ftl": "1600",
-              "-tol": "1615",
-              "-dur": "900",
-              "title": "まいどあり～。",
+              "-tol": "1610",
+              "-dur": "600",
+              "title": "本名正憲の20世紀洋楽少年",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "pfm": "本名正憲",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/c32a7e63-4daa-4881-b234-1fcca248f433.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9582902536",
+              "-ft": "20210821161000",
+              "-to": "20210821161500",
+              "-ftl": "1610",
+              "-tol": "1615",
+              "-dur": "300",
+              "title": "サウンドセレクション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "長谷川努",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/facd6583-a762-4d5f-a072-03bf9d387c83.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "JPOP"
+                  },
+                  {
+                    "name": "演歌"
+                  },
+                  {
+                    "name": "ポップス"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1296,7 +1334,7 @@
               }
             },
             {
-              "-id": "9582732082",
+              "-id": "9582889165",
               "-ft": "20210822045500",
               "-to": "20210822045900",
               "-ftl": "2855",
