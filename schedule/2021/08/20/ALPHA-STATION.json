@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1629310881",
+    "srvtime": "1629397266",
     "stations": {
       "station": {
         "-id": "ALPHA-STATION",
@@ -10,7 +10,7 @@
           "date": "20210820",
           "prog": [
             {
-              "-id": "9583171060",
+              "-id": "9583342370",
               "-ft": "20210820050000",
               "-to": "20210820060000",
               "-ftl": "0500",
@@ -32,6 +32,9 @@
                   },
                   {
                     "name": "大人のジャズ"
+                  },
+                  {
+                    "name": "ジャズ"
                   }
                 ]
               },
@@ -59,7 +62,7 @@
               }
             },
             {
-              "-id": "9583108022",
+              "-id": "9583342390",
               "-ft": "20210820060000",
               "-to": "20210820070000",
               "-ftl": "0600",
@@ -74,6 +77,16 @@
               "info": "<br /> <p>twitterアカウントは「<a href=\"http://twitter.com/fmkyoto\">@fmkyoto</a>」</p> <p>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%CE%B1STATION\">#αSTATION</a>」</p> <p>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23FM%E4%BA%AC%E9%83%BD\">#FM京都</a>」</p>",
               "pfm": "春日 郁代 / 森 夏子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ALPHA-STATION/b613bb75-872e-4da8-8669-5ff81bab1e36.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -92,7 +105,7 @@
               }
             },
             {
-              "-id": "9583108025",
+              "-id": "9583342404",
               "-ft": "20210820070000",
               "-to": "20210820100000",
               "-ftl": "0700",
@@ -120,6 +133,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -138,7 +161,7 @@
               }
             },
             {
-              "-id": "9583108033",
+              "-id": "9583297091",
               "-ft": "20210820100000",
               "-to": "20210820103000",
               "-ftl": "1000",
@@ -160,6 +183,9 @@
                   },
                   {
                     "name": "小川珈琲"
+                  },
+                  {
+                    "name": "ゲストトーク"
                   }
                 ]
               },
@@ -191,7 +217,7 @@
               }
             },
             {
-              "-id": "9583108037",
+              "-id": "9583342445",
               "-ft": "20210820103000",
               "-to": "20210820110000",
               "-ftl": "1030",
@@ -216,6 +242,9 @@
                   },
                   {
                     "name": "子供"
+                  },
+                  {
+                    "name": "ライフスタイル"
                   }
                 ]
               },
@@ -247,7 +276,7 @@
               }
             },
             {
-              "-id": "9583108038",
+              "-id": "9583292852",
               "-ft": "20210820110000",
               "-to": "20210820120000",
               "-ftl": "1100",
@@ -293,7 +322,7 @@
               }
             },
             {
-              "-id": "9583108041",
+              "-id": "9583292859",
               "-ft": "20210820120000",
               "-to": "20210820150000",
               "-ftl": "1200",
@@ -339,7 +368,7 @@
               }
             },
             {
-              "-id": "9583108049",
+              "-id": "9583297166",
               "-ft": "20210820150000",
               "-to": "20210820160000",
               "-ftl": "1500",
@@ -357,6 +386,16 @@
               "tag": {
                 "item": {
                   "name": "Kitri"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -377,7 +416,7 @@
               }
             },
             {
-              "-id": "9583111274",
+              "-id": "9583342524",
               "-ft": "20210820160000",
               "-to": "20210820200000",
               "-ftl": "1600",
@@ -399,6 +438,9 @@
                   },
                   {
                     "name": "チャミトレ"
+                  },
+                  {
+                    "name": "トーク"
                   }
                 ]
               },
@@ -434,7 +476,7 @@
               }
             },
             {
-              "-id": "9583108061",
+              "-id": "9583342574",
               "-ft": "20210820200000",
               "-to": "20210820210000",
               "-ftl": "2000",
@@ -450,9 +492,17 @@
               "pfm": "スカート (澤部渡)",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ALPHA-STATION/157395d9-ab41-4659-9b87-71d0b4da6e89.jpeg",
               "tag": {
-                "item": {
-                  "name": "スカート"
-                }
+                "item": [
+                  {
+                    "name": "スカート"
+                  },
+                  {
+                    "name": "澤部渡"
+                  },
+                  {
+                    "name": "選曲"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -486,7 +536,7 @@
               }
             },
             {
-              "-id": "9583171243",
+              "-id": "9583342586",
               "-ft": "20210820210000",
               "-to": "20210820220000",
               "-ftl": "2100",
@@ -555,7 +605,7 @@
               }
             },
             {
-              "-id": "9583108067",
+              "-id": "9583342606",
               "-ft": "20210820220000",
               "-to": "20210820230000",
               "-ftl": "2200",
@@ -570,6 +620,16 @@
               "info": "<br /><br /><p>⇒リクエストは<a href=\"http://fm-kyoto.jp/message/?program=Okazaki%20Radio%20Channel\">コチラへ</a></p> <p>twitterアカウントは「<a href=\"http://twitter.com/fmkyoto\">@fmkyoto</a>」</p> <p>・twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%CE%B1STATION\">#αSTATION</a>」</p> <p>・twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23FM%E4%BA%AC%E9%83%BD\">#FM京都</a>」</p> <p>・twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23ORC\">#ORC</a>」</p> ",
               "pfm": "岡崎体育",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ALPHA-STATION/76910e8a-d1cd-4237-8391-6e926a8033ca.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "岡崎体育"
+                  },
+                  {
+                    "name": "トーク"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -602,7 +662,7 @@
               }
             },
             {
-              "-id": "9583108071",
+              "-id": "9583292916",
               "-ft": "20210820230000",
               "-to": "20210821000000",
               "-ftl": "2300",
@@ -617,6 +677,11 @@
               "info": "<br /><br /><p>⇒リクエストは<a href=\"https://fm-kyoto.jp/message/?program=K-Style%20radio\">コチラへ</a></p><br /> <p>twitterアカウントは「<a href=\"http://twitter.com/KStyleradio_894\">@KStyleradio_894</a>」</p> <p>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23KS%E3%83%A9%E3%82%B8%E3%82%AA\">#KSラジオ</a>」</p> <p>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23FM%E4%BA%AC%E9%83%BD\">#FM京都</a>」</p>",
               "pfm": "加賀成一",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ALPHA-STATION/9dbbf5fb-696d-4bb8-aaf6-1aab5e57fe65.jpeg",
+              "tag": {
+                "item": {
+                  "name": "加賀成一"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C002",
@@ -645,7 +710,7 @@
               }
             },
             {
-              "-id": "9583108075",
+              "-id": "9583292922",
               "-ft": "20210821000000",
               "-to": "20210821010000",
               "-ftl": "2400",
@@ -660,6 +725,19 @@
               "info": "<br /><br /> <p>twitterアカウントは「<a href=\"http://twitter.com/fmkyoto\">@fmkyoto</a>」</p> <p>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%CE%B1STATION\">#αSTATION</a>」</p> <p>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23FM%E4%BA%AC%E9%83%BD\">#FM京都</a>」</p> ",
               "pfm": "NON-DJ(PLAY BACK)",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ALPHA-STATION/35e37ac3-a0a7-4ffd-a366-db68198e945b.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "洋楽"
+                  },
+                  {
+                    "name": "ディスコ"
+                  },
+                  {
+                    "name": "深夜ディスコ"
+                  }
+                ]
+              },
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -684,7 +762,7 @@
               }
             },
             {
-              "-id": "9583108078",
+              "-id": "9583292927",
               "-ft": "20210821010000",
               "-to": "20210821020000",
               "-ftl": "2500",
@@ -699,6 +777,19 @@
               "info": "<br /><br /> <p>twitterアカウントは「<a href=\"http://twitter.com/fmkyoto\">@fmkyoto</a>」</p> <p>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%CE%B1STATION\">#αSTATION</a>」</p> <p>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23FM%E4%BA%AC%E9%83%BD\">#FM京都</a>」</p> ",
               "pfm": "NON-DJ(α-MIDNIGHT JAZZ)",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ALPHA-STATION/exbuko4ovt.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "癒しのジャズ"
+                  },
+                  {
+                    "name": "深夜"
+                  },
+                  {
+                    "name": "ジャズ"
+                  }
+                ]
+              },
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -723,7 +814,7 @@
               }
             },
             {
-              "-id": "9583108081",
+              "-id": "9583292931",
               "-ft": "20210821020000",
               "-to": "20210821050000",
               "-ftl": "2600",

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1629310916",
+    "srvtime": "1629397309",
     "stations": {
       "station": {
         "-id": "BSN",
@@ -87,7 +87,7 @@
               }
             },
             {
-              "-id": "9583063835",
+              "-id": "9583246688",
               "-ft": "20210824053000",
               "-to": "20210824062900",
               "-ftl": "0530",
@@ -1447,7 +1447,7 @@
               }
             },
             {
-              "-id": "9583083382",
+              "-id": "9583244902",
               "-ft": "20210825000000",
               "-to": "20210825010000",
               "-ftl": "2400",
@@ -1461,6 +1461,12 @@
               "desc": "KちゃんNEWS",
               "pfm": "オテンキのり",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/BSN/pr4autkm8w.png",
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1469,7 +1475,7 @@
               }
             },
             {
-              "-id": "9583083429",
+              "-id": "9583244934",
               "-ft": "20210825010000",
               "-to": "20210825030000",
               "-ftl": "2500",
@@ -1483,6 +1489,16 @@
               "desc": "　　",
               "pfm": "星野源",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/BSN/b50bd519-6251-4556-bd1b-5b3384840808.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1629310918",
+    "srvtime": "1629397312",
     "stations": {
       "station": {
         "-id": "JOBK",
@@ -268,7 +268,7 @@
               }
             },
             {
-              "-id": "9582855587",
+              "-id": "9583293235",
               "-ft": "20210824115000",
               "-to": "20210824120000",
               "-ftl": "1150",
@@ -406,12 +406,12 @@
               }
             },
             {
-              "-id": "9582896755",
+              "-id": "9583261486",
               "-ft": "20210824190000",
-              "-to": "20210824191500",
+              "-to": "20210824192500",
               "-ftl": "1900",
-              "-tol": "1915",
-              "-dur": "900",
+              "-tol": "1925",
+              "-dur": "1500",
               "title": "ＮＨＫきょうのニュース",
               "url": "http://www.nhk.or.jp/radionews/",
               "failed_record": "0",
@@ -426,11 +426,11 @@
               }
             },
             {
-              "-id": "9582855627",
-              "-ft": "20210824191500",
-              "-to": "20210824192000",
-              "-ftl": "1915",
-              "-tol": "1920",
+              "-id": "9583325199",
+              "-ft": "20210824192500",
+              "-to": "20210824193000",
+              "-ftl": "1925",
+              "-tol": "1930",
               "-dur": "300",
               "title": "ニュース・天気予報",
               "url": "http://www.nhk.or.jp/radionews/",
@@ -446,12 +446,12 @@
               }
             },
             {
-              "-id": "9583016379",
-              "-ft": "20210824192000",
+              "-id": "9583261513",
+              "-ft": "20210824193000",
               "-to": "20210824195500",
-              "-ftl": "1920",
+              "-ftl": "1930",
               "-tol": "1955",
-              "-dur": "2100",
+              "-dur": "1500",
               "title": "Ｎらじ　きょうのニュースぷらす　眞下貴　黒崎瞳",
               "url": "https://www4.nhk.or.jp/nradi/",
               "failed_record": "0",
@@ -468,18 +468,58 @@
               }
             },
             {
-              "-id": "9582896771",
+              "-id": "9583261521",
               "-ft": "20210824195500",
-              "-to": "20210825000000",
+              "-to": "20210824230000",
               "-ftl": "1955",
-              "-tol": "2400",
-              "-dur": "14700",
+              "-tol": "2300",
+              "-dur": "11100",
               "title": "東京２０２０パラリンピック",
               "url": "https://sports.nhk.or.jp/paralympic/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOBK/3fumfqrmns.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9583325243",
+              "-ft": "20210824230000",
+              "-to": "20210824230500",
+              "-ftl": "2300",
+              "-tol": "2305",
+              "-dur": "300",
+              "title": "ニュース",
+              "url": "http://www.nhk.or.jp/radionews/",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOBK/caqyd0qghj.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9583261548",
+              "-ft": "20210824230500",
+              "-to": "20210825000000",
+              "-ftl": "2305",
+              "-tol": "2400",
+              "-dur": "3300",
+              "title": "ラジオ深夜便",
+              "url": "https://www4.nhk.or.jp/shinyabin/",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOBK/0a5pqz023r.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",

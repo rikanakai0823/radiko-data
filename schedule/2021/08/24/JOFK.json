@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1629310918",
+    "srvtime": "1629397312",
     "stations": {
       "station": {
         "-id": "JOFK",
@@ -287,13 +287,32 @@
               }
             },
             {
-              "-id": "9582855581",
+              "-id": "9583281946",
               "-ft": "20210824115000",
-              "-to": "20210824120000",
+              "-to": "20210824115500",
               "-ftl": "1150",
-              "-tol": "1200",
-              "-dur": "600",
+              "-tol": "1155",
+              "-dur": "300",
               "title": "中国地方の天気予報・おしらせ",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOFK/d3e92ac3-843e-4309-8ddc-69879f352ffd.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9583281957",
+              "-ft": "20210824115500",
+              "-to": "20210824120000",
+              "-ftl": "1155",
+              "-tol": "1200",
+              "-dur": "300",
+              "title": "音楽",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
@@ -406,12 +425,12 @@
               }
             },
             {
-              "-id": "9582896749",
+              "-id": "9583261480",
               "-ft": "20210824190000",
-              "-to": "20210824191500",
+              "-to": "20210824192500",
               "-ftl": "1900",
-              "-tol": "1915",
-              "-dur": "900",
+              "-tol": "1925",
+              "-dur": "1500",
               "title": "ＮＨＫきょうのニュース",
               "url": "http://www.nhk.or.jp/radionews/",
               "failed_record": "0",
@@ -426,11 +445,11 @@
               }
             },
             {
-              "-id": "9582855621",
-              "-ft": "20210824191500",
-              "-to": "20210824192000",
-              "-ftl": "1915",
-              "-tol": "1920",
+              "-id": "9583325193",
+              "-ft": "20210824192500",
+              "-to": "20210824193000",
+              "-ftl": "1925",
+              "-tol": "1930",
               "-dur": "300",
               "title": "ニュース・天気予報",
               "url": "http://www.nhk.or.jp/radionews/",
@@ -446,12 +465,12 @@
               }
             },
             {
-              "-id": "9583016373",
-              "-ft": "20210824192000",
+              "-id": "9583261508",
+              "-ft": "20210824193000",
               "-to": "20210824195500",
-              "-ftl": "1920",
+              "-ftl": "1930",
               "-tol": "1955",
-              "-dur": "2100",
+              "-dur": "1500",
               "title": "Ｎらじ　きょうのニュースぷらす　眞下貴　黒崎瞳",
               "url": "https://www4.nhk.or.jp/nradi/",
               "failed_record": "0",
@@ -468,18 +487,58 @@
               }
             },
             {
-              "-id": "9582896766",
+              "-id": "9583261516",
               "-ft": "20210824195500",
-              "-to": "20210825000000",
+              "-to": "20210824230000",
               "-ftl": "1955",
-              "-tol": "2400",
-              "-dur": "14700",
+              "-tol": "2300",
+              "-dur": "11100",
               "title": "東京２０２０パラリンピック",
               "url": "https://sports.nhk.or.jp/paralympic/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOFK/son8q4kpdo.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9583325238",
+              "-ft": "20210824230000",
+              "-to": "20210824230500",
+              "-ftl": "2300",
+              "-tol": "2305",
+              "-dur": "300",
+              "title": "ニュース",
+              "url": "http://www.nhk.or.jp/radionews/",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOFK/3lxuyfnjgq.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9583261543",
+              "-ft": "20210824230500",
+              "-to": "20210825000000",
+              "-ftl": "2305",
+              "-tol": "2400",
+              "-dur": "3300",
+              "title": "ラジオ深夜便",
+              "url": "https://www4.nhk.or.jp/shinyabin/",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOFK/j5nvkm8ogd.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",

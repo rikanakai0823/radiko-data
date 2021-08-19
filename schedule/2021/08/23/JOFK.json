@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1629224529",
+    "srvtime": "1629397305",
     "stations": {
       "station": {
         "-id": "JOFK",
@@ -406,12 +406,12 @@
               }
             },
             {
-              "-id": "9582749982",
+              "-id": "9583261343",
               "-ft": "20210823190000",
-              "-to": "20210823191500",
+              "-to": "20210823192500",
               "-ftl": "1900",
-              "-tol": "1915",
-              "-dur": "900",
+              "-tol": "1925",
+              "-dur": "1500",
               "title": "ＮＨＫきょうのニュース",
               "url": "http://www.nhk.or.jp/radionews/",
               "failed_record": "0",
@@ -426,11 +426,11 @@
               }
             },
             {
-              "-id": "9582696988",
-              "-ft": "20210823191500",
-              "-to": "20210823192000",
-              "-ftl": "1915",
-              "-tol": "1920",
+              "-id": "9583324956",
+              "-ft": "20210823192500",
+              "-to": "20210823193000",
+              "-ftl": "1925",
+              "-tol": "1930",
               "-dur": "300",
               "title": "ニュース・天気予報",
               "url": "http://www.nhk.or.jp/radionews/",
@@ -446,12 +446,12 @@
               }
             },
             {
-              "-id": "9582848332",
-              "-ft": "20210823192000",
+              "-id": "9583261372",
+              "-ft": "20210823193000",
               "-to": "20210823195500",
-              "-ftl": "1920",
+              "-ftl": "1930",
               "-tol": "1955",
-              "-dur": "2100",
+              "-dur": "1500",
               "title": "Ｎらじ　きょうのニュースぷらす　眞下貴　黒崎瞳",
               "url": "https://www4.nhk.or.jp/nradi/",
               "failed_record": "0",
@@ -734,12 +734,12 @@
               }
             },
             {
-              "-id": "9582914521",
+              "-id": "9583233786",
               "-ft": "20210824001000",
-              "-to": "20210824010000",
+              "-to": "20210824005900",
               "-ftl": "2410",
-              "-tol": "2500",
-              "-dur": "3000",
+              "-tol": "2459",
+              "-dur": "2940",
               "title": "ラジオ深夜便▽日本列島くらしのたより",
               "url": "https://www4.nhk.or.jp/shinyabin/",
               "failed_record": "0",
@@ -756,170 +756,17 @@
               }
             },
             {
-              "-id": "9582856307",
-              "-ft": "20210824010000",
-              "-to": "20210824010500",
-              "-ftl": "2500",
-              "-tol": "2505",
-              "-dur": "300",
-              "title": "ニュース",
-              "url": "http://www.nhk.or.jp/radionews/",
-              "failed_record": "0",
-              "ts_in_ng": "2",
-              "ts_out_ng": "2",
-              "info": "“どこでも聴ける”最新ラジオニュース",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOFK/3lxuyfnjgq.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9582914599",
-              "-ft": "20210824010500",
-              "-to": "20210824020000",
-              "-ftl": "2505",
-              "-tol": "2600",
-              "-dur": "3300",
-              "title": "ラジオ深夜便▽深夜便アーカイブス",
-              "url": "https://www4.nhk.or.jp/shinyabin/",
-              "failed_record": "0",
-              "ts_in_ng": "2",
-              "ts_out_ng": "2",
-              "info": "中川緑<br> <br> ▽深夜便アーカイブス <br> 「パラリンピック特集 <br> ～義足のスプリンター金メダルを目指す」<br> パラリンピック銀メダリスト…山本篤<br> （２０１７年１２月６日）<br> ▽深夜便のうた <br>",
-              "pfm": "中川緑，山本篤",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOFK/j5nvkm8ogd.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9582856315",
-              "-ft": "20210824020000",
-              "-to": "20210824020500",
-              "-ftl": "2600",
-              "-tol": "2605",
-              "-dur": "300",
-              "title": "ニュース",
-              "url": "http://www.nhk.or.jp/radionews/",
-              "failed_record": "0",
-              "ts_in_ng": "2",
-              "ts_out_ng": "2",
-              "info": "“どこでも聴ける”最新ラジオニュース",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOFK/3lxuyfnjgq.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9582914654",
-              "-ft": "20210824020500",
-              "-to": "20210824030000",
-              "-ftl": "2605",
-              "-tol": "2700",
-              "-dur": "3300",
-              "title": "ラジオ深夜便▽ロマンチックコンサート",
-              "url": "https://www4.nhk.or.jp/shinyabin/",
-              "failed_record": "0",
-              "ts_in_ng": "2",
-              "ts_out_ng": "2",
-              "info": "中川緑<br> <br> ▽ロマンチックコンサート <br> 「ポピュラー名曲アルバム～ミュージカル作品集」 <br> <br>",
-              "pfm": "中川緑",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOFK/j5nvkm8ogd.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9582856324",
-              "-ft": "20210824030000",
-              "-to": "20210824030500",
-              "-ftl": "2700",
-              "-tol": "2705",
-              "-dur": "300",
-              "title": "ニュース",
-              "url": "http://www.nhk.or.jp/radionews/",
-              "failed_record": "0",
-              "ts_in_ng": "2",
-              "ts_out_ng": "2",
-              "info": "“どこでも聴ける”最新ラジオニュース",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOFK/3lxuyfnjgq.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9582914711",
-              "-ft": "20210824030500",
-              "-to": "20210824040000",
-              "-ftl": "2705",
-              "-tol": "2800",
-              "-dur": "3300",
-              "title": "ラジオ深夜便▽にっぽんの歌こころの歌",
-              "url": "https://www4.nhk.or.jp/shinyabin/",
-              "failed_record": "0",
-              "ts_in_ng": "2",
-              "ts_out_ng": "2",
-              "info": "中川緑<br> <br> ▽にっぽんの歌こころの歌 <br> 「ジャパニーズ・ポップス～井上陽水作品集Ｐａｒｔ２」 <br> <br> ▽全国の天気と気温 <br>",
-              "pfm": "中川緑",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOFK/j5nvkm8ogd.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9582856331",
-              "-ft": "20210824040000",
-              "-to": "20210824040500",
-              "-ftl": "2800",
-              "-tol": "2805",
-              "-dur": "300",
-              "title": "ニュース",
-              "url": "http://www.nhk.or.jp/radionews/",
-              "failed_record": "0",
-              "ts_in_ng": "2",
-              "ts_out_ng": "2",
-              "info": "“どこでも聴ける”最新ラジオニュース",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOFK/3lxuyfnjgq.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9582914733",
-              "-ft": "20210824040500",
+              "-id": "9583240084",
+              "-ft": "20210824005900",
               "-to": "20210824050000",
-              "-ftl": "2805",
+              "-ftl": "2459",
               "-tol": "2900",
-              "-dur": "3300",
-              "title": "ラジオ深夜便▽明日へのことば",
-              "url": "https://www4.nhk.or.jp/shinyabin/",
+              "-dur": "14460",
+              "title": "放送休止",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "info": "中川緑<br> <br> ▽明日へのことば <br> 「“ぼくのお父さん”はぼく」 <br> 絵本・紙芝居作家…やべみつのり<br> ▽誕生日の花 <br> ▽明日の予告 <br>",
-              "pfm": "中川緑，やべみつのり",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOFK/j5nvkm8ogd.jpg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOFK/d3e92ac3-843e-4309-8ddc-69879f352ffd.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
