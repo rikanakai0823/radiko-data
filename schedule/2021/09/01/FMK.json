@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1630001188",
+    "srvtime": "1630087610",
     "stations": {
       "station": {
         "-id": "FMK",
@@ -894,12 +894,12 @@
               }
             },
             {
-              "-id": "9584262507",
+              "-id": "9584678250",
               "-ft": "20210901120000",
-              "-to": "20210901130000",
+              "-to": "20210901121000",
               "-ftl": "1200",
-              "-tol": "1300",
-              "-dur": "3600",
+              "-tol": "1210",
+              "-dur": "600",
               "title": "ＦＭＫ パンゲア！",
               "url": "https://fmk.fm/pnga/",
               "failed_record": "0",
@@ -919,6 +919,27 @@
                     "-value": "from:fmk_pangea"
                   }
                 ]
+              }
+            },
+            {
+              "-id": "9584678251",
+              "-ft": "20210901121000",
+              "-to": "20210901130000",
+              "-ftl": "1210",
+              "-tol": "1300",
+              "-dur": "3000",
+              "title": "2021防災・命のラジオ",
+              "url": "https://fmk.fm/program/special.php",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t熊本県内のラジオ局 ＮＨＫ、ＲＫＫ、ＦＭ７９１、かっぱＦＭ（八代）、グリーンポケット（小国）、みつばちラジオ（天草）、そしてＦＭＫが共同制作・同時生放送。 <br /><br />\t番組Webサイト：<a href=\"https://fmk.fm/program/special.php\">https://fmk.fm/program/special.php</a><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMK/224966ec-d539-4b1d-a97c-d75c9d3c654f.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
               }
             },
             {

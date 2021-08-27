@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1630001184",
+    "srvtime": "1630087606",
     "stations": {
       "station": {
         "-id": "FMT",
@@ -732,12 +732,12 @@
               }
             },
             {
-              "-id": "9584262721",
+              "-id": "9584585978",
               "-ft": "20210901200000",
-              "-to": "20210901210000",
+              "-to": "20210901203000",
               "-ftl": "2000",
-              "-tol": "2100",
-              "-dur": "3600",
+              "-tol": "2030",
+              "-dur": "1800",
               "title": "News Sapiens",
               "url": "https://www.tfm.co.jp/sapiens/",
               "failed_record": "0",
@@ -777,6 +777,27 @@
                     "-value": "from:newssapiens"
                   }
                 ]
+              }
+            },
+            {
+              "-id": "9584618903",
+              "-ft": "20210901203000",
+              "-to": "20210901210000",
+              "-ftl": "2030",
+              "-tol": "2100",
+              "-dur": "1800",
+              "title": "TOKYO FM × UNIQLO 防災の日 特別番組～考えよう、服の備え～",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/8241_367991dc_sq.jpg\" height=\"60\" width=\"60\" alt=\"手島千尋\"></td>  </tr></table><br /><br /><br /></div>",
+              "pfm": "手島千尋 / 山村武彦 / シェルバ英子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/656baa14-31d3-4896-9b86-2c9622b88a05.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
               }
             },
             {
