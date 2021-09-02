@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1630519634",
+    "srvtime": "1630606019",
     "stations": {
       "station": {
         "-id": "RFM",
@@ -10,7 +10,7 @@
           "date": "20210906",
           "prog": [
             {
-              "-id": "9585290966",
+              "-id": "9585672884",
               "-ft": "20210906050000",
               "-to": "20210906053000",
               "-ftl": "0500",
@@ -24,10 +24,27 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/otb\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/38251_501dd80b_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6489_2aaab91f_sq.jpg\" height=\"60\" width=\"60\" alt=\"小堺翔太\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6488_c0c4df74_sq.jpg\" height=\"60\" width=\"60\" alt=\"宮島咲良\"></td>  </tr></table><br /><br />\t番組は、誰もが一度は耳にしたことのある曲、口ずさんだことのある曲、全米全英No.1ソング、時代を超えて語り継いでいきたいベストセラー盤、家宝にしてほしい一枚、無人島に持って行くならこの一枚といった名盤、名曲で構成。<br />1週間の始まりを、お昼のランチタイムを、夕方のたそがれ時を、お休み前のリラックスタイムを、それぞれ彩るBGMとして、活用ください。 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/otb\">http://www.jfn.jp/otb</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/256\">https://ssl2.jfn.co.jp/mailbox/index/256</a><br /><br /></div>",
               "pfm": "小堺翔太 / 宮島咲良",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFM/t5y5qemnu5.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "OTOBAKO"
+                  },
+                  {
+                    "name": "小堺翔太"
+                  },
+                  {
+                    "name": "宮島桜良"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -38,7 +55,7 @@
               }
             },
             {
-              "-id": "9585290989",
+              "-id": "9585672885",
               "-ft": "20210906053000",
               "-to": "20210906060000",
               "-ftl": "0530",
@@ -75,7 +92,7 @@
               }
             },
             {
-              "-id": "9585290993",
+              "-id": "9585672886",
               "-ft": "20210906060000",
               "-to": "20210906073000",
               "-ftl": "0600",
@@ -126,7 +143,7 @@
               }
             },
             {
-              "-id": "9585291022",
+              "-id": "9585694699",
               "-ft": "20210906073000",
               "-to": "20210906075500",
               "-ftl": "0730",
@@ -142,9 +159,6 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFM/gaz3nqodjo.jpg",
               "tag": {
                 "item": [
-                  {
-                    "name": "井門宗之"
-                  },
                   {
                     "name": "森藤恵美"
                   },
@@ -171,7 +185,7 @@
               }
             },
             {
-              "-id": "9585291025",
+              "-id": "9585672888",
               "-ft": "20210906075500",
               "-to": "20210906080000",
               "-ftl": "0755",
@@ -193,6 +207,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -201,7 +225,7 @@
               }
             },
             {
-              "-id": "9585291028",
+              "-id": "9585672889",
               "-ft": "20210906080000",
               "-to": "20210906081000",
               "-ftl": "0800",
@@ -252,7 +276,7 @@
               }
             },
             {
-              "-id": "9585291035",
+              "-id": "9585672890",
               "-ft": "20210906081000",
               "-to": "20210906082000",
               "-ftl": "0810",
@@ -295,7 +319,7 @@
               }
             },
             {
-              "-id": "9585291037",
+              "-id": "9585694702",
               "-ft": "20210906082000",
               "-to": "20210906085500",
               "-ftl": "0820",
@@ -310,9 +334,6 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFM/bd383171-e46c-4fd1-8751-6bb05e463600.jpeg",
               "tag": {
                 "item": [
-                  {
-                    "name": "井門宗之"
-                  },
                   {
                     "name": "森藤恵美"
                   },
@@ -339,7 +360,7 @@
               }
             },
             {
-              "-id": "9585291048",
+              "-id": "9585672892",
               "-ft": "20210906085500",
               "-to": "20210906090000",
               "-ftl": "0855",
@@ -361,6 +382,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -369,7 +400,7 @@
               }
             },
             {
-              "-id": "9585291052",
+              "-id": "9585672893",
               "-ft": "20210906090000",
               "-to": "20210906105500",
               "-ftl": "0900",
@@ -385,9 +416,6 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFM/gaz3nqodjo.jpg",
               "tag": {
                 "item": [
-                  {
-                    "name": "井門宗之"
-                  },
                   {
                     "name": "森藤恵美"
                   },
@@ -414,7 +442,7 @@
               }
             },
             {
-              "-id": "9585434902",
+              "-id": "9585672894",
               "-ft": "20210906105500",
               "-to": "20210906110000",
               "-ftl": "1055",
@@ -428,6 +456,16 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.rfm.co.jp/topics/bousai-radio/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EV/program/53517_5447fdd8_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/EV/person/7500_fabd6607_sq.jpg\" height=\"60\" width=\"60\" alt=\"岩崎敬\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"http://www.rfm.co.jp/topics/bousai-radio/\">http://www.rfm.co.jp/topics/bousai-radio/</a><br /><br /></div>",
               "pfm": "岩崎敬",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFM/1plkc8qkuj.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "防災ラジオ"
+                  },
+                  {
+                    "name": "試験放送"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -446,7 +484,7 @@
               }
             },
             {
-              "-id": "9585291074",
+              "-id": "9585672895",
               "-ft": "20210906110000",
               "-to": "20210906113000",
               "-ftl": "1100",
@@ -488,7 +526,7 @@
               }
             },
             {
-              "-id": "9585436394",
+              "-id": "9585672896",
               "-ft": "20210906113000",
               "-to": "20210906115500",
               "-ftl": "1130",
@@ -530,7 +568,7 @@
               }
             },
             {
-              "-id": "9585291086",
+              "-id": "9585672897",
               "-ft": "20210906115500",
               "-to": "20210906120000",
               "-ftl": "1155",
@@ -552,6 +590,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -560,7 +608,7 @@
               }
             },
             {
-              "-id": "9585436407",
+              "-id": "9585672898",
               "-ft": "20210906120000",
               "-to": "20210906125500",
               "-ftl": "1200",
@@ -602,7 +650,7 @@
               }
             },
             {
-              "-id": "9585291106",
+              "-id": "9585672899",
               "-ft": "20210906125500",
               "-to": "20210906130000",
               "-ftl": "1255",
@@ -642,7 +690,7 @@
               }
             },
             {
-              "-id": "9585291110",
+              "-id": "9585672900",
               "-ft": "20210906130000",
               "-to": "20210906133000",
               "-ftl": "1300",
@@ -684,7 +732,7 @@
               }
             },
             {
-              "-id": "9585291123",
+              "-id": "9585672901",
               "-ft": "20210906133000",
               "-to": "20210906135500",
               "-ftl": "1330",
@@ -726,7 +774,7 @@
               }
             },
             {
-              "-id": "9585291126",
+              "-id": "9585672903",
               "-ft": "20210906135500",
               "-to": "20210906140000",
               "-ftl": "1355",
@@ -771,7 +819,7 @@
               }
             },
             {
-              "-id": "9585291128",
+              "-id": "9585672904",
               "-ft": "20210906140000",
               "-to": "20210906142000",
               "-ftl": "1400",
@@ -813,7 +861,7 @@
               }
             },
             {
-              "-id": "9585291135",
+              "-id": "9585672905",
               "-ft": "20210906142000",
               "-to": "20210906143000",
               "-ftl": "1420",
@@ -861,7 +909,7 @@
               }
             },
             {
-              "-id": "9585291137",
+              "-id": "9585672906",
               "-ft": "20210906143000",
               "-to": "20210906145500",
               "-ftl": "1430",
@@ -903,7 +951,7 @@
               }
             },
             {
-              "-id": "9585291140",
+              "-id": "9585672910",
               "-ft": "20210906145500",
               "-to": "20210906150000",
               "-ftl": "1455",
@@ -914,8 +962,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/1122_c486332e_sq.jpg\" height=\"60\" width=\"60\" alt=\"荒川静香\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6794_f9bd6f25_sq.jpg\" height=\"60\" width=\"60\" alt=\"高橋尚子\"></td>  </tr></table><br /><br />\tトップアスリートたちが出演！　日本各地で開催される競技会などを通して、かつての名選手から将来有望なオリンピック代表選手のタマゴまで選手を紹介。 <br /><br />\t番組Webサイト：<a href=\"https://www.jfn.co.jp/myolympic/\">https://www.jfn.co.jp/myolympic/</a><br /><br /></div>",
-              "pfm": "荒川静香 / 高橋尚子",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/1122_c486332e_sq.jpg\" height=\"60\" width=\"60\" alt=\"荒川静香\"></td>  </tr></table><br /><br />\t東京オリンピック・プレイバック <br /><br />\t番組Webサイト：<a href=\"https://www.jfn.co.jp/myolympic/\">https://www.jfn.co.jp/myolympic/</a><br /><br /></div>",
+              "pfm": "荒川静香",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFM/ku48ny29p5.jpg",
               "tag": {
                 "item": [
@@ -948,7 +996,7 @@
               }
             },
             {
-              "-id": "9585291142",
+              "-id": "9585672911",
               "-ft": "20210906150000",
               "-to": "20210906154700",
               "-ftl": "1500",
@@ -990,7 +1038,7 @@
               }
             },
             {
-              "-id": "9585291157",
+              "-id": "9585672912",
               "-ft": "20210906154700",
               "-to": "20210906155500",
               "-ftl": "1547",
@@ -1032,7 +1080,7 @@
               }
             },
             {
-              "-id": "9585291158",
+              "-id": "9585672913",
               "-ft": "20210906155500",
               "-to": "20210906160000",
               "-ftl": "1555",
@@ -1054,6 +1102,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1062,7 +1120,7 @@
               }
             },
             {
-              "-id": "9585436434",
+              "-id": "9585672914",
               "-ft": "20210906160000",
               "-to": "20210906164500",
               "-ftl": "1600",
@@ -1110,7 +1168,7 @@
               }
             },
             {
-              "-id": "9585291179",
+              "-id": "9585672915",
               "-ft": "20210906164500",
               "-to": "20210906165500",
               "-ftl": "1645",
@@ -1152,7 +1210,7 @@
               }
             },
             {
-              "-id": "9585291182",
+              "-id": "9585672916",
               "-ft": "20210906165500",
               "-to": "20210906170000",
               "-ftl": "1655",
@@ -1188,7 +1246,7 @@
               }
             },
             {
-              "-id": "9585291185",
+              "-id": "9585672917",
               "-ft": "20210906170000",
               "-to": "20210906175500",
               "-ftl": "1700",
@@ -1233,7 +1291,7 @@
               }
             },
             {
-              "-id": "9585291207",
+              "-id": "9585672918",
               "-ft": "20210906175500",
               "-to": "20210906180000",
               "-ftl": "1755",
@@ -1255,6 +1313,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1263,7 +1331,7 @@
               }
             },
             {
-              "-id": "9585291212",
+              "-id": "9585672919",
               "-ft": "20210906180000",
               "-to": "20210906185500",
               "-ftl": "1800",
@@ -1308,7 +1376,7 @@
               }
             },
             {
-              "-id": "9585291233",
+              "-id": "9585672920",
               "-ft": "20210906185500",
               "-to": "20210906190000",
               "-ftl": "1855",
@@ -1330,6 +1398,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1338,7 +1416,7 @@
               }
             },
             {
-              "-id": "9585291237",
+              "-id": "9585672921",
               "-ft": "20210906190000",
               "-to": "20210906195500",
               "-ftl": "1900",
@@ -1383,7 +1461,7 @@
               }
             },
             {
-              "-id": "9585291257",
+              "-id": "9585672922",
               "-ft": "20210906195500",
               "-to": "20210906200000",
               "-ftl": "1955",
@@ -1405,6 +1483,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1413,7 +1501,7 @@
               }
             },
             {
-              "-id": "9585291259",
+              "-id": "9585672923",
               "-ft": "20210906200000",
               "-to": "20210906203000",
               "-ftl": "2000",
@@ -1458,7 +1546,7 @@
               }
             },
             {
-              "-id": "9585291270",
+              "-id": "9585672924",
               "-ft": "20210906203000",
               "-to": "20210906205500",
               "-ftl": "2030",
@@ -1500,7 +1588,7 @@
               }
             },
             {
-              "-id": "9585291276",
+              "-id": "9585672925",
               "-ft": "20210906205500",
               "-to": "20210906210000",
               "-ftl": "2055",
@@ -1522,6 +1610,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1530,7 +1628,7 @@
               }
             },
             {
-              "-id": "9585291279",
+              "-id": "9585672926",
               "-ft": "20210906210000",
               "-to": "20210906215500",
               "-ftl": "2100",
@@ -1584,7 +1682,7 @@
               }
             },
             {
-              "-id": "9585291303",
+              "-id": "9585672927",
               "-ft": "20210906215500",
               "-to": "20210906220000",
               "-ftl": "2155",
@@ -1606,6 +1704,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1614,7 +1722,7 @@
               }
             },
             {
-              "-id": "9585291306",
+              "-id": "9585694729",
               "-ft": "20210906220000",
               "-to": "20210906235500",
               "-ftl": "2200",
@@ -1628,10 +1736,33 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/lock/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/program/11820_fef7f3f1_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/8123_0baf55ab_sq.jpg\" height=\"60\" width=\"60\" alt=\"さかた校長\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/8124_7359831f_sq.jpg\" height=\"60\" width=\"60\" alt=\"こもり教頭\"></td>  </tr></table><br /><br />\t未来の鍵を握る学校「SCHOOL OF LOCK!」は毎週月曜日から金曜日夜10時から絶賛放送中！！ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/lock/\">https://www.tfm.co.jp/lock/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/lock/mail.html\">https://www.tfm.co.jp/lock/mail.html</a><br />\tFAX：03-3221-1800<br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF\">#スクールオブロック</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/sol_info\">@sol_info</a>」<br /><br /></div>",
               "pfm": "さかた校長 / こもり教頭",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFM/ukgcukcq68.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "SOL"
+                  },
+                  {
+                    "name": "さかた校長"
+                  },
+                  {
+                    "name": "こもり教頭"
+                  },
+                  {
+                    "name": "豆柴の大群"
+                  },
+                  {
+                    "name": "山之内すず"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -1648,7 +1779,7 @@
               }
             },
             {
-              "-id": "9585436448",
+              "-id": "9585672929",
               "-ft": "20210906235500",
               "-to": "20210907000000",
               "-ftl": "2355",
@@ -1693,7 +1824,7 @@
               }
             },
             {
-              "-id": "9585291347",
+              "-id": "9585672930",
               "-ft": "20210907000000",
               "-to": "20210907005500",
               "-ftl": "2400",
@@ -1735,7 +1866,7 @@
               }
             },
             {
-              "-id": "9585291364",
+              "-id": "9585672931",
               "-ft": "20210907005500",
               "-to": "20210907010000",
               "-ftl": "2455",
@@ -1775,7 +1906,7 @@
               }
             },
             {
-              "-id": "9585291367",
+              "-id": "9585672932",
               "-ft": "20210907010000",
               "-to": "20210907020000",
               "-ftl": "2500",
@@ -1813,7 +1944,7 @@
               }
             },
             {
-              "-id": "9585291383",
+              "-id": "9585672933",
               "-ft": "20210907020000",
               "-to": "20210907040000",
               "-ftl": "2600",
@@ -1861,7 +1992,7 @@
               }
             },
             {
-              "-id": "9585291402",
+              "-id": "9585672934",
               "-ft": "20210907040000",
               "-to": "20210907050000",
               "-ftl": "2800",
