@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1631124414",
+    "srvtime": "1631297261",
     "stations": {
       "station": {
         "-id": "YFM",
@@ -10,19 +10,19 @@
           "date": "20210914",
           "prog": [
             {
-              "-id": "9586419307",
+              "-id": "9587004283",
               "-ft": "20210914050000",
-              "-to": "20210914054500",
+              "-to": "20210914051500",
               "-ftl": "0500",
-              "-tol": "0545",
-              "-dur": "2700",
+              "-tol": "0515",
+              "-dur": "900",
               "title": "Hits 200",
               "url": "https://www.fmyokohama.co.jp/pc/program/Hits200",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "洋楽、邦楽、新旧問わず、テーマに沿った選曲をノンストップでお送りします！",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14bb254a-c239-4040-b470-e2fd245b89a0.jpeg",
+              "info": "▽様々なテーマ・コンセプトで、ヒット曲を4日間に渡ってオンエア。<br />▽今週は80'sNO１ヒット特集！<br />▽番組へのご意見・ご感想お待ちしています。<br />▽Twitterはハッシュタグ「#Hits200」を付けてツイートお願いします！<br /><br />twitterアカウントは「<a href=\"http://twitter.com/Hits200_fyoko\">@Hits200_fyoko</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23Hits200\">#Hits200</a>」<br />メールアドレス：<a href=\"mailto:h200@fmyokohama.jp\">h200@fmyokohama.jp</a><br />",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/a2dc548b-71e4-4348-9e14-b2afb5902d47.jpeg",
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -30,14 +30,52 @@
                 }
               },
               "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#Hits200"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:Hits200_fyoko"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9587004293",
+              "-ft": "20210914051500",
+              "-to": "20210914054500",
+              "-ftl": "0515",
+              "-tol": "0545",
+              "-dur": "1800",
+              "title": "Grand Senior Salon",
+              "url": "https://www.fmyokohama.co.jp/pc/program/GrandSeniorSalon",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "元毎日放送アナウンサ―で作家・フリージャーナリストの小林昌彦が、好奇心や想像力を持って活動しているシニア世代の文化人・著名人をゲストに迎え「人生100年時代」をいきいきと生きるコツを伺います。<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」<br />メールアドレス：<a href=\"mailto:gss@fmyokohama.jp\">gss@fmyokohama.jp</a><br />",
+              "pfm": "小林昌彦",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/07e182e8-88a2-434e-8ae4-8c98a1124b9f.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#fmyokohama"
                 }
               }
             },
             {
-              "-id": "9586570292",
+              "-id": "9587004296",
               "-ft": "20210914054500",
               "-to": "20210914060000",
               "-ftl": "0545",
@@ -48,9 +86,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "竹内都子、ねづっち、島田秀平、真木ひろかが最新のおすすめ商品や、気になる商品、ちまたで話題の商品などを楽しいトークとともにご紹介。",
+              "info": "竹内都子、ねづっち、島田秀平、真木ひろかが最新のおすすめ商品や、気になる商品、ちまたで話題の商品などを楽しいトークとともにご紹介。<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」<br />",
               "pfm": "竹内都子 / ねづっち / 島田秀平 / 真木ひろか",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14bb254a-c239-4040-b470-e2fd245b89a0.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/cb068407-86a4-45c0-a36b-952876ce7736.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C009",
@@ -64,12 +102,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#fmyokohama"
                 }
               }
             },
             {
-              "-id": "9586429169",
+              "-id": "9587004300",
               "-ft": "20210914060000",
               "-to": "20210914090000",
               "-ftl": "0600",
@@ -80,9 +118,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "一日のはじまりを、ちょうどいい気分でお届けする新感覚のプログラム！",
+              "info": "▽ドライバー、職人、農林水産業に携わる皆さん応援ウィーク！<br />　皆さんから、感謝のメール、LINE、LINEメッセージをお待ちしています。<br />　ご紹介した方の中から、毎日数人にBIGステッカー！<br />　「覇魂ライジングサンMAXステッカー」をお送りします。<br /><br />▽給水タイムも随時！<br /><br />▽スポーツニュースは７時１５分頃<br /><br />▽横浜ＤｅＮＡベイスターズコーナーは７時１８分頃<br /><br />▽「光邦貯金」は７時２０分頃<br /><br />▽浜銀総研・遠藤さんの最新経済ニュース<br /><br />▽「おこちゃまリクエスト！」<br />　小学6年生以下の子供たちからのリクエストボイス待っています！<br />　紹介した子全員に人気のうんこリストバンドを！<br /><br />LINEアカウント：@cer84.7<br /><br />twitterアカウントは「<a href=\"http://twitter.com/cer847\">@cer847</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%A1%E3%82%87%E3%81%86%E3%81%A9%E3%81%84%E3%81%84%E3%83%A9%E3%82%B8%E3%82%AA\">#ちょうどいいラジオ</a>」<br />メールアドレス：<a href=\"mailto:cer@fmyokohama.jp\">cer@fmyokohama.jp</a><br />",
               "pfm": "光邦",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14bb254a-c239-4040-b470-e2fd245b89a0.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/51kkiiotzp.png",
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -94,14 +132,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ちょうどいいラジオ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:cer847"
+                  }
+                ]
               }
             },
             {
-              "-id": "9586580339",
+              "-id": "9587004337",
               "-ft": "20210914090000",
               "-to": "20210914120000",
               "-ftl": "0900",
@@ -112,9 +156,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "なにげなく過ぎていく日常の中で、ちょっと立ち止まり、笑顔になれる時間“朝のオアシス”を横浜からお届けします。",
+              "info": "9:45　【PLAY OUR LIST】<br />　あなたのプレイリストに追加したくなるサウンドをセレクト！<br /><br />10:10　【Sound Quiz Lab】<br />　音当てクイズ！<br /><br />11:20　【教えて！税理士さん】<br />　ためになる税金のお話！<br />　今日のテーマは「家族信託」<br /><br />9:15/10:00/11:05　【藤田優一の街角リポート】<br />　神奈川の街角からお届け！<br />　オンエア後に、今日の藤田くんをチェック<a href=\"http://blog.fmyokohama.jp/machikado/\">→街角リポートブログ</a><br /><br />twitterアカウントは「<a href=\"http://twitter.com/LovelyDay847\">@LovelyDay847</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23lovelyday847\">#lovelyday847</a>」<br />Instagram：<a href=\"https://www.instagram.com/lovelyday847\">https://www.instagram.com/lovelyday847</a><br />facebook：<a href=\"https://www.facebook.com/FmyokohamaLovelyDay\">https://www.facebook.com/FmyokohamaLovelyDay</a><br />メールアドレス：<a href=\"mailto:lovely@fmyokohama.jp\">lovely@fmyokohama.jp</a><br />",
               "pfm": "近藤さや香 / 藤田優一",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14bb254a-c239-4040-b470-e2fd245b89a0.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/toa1gcwp5h.png",
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -126,14 +170,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#lovelyday847"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:LovelyDay847"
+                  }
+                ]
               }
             },
             {
-              "-id": "9586440809",
+              "-id": "9587004364",
               "-ft": "20210914120000",
               "-to": "20210914150000",
               "-ftl": "1200",
@@ -144,9 +194,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "あなたをのせるラジオ「Kiss & Ride」好奇心あふれるエンターテイナーのDJが、思いをのせ、気分をのせ、ラジオの前のあなたと一緒に前へ進みます。",
+              "info": "あなたをのせるラジオ「Kiss & Ride」<br />月/火は高橋茉奈が担当！<br />ちょっと聞いてよ～、なメッセージ＆リクエストは24時間受付中♪<br />「#キスライ」をつけたツイートもどんどんつぶやいてくださいね！<br /><br />▽12:15頃/14:15頃　【CHECK IN】<br />　神奈川のいろんな場所から声を届けるCHECK IN！<br />　外の様子を伝えてくれるリポーターは「たっつー」こと令和応援団の龍口健太郎!!<br /><br />▽13:05頃　【キスライPICK UP】<br />　ゲストコーナー。<br />　今の2人のサウンドをぎゅっと詰め込んだメジャー1stアルバムをリリース！<br />　音楽ユニット、SOMETIME'Sをリモートでお迎え！<br /><br />▽13:40頃　【守ろう！私たちの綺麗な海】<br />　神奈川県の海を守り、綺麗な海を実現するために、かけがえのない海にまつわる様々な情報をお届け！<br /><br />▽13:55　【iYell Presents　あなたをのせる ビジネスメソッド】<br />　住宅ローンテックベンチャー「iYell株式会社」代表取締役社 長窪田光洋さんに、<br />　仕事だけでなく、あなたの日常にも活かせるようなビジネスポイントを教えていただきます！<br /><br />▽14:10頃　【キスライ 午後の中間報告】<br />　キスライダーの皆さんから集まった今日の中間報告をシェア！<br />　一日の後半にむけて、高橋茉奈 & 令和応援団 龍口健太郎が背中を押していきます！<br /><br />▽14:30頃　【コール給湯センター メタックス　GOOD AND SMILE】<br />　略して「GAS（ガス）」！<br />　知って得する、GOOD AND SMILEな情報を専門家の方に伺っていきます。<br /><br />▽14:55頃　【おたんたん！】<br />　あなた自身やあなたの大切な人のお誕生日をキスライがお祝いします！<br /><br />twitterアカウントは「<a href=\"http://twitter.com/kr_staff\">@kr_staff</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%AD%E3%82%B9%E3%83%A9%E3%82%A4\">#キスライ</a>」<br />メールアドレス：<a href=\"mailto:kr@fmyokohama.jp\">kr@fmyokohama.jp</a><br />",
               "pfm": "高橋茉奈 / 令和応援団 龍口健太郎",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14bb254a-c239-4040-b470-e2fd245b89a0.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14e005a7-9488-4616-8c60-87dd119c067d.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -158,27 +208,33 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#キスライ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:kr_staff"
+                  }
+                ]
               }
             },
             {
-              "-id": "9586429333",
+              "-id": "9587004393",
               "-ft": "20210914150000",
-              "-to": "20210914190000",
+              "-to": "20210914170000",
               "-ftl": "1500",
-              "-tol": "1900",
-              "-dur": "14400",
-              "title": "Tresen",
+              "-tol": "1700",
+              "-dur": "7200",
+              "title": "Tresen (1)",
               "url": "https://www.fmyokohama.co.jp/pc/program/Tresen",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "ホッとできるWEEKDAYの夕方に、一緒に楽しい時間を過ごしましょう！",
+              "info": "びっちょん植松哲平と<br />FM界の走るイエローカード！アッソーレSakuがお届け！<br /><br />メッセージテーマは「いまさら」<br /><br />16:00　飲食店応援団！FヨコSAVE＆EAT ■村山水生<br />16:16　ゲスト /  遥海<br />17:00　クイズ！生きとう問！！　■ 大田こぞう<br />17:36　日進レンタカー Music Navigation<br />17:54　煩悩タイム<br />18:00　ワンマン車掌の鉄分乗々↑↑ ■山川智也<br />18:21　てくてくかれんだー   ■安斉かれん<br /><br />twitterアカウントは「<a href=\"http://twitter.com/tresen_Fyoko\">@tresen_Fyoko</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%A8%E3%82%8C%E3%81%9B%E3%82%93\">#とれせん</a>」<br />メールアドレス：<a href=\"mailto:tresen@fmyokohama.jp\">tresen@fmyokohama.jp</a><br />",
               "pfm": "植松哲平 / Saku",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14bb254a-c239-4040-b470-e2fd245b89a0.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/0acb3e37-081c-4af2-bf66-72193d7b46c6.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -190,14 +246,58 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#とれせん"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:tresen_Fyoko"
+                  }
+                ]
               }
             },
             {
-              "-id": "9586427581",
+              "-id": "9587004394",
+              "-ft": "20210914170000",
+              "-to": "20210914190000",
+              "-ftl": "1700",
+              "-tol": "1900",
+              "-dur": "7200",
+              "title": "Tresen (2)",
+              "url": "https://www.fmyokohama.co.jp/pc/program/Tresen",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "びっちょん植松哲平と<br />FM界の走るイエローカード！アッソーレSakuがお届け！<br /><br />メッセージテーマは「いまさら」<br /><br />16:00　飲食店応援団！FヨコSAVE＆EAT ■村山水生<br />16:16　ゲスト /  遥海<br />17:00　クイズ！生きとう問！！　■ 大田こぞう<br />17:36　日進レンタカー Music Navigation<br />17:54　煩悩タイム<br />18:00　ワンマン車掌の鉄分乗々↑↑ ■山川智也<br />18:21　てくてくかれんだー   ■安斉かれん<br /><br />twitterアカウントは「<a href=\"http://twitter.com/tresen_Fyoko\">@tresen_Fyoko</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%A8%E3%82%8C%E3%81%9B%E3%82%93\">#とれせん</a>」<br />メールアドレス：<a href=\"mailto:tresen@fmyokohama.jp\">tresen@fmyokohama.jp</a><br />",
+              "pfm": "植松哲平 / Saku",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/0acb3e37-081c-4af2-bf66-72193d7b46c6.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#とれせん"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:tresen_Fyoko"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9587004438",
               "-ft": "20210914190000",
               "-to": "20210914215000",
               "-ftl": "1900",
@@ -208,9 +308,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "夜の街をDJで彩るエンターテインメントショー。",
+              "info": "夜の街をDJで彩る音楽エンターテインメントショー<br /><br />20:00 【プライムタイムMIX】 NONSTOP LIVE DJ MIXで盛り上げ！<br /><br />21:00 【私の3曲】 リスナーが選ぶ「好きなテーマに沿った上位3曲」をご紹介！<br /><br />21:30 【住宅情報館 presents Laugh Out Loud!!】<br />　ダンス＆ヴォーカルグループlol（エルオーエル）とリモコンでお届けします。<br />　メールを紹介した方には、番組オリジナルステッカーをプレゼント！<br /><br />twitterアカウントは「<a href=\"http://twitter.com/PRIMETIME847\">@PRIMETIME847</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23prime847\">#prime847</a>」<br />Instagram：<a href=\"https://www.instagram.com/pt.847\">https://www.instagram.com/pt.847</a><br />facebook：<a href=\"https://www.facebook.com/primetime847\">https://www.facebook.com/primetime847</a><br />メールアドレス：<a href=\"mailto:prime@fmyokohama.jp\">prime@fmyokohama.jp</a><br />",
               "pfm": "栗原治久 / REMO-CON",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14bb254a-c239-4040-b470-e2fd245b89a0.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/a34ce90e-12e0-4da0-b410-bc27a82bb1ee.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -222,14 +322,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#prime847"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:PRIMETIME847"
+                  }
+                ]
               }
             },
             {
-              "-id": "9586453036",
+              "-id": "9587004468",
               "-ft": "20210914215000",
               "-to": "20210914220000",
               "-ftl": "2150",
@@ -240,9 +346,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "星たちがきらめく夜のひととき、健康、文化、音楽、映画など、「知的で文化の香るトピックス」をお届けするプログラム。夜のリラックスしたひとときをお楽しみください。番組へのご意見、感想などは#スターライトハーバーでぜひつぶやいてください。",
+              "info": "毎週火曜日は、歴史上の偉人から最近の著名人まで、様々な人物についてご紹介しています。<br />今月は『クラシックの作曲家』、今夜は『ブラームス』。<br /><br />twitterアカウントは「<a href=\"http://twitter.com/harbour847\">@harbour847</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC\">#スターライトハーバー</a>」<br />",
               "pfm": "酒巻光宏",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14bb254a-c239-4040-b470-e2fd245b89a0.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/fb70c1ad-ff48-467f-a1bd-72d0855833f7.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C005",
@@ -254,27 +360,33 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#スターライトハーバー"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:harbour847"
+                  }
+                ]
               }
             },
             {
-              "-id": "9586442076",
+              "-id": "9587004481",
               "-ft": "20210914220000",
               "-to": "20210914232000",
               "-ftl": "2200",
               "-tol": "2320",
               "-dur": "4800",
-              "title": "YOKOHAMA RADIO APARTMENT 「UNITE2NIGHT」",
+              "title": "YOKOHAMA RADIO APARTMENT　「UNITE2NIGHT」",
               "url": "https://www.fmyokohama.co.jp/pc/program/YRA_Unite2Night",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "様々なカルチャーのゲストを招いてセッションするコーナーや、リスナーのメッセージに生演奏で答えるコーナーなど、世界と音楽を感じる1時間20分。",
+              "info": "■YOKOHAMA RADIO APARTMENT 火曜日<br />SHAMANZ「UNITE2NIGHT」<br />７人組多国籍バンドSHAMANZのTAMAが、<br />様々なカルチャーをミックスしてお届けします。<br /><br />■「THE LOUNGE」のコーナー<br />TAMAによる生演奏をお届けするコーナー。<br />ラウンジにいるような寛ぎの時間を。<br /><br />■メールテーマは「好物の話！」<br />食べ物に限らず、アーティストや色など、<br />あなたの好きで好きでたまらないものを教えてください！<br />メッセージお待ちしております！<br /><br />■「BIRTHDAY」<br />TAMAがオリジナル曲の生演奏でお誕生日をお祝いします。<br />9/14にお誕生日が近い方からのメッセージ、お待ちしています！<br /><br />■番組のTwitterは「レディアパ大家」<br />@radio_apartment<br />ハッシュタグは #U2N<br /><br />■SHAMANZの各種公式SNSも、<br />SHAMANZホームページからチェック！<br /><br />twitterアカウントは「<a href=\"http://twitter.com/radio_apartment\">@radio_apartment</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23U2N\">#U2N</a>」<br />メールアドレス：<a href=\"mailto:tama@fmyokohama.jp\">tama@fmyokohama.jp</a><br />",
               "pfm": "TAMA（SHAMANZ）",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14bb254a-c239-4040-b470-e2fd245b89a0.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/2b30d3f6-c191-4129-a777-ddf44e6a744e.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -286,14 +398,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#U2N"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:radio_apartment"
+                  }
+                ]
               }
             },
             {
-              "-id": "9586440912",
+              "-id": "9587004490",
               "-ft": "20210914232000",
               "-to": "20210914233000",
               "-ftl": "2320",
@@ -304,9 +422,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "FMヨコハマの自然環境関連への取り組みのスローガンでもある「Keep Green & Blue」のもと、SDGsに関連したさまざまなトピックを発信していきます。",
+              "info": "山、川、海と自然豊かなここ神奈川県から、未来へ向けて、持続可能な社会を目指し活動している様々な人々をご紹介していく10分間。<br /><br />今週リモートでお話を伺っているのは、子どもたちの支援をされている認定NPO法人「3Keys 」代表理事の森山誉恵さん。<br />虐待された子どもたちへの学習支援から始まった活動から、子どもたちの悩み解決へと導く情報サイト「Mex(ミークス)」について伺います！<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」<br />メールアドレス：<a href=\"mailto:keep@fmyokohama.jp\">keep@fmyokohama.jp</a><br />",
               "pfm": "MITSUMI",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14bb254a-c239-4040-b470-e2fd245b89a0.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/16761dc3-ef05-4ec4-98eb-3d5cd7eb77e7.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -320,12 +438,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#fmyokohama"
                 }
               }
             },
             {
-              "-id": "9586440914",
+              "-id": "9587004491",
               "-ft": "20210914233000",
               "-to": "20210915000000",
               "-ftl": "2330",
@@ -336,9 +454,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "火曜日の新担当は、ヨーヨーパフォーマーで6度の世界チャンピオンに輝いているSHU TAKADA。「Loop The Loop」は、ヨーヨーの有名な技の名前。ヨーヨーの魅力や、趣味のメンズコスメ、スイーツ、ファッションについてお届けします！",
+              "info": "「SHUのCheck Yo Info」<br />ヨーヨー世界チャンピオンのSHU TAKADAがヨーヨーの技を紹介<br />今回は蝶ネクタイ<br />番組Twitterにその動画をあげます。<br /><br />「SHUのSugar Time」<br />SHUのお気に入りのメンズコスメを紹介。<br /><br />twitterアカウントは「<a href=\"http://twitter.com/EKRadio_FY\">@EKRadio_FY</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」<br />メールアドレス：<a href=\"mailto:shu@fmyokohama.jp\">shu@fmyokohama.jp</a><br />",
               "pfm": "SHU TAKADA",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14bb254a-c239-4040-b470-e2fd245b89a0.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14af970f-4dfb-47ff-a748-e6d06b6a1fee.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C013",
@@ -350,14 +468,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#fmyokohama"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:EKRadio_FY"
+                  }
+                ]
               }
             },
             {
-              "-id": "9586570608",
+              "-id": "9587004499",
               "-ft": "20210915000000",
               "-to": "20210915003000",
               "-ftl": "2400",
@@ -368,9 +492,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "田中康夫秘蔵のレコードコレクションからの完全選曲でお送りする音楽番組。",
+              "info": "▽ＤＪ田中康夫完全選曲<br />▽今夜も極上のセレクトでお届けします<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」<br />メールアドレス：<a href=\"mailto:aor@fmyokohama.jp\">aor@fmyokohama.jp</a><br />",
               "pfm": "田中康夫",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14bb254a-c239-4040-b470-e2fd245b89a0.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/att7hm0f08.jpg",
               "genre": {
                 "personality": {
                   "-id": "C012",
@@ -384,12 +508,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#fmyokohama"
                 }
               }
             },
             {
-              "-id": "9586579392",
+              "-id": "9587004507",
               "-ft": "20210915003000",
               "-to": "20210915010000",
               "-ftl": "2430",
@@ -400,9 +524,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "俳優の松重豊が初DJを務める番組。ミュージシャンや俳優、映画監督などさまざまなゲストを迎え、熱～い音楽談義に花を咲かせます。",
+              "info": "俳優の松重豊がマスターを務める「深夜の音楽食堂」。<br />今週は、みなとみらいのスタジオにカームバックして、”お便り大作戦”をお届けします。<br />納得いなかった上乗せ料金のことや小便器のことetc、今宵もマスター選曲のグッドミュージックとマスターのぼやきを一緒に楽しみましょう♪<br />番組では皆さんのご感想や素朴な質問・ご相談など、熱烈お待ちしています☆<br />ご紹介した方には著書『空洞のなかみ』をサイン入りでプレゼント！<br /><br />twitterアカウントは「<a href=\"http://twitter.com/FM847yashoku\">@FM847yashoku</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」<br />メールアドレス：<a href=\"mailto:yashoku@fmyokohama.jp\">yashoku@fmyokohama.jp</a><br />",
               "pfm": "松重豊",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14bb254a-c239-4040-b470-e2fd245b89a0.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/3ddf0a37-64d7-4bfa-877e-6a4d8bb5828e.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C002",
@@ -414,14 +538,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#fmyokohama"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:FM847yashoku"
+                  }
+                ]
               }
             },
             {
-              "-id": "9586570640",
+              "-id": "9587004513",
               "-ft": "20210915010000",
               "-to": "20210915013000",
               "-ftl": "2500",
@@ -432,9 +562,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "「神奈川の深夜をホゲホゲさせよう！」を合言葉に、聴くだけで1週間頑張れるようなポジティブエネルギーを発信していきます！",
+              "info": "▽聴くだけで1週間頑張れるようなポジティブエネルギーを発信していきます！<br />▽今週はRYO＆SHIRAHANでお届け。<br />▽選曲コーナー「HOGEYA」オープン！<br />▽Twitterは「#それホゲ」を付けてツイートお願いします！！！<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%9D%E3%82%8C%E3%83%9B%E3%82%B2\">#それホゲ</a>」<br />メールアドレス：<a href=\"mailto:slh@fmyokohama.jp\">slh@fmyokohama.jp</a><br />",
               "pfm": "SHARE LOCK HOMES",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14bb254a-c239-4040-b470-e2fd245b89a0.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/2a71dcc4-60e2-4a7b-a9bb-24c8612c4f05.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -448,12 +578,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#それホゲ"
                 }
               }
             },
             {
-              "-id": "9586580463",
+              "-id": "9587004521",
               "-ft": "20210915013000",
               "-to": "20210915020000",
               "-ftl": "2530",
@@ -464,9 +594,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "聴くだけで、エンターテック最新状況や次にバズるニューカマーをいち早くチェックできる“タメになる参加型”の音楽番組です。",
-              "pfm": "ふくりゅう / CRJメンバー",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14bb254a-c239-4040-b470-e2fd245b89a0.jpeg",
+              "info": "聴くだけで、エンターテック最新状況や次にバズるニューカマーをいち早くチェックできる“タメになる参加型”の音楽番組です。<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」<br />メールアドレス：<a href=\"mailto:vmt@fmyokohama.jp\">vmt@fmyokohama.jp</a><br />",
+              "pfm": "ふくりゅう / 細野暁夢(CRJメンバー）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/69c45ecb-0f59-4d36-80ab-f135861921c4.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C012",
@@ -480,12 +610,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#fmyokohama"
                 }
               }
             },
             {
-              "-id": "9586561144",
+              "-id": "9587004523",
               "-ft": "20210915020000",
               "-to": "20210915023000",
               "-ftl": "2600",
@@ -496,9 +626,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "「from KANAGAWA」なミュージシャンを応援する音楽番組！",
+              "info": "ツーメンユニット「アマネトリル」が登場！<br />新シングル『LADY PINK PANTHER / 夕凪フィルム』についてお伺いしました！<br /><br />twitterアカウントは「<a href=\"http://twitter.com/KML847\">@KML847</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23KML847\">#KML847</a>」<br />メールアドレス：<a href=\"mailto:kml@fmyokohama.jp\">kml@fmyokohama.jp</a><br />",
               "pfm": "長谷川篤司",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14bb254a-c239-4040-b470-e2fd245b89a0.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/qy4y1bfubn.png",
               "genre": {
                 "personality": {
                   "-id": "C012",
@@ -510,31 +640,37 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#KML847"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:KML847"
+                  }
+                ]
               }
             },
             {
-              "-id": "9586580501",
+              "-id": "9587004529",
               "-ft": "20210915023000",
               "-to": "20210915030000",
               "-ftl": "2630",
               "-tol": "2700",
               "-dur": "1800",
-              "title": "Deep Night Session",
-              "url": "https://www.fmyokohama.co.jp/pc/program/DeepNightSession",
+              "title": "うらはらNIGHT",
+              "url": "https://www.fmyokohama.co.jp/pc/program/UraharaNight",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "シンガーソングライターReNが自身の「今」を伝えるべく“MUSIC”を通して、“DEEP”で“REAL”なメッセージを発信していきます。1日の終わりに“CHILL”しながら一緒にゆるーく“SESSION”しましょう！",
-              "pfm": "ReN",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14bb254a-c239-4040-b470-e2fd245b89a0.jpeg",
+              "info": "ナイトシーンに精通したちょいボケおじさんのdazzy下井が、元気印の安藤あいかのサポートを受けて夜に駆ける。ナイトワーカーの「あるある」に共感してみたり、深夜の行動がちょっぴりハッピーになる（？）占いで一喜一憂してみたり、深夜に真価を発揮するアナタにピッタリな新感覚番組です。<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23fmyokohama\">#fmyokohama</a>」<br />メールアドレス：<a href=\"mailto:urahara@fmyokohama.jp\">urahara@fmyokohama.jp</a><br />",
+              "pfm": "dazzy下井 / 安藤あいか / マリーアンナ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/8c430a4d-5c71-485b-8f3d-c080e5e72f48.jpeg",
               "genre": {
                 "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
+                  "-id": "C012",
+                  "name": "文化人"
                 },
                 "program": {
                   "-id": "P007",
@@ -544,12 +680,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#fmyokohama"
                 }
               }
             },
             {
-              "-id": "9586559282",
+              "-id": "9587004533",
               "-ft": "20210915030000",
               "-to": "20210915050000",
               "-ftl": "2700",
@@ -560,8 +696,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "あの日あの時にタイムスリップ出来る“名曲”満載でお届けします。",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/14bb254a-c239-4040-b470-e2fd245b89a0.jpeg",
+              "info": "▽様々なテーマ・コンセプトで、ヒット曲を4日間に渡ってオンエア。<br />▽今週は80'sNO１ヒット特集！<br />▽番組へのご意見・ご感想お待ちしています。<br />▽Twitterはハッシュタグ「#Hits200」を付けてツイートお願いします！<br /><br />twitterアカウントは「<a href=\"http://twitter.com/Hits200_fyoko\">@Hits200_fyoko</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23Hits200\">#Hits200</a>」<br />メールアドレス：<a href=\"mailto:h200@fmyokohama.jp\">h200@fmyokohama.jp</a><br />",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/a2dc548b-71e4-4348-9e14-b2afb5902d47.jpeg",
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -569,10 +705,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#Hits200"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:Hits200_fyoko"
+                  }
+                ]
               }
             }
           ]
