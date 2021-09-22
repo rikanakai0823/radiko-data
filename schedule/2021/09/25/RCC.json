@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1632247628",
+    "srvtime": "1632334024",
     "stations": {
       "station": {
         "-id": "RCC",
@@ -900,22 +900,48 @@
               }
             },
             {
-              "-id": "9588698538",
+              "-id": "9588857152",
               "-ft": "20210925190000",
               "-to": "20210925193000",
               "-ftl": "1900",
               "-tol": "1930",
               "-dur": "1800",
-              "title": "松村邦洋のＯＨ－！邦自慢",
+              "title": "アンガールズのカープ愛炸裂番組　カーティスト",
+              "url": "https://radio.rcc.jp/cartist/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "松村邦洋",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/88304e1f-716c-4f24-8ccb-42eb4085c9b6.jpeg",
+              "desc": "アンガールズがカープを愛するアーティスト「カーティスト」とカープと音楽の話題をたっぷりお届けするトーク＆音楽バラエティー",
+              "info": "メール:<a href=\"mailto:cartist@rcc.net?subject=カーティスト\">cartist@rcc.net</a><br/>Twitter:<a href=\"https://twitter.com/cartist1350\">@cartist1350</a>",
+              "pfm": "アンガールズ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/88a2ebb7-1f6e-4e8e-ad84-f5776529a10d.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "カープ"
+                  },
+                  {
+                    "name": "広島"
+                  },
+                  {
+                    "name": "プロ野球"
+                  },
+                  {
+                    "name": "アンガールズ"
+                  },
+                  {
+                    "name": "芸人"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
+                  "-id": "P002",
+                  "name": "スポーツ"
                 }
               },
               "metas": {
@@ -926,24 +952,25 @@
               }
             },
             {
-              "-id": "9588213073",
+              "-id": "9588857157",
               "-ft": "20210925193000",
               "-to": "20210925200000",
               "-ftl": "1930",
               "-tol": "2000",
               "-dur": "1800",
-              "title": "（再）かが屋の鶴の間",
-              "url": "https://radio.rcc.jp/kagaya_tsurunoma/",
+              "title": "佐々木リョウのバリＡじゃんラジオ",
+              "url": "https://radio.rcc.jp/bari_radi/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "「自由律俳句」「コントのうわさ」「ふつおた・質問・リアクション」などメール待ってます！<br/>メールアドレス：<a href=\"mailto:kgy@rcc.net?subject=かが屋の鶴の間\">kgy@rcc.net</A>",
-              "pfm": "かが屋",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/3ee888db-428a-4932-91e1-256a7ac4e15d.jpeg",
+              "desc": "佐々木リョウがバリえぇと思う人や、ものについて、ゲストを招いたりしながら語ります",
+              "info": "<img src=\"https://radio.rcc.jp/topimages/bariradi_icon-trans.png?2019\" alt=\"佐々木リョウのバリAじゃんラジオ\" /><br /><br/>メールアドレス：<a href=\"mailto:music@rcc.net\">music@rcc.net </a><br />（件名に「バリAじゃんラジオ」とご記入下さい）<br />歌ってほしい曲や、みなさんのバリえぇ話をお待ちしてます！",
+              "pfm": "佐々木リョウ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/9b219b68-d1dc-4886-b014-78b4d6e3df3f.jpeg",
               "genre": {
                 "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
+                  "-id": "C004",
+                  "name": "ミュージシャン"
                 },
                 "program": {
                   "-id": "P006",
