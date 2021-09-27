@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1632593251",
+    "srvtime": "1632765944",
     "stations": {
       "station": {
         "-id": "RADIOBERRY",
@@ -391,12 +391,12 @@
               }
             },
             {
-              "-id": "9589200542",
+              "-id": "9589712092",
               "-ft": "20211001140000",
-              "-to": "20211001150000",
+              "-to": "20211001145500",
               "-ftl": "1400",
-              "-tol": "1500",
-              "-dur": "3600",
+              "-tol": "1455",
+              "-dur": "3300",
               "title": "RBZ friday",
               "url": "http://www.berry.co.jp/rbzf/",
               "failed_record": "0",
@@ -415,6 +415,25 @@
                   "name": "バラエティ"
                 }
               },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9589720215",
+              "-ft": "20211001145500",
+              "-to": "20211001150000",
+              "-ftl": "1455",
+              "-tol": "1500",
+              "-dur": "300",
+              "title": "Life Time Audio～人生のプレイリスト～",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><br /></div>",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -519,12 +538,12 @@
               }
             },
             {
-              "-id": "9589201935",
+              "-id": "9589712113",
               "-ft": "20211001180000",
-              "-to": "20211001190000",
+              "-to": "20211001185500",
               "-ftl": "1800",
-              "-tol": "1900",
-              "-dur": "3600",
+              "-tol": "1855",
+              "-dur": "3300",
               "title": "RBZ friday",
               "url": "http://www.berry.co.jp/rbzf/",
               "failed_record": "0",
@@ -541,6 +560,35 @@
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9589718873",
+              "-ft": "20211001185500",
+              "-to": "20211001190000",
+              "-ftl": "1855",
+              "-tol": "1900",
+              "-dur": "300",
+              "title": "NEWS",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><br /></div>",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -583,7 +631,7 @@
               }
             },
             {
-              "-id": "9589387789",
+              "-id": "9589718889",
               "-ft": "20211001193000",
               "-to": "20211001195500",
               "-ftl": "1930",
