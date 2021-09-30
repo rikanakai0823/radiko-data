@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1632938728",
+    "srvtime": "1633025153",
     "stations": {
       "station": {
         "-id": "KBS",
@@ -906,7 +906,7 @@
               }
             },
             {
-              "-id": "9589905063",
+              "-id": "9590230399",
               "-ft": "20211003030000",
               "-to": "20211003050000",
               "-ftl": "2700",
@@ -916,11 +916,21 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "pfm": "[出]SKE48",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/368e8eb5-4edc-4168-aa0a-38fcc1f33d8c.jpeg",
+              "tag": {
+                "item": {
+                  "name": "コロコロチキチキペッパーズ"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
