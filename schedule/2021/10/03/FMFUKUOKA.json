@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1633198057",
+    "srvtime": "1633370748",
     "stations": {
       "station": {
         "-id": "FMFUKUOKA",
@@ -82,7 +82,7 @@
               }
             },
             {
-              "-id": "9590633207",
+              "-id": "9590668352",
               "-ft": "20211003060000",
               "-to": "20211003062500",
               "-ftl": "0600",
@@ -173,7 +173,7 @@
               }
             },
             {
-              "-id": "9590633217",
+              "-id": "9590723559",
               "-ft": "20211003063000",
               "-to": "20211003065500",
               "-ftl": "0630",
@@ -342,7 +342,7 @@
               }
             },
             {
-              "-id": "9589558742",
+              "-id": "9590924526",
               "-ft": "20211003080000",
               "-to": "20211003093000",
               "-ftl": "0800",
@@ -359,6 +359,9 @@
               "tag": {
                 "item": [
                   {
+                    "name": "日曜朝"
+                  },
+                  {
                     "name": "アーティスト"
                   },
                   {
@@ -369,9 +372,6 @@
                   },
                   {
                     "name": "黒田りさ"
-                  },
-                  {
-                    "name": "土曜朝"
                   },
                   {
                     "name": "8"
@@ -505,7 +505,7 @@
               }
             },
             {
-              "-id": "9590633290",
+              "-id": "9590723685",
               "-ft": "20211003100000",
               "-to": "20211003103000",
               "-ftl": "1000",
@@ -550,7 +550,7 @@
               }
             },
             {
-              "-id": "9590633311",
+              "-id": "9590668503",
               "-ft": "20211003103000",
               "-to": "20211003105500",
               "-ftl": "1030",
@@ -737,7 +737,7 @@
               }
             },
             {
-              "-id": "9590633373",
+              "-id": "9590668579",
               "-ft": "20211003120000",
               "-to": "20211003122500",
               "-ftl": "1200",
@@ -846,24 +846,31 @@
               }
             },
             {
-              "-id": "9590633420",
+              "-id": "9590829232",
               "-ft": "20211003130000",
               "-to": "20211003135500",
               "-ftl": "1300",
               "-tol": "1355",
               "-dur": "3300",
               "title": "いいこと、聴いた",
+              "url": "https://www.tfm.co.jp/iikotokiita/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/10055_3fb82f16_sq.jpg\" height=\"60\" width=\"60\" alt=\"秋元康\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/10056_2903056f_sq.jpg\" height=\"60\" width=\"60\" alt=\"小島瑠璃子\"></td>  </tr></table><br /><br />\tまだ世に知られていない全国各地に眠るさまざまなヒト・コト・モノから、隠れたグルメの逸品まで “まだ見ぬ宝”をJFN37局のネットワークと協力して発掘し、秋元康がプロデュースして世に送り出すプログラム！ <br /><br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/10055_3fb82f16_sq.jpg\" height=\"60\" width=\"60\" alt=\"秋元康\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/10056_2903056f_sq.jpg\" height=\"60\" width=\"60\" alt=\"小島瑠璃子\"></td>  </tr></table><br /><br />\tまだ世に知られていない全国各地に眠るさまざまなヒト・コト・モノから、隠れたグルメの逸品まで “まだ見ぬ宝”をJFN37局のネットワークと協力して発掘し、秋元康がプロデュースして世に送り出すプログラム！ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/iikotokiita/\">https://www.tfm.co.jp/iikotokiita/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%84%E3%81%84%E3%81%93%E3%81%A8%E8%81%B4%E3%81%84%E3%81%9F\">#いいこと聴いた</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/iikoto_kiita\">@iikoto_kiita</a>」<br /><br /></div>",
               "pfm": "秋元康 / 小島瑠璃子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUOKA/3voofctaxt.jpg",
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#いいこと聴いた"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:iikoto_kiita"
+                  }
+                ]
               }
             },
             {

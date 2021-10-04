@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1633284355",
+    "srvtime": "1633370765",
     "stations": {
       "station": {
         "-id": "FMF",
@@ -10,7 +10,7 @@
           "date": "20211004",
           "prog": [
             {
-              "-id": "9589733749",
+              "-id": "9590920922",
               "-ft": "20211004050000",
               "-to": "20211004053000",
               "-ftl": "0500",
@@ -40,7 +40,7 @@
               }
             },
             {
-              "-id": "9589721309",
+              "-id": "9590920925",
               "-ft": "20211004053000",
               "-to": "20211004060000",
               "-ftl": "0530",
@@ -72,7 +72,7 @@
               }
             },
             {
-              "-id": "9590759332",
+              "-id": "9590920927",
               "-ft": "20211004060000",
               "-to": "20211004073000",
               "-ftl": "0600",
@@ -100,7 +100,7 @@
               }
             },
             {
-              "-id": "9589738197",
+              "-id": "9590920937",
               "-ft": "20211004073000",
               "-to": "20211004075000",
               "-ftl": "0730",
@@ -114,18 +114,15 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/TV/person/302_71ef3a44_sq.png\" height=\"60\" width=\"60\" alt=\"小野寺彰子\"></td>  </tr></table><br /><br />\t朝のお目覚めは”ふくしまFM”。<br />朝だから知りたいニュースや天気、交通情報と、今日の豆知識・地元の話題を、爽やかにあなたへ届けます。前半は“情報をコンパクトに聴きやすく”、後半は“音楽・アーティスト情報”などを交えて、朝のひと時を演出します。リクエストにも応えます！<br />お出かけソングをラジオで聴いて、一日元気にお過ごしください。 <br /><br />\t番組Webサイト：<a href=\"https://www.fmf.co.jp/radio/morningfreeway/\">https://www.fmf.co.jp/radio/morningfreeway/</a><br />\tメールアドレス：<a href=\"mailto:mf@fmf.co.jp\">mf@fmf.co.jp</a><br />\tメッセージフォーム：<a href=\"https://www.fmf.co.jp/form/2\">https://www.fmf.co.jp/form/2</a><br />\tFAX：024-991-9800<br /> <br /> twitterアカウントは「<a href=\"http://twitter.com/MFF0249919000\">@MFF0249919000</a>」<br /><br /></div>",
               "pfm": "小野寺彰子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/l4k3aqkgnk.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "モーフリ"
-                  },
-                  {
-                    "name": "小野寺彰子"
-                  },
-                  {
-                    "name": "ふくしまFM"
-                  }
-                ]
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
               },
               "metas": {
                 "meta": {
@@ -135,7 +132,7 @@
               }
             },
             {
-              "-id": "9589727035",
+              "-id": "9590920939",
               "-ft": "20211004075000",
               "-to": "20211004080000",
               "-ftl": "0750",
@@ -149,19 +146,6 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/TV/person/3271_81d6395c_sq.png\" height=\"60\" width=\"60\" alt=\"小松田あこ\"></td>  </tr></table><br /><br />\tここから始まる１日が、明るく、楽しくなる、トピックスをお届けします！<br /><br />▼月曜日：アコセレ<br />月替わりのテーマで、パーソナリティの小松田あこが気になる福島県内のモノ・コトを深掘りします。<br /><br />▼火曜日 / 水曜日 / 木曜日：福島人<br />福島県内で活躍をしている“福島人“を、毎週お一人お招きしてお話しを伺います！<br /><br />▼金曜日：ヒストリー ドライブ<br />毎週ある年をピックアップし、その年に時空のドライブへと出かけます！<br /><br />素敵な1日を“ここから”始めましょう！ <br /><br />\t番組Webサイト：<a href=\"https://www.fmf.co.jp/radio/morningfreeway/toyota_morning/\">https://www.fmf.co.jp/radio/morningfreeway/toyota_morning/</a><br />\tFAX：024-991-9800<br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%93%E3%81%93%E3%83%A2%E3%83%8B\">#ここモニ</a>」<br /><br /></div>",
               "pfm": "小松田あこ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/kh4f8y6plq.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ふくしまFM"
-                  },
-                  {
-                    "name": "ここモニ"
-                  },
-                  {
-                    "name": "小松田あこ"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -180,7 +164,7 @@
               }
             },
             {
-              "-id": "9589738214",
+              "-id": "9590920940",
               "-ft": "20211004080000",
               "-to": "20211004100000",
               "-ftl": "0800",
@@ -194,18 +178,15 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/TV/person/302_71ef3a44_sq.png\" height=\"60\" width=\"60\" alt=\"小野寺彰子\"></td>  </tr></table><br /><br />\t朝のお目覚めは”ふくしまFM”。<br />朝だから知りたいニュースや天気、交通情報と、今日の豆知識・地元の話題を、爽やかにあなたへ届けます。前半は“情報をコンパクトに聴きやすく”、後半は“音楽・アーティスト情報”などを交えて、朝のひと時を演出します。リクエストにも応えます！<br />お出かけソングをラジオで聴いて、一日元気にお過ごしください。 <br /><br />\t番組Webサイト：<a href=\"https://www.fmf.co.jp/radio/morningfreeway/\">https://www.fmf.co.jp/radio/morningfreeway/</a><br />\tメールアドレス：<a href=\"mailto:mf@fmf.co.jp\">mf@fmf.co.jp</a><br />\tメッセージフォーム：<a href=\"https://www.fmf.co.jp/form/2\">https://www.fmf.co.jp/form/2</a><br />\tFAX：024-991-9800<br /> <br /> twitterアカウントは「<a href=\"http://twitter.com/MFF0249919000\">@MFF0249919000</a>」<br /><br /></div>",
               "pfm": "小野寺彰子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/l4k3aqkgnk.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "モーフリ"
-                  },
-                  {
-                    "name": "小野寺彰子"
-                  },
-                  {
-                    "name": "ふくしまFM"
-                  }
-                ]
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
               },
               "metas": {
                 "meta": {
@@ -215,7 +196,7 @@
               }
             },
             {
-              "-id": "9589721542",
+              "-id": "9590920949",
               "-ft": "20211004100000",
               "-to": "20211004110000",
               "-ftl": "1000",
@@ -253,7 +234,7 @@
               }
             },
             {
-              "-id": "9590765486",
+              "-id": "9590920953",
               "-ft": "20211004110000",
               "-to": "20211004113000",
               "-ftl": "1100",
@@ -285,7 +266,7 @@
               }
             },
             {
-              "-id": "9589616847",
+              "-id": "9590920957",
               "-ft": "20211004113000",
               "-to": "20211004114500",
               "-ftl": "1130",
@@ -306,7 +287,7 @@
               }
             },
             {
-              "-id": "9590765487",
+              "-id": "9590920958",
               "-ft": "20211004114500",
               "-to": "20211004120000",
               "-ftl": "1145",
@@ -328,17 +309,18 @@
               }
             },
             {
-              "-id": "9590575357",
+              "-id": "9590920960",
               "-ft": "20211004120000",
               "-to": "20211004130000",
               "-ftl": "1200",
               "-tol": "1300",
               "-dur": "3600",
               "title": "Otona no Radio Alexandria",
+              "url": "https://audee.jp/program/show/57661",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10033_eed6a0c6_sq.jpg\" height=\"60\" width=\"60\" alt=\"ロバート・ハリス\"></td>  </tr></table><br /><br />\tOtonaの文化、Otonaの音楽がたっぷり聴こえるラジオ番組「Otona no Radio Alexandria」。 <br /><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/423\">https://ssl2.jfn.co.jp/mailbox/index/423</a><br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10033_eed6a0c6_sq.jpg\" height=\"60\" width=\"60\" alt=\"ロバート・ハリス\"></td>  </tr></table><br /><br />\tOtonaの文化、Otonaの音楽がたっぷり聴こえるラジオ番組「Otona no Radio Alexandria」。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/57661\">https://audee.jp/program/show/57661</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/423\">https://ssl2.jfn.co.jp/mailbox/index/423</a><br /><br /></div>",
               "pfm": "ロバート・ハリス",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/u3mzu2w5va.png",
               "metas": {
@@ -349,7 +331,7 @@
               }
             },
             {
-              "-id": "9589724182",
+              "-id": "9590920966",
               "-ft": "20211004130000",
               "-to": "20211004133000",
               "-ftl": "1300",
@@ -381,7 +363,7 @@
               }
             },
             {
-              "-id": "9589724228",
+              "-id": "9590920969",
               "-ft": "20211004133000",
               "-to": "20211004145500",
               "-ftl": "1330",
@@ -413,7 +395,7 @@
               }
             },
             {
-              "-id": "9590283571",
+              "-id": "9590920971",
               "-ft": "20211004145500",
               "-to": "20211004150000",
               "-ftl": "1455",
@@ -433,7 +415,7 @@
               }
             },
             {
-              "-id": "9589724314",
+              "-id": "9590920973",
               "-ft": "20211004150000",
               "-to": "20211004160000",
               "-ftl": "1500",
@@ -465,7 +447,7 @@
               }
             },
             {
-              "-id": "9589738435",
+              "-id": "9590920978",
               "-ft": "20211004160000",
               "-to": "20211004172000",
               "-ftl": "1600",
@@ -479,18 +461,15 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/TV/person/3268_95e769b1_sq.png\" height=\"60\" width=\"60\" alt=\"DJイタル\"></td>  </tr></table><br /><br />\tスイッチが“ON”から“OFF”へと切替わる平日夕方のひとときに、心地よい音楽とパーソナリティのトークをお届けします。<br />夕方を快適に過ごせるような音楽と共に地域のニュース、ウェザー、交通情報などをお送りします。<br />また、ミュージシャンからのメッセージや特別な企画も展開中！<br />あなたからの“メッセージ＆リクエスト”お待ちしています！ <br /><br />\t番組Webサイト：<a href=\"https://www.fmf.co.jp/radio/radio_groove/\">https://www.fmf.co.jp/radio/radio_groove/</a><br />\tメールアドレス：<a href=\"mailto:rg@fmf.co.jp\">rg@fmf.co.jp</a><br />\tメッセージフォーム：<a href=\"https://www.fmf.co.jp/form/3\">https://www.fmf.co.jp/form/3</a><br />\tFAX：024-991-9800<br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%AC%E3%83%87%E3%82%A3%E3%82%B0%E3%83%AB\">#レディグル</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/fmfRADIOGROOVE\">@fmfRADIOGROOVE</a>」<br /><br /></div>",
               "pfm": "DJイタル",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/kpmkzii65w.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ふくしまFM"
-                  },
-                  {
-                    "name": "レディグル"
-                  },
-                  {
-                    "name": "DJイタル"
-                  }
-                ]
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
               },
               "metas": {
                 "meta": [
@@ -506,7 +485,7 @@
               }
             },
             {
-              "-id": "9590765489",
+              "-id": "9590920985",
               "-ft": "20211004172000",
               "-to": "20211004173000",
               "-ftl": "1720",
@@ -528,7 +507,7 @@
               }
             },
             {
-              "-id": "9589738502",
+              "-id": "9590920986",
               "-ft": "20211004173000",
               "-to": "20211004190000",
               "-ftl": "1730",
@@ -542,18 +521,15 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/TV/person/3268_95e769b1_sq.png\" height=\"60\" width=\"60\" alt=\"DJイタル\"></td>  </tr></table><br /><br />\tスイッチが“ON”から“OFF”へと切替わる平日夕方のひとときに、心地よい音楽とパーソナリティのトークをお届けします。<br />夕方を快適に過ごせるような音楽と共に地域のニュース、ウェザー、交通情報などをお送りします。<br />また、ミュージシャンからのメッセージや特別な企画も展開中！<br />あなたからの“メッセージ＆リクエスト”お待ちしています！ <br /><br />\t番組Webサイト：<a href=\"https://www.fmf.co.jp/radio/radio_groove/\">https://www.fmf.co.jp/radio/radio_groove/</a><br />\tメールアドレス：<a href=\"mailto:rg@fmf.co.jp\">rg@fmf.co.jp</a><br />\tメッセージフォーム：<a href=\"https://www.fmf.co.jp/form/3\">https://www.fmf.co.jp/form/3</a><br />\tFAX：024-991-9800<br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%AC%E3%83%87%E3%82%A3%E3%82%B0%E3%83%AB\">#レディグル</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/fmfRADIOGROOVE\">@fmfRADIOGROOVE</a>」<br /><br /></div>",
               "pfm": "DJイタル",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/kpmkzii65w.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ふくしまFM"
-                  },
-                  {
-                    "name": "レディグル"
-                  },
-                  {
-                    "name": "DJイタル"
-                  }
-                ]
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
               },
               "metas": {
                 "meta": [
@@ -569,7 +545,7 @@
               }
             },
             {
-              "-id": "9589724575",
+              "-id": "9590920991",
               "-ft": "20211004190000",
               "-to": "20211004200000",
               "-ftl": "1900",
@@ -601,18 +577,20 @@
               }
             },
             {
-              "-id": "9589686419",
+              "-id": "9590945626",
               "-ft": "20211004200000",
               "-to": "20211004203000",
               "-ftl": "2000",
               "-tol": "2030",
               "-dur": "1800",
               "title": "PERIMETRON HUB",
+              "url": "https://audee.jp/program/show/57667",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/gel8nps1dl.jpg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/person/10039_1955b3f4_sq.jpg\" height=\"60\" width=\"60\" alt=\"佐々木集\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JB/person/10040_ea0ee0d1_sq.jpg\" height=\"60\" width=\"60\" alt=\"神戸雄平\"></td>  </tr></table><br /><br />\tPERIMETRONは、音楽家・常田大希、プロデューサー/クリエイティブディレクター・佐々木集、映像作家・OSRINを中心に2016年より本格的に活動スタート。様々なアーティストMVやCM、ファッションフィルムなどの映像ディレクションの他、デザイン、グラフィックなどジャンルに縛られない多方面な創作活動を行っている。番組では彼らが“今”気になっていること軸に音楽とトーク、時にゲストを迎えてお届けする。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/57667\">https://audee.jp/program/show/57667</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/426\">https://ssl2.jfn.co.jp/mailbox/index/426</a><br /><br /></div>",
+              "pfm": "佐々木集 / 神戸雄平",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/qk9pc5jtm6.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -621,7 +599,7 @@
               }
             },
             {
-              "-id": "9589620863",
+              "-id": "9590920999",
               "-ft": "20211004203000",
               "-to": "20211004210000",
               "-ftl": "2030",
@@ -635,16 +613,6 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/QU/person/5838_eb6aecf5_sq.png\" height=\"60\" width=\"60\" alt=\"日食なつこ\"></td>  </tr></table><br /><br />\t岩手県花巻市出身のピアノ弾き語りシンガーソングライター「日食なつこ」が<br />生まれ育った岩手への思いやファンの皆さんへのメッセージを届けます。 <br /><br />\t番組Webサイト：<a href=\"https://www.fmii.co.jp/medama\">https://www.fmii.co.jp/medama</a><br />\tメッセージフォーム：<a href=\"https://www.fmii.co.jp/medama/request_form.html\">https://www.fmii.co.jp/medama/request_form.html</a><br /><br /></div>",
               "pfm": "日食なつこ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/gel8nps1dl.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "日食なつこ"
-                  },
-                  {
-                    "name": "岩手"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -663,7 +631,7 @@
               }
             },
             {
-              "-id": "9590724246",
+              "-id": "9590921001",
               "-ft": "20211004210000",
               "-to": "20211004213000",
               "-ftl": "2100",
@@ -695,7 +663,7 @@
               }
             },
             {
-              "-id": "9590571023",
+              "-id": "9590921010",
               "-ft": "20211004213000",
               "-to": "20211004220000",
               "-ftl": "2130",
@@ -727,7 +695,7 @@
               }
             },
             {
-              "-id": "9590781646",
+              "-id": "9590921012",
               "-ft": "20211004220000",
               "-to": "20211005000000",
               "-ftl": "2200",
@@ -754,7 +722,7 @@
               }
             },
             {
-              "-id": "9589905752",
+              "-id": "9590921018",
               "-ft": "20211005000000",
               "-to": "20211005010000",
               "-ftl": "2400",
@@ -765,7 +733,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/jetstream/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/program/128_f41275e9_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/8149_db360e96_sq.png\" height=\"60\" width=\"60\" alt=\"福山雅治\"></td>  </tr></table><br /><br />\t「旅への誘い」をテーマに、心地良い音楽とナレーションで綴ります。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/jetstream/\">https://www.tfm.co.jp/jetstream/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/jetstream/message\">https://www.tfm.co.jp/f/jetstream/message</a><br /><br /></div>",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/jetstream/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/program/128_f41275e9_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/8149_db360e96_sq.png\" height=\"60\" width=\"60\" alt=\"福山雅治\"></td>  </tr></table><br /><br />\t今夜は、アメリカ南部の「ニューオーリンズ」へ。ニューオーリンズ一番の歓楽街「バーボン・ストリート」を訪ねます。<br /><br />イギリスの都・ロンドンに、新しい観光名所「マーブル・アーチ・マウンド」がオープン。ところが…。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/jetstream/\">https://www.tfm.co.jp/jetstream/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/jetstream/message\">https://www.tfm.co.jp/f/jetstream/message</a><br /><br /></div>",
               "pfm": "福山雅治",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/wqzwkhux36.jpg",
               "genre": {
@@ -786,7 +754,7 @@
               }
             },
             {
-              "-id": "9590776319",
+              "-id": "9590928220",
               "-ft": "20211005010000",
               "-to": "20211005020000",
               "-ftl": "2500",
@@ -797,7 +765,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/speakeasy/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/49902_f1007451_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6051_f0e6be49_sq.jpg\" height=\"60\" width=\"60\" alt=\"藤井隆\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10090_47b7f332_sq.jpg\" height=\"60\" width=\"60\" alt=\"桂三度\"></td>  </tr></table><br /><br />\t禁酒法の時代に、こっそりひそかに経営していたBAR『SPEAKEASY』。<br />2020年の東京の街にも、そんなひそかなバーが、まだあった。<br />それは、とある小さな本屋の奥の部屋に存在する。名前は『TOKYO SPEAKEASY』。<br />今日のお客は誰なのか？そしてどんな話をするのか…？ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/speakeasy/\">https://www.tfm.co.jp/speakeasy/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/speakeasy/message\">https://www.tfm.co.jp/f/speakeasy/message</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23speakeasy\">#speakeasy</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/TokyoSpeakeasy\">@TokyoSpeakeasy</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/speakeasy/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/49902_f1007451_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6051_f0e6be49_sq.jpg\" height=\"60\" width=\"60\" alt=\"藤井隆\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10090_47b7f332_sq.jpg\" height=\"60\" width=\"60\" alt=\"桂三度\"></td>  </tr></table><br /><br />\t今夜のお客さまは、藤井隆さんと桂三度さん<br />あらゆる形でお笑いを追求する２人が語り合う♪ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/speakeasy/\">https://www.tfm.co.jp/speakeasy/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/speakeasy/message\">https://www.tfm.co.jp/f/speakeasy/message</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23speakeasy\">#speakeasy</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/TokyoSpeakeasy\">@TokyoSpeakeasy</a>」<br /><br /></div>",
               "pfm": "藤井隆 / 桂三度",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/dycs67mgqg.jpg",
               "genre": {
@@ -820,7 +788,7 @@
               }
             },
             {
-              "-id": "9589905878",
+              "-id": "9590921025",
               "-ft": "20211005020000",
               "-to": "20211005040000",
               "-ftl": "2600",
@@ -838,6 +806,10 @@
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -854,7 +826,7 @@
               }
             },
             {
-              "-id": "9589897767",
+              "-id": "9590921028",
               "-ft": "20211005040000",
               "-to": "20211005050000",
               "-ftl": "2800",
