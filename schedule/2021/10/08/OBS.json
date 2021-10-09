@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1633716327",
+    "srvtime": "1633802826",
     "stations": {
       "station": {
         "-id": "OBS",
@@ -10,7 +10,7 @@
           "date": "20211008",
           "prog": [
             {
-              "-id": "9591659783",
+              "-id": "9591801986",
               "-ft": "20211008050000",
               "-to": "20211008052000",
               "-ftl": "0500",
@@ -23,6 +23,12 @@
               "desc": "　　",
               "pfm": "佐藤健一",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/0wf73ai7u8.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -73,7 +79,7 @@
               }
             },
             {
-              "-id": "9591659795",
+              "-id": "9591802000",
               "-ft": "20211008053000",
               "-to": "20211008063000",
               "-ftl": "0530",
@@ -87,6 +93,16 @@
               "desc": "　　",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/im3kpj1rc7.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -159,7 +175,7 @@
               }
             },
             {
-              "-id": "9591659829",
+              "-id": "9591746482",
               "-ft": "20211008085000",
               "-to": "20211008085500",
               "-ftl": "0850",
@@ -173,6 +189,16 @@
               "desc": "　　",
               "pfm": "羽田美智子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/851e0df4-c277-436b-bf46-e0ee7f0bdd6c.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -288,7 +314,7 @@
               }
             },
             {
-              "-id": "9591659864",
+              "-id": "9591805754",
               "-ft": "20211008130000",
               "-to": "20211008160000",
               "-ftl": "1300",
@@ -307,6 +333,16 @@
                   "name": "#obsvoice"
                 }
               },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -315,7 +351,7 @@
               }
             },
             {
-              "-id": "9591659889",
+              "-id": "9591805793",
               "-ft": "20211008160000",
               "-to": "20211008164500",
               "-ftl": "1600",
@@ -332,6 +368,16 @@
               "tag": {
                 "item": {
                   "name": "#obsvoice"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -383,7 +429,7 @@
               }
             },
             {
-              "-id": "9591659910",
+              "-id": "9591746599",
               "-ft": "20211008171500",
               "-to": "20211008172100",
               "-ftl": "1715",
@@ -405,6 +451,12 @@
                     "name": "牛窪万里子"
                   }
                 ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                }
               },
               "metas": {
                 "meta": {
@@ -575,7 +627,7 @@
               }
             },
             {
-              "-id": "9591659930",
+              "-id": "9591746629",
               "-ft": "20211008183000",
               "-to": "20211008184500",
               "-ftl": "1830",
@@ -591,6 +643,16 @@
               "tag": {
                 "item": {
                   "name": "#AMEMIYA"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -683,7 +745,7 @@
               }
             },
             {
-              "-id": "9591659963",
+              "-id": "9591805936",
               "-ft": "20211008213000",
               "-to": "20211008220000",
               "-ftl": "2130",
@@ -710,7 +772,7 @@
               }
             },
             {
-              "-id": "9591659971",
+              "-id": "9591746684",
               "-ft": "20211008220000",
               "-to": "20211009000000",
               "-ftl": "2200",
@@ -724,6 +786,12 @@
               "desc": "　　",
               "pfm": "古舘伊知郎",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/5af1df73-225d-4b06-9d21-ab2997544dd9.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -732,7 +800,7 @@
               }
             },
             {
-              "-id": "9591659994",
+              "-id": "9591746731",
               "-ft": "20211009000000",
               "-to": "20211009010000",
               "-ftl": "2400",
@@ -745,6 +813,16 @@
               "desc": "　　",
               "pfm": "相葉雅紀",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/cc80093f-2b8c-44ec-86e6-412279ea8e5d.png",
+              "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -753,7 +831,7 @@
               }
             },
             {
-              "-id": "9591660004",
+              "-id": "9591746753",
               "-ft": "20211009010000",
               "-to": "20211009030000",
               "-ftl": "2500",
@@ -767,6 +845,16 @@
               "desc": "　　",
               "pfm": "霜降り明星",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/87cdda22-c149-426a-8804-209eac2c0fa6.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

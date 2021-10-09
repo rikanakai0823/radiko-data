@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1633716382",
+    "srvtime": "1633802879",
     "stations": {
       "station": {
         "-id": "OBS",
@@ -10,7 +10,7 @@
           "date": "20211013",
           "prog": [
             {
-              "-id": "9591660476",
+              "-id": "9591802378",
               "-ft": "20211013050000",
               "-to": "20211013052000",
               "-ftl": "0500",
@@ -23,6 +23,12 @@
               "desc": "　　",
               "pfm": "佐藤健一",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/0wf73ai7u8.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -73,7 +79,7 @@
               }
             },
             {
-              "-id": "9591660487",
+              "-id": "9591802391",
               "-ft": "20211013053000",
               "-to": "20211013063000",
               "-ftl": "0530",
@@ -87,6 +93,16 @@
               "desc": "　　",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/im3kpj1rc7.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -159,7 +175,7 @@
               }
             },
             {
-              "-id": "9591660518",
+              "-id": "9591748762",
               "-ft": "20211013085000",
               "-to": "20211013085500",
               "-ftl": "0850",
@@ -173,6 +189,16 @@
               "desc": "　　",
               "pfm": "羽田美智子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/851e0df4-c277-436b-bf46-e0ee7f0bdd6c.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -203,7 +229,7 @@
               }
             },
             {
-              "-id": "9591660524",
+              "-id": "9591820663",
               "-ft": "20211013100000",
               "-to": "20211013124000",
               "-ftl": "1000",
@@ -217,6 +243,16 @@
               "desc": "　　",
               "pfm": "財前真由美",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/iemjqq672d.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -342,7 +378,7 @@
               }
             },
             {
-              "-id": "9591660580",
+              "-id": "9591748837",
               "-ft": "20211013163000",
               "-to": "20211013170000",
               "-ftl": "1630",
@@ -368,6 +404,16 @@
                     "name": "高校生"
                   }
                 ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
               },
               "metas": {
                 "meta": {
@@ -397,7 +443,7 @@
               }
             },
             {
-              "-id": "9591660588",
+              "-id": "9591748854",
               "-ft": "20211013171500",
               "-to": "20211013172100",
               "-ftl": "1715",
@@ -419,6 +465,12 @@
                     "name": "牛窪万里子"
                   }
                 ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                }
               },
               "metas": {
                 "meta": {
@@ -529,7 +581,7 @@
               }
             },
             {
-              "-id": "9591660603",
+              "-id": "9591821116",
               "-ft": "20211013183000",
               "-to": "20211013184500",
               "-ftl": "1830",
@@ -542,6 +594,16 @@
               "desc": "　　",
               "pfm": "パックンマックン",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/dd6d7ea2-1266-4a1b-ab7f-d29b46f29b9a.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -570,7 +632,7 @@
               }
             },
             {
-              "-id": "9591660606",
+              "-id": "9591814331",
               "-ft": "20211013190000",
               "-to": "20211013210000",
               "-ftl": "1900",
@@ -612,7 +674,7 @@
               }
             },
             {
-              "-id": "9591660624",
+              "-id": "9591821125",
               "-ft": "20211013213000",
               "-to": "20211013220000",
               "-ftl": "2130",
@@ -639,7 +701,7 @@
               }
             },
             {
-              "-id": "9591660627",
+              "-id": "9591748903",
               "-ft": "20211013220000",
               "-to": "20211014000000",
               "-ftl": "2200",
@@ -653,6 +715,12 @@
               "desc": "　　",
               "pfm": "森高千里",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/f84e09e9-1ac3-40ac-9edd-cb571f500707.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -661,7 +729,7 @@
               }
             },
             {
-              "-id": "9591660643",
+              "-id": "9591812263",
               "-ft": "20211014000000",
               "-to": "20211014010000",
               "-ftl": "2400",
@@ -674,6 +742,16 @@
               "desc": "　　",
               "pfm": "オテンキのり",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/tdlzkhifa9.png",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -682,7 +760,7 @@
               }
             },
             {
-              "-id": "9591660648",
+              "-id": "9591821139",
               "-ft": "20211014010000",
               "-to": "20211014030000",
               "-ftl": "2500",
@@ -696,6 +774,16 @@
               "desc": "　　",
               "pfm": "乃木坂４６",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/3136ab76-6ad2-4a35-ba87-a0606e39806b.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
