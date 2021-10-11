@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1633716374",
+    "srvtime": "1633975502",
     "stations": {
       "station": {
         "-id": "RKC",
@@ -10,7 +10,7 @@
           "date": "20211012",
           "prog": [
             {
-              "-id": "9591246060",
+              "-id": "9592159992",
               "-ft": "20211012050000",
               "-to": "20211012051000",
               "-ftl": "0500",
@@ -21,22 +21,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "セレクトした音楽を放送",
-              "pfm": "高知放送ラジオパーソナリティ",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "オススメの音楽"
-                  },
-                  {
-                    "name": "洋楽"
-                  },
-                  {
-                    "name": "Jポップ"
-                  }
-                ]
-              },
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/c8419e79-b453-4746-acea-5fcffe43b790.png",
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -55,7 +40,7 @@
               }
             },
             {
-              "-id": "9591246076",
+              "-id": "9592159995",
               "-ft": "20211012051000",
               "-to": "20211012052000",
               "-ftl": "0510",
@@ -77,7 +62,7 @@
               }
             },
             {
-              "-id": "9591246085",
+              "-id": "9592159996",
               "-ft": "20211012052000",
               "-to": "20211012052500",
               "-ftl": "0520",
@@ -98,22 +83,29 @@
               }
             },
             {
-              "-id": "9591060958",
+              "-id": "9592163212",
               "-ft": "20211012052500",
               "-to": "20211012053000",
               "-ftl": "0525",
               "-tol": "0530",
               "-dur": "300",
-              "title": "モーニング・シャワー",
+              "title": "モーニングチュ－ン",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "desc": "忙しい朝のひと時、爽やかな音楽をお楽しみ下さい。",
+              "pfm": "高知放送アナウンサー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/27d2c7a0-6ff7-4136-b147-4f1b62108dd8.png",
               "tag": {
-                "item": {
-                  "name": "朝の音楽"
-                }
+                "item": [
+                  {
+                    "name": "インストゥルメンタル"
+                  },
+                  {
+                    "name": "朝の音楽"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -133,7 +125,7 @@
               }
             },
             {
-              "-id": "9591450336",
+              "-id": "9592159998",
               "-ft": "20211012053000",
               "-to": "20211012060000",
               "-ftl": "0530",
@@ -165,7 +157,7 @@
               }
             },
             {
-              "-id": "9591450347",
+              "-id": "9592159999",
               "-ft": "20211012060000",
               "-to": "20211012063000",
               "-ftl": "0600",
@@ -197,12 +189,12 @@
               }
             },
             {
-              "-id": "9591246142",
+              "-id": "9592160003",
               "-ft": "20211012063000",
-              "-to": "20211012063500",
+              "-to": "20211012064000",
               "-ftl": "0630",
-              "-tol": "0635",
-              "-dur": "300",
+              "-tol": "0640",
+              "-dur": "600",
               "title": "ＲＫＣミュージック・セレクト",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
@@ -210,17 +202,119 @@
               "ts_out_ng": "0",
               "desc": "セレクトした音楽を放送",
               "pfm": "高知放送アナウンサー",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/c8419e79-b453-4746-acea-5fcffe43b790.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9592163230",
+              "-ft": "20211012064000",
+              "-to": "20211012064700",
+              "-ftl": "0640",
+              "-tol": "0647",
+              "-dur": "420",
+              "title": "今日は何の日",
+              "url": "http://www.rkc-kochi.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "今日はどんな日？「知識が増す」をコンセプトに今まで知り得なかった様々な「○○な日」を朝一番に届けます。",
+              "pfm": "大島 奈穂美",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/18ef22ef-e6db-4c36-b605-4242a5c01f27.jpeg",
               "tag": {
                 "item": [
                   {
-                    "name": "オススメの音楽"
+                    "name": "今日は何の日"
                   },
                   {
-                    "name": "洋楽"
+                    "name": "何の日"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9592163234",
+              "-ft": "20211012064700",
+              "-to": "20211012065500",
+              "-ftl": "0647",
+              "-tol": "0655",
+              "-dur": "480",
+              "title": "ENEOSプレゼンツ あさナビ",
+              "url": "http://www.rkc-kochi.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "黒木瞳",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/f064074c-212b-4e1a-b977-e5eddef232da.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9592163237",
+              "-ft": "20211012065500",
+              "-to": "20211012070000",
+              "-ftl": "0655",
+              "-tol": "0700",
+              "-dur": "300",
+              "title": "モーニングチュ－ン",
+              "url": "http://www.rkc-kochi.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "忙しい朝のひと時、爽やかな音楽をお楽しみ下さい。",
+              "pfm": "RKCアナウンサー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/27d2c7a0-6ff7-4136-b147-4f1b62108dd8.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "インストゥルメンタル"
                   },
                   {
-                    "name": "Jポップ"
+                    "name": "朝の音楽"
                   }
                 ]
               },
@@ -242,66 +336,7 @@
               }
             },
             {
-              "-id": "9591246144",
-              "-ft": "20211012063500",
-              "-to": "20211012065500",
-              "-ftl": "0635",
-              "-tol": "0655",
-              "-dur": "1200",
-              "title": "おはよう寺ちゃん　活動中",
-              "url": "http://www.rkc-kochi.co.jp/radio/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "寺島尚正と各曜日コメンテーターが、政治、経済、社会、スポーツなどの各分野の気になる話題をピイクアップし伝える",
-              "pfm": "寺島尚正",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/9e7vo7aoon.png",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9591061113",
-              "-ft": "20211012065500",
-              "-to": "20211012070000",
-              "-ftl": "0655",
-              "-tol": "0700",
-              "-dur": "300",
-              "title": "モーニング・シャワー",
-              "url": "http://www.rkc-kochi.co.jp/radio/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "素敵な音楽を送る",
-              "pfm": "高知放送アナウンサー",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
-              "tag": {
-                "item": {
-                  "name": "朝の音楽"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9591061129",
+              "-id": "9592160007",
               "-ft": "20211012070000",
               "-to": "20211012071000",
               "-ftl": "0700",
@@ -314,7 +349,7 @@
               "ts_out_ng": "0",
               "desc": "温かさと厳しさを併せ持つ武田鉄矢が毎週テーマに添ってさまざまな語りを展開。 どんな話題でも美味しくさばいて見せマス！",
               "pfm": "武田鉄矢",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/b03a777a-f579-49a6-a441-002cf3ea3cec.png",
               "genre": {
                 "personality": {
                   "-id": "C002",
@@ -333,7 +368,7 @@
               }
             },
             {
-              "-id": "9591084227",
+              "-id": "9592160010",
               "-ft": "20211012071000",
               "-to": "20211012072500",
               "-ftl": "0710",
@@ -353,7 +388,7 @@
               }
             },
             {
-              "-id": "9591061155",
+              "-id": "9592160011",
               "-ft": "20211012072500",
               "-to": "20211012073000",
               "-ftl": "0725",
@@ -385,7 +420,7 @@
               }
             },
             {
-              "-id": "9591024935",
+              "-id": "9592160012",
               "-ft": "20211012073000",
               "-to": "20211012073500",
               "-ftl": "0730",
@@ -396,20 +431,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "防災士"
-                  },
-                  {
-                    "name": "高知のニュース"
-                  },
-                  {
-                    "name": "高知県"
-                  }
-                ]
-              },
+              "desc": "地震への備え、心がけておくおくべき事を日本防災士機の資格を取得した高知放送の防災士が分かりやすく解説します。",
+              "pfm": "村山 佐織",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/12a69e3e-675d-44bc-a4f9-b32345a1da73.png",
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -428,42 +452,20 @@
               }
             },
             {
-              "-id": "9591084239",
+              "-id": "9592163247",
               "-ft": "20211012073500",
-              "-to": "20211012074000",
-              "-ftl": "0735",
-              "-tol": "0740",
-              "-dur": "300",
-              "title": "ＪＦマリンバンク海の天気予報",
-              "url": "http://www.rkc-kochi.co.jp/radio/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "海の天気予報を伝える",
-              "pfm": "高知放送アナウンサー",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/2yv0u48lrd.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9591067367",
-              "-ft": "20211012074000",
               "-to": "20211012074500",
-              "-ftl": "0740",
+              "-ftl": "0735",
               "-tol": "0745",
-              "-dur": "300",
+              "-dur": "600",
               "title": "おはようミュージック",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "朝の音楽",
+              "desc": "朝は素敵な音楽でスタート！聴くときっと元気になる！爽やかな曲をお届けします♪",
               "pfm": "石田佳世",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/d690e318-5448-4956-8a0c-8009c993c08a.png",
               "tag": {
                 "item": [
                   {
@@ -492,7 +494,7 @@
               }
             },
             {
-              "-id": "9591080997",
+              "-id": "9592160014",
               "-ft": "20211012074500",
               "-to": "20211012080000",
               "-ftl": "0745",
@@ -504,8 +506,8 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "朝のひとときにふさわしい、生活情報やバラエティにとんだ話題を取り上げる他、メロディだけの歌のない音楽をお届けする",
-              "pfm": "有吉都",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "pfm": "髙橋生",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/a0834d2c-a645-4faa-95be-9fec1ba5e2bb.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -514,7 +516,7 @@
               }
             },
             {
-              "-id": "9591081015",
+              "-id": "9592160015",
               "-ft": "20211012080000",
               "-to": "20211012081500",
               "-ftl": "0800",
@@ -525,13 +527,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "朝の情報をお届け",
+              "desc": "日替わりコメンテーターと共に話題のニュースを深堀り、最新トレンドをキャッチ。今の社会が見える、朝のニュース番組の決定版",
+              "pfm": "森本 毅郎・遠藤泰子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
-              "tag": {
-                "item": {
-                  "name": "全国ニュース"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -550,20 +548,19 @@
               }
             },
             {
-              "-id": "9591648695",
+              "-id": "9592163255",
               "-ft": "20211012081500",
               "-to": "20211012082000",
               "-ftl": "0815",
               "-tol": "0820",
               "-dur": "300",
-              "title": "スズキ・ハッピーモーニング　鈴木杏樹のいってらっしゃい",
+              "title": "スズキ・ハッピーモーニング　羽田美智子のいってらっしゃい",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "通勤前のサラリーマンやＯＬ、通学前の学生、これから家事をはじめる主婦に、鈴木がエールを送る",
-              "pfm": "鈴木杏樹",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/2l0k1juwfr.jpg",
+              "pfm": "羽田美智子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/edd011b1-4c98-4330-9ff2-18064e345c9f.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C003",
@@ -582,7 +579,7 @@
               }
             },
             {
-              "-id": "9591070162",
+              "-id": "9592160019",
               "-ft": "20211012082000",
               "-to": "20211012113000",
               "-ftl": "0820",
@@ -593,8 +590,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "井津葉子",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/r2iicbggnv.jpg",
+              "pfm": "村山佐織",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e5edadfb-2be4-41c8-829e-665a2d44227c.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -603,20 +600,29 @@
               }
             },
             {
-              "-id": "9591246268",
+              "-id": "9592163290",
               "-ft": "20211012113000",
               "-to": "20211012114000",
               "-ftl": "1130",
               "-tol": "1140",
               "-dur": "600",
-              "title": "氷川きよし節",
+              "title": "氷川きよし　限界突破ＲＡＤＩＯ",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "文化放送「スターは君だ！」で芸能界入りし、今や絶大な人気を誇る歌手・氷川きよしがお届けする'のんびり'した番組です。",
               "pfm": "氷川きよし",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/c0935f88-591b-4ae3-9da5-9a7bc04e9c26.png",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -625,20 +631,60 @@
               }
             },
             {
-              "-id": "9591067571",
+              "-id": "9592163292",
               "-ft": "20211012114000",
               "-to": "20211012114500",
               "-ftl": "1140",
               "-tol": "1145",
               "-dur": "300",
+              "title": "カミさまのあしたの出来事、聞いとくれっ！",
+              "url": "http://www.rkc-kochi.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "過去に起きた「明日」の出来事をカミさまが楽しく面白く紹介します！",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e00a0728-47ac-478a-8a8b-b266b8fc7fca.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "カミさま"
+                  },
+                  {
+                    "name": "あしたの出来事"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9592163294",
+              "-ft": "20211012114500",
+              "-to": "20211012120000",
+              "-ftl": "1145",
+              "-tol": "1200",
+              "-dur": "900",
               "title": "ＬＵＮＣＨリクエスト",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "リクエスト曲をお届け",
-              "pfm": "高知放送アナウンサー",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "desc": "ランチタイムまでもう少し！素敵な音楽でお楽しみください。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/4f64a065-85b6-450b-bd2e-e23af64b9e33.png",
               "tag": {
                 "item": [
                   {
@@ -670,80 +716,20 @@
               }
             },
             {
-              "-id": "9591249487",
-              "-ft": "20211012114500",
-              "-to": "20211012115000",
-              "-ftl": "1145",
-              "-tol": "1150",
-              "-dur": "300",
-              "title": "聖教新聞　Ｐｒｅｓｅｎｔｓ　渡辺徹　家族の時間",
-              "url": "http://www.rkc-kochi.co.jp/radio/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "pfm": "渡辺徹",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/1zq8mp31sd.png",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9591061413",
-              "-ft": "20211012115000",
-              "-to": "20211012120000",
-              "-ftl": "1150",
-              "-tol": "1200",
-              "-dur": "600",
-              "title": "くにまるジャパン　極シアター",
-              "url": "http://www.rkc-kochi.co.jp/radio/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/k4fzpifzd8.png",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9591081162",
+              "-id": "9592163307",
               "-ft": "20211012120000",
-              "-to": "20211012120500",
+              "-to": "20211012123000",
               "-ftl": "1200",
-              "-tol": "1205",
-              "-dur": "300",
-              "title": "カミさまのあしたの出来事、聞いとくれっ！",
+              "-tol": "1230",
+              "-dur": "1800",
+              "title": "松村邦洋のＯＨー！邦自慢",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "過去に起きた「明日」の出来事を紹介",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "カミさま"
-                  },
-                  {
-                    "name": "あしたの出来事"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P015",
-                  "name": "教養"
-                }
-              },
+              "desc": "山口出身の松村邦洋がラジオで町おこし！毎週色々な地方出身のゲストを迎え、地元民だから知る隠れた名産や特産品などを紹介！",
+              "pfm": "松村 邦洋",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/021b4e52-901b-4deb-b5d7-22c296b98d35.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -752,61 +738,17 @@
               }
             },
             {
-              "-id": "9591649410",
-              "-ft": "20211012120500",
-              "-to": "20211012121000",
-              "-ftl": "1205",
-              "-tol": "1210",
-              "-dur": "300",
-              "title": "はがきでこんにちは",
-              "url": "http://www.rkc-kochi.co.jp/radio/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "俳優の近石真介が毎日1通送られてきたハガキを紹介する",
-              "pfm": "近石真介",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9591046371",
-              "-ft": "20211012121000",
-              "-to": "20211012122000",
-              "-ftl": "1210",
-              "-tol": "1220",
-              "-dur": "600",
-              "title": "ドクターごとうの熱血訪問クリニック",
-              "url": "http://www.rkc-kochi.co.jp/radio/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "日常の診療現場で見た事、聞いた事。介護に関する質問、普段の嬉しい事、困った事、家族に話しにくい事等、お便りを募集し紹介",
-              "pfm": "五島朋幸",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9591246298",
-              "-ft": "20211012122000",
-              "-to": "20211012124000",
-              "-ftl": "1220",
-              "-tol": "1240",
+              "-id": "9592163309",
+              "-ft": "20211012123000",
+              "-to": "20211012125000",
+              "-ftl": "1230",
+              "-tol": "1250",
               "-dur": "1200",
               "title": "テレフォン　人生相談",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
-              "ts_in_ng": "1",
-              "ts_out_ng": "1",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
               "desc": "リスナーの電話相談に回答者が答える。",
               "pfm": "加藤諦三",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/2w5x0yoyqs.jpg",
@@ -844,35 +786,13 @@
               }
             },
             {
-              "-id": "9591061484",
-              "-ft": "20211012124000",
-              "-to": "20211012125000",
-              "-ftl": "1240",
-              "-tol": "1250",
-              "-dur": "600",
-              "title": "河村通夫の大自然まるかじりライフ",
-              "url": "http://www.rkc-kochi.co.jp/radio/",
-              "failed_record": "0",
-              "ts_in_ng": "2",
-              "ts_out_ng": "2",
-              "desc": "河村通夫が送る健康と自然をテーマにした番組。",
-              "pfm": "河村通夫",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9591067636",
+              "-id": "9592163313",
               "-ft": "20211012125000",
               "-to": "20211012130000",
               "-ftl": "1250",
               "-tol": "1300",
               "-dur": "600",
-              "title": "ミュージック・ジグソーパズル",
+              "title": "ヒヨコで踊るラジオ",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -880,12 +800,12 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C010",
+                  "name": "タレント"
                 },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -896,7 +816,7 @@
               }
             },
             {
-              "-id": "9591025230",
+              "-id": "9592160038",
               "-ft": "20211012130000",
               "-to": "20211012130500",
               "-ftl": "1300",
@@ -909,20 +829,7 @@
               "ts_out_ng": "0",
               "desc": "高知県のニュース・全国のニュース",
               "pfm": "高知放送アナウンサー",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "防災士"
-                  },
-                  {
-                    "name": "高知のニュース"
-                  },
-                  {
-                    "name": "高知県"
-                  }
-                ]
-              },
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/9eabc8eb-ace9-4142-9c6c-44d95441292c.png",
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -941,76 +848,45 @@
               }
             },
             {
-              "-id": "9591453538",
+              "-id": "9592163326",
               "-ft": "20211012130500",
               "-to": "20211012131500",
               "-ftl": "1305",
               "-tol": "1315",
               "-dur": "600",
-              "title": "ドライバーズ・リクエスト",
+              "title": "ＧＩＦＴ～未来への贈り物～",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "全国のドライバーのみなさんを応援する番組。リクエストも受付。",
-              "pfm": "宮崎　瑠依・皆川　玲奈",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "desc": "週替わりで各界の著名人・有名人たちが登場。人生を変えたきっかけとなった書籍や楽曲等をエピソードと共に紹介します。",
+              "pfm": "馬場 典子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/8c011b65-77d2-48c1-911f-d339f7487940.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9592163327",
+              "-ft": "20211012131500",
+              "-to": "20211012164000",
+              "-ftl": "1315",
+              "-tol": "1640",
+              "-dur": "12300",
+              "title": "笑ジオ",
+              "url": "http://www.rkc-kochi.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "井上琢己・谷脇ななみ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/1b3d6edd-fee3-4f4f-8501-17724ae41915.png",
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9591084327",
-              "-ft": "20211012131500",
-              "-to": "20211012162500",
-              "-ftl": "1315",
-              "-tol": "1625",
-              "-dur": "11400",
-              "title": "～今日も元気に～「ぱわらじっ！！」",
-              "url": "http://www.rkc-kochi.co.jp/radio/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "フレッシュな情報から、医療・健康、グルメ、レジャー・イベントなど、暮らしに役立つ情報満載でお送りする生ワイド番組。",
-              "pfm": "武内有子・渡辺さおり",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/cuqaqnf16q.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9591067883",
-              "-ft": "20211012162500",
-              "-to": "20211012163000",
-              "-ftl": "1625",
-              "-tol": "1630",
-              "-dur": "300",
-              "title": "谷脇ななみのアサヒスーパードライで乾杯！",
-              "url": "http://www.rkc-kochi.co.jp/radio/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
                 },
                 "program": {
                   "-id": "P003",
@@ -1025,27 +901,7 @@
               }
             },
             {
-              "-id": "9591084362",
-              "-ft": "20211012163000",
-              "-to": "20211012164000",
-              "-ftl": "1630",
-              "-tol": "1640",
-              "-dur": "600",
-              "title": "ミュージックスクランブル",
-              "url": "http://www.rkc-kochi.co.jp/radio/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9591070620",
+              "-id": "9592160050",
               "-ft": "20211012164000",
               "-to": "20211012165000",
               "-ftl": "1640",
@@ -1056,7 +912,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "desc": "アメリカ出身で日本で詩人として活動するアーサー・ビナードが毎回テーマを取り上げ、今につながる「考えるヒント」を提供します",
+              "pfm": "アーサー・ビナード",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/3c347f95-1a95-40cd-95fb-b39837da9d20.png",
               "genre": {
                 "personality": {
                   "-id": "C012",
@@ -1075,7 +933,7 @@
               }
             },
             {
-              "-id": "9591081332",
+              "-id": "9592160051",
               "-ft": "20211012165000",
               "-to": "20211012170000",
               "-ftl": "1650",
@@ -1086,7 +944,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/i0j7zshd0k.jpg",
+              "pfm": "だいすけ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/00fef162-b8d4-4024-86a6-b3ae445fb446.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -1105,7 +964,7 @@
               }
             },
             {
-              "-id": "9591067928",
+              "-id": "9592160053",
               "-ft": "20211012170000",
               "-to": "20211012171500",
               "-ftl": "1700",
@@ -1119,11 +978,6 @@
               "desc": "ネットワーク各局との共同制作システムの下に一日の動きを、ラジオの武器である「実音」にこだわりながら伝える。",
               "pfm": "文化放送報道キャスター",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
-              "tag": {
-                "item": {
-                  "name": "全国ニュース"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -1142,20 +996,19 @@
               }
             },
             {
-              "-id": "9591649430",
+              "-id": "9592160055",
               "-ft": "20211012171500",
-              "-to": "20211012173000",
+              "-to": "20211012172500",
               "-ftl": "1715",
-              "-tol": "1730",
-              "-dur": "900",
-              "title": "ニュースクリップ",
+              "-tol": "1725",
+              "-dur": "600",
+              "title": "グラッツェ・ヴェルドゥーラ！",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "専門分野をもった５人の論客が曜日替わりで登場。日々溢れるニュースの中から、埋もれてしまった重要なニュースを掘り起こす",
-              "pfm": "荒川強啓・片桐千晶",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "desc": "全国で大人気！グラッツェミーレのドレッシングをより楽しめるシェフ直伝の活用法を紹介！またリスナーからのレシピも大募集中！",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/bb7921d5-951d-4534-b08c-5ca7d0f2d35a.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1164,25 +1017,41 @@
               }
             },
             {
-              "-id": "9591649434",
+              "-id": "9592160056",
+              "-ft": "20211012172500",
+              "-to": "20211012173000",
+              "-ftl": "1725",
+              "-tol": "1730",
+              "-dur": "300",
+              "title": "ハイスクール・バップス♪",
+              "url": "http://www.rkc-kochi.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "高知県内で音楽活動をしている高校生ミュージシャンの楽曲を紹介する５分番組！どんな音楽が飛び出してくるか？！ご期待下さい♪",
+              "pfm": "高知県内の高校生ミュージシャン",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/258db919-6813-4fd9-bc8f-a4c49d34ed25.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9592160057",
               "-ft": "20211012173000",
-              "-to": "20211012174800",
+              "-to": "20211012174600",
               "-ftl": "1730",
-              "-tol": "1748",
-              "-dur": "1080",
+              "-tol": "1746",
+              "-dur": "960",
               "title": "ネットワークトゥデイ",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "ニュースの決定版！TBS系の全国ラジオネットワーク＆海外支局をフル稼動！",
-              "pfm": "荒川強啓",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
-              "tag": {
-                "item": {
-                  "name": "全国ニュース"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -1201,40 +1070,19 @@
               }
             },
             {
-              "-id": "9591067949",
-              "-ft": "20211012174800",
+              "-id": "9592160058",
+              "-ft": "20211012174600",
               "-to": "20211012180000",
-              "-ftl": "1748",
+              "-ftl": "1746",
               "-tol": "1800",
-              "-dur": "720",
-              "title": "ＲＫＣラジオ夕刊",
+              "-dur": "840",
+              "title": "ＲＫＣイブニング・ニュース",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "高知県のニュース・全国のニュース",
-              "pfm": "高知放送アナウンサー",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "最新ニュース"
-                  },
-                  {
-                    "name": "報道"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
+              "desc": "高知県内のニュースや道路情報などを、いち早く分かりやすくお届けします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/b018a011-1383-420f-84b2-fe9444775488.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1243,41 +1091,19 @@
               }
             },
             {
-              "-id": "9591061794",
+              "-id": "9592163381",
               "-ft": "20211012180000",
               "-to": "20211012181000",
               "-ftl": "1800",
               "-tol": "1810",
-              "-dur": "600",
-              "title": "萩原健太のＭｕｓｉｃ　ＳＭｉＬＥ",
-              "url": "http://www.rkc-kochi.co.jp/radio/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "日本を代表する音楽評論家の萩原健太が洋楽から邦楽まで一週間、一つのテーマで特集。良質な音楽を選曲。",
-              "pfm": "萩原健太",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9591070774",
-              "-ft": "20211012181000",
-              "-to": "20211012182000",
-              "-ftl": "1810",
-              "-tol": "1820",
               "-dur": "600",
               "title": "堀内佳のきまぐれターンテーブル",
               "url": "http://www.rkc-kochi.co.jp/radio/kimagure/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "シンガーソングライター堀内佳さんが音楽とトークで送る10分間",
-              "info": "<a href='http://www.rkc-kochi.co.jp/radio/kimagure/'>http://www.rkc-kochi.co.jp/radio/kimagure/</a>",
+              "desc": "シンガーソングライター堀内佳さんが音楽とトークで送る10分間　",
+              "info": "<a href='http://www.rkc-kochi.co.jp/radio/kimagure/'>http://www.rkc-kochi.co.jp/radio/kimagure/</a>　",
               "pfm": "堀内 佳",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/34b59999-0cc2-4d12-87b1-b3f4167d9cb6.png",
               "tag": {
@@ -1308,26 +1134,50 @@
               }
             },
             {
-              "-id": "9590983321",
-              "-ft": "20211012182000",
-              "-to": "20211012184500",
-              "-ftl": "1820",
-              "-tol": "1845",
-              "-dur": "1500",
-              "title": "吉田照美の森羅万ＳＨＯＷ",
+              "-id": "9592160064",
+              "-ft": "20211012181000",
+              "-to": "20211012181500",
+              "-ftl": "1810",
+              "-tol": "1815",
+              "-dur": "300",
+              "title": "ＲＫＣ地震防災メモ",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/6001ed03-74d6-4223-8f8f-bc1a55e10566.jpeg",
+              "desc": "地震への備え、心がけておくおくべき事を日本防災士機の資格を取得した高知放送の防災士が分かりやすく解説します。",
+              "pfm": "村山 佐織",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/12a69e3e-675d-44bc-a4f9-b32345a1da73.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9592163383",
+              "-ft": "20211012181500",
+              "-to": "20211012184500",
+              "-ftl": "1815",
+              "-tol": "1845",
+              "-dur": "1800",
+              "title": "純烈・スーパー銭湯！！",
+              "url": "http://www.rkc-kochi.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "大人気！スーパー銭湯アイドル「純烈」が軽妙なトークとムード歌謡曲を送ります！",
+              "pfm": "純烈",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/5c6efb9e-c642-4914-aac5-bda25bec6fd1.jpeg",
               "genre": {
                 "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
+                  "-id": "C004",
+                  "name": "ミュージシャン"
                 },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -1338,7 +1188,7 @@
               }
             },
             {
-              "-id": "9591084431",
+              "-id": "9592160066",
               "-ft": "20211012184500",
               "-to": "20211012190000",
               "-ftl": "1845",
@@ -1360,18 +1210,20 @@
               }
             },
             {
-              "-id": "9591081426",
+              "-id": "9592163399",
               "-ft": "20211012190000",
               "-to": "20211012200000",
               "-ftl": "1900",
               "-tol": "2000",
               "-dur": "3600",
-              "title": "オールナイトニッポン Premium",
+              "title": "鶴光の噂のゴールデンリクエスト",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "desc": "人気生番組が復活！リクエストやテーマに沿ったエピソードも募集中！「ビンビン川柳」「あの子はだあれ」コーナーもお楽しみに。",
+              "pfm": "笑福亭鶴光・田中美和子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/bf5728e1-3f3e-4991-86b1-ef0d34e5fe0d.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1380,7 +1232,7 @@
               }
             },
             {
-              "-id": "9590983485",
+              "-id": "9592160073",
               "-ft": "20211012200000",
               "-to": "20211012210000",
               "-ftl": "2000",
@@ -1391,6 +1243,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "desc": "映画・音楽・アイドル・本などの分析や、独自視点による研究など\n日常の中にある「おもしろ」を掘り起こす！",
+              "pfm": "宇多丸（ライムスター）・宇垣美里",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/hto5wvjihd.jpg",
               "genre": {
                 "personality": {
@@ -1410,20 +1264,20 @@
               }
             },
             {
-              "-id": "9591084469",
+              "-id": "9592160077",
               "-ft": "20211012210000",
               "-to": "20211012220000",
               "-ftl": "2100",
               "-tol": "2200",
               "-dur": "3600",
               "title": "バンリク",
-              "url": "http://www2.jrt.co.jp/cgi-bin3/banriku/diary.cgi",
+              "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "四国放送ラジオ制作のリクエスト番組",
               "pfm": "四国放送アナウンサー",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/63cf5898-d007-4c30-b4d8-6354e9f94194.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -1442,20 +1296,20 @@
               }
             },
             {
-              "-id": "9591084487",
+              "-id": "9592160081",
               "-ft": "20211012220000",
               "-to": "20211012230000",
               "-ftl": "2200",
               "-tol": "2300",
               "-dur": "3600",
               "title": "バンリク",
-              "url": "http://www2.jrt.co.jp/cgi-bin3/banriku/diary.cgi",
+              "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "四国放送ラジオ制作のリクエスト番組",
               "pfm": "四国放送アナウンサー",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/63cf5898-d007-4c30-b4d8-6354e9f94194.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -1474,7 +1328,7 @@
               }
             },
             {
-              "-id": "9591055063",
+              "-id": "9592160084",
               "-ft": "20211012230000",
               "-to": "20211013000000",
               "-ftl": "2300",
@@ -1489,11 +1343,6 @@
               "info": "<a href='http://www.rkc-kochi.co.jp/radio/doukana/' target='blank'>http://www.rkc-kochi.co.jp/radio/doukana/</a>",
               "pfm": "田村ワロー",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/ac1f5587-141d-4779-b382-18c17e3ae0f7.png",
-              "tag": {
-                "item": {
-                  "name": "田村和郎"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -1512,7 +1361,7 @@
               }
             },
             {
-              "-id": "9591246579",
+              "-id": "9592160090",
               "-ft": "20211013000000",
               "-to": "20211013010000",
               "-ftl": "2400",
@@ -1543,7 +1392,7 @@
               }
             },
             {
-              "-id": "9591246630",
+              "-id": "9592160094",
               "-ft": "20211013010000",
               "-to": "20211013030000",
               "-ftl": "2500",
@@ -1573,7 +1422,7 @@
               }
             },
             {
-              "-id": "9591246677",
+              "-id": "9592160101",
               "-ft": "20211013030000",
               "-to": "20211013043000",
               "-ftl": "2700",
@@ -1604,7 +1453,7 @@
               }
             },
             {
-              "-id": "9591246703",
+              "-id": "9592160105",
               "-ft": "20211013043000",
               "-to": "20211013050000",
               "-ftl": "2830",
@@ -1615,7 +1464,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/b86a1484-86f6-459f-b7f8-6255c8b875a8.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C010",
