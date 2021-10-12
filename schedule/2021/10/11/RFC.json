@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1633975491",
+    "srvtime": "1634061940",
     "stations": {
       "station": {
         "-id": "RFC",
@@ -125,7 +125,7 @@
               }
             },
             {
-              "-id": "9592126490",
+              "-id": "9592299223",
               "-ft": "20211011053000",
               "-to": "20211011063000",
               "-ftl": "0530",
@@ -139,6 +139,16 @@
               "desc": "コンセプトは聴くスポーツ新聞。ニュース、スポーツ、健康、シニアライフなどをキーワードに生島ヒロシがわかりやすく伝える。",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/lee2u5c324.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -785,7 +795,7 @@
               }
             },
             {
-              "-id": "9592126658",
+              "-id": "9592310037",
               "-ft": "20211011220000",
               "-to": "20211012000000",
               "-ftl": "2200",
@@ -799,6 +809,12 @@
               "desc": "SexyZoneのQrzone（22:30 ごろ）",
               "pfm": "オテンキのり",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/qf3tgc9x7m.png",
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -807,7 +823,7 @@
               }
             },
             {
-              "-id": "9592126678",
+              "-id": "9592310073",
               "-ft": "20211012000000",
               "-to": "20211012010000",
               "-ftl": "2400",
@@ -821,6 +837,12 @@
               "desc": "KinKi Kids  どんなもんヤ！",
               "pfm": "オテンキのり",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/qf3tgc9x7m.png",
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -829,7 +851,7 @@
               }
             },
             {
-              "-id": "9592126698",
+              "-id": "9592310095",
               "-ft": "20211012010000",
               "-to": "20211012030000",
               "-ftl": "2500",
@@ -842,6 +864,16 @@
               "ts_out_ng": "0",
               "pfm": "菅田将暉",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/mhg43q1f0l.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C002",
+                  "name": "俳優"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
