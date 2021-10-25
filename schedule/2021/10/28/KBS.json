@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1635012507",
+    "srvtime": "1635185124",
     "stations": {
       "station": {
         "-id": "KBS",
@@ -539,13 +539,13 @@
               }
             },
             {
-              "-id": "9593972189",
+              "-id": "9594489867",
               "-ft": "20211028193000",
               "-to": "20211028201000",
               "-ftl": "1930",
               "-tol": "2010",
               "-dur": "2400",
-              "title": "政見放送・滋賀",
+              "title": "衆議院滋賀県選挙区選出議員選挙 政見放送",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -558,17 +558,80 @@
               }
             },
             {
-              "-id": "9593972192",
+              "-id": "9594489872",
               "-ft": "20211028201000",
-              "-to": "20211028210000",
+              "-to": "20211028205000",
               "-ftl": "2010",
-              "-tol": "2100",
-              "-dur": "3000",
-              "title": "政見放送・京都",
+              "-tol": "2050",
+              "-dur": "2400",
+              "title": "衆議院京都府選挙区選出議員選挙 政見放送",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/byr2599k0i.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9594511009",
+              "-ft": "20211028205000",
+              "-to": "20211028205500",
+              "-ftl": "2050",
+              "-tol": "2055",
+              "-dur": "300",
+              "title": "京都四季彩",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/xcb5ekd4bc.jpg",
+              "tag": {
+                "item": {
+                  "name": "海平和"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9594498949",
+              "-ft": "20211028205500",
+              "-to": "20211028210000",
+              "-ftl": "2055",
+              "-tol": "2100",
+              "-dur": "300",
+              "title": "京都フォークディズ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/exs35qbdln.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
