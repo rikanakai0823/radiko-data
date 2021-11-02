@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1635789955",
+    "srvtime": "1635876389",
     "stations": {
       "station": {
         "-id": "JORF",
@@ -315,7 +315,7 @@
               }
             },
             {
-              "-id": "9595650507",
+              "-id": "9595780263",
               "-ft": "20211107081000",
               "-to": "20211107083000",
               "-ftl": "0810",
@@ -338,7 +338,7 @@
               }
             },
             {
-              "-id": "9595650509",
+              "-id": "9595780265",
               "-ft": "20211107083000",
               "-to": "20211107084500",
               "-ftl": "0830",
@@ -352,6 +352,16 @@
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
               "pfm": "佐藤直文（優馬）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JORF/2a3d6b87-cd38-49ef-bcc2-4dfd3cbf36c6.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P019",
+                  "name": "公営競技"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -400,7 +410,7 @@
               }
             },
             {
-              "-id": "9595650517",
+              "-id": "9595851139",
               "-ft": "20211107091500",
               "-to": "20211107093000",
               "-ftl": "0915",
@@ -413,8 +423,18 @@
               "ts_out_ng": "0",
               "desc": "▽作家の神津カンナが、“最近、注目している人”“ずっと気になっていた人”をゲストに迎えて、ちょっと知的でとにかく楽しいトークをくりひろげます。",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
-              "pfm": "神津カンナ",
+              "pfm": "神津カンナ　ゲスト：渡辺賢治さん（慶應義塾大学医学部・漢方医学センター客員教授）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JORF/2a3d6b87-cd38-49ef-bcc2-4dfd3cbf36c6.png",
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -423,7 +443,7 @@
               }
             },
             {
-              "-id": "9595679893",
+              "-id": "9595828391",
               "-ft": "20211107093000",
               "-to": "20211107130000",
               "-ftl": "0930",
@@ -472,7 +492,7 @@
               }
             },
             {
-              "-id": "9595679939",
+              "-id": "9595828468",
               "-ft": "20211107130000",
               "-to": "20211107163500",
               "-ftl": "1300",
@@ -602,7 +622,7 @@
               }
             },
             {
-              "-id": "9595650564",
+              "-id": "9595780397",
               "-ft": "20211107172000",
               "-to": "20211107173500",
               "-ftl": "1720",
@@ -625,7 +645,7 @@
               }
             },
             {
-              "-id": "9595650566",
+              "-id": "9595780402",
               "-ft": "20211107173500",
               "-to": "20211107175000",
               "-ftl": "1735",
@@ -799,7 +819,7 @@
               }
             },
             {
-              "-id": "9595650593",
+              "-id": "9595780463",
               "-ft": "20211107213000",
               "-to": "20211107220000",
               "-ftl": "2130",
@@ -814,6 +834,21 @@
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E7%BE%8E%E7%8D%A3\">#美獣</a>」",
               "pfm": "清野茂樹",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JORF/a29ce7c5-5b00-4ada-ac36-527db6bfbf65.jpeg",
+              "tag": {
+                "item": {
+                  "name": "#美獣"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -822,7 +857,7 @@
               }
             },
             {
-              "-id": "9595650598",
+              "-id": "9595780476",
               "-ft": "20211107220000",
               "-to": "20211107223000",
               "-ftl": "2200",
@@ -837,6 +872,32 @@
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%9E%E3%82%B8%E3%83%A9%E3%82%B8\">#マジラジ</a>」",
               "pfm": "マジカル・パンチライン",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JORF/f946236f-5986-4990-87ea-0e34211251d6.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "#fm924"
+                  },
+                  {
+                    "name": "#am1422"
+                  },
+                  {
+                    "name": "#マジラジ"
+                  },
+                  {
+                    "name": "#マジパン"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -867,7 +928,7 @@
               }
             },
             {
-              "-id": "9595680064",
+              "-id": "9595828653",
               "-ft": "20211107230000",
               "-to": "20211107233000",
               "-ftl": "2300",
@@ -916,7 +977,7 @@
               }
             },
             {
-              "-id": "9595650608",
+              "-id": "9595780504",
               "-ft": "20211107233000",
               "-to": "20211108000000",
               "-ftl": "2330",
@@ -931,6 +992,32 @@
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23bakunai1422\">#bakunai1422</a>」",
               "pfm": "元祖爆笑王 金澤朋子(Juice=Juice)",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JORF/c4968db9-a207-4711-960d-61ecf9d3c1ea.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "#bakunai1422"
+                  },
+                  {
+                    "name": "#juicejuice"
+                  },
+                  {
+                    "name": "#金澤朋子"
+                  },
+                  {
+                    "name": "#元祖爆笑王"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -939,7 +1026,7 @@
               }
             },
             {
-              "-id": "9595650612",
+              "-id": "9595780511",
               "-ft": "20211108000000",
               "-to": "20211108003000",
               "-ftl": "2400",
@@ -954,6 +1041,26 @@
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23as1422\">#as1422</a>」",
               "pfm": "アンジュルム",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JORF/205a9a80-0809-4a10-9c84-94329b6f5238.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "#as1422"
+                  },
+                  {
+                    "name": "#ANGERME"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
