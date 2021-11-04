@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1635962782",
+    "srvtime": "1636049179",
     "stations": {
       "station": {
         "-id": "AIR-G",
@@ -1302,25 +1302,31 @@
               }
             },
             {
-              "-id": "9596006015",
+              "-id": "9596146328",
               "-ft": "20211107190000",
               "-to": "20211107200000",
               "-ftl": "1900",
               "-tol": "2000",
               "-dur": "3600",
               "title": "勝手にアイドル祭り’21 ～Push Posh Wish～",
-              "url": "https://www.air-g.co.jp/",
+              "url": "https://www.air-g.co.jp/idol21aki/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/FU/person/4334_17296314_sq.jpg\" height=\"60\" width=\"60\" alt=\"森本 優\"></td>  </tr></table><br /><br />\t本日のゲスト：\t\tナナランド\t\t\t、\t\tシンデレラ宣言！\t<br />\t<br />\t番組Webサイト：<a href=\"https://www.air-g.co.jp/\">https://www.air-g.co.jp/</a><br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/FU/person/4334_17296314_sq.jpg\" height=\"60\" width=\"60\" alt=\"森本 優\"></td>  </tr></table><br /><br />\t本日のゲスト：\t\tナナランド\t\t\t、\t\tシンデレラ宣言！\t<br />\t<br />\t番組Webサイト：<a href=\"https://www.air-g.co.jp/idol21aki/\">https://www.air-g.co.jp/idol21aki/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%8B%9D%E6%89%8B%E3%81%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB\">#勝手にアイドル</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/AIRG_FM\">@AIRG_FM</a>」<br /><br /></div>",
               "pfm": "森本 優",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/AIR-G/2mk414w4pv.jpg",
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#勝手にアイドル"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:AIRG_FM"
+                  }
+                ]
               }
             },
             {
