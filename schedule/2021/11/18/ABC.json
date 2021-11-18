@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1637172409",
+    "srvtime": "1637258764",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -10,7 +10,7 @@
           "date": "20211118",
           "prog": [
             {
-              "-id": "9598240909",
+              "-id": "9598444925",
               "-ft": "20211118050000",
               "-to": "20211118063000",
               "-ftl": "0500",
@@ -25,20 +25,9 @@
               "pfm": "芦沢誠　  「今朝のもしもしコラムは掃除& 片付け術！そろそろ始動！大掃除！玄関の大掃除！」　  ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/415f1ab2-14d8-44ce-8a82-604fdc186ba9.jpeg",
               "tag": {
-                "item": [
-                  {
-                    "name": "朝も早よから"
-                  },
-                  {
-                    "name": "ビール"
-                  },
-                  {
-                    "name": "もしもしコラム"
-                  },
-                  {
-                    "name": "芦沢誠"
-                  }
-                ]
+                "item": {
+                  "name": "ニュース"
+                }
               },
               "genre": {
                 "personality": {
@@ -46,8 +35,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -64,7 +53,7 @@
               }
             },
             {
-              "-id": "9598262480",
+              "-id": "9598444926",
               "-ft": "20211118063000",
               "-to": "20211118090000",
               "-ftl": "0630",
@@ -96,12 +85,12 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C010",
+                  "name": "タレント"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -118,7 +107,7 @@
               }
             },
             {
-              "-id": "9598240918",
+              "-id": "9598444927",
               "-ft": "20211118090000",
               "-to": "20211118120000",
               "-ftl": "0900",
@@ -147,38 +136,6 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9597303568",
-              "-ft": "20211118120000",
-              "-to": "20211118150000",
-              "-ftl": "1200",
-              "-tol": "1500",
-              "-dur": "10800",
-              "title": "ますだおかだ増田のラジオハンター",
-              "url": "https://www.abc1008.com/radio-hunter/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_masuda_takeda.jpg\" width=\"100\"><BR><BR>番組Twitter アカウント：<a href=\"https://twitter.com/mmrh1008933\">@mmrh1008933</a><BR>ハッシュタグ「# ラジハン」を付けてツイートしてね！<BR><BR>ABC ラジオ公式Twitter アカウント：<a href=\"https://twitter.com/abc1008khz\">@abc1008khz</a><BR>ハッシュタグ「#ABCラジオ」を付けてツイートしてね！<BR><BR>メールアドレス：<a href=\"mailto:rh@abc1008.com\">rh@abc1008.com</a><BR><BR><BR>",
-              "pfm": "ますだおかだ増田、  武田和歌子",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/bb7ffdc8-72ed-43cf-ad14-d2f056262fdb.jpeg",
-              "genre": {
-                "personality": {
                   "-id": "C010",
                   "name": "タレント"
                 },
@@ -195,7 +152,39 @@
               }
             },
             {
-              "-id": "9598240931",
+              "-id": "9598515907",
+              "-ft": "20211118120000",
+              "-to": "20211118150000",
+              "-ftl": "1200",
+              "-tol": "1500",
+              "-dur": "10800",
+              "title": "ますだおかだ増田のラジオハンター",
+              "url": "https://www.abc1008.com/radio-hunter/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_masuda_takeda.jpg\" width=\"100\"><BR><BR>番組Twitter アカウント：<a href=\"https://twitter.com/mmrh1008933\">@mmrh1008933</a><BR>ハッシュタグ「# ラジハン」を付けてツイートしてね！<BR><BR>ABC ラジオ公式Twitter アカウント：<a href=\"https://twitter.com/abc1008khz\">@abc1008khz</a><BR>ハッシュタグ「#ABCラジオ」を付けてツイートしてね！<BR><BR>メールアドレス：<a href=\"mailto:rh@abc1008.com\">rh@abc1008.com</a><BR><BR><BR>",
+              "pfm": "ますだおかだ増田、  武田和歌子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/bb7ffdc8-72ed-43cf-ad14-d2f056262fdb.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9598444932",
               "-ft": "20211118150000",
               "-to": "20211118174500",
               "-ftl": "1500",
@@ -209,16 +198,6 @@
               "info": "「キングの新鮮ねたみ▼中西正男の味増す話▼塩田えみ」<BR><BR><BR><img src=\"https://www.abc1008.com/program/personality/photo/photo_urakawa_y.jpg\" width=\"100\"><img src=\"https://www.abc1008.com/program/personality/photo/photo_shiota.jpg\" width=\"100\"><BR><BR><img src=\"https://www.abc1008.com/program/personality/photo/photo_nakanishi.jpg\" width=\"100\"><BR><BR>番組 Twitterアカウント：<a href=\"https://twitter.com/uraurakin\">@uraurakin</a><BR>ハッシュタグ「# ウラウラ」を付けてツイートしてね！<BR><BR>ABC ラジオ公式 Twitter：<a href=\"https://twitter.com/abc1008khz\">@abc1008khz</a><BR>ハッシュタグ「#ABCラジオ」を付けてツイートしてね！<BR><BR>メールアドレス：<a href=\"mailto:ura@abc1008.com\">ura@abc1008.com</a><BR><BR><BR>",
               "pfm": "浦川泰幸、  塩田えみ、  中西正男　  「キングの新鮮ねたみ▼中西正男の味増す話▼塩田えみ」　  ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/a0ef4470-9c75-496b-a0ab-237117642ccb.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -227,7 +206,7 @@
               }
             },
             {
-              "-id": "9597289922",
+              "-id": "9598444935",
               "-ft": "20211118174500",
               "-to": "20211118175500",
               "-ftl": "1745",
@@ -239,16 +218,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/0108af8a-9b1e-4e37-b384-f8bc2c64c010.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -257,7 +226,7 @@
               }
             },
             {
-              "-id": "9597197056",
+              "-id": "9598444936",
               "-ft": "20211118175500",
               "-to": "20211118180000",
               "-ftl": "1755",
@@ -277,7 +246,7 @@
               }
             },
             {
-              "-id": "9597289955",
+              "-id": "9598515981",
               "-ft": "20211118180000",
               "-to": "20211118190000",
               "-ftl": "1800",
@@ -291,6 +260,16 @@
               "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_takano_jun.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR><BR>",
               "pfm": "高野純一、  桧山進次郎",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/6e242003-9d34-4bc8-95d2-af1e096b6e61.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C013",
+                  "name": "アスリート"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -299,7 +278,7 @@
               }
             },
             {
-              "-id": "9598240940",
+              "-id": "9598444938",
               "-ft": "20211118190000",
               "-to": "20211118210000",
               "-ftl": "1900",
@@ -313,16 +292,6 @@
               "info": "「ブラ史隆神戸新開地散歩第３弾と向井亜季の吹奏楽部」<BR><BR><BR><img src=\"https://www.abc1008.com/program/personality/photo/photo_ito.jpg\" width=\"100\"><img src=\"https://www.abc1008.com/program/personality/photo/photo_mukai.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:note@abc1008.com\">note@abc1008.com</a><BR><BR><BR>",
               "pfm": "伊藤史隆、  向井亜季　  「ブラ史隆神戸新開地散歩第３弾と向井亜季の吹奏楽部」　  ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/070115ef-cf4d-4f21-80e6-09825f04d509.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -331,7 +300,7 @@
               }
             },
             {
-              "-id": "9597197358",
+              "-id": "9598444939",
               "-ft": "20211118210000",
               "-to": "20211118210500",
               "-ftl": "2100",
@@ -351,7 +320,7 @@
               }
             },
             {
-              "-id": "9597290092",
+              "-id": "9598516025",
               "-ft": "20211118210500",
               "-to": "20211118215000",
               "-ftl": "2105",
@@ -365,6 +334,16 @@
               "info": "<img src=\"https://www.abc1008.com/img/program/yoasobi.jpg\" width=\"100\"><BR><BR>番組Twitter アカウント：<a href=\"https://twitter.com/yorukoko1008\">@yorukoko1008</a><BR>ハッシュタグ「# 夜ココ」を付けてツイートしてね！<BR><BR>ABC ラジオ公式Twitter アカウント：<a href=\"https://twitter.com/abc1008khz\">@abc1008khz</a><BR>ハッシュタグ「#ABCラジオ」を付けてツイートしてね！<BR><BR>メールアドレス：<a href=\"mailto:tm@abc1008.com\">tm@abc1008.com</a><BR><BR><BR>",
               "pfm": "田淵麻里奈",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/fb072740-8f7d-4782-82df-46d5d9c50e55.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -373,7 +352,7 @@
               }
             },
             {
-              "-id": "9597279092",
+              "-id": "9598448293",
               "-ft": "20211118215000",
               "-to": "20211118220000",
               "-ftl": "2150",
@@ -386,6 +365,16 @@
               "ts_out_ng": "0",
               "pfm": "滝本沙奈",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/4xhcfovoph.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C013",
+                  "name": "アスリート"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -394,7 +383,7 @@
               }
             },
             {
-              "-id": "9598240947",
+              "-id": "9598444942",
               "-ft": "20211118220000",
               "-to": "20211119003000",
               "-ftl": "2200",
@@ -408,16 +397,6 @@
               "info": "「つばきファクトリーに盟友増田紗織アナがインタビュー！▼ベリーグッドマン・ロバー」<BR><BR><BR><img src=\"https://www.abc1008.com/program/personality/photo/photo_masuda_saor.jpg\" width=\"100\"><BR><BR><img src=\"https://www.abc1008.com/program/personality/photo/photo_rover.jpg\" width=\"100\"><BR><BR>ＡＢＣラジオがお送りする深夜の音楽バラエティ！<BR><BR>「# 聴くSNS 」をテーマに<BR>最新曲から誰もが知るヒット曲まで幅広く選曲、<BR>そして爆笑…とは言わないまでも、クスッと笑える生放送をお届けします。<BR><BR>★音バズでおなじみ、つばきファクトリーから<BR>　岸本ゆめの、秋山眞緒、河西結心にインタビュー！<BR><BR>22時台<BR>▼最新エンタメニュースをおさらい「ミューパラヘッドライン」<BR>▼リリース前の最新曲やバズってるあの曲！<BR>今夜聴くべき楽曲をお届け「ミューパラプレイリスト」<BR><BR>23時台<BR>▼テーマリクエストや一風変わった選曲で送る<BR>　「ミューパラプレイリスト２」<BR>▼ミニゲームで曜日ごとに対決！<BR>「曜日横断！ミューパラチャンピオンシップ」<BR><BR>24時台<BR>▼曜日ごとのスペシャル企画！<BR>　音楽番組にあるまじき変なコーナー&<BR>他では見せないパーソナリティの意外な一面も…<BR><BR>メールアドレス：<a href=\"mailto:mp@abc1008.com\">mp@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%91%E3%83%A9\">#ミューパラ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abcmp1008933\">@abcmp1008933</a>」<BR><BR><BR>",
               "pfm": "増田紗織、  Rover(ベリーグッドマン）　  「つばきファクトリーに盟友増田紗織アナがインタビュー！▼ベリーグッドマン・ロバー」　  ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/3fdf2ee6-ca57-4aee-9dd8-05135c12cede.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": [
                   {
@@ -432,7 +411,7 @@
               }
             },
             {
-              "-id": "9597447805",
+              "-id": "9598516066",
               "-ft": "20211119003000",
               "-to": "20211119010000",
               "-ftl": "2430",
@@ -447,6 +426,10 @@
               "pfm": "鈴木淳史、  斎藤真美",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/99768733-9598-4ef2-836b-7bbd771780a9.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
@@ -460,7 +443,7 @@
               }
             },
             {
-              "-id": "9597447858",
+              "-id": "9598516073",
               "-ft": "20211119010000",
               "-to": "20211119013000",
               "-ftl": "2500",
@@ -474,6 +457,16 @@
               "info": "2 次元×3 次元がクロスする!?<BR>新しい形のメディアミックス演劇コンテンツ<BR>『青山オペレッタ』Project の最新情報を毎週発信！<BR>記念すべき100 期生新チーム「ノーヴァ」のメンバーを中心に、<BR>出演者の素顔をお楽しみ下さい！<BR><BR><BR>番組Twitter アカウント：<a href=\"https://twitter.com/radio_operetta\">@aoyama_operetta</a><BR>ハッシュタグ「# ラジオぺ」を付けてツイートしてね！<BR><BR>ABC ラジオ公式Twitter アカウント：<ahref=\"https://twitter.com/abc1008khz\">@abc1008khz</a><BR>ハッシュタグ「#ABCラジオ」を付けてツイートしてね！<BR><BR>メールアドレス：<a href=\"mailto:ao@abc1008.com\">ao@abc1008.com</a> <BR><BR><BR>",
               "pfm": "長江崚行、  中山優貴、  大隅勇太、  矢部昌暉大平峻也、  友常勇気",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/6ca849f8-2fc1-490c-b77f-227ab26ac7f6.png",
+              "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -482,7 +475,7 @@
               }
             },
             {
-              "-id": "9597447871",
+              "-id": "9598516080",
               "-ft": "20211119013000",
               "-to": "20211119020000",
               "-ftl": "2530",
@@ -494,6 +487,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -502,7 +501,7 @@
               }
             },
             {
-              "-id": "9597447909",
+              "-id": "9598516081",
               "-ft": "20211119020000",
               "-to": "20211119030000",
               "-ftl": "2600",
@@ -514,6 +513,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -522,7 +527,7 @@
               }
             },
             {
-              "-id": "9597447973",
+              "-id": "9598516092",
               "-ft": "20211119030000",
               "-to": "20211119040000",
               "-ftl": "2700",
@@ -534,6 +539,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -542,7 +553,7 @@
               }
             },
             {
-              "-id": "9597448030",
+              "-id": "9598516097",
               "-ft": "20211119040000",
               "-to": "20211119041500",
               "-ftl": "2800",
@@ -554,6 +565,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -562,7 +579,7 @@
               }
             },
             {
-              "-id": "9597448038",
+              "-id": "9598444949",
               "-ft": "20211119041500",
               "-to": "20211119043500",
               "-ftl": "2815",
@@ -583,7 +600,7 @@
               }
             },
             {
-              "-id": "9597353853",
+              "-id": "9598444950",
               "-ft": "20211119043500",
               "-to": "20211119044500",
               "-ftl": "2835",
@@ -603,7 +620,7 @@
               }
             },
             {
-              "-id": "9597438823",
+              "-id": "9598444951",
               "-ft": "20211119044500",
               "-to": "20211119045000",
               "-ftl": "2845",
@@ -623,7 +640,7 @@
               }
             },
             {
-              "-id": "9597412486",
+              "-id": "9598444952",
               "-ft": "20211119045000",
               "-to": "20211119050000",
               "-ftl": "2850",

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1637172466",
+    "srvtime": "1637258818",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -10,7 +10,7 @@
           "date": "20211123",
           "prog": [
             {
-              "-id": "9598107420",
+              "-id": "9598444443",
               "-ft": "20211123050000",
               "-to": "20211123063000",
               "-ftl": "0500",
@@ -25,20 +25,9 @@
               "pfm": "芦沢誠",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/415f1ab2-14d8-44ce-8a82-604fdc186ba9.jpeg",
               "tag": {
-                "item": [
-                  {
-                    "name": "朝も早よから"
-                  },
-                  {
-                    "name": "ビール"
-                  },
-                  {
-                    "name": "もしもしコラム"
-                  },
-                  {
-                    "name": "芦沢誠"
-                  }
-                ]
+                "item": {
+                  "name": "ニュース"
+                }
               },
               "genre": {
                 "personality": {
@@ -46,8 +35,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -64,7 +53,7 @@
               }
             },
             {
-              "-id": "9598099936",
+              "-id": "9598444448",
               "-ft": "20211123063000",
               "-to": "20211123090000",
               "-ftl": "0630",
@@ -96,12 +85,12 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C010",
+                  "name": "タレント"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -118,7 +107,7 @@
               }
             },
             {
-              "-id": "9598100690",
+              "-id": "9598444453",
               "-ft": "20211123090000",
               "-to": "20211123120000",
               "-ftl": "0900",
@@ -147,12 +136,12 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C010",
+                  "name": "タレント"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -163,7 +152,7 @@
               }
             },
             {
-              "-id": "9598100038",
+              "-id": "9598444460",
               "-ft": "20211123120000",
               "-to": "20211123150000",
               "-ftl": "1200",
@@ -195,7 +184,7 @@
               }
             },
             {
-              "-id": "9598107803",
+              "-id": "9598444472",
               "-ft": "20211123150000",
               "-to": "20211123174500",
               "-ftl": "1500",
@@ -215,8 +204,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -227,7 +216,7 @@
               }
             },
             {
-              "-id": "9598101047",
+              "-id": "9598444481",
               "-ft": "20211123174500",
               "-to": "20211123175500",
               "-ftl": "1745",
@@ -259,7 +248,7 @@
               }
             },
             {
-              "-id": "9598064770",
+              "-id": "9598444482",
               "-ft": "20211123175500",
               "-to": "20211123180000",
               "-ftl": "1755",
@@ -279,7 +268,7 @@
               }
             },
             {
-              "-id": "9598109153",
+              "-id": "9598449628",
               "-ft": "20211123180000",
               "-to": "20211123190000",
               "-ftl": "1800",
@@ -293,6 +282,16 @@
               "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_takano_jun.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR><BR>",
               "pfm": "高野純一、  関本賢太郎",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/6e242003-9d34-4bc8-95d2-af1e096b6e61.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C013",
+                  "name": "アスリート"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -301,7 +300,7 @@
               }
             },
             {
-              "-id": "9598108061",
+              "-id": "9598444488",
               "-ft": "20211123190000",
               "-to": "20211123210000",
               "-ftl": "1900",
@@ -333,7 +332,7 @@
               }
             },
             {
-              "-id": "9598064785",
+              "-id": "9598444493",
               "-ft": "20211123210000",
               "-to": "20211123210500",
               "-ftl": "2100",
@@ -353,7 +352,7 @@
               }
             },
             {
-              "-id": "9598109186",
+              "-id": "9598449656",
               "-ft": "20211123210500",
               "-to": "20211123215000",
               "-ftl": "2105",
@@ -367,6 +366,16 @@
               "info": "<img src=\"https://www.abc1008.com/img/program/yoasobi.jpg\" width=\"100\"><BR><BR>番組Twitter アカウント：<a href=\"https://twitter.com/yorukoko1008\">@yorukoko1008</a><BR>ハッシュタグ「# 夜ココ」を付けてツイートしてね！<BR><BR>ABC ラジオ公式Twitter アカウント：<a href=\"https://twitter.com/abc1008khz\">@abc1008khz</a><BR>ハッシュタグ「#ABCラジオ」を付けてツイートしてね！<BR><BR>メールアドレス：<a href=\"mailto:tm@abc1008.com\">tm@abc1008.com</a><BR><BR><BR>",
               "pfm": "田淵麻里奈",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/fb072740-8f7d-4782-82df-46d5d9c50e55.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -375,7 +384,7 @@
               }
             },
             {
-              "-id": "9598101130",
+              "-id": "9598449661",
               "-ft": "20211123215000",
               "-to": "20211123220000",
               "-ftl": "2150",
@@ -388,6 +397,16 @@
               "ts_out_ng": "0",
               "pfm": "滝本沙奈",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/4xhcfovoph.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C013",
+                  "name": "アスリート"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -396,7 +415,7 @@
               }
             },
             {
-              "-id": "9598100243",
+              "-id": "9598444498",
               "-ft": "20211123220000",
               "-to": "20211124003000",
               "-ftl": "2200",
@@ -434,7 +453,7 @@
               }
             },
             {
-              "-id": "9598270195",
+              "-id": "9598517484",
               "-ft": "20211124003000",
               "-to": "20211124010000",
               "-ftl": "2430",
@@ -448,6 +467,16 @@
               "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_not-equal-me_3.jpg\" width=\"100\"><BR><BR>≠ME全員参加！ＡＢＣラジオで本格トークバラエティに挑戦！<BR>関西初のレギュラー番組がスタート！<BR><BR><BR>番組Twitter アカウント：<a href=\"https://twitter.com/noi_me_station\">@noi_me_station</a><BR>ハッシュタグ「# ノイステ」を付けてツイートしてね！<BR><BR>ABC ラジオ公式Twitter アカウント：<a href=\"https://twitter.com/abc1008khz\">@abc1008khz</a><BR>ハッシュタグ「#ABCラジオ」を付けてツイートしてね！<BR><BR>メールアドレス：<a href=\"mailto:me@abc1008.com\">me@abc1008.com</a><BR><BR><BR>",
               "pfm": "≠ME（ノットイコールミー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/be560e82-6068-45cb-96d5-1f2b41c48f0b.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -456,7 +485,7 @@
               }
             },
             {
-              "-id": "9598262736",
+              "-id": "9598517488",
               "-ft": "20211124010000",
               "-to": "20211124013000",
               "-ftl": "2500",
@@ -470,6 +499,16 @@
               "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_bam-osaka.jpg\" width=\"100\"><img src=\"https://www.abc1008.com/program/personality/photo/photo_masuda_saor.jpg\" width=\"100\"><BR><BR>「ボイメン大阪研究生」の４人の冠ラジオ番組！<BR>増田紗織アナウンサーと５人で繰り広げる音楽×トークの本気のバラエティラジオ番組！<BR><BR><BR>ボイメン大阪研究生公式HPは<a href=\"https://bak.boysandmen.jp/osaka\">  こちら</a>から！<BR><BR><BR>番組Twitter アカウント：<a href=\"https://twitter.com/onbuzz_abc1008\">@onbuzz_abc1008</a><BR>ハッシュタグ「# 音バズ」を付けてツイートしてね！<BR><BR>ABC ラジオ公式Twitter アカウント：<a href=\"https://twitter.com/abc1008khz\">@abc1008khz</a><BR>ハッシュタグ「#ABCラジオ」を付けてツイートしてね！<BR><BR>メールアドレス：<a href=\"mailto:buzz@abc1008.com\">buzz@abc1008.com</a><BR><BR><BR>",
               "pfm": "髙橋真佳把、  内海太一、  岡大和、  中下雄貴増田紗織",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/d4b4399a-29c2-426c-9091-a427088f3825.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -478,7 +517,7 @@
               }
             },
             {
-              "-id": "9598262747",
+              "-id": "9598517496",
               "-ft": "20211124013000",
               "-to": "20211124020000",
               "-ftl": "2530",
@@ -490,6 +529,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -498,7 +543,7 @@
               }
             },
             {
-              "-id": "9598262749",
+              "-id": "9598517499",
               "-ft": "20211124020000",
               "-to": "20211124030000",
               "-ftl": "2600",
@@ -510,6 +555,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -518,7 +569,7 @@
               }
             },
             {
-              "-id": "9598262775",
+              "-id": "9598517508",
               "-ft": "20211124030000",
               "-to": "20211124040000",
               "-ftl": "2700",
@@ -530,6 +581,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -538,7 +595,7 @@
               }
             },
             {
-              "-id": "9598262807",
+              "-id": "9598517514",
               "-ft": "20211124040000",
               "-to": "20211124041500",
               "-ftl": "2800",
@@ -550,6 +607,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -558,7 +621,7 @@
               }
             },
             {
-              "-id": "9598262816",
+              "-id": "9598444521",
               "-ft": "20211124041500",
               "-to": "20211124043500",
               "-ftl": "2815",
@@ -579,7 +642,7 @@
               }
             },
             {
-              "-id": "9598170454",
+              "-id": "9598444522",
               "-ft": "20211124043500",
               "-to": "20211124044500",
               "-ftl": "2835",
@@ -599,7 +662,7 @@
               }
             },
             {
-              "-id": "9598261906",
+              "-id": "9598444523",
               "-ft": "20211124044500",
               "-to": "20211124045000",
               "-ftl": "2845",
@@ -619,7 +682,7 @@
               }
             },
             {
-              "-id": "9598170457",
+              "-id": "9598444524",
               "-ft": "20211124045000",
               "-to": "20211124050000",
               "-ftl": "2850",
