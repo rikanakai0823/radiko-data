@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1637604402",
+    "srvtime": "1637777147",
     "stations": {
       "station": {
         "-id": "FMNAGASAKI",
@@ -10,7 +10,7 @@
           "date": "20211128",
           "prog": [
             {
-              "-id": "9599136081",
+              "-id": "9599239090",
               "-ft": "20211128050000",
               "-to": "20211128060000",
               "-ftl": "0500",
@@ -335,7 +335,7 @@
               }
             },
             {
-              "-id": "9598922724",
+              "-id": "9599239212",
               "-ft": "20211128093000",
               "-to": "20211128094500",
               "-ftl": "0930",
@@ -1036,23 +1036,30 @@
               }
             },
             {
-              "-id": "9598934732",
+              "-id": "9599409018",
               "-ft": "20211128190000",
               "-to": "20211128195500",
               "-ftl": "1900",
               "-tol": "1955",
               "-dur": "3300",
-              "title": "S.P.",
+              "title": "村上RADIO～村上の世間話～",
+              "url": "https://www.tfm.co.jp/murakamiradio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.fmnagasaki.co.jp/request/request.php\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/HU/program/1394_7fc499e5_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br />\tFM Nagasakiオリジナルのアーティスト特番。<br />毎週個性的なミュージシャンが登場します。 <br /><br />\tメッセージフォーム：<a href=\"http://www.fmnagasaki.co.jp/request/request.php\">http://www.fmnagasaki.co.jp/request/request.php</a><br /><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNAGASAKI/wwh658f1rh.jpg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/6793_fee7b417_sq.jpg\" height=\"60\" width=\"60\" alt=\"村上春樹\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/murakamiradio/\">https://www.tfm.co.jp/murakamiradio/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E6%9D%91%E4%B8%8ARADIO\">#村上RADIO</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/Murakamiradiofm\">@Murakamiradiofm</a>」<br /><br /></div>",
+              "pfm": "村上春樹",
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#村上RADIO"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:Murakamiradiofm"
+                  }
+                ]
               }
             },
             {
@@ -1318,7 +1325,7 @@
               }
             },
             {
-              "-id": "9599136166",
+              "-id": "9599184896",
               "-ft": "20211129000000",
               "-to": "20211129003000",
               "-ftl": "2400",
