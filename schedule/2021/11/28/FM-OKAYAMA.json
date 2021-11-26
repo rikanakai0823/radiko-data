@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1637863588",
+    "srvtime": "1637949984",
     "stations": {
       "station": {
         "-id": "FM-OKAYAMA",
@@ -208,7 +208,7 @@
               }
             },
             {
-              "-id": "9599551928",
+              "-id": "9599709778",
               "-ft": "20211128083000",
               "-to": "20211128085500",
               "-ftl": "0830",
@@ -381,7 +381,7 @@
               }
             },
             {
-              "-id": "9599551992",
+              "-id": "9599709849",
               "-ft": "20211128100000",
               "-to": "20211128103000",
               "-ftl": "1000",
@@ -1217,7 +1217,7 @@
               }
             },
             {
-              "-id": "9599639111",
+              "-id": "9599815209",
               "-ft": "20211128190000",
               "-to": "20211128195500",
               "-ftl": "1900",
@@ -1230,7 +1230,7 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/6793_fee7b417_sq.jpg\" height=\"60\" width=\"60\" alt=\"村上春樹\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/murakamiradio/\">https://www.tfm.co.jp/murakamiradio/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E6%9D%91%E4%B8%8ARADIO\">#村上RADIO</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/Murakamiradiofm\">@Murakamiradiofm</a>」<br /><br /></div>",
               "pfm": "村上春樹",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/963d8793-7aef-47d2-86be-0823387a9abd.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/q5igh4cpjr.jpg",
               "metas": {
                 "meta": [
                   {
@@ -1565,18 +1565,44 @@
               }
             },
             {
-              "-id": "9598933526",
+              "-id": "9599820857",
               "-ft": "20211128225500",
               "-to": "20211128230000",
               "-ftl": "2255",
               "-tol": "2300",
               "-dur": "300",
-              "title": "衆議院選挙開票速報",
+              "title": "JFNニュース",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/963d8793-7aef-47d2-86be-0823387a9abd.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ニュース"
+                  },
+                  {
+                    "name": "交通"
+                  },
+                  {
+                    "name": "天気"
+                  },
+                  {
+                    "name": "地域の情報"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1739,7 +1765,7 @@
               }
             },
             {
-              "-id": "9599639193",
+              "-id": "9599705054",
               "-ft": "20211129004500",
               "-to": "20211129010000",
               "-ftl": "2445",
