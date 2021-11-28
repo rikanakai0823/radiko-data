@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1638036372",
+    "srvtime": "1638122640",
     "stations": {
       "station": {
         "-id": "RAB",
@@ -479,7 +479,7 @@
               }
             },
             {
-              "-id": "9599567506",
+              "-id": "9600052340",
               "-ft": "20211128100000",
               "-to": "20211128110000",
               "-ftl": "1000",
@@ -491,10 +491,36 @@
               "ts_out_ng": "0",
               "pfm": "内山千早、中島美華",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/jcxhldaqlx.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "八戸"
+                  },
+                  {
+                    "name": "県南"
+                  },
+                  {
+                    "name": "中島美華"
+                  },
+                  {
+                    "name": "うっちゃん"
+                  },
+                  {
+                    "name": "内山千早"
+                  },
+                  {
+                    "name": "みかちゃん"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -530,7 +556,7 @@
               }
             },
             {
-              "-id": "9599567515",
+              "-id": "9600052376",
               "-ft": "20211128110500",
               "-to": "20211128113000",
               "-ftl": "1105",
@@ -542,10 +568,19 @@
               "ts_out_ng": "0",
               "pfm": "桜田マコト、ミク",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/dzn2edzldt.png",
+              "tag": {
+                "item": {
+                  "name": "桜田まこと"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
