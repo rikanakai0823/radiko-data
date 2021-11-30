@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1638209202",
+    "srvtime": "1638295529",
     "stations": {
       "station": {
         "-id": "RKC",
@@ -121,26 +121,84 @@
               }
             },
             {
-              "-id": "9599988231",
+              "-id": "9600404341",
               "-ft": "20211205062000",
-              "-to": "20211205063500",
+              "-to": "20211205063000",
               "-ftl": "0620",
-              "-tol": "0635",
-              "-dur": "900",
-              "title": "ヒヨコで踊るラジオ",
+              "-tol": "0630",
+              "-dur": "600",
+              "title": "ＲＫＣミュージック・セレクト",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "オススメの音楽"
+                  },
+                  {
+                    "name": "洋楽"
+                  },
+                  {
+                    "name": "Jポップ"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9600397365",
+              "-ft": "20211205063000",
+              "-to": "20211205063500",
+              "-ftl": "0630",
+              "-tol": "0635",
+              "-dur": "300",
+              "title": "ＲＫＣ地震防災メモ",
+              "url": "http://www.rkc-kochi.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "地震への備え、心がけておくおくべき事を日本防災士機の資格を取得した高知放送の防災士が分かりやすく解説します。",
+              "pfm": "村山 佐織",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKC/12a69e3e-675d-44bc-a4f9-b32345a1da73.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "防災士"
+                  },
+                  {
+                    "name": "高知のニュース"
+                  },
+                  {
+                    "name": "高知県"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
