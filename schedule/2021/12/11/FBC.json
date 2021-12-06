@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1638727581",
+    "srvtime": "1638813955",
     "stations": {
       "station": {
         "-id": "FBC",
@@ -869,7 +869,7 @@
               }
             },
             {
-              "-id": "9601045866",
+              "-id": "9601374420",
               "-ft": "20211211213000",
               "-to": "20211211220000",
               "-ftl": "2130",
@@ -1074,7 +1074,7 @@
               }
             },
             {
-              "-id": "9601217446",
+              "-id": "9601451700",
               "-ft": "20211212030000",
               "-to": "20211212040000",
               "-ftl": "2700",
@@ -1086,16 +1086,22 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "<br/>スペシャルなパーソナリティが週替わりで登場します！",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/b29f5e1f-f3be-4c57-8b12-661bf3284c11.jpeg",
+              "pfm": "相席スタート",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/744aad18-1df6-47e2-bc71-d04c76df4928.jpeg",
               "tag": {
-                "item": {
-                  "name": "オールナイトニッポン0(ZERO)"
-                }
+                "item": [
+                  {
+                    "name": "相席スタート"
+                  },
+                  {
+                    "name": "オールナイトニッポン0(ZERO)"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
+                  "-id": "C009",
+                  "name": "芸人"
                 },
                 "program": {
                   "-id": "P007",
