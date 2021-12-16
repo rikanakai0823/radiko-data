@@ -1,0 +1,573 @@
+{
+  "radiko": {
+    "ttl": "1800",
+    "srvtime": "1639677959",
+    "stations": {
+      "station": {
+        "-id": "STV",
+        "name": "ＳＴＶラジオ",
+        "progs": {
+          "date": "20211222",
+          "prog": [
+            {
+              "-id": "9602835121",
+              "-ft": "20211222050000",
+              "-to": "20211222050500",
+              "-ftl": "0500",
+              "-tol": "0505",
+              "-dur": "300",
+              "title": "心のともしび",
+              "url": "https://www.tomoshibi.or.jp/radio/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/lia1vnrzqp.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P016",
+                  "name": "宗教"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9602751189",
+              "-ft": "20211222050500",
+              "-to": "20211222052000",
+              "-ftl": "0505",
+              "-tol": "0520",
+              "-dur": "900",
+              "title": "ときめきショッピング",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/451f314c-2a84-4762-9f84-84f5f168be9e.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9602980590",
+              "-ft": "20211222052000",
+              "-to": "20211222053000",
+              "-ftl": "0520",
+              "-tol": "0530",
+              "-dur": "600",
+              "title": "和久井薫の元気！発見",
+              "url": "https://www.stv.jp/radio/genki/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "和久井薫が注目しているひと・モノ・話題をピックアップ！目覚めの朝にあなたを元気にする情報をお届けします！",
+              "info": "メール：genki@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "和久井薫",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/20945cb6-c9f2-453f-bac4-a22147f97498.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9602859895",
+              "-ft": "20211222053000",
+              "-to": "20211222073100",
+              "-ftl": "0530",
+              "-tol": "0731",
+              "-dur": "7260",
+              "title": "北海道ライブ　あさミミ！",
+              "url": "https://www.stv.jp/radio/asamimi/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "北海道の「今」にとことんこだわる！朝一番、道民の知りたい情報をいち早く！　人の動きが目まぐるしく変わる朝、北海道のニュース・天気・生活情報をコンパクトに、明るく分かりやすく届けます。",
+              "info": "メール：asamimi@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "永井公彦　上田あや",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/efa697f6-db36-40d6-99be-47c708bba32c.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9602859942",
+              "-ft": "20211222073100",
+              "-to": "20211222073700",
+              "-ftl": "0731",
+              "-tol": "0737",
+              "-dur": "360",
+              "title": "スズキ・ハッピーモーニング　羽田美智子のいってらっしゃい",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "羽田美智子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/a6bb5ce8-14cd-4be3-9793-d57ba2f9b289.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9602859945",
+              "-ft": "20211222073700",
+              "-to": "20211222080000",
+              "-ftl": "0737",
+              "-tol": "0800",
+              "-dur": "1380",
+              "title": "北海道ライブ　あさミミ！",
+              "url": "https://www.stv.jp/radio/asamimi/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "北海道の「今」にとことんこだわる！朝一番、道民の知りたい情報をいち早く！　人の動きが目まぐるしく変わる朝、北海道のニュース・天気・生活情報をコンパクトに、明るく分かりやすく届けます。",
+              "info": "メール：asamimi@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "永井公彦　上田あや",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/efa697f6-db36-40d6-99be-47c708bba32c.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9602859964",
+              "-ft": "20211222080000",
+              "-to": "20211222100000",
+              "-ftl": "0800",
+              "-tol": "1000",
+              "-dur": "7200",
+              "title": "リクエストプラザ",
+              "url": "https://www.stv.jp/radio/rikupura/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "あなたの朝を音楽で応援！２時間たっぷり全曲フルコーラスでお届けします！",
+              "info": "メール：rikupura@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "中嶋あゆみ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/147df0f6-b982-44cf-9016-c60260c98365.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9602850868",
+              "-ft": "20211222100000",
+              "-to": "20211222130000",
+              "-ftl": "1000",
+              "-tol": "1300",
+              "-dur": "10800",
+              "title": "工藤じゅんきの十人十色",
+              "url": "https://www.stv.jp/radio/toiro/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "生活における喜怒哀楽を番組独自の切り口で展開していく３時間 毎日日替わりのテーマで、流行もの、生活スタイル、思い出話、男と女のあんな話やこんな話を明るく、楽しく紹介します。 ◇12：43頃～「氷川きよし　限界突破RADIO 」",
+              "info": "メール：toiro@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "工藤じゅんき　内山よしこ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/a8b53a35-e5a0-4bf6-941f-d5c46dc42287.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9602984740",
+              "-ft": "20211222130000",
+              "-to": "20211222160000",
+              "-ftl": "1300",
+              "-tol": "1600",
+              "-dur": "10800",
+              "title": "まるごと！エンタメ～ション",
+              "url": "https://www.stv.jp/radio/entamation/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "佐々木たくおがメインパーソナリティを務める、トーク・音楽・話題・情報満載の３時間生放送！◇13：40～「聖ヨウジ学園」",
+              "info": "メール：marugoto@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "佐々木たくお　兼子真衣　／　木村洋二　油野純帆",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/a682e27c-d4db-43d5-8d96-c04251feae93.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9602858506",
+              "-ft": "20211222160000",
+              "-to": "20211222190000",
+              "-ftl": "1600",
+              "-tol": "1900",
+              "-dur": "10800",
+              "title": "吉川のりお　スーパーＬＩＶＥ",
+              "url": "https://www.stv.jp/radio/super-live/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "道内をはじめ全国の最新ニュースをいち早くお届けする情報バラエティ番組。「今何が起こっているか」をコンパクトにわかりやすくお伝えします。◇16：45頃～「スポーツ伝説」17：00～「ニュースパレード」",
+              "info": "メール：live@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "吉川のりお　草野あずみ　／　牧やすまさ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/685cc077-3bd9-41bb-a67e-8410802c59ef.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9602752558",
+              "-ft": "20211222190000",
+              "-to": "20211222220000",
+              "-ftl": "1900",
+              "-tol": "2200",
+              "-dur": "10800",
+              "title": "ＭＵＳＩＣ★Ｊ",
+              "url": "https://www.stv.jp/radio/musicj/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "70～90年代の邦楽を中心に今なお愛されるナンバーをお届け！",
+              "info": "メール：mj@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "松崎真人",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/affac747-5a06-4d0d-9125-847f97a08b02.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9602858872",
+              "-ft": "20211222220000",
+              "-to": "20211223000000",
+              "-ftl": "2200",
+              "-tol": "2400",
+              "-dur": "7200",
+              "title": "オールナイトニッポン  ＭＵＳＩＣ１０",
+              "url": "http://www.allnightnippon.com/music10/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "岸谷香",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/2cc63990-06db-4228-bd94-a3a653f404e5.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9603007658",
+              "-ft": "20211223000000",
+              "-to": "20211223005300",
+              "-ftl": "2400",
+              "-tol": "2453",
+              "-dur": "3180",
+              "title": "フワちゃんのオールナイトニッポンⅩ",
+              "url": "https://www.allnightnippon.com/fuwa/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "フワちゃん",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/5fc84bc6-14be-4866-8394-0b277a59d45b.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9603000980",
+              "-ft": "20211223005300",
+              "-to": "20211223010000",
+              "-ftl": "2453",
+              "-tol": "2500",
+              "-dur": "420",
+              "title": "ＯＴＯ　Ｍａｒｃｈｅ’",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "良質な音楽・楽しい情報を「音」で伝える番組です♪",
+              "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": " ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/ce9ac000-d9e9-471d-a901-e9f098d2b6dd.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9603001001",
+              "-ft": "20211223010000",
+              "-to": "20211223030000",
+              "-ftl": "2500",
+              "-tol": "2700",
+              "-dur": "7200",
+              "title": "乃木坂46のオールナイトニッポン",
+              "url": "https://www.allnightnippon.com/nogizaka46/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "乃木坂46",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/ff0b9f8c-848e-4674-abed-e65db340e50c.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9603002082",
+              "-ft": "20211223030000",
+              "-to": "20211223043000",
+              "-ftl": "2700",
+              "-tol": "2830",
+              "-dur": "5400",
+              "title": "佐久間宣行のオールナイトニッポン０（ＺＥＲＯ）",
+              "url": "https://www.allnightnippon.com/sakuma/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "佐久間宣行",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/fc436387-9e72-4232-bc8c-0b8b0396ba30.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9602909764",
+              "-ft": "20211223043000",
+              "-to": "20211223044500",
+              "-ftl": "2830",
+              "-tol": "2845",
+              "-dur": "900",
+              "title": "耳より健康便り",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/451f314c-2a84-4762-9f84-84f5f168be9e.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9602909775",
+              "-ft": "20211223044500",
+              "-to": "20211223050000",
+              "-ftl": "2845",
+              "-tol": "2900",
+              "-dur": "900",
+              "title": "Buy Now",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/451f314c-2a84-4762-9f84-84f5f168be9e.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
