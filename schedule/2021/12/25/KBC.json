@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1639937133",
+    "srvtime": "1640023533",
     "stations": {
       "station": {
         "-id": "KBC",
@@ -225,14 +225,14 @@
               }
             },
             {
-              "-id": "9603355262",
+              "-id": "9603656733",
               "-ft": "20211225070000",
               "-to": "20211225090000",
               "-ftl": "0700",
               "-tol": "0900",
               "-dur": "7200",
               "title": "ＫＢＣラジオ・チャリティ・ミュージックソン",
-              "url": "https://kbc.co.jp/r-radio/mson2021/",
+              "url": "https://kbc.co.jp/r-radio/mson2021/24hour.php",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -247,14 +247,14 @@
               }
             },
             {
-              "-id": "9603355350",
+              "-id": "9603656743",
               "-ft": "20211225090000",
               "-to": "20211225120000",
               "-ftl": "0900",
               "-tol": "1200",
               "-dur": "10800",
               "title": "ＫＢＣラジオ・チャリティ・ミュージックソン",
-              "url": "https://kbc.co.jp/radio/",
+              "url": "https://kbc.co.jp/r-radio/mson2021/24hour.php",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -408,13 +408,139 @@
               }
             },
             {
-              "-id": "9603358215",
+              "-id": "9603702259",
               "-ft": "20211225130000",
-              "-to": "20211225190000",
+              "-to": "20211225150000",
               "-ftl": "1300",
+              "-tol": "1500",
+              "-dur": "7200",
+              "title": "ＫＢＣサタデーミュージックカウントダウン(1)",
+              "url": "https://kbc.co.jp/satakan/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "最新のヒット曲から懐かしのあの歌まで『１粒で２度おいしい』家族みんなで聴けるランキング形式の音楽番組！",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"\"\"\"mailto:satakan@kbc.co.jp\"\"\"\">satakan@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_satakan\">@kbc_satakan</a>」",
+              "pfm": "こだマン、真璃子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/daf12386-b73d-43cd-a034-317e6f6cd57d.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽"
+                  },
+                  {
+                    "name": "ドライブ"
+                  },
+                  {
+                    "name": "ランキング"
+                  },
+                  {
+                    "name": "生放送"
+                  },
+                  {
+                    "name": "懐かしい"
+                  },
+                  {
+                    "name": "JーPOP"
+                  },
+                  {
+                    "name": "サタカン"
+                  },
+                  {
+                    "name": "こだマン"
+                  },
+                  {
+                    "name": "真璃子"
+                  },
+                  {
+                    "name": "ヒットソング"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9603702269",
+              "-ft": "20211225150000",
+              "-to": "20211225170000",
+              "-ftl": "1500",
+              "-tol": "1700",
+              "-dur": "7200",
+              "title": "ＫＢＣサタデーミュージックカウントダウン(2)",
+              "url": "https://kbc.co.jp/satakan/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "最新のヒット曲から懐かしのあの歌まで『１粒で２度おいしい』家族みんなで聴けるランキング形式の音楽番組！",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"\"\"\"mailto:satakan@kbc.co.jp\"\"\"\">satakan@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_satakan\">@kbc_satakan</a>」",
+              "pfm": "こだマン、真璃子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/daf12386-b73d-43cd-a034-317e6f6cd57d.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽"
+                  },
+                  {
+                    "name": "ドライブ"
+                  },
+                  {
+                    "name": "ランキング"
+                  },
+                  {
+                    "name": "生放送"
+                  },
+                  {
+                    "name": "懐かしい"
+                  },
+                  {
+                    "name": "JーPOP"
+                  },
+                  {
+                    "name": "サタカン"
+                  },
+                  {
+                    "name": "こだマン"
+                  },
+                  {
+                    "name": "真璃子"
+                  },
+                  {
+                    "name": "ヒットソング"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9603702276",
+              "-ft": "20211225170000",
+              "-to": "20211225190000",
+              "-ftl": "1700",
               "-tol": "1900",
-              "-dur": "21600",
-              "title": "ＫＢＣサタデーミュージックカウントダウン",
+              "-dur": "7200",
+              "title": "ＫＢＣサタデーミュージックカウントダウン(3)",
               "url": "https://kbc.co.jp/satakan/",
               "failed_record": "0",
               "ts_in_ng": "0",
