@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1640196380",
+    "srvtime": "1640282794",
     "stations": {
       "station": {
         "-id": "FM-OKAYAMA",
@@ -92,54 +92,128 @@
               }
             },
             {
-              "-id": "9603844355",
+              "-id": "9604265648",
               "-ft": "20211228073000",
-              "-to": "20211228100000",
+              "-to": "20211228080000",
               "-ftl": "0730",
-              "-tol": "1000",
-              "-dur": "9000",
-              "title": "Fresh Morning OKAYAMA",
-              "url": "https://www.fm-okayama.co.jp/request_m/freshmorningokayama.html",
+              "-tol": "0800",
+              "-dur": "1800",
+              "title": "年末年始特別編成 OH! HAPPY MORNING",
+              "url": "http://www.jfn.jp/oh/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.fm-okayama.co.jp/request_m/freshmorningokayama.html\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/VV/program/5546_4c48b941_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/VV/person/659_fea58a8c_sq.jpg\" height=\"60\" width=\"60\" alt=\"大橋由佳\"></td>  </tr></table><br /><br />\t一日を気持ちよく始めるためにぴったりな朝のプログラム「フレッシュモーニングオカヤマ」。タイムリーな情報と話題を素敵な音楽に乗せて軽やかにコーディネートします。 <br /><br />\t番組Webサイト：<a href=\"https://www.fm-okayama.co.jp/request_m/freshmorningokayama.html\">https://www.fm-okayama.co.jp/request_m/freshmorningokayama.html</a><br />\tメールアドレス：<a href=\"mailto:fresh@fm-okayama.co.jp\">fresh@fm-okayama.co.jp</a><br />\tメッセージフォーム：<a href=\"https://www.fm-okayama.co.jp/sp/request_m_freshmorningokayama.html\">https://www.fm-okayama.co.jp/sp/request_m_freshmorningokayama.html</a><br /><br /></div>",
-              "pfm": "大橋由佳",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/oxnsgl9frk.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ニュース"
-                  },
-                  {
-                    "name": "交通"
-                  },
-                  {
-                    "name": "天気"
-                  },
-                  {
-                    "name": "フレモニ"
-                  },
-                  {
-                    "name": "大橋由佳"
-                  }
-                ]
-              },
+              "info": "<div class=\"station_content_description \">\tあたり前の日常の中にこそ、ハッピーが詰まっている！<br />ハピモニでは、リスナーの方々と一緒に、幸せになるヒントを提案していきます！ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/oh/\">http://www.jfn.jp/oh/</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/198\">https://ssl2.jfn.co.jp/mailbox/index/198</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23hapimoni\">#hapimoni</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/hapimoni\">@hapimoni</a>」<br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/963d8793-7aef-47d2-86be-0823387a9abd.jpeg",
               "genre": {
                 "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#hapimoni"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:hapimoni"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9604261382",
+              "-ft": "20211228080000",
+              "-to": "20211228080500",
+              "-ftl": "0800",
+              "-tol": "0805",
+              "-dur": "300",
+              "title": "年末年始特別編成　SUZUKI TODAY'S KEY NUMBER",
+              "url": "https://www.tfm.co.jp/keynumber/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t毎日数字から世の中の動向を紐解いていきます。<br />今日のピックアップする数字は？？？ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/keynumber/\">https://www.tfm.co.jp/keynumber/</a><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/963d8793-7aef-47d2-86be-0823387a9abd.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
                   "-value": "#radiko"
                 }
+              }
+            },
+            {
+              "-id": "9604261383",
+              "-ft": "20211228080500",
+              "-to": "20211228081000",
+              "-ftl": "0805",
+              "-tol": "0810",
+              "-dur": "300",
+              "title": "年末年始編成　ルートインホテルズ 今日のスポーツ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t今日のスポーツをONE MORNING視点でピックアップします。 <br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/963d8793-7aef-47d2-86be-0823387a9abd.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604261384",
+              "-ft": "20211228081000",
+              "-to": "20211228082000",
+              "-ftl": "0810",
+              "-tol": "0820",
+              "-dur": "600",
+              "title": "Letter for the next",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/963d8793-7aef-47d2-86be-0823387a9abd.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604261385",
+              "-ft": "20211228082000",
+              "-to": "20211228100000",
+              "-ftl": "0820",
+              "-tol": "1000",
+              "-dur": "6000",
+              "title": "年末年始特別編成 OH! HAPPY MORNING",
+              "url": "http://www.jfn.jp/oh/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\tあたり前の日常の中にこそ、ハッピーが詰まっている！<br />ハピモニでは、リスナーの方々と一緒に、幸せになるヒントを提案していきます！ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/oh/\">http://www.jfn.jp/oh/</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/198\">https://ssl2.jfn.co.jp/mailbox/index/198</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23hapimoni\">#hapimoni</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/hapimoni\">@hapimoni</a>」<br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/963d8793-7aef-47d2-86be-0823387a9abd.jpeg",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#hapimoni"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:hapimoni"
+                  }
+                ]
               }
             },
             {
@@ -329,7 +403,7 @@
               }
             },
             {
-              "-id": "9604076132",
+              "-id": "9604153137",
               "-ft": "20211228113000",
               "-to": "20211228115500",
               "-ftl": "1130",
@@ -397,7 +471,7 @@
               }
             },
             {
-              "-id": "9604076140",
+              "-id": "9604153160",
               "-ft": "20211228120000",
               "-to": "20211228125500",
               "-ftl": "1200",
@@ -419,7 +493,7 @@
               }
             },
             {
-              "-id": "9603988738",
+              "-id": "9604153178",
               "-ft": "20211228125500",
               "-to": "20211228130000",
               "-ftl": "1255",
@@ -483,30 +557,19 @@
               }
             },
             {
-              "-id": "9603844770",
+              "-id": "9604261438",
               "-ft": "20211228133000",
               "-to": "20211228135500",
               "-ftl": "1330",
               "-tol": "1355",
               "-dur": "1500",
-              "title": "Seasoning～season your life with music～",
-              "url": "http://www.jfn.jp/seasoning",
+              "title": "年末特別番組「羽ばたいてるね年末特番 流行リベンジャーズ２０２１」",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/seasoning\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/38287_c0b54344_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6469_339aa7b8_sq.jpg\" height=\"60\" width=\"60\" alt=\"市川美絵\"></td>  </tr></table><br /><br />\tradio。<br />ふと流れてきた音楽に癒され、ふと流れてきた言葉に心癒される瞬間があります。<br />それは、人生のちょっとしたエッセンス、そしてスパイスです。<br /><br />Seasoning　～音楽で、言葉で、あなたの人生を彩ります。～ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/seasoning\">http://www.jfn.jp/seasoning</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/255\">https://ssl2.jfn.co.jp/mailbox/index/255</a><br /><br /></div>",
-              "pfm": "市川美絵",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/.p3qt6tp97.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10448_2b23e8a5_sq.jpg\" height=\"60\" width=\"60\" alt=\"赤荻瞳\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10449_6675ed21_sq.jpg\" height=\"60\" width=\"60\" alt=\"うさたにパイセン\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/1030_e0c12aaa_sq.jpg\" height=\"60\" width=\"60\" alt=\"Chigusa\"></td>  </tr></table><br /><br />\t2020年から引き続きコロナ禍だった2021年。<br />これまで以上に、時代にフィット・最適化したエンターテイメントやグルメなどが求められてきました。<br />その一方で、Z世代を筆頭に巻き起こっているのが「レトロブーム」！フィルムカメラ・ルーズソックス・平成ギャル・などなど…繰り返される流行のリベンジ！そんな中、本当の流行とははたしてなんなのか？！<br />どの時代でもムーブメントの中心となってきた「ギャル」という存在。<br />この番組では、令和ギャル世代（Z世代）が映画・動画配信・本・ゲーム・グルメ…といったあらゆるジャンルにおける「2021年の流行りもの」を＜Z世代目線と大人目線＞で振り返りつつ、世代を超えて愛される真のムーブメントの在り方を探ります。 <br /><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/439\">https://ssl2.jfn.co.jp/mailbox/index/439</a><br /><br /></div>",
+              "pfm": "赤荻瞳 / うさたにパイセン / Chigusa",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/fnk5pt7gk6.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -547,97 +610,19 @@
               }
             },
             {
-              "-id": "9603844794",
+              "-id": "9604261444",
               "-ft": "20211228140000",
-              "-to": "20211228141500",
-              "-ftl": "1400",
-              "-tol": "1415",
-              "-dur": "900",
-              "title": "Seasoning～season your life with music～",
-              "url": "http://www.jfn.jp/seasoning",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/seasoning\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/38288_190ec59f_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6469_339aa7b8_sq.jpg\" height=\"60\" width=\"60\" alt=\"市川美絵\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6653_e7e20792_sq.jpg\" height=\"60\" width=\"60\" alt=\"乙武洋匡\"></td>  </tr></table><br /><br />\tradio。<br />ふと流れてきた音楽に癒され、ふと流れてきた言葉に心癒される瞬間があります。<br />それは、人生のちょっとしたエッセンス、そしてスパイスです。<br /><br />Seasoning　～音楽で、言葉で、あなたの人生を彩ります。～ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/seasoning\">http://www.jfn.jp/seasoning</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/255\">https://ssl2.jfn.co.jp/mailbox/index/255</a><br /><br /></div>",
-              "pfm": "市川美絵 / 乙武洋匡",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/.p3qt6tp97.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9603745533",
-              "-ft": "20211228141500",
-              "-to": "20211228142000",
-              "-ftl": "1415",
-              "-tol": "1420",
-              "-dur": "300",
-              "title": "ＪＦＮラジオショッピング",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/963d8793-7aef-47d2-86be-0823387a9abd.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ラジオショッピング"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9603844812",
-              "-ft": "20211228142000",
               "-to": "20211228145500",
-              "-ftl": "1420",
+              "-ftl": "1400",
               "-tol": "1455",
-              "-dur": "2100",
-              "title": "Seasoning～season your life with music～",
-              "url": "http://www.jfn.jp/seasoning",
+              "-dur": "3300",
+              "title": "年末特別番組「羽ばたいてるね年末特番 流行リベンジャーズ２０２１」",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/seasoning\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/38289_f74922ba_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6469_339aa7b8_sq.jpg\" height=\"60\" width=\"60\" alt=\"市川美絵\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6653_e7e20792_sq.jpg\" height=\"60\" width=\"60\" alt=\"乙武洋匡\"></td>  </tr></table><br /><br />\tradio。<br />ふと流れてきた音楽に癒され、ふと流れてきた言葉に心癒される瞬間があります。<br />それは、人生のちょっとしたエッセンス、そしてスパイスです。<br /><br />Seasoning　～音楽で、言葉で、あなたの人生を彩ります。～ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/seasoning\">http://www.jfn.jp/seasoning</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/255\">https://ssl2.jfn.co.jp/mailbox/index/255</a><br /><br /></div>",
-              "pfm": "市川美絵 / 乙武洋匡",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/.p3qt6tp97.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10448_2b23e8a5_sq.jpg\" height=\"60\" width=\"60\" alt=\"赤荻瞳\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10449_6675ed21_sq.jpg\" height=\"60\" width=\"60\" alt=\"うさたにパイセン\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/1030_e0c12aaa_sq.jpg\" height=\"60\" width=\"60\" alt=\"Chigusa\"></td>  </tr></table><br /><br />\t2020年から引き続きコロナ禍だった2021年。<br />これまで以上に、時代にフィット・最適化したエンターテイメントやグルメなどが求められてきました。<br />その一方で、Z世代を筆頭に巻き起こっているのが「レトロブーム」！フィルムカメラ・ルーズソックス・平成ギャル・などなど…繰り返される流行のリベンジ！そんな中、本当の流行とははたしてなんなのか？！<br />どの時代でもムーブメントの中心となってきた「ギャル」という存在。<br />この番組では、令和ギャル世代（Z世代）が映画・動画配信・本・ゲーム・グルメ…といったあらゆるジャンルにおける「2021年の流行りもの」を＜Z世代目線と大人目線＞で振り返りつつ、世代を超えて愛される真のムーブメントの在り方を探ります。 <br /><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/439\">https://ssl2.jfn.co.jp/mailbox/index/439</a><br /><br /></div>",
+              "pfm": "赤荻瞳 / うさたにパイセン / Chigusa",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/yefea59veo.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -646,7 +631,7 @@
               }
             },
             {
-              "-id": "9603844844",
+              "-id": "9604192244",
               "-ft": "20211228145500",
               "-to": "20211228150000",
               "-ftl": "1455",
@@ -666,97 +651,19 @@
               }
             },
             {
-              "-id": "9603844862",
+              "-id": "9604261452",
               "-ft": "20211228150000",
-              "-to": "20211228154200",
-              "-ftl": "1500",
-              "-tol": "1542",
-              "-dur": "2520",
-              "title": "Seasoning～season your life with music～",
-              "url": "http://www.jfn.jp/seasoning",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/seasoning\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/38290_fac5d3a0_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6469_339aa7b8_sq.jpg\" height=\"60\" width=\"60\" alt=\"市川美絵\"></td>  </tr></table><br /><br />\tこれまでも、そしてこれからも、ラジオは聴き手の生活に近く寄り添ったもの。<br />ふと流れてきた音楽に癒され、ふと流れてきた言葉に心癒される瞬間がある。<br />それは、多くの人にとって人生の全てではありませんが、大切なエッセンス、そしてスパイスです。<br /><br />Seasoning　～音楽で、言葉で、あなたの人生を彩ります。～ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/seasoning\">http://www.jfn.jp/seasoning</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/255\">https://ssl2.jfn.co.jp/mailbox/index/255</a><br /><br /></div>",
-              "pfm": "市川美絵",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/.p3qt6tp97.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9603745562",
-              "-ft": "20211228154200",
-              "-to": "20211228154700",
-              "-ftl": "1542",
-              "-tol": "1547",
-              "-dur": "300",
-              "title": "JFNラジオショッピング",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/963d8793-7aef-47d2-86be-0823387a9abd.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ラジオショッピング"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9603844894",
-              "-ft": "20211228154700",
               "-to": "20211228155500",
-              "-ftl": "1547",
+              "-ftl": "1500",
               "-tol": "1555",
-              "-dur": "480",
-              "title": "Seasoning～season your life with music～",
-              "url": "http://www.jfn.jp/seasoning",
+              "-dur": "3300",
+              "title": "年末特別番組「羽ばたいてるね年末特番 流行リベンジャーズ２０２１」",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/seasoning\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/38291_a4dccbdd_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6469_339aa7b8_sq.jpg\" height=\"60\" width=\"60\" alt=\"市川美絵\"></td>  </tr></table><br /><br />\tradio。<br />ふと流れてきた音楽に癒され、ふと流れてきた言葉に心癒される瞬間があります。<br />それは、人生のちょっとしたエッセンス、そしてスパイスです。<br /><br />Seasoning　～音楽で、言葉で、あなたの人生を彩ります。～ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/seasoning\">http://www.jfn.jp/seasoning</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/255\">https://ssl2.jfn.co.jp/mailbox/index/255</a><br /><br /></div>",
-              "pfm": "市川美絵",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/.p3qt6tp97.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10448_2b23e8a5_sq.jpg\" height=\"60\" width=\"60\" alt=\"赤荻瞳\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10449_6675ed21_sq.jpg\" height=\"60\" width=\"60\" alt=\"うさたにパイセン\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/1030_e0c12aaa_sq.jpg\" height=\"60\" width=\"60\" alt=\"Chigusa\"></td>  </tr></table><br /><br />\t2020年から引き続きコロナ禍だった2021年。<br />これまで以上に、時代にフィット・最適化したエンターテイメントやグルメなどが求められてきました。<br />その一方で、Z世代を筆頭に巻き起こっているのが「レトロブーム」！フィルムカメラ・ルーズソックス・平成ギャル・などなど…繰り返される流行のリベンジ！そんな中、本当の流行とははたしてなんなのか？！<br />どの時代でもムーブメントの中心となってきた「ギャル」という存在。<br />この番組では、令和ギャル世代（Z世代）が映画・動画配信・本・ゲーム・グルメ…といったあらゆるジャンルにおける「2021年の流行りもの」を＜Z世代目線と大人目線＞で振り返りつつ、世代を超えて愛される真のムーブメントの在り方を探ります。 <br /><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/439\">https://ssl2.jfn.co.jp/mailbox/index/439</a><br /><br /></div>",
+              "pfm": "赤荻瞳 / うさたにパイセン / Chigusa",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/g40yidjffy.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -805,7 +712,7 @@
               }
             },
             {
-              "-id": "9603988755",
+              "-id": "9604155614",
               "-ft": "20211228160000",
               "-to": "20211228164500",
               "-ftl": "1600",
@@ -894,44 +801,18 @@
               }
             },
             {
-              "-id": "9603787356",
+              "-id": "9604261470",
               "-ft": "20211228165500",
               "-to": "20211228170000",
               "-ftl": "1655",
               "-tol": "1700",
               "-dur": "300",
-              "title": "News Time",
+              "title": "MUSIC SCAPE",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/963d8793-7aef-47d2-86be-0823387a9abd.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ニュース"
-                  },
-                  {
-                    "name": "交通"
-                  },
-                  {
-                    "name": "天気"
-                  },
-                  {
-                    "name": "地域の情報"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -940,111 +821,105 @@
               }
             },
             {
-              "-id": "9603849084",
+              "-id": "9604261476",
               "-ft": "20211228170000",
-              "-to": "20211228180000",
+              "-to": "20211228173000",
               "-ftl": "1700",
-              "-tol": "1800",
-              "-dur": "3600",
-              "title": "TWILIGHT PAVEMENT",
-              "url": "https://www.fm-okayama.co.jp/request_m/twilightpavement.html",
+              "-tol": "1730",
+              "-dur": "1800",
+              "title": "MUSIC SCAPE",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.fm-okayama.co.jp/request_m/twilightpavement.html\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/VV/program/52181_1eb80cc5_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/VV/person/663_9ae54f25_sq.jpg\" height=\"60\" width=\"60\" alt=\"藤岡明美\"></td>  </tr></table><br /><br />\t岡山のトワイライトタイムを演出！<br />FM岡山を代表する音楽情報番組として音楽ニュース、ライブ情報はもちろん、アーティストゲスト、チケット先行予約など、様々な企画を行っています。<br />あなたからのリクエスト＆メッセージと共におおくりします！ <br /><br />\t番組Webサイト：<a href=\"https://www.fm-okayama.co.jp/request_m/twilightpavement.html\">https://www.fm-okayama.co.jp/request_m/twilightpavement.html</a><br />\tメールアドレス：<a href=\"mailto:tp@fm-okayama.co.jp\">tp@fm-okayama.co.jp</a><br />\tメッセージフォーム：<a href=\"https://www.fm-okayama.co.jp/sp/request_m_twilightpavement.html\">https://www.fm-okayama.co.jp/sp/request_m_twilightpavement.html</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%88%E3%83%AF%E3%83%9A%E3%83%96\">#トワペブ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/TP_Web\">@TP_Web</a>」<br /><br /></div>",
-              "pfm": "藤岡明美",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/lx6c55jvkq.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "洋楽"
-                  },
-                  {
-                    "name": "邦楽"
-                  },
-                  {
-                    "name": "リクエスト"
-                  },
-                  {
-                    "name": "藤岡明美"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.fm-okayama.co.jp/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/VV/program/59454_e5c66efd_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/oxg07dvn2p.jpg",
               "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#トワペブ"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:TP_Web"
-                  }
-                ]
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
               }
             },
             {
-              "-id": "9603849203",
-              "-ft": "20211228180000",
-              "-to": "20211228190000",
-              "-ftl": "1800",
-              "-tol": "1900",
-              "-dur": "3600",
-              "title": "TWILIGHT PAVEMENT",
-              "url": "https://www.fm-okayama.co.jp/request_m/twilightpavement.html",
+              "-id": "9604261481",
+              "-ft": "20211228173000",
+              "-to": "20211228174000",
+              "-ftl": "1730",
+              "-tol": "1740",
+              "-dur": "600",
+              "title": "年末年始編成　SUZUKI No.1 Factory",
+              "url": "https://www.tfm.co.jp/factory/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.fm-okayama.co.jp/request_m/twilightpavement.html\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/VV/program/52182_38599cdf_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/VV/person/663_9ae54f25_sq.jpg\" height=\"60\" width=\"60\" alt=\"藤岡明美\"></td>  </tr></table><br /><br />\t岡山のトワイライトタイムを演出！<br />FM岡山を代表する音楽情報番組として音楽ニュース、ライブ情報はもちろん、アーティストゲスト、チケット先行予約など、様々な企画を行っています。<br />あなたからのリクエスト＆メッセージと共におおくりします！ <br /><br />\t番組Webサイト：<a href=\"https://www.fm-okayama.co.jp/request_m/twilightpavement.html\">https://www.fm-okayama.co.jp/request_m/twilightpavement.html</a><br />\tメールアドレス：<a href=\"mailto:tp@fm-okayama.co.jp\">tp@fm-okayama.co.jp</a><br />\tメッセージフォーム：<a href=\"https://www.fm-okayama.co.jp/sp/request_m_twilightpavement.html\">https://www.fm-okayama.co.jp/sp/request_m_twilightpavement.html</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%88%E3%83%AF%E3%83%9A%E3%83%96\">#トワペブ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/TP_Web\">@TP_Web</a>」<br /><br /></div>",
-              "pfm": "藤岡明美",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/lx6c55jvkq.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "洋楽"
-                  },
-                  {
-                    "name": "邦楽"
-                  },
-                  {
-                    "name": "リクエスト"
-                  },
-                  {
-                    "name": "藤岡明美"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
+              "info": "<div class=\"station_content_description \">\t俳優・八嶋智人がパーソナリティをつとめる新番組『SUZUKI No.1 Factory』。<br />音楽・映画・漫画・アニメ・グルメ・スポーツなど、様々なジャンルで現在・過去に「No.1」となったトピックを毎日ピックアップ。その裏にあるエピソードと共に、栄光のNo.1ストーリーや、明日話したくなるトリビアを紹介していきます。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/factory/\">https://www.tfm.co.jp/factory/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/factory/message\">https://www.tfm.co.jp/f/factory/message</a><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/963d8793-7aef-47d2-86be-0823387a9abd.jpeg",
               "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#トワペブ"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:TP_Web"
-                  }
-                ]
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604261483",
+              "-ft": "20211228174000",
+              "-to": "20211228180000",
+              "-ftl": "1740",
+              "-tol": "1800",
+              "-dur": "1200",
+              "title": "MUSIC SCAPE",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.fm-okayama.co.jp/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/VV/program/59455_c0b34e90_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/oxg07dvn2p.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604261496",
+              "-ft": "20211228180000",
+              "-to": "20211228185500",
+              "-ftl": "1800",
+              "-tol": "1855",
+              "-dur": "3300",
+              "title": "I Got Rhythm～音楽が生まれる時　Marvin Gaye物語",
+              "url": "https://park.gsj.mobi/program/show/43952",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\tその音楽が誕生し、愛されてきた理由を、残された証言者や音源から紐解いていく音楽ドキュメンタリー番組。<br />毎回、旬なアーティストやジャンルの話題＋切り口でその源流を辿り、掘り下げていきます。 <br /><br />\t番組Webサイト：<a href=\"https://park.gsj.mobi/program/show/43952\">https://park.gsj.mobi/program/show/43952</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/291\">https://ssl2.jfn.co.jp/mailbox/index/291</a><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/963d8793-7aef-47d2-86be-0823387a9abd.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604261503",
+              "-ft": "20211228185500",
+              "-to": "20211228190000",
+              "-ftl": "1855",
+              "-tol": "1900",
+              "-dur": "300",
+              "title": "年末年始編成　快適生活ラジオショッピング",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t電話：0120-40-1475<br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-OKAYAMA/963d8793-7aef-47d2-86be-0823387a9abd.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
               }
             },
             {
