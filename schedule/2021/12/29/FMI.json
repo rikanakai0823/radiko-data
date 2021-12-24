@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1640282806",
+    "srvtime": "1640369269",
     "stations": {
       "station": {
         "-id": "FMI",
@@ -276,7 +276,7 @@
               }
             },
             {
-              "-id": "9604153367",
+              "-id": "9604332913",
               "-ft": "20211229113000",
               "-to": "20211229124500",
               "-ftl": "1130",
@@ -951,18 +951,37 @@
               }
             },
             {
-              "-id": "9604012525",
+              "-id": "9604439834",
               "-ft": "20211229200000",
-              "-to": "20211229210000",
+              "-to": "20211229205500",
               "-ftl": "2000",
-              "-tol": "2100",
-              "-dur": "3600",
+              "-tol": "2055",
+              "-dur": "3300",
               "title": "かまいしの第九～アーカイブ2011～",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/QU/person/457_4df40d07_sq.png\" height=\"60\" width=\"60\" alt=\"佐野よりこ\"></td>  </tr></table><br /><br /><br /></div>",
               "pfm": "佐野よりこ",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604439837",
+              "-ft": "20211229205500",
+              "-to": "20211229210000",
+              "-ftl": "2055",
+              "-tol": "2100",
+              "-dur": "300",
+              "title": "FMインフォメーション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><br /></div>",
               "metas": {
                 "meta": {
                   "-name": "twitter",

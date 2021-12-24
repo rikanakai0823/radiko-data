@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1640196380",
+    "srvtime": "1640369256",
     "stations": {
       "station": {
         "-id": "MYUFM",
@@ -130,30 +130,18 @@
               }
             },
             {
-              "-id": "9603850257",
+              "-id": "9604439694",
               "-ft": "20211228082000",
-              "-to": "20211228085500",
+              "-to": "20211228082500",
               "-ftl": "0820",
-              "-tol": "0855",
-              "-dur": "2100",
-              "title": "あさＣａｆｅ",
-              "url": "https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/asacafe/",
+              "-tol": "0825",
+              "-dur": "300",
+              "title": "Bran’μSong",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/asacafe/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/55018_f46f0d8f_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/6549_a3d66271_sq.png\" height=\"60\" width=\"60\" alt=\"橋村美咲\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/asacafe/\">https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/asacafe/</a><br />\tメールアドレス：<a href=\"mailto:cafe@myufm.jp\">cafe@myufm.jp</a><br />\tFAX：099-239-1130<br /><br /></div>",
-              "pfm": "橋村美咲",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/x0mdpnr37p.png",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/59599_11de55de_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/93cis1b5of.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -162,33 +150,75 @@
               }
             },
             {
-              "-id": "9603745274",
+              "-id": "9604439695",
+              "-ft": "20211228082500",
+              "-to": "20211228083000",
+              "-ftl": "0825",
+              "-tol": "0830",
+              "-dur": "300",
+              "title": "交通情報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/59600_0836f2f3_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/go59gy71d4.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604447349",
+              "-ft": "20211228083000",
+              "-to": "20211228085500",
+              "-ftl": "0830",
+              "-tol": "0855",
+              "-dur": "1500",
+              "title": "OH! HAPPY MORNING",
+              "url": "http://www.jfn.jp/oh/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/oh/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/59601_e2013e42_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br />\tあたり前の日常の中にこそ、ハッピーが詰まっている！<br />ハピモニでは、リスナーの方々と一緒に、幸せになるヒントを提案していきます！ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/oh/\">http://www.jfn.jp/oh/</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/198\">https://ssl2.jfn.co.jp/mailbox/index/198</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23hapimoni\">#hapimoni</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/hapimoni\">@hapimoni</a>」<br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/t4m6mp044d.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#hapimoni"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:hapimoni"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9604439699",
               "-ft": "20211228085500",
               "-to": "20211228090000",
               "-ftl": "0855",
               "-tol": "0900",
               "-dur": "300",
-              "title": "快適生活ラジオショッピング",
+              "title": "なるほど！かごしま",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/16503_cda4f8ea_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br />\t0120 ヨーイシナゴー!! <br />快適生活ラジオショッピング <br />商品のお申し込み･お問い合わせは <br />０１２０－４０－１４７５　まで!! <br /><br /><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/b0lv2nycdi.png",
-              "tag": {
-                "item": {
-                  "name": "快適生活、0120401475"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
-                }
-              },
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/59609_994cd7e0_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/nl8jt7aq4y.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -197,30 +227,56 @@
               }
             },
             {
-              "-id": "9603850264",
+              "-id": "9604447354",
               "-ft": "20211228090000",
-              "-to": "20211228095000",
+              "-to": "20211228094000",
               "-ftl": "0900",
-              "-tol": "0950",
-              "-dur": "3000",
-              "title": "あさＣａｆｅ",
-              "url": "https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/asacafe/",
+              "-tol": "0940",
+              "-dur": "2400",
+              "title": "OH! HAPPY MORNING",
+              "url": "http://www.jfn.jp/oh/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/asacafe/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/55019_8f695af3_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/6549_a3d66271_sq.png\" height=\"60\" width=\"60\" alt=\"橋村美咲\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/asacafe/\">https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/asacafe/</a><br />\tメールアドレス：<a href=\"mailto:cafe@myufm.jp\">cafe@myufm.jp</a><br />\tFAX：099-239-1130<br /><br /></div>",
-              "pfm": "橋村美咲",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/x0mdpnr37p.png",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/oh/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/59602_3802b9be_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br />\tあたり前の日常の中にこそ、ハッピーが詰まっている！<br />ハピモニでは、リスナーの方々と一緒に、幸せになるヒントを提案していきます！ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/oh/\">http://www.jfn.jp/oh/</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/198\">https://ssl2.jfn.co.jp/mailbox/index/198</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23hapimoni\">#hapimoni</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/hapimoni\">@hapimoni</a>」<br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/jgve4m93tc.png",
               "genre": {
                 "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
                 }
               },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#hapimoni"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:hapimoni"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9604442981",
+              "-ft": "20211228094000",
+              "-to": "20211228095000",
+              "-ftl": "0940",
+              "-tol": "0950",
+              "-dur": "600",
+              "title": "あぐりずむ",
+              "url": "https://www.tfm.co.jp/agrizm/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/agrizm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/59610_b60e8e33_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br />\t日本の未来を元気にする農業応援プログラム！全国の生産者と消費者をおいしいリズムでつなげます <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/agrizm/\">https://www.tfm.co.jp/agrizm/</a><br />\tメールアドレス：<a href=\"mailto:agri@tfm.co.jp\">agri@tfm.co.jp</a><br /> facebookページは「<a href='https://www.facebook.com/agrizm'>https://www.facebook.com/agrizm</a>」<br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/ngsvzyz98f.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -259,30 +315,55 @@
               }
             },
             {
-              "-id": "9603850271",
+              "-id": "9604447358",
               "-ft": "20211228100000",
-              "-to": "20211228110000",
+              "-to": "20211228105500",
               "-ftl": "1000",
-              "-tol": "1100",
-              "-dur": "3600",
-              "title": "あさＣａｆｅ",
-              "url": "https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/asacafe/",
+              "-tol": "1055",
+              "-dur": "3300",
+              "title": "OH! HAPPY MORNING",
+              "url": "http://www.jfn.jp/oh/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/asacafe/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/55020_cf290fc6_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/6549_a3d66271_sq.png\" height=\"60\" width=\"60\" alt=\"橋村美咲\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/asacafe/\">https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/asacafe/</a><br />\tメールアドレス：<a href=\"mailto:cafe@myufm.jp\">cafe@myufm.jp</a><br />\tFAX：099-239-1130<br /><br /></div>",
-              "pfm": "橋村美咲",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/x0mdpnr37p.png",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/oh/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/59604_4d52feed_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br />\tあたり前の日常の中にこそ、ハッピーが詰まっている！<br />ハピモニでは、リスナーの方々と一緒に、幸せになるヒントを提案していきます！ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/oh/\">http://www.jfn.jp/oh/</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/198\">https://ssl2.jfn.co.jp/mailbox/index/198</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23hapimoni\">#hapimoni</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/hapimoni\">@hapimoni</a>」<br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/a1bt0553m6.png",
               "genre": {
                 "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
                 }
               },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#hapimoni"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:hapimoni"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9604439709",
+              "-ft": "20211228105500",
+              "-to": "20211228110000",
+              "-ftl": "1055",
+              "-tol": "1100",
+              "-dur": "300",
+              "title": "Bran’μSong",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/59606_9113132a_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/waiwlughd6.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -329,50 +410,28 @@
               }
             },
             {
-              "-id": "9604014237",
+              "-id": "9604442994",
               "-ft": "20211228113000",
               "-to": "20211228125500",
               "-ftl": "1130",
               "-tol": "1255",
               "-dur": "5100",
-              "title": "アンテナ@ｂｅａｔ！！～ピピピ♪～",
-              "url": "https://www.myufm.jp/category/pipipi/",
+              "title": "Otona no Radio Alexandria",
+              "url": "https://audee.jp/program/show/57661",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.myufm.jp/category/pipipi/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/54874_397dd4bd_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/6558_db20d625_sq.png\" height=\"60\" width=\"60\" alt=\"今末真人\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.myufm.jp/category/pipipi/\">https://www.myufm.jp/category/pipipi/</a><br />\tメールアドレス：<a href=\"mailto:pipipi@myufm.jp\">pipipi@myufm.jp</a><br />\tFAX：099-239-1130<br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%A2%E3%83%B3%E3%83%86%E3%83%8A%E3%83%94%E3%83%94%E3%83%94\">#アンテナピピピ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/antena_beat\">@antena_beat</a>」<br /><br /></div>",
-              "pfm": "今末真人",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/gfq2plifxc.png",
-              "tag": {
-                "item": {
-                  "name": "アンテナピピピ"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://audee.jp/program/show/57661\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/59605_37875761_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br />\tロバート・ハリスが送る、プレミアム世代へ向けた文化情報発信番組。<br />深夜放送でラジオを知り、聴こえてくる人声に笑い、泣き、怒ったプレミアム世代。<br />聴こえてきた音楽から“新しいライフスタイル”も知りました。<br />ラジオとともに時代を駆け抜けたプレミアム世代にとっての新たな”サード・プレイス”として、心躍る懐かしの音楽とともに、好奇心をくすぐる雑談を添えて、”様々な生き方”のヒントを共有していきます。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/57661\">https://audee.jp/program/show/57661</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/423\">https://ssl2.jfn.co.jp/mailbox/index/423</a><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/vczddgialy.png",
               "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#アンテナピピピ"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:antena_beat"
-                  }
-                ]
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
               }
             },
             {
-              "-id": "9603988731",
+              "-id": "9604332696",
               "-ft": "20211228125500",
               "-to": "20211228130000",
               "-ftl": "1255",
@@ -390,10 +449,6 @@
                 "personality": {
                   "-id": "C003",
                   "name": "女優"
-                },
-                "program": {
-                  "-id": "P015",
-                  "name": "教養"
                 }
               },
               "metas": {
@@ -436,30 +491,19 @@
               }
             },
             {
-              "-id": "9603844764",
+              "-id": "9604443015",
               "-ft": "20211228133000",
               "-to": "20211228135500",
               "-ftl": "1330",
               "-tol": "1355",
               "-dur": "1500",
-              "title": "Seasoning～season your life with music～",
-              "url": "http://www.jfn.jp/seasoning",
+              "title": "年末特別番組「羽ばたいてるね年末特番 流行リベンジャーズ２０２１」",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/seasoning\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/38287_c0b54344_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6469_339aa7b8_sq.jpg\" height=\"60\" width=\"60\" alt=\"市川美絵\"></td>  </tr></table><br /><br />\tradio。<br />ふと流れてきた音楽に癒され、ふと流れてきた言葉に心癒される瞬間があります。<br />それは、人生のちょっとしたエッセンス、そしてスパイスです。<br /><br />Seasoning　～音楽で、言葉で、あなたの人生を彩ります。～ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/seasoning\">http://www.jfn.jp/seasoning</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/255\">https://ssl2.jfn.co.jp/mailbox/index/255</a><br /><br /></div>",
-              "pfm": "市川美絵",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/h3vyc868ro.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10448_2b23e8a5_sq.jpg\" height=\"60\" width=\"60\" alt=\"赤荻瞳\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10449_6675ed21_sq.jpg\" height=\"60\" width=\"60\" alt=\"うさたにパイセン\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/1030_e0c12aaa_sq.jpg\" height=\"60\" width=\"60\" alt=\"Chigusa\"></td>  </tr></table><br /><br />\t2020年から引き続きコロナ禍だった2021年。<br />これまで以上に、時代にフィット・最適化したエンターテイメントやグルメなどが求められてきました。<br />その一方で、Z世代を筆頭に巻き起こっているのが「レトロブーム」！フィルムカメラ・ルーズソックス・平成ギャル・などなど…繰り返される流行のリベンジ！そんな中、本当の流行とははたしてなんなのか？！<br />どの時代でもムーブメントの中心となってきた「ギャル」という存在。<br />この番組では、令和ギャル世代（Z世代）が映画・動画配信・本・ゲーム・グルメ…といったあらゆるジャンルにおける「2021年の流行りもの」を＜Z世代目線と大人目線＞で振り返りつつ、世代を超えて愛される真のムーブメントの在り方を探ります。 <br /><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/439\">https://ssl2.jfn.co.jp/mailbox/index/439</a><br /><br /></div>",
+              "pfm": "赤荻瞳 / うさたにパイセン / Chigusa",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/w08ffua29i.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -503,92 +547,19 @@
               }
             },
             {
-              "-id": "9603844790",
+              "-id": "9604443021",
               "-ft": "20211228140000",
-              "-to": "20211228141500",
-              "-ftl": "1400",
-              "-tol": "1415",
-              "-dur": "900",
-              "title": "Seasoning～season your life with music～",
-              "url": "http://www.jfn.jp/seasoning",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/seasoning\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/38288_190ec59f_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6469_339aa7b8_sq.jpg\" height=\"60\" width=\"60\" alt=\"市川美絵\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6653_e7e20792_sq.jpg\" height=\"60\" width=\"60\" alt=\"乙武洋匡\"></td>  </tr></table><br /><br />\tradio。<br />ふと流れてきた音楽に癒され、ふと流れてきた言葉に心癒される瞬間があります。<br />それは、人生のちょっとしたエッセンス、そしてスパイスです。<br /><br />Seasoning　～音楽で、言葉で、あなたの人生を彩ります。～ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/seasoning\">http://www.jfn.jp/seasoning</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/255\">https://ssl2.jfn.co.jp/mailbox/index/255</a><br /><br /></div>",
-              "pfm": "市川美絵 / 乙武洋匡",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/h3vyc868ro.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9603745531",
-              "-ft": "20211228141500",
-              "-to": "20211228142000",
-              "-ftl": "1415",
-              "-tol": "1420",
-              "-dur": "300",
-              "title": "JFNﾗｼﾞｵｼｮｯﾋﾟﾝｸﾞ",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/3896_b05671fe_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/b0lv2nycdi.png",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9603844808",
-              "-ft": "20211228142000",
               "-to": "20211228145500",
-              "-ftl": "1420",
+              "-ftl": "1400",
               "-tol": "1455",
-              "-dur": "2100",
-              "title": "Seasoning～season your life with music～",
-              "url": "http://www.jfn.jp/seasoning",
+              "-dur": "3300",
+              "title": "年末特別番組「羽ばたいてるね年末特番 流行リベンジャーズ２０２１」",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/seasoning\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/38289_f74922ba_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6469_339aa7b8_sq.jpg\" height=\"60\" width=\"60\" alt=\"市川美絵\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6653_e7e20792_sq.jpg\" height=\"60\" width=\"60\" alt=\"乙武洋匡\"></td>  </tr></table><br /><br />\tradio。<br />ふと流れてきた音楽に癒され、ふと流れてきた言葉に心癒される瞬間があります。<br />それは、人生のちょっとしたエッセンス、そしてスパイスです。<br /><br />Seasoning　～音楽で、言葉で、あなたの人生を彩ります。～ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/seasoning\">http://www.jfn.jp/seasoning</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/255\">https://ssl2.jfn.co.jp/mailbox/index/255</a><br /><br /></div>",
-              "pfm": "市川美絵 / 乙武洋匡",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/h3vyc868ro.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10448_2b23e8a5_sq.jpg\" height=\"60\" width=\"60\" alt=\"赤荻瞳\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10449_6675ed21_sq.jpg\" height=\"60\" width=\"60\" alt=\"うさたにパイセン\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/1030_e0c12aaa_sq.jpg\" height=\"60\" width=\"60\" alt=\"Chigusa\"></td>  </tr></table><br /><br />\t2020年から引き続きコロナ禍だった2021年。<br />これまで以上に、時代にフィット・最適化したエンターテイメントやグルメなどが求められてきました。<br />その一方で、Z世代を筆頭に巻き起こっているのが「レトロブーム」！フィルムカメラ・ルーズソックス・平成ギャル・などなど…繰り返される流行のリベンジ！そんな中、本当の流行とははたしてなんなのか？！<br />どの時代でもムーブメントの中心となってきた「ギャル」という存在。<br />この番組では、令和ギャル世代（Z世代）が映画・動画配信・本・ゲーム・グルメ…といったあらゆるジャンルにおける「2021年の流行りもの」を＜Z世代目線と大人目線＞で振り返りつつ、世代を超えて愛される真のムーブメントの在り方を探ります。 <br /><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/439\">https://ssl2.jfn.co.jp/mailbox/index/439</a><br /><br /></div>",
+              "pfm": "赤荻瞳 / うさたにパイセン / Chigusa",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/r97279idtq.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -617,94 +588,19 @@
               }
             },
             {
-              "-id": "9603844856",
+              "-id": "9604443030",
               "-ft": "20211228150000",
-              "-to": "20211228154200",
-              "-ftl": "1500",
-              "-tol": "1542",
-              "-dur": "2520",
-              "title": "Seasoning～season your life with music～",
-              "url": "http://www.jfn.jp/seasoning",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/seasoning\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/38290_fac5d3a0_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6469_339aa7b8_sq.jpg\" height=\"60\" width=\"60\" alt=\"市川美絵\"></td>  </tr></table><br /><br />\tこれまでも、そしてこれからも、ラジオは聴き手の生活に近く寄り添ったもの。<br />ふと流れてきた音楽に癒され、ふと流れてきた言葉に心癒される瞬間がある。<br />それは、多くの人にとって人生の全てではありませんが、大切なエッセンス、そしてスパイスです。<br /><br />Seasoning　～音楽で、言葉で、あなたの人生を彩ります。～ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/seasoning\">http://www.jfn.jp/seasoning</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/255\">https://ssl2.jfn.co.jp/mailbox/index/255</a><br /><br /></div>",
-              "pfm": "市川美絵",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/h3vyc868ro.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9603844883",
-              "-ft": "20211228154200",
-              "-to": "20211228154700",
-              "-ftl": "1542",
-              "-tol": "1547",
-              "-dur": "300",
-              "title": "Seasoning～season your life with music～",
-              "url": "http://www.jfn.jp/seasoning",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/seasoning\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/38292_ddd830e0_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6469_339aa7b8_sq.jpg\" height=\"60\" width=\"60\" alt=\"市川美絵\"></td>  </tr></table><br /><br />\tradio。<br />ふと流れてきた音楽に癒され、ふと流れてきた言葉に心癒される瞬間があります。<br />それは、人生のちょっとしたエッセンス、そしてスパイスです。<br /><br />Seasoning　～音楽で、言葉で、あなたの人生を彩ります。～ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/seasoning\">http://www.jfn.jp/seasoning</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/255\">https://ssl2.jfn.co.jp/mailbox/index/255</a><br /><br /></div>",
-              "pfm": "市川美絵",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/h3vyc868ro.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9603844890",
-              "-ft": "20211228154700",
               "-to": "20211228155500",
-              "-ftl": "1547",
+              "-ftl": "1500",
               "-tol": "1555",
-              "-dur": "480",
-              "title": "Seasoning～season your life with music～",
-              "url": "http://www.jfn.jp/seasoning",
+              "-dur": "3300",
+              "title": "年末特別番組「羽ばたいてるね年末特番 流行リベンジャーズ２０２１」",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/seasoning\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/38291_a4dccbdd_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/6469_339aa7b8_sq.jpg\" height=\"60\" width=\"60\" alt=\"市川美絵\"></td>  </tr></table><br /><br />\tradio。<br />ふと流れてきた音楽に癒され、ふと流れてきた言葉に心癒される瞬間があります。<br />それは、人生のちょっとしたエッセンス、そしてスパイスです。<br /><br />Seasoning　～音楽で、言葉で、あなたの人生を彩ります。～ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/seasoning\">http://www.jfn.jp/seasoning</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/255\">https://ssl2.jfn.co.jp/mailbox/index/255</a><br /><br /></div>",
-              "pfm": "市川美絵",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/h3vyc868ro.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10448_2b23e8a5_sq.jpg\" height=\"60\" width=\"60\" alt=\"赤荻瞳\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10449_6675ed21_sq.jpg\" height=\"60\" width=\"60\" alt=\"うさたにパイセン\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/1030_e0c12aaa_sq.jpg\" height=\"60\" width=\"60\" alt=\"Chigusa\"></td>  </tr></table><br /><br />\t2020年から引き続きコロナ禍だった2021年。<br />これまで以上に、時代にフィット・最適化したエンターテイメントやグルメなどが求められてきました。<br />その一方で、Z世代を筆頭に巻き起こっているのが「レトロブーム」！フィルムカメラ・ルーズソックス・平成ギャル・などなど…繰り返される流行のリベンジ！そんな中、本当の流行とははたしてなんなのか？！<br />どの時代でもムーブメントの中心となってきた「ギャル」という存在。<br />この番組では、令和ギャル世代（Z世代）が映画・動画配信・本・ゲーム・グルメ…といったあらゆるジャンルにおける「2021年の流行りもの」を＜Z世代目線と大人目線＞で振り返りつつ、世代を超えて愛される真のムーブメントの在り方を探ります。 <br /><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/439\">https://ssl2.jfn.co.jp/mailbox/index/439</a><br /><br /></div>",
+              "pfm": "赤荻瞳 / うさたにパイセン / Chigusa",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/s49222t6ub.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -745,51 +641,154 @@
               }
             },
             {
-              "-id": "9603850308",
+              "-id": "9604443039",
               "-ft": "20211228160000",
-              "-to": "20211228190000",
+              "-to": "20211228164500",
               "-ftl": "1600",
-              "-tol": "1900",
-              "-dur": "10800",
-              "title": "μ’s UP",
-              "url": "https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/myus-up/",
+              "-tol": "1645",
+              "-dur": "2700",
+              "title": "Happy Hour Party!",
+              "url": "http://www.jfn.jp/hhp",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/myus-up/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/54991_d4c10072_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/9514_ba708a66_sq.png\" height=\"60\" width=\"60\" alt=\"DJ POCKY\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/person/9515_138de6ef_sq.png\" height=\"60\" width=\"60\" alt=\"安藤 菜夏\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/myus-up/\">https://www.myufm.jp/category/%e7%95%aa%e7%b5%84/myus-up/</a><br />\tメールアドレス：<a href=\"mailto:up@myufm.jp\">up@myufm.jp</a><br />\tFAX：099-239-1130<br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%82%A2%E3%83%83%E3%83%97\">#ミューズアップ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/myufm_myusup\">@myufm_myusup</a>」<br /><br /></div>",
-              "pfm": "DJ POCKY / 安藤 菜夏",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/ztd0myjaun.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "FM鹿児島"
-                  },
-                  {
-                    "name": "ミューズアップ"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/hhp\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/59620_8e480826_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br />\t『列島各地のお楽しみから、その夜のエンターテイメントをリスナーに届けるプログラム』<br />チョっとした時間で、サクっと聞ける45分番組。<br />これから始まるプライベートな時間にワクワクしている人も、お仕事をもう一頑張りしようと思っている人も、気持ちがグッとアガる、目線もあがる、やる気がみなぎる刺激的な選曲と、成分濃いめのトークをお届けします。 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/hhp\">http://www.jfn.jp/hhp</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/157\">https://ssl2.jfn.co.jp/mailbox/index/157</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23hhp\">#hhp</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/jfn_hhp\">@jfn_hhp</a>」<br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/7evj9h6ekx.png",
               "metas": {
                 "meta": [
                   {
                     "-name": "twitter",
-                    "-value": "#ミューズアップ"
+                    "-value": "#hhp"
                   },
                   {
                     "-name": "twitter",
-                    "-value": "from:myufm_myusup"
+                    "-value": "from:jfn_hhp"
                   }
                 ]
+              }
+            },
+            {
+              "-id": "9604443046",
+              "-ft": "20211228164500",
+              "-to": "20211228165500",
+              "-ftl": "1645",
+              "-tol": "1655",
+              "-dur": "600",
+              "title": "SUZUKI No.1 Factory",
+              "url": "https://www.tfm.co.jp/factory/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/factory/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/59621_94abf0a1_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br />\t俳優・八嶋智人がパーソナリティをつとめる新番組『SUZUKI No.1 Factory』。<br />音楽・映画・漫画・アニメ・グルメ・スポーツなど、様々なジャンルで現在・過去に「No.1」となったトピックを毎日ピックアップ。その裏にあるエピソードと共に、栄光のNo.1ストーリーや、明日話したくなるトリビアを紹介していきます。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/factory/\">https://www.tfm.co.jp/factory/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/factory/message\">https://www.tfm.co.jp/f/factory/message</a><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/mkzleei7c8.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604439730",
+              "-ft": "20211228165500",
+              "-to": "20211228170000",
+              "-ftl": "1655",
+              "-tol": "1700",
+              "-dur": "300",
+              "title": "Bran’μSong",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/59617_041f60bc_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/wm2gtnh4n6.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604422162",
+              "-ft": "20211228170000",
+              "-to": "20211228175500",
+              "-ftl": "1700",
+              "-tol": "1755",
+              "-dur": "3300",
+              "title": "ずぼら主婦の年末年始。",
+              "url": "https://www.myufm.jp/12%e6%9c%8828%e6%97%a5%e7%81%ab1700%ef%bd%9eoa%f0%9f%92%a1%e3%81%9a%e3%81%bc%e3%82%89%e4%b8%bb%e5%a9%a6%e3%81%ae%e5%b9%b4%e6%9c%ab%e5%b9%b4%e5%a7%8b%e3%80%82%f0%9f%a7%b9/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.myufm.jp/12%e6%9c%8828%e6%97%a5%e7%81%ab1700%ef%bd%9eoa%f0%9f%92%a1%e3%81%9a%e3%81%bc%e3%82%89%e4%b8%bb%e5%a9%a6%e3%81%ae%e5%b9%b4%e6%9c%ab%e5%b9%b4%e5%a7%8b%e3%80%82%f0%9f%a7%b9/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/59588_896f0ca3_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br />\t毎日、家事に育児に奔走する主婦の皆さんへ送る<br />賢く家事をこなすための情報番組。<br />少しの工夫や、アイテムで、家事はもっと楽になる！？<br /><br />主婦の皆さんの年末年始を少しでも楽にするための情報をご紹介！<br />主婦の皆さんへのご褒美プレゼントも豪華にご用意しております♪ <br /><br />\t番組Webサイト：<a href=\"https://www.myufm.jp/12%e6%9c%8828%e6%97%a5%e7%81%ab1700%ef%bd%9eoa%f0%9f%92%a1%e3%81%9a%e3%81%bc%e3%82%89%e4%b8%bb%e5%a9%a6%e3%81%ae%e5%b9%b4%e6%9c%ab%e5%b9%b4%e5%a7%8b%e3%80%82%f0%9f%a7%b9/\">https://www.myufm.jp/12%e6%9c%8828%e6%97%a5%e7%81%ab1700%ef%bd%9eoa%f0%9f%92%a1%e3%81%9a%e3%81%bc%e3%82%89%e4%b8%bb%e5%a9%a6%e3%81%ae%e5%b9%b4%e6%9c%ab%e5%b9%b4%e5%a7%8b%e3%80%82%f0%9f%a7%b9/</a><br />\tメールアドレス：<a href=\"mailto:zubora@myufm.jp\">zubora@myufm.jp</a><br />\tFAX：099-239-1130<br /><br /></div>",
+              "pfm": "遠藤陽子 / ありまゆき",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/4hsponhu1t.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604439736",
+              "-ft": "20211228175500",
+              "-to": "20211228180000",
+              "-ftl": "1755",
+              "-tol": "1800",
+              "-dur": "300",
+              "title": "やかぜ！スマイルキャンパス",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/59618_1569263a_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/ixignykq4r.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604439739",
+              "-ft": "20211228180000",
+              "-to": "20211228185500",
+              "-ftl": "1800",
+              "-tol": "1855",
+              "-dur": "3300",
+              "title": "そなえるラジオ～2021年、鹿児島の災害を振り返る～",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/59589_0b93d67d_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>  </tr></table><br /><br />\t2021年に発生した災害を振り返り<br />それを教訓に始まった新たな取り組みをご紹介。<br /><br />また、家族が集まる年末年始だからこそ話し合いたい<br />防災の話題をお送りします。プレゼントもご用意！ <br /><br /><br /></div>",
+              "pfm": "今末真人",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/ry4z3nbrw6.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604439740",
+              "-ft": "20211228185500",
+              "-to": "20211228190000",
+              "-ftl": "1855",
+              "-tol": "1900",
+              "-dur": "300",
+              "title": "JFNニュース",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.myufm.jp/myufmjp/myufm/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/OV/program/59622_54bf7b83_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/wbxyzc9xoi.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
               }
             },
             {
