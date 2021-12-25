@@ -1,0 +1,858 @@
+{
+  "radiko": {
+    "ttl": "1800",
+    "srvtime": "1640455640",
+    "stations": {
+      "station": {
+        "-id": "CBC",
+        "name": "CBCラジオ",
+        "progs": {
+          "date": "20211231",
+          "prog": [
+            {
+              "-id": "9604556851",
+              "-ft": "20211231050000",
+              "-to": "20211231052500",
+              "-ftl": "0500",
+              "-tol": "0525",
+              "-dur": "1500",
+              "title": "いっしょに歌お！CBCラジオ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/b11fecca-ad25-43c5-9eaa-d3b6d5cedd18.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604383229",
+              "-ft": "20211231052500",
+              "-to": "20211231053000",
+              "-ftl": "0525",
+              "-tol": "0530",
+              "-dur": "300",
+              "title": "ＣＢＣラジオショッピング",
+              "url": "http://www.j-shopping.jp/cbc/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "CBCが選ぶ、おトクな商品をご紹介します。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/ab1c097c-1cae-4518-bfa1-18baa2d30769.png",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604544655",
+              "-ft": "20211231053000",
+              "-to": "20211231063000",
+              "-ftl": "0530",
+              "-tol": "0630",
+              "-dur": "3600",
+              "title": "生島ヒロシのおはよう一直線",
+              "url": "http://www.tbs.co.jp/radio/ohayou/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "楽しく元気で爽やかな「スポーツ新聞ラジオ版」",
+              "info": "ニュース、スポーツ、健康、シニアライフ、介護などをキーワードにわかりやすく、お伝えしていきます。",
+              "pfm": "生島ヒロシ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/n9i7kubnjx.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604556886",
+              "-ft": "20211231063000",
+              "-to": "20211231064500",
+              "-ftl": "0630",
+              "-tol": "0645",
+              "-dur": "900",
+              "title": "いっしょに歌お！CBCラジオ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/b11fecca-ad25-43c5-9eaa-d3b6d5cedd18.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604383348",
+              "-ft": "20211231064500",
+              "-to": "20211231070000",
+              "-ftl": "0645",
+              "-tol": "0700",
+              "-dur": "900",
+              "title": "歌のない歌謡曲",
+              "url": "http://hicbc.com/radio/utanasi/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "「歌のない歌謡曲」では、なつメロから最新のヒット曲まで皆さんのリクエストにカラオケでお応えしていきます。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/eaa20984-6000-454a-9004-053e28ae3f9c.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604383396",
+              "-ft": "20211231070000",
+              "-to": "20211231090000",
+              "-ftl": "0700",
+              "-tol": "0900",
+              "-dur": "7200",
+              "title": "北野誠のズバリ 大みそかスペシャル（第一部）",
+              "url": "http://hicbc.com/radio/makozuba/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "平日の午後にお送りしている「北野誠のズバリ」の、毎年恒例大みそかスペシャル番組を、夕方5時まで、【10時間】の特大生放送でお送りします！\n<br />「2021年のニュース」を、浅草キッドの水道橋博士、大川興業の大川総裁他、ズバリファミリーのゲストを迎え、振り返ります。\n<br />また、「大みそか中継」や、番組の人気コーナー「大人電話相談室　リターンズ」も開催！\n<br />大晦日もズバリで決まり！\n\n<br /><br />ズバリ公式LINE＠は<a href=\"http://accountpage.line.me/makozuba1053\"><u>ここから</u></a>\n<br />番組記事を読む→<a href=\"https://radichubu.jp/makozuba/\"><u>こちら</u></a>\n<br />番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=384'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n",
+              "pfm": "北野誠　松岡亜矢子（午前アシスタント）　水道橋博士（浅草キッド） 大川豊（大川興業総裁）　戸井康成　河原崎辰也　松原タニシ　太廊ほか",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/44frmnsgec.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604383709",
+              "-ft": "20211231090000",
+              "-to": "20211231115500",
+              "-ftl": "0900",
+              "-tol": "1155",
+              "-dur": "10500",
+              "title": "北野誠のズバリ 大みそかスペシャル（第一部）",
+              "url": "http://hicbc.com/radio/makozuba/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "平日の午後にお送りしている「北野誠のズバリ」の、毎年恒例大みそかスペシャル番組を、夕方5時まで、【10時間】の特大生放送でお送りします！\n<br />「2021年のニュース」を、浅草キッドの水道橋博士、大川興業の大川総裁他、ズバリファミリーのゲストを迎え、振り返ります。\n<br />また、「大みそか中継」や、番組の人気コーナー「大人電話相談室　リターンズ」も開催！\n<br />大晦日もズバリで決まり！\n\n<br /><br />10時40分頃からは「キユーピーラジオクッキング」\n<br />レシピはこちら <a href='http://hicbc.com/radio/kikeba/cooking/'>http://hicbc.com/radio/kikeba/cooking/</a>\n\n<br /><br />ズバリ公式LINE＠は<a href=\"http://accountpage.line.me/makozuba1053\"><u>ここから</u></a>\n<br />番組記事を読む→<a href=\"https://radichubu.jp/makozuba/\"><u>こちら</u></a>\n<br />番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=384'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n",
+              "pfm": "北野誠　松岡亜矢子（午前アシスタント）　水道橋博士（浅草キッド） 大川豊（大川興業総裁）　戸井康成　河原崎辰也　松原タニシ　太廊ほか",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/44frmnsgec.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604309307",
+              "-ft": "20211231115500",
+              "-to": "20211231120000",
+              "-ftl": "1155",
+              "-tol": "1200",
+              "-dur": "300",
+              "title": "ニュース",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "最新のニュースをお伝えします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/8012b89f-e068-4972-ae6d-81b4c0601d59.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604376586",
+              "-ft": "20211231120000",
+              "-to": "20211231122000",
+              "-ftl": "1200",
+              "-tol": "1220",
+              "-dur": "1200",
+              "title": "テレフォン人生相談",
+              "url": "http://www.1242.com/radio/jinseisoudan/",
+              "failed_record": "0",
+              "ts_in_ng": "1",
+              "ts_out_ng": "1",
+              "desc": "誰にも相談できない「悩み」や「苦しみ」でお困りの方、専門家がお答えします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/amob4vqjeh.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P009",
+                  "name": "ドキュメンタリー"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604386920",
+              "-ft": "20211231122000",
+              "-to": "20211231123000",
+              "-ftl": "1220",
+              "-tol": "1230",
+              "-dur": "600",
+              "title": "青春☆昼放課トーク season2",
+              "url": "https://hicbc.com/radio/sdgs/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "地元高校生が出演する昼放課トーク番組\n\n<br /><br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=408'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/eaa20984-6000-454a-9004-053e28ae3f9c.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604384011",
+              "-ft": "20211231123000",
+              "-to": "20211231130000",
+              "-ftl": "1230",
+              "-tol": "1300",
+              "-dur": "1800",
+              "title": "きく！ラジオ",
+              "url": "http://hicbc.com/radio/kikuradio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "ランチタイムに聴く“健康ラジオ”であなたもスッキリ健康生活！",
+              "info": "より健やかに生きていくために必要な「健康」「医療」に関する「正しい知識や情報」をわかりやすくお伝えします。\n\n<br /><br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=394'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
+              "pfm": "渡辺美香",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/051b1126-27dc-4c46-b7f3-9dabb7eefefb.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P010",
+                  "name": "医療"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604384098",
+              "-ft": "20211231130000",
+              "-to": "20211231150000",
+              "-ftl": "1300",
+              "-tol": "1500",
+              "-dur": "7200",
+              "title": "北野誠のズバリ 大みそかスペシャル（第二部）",
+              "url": "http://hicbc.com/radio/makozuba/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "平日の午後にお送りしている「北野誠のズバリ」の、毎年恒例大みそかスペシャル番組を、夕方5時まで、【10時間】の特大生放送でお送りします！\n<br />「2021年のニュース」を、浅草キッドの水道橋博士、大川興業の大川総裁他、ズバリファミリーのゲストを迎え、振り返ります。\n<br />また、「大みそか中継」や、番組の人気コーナー「大人電話相談室　リターンズ」も開催！\n<br />大晦日もズバリで決まり！\n\n<br /><br />ズバリ公式LINE＠は<a href=\"http://accountpage.line.me/makozuba1053\"><u>ここから</u></a>\n<br />番組記事を読む→<a href=\"https://radichubu.jp/makozuba/\"><u>こちら</u></a>\n<br />番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=384'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n",
+              "pfm": "北野誠　氏田朋子（午後アシスタント）　水道橋博士（浅草キッド） 大川豊（大川興業総裁）　戸井康成　河原崎辰也　松原タニシ　太廊ほか",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/44frmnsgec.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604384293",
+              "-ft": "20211231150000",
+              "-to": "20211231170000",
+              "-ftl": "1500",
+              "-tol": "1700",
+              "-dur": "7200",
+              "title": "北野誠のズバリ 大みそかスペシャル（第二部）",
+              "url": "http://hicbc.com/radio/makozuba/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "平日の午後にお送りしている「北野誠のズバリ」の、毎年恒例大みそかスペシャル番組を、夕方5時まで、【10時間】の特大生放送でお送りします！\n<br />「2021年のニュース」を、浅草キッドの水道橋博士、大川興業の大川総裁他、ズバリファミリーのゲストを迎え、振り返ります。\n<br />また、「大みそか中継」や、番組の人気コーナー「大人電話相談室　リターンズ」も開催！\n<br />大晦日もズバリで決まり！\n\n<br /><br />ズバリ公式LINE＠は<a href=\"http://accountpage.line.me/makozuba1053\"><u>ここから</u></a>\n<br />番組記事を読む→<a href=\"https://radichubu.jp/makozuba/\"><u>こちら</u></a>\n<br />番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=384'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n",
+              "pfm": "北野誠　氏田朋子（午後アシスタント）　水道橋博士（浅草キッド） 大川豊（大川興業総裁）　戸井康成　河原崎辰也　松原タニシ　太廊ほか",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/44frmnsgec.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604309364",
+              "-ft": "20211231170000",
+              "-to": "20211231170500",
+              "-ftl": "1700",
+              "-tol": "1705",
+              "-dur": "300",
+              "title": "ニュース",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "最新のニュースをお伝えします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/8012b89f-e068-4972-ae6d-81b4c0601d59.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604557150",
+              "-ft": "20211231170500",
+              "-to": "20211231171500",
+              "-ftl": "1705",
+              "-tol": "1715",
+              "-dur": "600",
+              "title": "いっしょに歌お！CBCラジオ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/b11fecca-ad25-43c5-9eaa-d3b6d5cedd18.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604384564",
+              "-ft": "20211231171500",
+              "-to": "20211231171900",
+              "-ftl": "1715",
+              "-tol": "1719",
+              "-dur": "240",
+              "title": "唄う長島温泉",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/f704f565-396b-4a41-a9ec-09cc5d293454.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604391961",
+              "-ft": "20211231171900",
+              "-to": "20211231173000",
+              "-ftl": "1719",
+              "-tol": "1730",
+              "-dur": "660",
+              "title": "GIFT",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/eaa20984-6000-454a-9004-053e28ae3f9c.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604384601",
+              "-ft": "20211231173000",
+              "-to": "20211231174500",
+              "-ftl": "1730",
+              "-tol": "1745",
+              "-dur": "900",
+              "title": "ネットワークトゥデイ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/eaa20984-6000-454a-9004-053e28ae3f9c.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604309370",
+              "-ft": "20211231174500",
+              "-to": "20211231174700",
+              "-ftl": "1745",
+              "-tol": "1747",
+              "-dur": "120",
+              "title": "交通情報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/b316c424-e03a-4bb9-8204-3ea7687e3195.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604309371",
+              "-ft": "20211231174700",
+              "-to": "20211231175000",
+              "-ftl": "1747",
+              "-tol": "1750",
+              "-dur": "180",
+              "title": "天気予報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/ceb9895e-1464-48c9-abd0-fb2ff0ecdf4b.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604557160",
+              "-ft": "20211231175000",
+              "-to": "20211231180000",
+              "-ftl": "1750",
+              "-tol": "1800",
+              "-dur": "600",
+              "title": "いっしょに歌お！CBCラジオ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/b11fecca-ad25-43c5-9eaa-d3b6d5cedd18.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604384683",
+              "-ft": "20211231180000",
+              "-to": "20211231210000",
+              "-ftl": "1800",
+              "-tol": "2100",
+              "-dur": "10800",
+              "title": "河原崎辰也いくしかないだろう！年末スペシャル",
+              "url": "https://hicbc.com/radio/ikushika/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "日曜の夕方にお送りしている「河原崎辰也いくしかないだろう！」の年末スペシャル番組を、夕方6時から夜9時まで3時間生放送でお送りします！\n<br />特番では、2021年の今年のニュ－スの振り返りや、気になるおやつを取り上げる番組の人気コーナー「清水藍のスイーツタイム」。\n<br />そのほか、年末年始におススメの映画や、DVDを紹介する「辰ムービー」、今年の愚痴を川柳で発散！河原崎があなたの川柳を歌って紹介する「ブルース川柳」のコーナーなど、内容満載でお送りします！\n\n\n\n<br /><br />番組記事を読む→<a href=\"https://radichubu.jp/ikushika/\"><u>こちら</u></a>\n<br />番組ツイッターは<a href=\"https://twitter.com/ikushika1053\"><u>こちら</u></a>\n<br/>番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=377'><u>こちら</u></a>\n<br/>FAXは 052-263-6800 まで",
+              "pfm": "河原崎辰也　清水藍",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/18a3319e-cc72-4ff5-aefc-29fd15676101.png",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604385070",
+              "-ft": "20211231210000",
+              "-to": "20211231213000",
+              "-ftl": "2100",
+              "-tol": "2130",
+              "-dur": "1800",
+              "title": "ツレよる『酒井松原』",
+              "url": "https://hicbc.com/radio/tsureuyoru_thu/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "CBCラジオに出演している若手パーソナリティ3組が、新たな一面にチャレンジする30分のトーク番組。\n<br />事故物件住みます芸人の松原タニシと、大須生まれ大須育ちのピン芸人酒井直斗の二人が、不定期で行っていたトークライブ「酒井松原」がラジオに登場！\n\n<br /><br />番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=626'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
+              "pfm": "松原タニシ　酒井直斗",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/eaa20984-6000-454a-9004-053e28ae3f9c.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604387082",
+              "-ft": "20211231213000",
+              "-to": "20211231214000",
+              "-ftl": "2130",
+              "-tol": "2140",
+              "-dur": "600",
+              "title": "RADIO MIKU",
+              "url": "https://radichubu.jp/radiomiku/top",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "ファン歴14年のエクスパート清水藍が、斉藤初音アナウンサーに初音ミクの魅力をレクチャーしながら、ふたりで「ミクスパート」（初音ミクのエクスパート）を目指す10分番組。\n<br/>おすすめのミク曲、ミクの仲間たち、季節ならではの情報もたっぷりお届けします！\n\n\n<br /><br />番組Twitterは<a href=\"https://twitter.com/RADIO_MIKU\"><u>こちら</u></a>\n<br />ハッシュタグは #らじみく 推奨\n<br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=587'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
+              "pfm": "清水藍　斉藤初音",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/c60520ba-7a24-46f4-b506-538e9e9f61a1.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "らじみく"
+                  },
+                  {
+                    "name": "初音ミク"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604309423",
+              "-ft": "20211231214000",
+              "-to": "20211231214500",
+              "-ftl": "2140",
+              "-tol": "2145",
+              "-dur": "300",
+              "title": "ニュース・天気予報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "この時間は、最新のニュースと天気予報をお伝えします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/8012b89f-e068-4972-ae6d-81b4c0601d59.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604385113",
+              "-ft": "20211231214500",
+              "-to": "20211231220000",
+              "-ftl": "2145",
+              "-tol": "2200",
+              "-dur": "900",
+              "title": "ココロのオンガク～music for you～",
+              "url": "http://www.joqr.co.jp/musicmusic/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "音楽を通じて気持ちが駆け上がる瞬間を感じて下さい。<br />\n音楽を通じて心和む瞬間を感じて下さい。<br />\n音楽を通じて明日への力をチャージして下さい。<br />\n「ココロのオンガク ～music for you～」は、音楽を通じて、\"今を生きる\"皆さんを応援する番組です。<br />\nパーソナリティーは、各音楽番組や音楽イベントで司会を担当し、洋邦問わず音楽に造詣が深い井手大介。<br />\nそんな井手大介が、\"今を生きる\"皆さんからのリアルなメッセージ、そしてリクエスト曲をもとにお届けします。<br />\n主役は皆さんのメッセージ、そして音楽です。<br /><br />\nメッセージ・リクエスト曲は music@joqr.netまでお待ちしております。\n",
+              "pfm": "井手大介",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/qq9fz8jly4.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604387095",
+              "-ft": "20211231220000",
+              "-to": "20220101003000",
+              "-ftl": "2200",
+              "-tol": "2430",
+              "-dur": "9000",
+              "title": "チュウモリ『MIX YOUTH RADIO　年越しSP～ホントに僕たちが年越し番組やってもいいんですか？～』",
+              "url": "https://hicbc.com/radio/mixyouthradio",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "CBCラジオが手掛けるボーイズユニット「STELLAθ（ステラシータ）」の6人が初の年越し番組を担当します。    \n<br />昨年2020年12月30日放送で予想した2021年の流行りものの答え合わせや大晦日の街頭インタビュー（チャンスがあれば中継も）、生歌コーナー、「BE:FIRSTのBE:TALK」や「ウルトラ寿司ふぁいやーの全てはエンターテイメント」の年末SPバージョン、更に第2・4金曜日を担当しているBMKの出演や、ボイメンエリア研究生がしている「夢見荘」からの中継コーナーも予定しています。  \n\n<br/><br />番組ツイッターは<a href=\"https://twitter.com/mix_youth_radio\"><u>こちら</u></a>\n<br/>番組記事を読む→<a href='https://radichubu.jp/mixyouthradio'><u>こちら</u></a>\n<br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=522'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
+              "pfm": "STELLAθ（ステラシータ）　BMK（予定）　ボイメンエリア研究生（予定）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/04c850cd-1399-4263-8270-967faf9cc65b.png",
+              "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604557322",
+              "-ft": "20220101003000",
+              "-to": "20220101010000",
+              "-ftl": "2430",
+              "-tol": "2500",
+              "-dur": "1800",
+              "title": "Sky presents　藤原竜也のラジオ",
+              "url": "https://www.abc1008.com/tatsuyafujiwara/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "藤原竜也、初の1人MC！\n</br></br>☆番組内容は…\n</br>「リスナーさんの投稿をもらいながら番組内で決めていこう」「大質問大会」で皆さんの質問にどんどん答えます！\n</br></br>☆仲良しのゲストを招いてぶっちゃけトーク！などなど…\n</br></br>深夜ラジオ番組ならではのラジオっぽい番組を目指します！\n",
+              "info": "番組へのおたよりは <a href='https://cipher.asahi.co.jp/r_tatsuyafujiwara/'><u>こちら</u></a>まで\n<br/>",
+              "pfm": "藤原竜也",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/1af312f7-144f-4fe5-b8aa-fd0945c1826d.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604557335",
+              "-ft": "20220101010000",
+              "-to": "20220101030000",
+              "-ftl": "2500",
+              "-tol": "2700",
+              "-dur": "7200",
+              "title": "オールナイトニッポン",
+              "url": "https://www.allnightnippon.com/shimofuri/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "今夜は霜降り明星のオールナイトニッポン！",
+              "pfm": "霜降り明星",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/7aa63453-28ad-4015-bf2e-cee983224610.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9604547259",
+              "-ft": "20220101030000",
+              "-to": "20220101050000",
+              "-ftl": "2700",
+              "-tol": "2900",
+              "-dur": "7200",
+              "title": "CITY CHILL CLUB",
+              "url": "http://www.tbsradio.jp/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "アーティストやクリエイターがひと月ごとに曜日担当し、「CHILL」（癒し・すばらしい・かっこいい）をコンセプトに2時間のミュージックプレイリストを作成しOAするプログラムです。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/6e116a24-1967-40db-9621-5eada33419d4.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

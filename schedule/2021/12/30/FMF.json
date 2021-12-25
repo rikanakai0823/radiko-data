@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1640369285",
+    "srvtime": "1640455636",
     "stations": {
       "station": {
         "-id": "FMF",
@@ -404,7 +404,7 @@
               }
             },
             {
-              "-id": "9604333191",
+              "-id": "9604563839",
               "-ft": "20211230120000",
               "-to": "20211230130000",
               "-ftl": "1200",
@@ -418,36 +418,26 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10033_eed6a0c6_sq.jpg\" height=\"60\" width=\"60\" alt=\"ロバート・ハリス\"></td>  </tr></table><br /><br />\tOtonaの文化、Otonaの音楽がたっぷり聴こえるラジオ番組「Otona no Radio Alexandria」<br /><br />【SELF PORTRAIT】12時05分ごろ<br />ハリスさんの自遊時間！想像旅行へでかけましょう！<br /><br />【大人のサード・プレイス】12時35分ごろ<br />プレミアム世代のサード・プレイスを、音楽で巡っていくこの時間。<br />時空を超えた旅路にでます。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/57661\">https://audee.jp/program/show/57661</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/423\">https://ssl2.jfn.co.jp/mailbox/index/423</a><br /><br /></div>",
               "pfm": "ロバート・ハリス",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/u3mzu2w5va.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ロバート・ハリス"
+                  },
+                  {
+                    "name": "プレミアム世代"
+                  },
+                  {
+                    "name": "文化情報"
+                  },
+                  {
+                    "name": "大人のサード・プレイス"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9604375935",
-              "-ft": "20211230130000",
-              "-to": "20211230140000",
-              "-ftl": "1300",
-              "-tol": "1400",
-              "-dur": "3600",
-              "title": "JA全農COUNTDOWN JAPAN年間チャート2021",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/v5b8j5gjiu.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
                 },
                 "program": {
                   "-id": "P005",
@@ -462,7 +452,45 @@
               }
             },
             {
-              "-id": "9604367478",
+              "-id": "9604553941",
+              "-ft": "20211230130000",
+              "-to": "20211230140000",
+              "-ftl": "1300",
+              "-tol": "1400",
+              "-dur": "3600",
+              "title": "ＪＡ全農 COUNTDOWN JAPAN 年間チャート2021",
+              "url": "https://www.tfm.co.jp/cdj/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/cdj/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/program/59304_b483fa2b_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/1139_d132071a_sq.jpg\" height=\"60\" width=\"60\" alt=\"ジョージ・ウィリアムズ\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/5641_8c47b3d6_sq.jpg\" height=\"60\" width=\"60\" alt=\"安田レイ\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/cdj/\">https://www.tfm.co.jp/cdj/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/cdj/request/\">https://www.tfm.co.jp/cdj/request/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23JA%E5%85%A8%E8%BE%B2CDJ\">#JA全農CDJ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/JA_CDJ\">@JA_CDJ</a>」<br /><br /></div>",
+              "pfm": "ジョージ・ウィリアムズ / 安田レイ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/jsv4dalydj.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#JA全農CDJ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:JA_CDJ"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9604553947",
               "-ft": "20211230140000",
               "-to": "20211230145500",
               "-ftl": "1400",
@@ -520,22 +548,24 @@
               }
             },
             {
-              "-id": "9604186830",
+              "-id": "9604597415",
               "-ft": "20211230150000",
               "-to": "20211230160000",
               "-ftl": "1500",
               "-tol": "1600",
               "-dur": "3600",
-              "title": "キリンビール一番搾りpresents 久しぶりの乾杯！",
+              "title": "キリン一番搾り presents 久しぶりの乾杯！",
+              "url": "https://www.tfm.co.jp/hisashiburi/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/gel8nps1dl.jpg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/2537_b5c339c0_sq.jpg\" height=\"60\" width=\"60\" alt=\"マンボウやしろ\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/5937_db3f3625_sq.jpg\" height=\"60\" width=\"60\" alt=\"遠山大輔(グランジ)\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/hisashiburi/\">https://www.tfm.co.jp/hisashiburi/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/hisashiburi/form\">https://www.tfm.co.jp/f/hisashiburi/form</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%AE%E4%B9%BE%E6%9D%AF\">#久しぶりの乾杯</a>」<br /><br /></div>",
+              "pfm": "マンボウやしろ / 遠山大輔(グランジ)",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/trx3wg6n02.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#久しぶりの乾杯"
                 }
               }
             },
