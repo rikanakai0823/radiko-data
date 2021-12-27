@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1640455642",
+    "srvtime": "1640628358",
     "stations": {
       "station": {
         "-id": "FMK",
@@ -804,7 +804,7 @@
               }
             },
             {
-              "-id": "9604383788",
+              "-id": "9604868532",
               "-ft": "20211231105000",
               "-to": "20211231110000",
               "-ftl": "1050",
@@ -2267,7 +2267,7 @@
               }
             },
             {
-              "-id": "9604571860",
+              "-id": "9604882550",
               "-ft": "20220101010000",
               "-to": "20220101050000",
               "-ftl": "2500",
@@ -2278,14 +2278,20 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/SU/person/4403_b4b03844_sq.png\" height=\"60\" width=\"60\" alt=\"松本亮介\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/SU/person/7311_bda6faa4_sq.jpg\" height=\"60\" width=\"60\" alt=\"冨田浩二\"></td>      </tr><tr valign=\"top\">       <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/SU/person/8531_8f701e95_sq.png\" height=\"60\" width=\"60\" alt=\"てーしん\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://fmk.fm/program/special/440\">https://fmk.fm/program/special/440</a><br />\tメールアドレス：<a href=\"mailto:fmk@fmkumamoto.jp\">fmk@fmkumamoto.jp</a><br />\tメッセージフォーム：<a href=\"http://fmk.fm/request/?id=fmk\">http://fmk.fm/request/?id=fmk</a><br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/SU/person/4403_b4b03844_sq.png\" height=\"60\" width=\"60\" alt=\"松本亮介\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/SU/person/7311_bda6faa4_sq.jpg\" height=\"60\" width=\"60\" alt=\"冨田浩二\"></td>      </tr><tr valign=\"top\">       <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/SU/person/8531_8f701e95_sq.png\" height=\"60\" width=\"60\" alt=\"てーしん\"></td>  </tr></table><br /><br />\tFMKの若手パーソナリティ、スタッフが生放送でおくるスペシャルプログラム。<br />新年の干支・寅にちなんで、「トライしたいこと！」というテーマで、リスナーのあなたからのメッセージ＆リクエストを大募集！<br />メッセージをお寄せいただいた方のなかから抽選で、あなたの「トライ」を応援するプレゼントが当たります！ <br /><br />\t番組Webサイト：<a href=\"https://fmk.fm/program/special/440\">https://fmk.fm/program/special/440</a><br />\tメールアドレス：<a href=\"mailto:fmk@fmkumamoto.jp\">fmk@fmkumamoto.jp</a><br />\tメッセージフォーム：<a href=\"http://fmk.fm/request/?id=fmk\">http://fmk.fm/request/?id=fmk</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%82%E3%81%91%E3%81%8A%E3%82%81FMK\">#あけおめFMK</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/fmk_new\">@fmk_new</a>」<br /><br /></div>",
               "pfm": "松本亮介 / 冨田浩二 / 御手洗桜 / てーしん",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMK/qdh9kwp675.png",
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#あけおめFMK"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:fmk_new"
+                  }
+                ]
               }
             }
           ]
