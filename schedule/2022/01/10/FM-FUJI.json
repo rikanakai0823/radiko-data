@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1641319561",
+    "srvtime": "1641405960",
     "stations": {
       "station": {
         "-id": "FM-FUJI",
@@ -457,44 +457,39 @@
               }
             },
             {
-              "-id": "9606073586",
+              "-id": "9606387961",
               "-ft": "20220110193000",
               "-to": "20220110200000",
               "-ftl": "1930",
               "-tol": "2000",
               "-dur": "1800",
-              "title": "music terminal",
+              "title": "みんなのラジオ",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "twitterアカウントは「<a href=\"http://twitter.com/jocvfm\">@jocvfm</a>」",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/a4494202-7bb4-4dea-8dc6-680c9a8a1d53.jpeg",
+              "desc": "企業・団体・学校が集まって、それぞれがコーナーを持ち、そしてみんなで素敵なゲストを探して招いて発信していきます。",
+              "info": "<a href=\"http://www.fmfuji.jp/mail.php?cd=411\" title=\"みんなのラジオ\" target=\"_blank\">minna@fmfuji.jp</a><br />twitterアカウントは「<a href=\"http://twitter.com/minna_radio\">@minna_radio</a>」<br/>番組ハッシュタグは「<a href=https://twitter.com/search?q=%23%E3%81%BF%E3%82%93%E3%83%A9%E3%82%B8&src=typed_query&f=live\" target=\"_blank\">#みんラジ</a>」",
+              "pfm": "西川敏矢／有野いく",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/sf0q33fou8.jpg",
               "tag": {
-                "item": [
-                  {
-                    "name": "ノンストップ"
-                  },
-                  {
-                    "name": "邦楽"
-                  },
-                  {
-                    "name": "洋楽"
-                  },
-                  {
-                    "name": "アナログレコード"
-                  }
-                ]
+                "item": {
+                  "name": "バラエティ"
+                }
               },
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "from:jocvfm"
+                  "-value": "from:minna_radio"
                 }
               }
             },
