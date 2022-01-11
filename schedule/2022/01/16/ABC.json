@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1641837924",
+    "srvtime": "1641924361",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -611,12 +611,12 @@
               }
             },
             {
-              "-id": "9607051461",
+              "-id": "9607385554",
               "-ft": "20220116160000",
-              "-to": "20220116170000",
+              "-to": "20220116163000",
               "-ftl": "1600",
-              "-tol": "1700",
-              "-dur": "3600",
+              "-tol": "1630",
+              "-dur": "1800",
               "title": "ＳＴＡＲ☆ＭＵＳＩＣ☆ＳＵＮＤＡＹ(2)",
               "url": "https://www.abc1008.com/sms/",
               "failed_record": "0",
@@ -638,16 +638,27 @@
                   }
                 ]
               },
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
                 }
-              },
+              }
+            },
+            {
+              "-id": "9607385561",
+              "-ft": "20220116163000",
+              "-to": "20220116170000",
+              "-ftl": "1630",
+              "-tol": "1700",
+              "-dur": "1800",
+              "title": "武田和歌子の明日へスマイル",
+              "url": "https://www.abc1008.com/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "武田和歌子、  八木早希",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
