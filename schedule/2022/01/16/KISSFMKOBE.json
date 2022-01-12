@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1641924363",
+    "srvtime": "1642010777",
     "stations": {
       "station": {
         "-id": "KISSFMKOBE",
@@ -370,7 +370,7 @@
               }
             },
             {
-              "-id": "9607434716",
+              "-id": "9607467930",
               "-ft": "20220116093000",
               "-to": "20220116095500",
               "-ftl": "0930",
@@ -402,13 +402,43 @@
               }
             },
             {
-              "-id": "9606990358",
+              "-id": "9607515817",
               "-ft": "20220116095500",
-              "-to": "20220116100000",
+              "-to": "20220116095700",
               "-ftl": "0955",
-              "-tol": "1000",
-              "-dur": "300",
+              "-tol": "0957",
+              "-dur": "120",
               "title": "LATEST TRAFFIC",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KISSFMKOBE/rhdvpknf7e.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9607526058",
+              "-ft": "20220116095700",
+              "-to": "20220116100000",
+              "-ftl": "0957",
+              "-tol": "1000",
+              "-dur": "180",
+              "title": "LATEST WEATHER",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -1261,7 +1291,7 @@
               }
             },
             {
-              "-id": "9607434829",
+              "-id": "9607468137",
               "-ft": "20220116200000",
               "-to": "20220116203000",
               "-ftl": "2000",
