@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1643047563",
+    "srvtime": "1643133918",
     "stations": {
       "station": {
         "-id": "FMNIIGATA",
@@ -314,7 +314,7 @@
               }
             },
             {
-              "-id": "9609499097",
+              "-id": "9609564046",
               "-ft": "20220125073000",
               "-to": "20220125080000",
               "-ftl": "0730",
@@ -426,7 +426,7 @@
               }
             },
             {
-              "-id": "9609499103",
+              "-id": "9609564062",
               "-ft": "20220125082000",
               "-to": "20220125085500",
               "-ftl": "0820",
@@ -454,7 +454,7 @@
               }
             },
             {
-              "-id": "9609499104",
+              "-id": "9609561114",
               "-ft": "20220125085500",
               "-to": "20220125090000",
               "-ftl": "0855",
@@ -466,6 +466,17 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/o62r2vy9g9.png",
+              "tag": {
+                "item": {
+                  "name": "FM NIIGATA ニュース"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -608,7 +619,7 @@
               }
             },
             {
-              "-id": "9609499117",
+              "-id": "9609564115",
               "-ft": "20220125110000",
               "-to": "20220125113000",
               "-ftl": "1100",
@@ -673,7 +684,7 @@
               }
             },
             {
-              "-id": "9609499124",
+              "-id": "9609561148",
               "-ft": "20220125115500",
               "-to": "20220125120000",
               "-ftl": "1155",
@@ -685,6 +696,17 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/o62r2vy9g9.png",
+              "tag": {
+                "item": {
+                  "name": "FM NIIGATA ニュース"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -795,7 +817,7 @@
               }
             },
             {
-              "-id": "9609499130",
+              "-id": "9609627172",
               "-ft": "20220125133000",
               "-to": "20220125133800",
               "-ftl": "1330",
@@ -806,7 +828,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/4559_b77facd4_sq.jpg\" height=\"60\" width=\"60\" alt=\"Mika Walker\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/5812_4a4a7d97_sq.jpg\" height=\"60\" width=\"60\" alt=\"鎌田ｱﾚｸｼｯﾁさやか\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.fmniigata.com/program/301\">https://www.fmniigata.com/program/301</a><br />\tメッセージフォーム：<a href=\"https://www.fmniigata.com/program/301/request_message/45413\">https://www.fmniigata.com/program/301/request_message/45413</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23xoxo775\">#xoxo775</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/4559_b77facd4_sq.jpg\" height=\"60\" width=\"60\" alt=\"Mika Walker\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/5812_4a4a7d97_sq.jpg\" height=\"60\" width=\"60\" alt=\"鎌田ｱﾚｸｼｯﾁさやか\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.fmniigata.com/program/301\">https://www.fmniigata.com/program/301</a><br />\tメッセージフォーム：<a href=\"https://www.fmniigata.com/program/301/request_message/45413\">https://www.fmniigata.com/program/301/request_message/45413</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23xoxo775\">#xoxo775</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/xoxo_775\">@xoxo_775</a>」<br /><br /></div>",
               "pfm": "Mika Walker / 鎌田ｱﾚｸｼｯﾁさやか",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/kertd70674.jpg",
               "tag": {
@@ -821,14 +843,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#xoxo775"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#xoxo775"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:xoxo_775"
+                  }
+                ]
               }
             },
             {
-              "-id": "9609499131",
+              "-id": "9609627173",
               "-ft": "20220125133800",
               "-to": "20220125134800",
               "-ftl": "1338",
@@ -839,7 +867,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/4559_b77facd4_sq.jpg\" height=\"60\" width=\"60\" alt=\"Mika Walker\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/5812_4a4a7d97_sq.jpg\" height=\"60\" width=\"60\" alt=\"鎌田ｱﾚｸｼｯﾁさやか\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.fmniigata.com/program/301\">https://www.fmniigata.com/program/301</a><br />\tメッセージフォーム：<a href=\"https://www.fmniigata.com/program/301/request_message/45413\">https://www.fmniigata.com/program/301/request_message/45413</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23xoxo775\">#xoxo775</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/4559_b77facd4_sq.jpg\" height=\"60\" width=\"60\" alt=\"Mika Walker\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/5812_4a4a7d97_sq.jpg\" height=\"60\" width=\"60\" alt=\"鎌田ｱﾚｸｼｯﾁさやか\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.fmniigata.com/program/301\">https://www.fmniigata.com/program/301</a><br />\tメッセージフォーム：<a href=\"https://www.fmniigata.com/program/301/request_message/45413\">https://www.fmniigata.com/program/301/request_message/45413</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23xoxo775\">#xoxo775</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/xoxo_775\">@xoxo_775</a>」<br /><br /></div>",
               "pfm": "Mika Walker / 鎌田ｱﾚｸｼｯﾁさやか",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/kertd70674.jpg",
               "tag": {
@@ -848,14 +876,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#xoxo775"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#xoxo775"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:xoxo_775"
+                  }
+                ]
               }
             },
             {
-              "-id": "9609501497",
+              "-id": "9609627174",
               "-ft": "20220125134800",
               "-to": "20220125135500",
               "-ftl": "1348",
@@ -866,7 +900,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/4559_b77facd4_sq.jpg\" height=\"60\" width=\"60\" alt=\"Mika Walker\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/5812_4a4a7d97_sq.jpg\" height=\"60\" width=\"60\" alt=\"鎌田ｱﾚｸｼｯﾁさやか\"></td>  </tr></table><br /><br />\t洋楽のおすすめ・ヒットをオンエア！海外の話題をピックアップ！英語をちりばめながら楽しく遊んじゃお！ <br /><br />\t番組Webサイト：<a href=\"https://www.fmniigata.com/program/301\">https://www.fmniigata.com/program/301</a><br />\tメッセージフォーム：<a href=\"https://www.fmniigata.com/program/301/request_message/45413\">https://www.fmniigata.com/program/301/request_message/45413</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23xoxo775\">#xoxo775</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/4559_b77facd4_sq.jpg\" height=\"60\" width=\"60\" alt=\"Mika Walker\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/5812_4a4a7d97_sq.jpg\" height=\"60\" width=\"60\" alt=\"鎌田ｱﾚｸｼｯﾁさやか\"></td>  </tr></table><br /><br />\t洋楽のおすすめ・ヒットをオンエア！海外の話題をピックアップ！英語をちりばめながら楽しく遊んじゃお！ <br /><br />\t番組Webサイト：<a href=\"https://www.fmniigata.com/program/301\">https://www.fmniigata.com/program/301</a><br />\tメッセージフォーム：<a href=\"https://www.fmniigata.com/program/301/request_message/45413\">https://www.fmniigata.com/program/301/request_message/45413</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23xoxo775\">#xoxo775</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/xoxo_775\">@xoxo_775</a>」<br /><br /></div>",
               "pfm": "Mika Walker / 鎌田ｱﾚｸｼｯﾁさやか",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/kertd70674.jpg",
               "tag": {
@@ -881,10 +915,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#xoxo775"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#xoxo775"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:xoxo_775"
+                  }
+                ]
               }
             },
             {
@@ -919,7 +959,7 @@
               }
             },
             {
-              "-id": "9609501499",
+              "-id": "9609627175",
               "-ft": "20220125140000",
               "-to": "20220125145000",
               "-ftl": "1400",
@@ -930,7 +970,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/4559_b77facd4_sq.jpg\" height=\"60\" width=\"60\" alt=\"Mika Walker\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/5812_4a4a7d97_sq.jpg\" height=\"60\" width=\"60\" alt=\"鎌田ｱﾚｸｼｯﾁさやか\"></td>  </tr></table><br /><br />\t洋楽のおすすめ・ヒットをオンエア！海外の話題をピックアップ！英語をちりばめながら楽しく遊んじゃお！ <br /><br />\t番組Webサイト：<a href=\"https://www.fmniigata.com/program/301\">https://www.fmniigata.com/program/301</a><br />\tメッセージフォーム：<a href=\"https://www.fmniigata.com/program/301/request_message/45413\">https://www.fmniigata.com/program/301/request_message/45413</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23xoxo775\">#xoxo775</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/4559_b77facd4_sq.jpg\" height=\"60\" width=\"60\" alt=\"Mika Walker\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/5812_4a4a7d97_sq.jpg\" height=\"60\" width=\"60\" alt=\"鎌田ｱﾚｸｼｯﾁさやか\"></td>  </tr></table><br /><br />\t洋楽のおすすめ・ヒットをオンエア！海外の話題をピックアップ！英語をちりばめながら楽しく遊んじゃお！ <br /><br />\t番組Webサイト：<a href=\"https://www.fmniigata.com/program/301\">https://www.fmniigata.com/program/301</a><br />\tメッセージフォーム：<a href=\"https://www.fmniigata.com/program/301/request_message/45413\">https://www.fmniigata.com/program/301/request_message/45413</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23xoxo775\">#xoxo775</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/xoxo_775\">@xoxo_775</a>」<br /><br /></div>",
               "pfm": "Mika Walker / 鎌田ｱﾚｸｼｯﾁさやか",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/kertd70674.jpg",
               "tag": {
@@ -945,10 +985,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#xoxo775"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#xoxo775"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:xoxo_775"
+                  }
+                ]
               }
             },
             {
@@ -1009,7 +1055,7 @@
               }
             },
             {
-              "-id": "9609501506",
+              "-id": "9609627178",
               "-ft": "20220125150000",
               "-to": "20220125152600",
               "-ftl": "1500",
@@ -1020,7 +1066,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/4559_b77facd4_sq.jpg\" height=\"60\" width=\"60\" alt=\"Mika Walker\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/5812_4a4a7d97_sq.jpg\" height=\"60\" width=\"60\" alt=\"鎌田ｱﾚｸｼｯﾁさやか\"></td>  </tr></table><br /><br />\t洋楽のおすすめ・ヒットをオンエア！海外の話題をピックアップ！英語をちりばめながら楽しく遊んじゃお！ <br /><br />\t番組Webサイト：<a href=\"https://www.fmniigata.com/program/301\">https://www.fmniigata.com/program/301</a><br />\tメッセージフォーム：<a href=\"https://www.fmniigata.com/program/301/request_message/45413\">https://www.fmniigata.com/program/301/request_message/45413</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23xoxo775\">#xoxo775</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/4559_b77facd4_sq.jpg\" height=\"60\" width=\"60\" alt=\"Mika Walker\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/5812_4a4a7d97_sq.jpg\" height=\"60\" width=\"60\" alt=\"鎌田ｱﾚｸｼｯﾁさやか\"></td>  </tr></table><br /><br />\t洋楽のおすすめ・ヒットをオンエア！海外の話題をピックアップ！英語をちりばめながら楽しく遊んじゃお！ <br /><br />\t番組Webサイト：<a href=\"https://www.fmniigata.com/program/301\">https://www.fmniigata.com/program/301</a><br />\tメッセージフォーム：<a href=\"https://www.fmniigata.com/program/301/request_message/45413\">https://www.fmniigata.com/program/301/request_message/45413</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23xoxo775\">#xoxo775</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/xoxo_775\">@xoxo_775</a>」<br /><br /></div>",
               "pfm": "Mika Walker / 鎌田ｱﾚｸｼｯﾁさやか",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/kertd70674.jpg",
               "tag": {
@@ -1035,14 +1081,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#xoxo775"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#xoxo775"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:xoxo_775"
+                  }
+                ]
               }
             },
             {
-              "-id": "9609499140",
+              "-id": "9609564209",
               "-ft": "20220125152600",
               "-to": "20220125153400",
               "-ftl": "1526",
@@ -1075,7 +1127,7 @@
               }
             },
             {
-              "-id": "9609501514",
+              "-id": "9609627182",
               "-ft": "20220125153400",
               "-to": "20220125155500",
               "-ftl": "1534",
@@ -1086,7 +1138,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/4559_b77facd4_sq.jpg\" height=\"60\" width=\"60\" alt=\"Mika Walker\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/5812_4a4a7d97_sq.jpg\" height=\"60\" width=\"60\" alt=\"鎌田ｱﾚｸｼｯﾁさやか\"></td>  </tr></table><br /><br />\t洋楽のおすすめ・ヒットをオンエア！海外の話題をピックアップ！英語をちりばめながら楽しく遊んじゃお！ <br /><br />\t番組Webサイト：<a href=\"https://www.fmniigata.com/program/301\">https://www.fmniigata.com/program/301</a><br />\tメッセージフォーム：<a href=\"https://www.fmniigata.com/program/301/request_message/45413\">https://www.fmniigata.com/program/301/request_message/45413</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23xoxo775\">#xoxo775</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/4559_b77facd4_sq.jpg\" height=\"60\" width=\"60\" alt=\"Mika Walker\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/5812_4a4a7d97_sq.jpg\" height=\"60\" width=\"60\" alt=\"鎌田ｱﾚｸｼｯﾁさやか\"></td>  </tr></table><br /><br />\t洋楽のおすすめ・ヒットをオンエア！海外の話題をピックアップ！英語をちりばめながら楽しく遊んじゃお！ <br /><br />\t番組Webサイト：<a href=\"https://www.fmniigata.com/program/301\">https://www.fmniigata.com/program/301</a><br />\tメッセージフォーム：<a href=\"https://www.fmniigata.com/program/301/request_message/45413\">https://www.fmniigata.com/program/301/request_message/45413</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23xoxo775\">#xoxo775</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/xoxo_775\">@xoxo_775</a>」<br /><br /></div>",
               "pfm": "Mika Walker / 鎌田ｱﾚｸｼｯﾁさやか",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/kertd70674.jpg",
               "tag": {
@@ -1101,14 +1153,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#xoxo775"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#xoxo775"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:xoxo_775"
+                  }
+                ]
               }
             },
             {
-              "-id": "9609499143",
+              "-id": "9609561185",
               "-ft": "20220125155500",
               "-to": "20220125160000",
               "-ftl": "1555",
@@ -1120,6 +1178,17 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/o62r2vy9g9.png",
+              "tag": {
+                "item": {
+                  "name": "FM NIIGATA ニュース"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1128,7 +1197,7 @@
               }
             },
             {
-              "-id": "9609499144",
+              "-id": "9609564223",
               "-ft": "20220125160000",
               "-to": "20220125165500",
               "-ftl": "1600",
@@ -1193,7 +1262,7 @@
               }
             },
             {
-              "-id": "9609499147",
+              "-id": "9609564250",
               "-ft": "20220125170000",
               "-to": "20220125172800",
               "-ftl": "1700",
@@ -1254,7 +1323,7 @@
               }
             },
             {
-              "-id": "9609499152",
+              "-id": "9609564260",
               "-ft": "20220125173800",
               "-to": "20220125183300",
               "-ftl": "1738",
@@ -1310,7 +1379,7 @@
               }
             },
             {
-              "-id": "9609499155",
+              "-id": "9609564276",
               "-ft": "20220125183800",
               "-to": "20220125185500",
               "-ftl": "1838",
@@ -1344,7 +1413,7 @@
               }
             },
             {
-              "-id": "9609501539",
+              "-id": "9609561218",
               "-ft": "20220125185500",
               "-to": "20220125190000",
               "-ftl": "1855",
@@ -1356,6 +1425,17 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/o62r2vy9g9.png",
+              "tag": {
+                "item": {
+                  "name": "FM NIIGATA ニュース"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1364,7 +1444,7 @@
               }
             },
             {
-              "-id": "9609501543",
+              "-id": "9609651566",
               "-ft": "20220125190000",
               "-to": "20220125195500",
               "-ftl": "1900",
@@ -1375,7 +1455,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/632_613b63fd_sq.jpg\" height=\"60\" width=\"60\" alt=\"ヤン\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/650_486da8bb_sq.jpg\" height=\"60\" width=\"60\" alt=\"清野幹\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.fmniigata.com/program/343\">https://www.fmniigata.com/program/343</a><br />\tメッセージフォーム：<a href=\"https://www.fmniigata.com/program/343/request_message/51913\">https://www.fmniigata.com/program/343/request_message/51913</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A8%E3%83%AB%E3%82%B4%E3%83%83%E3%83%81%E3%83%A3\">#ヨルゴッチャ</a> <a href=\"http://twitter.com/search?q=%E3%82%AA%E3%83%84%E3%83%AF%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA\">オツワングランプリ</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/632_613b63fd_sq.jpg\" height=\"60\" width=\"60\" alt=\"ヤン\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/650_486da8bb_sq.jpg\" height=\"60\" width=\"60\" alt=\"清野幹\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.fmniigata.com/program/343\">https://www.fmniigata.com/program/343</a><br />\tメッセージフォーム：<a href=\"https://www.fmniigata.com/program/343/request_message/51913\">https://www.fmniigata.com/program/343/request_message/51913</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A8%E3%83%AB%E3%82%B4%E3%83%83%E3%83%81%E3%83%A3\">#ヨルゴッチャ</a> <a href=\"http://twitter.com/search?q=%E3%82%AA%E3%83%84%E3%83%AF%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA\">オツワングランプリ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/gottcha_fmn\">@gottcha_fmn</a>」<br /><br /></div>",
               "pfm": "ヤン / 清野幹",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/9w80fttyvq.jpg",
               "tag": {
@@ -1398,6 +1478,10 @@
                   {
                     "-name": "twitter",
                     "-value": "オツワングランプリ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:gottcha_fmn"
                   }
                 ]
               }
@@ -1435,7 +1519,7 @@
               }
             },
             {
-              "-id": "9609501553",
+              "-id": "9609647235",
               "-ft": "20220125200000",
               "-to": "20220125205500",
               "-ftl": "2000",
@@ -1446,7 +1530,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/632_613b63fd_sq.jpg\" height=\"60\" width=\"60\" alt=\"ヤン\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/650_486da8bb_sq.jpg\" height=\"60\" width=\"60\" alt=\"清野幹\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.fmniigata.com/program/343\">https://www.fmniigata.com/program/343</a><br />\tメッセージフォーム：<a href=\"https://www.fmniigata.com/program/343/request_message/51913\">https://www.fmniigata.com/program/343/request_message/51913</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A8%E3%83%AB%E3%82%B4%E3%83%83%E3%83%81%E3%83%A3\">#ヨルゴッチャ</a> <a href=\"http://twitter.com/search?q=%E3%82%AA%E3%83%84%E3%83%AF%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA\">オツワングランプリ</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/632_613b63fd_sq.jpg\" height=\"60\" width=\"60\" alt=\"ヤン\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/XU/person/650_486da8bb_sq.jpg\" height=\"60\" width=\"60\" alt=\"清野幹\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.fmniigata.com/program/343\">https://www.fmniigata.com/program/343</a><br />\tメッセージフォーム：<a href=\"https://www.fmniigata.com/program/343/request_message/51913\">https://www.fmniigata.com/program/343/request_message/51913</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A8%E3%83%AB%E3%82%B4%E3%83%83%E3%83%81%E3%83%A3\">#ヨルゴッチャ</a> <a href=\"http://twitter.com/search?q=%E3%82%AA%E3%83%84%E3%83%AF%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA\">オツワングランプリ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/gottcha_fmn\">@gottcha_fmn</a>」<br /><br /></div>",
               "pfm": "ヤン / 清野幹",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/9w80fttyvq.jpg",
               "tag": {
@@ -1469,6 +1553,10 @@
                   {
                     "-name": "twitter",
                     "-value": "オツワングランプリ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:gottcha_fmn"
                   }
                 ]
               }
@@ -1607,7 +1695,7 @@
               }
             },
             {
-              "-id": "9609501574",
+              "-id": "9609647240",
               "-ft": "20220125220000",
               "-to": "20220125235500",
               "-ftl": "2200",
@@ -1618,8 +1706,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/lock/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/program/11820_fef7f3f1_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/10102_449583c6_sq.jpg\" height=\"60\" width=\"60\" alt=\"こもり校長\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/10103_3196ba8f_sq.jpg\" height=\"60\" width=\"60\" alt=\"ぺえ教頭\"></td>  </tr></table><br /><br />\t今夜のSCHOOL OF LOCK!は、杉野遥亮先生が初来校！！<br /><a href=\"https://audee.jp/program/show/11820\">★無料アプリAuDeeで「学校運営反省会議」配信中！詳しくはこちら</a><br /><br />▽22:18頃～「GIRLS LOCKS! 」<br />毎月4週目のGIRLS LOCKS！は、“ビューひな”こと景井ひなちゃんが登校！<br /><br />▽22:55頃～(一部地域を除き)「豆柴LOCKS」<br />我が校の飼育小屋の子犬、豆柴の大群が登場！<br /><a href=\"https://audee.jp/program/show/100000095\"> ★無料アプリAuDeeで「放課後 豆柴LOCKS!」を配信中！</a><br /><br />▽23:00～「天才LOCKS!」<br />QiuzKnock先生による、受験生のための授業!!<br />今夜も受験生の君を全力で応援していくぞ！<br /><br />▽23:08頃～「sumika LOCKS! 」<br />我が校の \"夢の建築学の講師\"、sumika先生の授業!!<br />このクラスでは、夢があって悩んでいること、夢がなくて悩んでいること、最近見た夢の話などなど…<br />生徒の君の \"夢\" にまつわる質問＆相談を待っています。<br />それ以外にも、sumika先生へのメッセージもぜひ！ <br /><br />\t本日のゲスト：\t\t杉野遥亮\t<br />\t<br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/lock/\">https://www.tfm.co.jp/lock/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/lock/mail.html\">https://www.tfm.co.jp/lock/mail.html</a><br />\tFAX：03-3221-1800<br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF\">#スクールオブロック</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/sol_info\">@sol_info</a>」<br /><br /></div>",
-              "pfm": "こもり校長 / ぺえ教頭",
+              "info": "<div class=\"station_content_description \">\t\t<a href=\"https://www.tfm.co.jp/lock/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/program/11820_fef7f3f1_rc_large.png\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/9498_86778a81_sq.jpg\" height=\"60\" width=\"60\" alt=\"とーやま委員\"></td>  </tr></table><br /><br />\t※本日も、こもり校長、ぺえ教頭はお休み。<br />代わりにとーやま委員がお届けします。<br /><br />今夜のSCHOOL OF LOCK！は、生放送教室に杉野遥亮先生が登場！<br />今夜は杉野先生とじっくり話そう!<br /><br />授業テーマは『杉野遥亮といっしょに掲示板逆電』<br /><br />杉野先生と話したいこと、杉野先生に伝えたいこと、杉野先生に相談したいこと、どんなことでも自由に学校掲示板に書き込んでね。<br /><br />掲示板に書き込めないという生徒は、SCHOOL OF LOCK!の公式LINEアカウントやメールからでも大丈夫!<br /><a href=\"https://audee.jp/program/show/11820\">★無料アプリAuDeeで「学校運営反省会議」配信中！詳しくはこちら</a><br /><br />▽22:18頃～「GIRLS LOCKS! 」<br />毎月4週目のGIRLS LOCKS！は、“ビューひな”こと景井ひなちゃんが登校！<br /><br />▽22:55頃～(一部地域を除き)「豆柴LOCKS」<br />我が校の飼育小屋の子犬、豆柴の大群が登場！<br /><a href=\"https://audee.jp/program/show/100000095\"> ★無料アプリAuDeeで「放課後 豆柴LOCKS!」を配信中！</a><br /><br />▽23:00～「天才LOCKS!」<br />QiuzKnock先生による、受験生のための授業!!<br />今夜も受験生の君を全力で応援していくぞ！<br /><br />▽23:08頃～「sumika LOCKS! 」<br />我が校の \"夢の建築学の講師\"、sumika先生の授業!!<br />このクラスでは、夢があって悩んでいること、夢がなくて悩んでいること、最近見た夢の話などなど…<br />生徒の君の \"夢\" にまつわる質問＆相談を待っています。<br />それ以外にも、sumika先生へのメッセージもぜひ！ <br /><br />\t本日のゲスト：\t\t杉野遥亮\t<br />\t<br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/lock/\">https://www.tfm.co.jp/lock/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/lock/mail.html\">https://www.tfm.co.jp/lock/mail.html</a><br />\tFAX：03-3221-1800<br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF\">#スクールオブロック</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/sol_info\">@sol_info</a>」<br /><br /></div>",
+              "pfm": "とーやま委員",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/zhbyufy89k.jpg",
               "tag": {
                 "item": {
@@ -1741,7 +1829,7 @@
               }
             },
             {
-              "-id": "9609530925",
+              "-id": "9609603522",
               "-ft": "20220126010000",
               "-to": "20220126020000",
               "-ftl": "2500",
