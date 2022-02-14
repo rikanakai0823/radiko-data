@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1644775559",
+    "srvtime": "1644861956",
     "stations": {
       "station": {
         "-id": "LFR",
@@ -270,7 +270,7 @@
               }
             },
             {
-              "-id": "9612657722",
+              "-id": "9612797848",
               "-ft": "20220219130000",
               "-to": "20220219150000",
               "-ftl": "1300",
@@ -314,7 +314,7 @@
               }
             },
             {
-              "-id": "9612657731",
+              "-id": "9612797861",
               "-ft": "20220219150000",
               "-to": "20220219153000",
               "-ftl": "1500",
@@ -357,7 +357,7 @@
               }
             },
             {
-              "-id": "9612657735",
+              "-id": "9612797866",
               "-ft": "20220219153000",
               "-to": "20220219162000",
               "-ftl": "1530",
@@ -520,7 +520,7 @@
               }
             },
             {
-              "-id": "9612657748",
+              "-id": "9612797888",
               "-ft": "20220219174000",
               "-to": "20220219184800",
               "-ftl": "1740",
@@ -564,7 +564,7 @@
               }
             },
             {
-              "-id": "9612657759",
+              "-id": "9612797904",
               "-ft": "20220219184800",
               "-to": "20220219185300",
               "-ftl": "1848",
@@ -600,7 +600,7 @@
               }
             },
             {
-              "-id": "9612657760",
+              "-id": "9612797905",
               "-ft": "20220219185300",
               "-to": "20220219190000",
               "-ftl": "1853",
@@ -644,7 +644,7 @@
               }
             },
             {
-              "-id": "9612657765",
+              "-id": "9612797910",
               "-ft": "20220219190000",
               "-to": "20220219210000",
               "-ftl": "1900",
@@ -831,7 +831,7 @@
               }
             },
             {
-              "-id": "9612657789",
+              "-id": "9612797942",
               "-ft": "20220219220000",
               "-to": "20220219223000",
               "-ftl": "2200",
@@ -1065,20 +1065,21 @@
               }
             },
             {
-              "-id": "9612586218",
+              "-id": "9612709324",
               "-ft": "20220220030000",
               "-to": "20220220045000",
               "-ftl": "2700",
               "-tol": "2850",
               "-dur": "6600",
-              "title": "オールナイトニッポン0(ZERO)",
+              "title": "高橋ひかるのオールナイトニッポン0(ZERO)",
               "url": "https://www.allnightnippon.com/zero-sat/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "土曜も深夜3時からはオールナイトニッポン0(ZERO)！スペシャルなパーソナリティが週替わりで登場します！",
-              "info": "番組ホームページは<a href=\"https://www.allnightnippon.com/zero-sat/\">こちら</a><br><br>twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/asgmfy4o3a.jpg",
+              "desc": "高橋ひかるのオールナイトニッポン0(ZERO)",
+              "info": "メールアドレス：<br><a href=\"mailto:hikaru@allnightnippon.com\">hikaru@allnightnippon.com</a><br><br>番組ホームページは<a href=\"https://www.allnightnippon.com/zero-sat/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23annth\">#annth</a>」twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」",
+              "pfm": "高橋ひかる　ゲスト：工藤遥",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LFR/4cc8dmo0h8.jpg",
               "tag": {
                 "item": {
                   "name": "オールナイトニッポン0(ZERO)"
@@ -1086,8 +1087,8 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
+                  "-id": "C003",
+                  "name": "女優"
                 },
                 "program": {
                   "-id": "P007",
@@ -1095,10 +1096,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "from:Ann_Since1967"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#annth"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:Ann_Since1967"
+                  }
+                ]
               }
             },
             {
