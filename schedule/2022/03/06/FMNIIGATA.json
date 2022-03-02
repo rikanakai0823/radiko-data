@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1646157975",
+    "srvtime": "1646244415",
     "stations": {
       "station": {
         "-id": "FMNIIGATA",
@@ -10,7 +10,7 @@
           "date": "20220306",
           "prog": [
             {
-              "-id": "9615025785",
+              "-id": "9615099638",
               "-ft": "20220306050000",
               "-to": "20220306060000",
               "-ftl": "0500",
@@ -24,12 +24,11 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/people/\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/1952_39869bd0_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/2200_3f5b2abf_sq.jpg\" height=\"60\" width=\"60\" alt=\"THE NEWSPAPER\"></td>  </tr></table><br /><br />\t\"人\"に注目、各週異なる企画でお届けする劇場型オムニバス・プログラム。各番組、ゲストを迎えるトーク番組。 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/people/\">http://www.jfn.jp/people/</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/202\">https://ssl2.jfn.co.jp/mailbox/index/202</a><br /><br /></div>",
               "pfm": "THE NEWSPAPER",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMNIIGATA/s2611j7cul.jpg",
-              "tag": {
-                "item": {
-                  "name": "劇場型オムニバス・ゲスト・トーク番組"
-                }
-              },
               "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
