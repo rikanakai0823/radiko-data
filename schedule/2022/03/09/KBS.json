@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1646330785",
+    "srvtime": "1646676331",
     "stations": {
       "station": {
         "-id": "KBS",
@@ -10,17 +10,70 @@
           "date": "20220309",
           "prog": [
             {
-              "-id": "9615104293",
+              "-id": "9615865700",
               "-ft": "20220309050000",
-              "-to": "20220309054500",
+              "-to": "20220309051500",
               "-ftl": "0500",
+              "-tol": "0515",
+              "-dur": "900",
+              "title": "花まるお得市場",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "南かおり / 福士幹朗",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/q2sap6ptmj.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9615865705",
+              "-ft": "20220309051500",
+              "-to": "20220309053000",
+              "-ftl": "0515",
+              "-tol": "0530",
+              "-dur": "900",
+              "title": "シング・スウィング・ソング",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/vw2l0df3ne.jpg",
+              "tag": {
+                "item": {
+                  "name": "湯原昌幸"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9615865708",
+              "-ft": "20220309053000",
+              "-to": "20220309054500",
+              "-ftl": "0530",
               "-tol": "0545",
-              "-dur": "2700",
+              "-dur": "900",
               "title": "納得！お得！ラジオショッピング",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/59ysuy7vj5.jpg",
               "metas": {
                 "meta": {
@@ -30,7 +83,7 @@
               }
             },
             {
-              "-id": "9615104309",
+              "-id": "9615865709",
               "-ft": "20220309054500",
               "-to": "20220309055500",
               "-ftl": "0545",
@@ -40,7 +93,6 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/qrl0nn1p2q.jpg",
               "tag": {
                 "item": {
@@ -65,7 +117,7 @@
               }
             },
             {
-              "-id": "9615104310",
+              "-id": "9615865712",
               "-ft": "20220309055500",
               "-to": "20220309060000",
               "-ftl": "0555",
@@ -75,7 +127,6 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/yu1znpvbkv.jpg",
               "tag": {
                 "item": {
@@ -96,7 +147,7 @@
               }
             },
             {
-              "-id": "9615240159",
+              "-id": "9615865713",
               "-ft": "20220309060000",
               "-to": "20220309060500",
               "-ftl": "0600",
@@ -106,8 +157,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
-              "pfm": "[出]海平和",
+              "pfm": "海平和",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/54z57flp7k.jpg",
               "tag": {
                 "item": {
@@ -132,7 +182,7 @@
               }
             },
             {
-              "-id": "9615104325",
+              "-id": "9615865717",
               "-ft": "20220309060500",
               "-to": "20220309061500",
               "-ftl": "0605",
@@ -142,7 +192,6 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/ixdp0izqrm.jpg",
               "tag": {
                 "item": {
@@ -167,7 +216,7 @@
               }
             },
             {
-              "-id": "9615106762",
+              "-id": "9615865718",
               "-ft": "20220309061500",
               "-to": "20220309063000",
               "-ftl": "0615",
@@ -178,9 +227,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "朝のひととき、名曲のノインストゥルメンタルでお楽しみください。",
-              "info": " ",
-              "pfm": "[出]平野智美",
+              "desc": "朝のひととき / 名曲のノインストゥルメンタルでお楽しみください。",
+              "pfm": "平野智美",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/ivtzppe1nv.jpg",
               "tag": {
                 "item": [
@@ -210,7 +258,7 @@
               }
             },
             {
-              "-id": "9615105740",
+              "-id": "9615865719",
               "-ft": "20220309063000",
               "-to": "20220309080000",
               "-ftl": "0630",
@@ -221,9 +269,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "朝いちばんの笑いと元気を！一日を乗り切る元気をおくる看板朝ワイド。<br />親しみあふれた語り口が光る晃瓶と、天然ぶりで愛嬌を振りまく薫が地域の話題・暮らしの情をお届けします。<br /><br />メール:<a href=\"mailto:hoka@kbs.kyoto\">hoka@kbs.kyoto</a>",
-              "info": " ",
-              "pfm": "[出]笑福亭晃瓶、中村薫",
+              "desc": "朝いちばんの笑いと元気を！一日を乗り切る元気をおくる看板朝ワイド。<br />親しみあふれた語り口が光る晃瓶と / 天然ぶりで愛嬌を振りまく薫が地域の話題・暮らしの情をお届けします。<br /><br />メール:<a href=\"mailto:hoka@kbs.kyoto\">hoka@kbs.kyoto</a>",
+              "pfm": "笑福亭晃瓶 / 中村薫",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/t7aoki324d.jpg",
               "tag": {
                 "item": [
@@ -249,7 +296,7 @@
               }
             },
             {
-              "-id": "9615105831",
+              "-id": "9615865722",
               "-ft": "20220309080000",
               "-to": "20220309100000",
               "-ftl": "0800",
@@ -260,9 +307,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "朝いちばんの笑いと元気を！一日を乗り切る元気をおくる看板朝ワイド。<br />親しみあふれた語り口が光る晃瓶と、天然ぶりで愛嬌を振りまく薫が地域の話題・暮らしの情をお届けします。<br /><br />メール:<a href=\"mailto:hoka@kbs.kyoto\">hoka@kbs.kyoto</a>",
-              "info": " ",
-              "pfm": "[出]笑福亭晃瓶、中村薫",
+              "desc": "朝いちばんの笑いと元気を！一日を乗り切る元気をおくる看板朝ワイド。<br />親しみあふれた語り口が光る晃瓶と / 天然ぶりで愛嬌を振りまく薫が地域の話題・暮らしの情をお届けします。<br /><br />メール:<a href=\"mailto:hoka@kbs.kyoto\">hoka@kbs.kyoto</a>",
+              "pfm": "笑福亭晃瓶 / 中村薫",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/t7aoki324d.jpg",
               "tag": {
                 "item": [
@@ -288,7 +334,7 @@
               }
             },
             {
-              "-id": "9615106873",
+              "-id": "9615865730",
               "-ft": "20220309100000",
               "-to": "20220309120000",
               "-ftl": "1000",
@@ -299,9 +345,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "チクっと毒舌、時には下世話、たまにはオシャレに言いたい放題。グルメやファッションから雑学、みんな大好き噂話まで、わいわい賑やかな井戸端会議を繰り広げます。<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/jo/\">★番組サイト</a><br /><a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/jo.htm\">★番組へのメッセージ</a>",
-              "info": " ",
-              "pfm": "[出]チキチキジョニー(石原祐美子、岩見真利)、岩井万実、佐藤由菜(KBS京都アナウンサー)",
+              "desc": "チクっと毒舌 / 時には下世話 / たまにはオシャレに言いたい放題。グルメやファッションから雑学 / みんな大好き噂話まで / わいわい賑やかな井戸端会議を繰り広げます。<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/jo/\">★番組サイト</a><br /><a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/jo.htm\">★番組へのメッセージ</a>",
+              "pfm": "石原祐美子 (チキチキジョニー) / 岩見真利 (チキチキジョニー) / 岩井万実 / 佐藤由菜 (ラジオカー)",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/38kxofu5nr.png",
               "tag": {
                 "item": [
@@ -333,7 +378,7 @@
               }
             },
             {
-              "-id": "9615106943",
+              "-id": "9615865735",
               "-ft": "20220309120000",
               "-to": "20220309140000",
               "-ftl": "1200",
@@ -344,9 +389,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "チクっと毒舌、時には下世話、たまにはオシャレに言いたい放題。グルメやファッションから雑学、みんな大好き噂話まで、わいわい賑やかな井戸端会議を繰り広げます。<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/jo/\">★番組サイト</a><br /><a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/jo.htm\">★番組へのメッセージ</a>",
-              "info": " ",
-              "pfm": "[出]チキチキジョニー(石原祐美子、岩見真利)、岩井万実、佐藤由菜(KBS京都アナウンサー)",
+              "desc": "チクっと毒舌 / 時には下世話 / たまにはオシャレに言いたい放題。グルメやファッションから雑学 / みんな大好き噂話まで / わいわい賑やかな井戸端会議を繰り広げます。<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/jo/\">★番組サイト</a><br /><a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/jo.htm\">★番組へのメッセージ</a>",
+              "pfm": "石原祐美子 (チキチキジョニー) / 岩見真利 (チキチキジョニー) / 岩井万実 / 佐藤由菜 (ラジオカー)",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/38kxofu5nr.png",
               "tag": {
                 "item": [
@@ -378,7 +422,7 @@
               }
             },
             {
-              "-id": "9615106030",
+              "-id": "9615865746",
               "-ft": "20220309140000",
               "-to": "20220309170000",
               "-ftl": "1400",
@@ -389,9 +433,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "京都を舞台に各分野で活躍する人を招いて、変わり続ける京都の「今」を届けます。また豊かな自然と琵琶湖を抱く滋賀の「今」もお届けします。話を聞きながら番組を進行するアンカーマンは、KBS京都アナウンサーの梶原誠と森谷威夫。そして竹内弘一。ご登場いただく各曜日のさらピン!パートナーととともに、知っている京都、もっと知りたい京都 ～さらに逸品～、～更に新しい～、～ピンと来たこと～、～次世代に繋ぐ新しいモノ～ などをテーマに展開していきます。<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/sara/\">★番組サイト</a><br /><a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/sara.htm\">★番組へのメッセージ</a>",
-              "info": " ",
-              "pfm": "[出]森谷威夫、佐合井マリ子",
+              "desc": "京都を舞台に各分野で活躍する人を招いて / 変わり続ける京都の「今」を届けます。また豊かな自然と琵琶湖を抱く滋賀の「今」もお届けします。話を聞きながら番組を進行するアンカーマンは / KBS京都アナウンサーの梶原誠と森谷威夫。そして竹内弘一。ご登場いただく各曜日のさらピン!パートナーととともに / 知っている京都 / もっと知りたい京都 ～さらに逸品～ / ～更に新しい～ / ～ピンと来たこと～ / ～次世代に繋ぐ新しいモノ～ などをテーマに展開していきます。<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/sara/\">★番組サイト</a><br /><a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/sara.htm\">★番組へのメッセージ</a>",
+              "pfm": "森谷威夫 / 佐合井マリ子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/qo8ci7pd0f.jpg",
               "tag": {
                 "item": [
@@ -421,7 +464,7 @@
               }
             },
             {
-              "-id": "9615106194",
+              "-id": "9615865754",
               "-ft": "20220309170000",
               "-to": "20220309171500",
               "-ftl": "1700",
@@ -431,7 +474,6 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/qsf8ge4mvr.jpg",
               "genre": {
                 "program": {
@@ -447,7 +489,7 @@
               }
             },
             {
-              "-id": "9615106220",
+              "-id": "9615865758",
               "-ft": "20220309171500",
               "-to": "20220309173000",
               "-ftl": "1715",
@@ -458,8 +500,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "KBS京都のレコード室には沢山の貴重なレコード音源があります。普段なかなかかからない様な音楽や、懐かしい曲をミュージックセレクターにKBS音源所蔵室(レコ室)から自由に選びレコードや音楽との思いでなどを 自由にトークしていただく夕暮れ時のラジオプログラムです。",
-              "info": " ",
+              "desc": "KBS京都のレコード室には沢山の貴重なレコード音源があります。普段なかなかかからない様な音楽や / 懐かしい曲をミュージックセレクターにKBS音源所蔵室(レコ室)から自由に選びレコードや音楽との思いでなどを 自由にトークしていただく夕暮れ時のラジオプログラムです。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/ii1elrfkj7.jpg",
               "genre": {
                 "program": {
@@ -475,7 +516,7 @@
               }
             },
             {
-              "-id": "9615107026",
+              "-id": "9615865759",
               "-ft": "20220309173000",
               "-to": "20220309180000",
               "-ftl": "1730",
@@ -486,9 +527,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "伝統文化を受け継ぐ人の想いや業績に、同じく芸の道を歩む桂米團治が迫る対談番組。伝統の重みを背負いながらも時代に即した新しい風を吹き起こす継承者たちの「技」と「人となり」に向き合い、じっくりと語り合います。<br /><br />メール:<a href=\"mailto:yone@kbs.kyoto\">yone@kbs.kyoto</a>",
-              "info": " ",
-              "pfm": "[出]桂米團治",
+              "desc": "伝統文化を受け継ぐ人の想いや業績に / 同じく芸の道を歩む桂米團治が迫る対談番組。伝統の重みを背負いながらも時代に即した新しい風を吹き起こす継承者たちの「技」と「人となり」に向き合い / じっくりと語り合います。<br /><br />メール:<a href=\"mailto:yone@kbs.kyoto\">yone@kbs.kyoto</a>",
+              "pfm": "桂米團治",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/ji9ieaguxd.jpg",
               "tag": {
                 "item": {
@@ -513,7 +553,7 @@
               }
             },
             {
-              "-id": "9615113541",
+              "-id": "9615865760",
               "-ft": "20220309180000",
               "-to": "20220309183000",
               "-ftl": "1800",
@@ -524,9 +564,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "多くの方が、いつかは関わることになる介護や医療の問題。住み慣れた地域で、最期まで自分らしく過ごすために、そんな思いを叶えるために、在宅医療や病気について医師の皆さんが週替わりでご登場いただき、最新情報やエピソードなどお伺いする30分間のラジオ番組です。ポッドキャストも配信。<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/anshin/\">★番組サイト</a>",
-              "info": " ",
-              "pfm": "[出]森谷威夫",
+              "desc": "多くの方が / いつかは関わることになる介護や医療の問題。住み慣れた地域で / 最期まで自分らしく過ごすために / そんな思いを叶えるために / 在宅医療や病気について医師の皆さんが週替わりでご登場いただき / 最新情報やエピソードなどお伺いする30分間のラジオ番組です。ポッドキャストも配信。<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/anshin/\">★番組サイト</a>",
+              "pfm": "森谷威夫",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/04bd756b-4c78-4849-b4a8-1cfda36e0522.jpeg",
               "tag": {
                 "item": {
@@ -547,7 +586,7 @@
               }
             },
             {
-              "-id": "9615113546",
+              "-id": "9615865764",
               "-ft": "20220309183000",
               "-to": "20220309190000",
               "-ftl": "1830",
@@ -558,9 +597,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "経営者でミュージシャン、異色のパーソナリティ藤田純がラジオ界に旋風を巻き起こす！？ ビジネスから音楽、スポーツ、そして熱いメッセージ。縦横無尽に語りつくす情熱の30分。<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/jun/\">★番組サイト</a><br /><a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/jun.htm\">★番組へのメッセージ</a>",
-              "info": " ",
-              "pfm": "[出]藤田純、関明日香",
+              "desc": "経営者でミュージシャン / 異色のパーソナリティ藤田純がラジオ界に旋風を巻き起こす！？ ビジネスから音楽 / スポーツ / そして熱いメッセージ。縦横無尽に語りつくす情熱の30分。<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/jun/\">★番組サイト</a><br /><a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/jun.htm\">★番組へのメッセージ</a>",
+              "pfm": "藤田純 / 関明日香",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/kljlglzfrb.jpg",
               "tag": {
                 "item": [
@@ -586,19 +624,18 @@
               }
             },
             {
-              "-id": "9615104787",
+              "-id": "9615865770",
               "-ft": "20220309190000",
               "-to": "20220309193000",
               "-ftl": "1900",
               "-tol": "1930",
               "-dur": "1800",
-              "title": "鶴光の噂のゴールデンリクエスト",
+              "title": "三浦知良のオールナイトニッポン Premium",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
-              "pfm": "[出]笑福亭鶴光",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/d5f95161-c427-42fc-a1fa-107edb569247.jpeg",
+              "pfm": "三浦知良",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/z1l8qamits.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -607,7 +644,7 @@
               }
             },
             {
-              "-id": "9615106340",
+              "-id": "9615865771",
               "-ft": "20220309193000",
               "-to": "20220309210000",
               "-ftl": "1930",
@@ -618,9 +655,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "お騒がせのニュースやスキャンダル、日常のささいな出来事も法律目線でとらえることで、より深くより興味深い案件に大変身！元芸人というユニークな経歴を持つ現役弁護士が、世にあふれる「ヘン」な事件に、法律の知識で挑みます。時には京都在住の文化人や研究者などをゲストに迎え、伝統文化やサブカルチャーの話題も取り上げます。リスナーの知的好奇心と笑いのツボを刺激する、斬新リーガル・バラエティです。<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/hen/\">★番組サイト</a><br /><a href=\"https://www.facebook.com/kbs1143hen/\">★番組Facebook</a><br /><a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/hen.htm\">★番組へのメッセージ</a>",
-              "info": " ",
-              "pfm": "[出]角田龍平",
+              "desc": "お騒がせのニュースやスキャンダル / 日常のささいな出来事も法律目線でとらえることで / より深くより興味深い案件に大変身！元芸人というユニークな経歴を持つ現役弁護士が / 世にあふれる「ヘン」な事件に / 法律の知識で挑みます。時には京都在住の文化人や研究者などをゲストに迎え / 伝統文化やサブカルチャーの話題も取り上げます。リスナーの知的好奇心と笑いのツボを刺激する / 斬新リーガル・バラエティです。<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/hen/\">★番組サイト</a><br /><a href=\"https://www.facebook.com/kbs1143hen/\">★番組Facebook</a><br /><a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/hen.htm\">★番組へのメッセージ</a>",
+              "pfm": "角田龍平",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/pxia4ovxna.jpg",
               "tag": {
                 "item": {
@@ -645,7 +681,7 @@
               }
             },
             {
-              "-id": "9615107092",
+              "-id": "9615865775",
               "-ft": "20220309210000",
               "-to": "20220309212000",
               "-ftl": "2100",
@@ -656,9 +692,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "懐かしい話題から最近の出来事まで、団塊世代の噺家が言いたい放題。落語界の弟子や後輩(月亭文都・林家菊丸)も交えて、賑やかなひとときを繰り広げます。<br /><br />メール:<a href=\"mailto:84@kbs.kyoto\">84@kbs.kyoto</a>",
-              "info": " ",
-              "pfm": "[出]月亭八方、桂小文枝、月亭文都、林家菊丸",
+              "desc": "懐かしい話題から最近の出来事まで / 団塊世代の噺家が言いたい放題。落語界の弟子や後輩(月亭文都・林家菊丸)も交えて / 賑やかなひとときを繰り広げます。<br /><br />メール:<a href=\"mailto:84@kbs.kyoto\">84@kbs.kyoto</a>",
+              "pfm": "月亭八方 / 桂小文枝 / 月亭文都 / 林家菊丸",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/tcmyueb28o.jpg",
               "tag": {
                 "item": [
@@ -688,7 +723,7 @@
               }
             },
             {
-              "-id": "9615104845",
+              "-id": "9615865778",
               "-ft": "20220309212000",
               "-to": "20220309213000",
               "-ftl": "2120",
@@ -698,7 +733,6 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/vqy2lujuwa.jpg",
               "genre": {
                 "program": {
@@ -714,7 +748,7 @@
               }
             },
             {
-              "-id": "9615104851",
+              "-id": "9615865779",
               "-ft": "20220309213000",
               "-to": "20220309220000",
               "-ftl": "2130",
@@ -724,7 +758,6 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/1rbsh1a71n.jpg",
               "metas": {
                 "meta": {
@@ -734,7 +767,7 @@
               }
             },
             {
-              "-id": "9615238369",
+              "-id": "9615865780",
               "-ft": "20220309220000",
               "-to": "20220310010000",
               "-ftl": "2200",
@@ -745,8 +778,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
-              "pfm": "[出]オテンキのり",
+              "pfm": "オテンキのり",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/gvt0mwxkjh.png",
               "genre": {
                 "program": {
@@ -762,7 +794,7 @@
               }
             },
             {
-              "-id": "9615253971",
+              "-id": "9615865792",
               "-ft": "20220310010000",
               "-to": "20220310030000",
               "-ftl": "2500",
@@ -772,8 +804,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
-              "pfm": "[出]乃木坂46",
+              "pfm": "乃木坂46",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/mzpeuhkcoq.jpg",
               "metas": {
                 "meta": {
@@ -783,7 +814,7 @@
               }
             },
             {
-              "-id": "9615258310",
+              "-id": "9615865799",
               "-ft": "20220310030000",
               "-to": "20220310043000",
               "-ftl": "2700",
@@ -793,8 +824,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
-              "pfm": "[出]佐久間宣行",
+              "pfm": "佐久間宣行",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/sm5ilgdwd8.jpg",
               "genre": {
                 "personality": {
@@ -814,7 +844,7 @@
               }
             },
             {
-              "-id": "9615238442",
+              "-id": "9615865805",
               "-ft": "20220310043000",
               "-to": "20220310050000",
               "-ftl": "2830",
@@ -824,7 +854,6 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/ig7jf6spa3.jpg",
               "genre": {
                 "personality": {
