@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1646676361",
+    "srvtime": "1646762720",
     "stations": {
       "station": {
         "-id": "OBS",
@@ -10,7 +10,7 @@
           "date": "20220311",
           "prog": [
             {
-              "-id": "9615825526",
+              "-id": "9615992062",
               "-ft": "20220311050000",
               "-to": "20220311052000",
               "-ftl": "0500",
@@ -23,6 +23,25 @@
               "desc": "昭和の良き時代の「昭和歌謡」を紹介♪",
               "pfm": "佐藤健一",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/ajd595d759.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "#shouwakayo"
+                  },
+                  {
+                    "name": "佐藤健一"
+                  },
+                  {
+                    "name": "昭和歌謡"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -83,7 +102,7 @@
               }
             },
             {
-              "-id": "9615827836",
+              "-id": "9615975472",
               "-ft": "20220311053000",
               "-to": "20220311063000",
               "-ftl": "0530",
@@ -97,6 +116,21 @@
               "desc": "　　",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/im3kpj1rc7.jpg",
+              "tag": {
+                "item": {
+                  "name": "生島ヒロシ"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -474,7 +508,7 @@
               }
             },
             {
-              "-id": "9615541719",
+              "-id": "9615989937",
               "-ft": "20220311164500",
               "-to": "20220311170000",
               "-ftl": "1645",
