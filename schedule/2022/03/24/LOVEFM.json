@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1648058719",
+    "srvtime": "1648145047",
     "stations": {
       "station": {
         "-id": "LOVEFM",
@@ -332,7 +332,7 @@
               }
             },
             {
-              "-id": "9617629937",
+              "-id": "9618663545",
               "-ft": "20220324200000",
               "-to": "20220324210000",
               "-ftl": "2000",
@@ -344,7 +344,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "<p>毎週土曜日16時から放送中の人気番組SPIN THE WHEEL CREWによるCLUB、DJ BAR応援番組。<br /><br />外出規制などでCLUBに行きたくても行けない、そして状況的にオープン出来ないCLUBやDJ BAR・・・そんなCLUBに関わる全ての人を応援しよう！！今こそラジオの力を！！</p>",
-              "pfm": "Miki,SPIN CREW",
+              "pfm": "Miki,SPIN CREW,DJ HIGA",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LOVEFM/kued6n68ew.jpg",
               "genre": {
                 "personality": {
@@ -396,7 +396,7 @@
               }
             },
             {
-              "-id": "9618493755",
+              "-id": "9618659548",
               "-ft": "20220324213000",
               "-to": "20220324230000",
               "-ftl": "2130",
@@ -410,10 +410,27 @@
               "info": "<p>月明かりの下で静かに虫の声に耳を傾けるように、今日一日を振り返り、明日に向かう準備をするための時間。<br />良いことは胸に保存、悪いことは昨日に置いて行こう。</p><p><br /><br /><a href=\"http://lovefm.co.jp/gekka_chune/blogs\" target=\"_blank\">漫画ブログ：大田こぞう作イキモノ漫画『アナシ』出発進行！</a></p><p> </p><p> </p>",
               "pfm": "大田こぞう",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LOVEFM/9fnprixayw.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "大田こぞう"
+                  },
+                  {
+                    "name": "昆虫"
+                  },
+                  {
+                    "name": "昆虫DJ"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
