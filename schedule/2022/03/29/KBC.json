@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1648145106",
+    "srvtime": "1648231618",
     "stations": {
       "station": {
         "-id": "KBC",
@@ -36,7 +36,7 @@
               }
             },
             {
-              "-id": "9618650938",
+              "-id": "9618816379",
               "-ft": "20220329051500",
               "-to": "20220329053000",
               "-ftl": "0515",
@@ -79,7 +79,7 @@
               }
             },
             {
-              "-id": "9618331335",
+              "-id": "9618839276",
               "-ft": "20220329061600",
               "-to": "20220329062200",
               "-ftl": "0616",
@@ -94,10 +94,10 @@
               "tag": {
                 "item": [
                   {
-                    "name": "ニュース"
+                    "name": "天気"
                   },
                   {
-                    "name": "天気"
+                    "name": "ニュース"
                   }
                 ]
               },
@@ -136,13 +136,13 @@
               }
             },
             {
-              "-id": "9618577378",
+              "-id": "9618842696",
               "-ft": "20220329063000",
-              "-to": "20220329083500",
+              "-to": "20220329070000",
               "-ftl": "0630",
-              "-tol": "0835",
-              "-dur": "7500",
-              "title": "アサデス。ラジオ",
+              "-tol": "0700",
+              "-dur": "1800",
+              "title": "アサデス。ラジオ(1)",
               "url": "https://kbc.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -158,7 +158,51 @@
               }
             },
             {
-              "-id": "9618331379",
+              "-id": "9618842697",
+              "-ft": "20220329070000",
+              "-to": "20220329080000",
+              "-ftl": "0700",
+              "-tol": "0800",
+              "-dur": "3600",
+              "title": "アサデス。ラジオ(2)",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:asa@kbc.co.jp\">asa@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_asaradio\">@kbc_asaradio</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/asa_kbcradio/\">@asa_kbcradio</a>」",
+              "pfm": "近藤鉄太郎、山崎萌絵、浜崎陽一郎（株式会社Fusic　副社長）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/4fbb2281-13d7-4867-809e-68ca6cdc90ee.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9618842699",
+              "-ft": "20220329080000",
+              "-to": "20220329083500",
+              "-ftl": "0800",
+              "-tol": "0835",
+              "-dur": "2100",
+              "title": "アサデス。ラジオ(3)",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:asa@kbc.co.jp\">asa@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_asaradio\">@kbc_asaradio</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/asa_kbcradio/\">@asa_kbcradio</a>」",
+              "pfm": "近藤鉄太郎、山崎萌絵、浜崎陽一郎（株式会社Fusic　副社長）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/4fbb2281-13d7-4867-809e-68ca6cdc90ee.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9618839284",
               "-ft": "20220329083500",
               "-to": "20220329084000",
               "-ftl": "0835",
@@ -195,13 +239,79 @@
               }
             },
             {
-              "-id": "9618577420",
+              "-id": "9618842700",
               "-ft": "20220329084000",
-              "-to": "20220329120000",
+              "-to": "20220329090000",
               "-ftl": "0840",
+              "-tol": "0900",
+              "-dur": "1200",
+              "title": "アサデス。ラジオ(1)",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:asa@kbc.co.jp\">asa@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_asaradio\">@kbc_asaradio</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/asa_kbcradio/\">@asa_kbcradio</a>」",
+              "pfm": "近藤鉄太郎、山崎萌絵",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/4fbb2281-13d7-4867-809e-68ca6cdc90ee.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9618842701",
+              "-ft": "20220329090000",
+              "-to": "20220329100000",
+              "-ftl": "0900",
+              "-tol": "1000",
+              "-dur": "3600",
+              "title": "アサデス。ラジオ(2)",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:asa@kbc.co.jp\">asa@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_asaradio\">@kbc_asaradio</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/asa_kbcradio/\">@asa_kbcradio</a>」",
+              "pfm": "近藤鉄太郎、山崎萌絵",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/4fbb2281-13d7-4867-809e-68ca6cdc90ee.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9618842703",
+              "-ft": "20220329100000",
+              "-to": "20220329110000",
+              "-ftl": "1000",
+              "-tol": "1100",
+              "-dur": "3600",
+              "title": "アサデス。ラジオ(3)",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:asa@kbc.co.jp\">asa@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_asaradio\">@kbc_asaradio</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/asa_kbcradio/\">@asa_kbcradio</a>」",
+              "pfm": "近藤鉄太郎、山崎萌絵",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/4fbb2281-13d7-4867-809e-68ca6cdc90ee.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9618842704",
+              "-ft": "20220329110000",
+              "-to": "20220329120000",
+              "-ftl": "1100",
               "-tol": "1200",
-              "-dur": "12000",
-              "title": "アサデス。ラジオ",
+              "-dur": "3600",
+              "title": "アサデス。ラジオ(4)",
               "url": "https://kbc.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "1",
@@ -217,7 +327,7 @@
               }
             },
             {
-              "-id": "9618658214",
+              "-id": "9618759589",
               "-ft": "20220329120000",
               "-to": "20220329123000",
               "-ftl": "1200",
@@ -259,7 +369,7 @@
               }
             },
             {
-              "-id": "9618331455",
+              "-id": "9618839295",
               "-ft": "20220329124500",
               "-to": "20220329125500",
               "-ftl": "1245",
@@ -291,7 +401,7 @@
               }
             },
             {
-              "-id": "9618331459",
+              "-id": "9618839297",
               "-ft": "20220329125500",
               "-to": "20220329130000",
               "-ftl": "1255",
@@ -303,6 +413,22 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/6c1d8b6f-5414-4970-ad51-1b55f295f077.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "天気"
+                  },
+                  {
+                    "name": "ニュース"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -311,7 +437,7 @@
               }
             },
             {
-              "-id": "9618331468",
+              "-id": "9618839300",
               "-ft": "20220329130000",
               "-to": "20220329140000",
               "-ftl": "1300",
@@ -353,7 +479,7 @@
               }
             },
             {
-              "-id": "9618331476",
+              "-id": "9618839302",
               "-ft": "20220329140000",
               "-to": "20220329150000",
               "-ftl": "1400",
@@ -395,7 +521,7 @@
               }
             },
             {
-              "-id": "9618331485",
+              "-id": "9618839307",
               "-ft": "20220329150000",
               "-to": "20220329160000",
               "-ftl": "1500",
@@ -437,7 +563,7 @@
               }
             },
             {
-              "-id": "9618331502",
+              "-id": "9618839310",
               "-ft": "20220329160000",
               "-to": "20220329170000",
               "-ftl": "1600",
@@ -505,7 +631,7 @@
               }
             },
             {
-              "-id": "9618331525",
+              "-id": "9618839316",
               "-ft": "20220329171500",
               "-to": "20220329175500",
               "-ftl": "1715",
@@ -546,7 +672,7 @@
               }
             },
             {
-              "-id": "9618547914",
+              "-id": "9618839322",
               "-ft": "20220329175500",
               "-to": "20220329210000",
               "-ftl": "1755",
@@ -614,7 +740,7 @@
               }
             },
             {
-              "-id": "9618331612",
+              "-id": "9618839342",
               "-ft": "20220329215500",
               "-to": "20220329220000",
               "-ftl": "2155",
@@ -626,6 +752,22 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/6c1d8b6f-5414-4970-ad51-1b55f295f077.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "天気"
+                  },
+                  {
+                    "name": "ニュース"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -634,7 +776,7 @@
               }
             },
             {
-              "-id": "9618660183",
+              "-id": "9618809320",
               "-ft": "20220329220000",
               "-to": "20220330000000",
               "-ftl": "2200",
@@ -696,7 +838,7 @@
               }
             },
             {
-              "-id": "9618485667",
+              "-id": "9618839351",
               "-ft": "20220330003000",
               "-to": "20220330010000",
               "-ftl": "2430",
@@ -749,7 +891,7 @@
               }
             },
             {
-              "-id": "9618660228",
+              "-id": "9618809398",
               "-ft": "20220330010000",
               "-to": "20220330030000",
               "-ftl": "2500",
