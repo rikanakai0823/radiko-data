@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1648318055",
+    "srvtime": "1648577160",
     "stations": {
       "station": {
         "-id": "LOVEFM",
@@ -77,7 +77,7 @@
               }
             },
             {
-              "-id": "9619083817",
+              "-id": "9619365812",
               "-ft": "20220331070000",
               "-to": "20220331085400",
               "-ftl": "0700",
@@ -160,7 +160,7 @@
               }
             },
             {
-              "-id": "9619083850",
+              "-id": "9619365830",
               "-ft": "20220331090000",
               "-to": "20220331110000",
               "-ftl": "0900",
@@ -460,7 +460,7 @@
               }
             },
             {
-              "-id": "9619005027",
+              "-id": "9619588692",
               "-ft": "20220331213000",
               "-to": "20220331230000",
               "-ftl": "2130",
@@ -505,12 +505,34 @@
               }
             },
             {
-              "-id": "9618936250",
+              "-id": "9619611110",
               "-ft": "20220331230000",
-              "-to": "20220401020000",
+              "-to": "20220401010000",
               "-ftl": "2300",
+              "-tol": "2500",
+              "-dur": "7200",
+              "title": "LOVE FM 25th ANNIVERSARY SPECIAL RADIO PROGRAM【START TO MOVE】",
+              "url": "http://lovefm.co.jp/25th_Anniversary_STARTTOMOVE/programs/more",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<p>3月31日から4月1日をまたぐ時間に</p><p>開局25周年スタートをカウントダウンする特別番組を放送します。</p><p>ソラリアパークサイドスタジオからアーティストライブを生放送する2時間。</p><p>LOVE FM 25周年を一緒に迎えるリスナーの “心を動かす” 音楽をお届けします。</p><p>※ LOVE FM オフィシャルYouTube /インスタライブでも生配信予定</p>",
+              "pfm": "佐藤ともやす,コ太朗",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LOVEFM/jndzd6u00p.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9619614173",
+              "-ft": "20220401010000",
+              "-to": "20220401020000",
+              "-ftl": "2500",
               "-tol": "2600",
-              "-dur": "10800",
+              "-dur": "3600",
               "title": "After Dark",
               "url": "http://lovefm.co.jp/after_dark/programs/more",
               "failed_record": "0",
@@ -519,11 +541,6 @@
               "info": "<p>心地よい音楽をノンストップでお送りしています。</p>",
               "pfm": "Tom Dufleit",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LOVEFM/hwdbci64dm.jpg",
-              "tag": {
-                "item": {
-                  "name": "洋楽"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C015",
