@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1648577210",
+    "srvtime": "1648663580",
     "stations": {
       "station": {
         "-id": "FM_OKINAWA",
@@ -10,7 +10,7 @@
           "date": "20220404",
           "prog": [
             {
-              "-id": "9619690593",
+              "-id": "9619844172",
               "-ft": "20220404050000",
               "-to": "20220404053000",
               "-ftl": "0500",
@@ -23,6 +23,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/1114_de59b792_sq.jpg\" height=\"60\" width=\"60\" alt=\"木村多江\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/library/\">http://www.jfn.jp/library/</a><br /><br /></div>",
               "pfm": "木村多江",
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
+                "program": {
+                  "-id": "P004",
+                  "name": "ドラマ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -710,28 +720,19 @@
               }
             },
             {
-              "-id": "9619402436",
+              "-id": "9619916912",
               "-ft": "20220404125500",
               "-to": "20220404130000",
               "-ftl": "1255",
               "-tol": "1300",
               "-dur": "300",
-              "title": "ラジオ県民室",
+              "title": "ハルウタクリップ",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM_OKINAWA/4ncalrtq36.png",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/IU/person/7276_31f46dad_sq.jpg\" height=\"60\" width=\"60\" alt=\"歌嶺 京\"></td>  </tr></table><br /><br />\tハルウタソングで新生活を応援！ <br /><br /><br /></div>",
+              "pfm": "歌嶺 京",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM_OKINAWA/h0fqktnucq.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1688,18 +1689,20 @@
               }
             },
             {
-              "-id": "9619412541",
+              "-id": "9619916946",
               "-ft": "20220404215500",
               "-to": "20220404220000",
               "-ftl": "2155",
               "-tol": "2200",
               "-dur": "300",
-              "title": "Life Time Audio～人生のプレイリスト～",
+              "title": "吉田麻也のチャレンジ＆カバー",
+              "url": "https://audee.jp/program/show/100000347",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t毎週1組のアーティストが1日1曲をセレクトする音楽番組。生まれ年の音楽から思春期時代に聴いて影響を受けた楽曲など、日替わりのテーマで選曲を届けます。 <br /><br /><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM_OKINAWA/7u9po2tdab.jpg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/10693_dba0bc98_sq.jpg\" height=\"60\" width=\"60\" alt=\"吉田麻也\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/100000347\">https://audee.jp/program/show/100000347</a><br /><br /></div>",
+              "pfm": "吉田麻也",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM_OKINAWA/2z42aobbeu.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1825,7 +1828,7 @@
               }
             },
             {
-              "-id": "9619504987",
+              "-id": "9619864131",
               "-ft": "20220405000000",
               "-to": "20220405005500",
               "-ftl": "2400",
@@ -1920,79 +1923,47 @@
               }
             },
             {
-              "-id": "9619627272",
+              "-id": "9619916960",
               "-ft": "20220405020000",
               "-to": "20220405030000",
               "-ftl": "2600",
               "-tol": "2700",
               "-dur": "3600",
-              "title": "ON THE PLANET",
-              "url": "http://www.jfn.jp/planet",
+              "title": "AuDee CONNECT",
+              "url": "https://audee.jp/program/show/60610",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/planet\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/22198_f38b8f67_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/7234_b689d92b_sq.jpg\" height=\"60\" width=\"60\" alt=\"武田俊\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/planet\">http://www.jfn.jp/planet</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/159\">https://ssl2.jfn.co.jp/mailbox/index/159</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%AA%E3%83%B3%E3%83%97%E3%83%A9\">#オンプラ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/JFN_OTP\">@JFN_OTP</a>」<br /><br /></div>",
-              "pfm": "武田俊",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM_OKINAWA/dke0ngqzlt.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C012",
-                  "name": "文化人"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10747_dccd1c87_sq.jpg\" height=\"60\" width=\"60\" alt=\"狩野英孝\"></td>  </tr></table><br /><br />\t常に新たな創作やパフォーマンスを続けるパーソナリティたちと、敏感な感覚でそれをキャッチするリスナーが＜CONNECT＞して、新しいエンターテインメントを作り出す深夜カルチャーバラエティ番組『AuDee CONNECT』。<br /><br />記念すべきスタート回は、近年YouTuberとしても大きな影響力を誇っている狩野英孝。<br />後輩芸人をアシスタントに迎えながら、音楽・ゲーム・漫画・映画・お笑い…、様々な話題をリスナーと深堀りしていきます。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/60610\">https://audee.jp/program/show/60610</a><br /><br /></div>",
+              "pfm": "狩野英孝",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM_OKINAWA/rgxou0dp0g.jpg",
               "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#オンプラ"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:JFN_OTP"
-                  }
-                ]
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
               }
             },
             {
-              "-id": "9619627296",
+              "-id": "9619916961",
               "-ft": "20220405030000",
               "-to": "20220405040000",
               "-ftl": "2700",
               "-tol": "2800",
               "-dur": "3600",
-              "title": "ON THE PLANET",
-              "url": "http://www.jfn.jp/planet",
+              "title": "AuDee CONNECT",
+              "url": "https://audee.jp/program/show/60610",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/planet\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/22199_9684df80_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/7234_b689d92b_sq.jpg\" height=\"60\" width=\"60\" alt=\"武田俊\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/planet\">http://www.jfn.jp/planet</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/159\">https://ssl2.jfn.co.jp/mailbox/index/159</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%AA%E3%83%B3%E3%83%97%E3%83%A9\">#オンプラ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/JFN_OTP\">@JFN_OTP</a>」<br /><br /></div>",
-              "pfm": "武田俊",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM_OKINAWA/dke0ngqzlt.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C012",
-                  "name": "文化人"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10747_dccd1c87_sq.jpg\" height=\"60\" width=\"60\" alt=\"狩野英孝\"></td>  </tr></table><br /><br />\t常に新たな創作やパフォーマンスを続けるパーソナリティたちと、敏感な感覚でそれをキャッチするリスナーが＜CONNECT＞して、新しいエンターテインメントを作り出す深夜カルチャーバラエティ番組『AuDee CONNECT』。<br /><br />記念すべきスタート回は、近年YouTuberとしても大きな影響力を誇っている狩野英孝。<br />後輩芸人をアシスタントに迎えながら、音楽・ゲーム・漫画・映画・お笑い…、様々な話題をリスナーと深堀りしていきます。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/60610\">https://audee.jp/program/show/60610</a><br /><br /></div>",
+              "pfm": "狩野英孝",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM_OKINAWA/jx2se5yavq.jpg",
               "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#オンプラ"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:JFN_OTP"
-                  }
-                ]
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
               }
             },
             {

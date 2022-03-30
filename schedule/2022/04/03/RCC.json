@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1648577194",
+    "srvtime": "1648663563",
     "stations": {
       "station": {
         "-id": "RCC",
@@ -105,7 +105,7 @@
               }
             },
             {
-              "-id": "9619450751",
+              "-id": "9619789980",
               "-ft": "20220403055500",
               "-to": "20220403060000",
               "-ftl": "0555",
@@ -117,6 +117,16 @@
               "ts_out_ng": "0",
               "pfm": "寺内優",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/18a71c18-e2f2-45c5-8fa6-6225bdf34b80.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -604,17 +614,24 @@
               }
             },
             {
-              "-id": "9619247061",
+              "-id": "9619801765",
               "-ft": "20220403120000",
               "-to": "20220403123000",
               "-ftl": "1200",
               "-tol": "1230",
               "-dur": "1800",
-              "title": "川上政行の今日もごめんなさい！",
+              "title": "川上政行と葉山さつきのこんな二人でごめんなさい！",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "pfm": "川上政行、葉山さつき",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/656e1799-db8f-42f8-9b9a-8b64011e83bd.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -898,17 +915,18 @@
               }
             },
             {
-              "-id": "9619234251",
+              "-id": "9619852478",
               "-ft": "20220403180000",
               "-to": "20220403200000",
               "-ftl": "1800",
               "-tol": "2000",
               "-dur": "7200",
-              "title": "ラジオじじい放談",
+              "title": "開局70年特別番組　ラジオじじい放談",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/656e1799-db8f-42f8-9b9a-8b64011e83bd.jpeg",
+              "pfm": "柏村武昭、田中和彦",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RCC/1cc9ef03-6016-4adc-b1ab-f4e79cdfee95.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -983,7 +1001,7 @@
               }
             },
             {
-              "-id": "9619572635",
+              "-id": "9619835464",
               "-ft": "20220403210000",
               "-to": "20220403213000",
               "-ftl": "2100",
