@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1648663588",
+    "srvtime": "1648749990",
     "stations": {
       "station": {
         "-id": "CRT",
@@ -729,7 +729,7 @@
               }
             },
             {
-              "-id": "9619845251",
+              "-id": "9619999591",
               "-ft": "20220406000000",
               "-to": "20220406010000",
               "-ftl": "2400",
@@ -744,6 +744,12 @@
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E6%A0%83%E6%9C%A8%E6%94%BE%E9%80%81\">#栃木放送</a>」",
               "pfm": "オテンキのり",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CRT/e8gvfe8wmf.png",
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -752,7 +758,7 @@
               }
             },
             {
-              "-id": "9619845295",
+              "-id": "9619998037",
               "-ft": "20220406010000",
               "-to": "20220406030000",
               "-ftl": "2500",
@@ -767,6 +773,16 @@
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E6%A0%83%E6%9C%A8%E6%94%BE%E9%80%81\">#栃木放送</a>」",
               "pfm": "星野源",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CRT/729785e7-08c8-4f99-827c-d9b0273ed709.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
