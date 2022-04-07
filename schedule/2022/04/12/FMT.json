@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1649268405",
+    "srvtime": "1649354773",
     "stations": {
       "station": {
         "-id": "FMT",
@@ -665,7 +665,7 @@
               }
             },
             {
-              "-id": "9621040388",
+              "-id": "9621417323",
               "-ft": "20220412200000",
               "-to": "20220412205500",
               "-ftl": "2000",
@@ -690,6 +690,10 @@
                 ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -709,7 +713,7 @@
               }
             },
             {
-              "-id": "9621040406",
+              "-id": "9621417333",
               "-ft": "20220412205500",
               "-to": "20220412210000",
               "-ftl": "2055",
@@ -722,6 +726,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\t番組Webサイト：<a href=\"https://www.tfm.co.jp/first-voice/\">https://www.tfm.co.jp/first-voice/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23VOICE80\">#VOICE80</a>」<br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/b4kihyzjyr.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -818,7 +832,7 @@
               }
             },
             {
-              "-id": "9621280170",
+              "-id": "9621417350",
               "-ft": "20220412215500",
               "-to": "20220412220000",
               "-ftl": "2155",
@@ -831,8 +845,23 @@
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/6jupv1o9xs.jpg",
               "tag": {
-                "item": {
-                  "name": "ニュース"
+                "item": [
+                  {
+                    "name": "ニュース"
+                  },
+                  {
+                    "name": "大谷翔平"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
                 }
               },
               "metas": {
@@ -891,7 +920,7 @@
               }
             },
             {
-              "-id": "9621014455",
+              "-id": "9621417379",
               "-ft": "20220412235500",
               "-to": "20220413000000",
               "-ftl": "2355",
@@ -904,9 +933,14 @@
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/6jupv1o9xs.jpg",
               "tag": {
-                "item": {
-                  "name": "ニュース"
-                }
+                "item": [
+                  {
+                    "name": "ニュース"
+                  },
+                  {
+                    "name": "大谷翔平"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -914,8 +948,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P002",
+                  "name": "スポーツ"
                 }
               },
               "metas": {
@@ -963,7 +997,7 @@
               }
             },
             {
-              "-id": "9621149089",
+              "-id": "9621417393",
               "-ft": "20220413005500",
               "-to": "20220413010000",
               "-ftl": "2455",
@@ -976,9 +1010,14 @@
               "info": "<div class=\"station_content_description \"><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/6jupv1o9xs.jpg",
               "tag": {
-                "item": {
-                  "name": "ニュース"
-                }
+                "item": [
+                  {
+                    "name": "ニュース"
+                  },
+                  {
+                    "name": "大谷翔平"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -986,8 +1025,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P002",
+                  "name": "スポーツ"
                 }
               },
               "metas": {
