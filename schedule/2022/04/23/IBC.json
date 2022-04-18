@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1650218715",
+    "srvtime": "1650305168",
     "stations": {
       "station": {
         "-id": "IBC",
@@ -1107,7 +1107,7 @@
               }
             },
             {
-              "-id": "9623323727",
+              "-id": "9623490834",
               "-ft": "20220423213000",
               "-to": "20220423223000",
               "-ftl": "2130",
@@ -1211,7 +1211,7 @@
               }
             },
             {
-              "-id": "9623298638",
+              "-id": "9623511271",
               "-ft": "20220424030000",
               "-to": "20220424040000",
               "-ftl": "2700",
@@ -1222,12 +1222,21 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "番組twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」<br/>",
+              "desc": "E-mail　<a href=\"mailto:mitorizu@allnightnippon.com\">mitorizu@allnightnippon.com</a>",
+              "info": "番組twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」<br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E8%A6%8B%E5%8F%96%E3%82%8A%E5%9B%B3ANN0\">#見取り図ANN0</a>」",
+              "pfm": "見取り図",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/3c3a32a7-4796-4e52-9f8a-da156a9380ff.jpeg",
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "from:Ann_Since1967"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#見取り図ANN0"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:Ann_Since1967"
+                  }
+                ]
               }
             },
             {
