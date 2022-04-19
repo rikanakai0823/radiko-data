@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1650305166",
+    "srvtime": "1650391554",
     "stations": {
       "station": {
         "-id": "KBC",
@@ -112,7 +112,7 @@
               }
             },
             {
-              "-id": "9623517322",
+              "-id": "9623620926",
               "-ft": "20220423061500",
               "-to": "20220423062500",
               "-ftl": "0615",
@@ -126,6 +126,16 @@
               "info": "この番組は、子育てで日々奮闘しているママやパパ、そしておじいちゃん、おばあちゃん、ご近所さんなど、子育てに関わる皆様に、役立つ情報を提供してゆく子育て応援プログラムです。",
               "pfm": "ナビゲーター：自見はなこ／進行役：淵澤由樹（アナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/8899d8a7-f90b-4c45-ab55-994dd4bd0192.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -134,7 +144,7 @@
               }
             },
             {
-              "-id": "9623521272",
+              "-id": "9623672809",
               "-ft": "20220423062500",
               "-to": "20220423064000",
               "-ftl": "0625",
@@ -196,7 +206,7 @@
               }
             },
             {
-              "-id": "9623517331",
+              "-id": "9623620938",
               "-ft": "20220423070000",
               "-to": "20220423102500",
               "-ftl": "0700",
@@ -211,6 +221,17 @@
               "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:megumi@kbc.co.jp\">megumi@kbc.co.jp</a>",
               "pfm": "いわぶ見梨",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/1f0dd3df-9833-454c-943d-cd86ed9c8986.jpeg",
+              "tag": {
+                "item": {
+                  "name": "いわぶ見梨"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -379,7 +400,7 @@
               }
             },
             {
-              "-id": "9623517404",
+              "-id": "9623621030",
               "-ft": "20220423120000",
               "-to": "20220423130000",
               "-ftl": "1200",
@@ -394,6 +415,12 @@
               "info": "ＫＢＣの放送エリアの魅力をたっぷりとお伝えする「ふるさとＷｉｓｈ」。<br/>特定の市町村に１週間にわたってスポットをあてる、かつてないスペシャル企画です☆<br/>FAX 092-722-4242<br/>mail：<a href=\"mailto:furusato@kbc.co.jp\">furusato@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/furusato_wish\">@furusato_wish</a>」",
               "pfm": "青木淳也（ブルーリバー）、アイタガール",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/bbb6cf0c-c556-4b33-812d-ced08fac5311.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -402,7 +429,7 @@
               }
             },
             {
-              "-id": "9623517418",
+              "-id": "9623678005",
               "-ft": "20220423130000",
               "-to": "20220423135500",
               "-ftl": "1300",
@@ -417,6 +444,46 @@
               "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:satakan@kbc.co.jp\">satakan@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_satakan\">@kbc_satakan</a>」",
               "pfm": "こだマン、真璃子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/daf12386-b73d-43cd-a034-317e6f6cd57d.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽"
+                  },
+                  {
+                    "name": "ドライブ"
+                  },
+                  {
+                    "name": "ランキング"
+                  },
+                  {
+                    "name": "生放送"
+                  },
+                  {
+                    "name": "懐かしい"
+                  },
+                  {
+                    "name": "JーPOP"
+                  },
+                  {
+                    "name": "サタカン"
+                  },
+                  {
+                    "name": "こだマン"
+                  },
+                  {
+                    "name": "真璃子"
+                  },
+                  {
+                    "name": "ヒットソング"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -425,7 +492,7 @@
               }
             },
             {
-              "-id": "9623533902",
+              "-id": "9623678014",
               "-ft": "20220423135500",
               "-to": "20220423170000",
               "-ftl": "1355",
@@ -464,7 +531,7 @@
               }
             },
             {
-              "-id": "9623517462",
+              "-id": "9623678063",
               "-ft": "20220423170000",
               "-to": "20220423190000",
               "-ftl": "1700",
@@ -479,6 +546,46 @@
               "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:satakan@kbc.co.jp\">satakan@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_satakan\">@kbc_satakan</a>」",
               "pfm": "こだマン、真璃子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/6c1d8b6f-5414-4970-ad51-1b55f295f077.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽"
+                  },
+                  {
+                    "name": "ドライブ"
+                  },
+                  {
+                    "name": "ランキング"
+                  },
+                  {
+                    "name": "生放送"
+                  },
+                  {
+                    "name": "懐かしい"
+                  },
+                  {
+                    "name": "JーPOP"
+                  },
+                  {
+                    "name": "サタカン"
+                  },
+                  {
+                    "name": "こだマン"
+                  },
+                  {
+                    "name": "真璃子"
+                  },
+                  {
+                    "name": "ヒットソング"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -487,7 +594,7 @@
               }
             },
             {
-              "-id": "9623517500",
+              "-id": "9623621130",
               "-ft": "20220423190000",
               "-to": "20220423220000",
               "-ftl": "1900",
@@ -502,6 +609,22 @@
               "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:bake@kbc.co.jp\">bake@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_bake\">@kbc_bake</a>」",
               "pfm": "ルーシー",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/3ed7a45b-b3ca-4d8f-b048-df30c0a97a0c.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ルーシー"
+                  },
+                  {
+                    "name": "音楽"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -510,7 +633,7 @@
               }
             },
             {
-              "-id": "9623517548",
+              "-id": "9623678182",
               "-ft": "20220423220000",
               "-to": "20220423230000",
               "-ftl": "2200",
@@ -532,7 +655,7 @@
               }
             },
             {
-              "-id": "9623517560",
+              "-id": "9623621195",
               "-ft": "20220423230000",
               "-to": "20220423233000",
               "-ftl": "2300",
@@ -547,6 +670,12 @@
               "info": "毎日を元気にポジティブに過ごせるアドバイスを皆さんにお届けします。<br/>★番組宛てにDr.深堀への質問・お悩み相談などお送りください。<br/>FAX 092-722-4242<br/>mail：<a href=\"mailto:dr@kbc.co.jp\">dr@kbc.co.jp</a>",
               "pfm": "パーソナリティ：深堀元文、平川尚子ほか",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/8a8c3fc2-fddd-4bab-a997-75b4d975f552.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -555,7 +684,7 @@
               }
             },
             {
-              "-id": "9623517568",
+              "-id": "9623678202",
               "-ft": "20220423233000",
               "-to": "20220424000000",
               "-ftl": "2330",
@@ -576,7 +705,7 @@
               }
             },
             {
-              "-id": "9623517574",
+              "-id": "9623678209",
               "-ft": "20220424000000",
               "-to": "20220424003000",
               "-ftl": "2400",
@@ -597,7 +726,7 @@
               }
             },
             {
-              "-id": "9623517581",
+              "-id": "9623621238",
               "-ft": "20220424003000",
               "-to": "20220424010000",
               "-ftl": "2430",
@@ -611,6 +740,21 @@
               "info": "仕事から解放されて…家事から解放されて…<br/>寝る前に迎える”ほっとしたくつろぎの自由時間”そんなリラックスタイムに、「藤原竜也とゆるくてホットな時間」をお過ごしください。",
               "pfm": "パーソナリティ：藤原竜也",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/f0d71c70-f119-4a82-851c-57d5fbe1cf08.jpeg",
+              "tag": {
+                "item": {
+                  "name": "藤原竜也"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -619,7 +763,7 @@
               }
             },
             {
-              "-id": "9623517589",
+              "-id": "9623678237",
               "-ft": "20220424010000",
               "-to": "20220424030000",
               "-ftl": "2500",
@@ -633,6 +777,21 @@
               "info": "人気お笑いコンビ「オードリー」が、『オールナイトニッポン』のパーソナリティとして登場！<br/>２人はどんな風にあなたのハートをわしづかみにするのか？<br/>そしてどんな新しい「オードリー」を聴かせてくれるのか？<br/>テレビでは決して聴くことのできない限界ギリギリのフリートーク満載の2時間！土曜日の夜が待ち遠しくなる！<br/><br/>メッセージはmail：<a href=\"mailto:kw@allnightnippon.com\">kw@allnightnippon.com</a>まで",
               "pfm": "オードリー",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/ji2b0nxxea.jpg",
+              "tag": {
+                "item": {
+                  "name": "オードリー"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -641,7 +800,7 @@
               }
             },
             {
-              "-id": "9623517611",
+              "-id": "9623621290",
               "-ft": "20220424030000",
               "-to": "20220424050000",
               "-ftl": "2700",
@@ -655,6 +814,16 @@
               "info": "土曜も深夜3時からはオールナイトニッポン0(ZERO)！スペシャルなパーソナリティが週替わりで登場します！",
               "pfm": "見取り図",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/e691bfd5-a70f-4321-92bf-a50f0cd8f18d.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
