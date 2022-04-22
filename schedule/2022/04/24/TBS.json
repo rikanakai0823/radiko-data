@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1650305175",
+    "srvtime": "1650650783",
     "stations": {
       "station": {
         "-id": "TBS",
@@ -10,19 +10,38 @@
           "date": "20220424",
           "prog": [
             {
-              "-id": "9623322398",
+              "-id": "9624336867",
               "-ft": "20220424050000",
-              "-to": "20220424060000",
+              "-to": "20220424050500",
               "-ftl": "0500",
-              "-tol": "0600",
-              "-dur": "3600",
+              "-tol": "0505",
+              "-dur": "300",
+              "title": "ニュース・天気予報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/782f8002-5dbc-4385-b2fc-03f77dd2ec86.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9624336869",
+              "-ft": "20220424050500",
+              "-to": "20220424052000",
+              "-ftl": "0505",
+              "-tol": "0520",
+              "-dur": "900",
               "title": "Music Palette♪（２）",
               "url": "https://www.tbsradio.jp/mp/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "4 時台「私のプレイリストコーナー」<br/> ◆5 時台「朝の音楽室」のコーナー<br/><br/> メール：<a href=\"mailto:mp@tbs.co.jp\">mp@tbs.co.jp</a><br/><br/>",
-              "pfm": "宮崎由加",
+              "info": "週末の早朝のひとときにお送りするミュージックプログラム。<br>\nポップスから演歌・歌謡曲など、様々なジャンルの新曲を中心に、音楽とトークで1日の始まりを告げる番組。<br><br>\n\n◆4時00分台　「私のプレイリスト」ミュージックキュレーターは辰巳ゆうとさん。<br />\nマンスリーアーティスト、4月は夏焼雅さんが担当。<br />\n◆5時00分台　「朝の音楽室MINI」は、二見颯一さんがゲスト。<br /><br />\n\nメール：<a href=\"mailto:mp@tbs.co.jp\">mp@tbs.co.jp</a><br><br>",
+              "pfm": "宮崎由加　ゲスト：二見颯一",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/83j779vu8f.jpg",
               "tag": {
                 "item": {
@@ -47,7 +66,53 @@
               }
             },
             {
-              "-id": "9623321438",
+              "-id": "9624336875",
+              "-ft": "20220424052000",
+              "-to": "20220424053000",
+              "-ftl": "0520",
+              "-tol": "0530",
+              "-dur": "600",
+              "title": "TBSラジオレビュー",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/782f8002-5dbc-4385-b2fc-03f77dd2ec86.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9624336879",
+              "-ft": "20220424053000",
+              "-to": "20220424060000",
+              "-ftl": "0530",
+              "-tol": "0600",
+              "-dur": "1800",
+              "title": "桂宮治「これが宮治でございます」",
+              "url": "https://www.tbsradio.jp/miyaji905/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "タイトル通り、高座で培った「爆笑」トークから、１男2女の子煩悩な父親目線からの「ほっこり話」まで、彼の魅力の全てが詰まった30分。<br />\n どんなにおっちょこちょいな人でも、長屋の中で決して仲間はずれにしないのが落語のいいところ。仕事で失敗して落ち込んでいるあなたも、淋しい気持ちのあなたも、まとめて面倒みます！<br />\n 桂宮治のラジオで明るく前向きな気持ちになってください！<br /><br />\n\nメール：<a href=\"mailto:miyaji905@tbs.co.jp\">miyaji905@tbs.co.jp</a><br>",
+              "pfm": "桂宮治",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/ejsjhhuq8i.jpg",
+              "tag": {
+                "item": {
+                  "name": "桂宮治"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9624336891",
               "-ft": "20220424060000",
               "-to": "20220424063000",
               "-ftl": "0600",
@@ -58,7 +123,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "「TBSこども音楽コンクール」の大会での演奏を中心に、かわいらしい合唱から、プロのようにハイレベルな演奏まで、毎週数曲ずつご紹介。<br/> 日曜日の朝、音楽が大好きな小中学生たちの純粋で生き生きとした歌声や楽器演奏をどうぞお楽しみください♪<br/><br/> メール：<a href=\"mailto:kodomo-m@tbs.co.jp\">kodomo-m@tbs.co.jp</a><br/>",
+              "info": "「TBSこども音楽コンクール」の大会での演奏を中心に、かわいらしい合唱から、プロのようにハイレベルな演奏まで、毎週数曲ずつご紹介。<br>\n日曜日の朝、音楽が大好きな小中学生たちの純粋で生き生きとした歌声や楽器演奏をどうぞお楽しみください♪<br><br>\n\n\n\n\n\nメール：<a href=\"mailto:kodomo-m@tbs.co.jp\">kodomo-m@tbs.co.jp</a><br>",
+              "pfm": "山形純菜（TBSアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/gqhl7rntma.jpg",
               "tag": {
                 "item": {
@@ -79,7 +145,7 @@
               }
             },
             {
-              "-id": "9623321473",
+              "-id": "9624336907",
               "-ft": "20220424063000",
               "-to": "20220424064500",
               "-ftl": "0630",
@@ -90,7 +156,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "この番組は関東2500戸の酪農家の想いを日常の生活と牛乳・乳製品をテーマに石川實の視点で世界を伝えるのがこの番組です。<br />メール：<a href=\"mailto:milk@tbs.co.jp\">milk@tbs.co.jp</a><br/>",
+              "info": "\nメール：<a href=\"mailto:milk@tbs.co.jp\">milk@tbs.co.jp</a><br>",
               "pfm": "石川實",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/pd7ysswf7l.png",
               "tag": {
@@ -116,17 +182,17 @@
               }
             },
             {
-              "-id": "9623321484",
+              "-id": "9624336913",
               "-ft": "20220424064500",
-              "-to": "20220424070000",
+              "-to": "20220424065500",
               "-ftl": "0645",
-              "-tol": "0700",
-              "-dur": "900",
+              "-tol": "0655",
+              "-dur": "600",
               "title": "相川圭子 幸せへのメッセージ",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "メール：<a href=\"mailto:aik@tbs.co.jp\">aik@tbs.co.jp</a><br/>",
+              "info": "メール：<a href=\"mailto:aik@tbs.co.jp\">aik@tbs.co.jp</a><br>",
               "pfm": "相川圭子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/6273at9xnf.jpg",
               "tag": {
@@ -152,18 +218,38 @@
               }
             },
             {
-              "-id": "9623321510",
+              "-id": "9624336916",
+              "-ft": "20220424065500",
+              "-to": "20220424070000",
+              "-ftl": "0655",
+              "-tol": "0700",
+              "-dur": "300",
+              "title": "ニュース",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/782f8002-5dbc-4385-b2fc-03f77dd2ec86.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9624336925",
               "-ft": "20220424070000",
               "-to": "20220424080000",
               "-ftl": "0700",
               "-tol": "0800",
               "-dur": "3600",
               "title": "日本生命presents 石橋貴明のGATE7",
+              "url": "https://www.tbsradio.jp/gate7/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "TBSラジオの日曜朝７時に、石橋貴明がパーソナリティを務める「石橋貴明のGATE７」がスタート！！石橋にとって18年ぶりのラジオレギュラー番組となります。<br/> 「石橋貴明のGATE7」は、毎週日曜の朝７時に開門するラジオベースボールパーク！石橋貴明が自らチョイスした気になる球界トピックスを６０分あらゆる角度から深掘り。野球の魅力を石橋貴明が語り尽くします。野球好きにはたまらない！そうでない人も野球が気になり始めちゃう！そんな番組です。<br/> 初回は、東北楽天ゴールデンイーグルスへの復帰が決まった「田中将大選手」を深掘り。日刊スポーツの番記者と今年の田中選手の注目ポイントを語るほか、今シーズンの楽天などについてトーク予定。<br/><br/> メール：<a href=\"mailto:gate7@tbs.co.jp\">gate7@tbs.co.jp</a><br/>",
-              "pfm": "石橋貴明",
+              "info": "日曜朝7時に開門するラジオベースボールパーク！<br />\n石橋貴明が自らチョイスした気になる球界トピックスを60分あらゆる角度から深掘り。<br><br>\n\n◆今回は「どこよりも早い新外国人チェック」<br />\nセパそれぞれの優良助っ人、一方、期待ハズレな助っ人は？<br />\n新外国人以外の各球団の新戦力も！！<br /><br />\n\nTwitter：<a href=\"https://twitter.com/takagate7\">@takagate7</a><br>\nメール：<a href=\"mailto:gate7@tbs.co.jp\">gate7@tbs.co.jp</a><br>",
+              "pfm": "石橋貴明　ゲスト：本間翼（ゲスト：日刊スポーツ・デスク）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/1ayia4s15w.jpg",
               "tag": {
                 "item": [
@@ -196,7 +282,7 @@
               }
             },
             {
-              "-id": "9623321615",
+              "-id": "9624336949",
               "-ft": "20220424080000",
               "-to": "20220424100000",
               "-ftl": "0800",
@@ -207,8 +293,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "コロナ禍の中、各地で地方活性化のために日夜、新しい取り組みを行っている人、団体、企業の方々にご出演いただき、日本全国に「明日を前向きに生きていくための元気になるヒント、気づき」をお届けします。 メール：<a href=\"mailto:onej@onej.jp\">onej@onej.jp</a><br/> ",
-              "pfm": "本仮屋ユイカ",
+              "info": "コロナ禍の中、各地で地方活性化のために日夜、新しい取り組みを行っている人、団体、企業の方々にご出演いただき、日本全国に「明日を前向きに生きていくための元気になるヒント、気づき」をお届けします。<br>\n日本各地のみなさんと繋がる全国32局ネットの生ワイド「ONE-J」<br>\n本仮屋ユイカが日曜の朝を笑顔に♪<br />\nパートナーはジャングルポケット斉藤慎二<br /><br />\n\n◆メッセージテーマは『ソーっスね』<br />\nソースの思い出お待ちしてます。<br />\n◆ニッポン列島生電話　「ローカルレコメンド」<br />\n第1回ご当地ソース総選挙開催。あなたの1票でNo.1ソースを決定。<br />\n◆8時40分頃　『もぐもぐマルシェ』<br />\n熊本県グルメをもぐもぐ<br />\n◆9時20分頃　『共立リゾートpresents 新たな発見を綴る 旅ノオト』<br />\n今月は沖縄を大特集！フリーアナウンサー片桐千晶さんが現地を取材した音にまつわるクイズ出題！ <br />\n◆#onejで熊本県の情報募集中、大賞はクオカードプレゼント<br /><br />\n\n\n◆公式Twitter（@onej_sunday）は毎日稼働中<br />\nTwitter：<a href=\"https://twitter.com/onej_sunday\">@onej_sunday</a><br>\nメール：<a href=\"mailto:onej@onej.jp\">onej@onej.jp</a><br>\n\n",
+              "pfm": "本仮屋ユイカ／斉藤慎二（ジャングルポケット）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/oeb9zmjq4a.jpg",
               "tag": {
                 "item": [
@@ -241,7 +327,7 @@
               }
             },
             {
-              "-id": "9623480398",
+              "-id": "9624336998",
               "-ft": "20220424100000",
               "-to": "20220424115500",
               "-ftl": "1000",
@@ -252,7 +338,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "日曜午前に安住紳一郎がお届け！皆さんからの小粋なメッセージ、お待ちしています。<br />twitterアカウントは「<a href=\"http://twitter.com/nichiten954\">@nichiten954</a>」<br/> 受付電話番号:03-3584-0954<br/> 受付FAX番号:03-5562-0954<br/> メール:<a href=\"mailto:nichiten@tbs.co.jp\">nichiten@tbs.co.jp</a><br/><br/>",
+              "info": "\n\nTwitter：<a href=\"https://twitter.com/nichiten954\">@nichiten954</a><br>\nメール：<a href=\"mailto:nichiten@tbs.co.jp\">nichiten@tbs.co.jp</a><br><br>\n受付電話番号:03-3584-0954<br>\n受付FAX番号:03-5562-0954<br>\n",
               "pfm": "安住紳一郎（TBSアナウンサー）/中澤有美子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/grhc5lzrar.jpg",
               "tag": {
@@ -284,12 +370,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "from:nichiten954"
+                  "-value": "#radiko"
                 }
               }
             },
             {
-              "-id": "9623305381",
+              "-id": "9624337022",
               "-ft": "20220424115500",
               "-to": "20220424120000",
               "-ftl": "1155",
@@ -301,7 +387,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "pfm": "長峰由紀（TBSアナウンサー）",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/jxj87lrlno.jpg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/782f8002-5dbc-4385-b2fc-03f77dd2ec86.jpeg",
               "tag": {
                 "item": {
                   "name": "長峰由紀"
@@ -325,7 +411,7 @@
               }
             },
             {
-              "-id": "9623482178",
+              "-id": "9624337032",
               "-ft": "20220424120000",
               "-to": "20220424123000",
               "-ftl": "1200",
@@ -336,12 +422,22 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "クルマを愛してやまない安東弘樹が、同じくクルマ愛に溢れるゲストを迎え、「ドライブ」だけじゃない「カーライフ」の楽しみ方をお届けする30分間。<br/> 「愛車自慢」「車への拘り」「独特のメンテナンス」「DIYでのドレスアップ」など、様々な角度で「カーライフ」の楽しさを発信します。<br/><br/> <a href=\"mailto:garagehero@tbs.co.jp\">メール</a><br/>",
+              "info": "クルマを愛してやまない安東弘樹が、同じくクルマ愛に溢れるゲストを迎え、「ドライブ」だけじゃない「カーライフ」の楽しみ方をお届けする30分間。<br>\n「愛車自慢」「車への拘り」「独特のメンテナンス」「DIYでのドレスアップ」など、様々な角度で「カーライフ」の楽しさを発信します。<br><br>\n\n\n\nメール：<a href=\"mailto:garagehero@tbs.co.jp\">garagehero@tbs.co.jp</a><br>",
               "pfm": "安東弘樹",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/yjmokqusjg.jpg",
               "tag": {
                 "item": {
                   "name": "安東弘樹"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -352,7 +448,7 @@
               }
             },
             {
-              "-id": "9623324284",
+              "-id": "9624337042",
               "-ft": "20220424123000",
               "-to": "20220424124500",
               "-ftl": "1230",
@@ -362,7 +458,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<a href=\"https://twitter.com/iwai0731\">twitter</a><br/> メール：<a href=\"mailto:iwai.toda@tbs.co.jp\">iwai.toda@tbs.co.jp</a><br/>",
+              "info": "Twitter：<a href=\"https://twitter.com/iwai0731\">@iwai0731</a><br>\nメール：<a href=\"mailto:iwai.toda@tbs.co.jp\">iwai.toda@tbs.co.jp</a><br>",
               "pfm": "岩井勇気（ハライチ）/宇賀神メグ（TBSアナウンサ－）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/rfilki8ukf.jpg",
               "tag": {
@@ -393,18 +489,18 @@
               }
             },
             {
-              "-id": "9623322690",
+              "-id": "9624337046",
               "-ft": "20220424124500",
-              "-to": "20220424130000",
+              "-to": "20220424125800",
               "-ftl": "1245",
-              "-tol": "1300",
-              "-dur": "900",
+              "-tol": "1258",
+              "-dur": "780",
               "title": "ママとパパのごきげんドライブ",
               "url": "https://www.tbsradio.jp/cosmo/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "ドライブのおともは、素敵な音楽と子どもたちの声。 アクセルを踏んで風に乗れば、小さな悩みは窓の外へと逃げてゆきます。 みんなの笑顔を乗せて「ママとパパのごきげんドライブ」。 <br/> この番組では、子ども自慢、子育ての悩み、頑張っている事…など、 ママやパパの声を紹介し、番組から１曲プレゼント。 子どもに関するトレンドや得する情報なども発信します！！<br/><br/> メール：<a href=\"mailto:cosmo@tbs.co.jp\">cosmo@tbs.co.jp</a><br/>",
+              "info": "ドライブのおともは、素敵な音楽と子どもたちの声。 アクセルを踏んで風に乗れば、小さな悩みは窓の外へと逃げてゆきます。 みんなの笑顔を乗せて「ママとパパのごきげんドライブ」。 <br>\nこの番組では、子ども自慢、子育ての悩み、頑張っている事…など、 ママやパパの声を紹介し、番組から１曲プレゼント。 子どもに関するトレンドや得する情報なども発信します！！<br><br>\n\n\nメール：<a href=\"mailto:cosmo@tbs.co.jp\">cosmo@tbs.co.jp</a><br>\n\n",
               "pfm": "照英/笹川友里",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/21aygnaenj.jpg",
               "tag": {
@@ -435,7 +531,26 @@
               }
             },
             {
-              "-id": "9623314683",
+              "-id": "9624337052",
+              "-ft": "20220424125800",
+              "-to": "20220424130000",
+              "-ftl": "1258",
+              "-tol": "1300",
+              "-dur": "120",
+              "title": "ニュース・交通情報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/782f8002-5dbc-4385-b2fc-03f77dd2ec86.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9624337059",
               "-ft": "20220424130000",
               "-to": "20220424150000",
               "-ftl": "1300",
@@ -446,8 +561,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<a href=\"https://twitter.com/nichiyou905954\">twitter</a><br/> メール:<a href=\"mailto:nichiyou@tbs.co.jp\">nichiyou@tbs.co.jp</a><br/>",
-              "pfm": "爆笑問題/山本恵里伽（1～4週）/外山惠理（5週）",
+              "info": "爆笑問題が、日曜午後に4時間生放送！<br />\nアシスタントは山本恵里伽アナウンサー。<br /><br />\n\n番組オープニングから、特別企画『全日本 ラジオ新番組選手権 2022』<br />\n北は北海道から、南は九州・沖縄までＴＢＳラジオの系列局でこの春スタートした「ラジオの新番組」を紹介し、リスナーの投票でグランプリを決定する企画です。<br />\nプレゼンターは３年連続「タイムマシーン３号」が担当！<br /><br />\n\n◆14時45分頃　「１日１本ちょースッキリ評議会」<br />\n皆さんからの「スッキリ」にまつわるメール募集中！<br />\nスッキリした話、スッキリさせたい話！両方OKです。<br />\n◆15時00分頃　「あなたとやりとりドミンゴドミンゴ」<br />\n◆15時03分頃　「サヘルの小部屋 ペルシャを語ろう」<br />\nペルシャの魅力を、サヘル・ローズさんが語る！<br />\n◆15時10分頃　「サンデー芸人ランキング」<br />\n◆15時30分頃　「サンデー競馬小僧」<br />\nリスナー参加の馬券企画あります！<br />\n◆16時00分頃　ゲストコーナー「ここは赤坂応接間」<br />\nTBSラジオで新番組がスタートした、パンサーの「向井慧」さんがお客様<br />\n「パン」「サー」の文字から始まる質問を募集<br />\n◆16時40分頃　「中嶋常幸のティーグラウンドへようこそ」<br />\nパーソナリティー中嶋常幸、アシスタント大槻りこ<br /><br />\n\nメール：<a href=\"mailto:nichiyou@tbs.co.jp\">nichiyou@tbs.co.jp</a><br />\nスタジオ風景などは、日曜サンデー <u>twitter：<a href=\"https://twitter.com/nichiyou905954\">@nichiyou905954</a></u> フォローお願いします！",
+              "pfm": "爆笑問題/山本恵里伽　ゲスト：向井慧（パンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/r3f3p52zsl.jpg",
               "tag": {
                 "item": [
@@ -483,19 +598,19 @@
               }
             },
             {
-              "-id": "9623314728",
+              "-id": "9624337086",
               "-ft": "20220424150000",
               "-to": "20220424170000",
               "-ftl": "1500",
               "-tol": "1700",
               "-dur": "7200",
-              "title": "爆笑問題の日曜サンデー (2)",
+              "title": "爆笑問題の日曜サンデー (1)",
               "url": "https://www.tbsradio.jp/nichiyou/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<a href=\"https://twitter.com/nichiyou905954\">twitter</a><br/> メール:<a href=\"mailto:nichiyou@tbs.co.jp\">nichiyou@tbs.co.jp</a><br/>",
-              "pfm": "爆笑問題/山本恵里伽（1～4週）/外山惠理（5週）",
+              "info": "爆笑問題が、日曜午後に4時間生放送！<br />\nアシスタントは山本恵里伽アナウンサー。<br /><br />\n\n番組オープニングから、特別企画『全日本 ラジオ新番組選手権 2022』<br />\n北は北海道から、南は九州・沖縄までＴＢＳラジオの系列局でこの春スタートした「ラジオの新番組」を紹介し、リスナーの投票でグランプリを決定する企画です。<br />\nプレゼンターは３年連続「タイムマシーン３号」が担当！<br /><br />\n\n◆14時45分頃　「１日１本ちょースッキリ評議会」<br />\n皆さんからの「スッキリ」にまつわるメール募集中！<br />\nスッキリした話、スッキリさせたい話！両方OKです。<br />\n◆15時00分頃　「あなたとやりとりドミンゴドミンゴ」<br />\n◆15時03分頃　「サヘルの小部屋 ペルシャを語ろう」<br />\nペルシャの魅力を、サヘル・ローズさんが語る！<br />\n◆15時10分頃　「サンデー芸人ランキング」<br />\n◆15時30分頃　「サンデー競馬小僧」<br />\nリスナー参加の馬券企画あります！<br />\n◆16時00分頃　ゲストコーナー「ここは赤坂応接間」<br />\nTBSラジオで新番組がスタートした、パンサーの「向井慧」さんがお客様<br />\n「パン」「サー」の文字から始まる質問を募集<br />\n◆16時40分頃　「中嶋常幸のティーグラウンドへようこそ」<br />\nパーソナリティー中嶋常幸、アシスタント大槻りこ<br /><br />\n\nメール：<a href=\"mailto:nichiyou@tbs.co.jp\">nichiyou@tbs.co.jp</a><br />\nスタジオ風景などは、日曜サンデー <u>twitter：<a href=\"https://twitter.com/nichiyou905954\">@nichiyou905954</a></u> フォローお願いします！",
+              "pfm": "爆笑問題/山本恵里伽　ゲスト：向井慧（パンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/r3f3p52zsl.jpg",
               "tag": {
                 "item": [
@@ -531,7 +646,7 @@
               }
             },
             {
-              "-id": "9623322963",
+              "-id": "9624337118",
               "-ft": "20220424170000",
               "-to": "20220424173000",
               "-ftl": "1700",
@@ -542,8 +657,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "メール：<a href=\"mailto:masaca@tbs.co.jp\">masaca@tbs.co.jp</a><br/>",
-              "pfm": "コシノジュンコ/出水麻衣（TBSアナウンサー）",
+              "info": "ファッションデザイナー：コシノジュンコが、それぞれのジャンルのトップランナーをゲストに迎え、人と人の繋がりや、出会いと共感を発見する30分。<br /><br />\n\n◆ゲストは先週に引き続いてWBC世界ライトフライ級チャンピオンの寺地拳四朗さん。<br />\n本気でボクシングを考えたのは世界を獲ってから。<br />\n実はボートレーサーに！というマサカな過去。<br />\nまた独自の練習理論、目標は四団体統一。<br /><br />\n\nメール：<a href=\"mailto:masaca@tbs.co.jp\">masaca@tbs.co.jp</a><br>",
+              "pfm": "コシノジュンコ/出水麻衣（TBSアナウンサー）　ゲスト：寺地拳四朗（プロボクサー）\n\n",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/7lq1udhpxb.jpg",
               "tag": {
                 "item": [
@@ -573,7 +688,7 @@
               }
             },
             {
-              "-id": "9623316892",
+              "-id": "9624337130",
               "-ft": "20220424173000",
               "-to": "20220424180000",
               "-ftl": "1730",
@@ -584,9 +699,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " メール：<a href=\"mailto:tukiyo@tbs.co.jp\">tukiyo@tbs.co.jp</a><br/>",
+              "info": "\nメール：<a href=\"mailto:tukiyo@tbs.co.jp\">tukiyo@tbs.co.jp</a><br>",
               "pfm": "竹中直人/上村彩子（TBSアナウンサー）",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/su9324agnw.jpg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/vwryin32wf.jpg",
               "tag": {
                 "item": [
                   {
@@ -615,7 +730,7 @@
               }
             },
             {
-              "-id": "9623314831",
+              "-id": "9624337151",
               "-ft": "20220424180000",
               "-to": "20220424183000",
               "-ftl": "1800",
@@ -626,7 +741,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "ARTで繋がるHEARTの扉！をキャッチコピーにお届けするトークプログラム。 <br />バチェラーシリーズの進行役でおなじみ、坂東工 自身も積極的にアーティスト活動をしており、絵画や映画衣装制作なども手掛ける坂東工さんがゲストを招いて様々なお話を伺います。 <br />その他、NFTアートをはじめ昨今のアート事情などを紹介したり、リスナーからのメッセージ募集なども実施予定です。",
+              "info": "ARTで繋がるHEARTの扉！をキャッチコピーにお届けするトークプログラム。 <br />\nバチェラーシリーズの進行役でおなじみ、坂東工 自身も積極的にアーティスト活動をしており、絵画や映画衣装制作なども手掛ける坂東工さんがゲストを招いて様々なお話を伺います。 <br />\nその他、NFTアートをはじめ昨今のアート事情などを紹介したり、リスナーからのメッセージ募集なども実施予定です。<br /><br />",
               "pfm": "坂東工",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/lkd450hv5z.png",
               "tag": {
@@ -652,7 +767,7 @@
               }
             },
             {
-              "-id": "9623495071",
+              "-id": "9624337162",
               "-ft": "20220424183000",
               "-to": "20220424190000",
               "-ftl": "1830",
@@ -663,8 +778,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "メール：<a href=\"mailto:cycle-r@tbs.co.jp\">cycle-r@tbs.co.jp</a><br/>",
-              "pfm": "石井正則/疋田智",
+              "info": "◆先週に引き続き今週のゲストも奥山佳恵さん。<br />\n今週は奥山さん一家のサイクルライフに迫ります。<br />\nご主人に自転車を勧めた結果、息子さんにダメ出しされることに!?<br /><br />\n\nメール：<a href=\"mailto:cycle-r@tbs.co.jp\">cycle-r@tbs.co.jp</a>",
+              "pfm": "石井正則/疋田智　ゲスト：奥山佳恵",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/9wygwyx3ia.jpg",
               "tag": {
                 "item": [
@@ -694,7 +809,7 @@
               }
             },
             {
-              "-id": "9623507267",
+              "-id": "9624337168",
               "-ft": "20220424190000",
               "-to": "20220424200000",
               "-ftl": "1900",
@@ -705,7 +820,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "「ねごと」には飾らない素が出てしまうもの <br />TBSテレビ朝の顔となるなど、今最も忙しいと言っても過言ではない男、麒麟・川島明が、日曜の夜、無意識に吐き出す「ねごと」のような、他では話さないここだけの本音を語ります！ <br /><br />Twitter：<a href=\"\"https://twitter.com/KawashimaNegoto\"\">@KawashimaNegoto</a>メール：<a href=\"\"mailto:negoto@tbs.co.jp\"\">negoto@tbs.co.jp</a>",
+              "info": "「ねごと」には飾らない素が出てしまうもの <br />\nTBSテレビ朝の顔となるなど、今最も忙しいと言っても過言ではない男、麒麟・川島明が、日曜の夜、無意識に吐き出す「ねごと」のような、他では話さないここだけの本音を語ります！ <br /><br />\n\n\n\nTwitter：<a href=\"https://twitter.com/KawashimaNegoto\">@KawashimaNegoto</a>\nメール：<a href=\"mailto:negoto@tbs.co.jp\">negoto@tbs.co.jp</a><br>",
               "pfm": "川島明/向清太朗（天津）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/b88pihl5l4.jpg",
               "tag": {
@@ -739,13 +854,34 @@
               }
             },
             {
-              "-id": "9623491419",
+              "-id": "9624337186",
               "-ft": "20220424200000",
               "-to": "20220424210000",
               "-ftl": "2000",
               "-tol": "2100",
               "-dur": "3600",
-              "title": "TBSラジオワールド",
+              "title": "梶裕貴のラジオ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "声優の梶裕貴がお仕事の話からプライベートの些細な話まで１時間たっぷり語る番組。<br />\n大体月一回くらいのペースで不定期にお送りします！<br />\n\n◆初回のゲストは、「ギルティクラウン」「進撃の巨人」などを手がけたアニメ監督・荒木哲郎さん。<br /><br />\n\nメール：utamaru@tbs.co.jp<br />\nTwitter：@TBS_kajiraji<br />\n\nメール：<a href=\"mailto:utamaru@tbs.co.jp\">utamaru@tbs.co.jp</a><br>\nTwitter：<a href=\"https://twitter.com/TBS_kajiraji\">@TBS_kajiraji</a><br><br>",
+              "pfm": "梶裕貴　ゲスト：荒木哲郎（アニメ監督）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/782f8002-5dbc-4385-b2fc-03f77dd2ec86.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9624337192",
+              "-ft": "20220424205500",
+              "-to": "20220424210000",
+              "-ftl": "2055",
+              "-tol": "2100",
+              "-dur": "300",
+              "title": "ニュース・天気予報",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -758,7 +894,7 @@
               }
             },
             {
-              "-id": "9623323306",
+              "-id": "9624337199",
               "-ft": "20220424210000",
               "-to": "20220424213000",
               "-ftl": "2100",
@@ -769,7 +905,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "歌舞伎に留まらず、様々な分野で活躍中の中村七之助が、自身初のパーソナリティを務める番組です。<br/> 普段聞くことのできないプライベートや交友関係、趣味に至るまで、貴重な話が聞けるのはこの番組だけ。中村七之助がホンネで語ります。<br/><br/> メール：<a href=\"mailto:radinosuke@abc1008.com\">radinosuke@abc1008.com</a><br/> <a href=\"https://www.instagram.com/radinosuke/?hl=ja\">instagram</a><br/> <a href=\"https://twitter.com/radinosuke\">twitter</a><br/><br/>",
+              "info": "歌舞伎に留まらず、様々な分野で活躍中の中村七之助が、自身初のパーソナリティを務める番組です。<br>\n普段聞くことのできないプライベートや交友関係、趣味に至るまで、貴重な話が聞けるのはこの番組だけ。中村七之助がホンネで語ります。<br><br>\n\nメール：<a href=\"mailto:radinosuke@abc1008.com\">radinosuke@abc1008.com</a><br>\ninstagram：<a href=\"https://www.instagram.com/radinosuke/?hl=ja\">radinosuke</a><br>\nTwitter：<a href=\"https://twitter.com/radinosuke\">@radinosuke</a><br><br>",
               "pfm": "中村七之助/ヒロド歩美（ABCアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/d5neojnepq.jpg",
               "tag": {
@@ -800,7 +936,7 @@
               }
             },
             {
-              "-id": "9623323338",
+              "-id": "9624337209",
               "-ft": "20220424213000",
               "-to": "20220424220000",
               "-ftl": "2130",
@@ -811,8 +947,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "老舗和菓子店「木挽町よしや」３代目・斉藤大地さんを迎える。<br/> コロナ禍で活気を失った銀座で、老舗店舗などが物々交換を繰り返しながら、街の魅力を発信してきた「銀座もの繋ぎプロジェクト」。老舗商店から大手企業、ホテル、個人のデザイナーまで、さまざまな業種に輪が広がったと云うプロジェクトの中身について聴いた。<br/><br/>",
-              "pfm": "嶌信彦/安田佑子（フリーアナウンサー）　　斉藤大地",
+              "info": "ジャーナリスト嶌信彦が、私たちの国ニッポンの素晴らしくも感動的に生きる人たちの声を伝えます。<br>\n毎回、いろいろな分野で、志をもって生きている。嶌が、気になるゲストの方々をお招きしてお話を伺います。<br><br>\n\n◆日本競輪選手会ガールズケイリンサポートスタッフの高松美代子さんを迎える二夜目<br />\n子どもの高校受験が終わったのを機に競輪選手として第二の人生を歩もうと決意して日本競輪学校に入学。<br />\n娘のような同級生との寮生活を体験、ガールズケイリンのプロ1期生として女子選手の最高齢50歳でデビュー、全国を転戦し最年長の女子選手として活躍、4年8か月の選手生活にピリオドを打つ決意をした意外な理由や、日本競輪選手会職員として後輩の指導に当たっている今も、「自分の可能性を試したい。<br />\n私の走りで同世代の人を元気にしたいから」と仰るそのパワフルな人生観について伺いました。<br />",
+              "pfm": "嶌信彦/安田佑子（フリーアナウンサー）　ゲスト：高松美代子（日本競輪選手会ガールズケイリンサポートスタッフ）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/v1sp1e923j.jpg",
               "tag": {
                 "item": [
@@ -842,7 +978,7 @@
               }
             },
             {
-              "-id": "9623323403",
+              "-id": "9624337223",
               "-ft": "20220424220000",
               "-to": "20220424223000",
               "-ftl": "2200",
@@ -853,7 +989,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": " ミュージカル界のプリンス井上芳雄が送るエンタテインメントショー。舞台で鍛えたトークと生歌、大貫祐一郎によるピアノ生演奏に乗せて今の気持ちを伝えます。コンサートホールの最前列にいるような極上の臨場感で贅沢なひとときを。<br/> ハッシュタグ：井上芳雄byMYSELF<br/> メール：<a href=\"mailto:yoshio@tbs.co.jp\">yoshio@tbs.co.jp</a><br/>",
+              "info": "ミュージカル界のプリンス井上芳雄が送るエンタテインメントショー。舞台で鍛えたトークと生歌、大貫祐一郎によるピアノ生演奏に乗せて今の気持ちを伝えます。コンサートホールの最前列にいるような極上の臨場感で贅沢なひとときを。<br><br /> \n\n\nハッシュタグ：井上芳雄byMYSELF<br>\nメール：<a href=\"mailto:yoshio@tbs.co.jp\">yoshio@tbs.co.jp</a><br>",
               "pfm": "井上芳雄",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/i4axb4fy6w.jpg",
               "tag": {
@@ -879,7 +1015,7 @@
               }
             },
             {
-              "-id": "9623323437",
+              "-id": "9624337231",
               "-ft": "20220424223000",
               "-to": "20220424230000",
               "-ftl": "2230",
@@ -890,7 +1026,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "日本を代表する女優・吉永小百合、唯一のレギュラー番組です。<br/>やさしく親しみやすい語り口で、他では聞けないパーソナルトークを繰り広げます。<br/>定期的に企画するゲストとの対談も聞きものです。<br/><br/> メール:<a href=\"mailto:y-sayuri@tbs.co.jp\">y-sayuri@tbs.co.jp</a><br/>",
+              "info": "日本を代表する女優・吉永小百合、唯一のレギュラー番組です。<br>やさしく親しみやすい語り口で、他では聞けないパーソナルトークを繰り広げます。<br>定期的に企画するゲストとの対談も聞きものです。<br><br>\nメール:<a href=\"mailto:y-sayuri@tbs.co.jp\">y-sayuri@tbs.co.jp</a><br>",
               "pfm": "吉永小百合",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/n9lk3hgxjo.jpg",
               "tag": {
@@ -916,7 +1052,7 @@
               }
             },
             {
-              "-id": "9623505812",
+              "-id": "9624337242",
               "-ft": "20220424230000",
               "-to": "20220425000000",
               "-ftl": "2300",
@@ -927,8 +1063,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "昭和、平成、令和へと時代は移り、今「昭和」の様々な記録や記憶が遠くなりつつあります。<br/> しかし、若者たちの間では「昭和文化」を楽しむ風潮も出てきています。<br/> この番組は、ゲスト・リスナーのお便り・懐かしい音や音楽などで「新しい時代に語り継ぐべき昭和の文化」を掘り下げる、珠玉の一時間です。<br/><br/>",
-              "pfm": "宮崎美子/石澤典夫",
+              "info": "昭和、平成、令和へと時代は移り、今「昭和」の様々な記録や記憶が遠くなりつつあります。<br>\nしかし、若者たちの間では「昭和文化」を楽しむ風潮も出てきています。<br>\nこの番組は、ゲスト・リスナーのお便り・懐かしい音や音楽などで「新しい時代に語り継ぐべき昭和の文化」を掘り下げる、珠玉の一時間です。<br><br>\n\n◆日本を代表する作曲家で文化庁長官も務める都倉俊一さんを迎え、「昭和歌謡　作曲家・都倉俊一さんのはなし」と題してお送りします。<br />\n「どうにもとまらない」「ジョニイへの伝言」､「ひと夏の経験」「ペッパー警部」など､世に出したヒット曲の数は１０００を超える都倉さんに、ご自身の歩みと共に、今も輝き続ける昭和歌謡も魅力などを伺います。<br /><br />\n\nTwitter：<a href=\"https://twitter.com/showa954905\" target=\"_blank\">@showa954905</a><br>\ninstagram：<a href=\"https://www.instagram.com/showa954905\" target=\"_blank\">showa954905</a><br>\nFacebook：<a href=\"https://www.facebook.com/showa954905\" target=\"_blank\">@showa954905</a>",
+              "pfm": "宮崎美子/石澤典夫　ゲスト：都倉俊一（作曲家）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/ed2ajkq69h.jpg",
               "tag": {
                 "item": [
@@ -958,7 +1094,7 @@
               }
             },
             {
-              "-id": "9623507320",
+              "-id": "9624337262",
               "-ft": "20220425000000",
               "-to": "20220425003000",
               "-ftl": "2400",
@@ -993,7 +1129,7 @@
               }
             },
             {
-              "-id": "9623491569",
+              "-id": "9624337271",
               "-ft": "20220425003000",
               "-to": "20220425010000",
               "-ftl": "2430",
@@ -1004,7 +1140,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "THE ALFEEのリーダーでVO.EG担当の高見沢俊彦がTBSラジオで深夜にお送りしているロックエンターテイメント「高見沢俊彦のロックばん」。独特の「王子様キャラ」で爆走・暴走・爆笑しています。<br/><br/> メール：<a href=\"mailto:rockban@tbs.co.jp\">rockban@tbs.co.jp</a><br/>",
+              "info": "THE ALFEEのリーダーでVO.EG担当の高見沢俊彦がTBSラジオで深夜にお送りしているロックエンターテイメント「高見沢俊彦のロックばん」。独特の「王子様キャラ」で爆走・暴走・爆笑しています。<br><br>\nメール：<a href=\"mailto:rockban@tbs.co.jp\">rockban@tbs.co.jp</a><br>",
               "pfm": "高見沢俊彦",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/lwzw9iweio.jpg",
               "tag": {
@@ -1030,17 +1166,30 @@
               }
             },
             {
-              "-id": "9623480683",
+              "-id": "9624337281",
               "-ft": "20220425010000",
-              "-to": "20220425040000",
+              "-to": "20220425020000",
               "-ftl": "2500",
-              "-tol": "2800",
-              "-dur": "10800",
-              "title": "放送休止",
+              "-tol": "2600",
+              "-dur": "3600",
+              "title": "文化系トークラジオ Life（１）",
+              "url": "https://www.tbsradio.jp/life-news/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/782f8002-5dbc-4385-b2fc-03f77dd2ec86.jpeg",
+              "info": "【文化系トークラジオLife】「これからの専門家の話をしよう～いま考えたい『専門性』との付き合い方」<br />\n出演：鈴木謙介 / 速水健朗 / 永田夏来 / 倉本さおり / 山本ぽてと / 塚越健司 / 斎藤哲也<br /><br />\n\n※ラジコではインターネットで放送同様、音楽も聴けます。<br />\ntwitterアカウントは<a href=\"https://twitter.com/Life954\"><u>「@Life954」</u></a><br />\nメール：<a href=\"mailto:life@tbs.co.jp\">life@tbs.co.jp</a><br />",
+              "pfm": "鈴木謙介/速水健朗/永田夏来/倉本さおり/山本ぽてと/塚越健司/斎藤哲也",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/cordpqprfs.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "鈴木謙介"
+                  },
+                  {
+                    "name": "life954"
+                  }
+                ]
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1049,7 +1198,71 @@
               }
             },
             {
-              "-id": "9623508693",
+              "-id": "9624337290",
+              "-ft": "20220425020000",
+              "-to": "20220425030000",
+              "-ftl": "2600",
+              "-tol": "2700",
+              "-dur": "3600",
+              "title": "文化系トークラジオ Life（２）",
+              "url": "https://www.tbsradio.jp/life-news/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "【文化系トークラジオLife】「これからの専門家の話をしよう～いま考えたい『専門性』との付き合い方」<br />\n出演：鈴木謙介 / 速水健朗 / 永田夏来 / 倉本さおり / 山本ぽてと / 塚越健司 / 斎藤哲也<br /><br />\n\n※ラジコではインターネットで放送同様、音楽も聴けます。<br />\ntwitterアカウントは<a href=\"https://twitter.com/Life954\"><u>「@Life954」</u></a><br />\nメール：<a href=\"mailto:life@tbs.co.jp\">life@tbs.co.jp</a><br />",
+              "pfm": "鈴木謙介/速水健朗/永田夏来/倉本さおり/山本ぽてと/塚越健司/斎藤哲也",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/cordpqprfs.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "鈴木謙介"
+                  },
+                  {
+                    "name": "life954"
+                  }
+                ]
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9624337295",
+              "-ft": "20220425030000",
+              "-to": "20220425040000",
+              "-ftl": "2700",
+              "-tol": "2800",
+              "-dur": "3600",
+              "title": "文化系トークラジオ Life（３）",
+              "url": "https://www.tbsradio.jp/life-news/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "【文化系トークラジオLife】「これからの専門家の話をしよう～いま考えたい『専門性』との付き合い方」<br />\n出演：鈴木謙介 / 速水健朗 / 永田夏来 / 倉本さおり / 山本ぽてと / 塚越健司 / 斎藤哲也<br /><br />\n\n※ラジコではインターネットで放送同様、音楽も聴けます。<br />\ntwitterアカウントは<a href=\"https://twitter.com/Life954\"><u>「@Life954」</u></a><br />\nメール：<a href=\"mailto:life@tbs.co.jp\">life@tbs.co.jp</a><br />",
+              "pfm": "鈴木謙介/速水健朗/永田夏来/倉本さおり/山本ぽてと/塚越健司/斎藤哲也",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/cordpqprfs.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "鈴木謙介"
+                  },
+                  {
+                    "name": "life954"
+                  }
+                ]
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9624337297",
               "-ft": "20220425040000",
               "-to": "20220425050000",
               "-ftl": "2800",
@@ -1060,7 +1273,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "昔どこかで聴いた曲、記憶の片隅に残っている曲、懐かしい記憶がよみがえる1970年代～2000年代のニューミュージック・J-POPをたっぷりお届けする番組。 <br/><br/> メール：<a href=\"mailto:musix@tbs.co.jp\">musix@tbs.co.jp</a><br/>",
+              "info": "誰もが思い出すようなアーティスト。昔どこかで聴いた昭和・平成を駆け抜けたヒット曲の数々をお届けする番組<br><br>\n\n◆MUSIXセレクションは、電話にちなんだ曲を特集。<br />\n「サキドリ！スタンダード」のコーナーは、葉月みなみさんからのコメントを紹介<br /><br />\n\nメール：<a href=\"mailto:musix@tbs.co.jp\">musix@tbs.co.jp</a><br>",
               "pfm": "幸坂理加",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/TBS/jk5ycpyqxx.jpg",
               "tag": {
