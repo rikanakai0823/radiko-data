@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1650823519",
+    "srvtime": "1650996296",
     "stations": {
       "station": {
         "-id": "FMT",
@@ -95,7 +95,7 @@
               }
             },
             {
-              "-id": "9624419800",
+              "-id": "9625038933",
               "-ft": "20220430060000",
               "-to": "20220430070000",
               "-ftl": "0600",
@@ -106,7 +106,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/1919_6d24bbde_sq.jpg\" height=\"60\" width=\"60\" alt=\"村田睦\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/8241_367991dc_sq.jpg\" height=\"60\" width=\"60\" alt=\"手島千尋\"></td>  </tr></table><br /><br />\tこの番組では、TOKYO FMの報道・情報センターの記者が、東京で起こっている ニュースを独自に取材したオリジナルの情報を「東京事件」としてお届けします。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/newsradio/\">https://www.tfm.co.jp/newsradio/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/newsradio/message\">https://www.tfm.co.jp/f/newsradio/message</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%A4%E3%83%9580\">#ライフ80</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/1919_6d24bbde_sq.jpg\" height=\"60\" width=\"60\" alt=\"村田睦\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/AU/person/8241_367991dc_sq.jpg\" height=\"60\" width=\"60\" alt=\"手島千尋\"></td>  </tr></table><br /><br />\tこの番組では、TOKYO FMの報道・情報センターの記者が、東京で起こっている ニュースを独自に取材したオリジナルの情報を「東京事件」としてお届けします。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/newsradio/\">https://www.tfm.co.jp/newsradio/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/newsradio/message\">https://www.tfm.co.jp/f/newsradio/message</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%A4%E3%83%9580\">#ライフ80</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/TOKYONEWSRADIO\">@TOKYONEWSRADIO</a>」<br /><br /></div>",
               "pfm": "村田睦 / 手島千尋",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/qs5zd3b5kg.jpg",
               "genre": {
@@ -120,10 +120,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#ライフ80"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ライフ80"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:TOKYONEWSRADIO"
+                  }
+                ]
               }
             },
             {
