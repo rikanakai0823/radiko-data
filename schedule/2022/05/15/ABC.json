@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1652551596",
+    "srvtime": "1652637914",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -30,7 +30,7 @@
               }
             },
             {
-              "-id": "9627155582",
+              "-id": "9628337214",
               "-ft": "20220515051500",
               "-to": "20220515052500",
               "-ftl": "0515",
@@ -211,7 +211,7 @@
               }
             },
             {
-              "-id": "9627157664",
+              "-id": "9628340230",
               "-ft": "20220515064500",
               "-to": "20220515070000",
               "-ftl": "0645",
@@ -405,7 +405,7 @@
               }
             },
             {
-              "-id": "9627157785",
+              "-id": "9628340259",
               "-ft": "20220515083500",
               "-to": "20220515085500",
               "-ftl": "0835",
@@ -621,7 +621,7 @@
               }
             },
             {
-              "-id": "9627161828",
+              "-id": "9628340999",
               "-ft": "20220515123000",
               "-to": "20220515130000",
               "-ftl": "1230",
@@ -765,12 +765,12 @@
               }
             },
             {
-              "-id": "9627172613",
+              "-id": "9628391907",
               "-ft": "20220515160000",
-              "-to": "20220515170000",
+              "-to": "20220515180500",
               "-ftl": "1600",
-              "-tol": "1700",
-              "-dur": "3600",
+              "-tol": "1805",
+              "-dur": "7500",
               "title": "ＡＢＣフレッシュアップベースボール(2)",
               "url": "https://www.abc1008.com/baseball/",
               "failed_record": "0",
@@ -816,12 +816,12 @@
               }
             },
             {
-              "-id": "9627308899",
-              "-ft": "20220515170000",
-              "-to": "20220515175500",
-              "-ftl": "1700",
-              "-tol": "1755",
-              "-dur": "3300",
+              "-id": "9628391918",
+              "-ft": "20220515180500",
+              "-to": "20220515183500",
+              "-ftl": "1805",
+              "-tol": "1835",
+              "-dur": "1800",
               "title": "小林大作のメモリーズ・オブ・ユー",
               "url": "https://www.abc1008.com/memory/",
               "failed_record": "0",
@@ -830,99 +830,36 @@
               "info": "メールアドレス：<a href=\"mailto:memo@abc1008.com\">memo@abc1008.com</a><BR><BR><BR>",
               "pfm": "小林大作／紫峰七海",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/qcqvjl6hek.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9628399018",
+              "-ft": "20220515183500",
+              "-to": "20220515213000",
+              "-ftl": "1835",
+              "-tol": "2130",
+              "-dur": "10500",
+              "title": "サニー・フランシスのマサララジオ",
+              "url": "https://www.abc1008.com/masararadio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_sunnyfrancis.jpg\" width=\"100\"><BR><BR>「サニーとみぎこが心をこめてマサラの民に特別プレゼント！」<BR><BR><BR>メールアドレス：<a href=\"mailto:masara@abc1008.com\">masara@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%9E%E3%82%B5%E3%83%A9%E3%83%A9%E3%82%B8%E3%82%AA\">#マサララジオ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/masara_abc\">@masara_abc</a>」<BR><BR><BR>",
+              "pfm": "サニー・フランシス／小寺右子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/d19afbbc-0ef2-41d9-9e2b-6c93e9bb54c6.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
                 },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9627100192",
-              "-ft": "20220515175500",
-              "-to": "20220515180000",
-              "-ftl": "1755",
-              "-tol": "1800",
-              "-dur": "300",
-              "title": "ＡＢＣニュース＆天気予報",
-              "url": "https://www.abc1008.com/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9628125576",
-              "-ft": "20220515180000",
-              "-to": "20220515210000",
-              "-ftl": "1800",
-              "-tol": "2100",
-              "-dur": "10800",
-              "title": "サニー・フランシスのマサララジオ(1)",
-              "url": "https://www.abc1008.com/masararadio/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_sunnyfrancis.jpg\" width=\"100\"><BR><BR>「サニーとみぎこが心をこめてマサラの民に特別プレゼント！」<BR><BR><BR>メールアドレス：<a href=\"mailto:masara@abc1008.com\">masara@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%9E%E3%82%B5%E3%83%A9%E3%83%A9%E3%82%B8%E3%82%AA\">#マサララジオ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/masara_abc\">@masara_abc</a>」<BR><BR><BR>",
-              "pfm": "サニー・フランシス／小寺右子",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/d19afbbc-0ef2-41d9-9e2b-6c93e9bb54c6.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
-              "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#マサララジオ"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:masara_abc"
-                  }
-                ]
-              }
-            },
-            {
-              "-id": "9628125615",
-              "-ft": "20220515210000",
-              "-to": "20220515213000",
-              "-ftl": "2100",
-              "-tol": "2130",
-              "-dur": "1800",
-              "title": "サニー・フランシスのマサララジオ(2)",
-              "url": "https://www.abc1008.com/masararadio/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_sunnyfrancis.jpg\" width=\"100\"><BR><BR>「サニーとみぎこが心をこめてマサラの民に特別プレゼント！」<BR><BR><BR>メールアドレス：<a href=\"mailto:masara@abc1008.com\">masara@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%9E%E3%82%B5%E3%83%A9%E3%83%A9%E3%82%B8%E3%82%AA\">#マサララジオ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/masara_abc\">@masara_abc</a>」<BR><BR><BR>",
-              "pfm": "サニー・フランシス／小寺右子",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/d19afbbc-0ef2-41d9-9e2b-6c93e9bb54c6.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -985,7 +922,7 @@
               }
             },
             {
-              "-id": "9627172837",
+              "-id": "9628341887",
               "-ft": "20220515230000",
               "-to": "20220515233000",
               "-ftl": "2300",
@@ -1022,7 +959,7 @@
               }
             },
             {
-              "-id": "9627172853",
+              "-id": "9628341896",
               "-ft": "20220515233000",
               "-to": "20220516000000",
               "-ftl": "2330",
