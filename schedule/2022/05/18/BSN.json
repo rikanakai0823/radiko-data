@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1652897111",
+    "srvtime": "1652983491",
     "stations": {
       "station": {
         "-id": "BSN",
@@ -123,7 +123,7 @@
               }
             },
             {
-              "-id": "9628871729",
+              "-id": "9629035688",
               "-ft": "20220518053000",
               "-to": "20220518062900",
               "-ftl": "0530",
@@ -137,6 +137,16 @@
               "desc": "　　",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/BSN/zzitlnlv06.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1261,7 +1271,7 @@
               }
             },
             {
-              "-id": "9628890606",
+              "-id": "9629032232",
               "-ft": "20220519000000",
               "-to": "20220519010000",
               "-ftl": "2400",
@@ -1275,6 +1285,12 @@
               "desc": "Kis-My-Ft2 キスマイRadio",
               "pfm": "オテンキのり",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/BSN/pr4autkm8w.png",
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1283,7 +1299,7 @@
               }
             },
             {
-              "-id": "9628678154",
+              "-id": "9629054346",
               "-ft": "20220519010000",
               "-to": "20220519030000",
               "-ftl": "2500",
