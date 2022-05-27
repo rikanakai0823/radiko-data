@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1653501913",
+    "srvtime": "1653674756",
     "stations": {
       "station": {
         "-id": "KNB",
@@ -43,7 +43,7 @@
               }
             },
             {
-              "-id": "9629965680",
+              "-id": "9630322785",
               "-ft": "20220529053000",
               "-to": "20220529060000",
               "-ftl": "0530",
@@ -559,18 +559,50 @@
               }
             },
             {
-              "-id": "9630032813",
+              "-id": "9630550371",
               "-ft": "20220529160000",
-              "-to": "20220529164000",
+              "-to": "20220529163500",
               "-ftl": "1600",
-              "-tol": "1640",
-              "-dur": "2400",
+              "-tol": "1635",
+              "-dur": "2100",
               "title": "ＫＮＢラジオ　報道スペシャル　富山の売薬さんが消える日",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "twitterアカウントは「<a href=\"http://twitter.com/knb_radio\">@knb_radio</a>」<br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23knb738\">#knb738</a>」",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KNB/367feda1-50ac-4f6d-b828-430f7717ba5e.jpeg",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#knb738"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:knb_radio"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9630558195",
+              "-ft": "20220529163500",
+              "-to": "20220529164000",
+              "-ftl": "1635",
+              "-tol": "1640",
+              "-dur": "300",
+              "title": "ＫＮＢ今週の１曲",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "twitterアカウントは「<a href=\"http://twitter.com/knb_radio\">@knb_radio</a>」<br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23knb738\">#knb738</a>」",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KNB/ed41e3b6-2de2-46f1-9a1f-62295a88bb8e.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -671,7 +703,7 @@
               }
             },
             {
-              "-id": "9630146460",
+              "-id": "9630470224",
               "-ft": "20220529173000",
               "-to": "20220529175000",
               "-ftl": "1730",
@@ -688,6 +720,10 @@
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -896,7 +932,7 @@
               }
             },
             {
-              "-id": "9629958062",
+              "-id": "9630493981",
               "-ft": "20220529220000",
               "-to": "20220529230000",
               "-ftl": "2200",
