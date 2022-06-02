@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1654020347",
+    "srvtime": "1654193116",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -61,7 +61,7 @@
               }
             },
             {
-              "-id": "9631266822",
+              "-id": "9631719154",
               "-ft": "20220606063000",
               "-to": "20220606090000",
               "-ftl": "0630",
@@ -837,29 +837,39 @@
               }
             },
             {
-              "-id": "9631311103",
+              "-id": "9631696660",
               "-ft": "20220607020000",
-              "-to": "20220607030000",
+              "-to": "20220607021000",
               "-ftl": "2600",
+              "-tol": "2610",
+              "-dur": "600",
+              "title": "ミュージックセレクション",
+              "url": "https://www.abc1008.com/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9631741530",
+              "-ft": "20220607021000",
+              "-to": "20220607030000",
+              "-ftl": "2610",
               "-tol": "2700",
-              "-dur": "3600",
+              "-dur": "3000",
               "title": "Ｒ→９３３",
               "url": "https://www.abc1008.com/r933/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "～昨日から今日、今日から明日へのクロスロード～<BR><BR>深夜から早朝にかけてノンストップで音楽をお届けしている番組です。<BR><BR>メールアドレス：<a href=\"mailto:r933@abc1008.com\">r933@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23r933\">#r933</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abcr933\">@abcr933</a>」<BR><BR><BR>",
+              "info": "メールアドレス：<a href=\"mailto:r933@abc1008.com\">r933@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23r933\">#r933</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abcr933\">@abcr933</a>」<BR><BR><BR>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/ec6e8dad-0155-4f35-9ce2-9b06dfd440ae.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "r933"
-                  },
-                  {
-                    "name": "ABCラジオ"
-                  }
-                ]
-              },
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -880,7 +890,7 @@
               }
             },
             {
-              "-id": "9631311113",
+              "-id": "9631741531",
               "-ft": "20220607030000",
               "-to": "20220607040000",
               "-ftl": "2700",
@@ -923,7 +933,7 @@
               }
             },
             {
-              "-id": "9631311129",
+              "-id": "9631741535",
               "-ft": "20220607040000",
               "-to": "20220607041500",
               "-ftl": "2800",
