@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1654279541",
+    "srvtime": "1654365895",
     "stations": {
       "station": {
         "-id": "STV",
@@ -354,7 +354,7 @@
               }
             },
             {
-              "-id": "9631962189",
+              "-id": "9632021288",
               "-ft": "20220603190000",
               "-to": "20220603210000",
               "-ftl": "1900",
@@ -387,7 +387,7 @@
               }
             },
             {
-              "-id": "9631965729",
+              "-id": "9632087966",
               "-ft": "20220603210000",
               "-to": "20220603221000",
               "-ftl": "2100",
@@ -402,6 +402,16 @@
               "info": "メール：win@stv.jp<br/>Twitterハッシュタグ：#stvradio #リアルタイム<br/>Twitterアカウント：@stvradio",
               "pfm": "解説：濱中治　実況：小縣裕介",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/1346b214-1d70-4bbb-925e-a25f668fcda2.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -410,7 +420,7 @@
               }
             },
             {
-              "-id": "9631965747",
+              "-id": "9632106027",
               "-ft": "20220603221000",
               "-to": "20220604000000",
               "-ftl": "2210",
@@ -424,6 +434,12 @@
               "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "ＭＩＳＩＡ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/5a430537-53eb-4dc4-9c26-549369439c39.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -487,7 +503,7 @@
               }
             },
             {
-              "-id": "9630861486",
+              "-id": "9632083525",
               "-ft": "20220604030000",
               "-to": "20220604050000",
               "-ftl": "2700",
