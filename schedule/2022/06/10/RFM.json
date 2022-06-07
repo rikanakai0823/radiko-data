@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1654452333",
+    "srvtime": "1654625068",
     "stations": {
       "station": {
         "-id": "RFM",
@@ -42,7 +42,7 @@
               }
             },
             {
-              "-id": "9631894448",
+              "-id": "9632693660",
               "-ft": "20220610053000",
               "-to": "20220610060000",
               "-ftl": "0530",
@@ -56,7 +56,16 @@
               "info": "<div class=\"station_content_description \">\t\t<a href=\"http://www.jfn.jp/futures\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/program/35001_2dd74005_rc_large.jpg\" height=\"100\" width=\"200\"></a><br /><br /><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10793_b2bb99c1_sq.jpg\" height=\"60\" width=\"60\" alt=\"五十嵐亮太\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10795_465e8af0_sq.jpg\" height=\"60\" width=\"60\" alt=\"秋山真凜\"></td>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/10794_62fa0740_sq.jpg\" height=\"60\" width=\"60\" alt=\"岩本義弘\"></td>  </tr></table><br /><br />\t超高速通信時代に向けて、日常にある様々なサービスが変化、そして進化していく中で、その先を常に考え、その波に乗っている未来人が集結。<br />それぞれの専門分野での未来の話、「その先の話」をリスナーにお届けする。 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/futures\">http://www.jfn.jp/futures</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/241\">https://ssl2.jfn.co.jp/mailbox/index/241</a><br /><br /></div>",
               "pfm": "五十嵐亮太 / 秋山真凜 / 岩本義弘",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFM/1ej6n1kss3.jpg",
+              "tag": {
+                "item": {
+                  "name": "FUTURES"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -118,7 +127,7 @@
               }
             },
             {
-              "-id": "9631894522",
+              "-id": "9632693685",
               "-ft": "20220610073000",
               "-to": "20220610075500",
               "-ftl": "0730",
@@ -132,7 +141,24 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/1124_be92675b_sq.jpg\" height=\"60\" width=\"60\" alt=\"小谷大輔\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/oh/\">http://www.jfn.jp/oh/</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/198\">https://ssl2.jfn.co.jp/mailbox/index/198</a><br /><br /></div>",
               "pfm": "小谷大輔",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFM/gaz3nqodjo.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "井門宗之"
+                  },
+                  {
+                    "name": "ハピモニ"
+                  },
+                  {
+                    "name": "森藤恵美"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -341,7 +367,7 @@
               }
             },
             {
-              "-id": "9631894560",
+              "-id": "9632693698",
               "-ft": "20220610090000",
               "-to": "20220610105500",
               "-ftl": "0900",
@@ -355,7 +381,24 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/JF/person/1124_be92675b_sq.jpg\" height=\"60\" width=\"60\" alt=\"小谷大輔\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/oh/\">http://www.jfn.jp/oh/</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/198\">https://ssl2.jfn.co.jp/mailbox/index/198</a><br /><br /></div>",
               "pfm": "小谷大輔",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFM/gaz3nqodjo.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "井門宗之"
+                  },
+                  {
+                    "name": "ハピモニ"
+                  },
+                  {
+                    "name": "森藤恵美"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -1940,7 +1983,7 @@
               }
             },
             {
-              "-id": "9632096909",
+              "-id": "9632695426",
               "-ft": "20220611030000",
               "-to": "20220611050000",
               "-ftl": "2700",
