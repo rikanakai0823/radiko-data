@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1654711507",
+    "srvtime": "1654797911",
     "stations": {
       "station": {
         "-id": "YBC",
@@ -91,7 +91,7 @@
               }
             },
             {
-              "-id": "9632714830",
+              "-id": "9633100003",
               "-ft": "20220613053000",
               "-to": "20220613063000",
               "-ftl": "0530",
@@ -680,7 +680,7 @@
               }
             },
             {
-              "-id": "9632935383",
+              "-id": "9633113795",
               "-ft": "20220613130000",
               "-to": "20220613162000",
               "-ftl": "1300",
@@ -692,7 +692,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "<img src=\"https://ssl.ybc.co.jp/k2/RA/radikoimg/img150.jpg\">　　<img src=\"https://ssl.ybc.co.jp/k2/RA/radikoimg/img016.jpg\">　<img src=\"https://ssl.ybc.co.jp/k2/RA/radikoimg/img021.jpg\"><br/><br/>メッセージテーマは、旬なものを当日の打合せで決定。人気コーナーは「月ラジドン」。いわゆるイントロクイズで、パーソナリティの1人が相手とリスナー宛に問題を出し、答えてもらうもので、本当のガチンコ勝負である。他に、旅行案内、ホテルのイベントや美食、お魚情報など、生活に密着したさまざまなコーナーが週ごとに変わる。<br/>",
-              "info": "リクエスト曲またはメッセージは：TEL 023-634-0918 　FAX 023-634-0917<br/>\nリクエストボックス:<a href=\"https://www.ybc.co.jp/radio/requestbox/rapa/\"target=\"_blank\">\ntwitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23ybc_radio\">#ybc_radio</a>」<br/>\ntwitterアカウントは「<a href=\"http://twitter.com/ybc_radio\">@ybc_radio</a>」<br/>\nfacebookページは「<a href='https://www.facebook.com/ybc.co.jp'>https://www.facebook.com/ybc.co.jp</a>」",
+              "info": "リクエスト曲またはメッセージは：TEL 023-634-0918 　FAX 023-634-0917<br/>\nリクエストボックス:<a href=\"https://www.ybc.co.jp/radio/requestbox/rapa/\"target=\"_blank\">https://www.ybc.co.jp/radio/requestbox/rapa/</a><br/>\ntwitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23ybc_radio\">#ybc_radio</a>」<br/>\ntwitterアカウントは「<a href=\"http://twitter.com/ybc_radio\">@ybc_radio</a>」<br/>\nfacebookページは「<a href='https://www.facebook.com/ybc.co.jp'>https://www.facebook.com/ybc.co.jp</a>」\n\n",
               "pfm": "門田和弘・松田春香\n\n",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YBC/0bab1103-5b0c-4485-bd5f-245a65e997a5.png",
               "genre": {
@@ -791,7 +791,7 @@
               }
             },
             {
-              "-id": "9632723632",
+              "-id": "9633113796",
               "-ft": "20220613171500",
               "-to": "20220613173000",
               "-ftl": "1715",
@@ -803,7 +803,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "山形出身のシンガーソングライター庄司紗千が、今日も一日頑張ったあなたに「おかえりなさい」の音楽とあたたかいトークをお届けします♪",
-              "info": "公式ＨＰ：ameblo.jp/pianovocal/\n公式Twitter：@shoji_sachi",
+              "info": "リクエスト曲またはメッセージは<br/>\nＰＣは:<a href=\"https://www.ybc.co.jp/radio/requestbox/shojisachi/\"target=\"_blank\">www.ybc.co.jp/radio/requestbox/shojisachi/</a><br/>\ntwitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23ybc_radio\">#ybc_radio</a>」<br/>\ntwitterアカウントは「<a href=\"http://twitter.com/ybc_radio\">@ybc_radio</a>」<br/>\nfacebookページは「<a href='https://www.facebook.com/ybc.co.jp'>https://www.facebook.com/ybc.co.jp</a>」\n\n公式ＨＰ：ameblo.jp/pianovocal/\n公式Twitter：@shoji_sachi",
               "pfm": "庄司紗千\n",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YBC/jg0jvz5z8w.jpg",
               "tag": {
@@ -822,10 +822,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ybc_radio"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:ybc_radio"
+                  }
+                ]
               }
             },
             {
