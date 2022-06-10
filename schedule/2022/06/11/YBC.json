@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1654797885",
+    "srvtime": "1654884327",
     "stations": {
       "station": {
         "-id": "YBC",
@@ -177,7 +177,7 @@
               }
             },
             {
-              "-id": "9633113777",
+              "-id": "9633257893",
               "-ft": "20220611070000",
               "-to": "20220611100000",
               "-ftl": "0700",
@@ -221,7 +221,7 @@
               }
             },
             {
-              "-id": "9633113778",
+              "-id": "9633257949",
               "-ft": "20220611100000",
               "-to": "20220611103000",
               "-ftl": "1000",
@@ -264,7 +264,7 @@
               }
             },
             {
-              "-id": "9633113779",
+              "-id": "9633257961",
               "-ft": "20220611103000",
               "-to": "20220611110000",
               "-ftl": "1030",
@@ -282,10 +282,10 @@
               "tag": {
                 "item": [
                   {
-                    "name": "山内智香子"
+                    "name": "中井川茂敏"
                   },
                   {
-                    "name": "中井川茂敏"
+                    "name": "山内智香子"
                   }
                 ]
               },
@@ -307,7 +307,7 @@
               }
             },
             {
-              "-id": "9633113780",
+              "-id": "9633257990",
               "-ft": "20220611110000",
               "-to": "20220611120000",
               "-ftl": "1100",
@@ -325,10 +325,10 @@
               "tag": {
                 "item": [
                   {
-                    "name": "ドンキー佐藤"
+                    "name": "佐藤泰子"
                   },
                   {
-                    "name": "佐藤泰子"
+                    "name": "ドンキー佐藤"
                   }
                 ]
               },
@@ -414,7 +414,7 @@
               }
             },
             {
-              "-id": "9633113781",
+              "-id": "9633313913",
               "-ft": "20220611121000",
               "-to": "20220611150000",
               "-ftl": "1210",
@@ -457,7 +457,7 @@
               }
             },
             {
-              "-id": "9633113783",
+              "-id": "9633313969",
               "-ft": "20220611150000",
               "-to": "20220611170000",
               "-ftl": "1500",
@@ -707,7 +707,7 @@
               }
             },
             {
-              "-id": "9632114517",
+              "-id": "9633358529",
               "-ft": "20220611184000",
               "-to": "20220611190000",
               "-ftl": "1840",
@@ -718,8 +718,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "info": "リクエスト曲またはメッセージは<br/>\n<a href=\"https://www.ybc.co.jp/radio/requestbox/ay/\"target=\"_blank\">https://www.ybc.co.jp/radio/requestbox/ay/</a><br/><br/>\ntwitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23ybc_radio\">#ybc_radio</a>」<br/>\ntwitterアカウントは「<a href=\"http://twitter.com/ybc_radio\">@ybc_radio</a>」<br/><br/>\nfacebookページは「<a href='https://www.facebook.com/ybc.co.jp'>https://www.facebook.com/ybc.co.jp</a>」",
               "pfm": "工藤あやの",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YBC/0bab1103-5b0c-4485-bd5f-245a65e997a5.png",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YBC/.tqyr8ar6e.jpg",
               "tag": {
                 "item": {
                   "name": "工藤あやの"
@@ -736,10 +737,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ybc_radio"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:ybc_radio"
+                  }
+                ]
               }
             },
             {

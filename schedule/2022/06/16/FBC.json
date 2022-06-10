@@ -1,0 +1,964 @@
+{
+  "radiko": {
+    "ttl": "1800",
+    "srvtime": "1654884386",
+    "stations": {
+      "station": {
+        "-id": "FBC",
+        "name": "FBCラジオ",
+        "progs": {
+          "date": "20220616",
+          "prog": [
+            {
+              "-id": "9633123201",
+              "-ft": "20220616050000",
+              "-to": "20220616052000",
+              "-ftl": "0500",
+              "-tol": "0520",
+              "-dur": "1200",
+              "title": "ＦＢＣ　Ｗａｋｅ　Ｕｐ　メロディー",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "一日のスタートをフレッシュに演出する番組。",
+              "info": "<br/>季節の歳時記、健康メモ、話題スポットのリポート、<br/>さらに音楽は歌謡曲・演歌・フォークなど<br/>大人が楽しめる選曲でお届けします。",
+              "pfm": "末田倫子",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633018264",
+              "-ft": "20220616052000",
+              "-to": "20220616053000",
+              "-ftl": "0520",
+              "-tol": "0530",
+              "-dur": "600",
+              "title": "洋楽処ＰＯＰＳ倶楽部",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "一世風びした７０・８０年代の洋楽をたっぷりオンエア！",
+              "info": "<br/>深夜ラジオから毎日たくさんの洋楽が流れ、その曲に“ノリノリ”になっていた７０ｓ８０ｓサウンド。<br/>ベストヒットＵＳＡなどビデオクリップも数多く流れた<br/>あの時代の洋楽をたっぷりとオンエアします。<br/><br/>メッセージ・リクエストなどはこちらからどうぞ！<br/><a href='mailto:pops@117radio.com'>pops@117radio.com</a>",
+              "pfm": "佐藤健一",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/601565df-3c4e-4018-9dcd-23cb4cc0ad24.png",
+              "tag": {
+                "item": {
+                  "name": "サトケン"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633302743",
+              "-ft": "20220616053000",
+              "-to": "20220616063000",
+              "-ftl": "0530",
+              "-tol": "0630",
+              "-dur": "3600",
+              "title": "生島ヒロシのおはよう一直線",
+              "url": "https://www.tbsradio.jp/ohayou/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "あさ一番の情報番組。",
+              "info": "<br/>健康情報・生活情報などをたっぷりお伝えします。",
+              "pfm": "生島ヒロシ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/nhutsspb1q.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633123252",
+              "-ft": "20220616063000",
+              "-to": "20220616064000",
+              "-ftl": "0630",
+              "-tol": "0640",
+              "-dur": "600",
+              "title": "大自然まるかじりライフ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "「米ぬか健康法」でブームを巻き起こしたナチュラリストによるハートフル＆ヘルシーな番組。",
+              "info": "<br/>健康食・自然食の話から、畑仕事、料理の作り方などについて語ります。",
+              "pfm": "河村通夫",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P017",
+                  "name": "健康"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633121344",
+              "-ft": "20220616064000",
+              "-to": "20220616064500",
+              "-ftl": "0640",
+              "-tol": "0645",
+              "-dur": "300",
+              "title": "世の光",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "「福音」をお届けします。",
+              "info": "キリスト教牧師が日替わりで出演し、<br/>日々の暮らしに役立つ聖書からのエピソードを紹介します。",
+              "genre": {
+                "program": {
+                  "-id": "P016",
+                  "name": "宗教"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633121351",
+              "-ft": "20220616064500",
+              "-to": "20220616065000",
+              "-ftl": "0645",
+              "-tol": "0650",
+              "-dur": "300",
+              "title": "心のともしび",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "宗教法人カトリック善き牧者の会によるカトリック系布教番組。",
+              "pfm": "坪井木の実",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/6idlxqg4oa.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P016",
+                  "name": "宗教"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633121357",
+              "-ft": "20220616065000",
+              "-to": "20220616070000",
+              "-ftl": "0650",
+              "-tol": "0700",
+              "-dur": "600",
+              "title": "ＥＮＥＯＳ　プレゼンツ　あさナビ",
+              "url": "https://www.1242.com/asanav/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "週ごとに、プロフェッショナルなゲストが出演。",
+              "info": "<br/>毎回さまざまな分野のプロフェッショナルをゲストに呼んで、<br/>朝の活力になるモーニングトークを展開します。",
+              "pfm": "黒木瞳",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/ff14826f-843d-4eda-be2c-3c7152bba146.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633123292",
+              "-ft": "20220616070000",
+              "-to": "20220616090000",
+              "-ftl": "0700",
+              "-tol": "0900",
+              "-dur": "7200",
+              "title": "良ーい　ドン！！",
+              "url": "https://www.fbc.jp/radio/don",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<br/>７：００「ＦＢＣニュース・天気予報」<br/>７：１０「お早う！ニュースネットワーク」<br/>７：２５「スズキ・ハッピーモーニング　羽田美智子のいってらっしゃい」<br/>７：３０「武田鉄矢・今朝の三枚おろし」<br/>７：４０「ＦＢＣニュース・天気予報」<br/>７：４５「歌のない歌謡曲」<br/>パーソナリティ：亀島愛永<br/>８：００「日本全国８時です」<br/>８：２０「朝の交通情報」<br/>８：２５「ニュース　早分かり」<br/>８：３５「ドンドンジャーナル」<br/>８：４５「今日のお天気」<br/>８：５５「県内今日の動き」<br/>９：００「ニュース」<br/>９：０５「今日はどんな日」<br/>９：１５「アーティスト・アルバム」<br/>９：３０「エコーメイト」<br/>９：３５「福運良運大吉コーナー」<br/>１０：００「ニュース・天気予報」<br/>１０：４０「エコーメイト」<br/>１１：００「ニュース」<br/>１１：０５「くらしのお天気」<br/>１１：１０「メモリアルミュージック」<br/>１１：３０「元気な唄をあなたとともに…」<br/><br/>★メッセージ・リクエスト募集中！★<br/>FAX：0776-57-1930<br/>メール：<a href='mailto:don@fbc.jp'>don@fbc.jp</a>",
+              "pfm": "亀島愛永　工藤修斗",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/e3fdd24d-1544-48b4-8c04-bcf58b5231dd.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633123429",
+              "-ft": "20220616090000",
+              "-to": "20220616110000",
+              "-ftl": "0900",
+              "-tol": "1100",
+              "-dur": "7200",
+              "title": "良ーい　ドン！！",
+              "url": "https://www.fbc.jp/radio/don",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<br/>７：００「ＦＢＣニュース・天気予報」<br/>７：１０「お早う！ニュースネットワーク」<br/>７：２５「スズキ・ハッピーモーニング　羽田美智子のいってらっしゃい」<br/>７：３０「武田鉄矢・今朝の三枚おろし」<br/>７：４０「ＦＢＣニュース・天気予報」<br/>７：４５「歌のない歌謡曲」<br/>パーソナリティ：亀島愛永<br/>８：００「日本全国８時です」<br/>８：２０「朝の交通情報」<br/>８：２５「ニュース　早分かり」<br/>８：３５「ドンドンジャーナル」<br/>８：４５「今日のお天気」<br/>８：５５「県内今日の動き」<br/>９：００「ニュース」<br/>９：０５「今日はどんな日」<br/>９：１５「アーティスト・アルバム」<br/>９：３０「エコーメイト」<br/>９：３５「福運良運大吉コーナー」<br/>１０：００「ニュース・天気予報」<br/>１０：４０「エコーメイト」<br/>１１：００「ニュース」<br/>１１：０５「くらしのお天気」<br/>１１：１０「メモリアルミュージック」<br/>１１：３０「元気な唄をあなたとともに…」<br/><br/>★メッセージ・リクエスト募集中！★<br/>FAX：0776-57-1930<br/>メール：<a href='mailto:don@fbc.jp'>don@fbc.jp</a>",
+              "pfm": "亀島愛永　工藤修斗",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/e3fdd24d-1544-48b4-8c04-bcf58b5231dd.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633123529",
+              "-ft": "20220616110000",
+              "-to": "20220616114000",
+              "-ftl": "1100",
+              "-tol": "1140",
+              "-dur": "2400",
+              "title": "良ーい　ドン！！",
+              "url": "https://www.fbc.jp/radio/don",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<br/>７：００「ＦＢＣニュース・天気予報」<br/>７：１０「お早う！ニュースネットワーク」<br/>７：２５「スズキ・ハッピーモーニング　羽田美智子のいってらっしゃい」<br/>７：３０「武田鉄矢・今朝の三枚おろし」<br/>７：４０「ＦＢＣニュース・天気予報」<br/>７：４５「歌のない歌謡曲」<br/>パーソナリティ：亀島愛永<br/>８：００「日本全国８時です」<br/>８：２０「朝の交通情報」<br/>８：２５「ニュース　早分かり」<br/>８：３５「ドンドンジャーナル」<br/>８：４５「今日のお天気」<br/>８：５５「県内今日の動き」<br/>９：００「ニュース」<br/>９：０５「今日はどんな日」<br/>９：１５「アーティスト・アルバム」<br/>９：３０「エコーメイト」<br/>９：３５「福運良運大吉コーナー」<br/>１０：００「ニュース・天気予報」<br/>１０：４０「エコーメイト」<br/>１１：００「ニュース」<br/>１１：０５「くらしのお天気」<br/>１１：１０「メモリアルミュージック」<br/>１１：３０「元気な唄をあなたとともに…」<br/><br/>★メッセージ・リクエスト募集中！★<br/>FAX：0776-57-1930<br/>メール：<a href='mailto:don@fbc.jp'>don@fbc.jp</a>",
+              "pfm": "亀島愛永　工藤修斗",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/e3fdd24d-1544-48b4-8c04-bcf58b5231dd.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633132118",
+              "-ft": "20220616114000",
+              "-to": "20220616115000",
+              "-ftl": "1140",
+              "-tol": "1150",
+              "-dur": "600",
+              "title": "氷川きよし  限界突破ＲＡＤＩＯ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "氷川きよしが等身大トークを繰り広げます！",
+              "info": "<br/>氷川きよしが世の中の流行、ムーブメント、トレンドなどにフォーカスしながら、<br/>独自の音楽観をお送りします。<br/><br/>みなさんからのメッセージも大募集！",
+              "pfm": "氷川きよし　山田弥希寿（文化放送アナウンサー）",
+              "tag": {
+                "item": {
+                  "name": "氷川きよし"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633018805",
+              "-ft": "20220616115000",
+              "-to": "20220616120000",
+              "-ftl": "1150",
+              "-tol": "1200",
+              "-dur": "600",
+              "title": "通販！なりゆき番組　隊長＠谷隼人の風雲ラジオショッピングぅ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "谷隼人　四元エリカ",
+              "tag": {
+                "item": {
+                  "name": "谷隼人"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633018851",
+              "-ft": "20220616120000",
+              "-to": "20220616121000",
+              "-ftl": "1200",
+              "-tol": "1210",
+              "-dur": "600",
+              "title": "ランチタイムニュース・天気予報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "最新のニュースの動きをコンパクトに発信します。",
+              "info": "<br/>生々しく動く政治情勢、事件・事故、催事・歳時記もの、スポーツの結果速報や心温まるハッピーニュースなど、<br/>日本と世界の“今”をコンパクトかつヴィヴィットにお伝えします。<br/><br/>★ＦＢＣのスタジオから福井のニュース・天気情報もあり",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633018865",
+              "-ft": "20220616121000",
+              "-to": "20220616124000",
+              "-ftl": "1210",
+              "-tol": "1240",
+              "-dur": "1800",
+              "title": "サウンドスケッチ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<br/>幅広い世代に楽しんでいただける音楽＆トーク番組。",
+              "pfm": "松本英子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/fee1c607-d5a7-4481-a8b7-e00801bc1343.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633018895",
+              "-ft": "20220616124000",
+              "-to": "20220616125000",
+              "-ftl": "1240",
+              "-tol": "1250",
+              "-dur": "600",
+              "title": "アーティストＢＯＸ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<br/>時代を彩り、数々のヒットシングルを持つアーティストを週変わりでピックアップする番組。<br/>バンド結成秘話やデビューにまつわるエピソード、さらにヒット曲誕生やライブ秘話まで、最新情報を交えてお送りします。",
+              "pfm": "神原智己",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/thq77ywmtb.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633125699",
+              "-ft": "20220616125000",
+              "-to": "20220616130000",
+              "-ftl": "1250",
+              "-tol": "1300",
+              "-dur": "600",
+              "title": "ＧＩＦＴ～未来への贈り物～",
+              "url": "https://www.tbsradio.jp/gift/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<br/>週替わりで各界の著名人・有名人たちが登場し、<br/>人生を変えたきっかけとなる書籍や楽曲等を取り上げ、<br/>エピソードトークする番組です。",
+              "pfm": "馬場典子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/4e5fbd3d-4c09-4048-930e-ebe08ea5dda2.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633260112",
+              "-ft": "20220616130000",
+              "-to": "20220616150000",
+              "-ftl": "1300",
+              "-tol": "1500",
+              "-dur": "7200",
+              "title": "午後はとことん　よろず屋ラジオ",
+              "url": "https://www.fbc.jp/radio/gogo",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "ＦＢＣラジオ生放送！ニュースはもちろん、芸能，生活情報，音楽とどんな情報もそろうよろず屋へようこそ！",
+              "info": "<br/>よろず屋で個性派店主（パーソナリティー）と<br/>コミュニケーションを深めましょう♪<br/>平日日替わりでお客様のお越しをお待ちしております。<br/><br/>★「武者武者のあいうえお作文（仮）」のお題は「キャラ」。<br/>テーマに沿ったメッセージと、「き」「や」「ら」で始まるあいうえお作文をみなさまから募集します。<br/><br/>FAX：0776-57-1930<br/>メール：<a href='mailto:gogo@fbc.jp'>gogo@fbc.jp</a>",
+              "pfm": "武者武者　谷口祥代",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/c4e7fd68-a4db-4d44-998f-347aa7f1dec3.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "武者武者"
+                  },
+                  {
+                    "name": "谷口祥代"
+                  },
+                  {
+                    "name": "午後はとことんよろず屋ラジオ"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633260149",
+              "-ft": "20220616150000",
+              "-to": "20220616163000",
+              "-ftl": "1500",
+              "-tol": "1630",
+              "-dur": "5400",
+              "title": "午後はとことん　よろず屋ラジオ",
+              "url": "https://www.fbc.jp/radio/gogo",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "ＦＢＣラジオ生放送！ニュースはもちろん、芸能，生活情報，音楽とどんな情報もそろうよろず屋へようこそ！",
+              "info": "<br/>よろず屋で個性派店主（パーソナリティー）と<br/>コミュニケーションを深めましょう♪<br/>平日日替わりでお客様のお越しをお待ちしております。<br/><br/>★「武者武者のあいうえお作文（仮）」のお題は「キャラ」。<br/>テーマに沿ったメッセージと、「き」「や」「ら」で始まるあいうえお作文をみなさまから募集します。<br/><br/>FAX：0776-57-1930<br/>メール：<a href='mailto:gogo@fbc.jp'>gogo@fbc.jp</a>",
+              "pfm": "武者武者　谷口祥代",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/c4e7fd68-a4db-4d44-998f-347aa7f1dec3.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "武者武者"
+                  },
+                  {
+                    "name": "谷口祥代"
+                  },
+                  {
+                    "name": "午後はとことんよろず屋ラジオ"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633019138",
+              "-ft": "20220616163000",
+              "-to": "20220616164000",
+              "-ftl": "1630",
+              "-tol": "1640",
+              "-dur": "600",
+              "title": "ＤＪボビー　洋楽玉手箱",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<br/>この番組では、世界中のヒットチャートをにぎわせたヒットナンバーや大ヒット映画で人気となったヒットソングなど、<br/>日替わりで年代別に紹介します。",
+              "pfm": "ＤＪボビー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/4a00ba2e-d779-4c9a-a49c-2190a884349d.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633123901",
+              "-ft": "20220616164000",
+              "-to": "20220616165000",
+              "-ftl": "1640",
+              "-tol": "1650",
+              "-dur": "600",
+              "title": "桂宮治のザブトン５",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<br/>爆笑高座でおなじみの桂宮治があの手この手でみなさんを楽しませます！",
+              "pfm": "桂宮治　西川文野(文化放送アナウンサー)",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/37245e9e-72b3-4471-bb7a-cb7ad01ef7df.png",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633343620",
+              "-ft": "20220616165000",
+              "-to": "20220616170000",
+              "-ftl": "1650",
+              "-tol": "1700",
+              "-dur": "600",
+              "title": "あなたにハッピー・メロディ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<br/>リスナーからのリクエスト曲や、注目のアーティストの楽曲を、<br/>旬の話題や季節の風物詩のトークを交えてお送りする週と、<br/>話題のアーティストやフレッシュな歌手をゲストに招いて、トークと楽曲をお送りする週を交互にお届けします。",
+              "pfm": "だいすけ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/f3952077-70be-439d-908e-782dac6d572c.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633123945",
+              "-ft": "20220616170000",
+              "-to": "20220616171500",
+              "-ftl": "1700",
+              "-tol": "1715",
+              "-dur": "900",
+              "title": "ニュースパレード",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<br/>全国３１局のネットワーク各局との<br/>共同制作システムの下に、<br/>１日の動きをラジオの武器である<br/>「実音」にこだわりながら伝えます。",
+              "pfm": "文化放送　報道キャスター",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633125780",
+              "-ft": "20220616171500",
+              "-to": "20220616181500",
+              "-ftl": "1715",
+              "-tol": "1815",
+              "-dur": "3600",
+              "title": "ユーグレディオ",
+              "url": "https://www.fbc.jp/radio/you",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<br/>１７：１５「ニュース」<br/>１７：２５「交通情報」<br/>１７：３０「ネットワークトゥデイ」<br/>１７：４５「天気予報」<br/><br/>みなさまのお便り・メールをお待ちしています♪<br/>FAX：0776-57-1930<br/>MAIL:<a href='mailto:you@fbc.jp'>you@fbc.jp</a>",
+              "pfm": "森本茂樹",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/.5wdw6bpig.png",
+              "tag": {
+                "item": {
+                  "name": "森本茂樹"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633132505",
+              "-ft": "20220616181500",
+              "-to": "20220616210000",
+              "-ftl": "1815",
+              "-tol": "2100",
+              "-dur": "9900",
+              "title": "ＦＢＣゴールデンスペシャル",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "天候などにより、変更になる可能性がございます。<br/>あらかじめご了承ください。<br/><br/>最大延長２２：００",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633124148",
+              "-ft": "20220616210000",
+              "-to": "20220616220000",
+              "-ftl": "2100",
+              "-tol": "2200",
+              "-dur": "3600",
+              "title": "ミュージック・ブルペン",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633356322",
+              "-ft": "20220616220000",
+              "-to": "20220617000000",
+              "-ftl": "2200",
+              "-tol": "2400",
+              "-dur": "7200",
+              "title": "オールナイトニッポン　ＭＵＳＩＣ　１０",
+              "url": "https://www.allnightnippon.com/m10/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "夜１０時から、１０曲以上たっぷり聴いてほしいから、「ＭＵＳＩＣ１０」！",
+              "info": "<br/>ラジオの楽しさを体に染み込ませているパーソナリティーが毎日登場。<br/>若者から、パーソナリティーの同世代まで、ちょっと背伸びした大人になれるトークと、リスナーからのメッセージとリクエスト。<br/>落ち着いた大人の夜の雰囲気を、豪華なパーソナリティーの個性が演出します。",
+              "pfm": "渡辺満里奈",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/j1hf10rb78.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633350030",
+              "-ft": "20220617000000",
+              "-to": "20220617010000",
+              "-ftl": "2400",
+              "-tol": "2500",
+              "-dur": "3600",
+              "title": "レコメン！",
+              "url": "https://joqr.co.jp/qr/program/reco/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "エッジの効いたおもしろを追求するプログラム。",
+              "info": "<br/>ネタコーナーや罰ゲームから悩み相談、<br/>そして「ＤＪのり」のちょっとだけHなスパイスをまぶしてお届けする６０分！<br/>木曜日は、ジャニーズＷＥＳＴの桐山照史・中間淳太が番組を盛り上げます。",
+              "pfm": "桐山照史　中間淳太（ジャニーズＷＥＳＴ）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/znz09lwske.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "桐山照史"
+                  },
+                  {
+                    "name": "中間淳太"
+                  },
+                  {
+                    "name": "ジャニーズWEST"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633350107",
+              "-ft": "20220617010000",
+              "-to": "20220617030000",
+              "-ftl": "2500",
+              "-tol": "2700",
+              "-dur": "7200",
+              "title": "ナインティナインのオールナイトニッポン",
+              "url": "https://www.allnightnippon.com/nn/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<br/>ナインティナインのオールナイトニッポンは、皆さんからのおハガキ・メールが頼りです。<br/>職人のあなたから渾身のネタをお待ちしております！<br/>ラジオならではのナインティナインのトークも楽しんでください！",
+              "pfm": "ナインティナイン",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/516ee11a-ece6-46aa-b077-514f32691557.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ナインティナイン"
+                  },
+                  {
+                    "name": "オールナイトニッポン"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633346258",
+              "-ft": "20220617030000",
+              "-to": "20220617040000",
+              "-ftl": "2700",
+              "-tol": "2800",
+              "-dur": "3600",
+              "title": "ヴァイナル・ミュージック～歌謡曲２．０～",
+              "url": "https://www.joqr.co.jp/qr/program/vinylmusic/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "ヴァイナルレコード音源を中心にシティ・ポップや歌謡曲をオンエア。",
+              "info": "<br/>「古き良きモノを新しく魅せる。新しいモノを親しみやすく魅せる。」<br/>「音楽を通じて時代をつなぎ、世代をつなぎ、世界をつなぐ」をコンセプトに深夜に生活するリスナーや<br/>オンエア後のオーディオコンテンツ配信で音楽を楽しむ音楽好きな人々にお送りします。",
+              "pfm": "コバソロＳＰ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/91eb36cc-940c-4e2b-8b75-4b47124ac8c5.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9633346278",
+              "-ft": "20220617040000",
+              "-to": "20220617050000",
+              "-ftl": "2800",
+              "-tol": "2900",
+              "-dur": "3600",
+              "title": "ＣＩＴＹ　ＣＨＩＬＬ　ＣＬＵＢ",
+              "url": "https://www.tbsradio.jp/chill/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "トーク少なめ、音楽たっぷりにお送りする“ｃｈｉｌｌ（癒し）”の時間。",
+              "info": "注目のアーティスト・クリエイター・デザイナーらが<br/>「楽曲セレクター」として選曲したプレイリストを紹介。<br/>セレクター自身の曲に限らず、様々な影響を受けた曲、癒される曲、<br/>明日へのメッセージとなる曲などをお送りします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/fcad2599-4bed-41d8-abe6-82ff2432b477.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
