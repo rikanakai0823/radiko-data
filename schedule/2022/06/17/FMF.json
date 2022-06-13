@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1655057160",
+    "srvtime": "1655143491",
     "stations": {
       "station": {
         "-id": "FMF",
@@ -10,7 +10,7 @@
           "date": "20220617",
           "prog": [
             {
-              "-id": "9633836424",
+              "-id": "9633939489",
               "-ft": "20220617050000",
               "-to": "20220617053000",
               "-ftl": "0500",
@@ -32,7 +32,7 @@
               }
             },
             {
-              "-id": "9633534294",
+              "-id": "9633986583",
               "-ft": "20220617053000",
               "-to": "20220617060000",
               "-ftl": "0530",
@@ -64,7 +64,7 @@
               }
             },
             {
-              "-id": "9633346343",
+              "-id": "9633934487",
               "-ft": "20220617060000",
               "-to": "20220617073000",
               "-ftl": "0600",
@@ -115,7 +115,7 @@
               }
             },
             {
-              "-id": "9633356734",
+              "-id": "9633934507",
               "-ft": "20220617073000",
               "-to": "20220617075000",
               "-ftl": "0730",
@@ -129,10 +129,27 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/TV/person/3266_bfb129b5_sq.png\" height=\"60\" width=\"60\" alt=\"加藤漢太\"></td>  </tr></table><br /><br />\t朝のお目覚めは”ふくしまFM”。<br />朝だから知りたいニュースや天気、交通情報と、今日の豆知識・地元の話題を、爽やかにあなたへ届けます。前半は“情報をコンパクトに聴きやすく”、後半は“音楽・アーティスト情報”などを交えて、朝のひと時を演出します。リクエストにも応えます！<br />お出かけソングをラジオで聴いて、一日元気にお過ごしください。 <br /><br />\t番組Webサイト：<a href=\"https://www.fmf.co.jp/radio/morningfreeway/\">https://www.fmf.co.jp/radio/morningfreeway/</a><br />\tメールアドレス：<a href=\"mailto:mf@fmf.co.jp\">mf@fmf.co.jp</a><br />\tメッセージフォーム：<a href=\"https://www.fmf.co.jp/form/2\">https://www.fmf.co.jp/form/2</a><br />\tFAX：024-991-9800<br /> <br /> twitterアカウントは「<a href=\"http://twitter.com/MFF0249919000\">@MFF0249919000</a>」<br /><br /></div>",
               "pfm": "加藤漢太",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/g34tqdge08.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "モーフリ"
+                  },
+                  {
+                    "name": "ふくしまFM"
+                  },
+                  {
+                    "name": "加藤漢太"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -143,7 +160,7 @@
               }
             },
             {
-              "-id": "9633356759",
+              "-id": "9633934512",
               "-ft": "20220617075000",
               "-to": "20220617080000",
               "-ftl": "0750",
@@ -157,10 +174,27 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/TV/person/3271_81d6395c_sq.png\" height=\"60\" width=\"60\" alt=\"小松田あこ\"></td>  </tr></table><br /><br />\tここから始まる１日が、明るく、楽しくなる、トピックスをお届けします！<br /><br />▼月曜日：アコセレ<br />月替わりのテーマで、パーソナリティの小松田あこが気になる福島県内のモノ・コトを深掘りします。<br /><br />▼火曜日 / 水曜日 / 木曜日：福島人<br />福島県内で活躍をしている“福島人“を、毎週お一人お招きしてお話しを伺います！<br /><br />▼金曜日：ヒストリー ドライブ<br />毎週ある年をピックアップし、その年に時空のドライブへと出かけます！<br /><br />素敵な1日を“ここから”始めましょう！ <br /><br />\t番組Webサイト：<a href=\"https://www.fmf.co.jp/radio/morningfreeway/toyota_morning/\">https://www.fmf.co.jp/radio/morningfreeway/toyota_morning/</a><br />\tFAX：024-991-9800<br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%93%E3%81%93%E3%83%A2%E3%83%8B\">#ここモニ</a>」<br /><br /></div>",
               "pfm": "小松田あこ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/kh4f8y6plq.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ふくしまFM"
+                  },
+                  {
+                    "name": "ここモニ"
+                  },
+                  {
+                    "name": "小松田あこ"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -171,7 +205,7 @@
               }
             },
             {
-              "-id": "9633356773",
+              "-id": "9633934518",
               "-ft": "20220617080000",
               "-to": "20220617110000",
               "-ftl": "0800",
@@ -185,10 +219,27 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://s3-ap-northeast-1.amazonaws.com/program.keitai.fm/pms/images/TV/person/3266_bfb129b5_sq.png\" height=\"60\" width=\"60\" alt=\"加藤漢太\"></td>  </tr></table><br /><br />\t朝のお目覚めは”ふくしまFM”。<br />毎週金曜日は、午前10：55まで放送枠を拡大してお届けします！<br />朝だから知りたいニュースや天気、交通情報と、今日の豆知識・地元の話題を、爽やかにあなたへ届けます。前半は“情報をコンパクトに聴きやすく”、後半は“音楽・アーティスト情報”などを交えて、朝のひと時を演出します。リクエストにも応えます！<br />お出かけソングをラジオで聴いて、一日元気にお過ごしください。 <br /><br />\t番組Webサイト：<a href=\"https://www.fmf.co.jp/radio/morningfreeway/\">https://www.fmf.co.jp/radio/morningfreeway/</a><br />\tメールアドレス：<a href=\"mailto:mf@fmf.co.jp\">mf@fmf.co.jp</a><br />\tメッセージフォーム：<a href=\"https://www.fmf.co.jp/form/2\">https://www.fmf.co.jp/form/2</a><br />\tFAX：024-991-9800<br /> <br /> twitterアカウントは「<a href=\"http://twitter.com/MFF0249919000\">@MFF0249919000</a>」<br /><br /></div>",
               "pfm": "加藤漢太",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMF/g34tqdge08.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "モーフリ"
+                  },
+                  {
+                    "name": "ふくしまFM"
+                  },
+                  {
+                    "name": "加藤漢太"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -259,7 +310,7 @@
               }
             },
             {
-              "-id": "9633772868",
+              "-id": "9633984249",
               "-ft": "20220617120000",
               "-to": "20220617130000",
               "-ftl": "1200",
@@ -373,7 +424,7 @@
               }
             },
             {
-              "-id": "9633350666",
+              "-id": "9633934625",
               "-ft": "20220617160000",
               "-to": "20220617173000",
               "-ftl": "1600",
@@ -424,7 +475,7 @@
               }
             },
             {
-              "-id": "9633350733",
+              "-id": "9633934658",
               "-ft": "20220617173000",
               "-to": "20220617190000",
               "-ftl": "1730",
@@ -475,7 +526,7 @@
               }
             },
             {
-              "-id": "9633350788",
+              "-id": "9633934690",
               "-ft": "20220617190000",
               "-to": "20220617195500",
               "-ftl": "1900",
@@ -546,7 +597,7 @@
               }
             },
             {
-              "-id": "9633231602",
+              "-id": "9633934703",
               "-ft": "20220617200000",
               "-to": "20220617203000",
               "-ftl": "2000",
@@ -823,7 +874,7 @@
               }
             },
             {
-              "-id": "9633575596",
+              "-id": "9633986684",
               "-ft": "20220618030000",
               "-to": "20220618050000",
               "-ftl": "2700",
