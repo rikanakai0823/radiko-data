@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1656266669",
+    "srvtime": "1656353006",
     "stations": {
       "station": {
         "-id": "KBS",
@@ -757,7 +757,7 @@
               }
             },
             {
-              "-id": "9635808887",
+              "-id": "9636739156",
               "-ft": "20220625210000",
               "-to": "20220625212000",
               "-ftl": "2100",
@@ -769,9 +769,14 @@
               "ts_out_ng": "0",
               "pfm": "熊木杏里",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/xj34zrbrlq.png",
-              "tag": {
-                "item": {
-                  "name": "熊木杏里"
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
