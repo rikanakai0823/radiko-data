@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1656353107",
+    "srvtime": "1656612284",
     "stations": {
       "station": {
         "-id": "OBS",
@@ -262,12 +262,12 @@
               }
             },
             {
-              "-id": "9636581802",
+              "-id": "9637281527",
               "-ft": "20220703065500",
-              "-to": "20220703071500",
+              "-to": "20220703070000",
               "-ftl": "0655",
-              "-tol": "0715",
-              "-dur": "1200",
+              "-tol": "0700",
+              "-dur": "300",
               "title": "くらしのたより",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -282,6 +282,32 @@
                 "program": {
                   "-id": "P003",
                   "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9637288772",
+              "-ft": "20220703070000",
+              "-to": "20220703071500",
+              "-ftl": "0700",
+              "-tol": "0715",
+              "-dur": "900",
+              "title": "ときめきショッピング",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/OBS/19f74227-a658-4874-ac8e-7c0663bee4d1.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
