@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1656958081",
+    "srvtime": "1657217288",
     "stations": {
       "station": {
         "-id": "ALPHA-STATION",
@@ -10,7 +10,7 @@
           "date": "20220710",
           "prog": [
             {
-              "-id": "9638217561",
+              "-id": "9638838183",
               "-ft": "20220710050000",
               "-to": "20220710060000",
               "-ftl": "0500",
@@ -204,7 +204,7 @@
               }
             },
             {
-              "-id": "9638217788",
+              "-id": "9638838379",
               "-ft": "20220710110000",
               "-to": "20220710120000",
               "-ftl": "1100",
@@ -702,12 +702,12 @@
               }
             },
             {
-              "-id": "9637911118",
+              "-id": "9638730422",
               "-ft": "20220710210000",
-              "-to": "20220711000000",
+              "-to": "20220710230000",
               "-ftl": "2100",
-              "-tol": "2400",
-              "-dur": "10800",
+              "-tol": "2300",
+              "-dur": "7200",
               "title": "Another Music Studio",
               "url": "http://fm-kyoto.jp/blog/another_music_studio/",
               "failed_record": "0",
@@ -754,6 +754,39 @@
                   {
                     "-name": "twitter",
                     "-value": "from:AMS_FMKYOTO"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9638730467",
+              "-ft": "20220710230000",
+              "-to": "20220711000000",
+              "-ftl": "2300",
+              "-tol": "2400",
+              "-dur": "3600",
+              "title": "Jazz Clock - for the NIGHT",
+              "url": "https://fm-kyoto.jp/information/info-90720/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "移ろう時間の中に人それぞれの生活があり、リズムがある・・・。夜のための、夜に映えるジャズセレクションをお楽しみください。selected by JJazz.Net\n",
+              "info": "<br /><br /> <p>twitterアカウントは「<a href=\"http://twitter.com/fmkyoto\">@fmkyoto</a>」</p> <p>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%CE%B1STATION\">#αSTATION</a>」</p> <p>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23FM%E4%BA%AC%E9%83%BD\">#FM京都</a>」</p> ",
+              "pfm": "NON-DJ(Jazz Clock)",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ALPHA-STATION/67afb257-2b60-4b5f-9cef-779bacafe559.jpeg",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#αSTATION"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "#FM京都"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:fmkyoto"
                   }
                 ]
               }
