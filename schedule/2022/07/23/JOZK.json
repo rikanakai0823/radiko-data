@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1658081363",
+    "srvtime": "1658254093",
     "stations": {
       "station": {
         "-id": "JOZK",
@@ -351,12 +351,51 @@
               }
             },
             {
-              "-id": "9640569623",
+              "-id": "9641218283",
               "-ft": "20220723095500",
-              "-to": "20220723115500",
+              "-to": "20220723100000",
               "-ftl": "0955",
+              "-tol": "1000",
+              "-dur": "300",
+              "title": "天気予報・おしらせ",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOZK/b8838340-0d20-4360-9025-c72e4ce51f0c.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641211743",
+              "-ft": "20220723100000",
+              "-to": "20220723100500",
+              "-ftl": "1000",
+              "-tol": "1005",
+              "-dur": "300",
+              "title": "ニュース",
+              "url": "http://www.nhk.or.jp/radionews/",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOZK/3a4d3q8o1u.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641218292",
+              "-ft": "20220723100500",
+              "-to": "20220723115500",
+              "-ftl": "1005",
               "-tol": "1155",
-              "-dur": "7200",
+              "-dur": "6600",
               "title": "この時間はＮＨＫネットラジオではお聞き頂けません。ラジオのみで放送しています。",
               "failed_record": "0",
               "ts_in_ng": "2",
@@ -429,139 +468,17 @@
               }
             },
             {
-              "-id": "9640569637",
+              "-id": "9641218322",
               "-ft": "20220723121500",
-              "-to": "20220723130000",
+              "-to": "20220723150000",
               "-ftl": "1215",
-              "-tol": "1300",
-              "-dur": "2700",
+              "-tol": "1500",
+              "-dur": "9900",
               "title": "この時間はＮＨＫネットラジオではお聞き頂けません。ラジオのみで放送しています。",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOZK/b8838340-0d20-4360-9025-c72e4ce51f0c.png",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9640575514",
-              "-ft": "20220723130000",
-              "-to": "20220723130500",
-              "-ftl": "1300",
-              "-tol": "1305",
-              "-dur": "300",
-              "title": "ニュース",
-              "url": "http://www.nhk.or.jp/radionews/",
-              "failed_record": "0",
-              "ts_in_ng": "2",
-              "ts_out_ng": "2",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOZK/3a4d3q8o1u.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9640636888",
-              "-ft": "20220723130500",
-              "-to": "20220723135500",
-              "-ftl": "1305",
-              "-tol": "1355",
-              "-dur": "3000",
-              "title": "真打ち競演",
-              "url": "https://www4.nhk.or.jp/P632/",
-              "failed_record": "0",
-              "ts_in_ng": "2",
-              "ts_out_ng": "2",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOZK/hdrvxa7cf8.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9640575522",
-              "-ft": "20220723135500",
-              "-to": "20220723140000",
-              "-ftl": "1355",
-              "-tol": "1400",
-              "-dur": "300",
-              "title": "ニュース・天気予報",
-              "url": "http://www.nhk.or.jp/radionews/",
-              "failed_record": "0",
-              "ts_in_ng": "2",
-              "ts_out_ng": "2",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOZK/3a4d3q8o1u.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9640575530",
-              "-ft": "20220723140000",
-              "-to": "20220723140500",
-              "-ftl": "1400",
-              "-tol": "1405",
-              "-dur": "300",
-              "title": "ニュース",
-              "url": "http://www.nhk.or.jp/radionews/",
-              "failed_record": "0",
-              "ts_in_ng": "2",
-              "ts_out_ng": "2",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOZK/3a4d3q8o1u.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9640667069",
-              "-ft": "20220723140500",
-              "-to": "20220723145500",
-              "-ftl": "1405",
-              "-tol": "1455",
-              "-dur": "3000",
-              "title": "ディスカバー・カーペンターズ　▽サークル・オブ・カーペンターズ第２回",
-              "url": "https://www.nhk.jp/p/carpenters2022/rs/JZVJMXPKV4/",
-              "failed_record": "0",
-              "ts_in_ng": "2",
-              "ts_out_ng": "2",
-              "info": "Ｃｉｒｃｌｅ ｏｆ Ｃａｒｐｅｎｔｅｒｓ～／平松愛理＆矢口清治<br><br>“Ｃｉｒｃｌｅ ｏｆ Ｃａｒｐｅｎｔｅｒｓ”第２回は、カーペンターズにとってやはり重要なクリエイターたち、ポール・ウィリアムス、ロジャー・ニコルズ、そしてリオン・ラッセルにフォーカスし、カーペンターズとのかかわりをひもとく。",
-              "pfm": "【ＤＪ】平松愛理，【解説】矢口清治",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOZK/jx4zg2eosw.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9640575538",
-              "-ft": "20220723145500",
-              "-to": "20220723150000",
-              "-ftl": "1455",
-              "-tol": "1500",
-              "-dur": "300",
-              "title": "ニュース・天気予報",
-              "url": "http://www.nhk.or.jp/radionews/",
-              "failed_record": "0",
-              "ts_in_ng": "2",
-              "ts_out_ng": "2",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOZK/3a4d3q8o1u.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
