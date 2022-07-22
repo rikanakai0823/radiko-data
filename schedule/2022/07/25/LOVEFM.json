@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1658426884",
+    "srvtime": "1658513333",
     "stations": {
       "station": {
         "-id": "LOVEFM",
@@ -184,7 +184,7 @@
               }
             },
             {
-              "-id": "9641662363",
+              "-id": "9641830181",
               "-ft": "20220725120000",
               "-to": "20220725150000",
               "-ftl": "1200",
@@ -199,8 +199,41 @@
               "pfm": "藤田じゅん",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LOVEFM/j0fvbs3hha.jpg",
               "tag": {
-                "item": {
-                  "name": "WITHDOM"
+                "item": [
+                  {
+                    "name": "WITHDOM"
+                  },
+                  {
+                    "name": "藤田じゅん"
+                  },
+                  {
+                    "name": "ビジネス情報"
+                  },
+                  {
+                    "name": "海外情報"
+                  },
+                  {
+                    "name": "情報"
+                  },
+                  {
+                    "name": "MUSIC"
+                  },
+                  {
+                    "name": "NEWS"
+                  },
+                  {
+                    "name": "WEATHER"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -336,7 +369,7 @@
               }
             },
             {
-              "-id": "9641654934",
+              "-id": "9641821917",
               "-ft": "20220725210000",
               "-to": "20220725213000",
               "-ftl": "2100",
@@ -357,7 +390,7 @@
               }
             },
             {
-              "-id": "9641662443",
+              "-id": "9641833217",
               "-ft": "20220725213000",
               "-to": "20220725230000",
               "-ftl": "2130",
@@ -371,6 +404,29 @@
               "info": "<p>月明かりの下で静かに虫の声に耳を傾けるように、今日一日を振り返り、明日に向かう準備をするための時間。<br />良いことは胸に保存、悪いことは昨日に置いて行こう。</p><p><br /><br /><a href=\"http://lovefm.co.jp/gekka_chune/blogs\" target=\"_blank\">漫画ブログ：大田こぞう作イキモノ漫画『アナシ』出発進行！</a></p><p> </p><p> </p>",
               "pfm": "大田こぞう",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LOVEFM/9fnprixayw.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "大田こぞう"
+                  },
+                  {
+                    "name": "昆虫DJ"
+                  },
+                  {
+                    "name": "昆虫"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

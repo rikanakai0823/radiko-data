@@ -1,0 +1,950 @@
+{
+  "radiko": {
+    "ttl": "1800",
+    "srvtime": "1658513377",
+    "stations": {
+      "station": {
+        "-id": "RN1",
+        "name": "ラジオNIKKEI第1",
+        "progs": {
+          "date": "20220728",
+          "prog": [
+            {
+              "-id": "9641935658",
+              "-ft": "20220728050000",
+              "-to": "20220728071000",
+              "-ftl": "0500",
+              "-tol": "0710",
+              "-dur": "7800",
+              "title": "番組休止中",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/d548ca77-a3d3-4df6-a80e-0f071dccf11d.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935712",
+              "-ft": "20220728071000",
+              "-to": "20220728071500",
+              "-ftl": "0710",
+              "-tol": "0715",
+              "-dur": "300",
+              "title": "開始アナウンス",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/d548ca77-a3d3-4df6-a80e-0f071dccf11d.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935713",
+              "-ft": "20220728071500",
+              "-to": "20220728072500",
+              "-ftl": "0715",
+              "-tol": "0725",
+              "-dur": "600",
+              "title": "ミュージックアプリ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "Yellow Magic Orchestra「東風」「Firecracker」",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/uxxs6fu67c.png",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935715",
+              "-ft": "20220728072500",
+              "-to": "20220728074500",
+              "-ftl": "0725",
+              "-tol": "0745",
+              "-dur": "1200",
+              "title": "実践！Let's Read the Nikkei in English",
+              "url": "http://www.radionikkei.jp/lr/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "英語に親しむ「英活」20分。<br> ビジネスパーソンから英語教師、英語学習者の知的好奇心を刺激する番組です。<br> <br> 「今週のニュース」では、英語と経済を同時に学びます。『NikkeiAsia』（日本経済新聞社）の英字記事で、時事英語やビジネス英語など、生きた英語をお伝えします。",
+              "pfm": "Gregory Clark / 奥村茂三郎 / 福田雄大 / 森下薫 / 多田記子 / Jeffrey Swiggum",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/6420h4kpyg.png",
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935719",
+              "-ft": "20220728074500",
+              "-to": "20220728075000",
+              "-ftl": "0745",
+              "-tol": "0750",
+              "-dur": "300",
+              "title": "光とともに",
+              "url": "http://www.radionikkei.jp/hikari/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "キリスト教の教えから幸せな生き方の秘訣をお伝えするショートメッセージをお届けします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/o4di7ocnw5.png",
+              "genre": {
+                "program": {
+                  "-id": "P016",
+                  "name": "宗教"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935720",
+              "-ft": "20220728075000",
+              "-to": "20220728080000",
+              "-ftl": "0750",
+              "-tol": "0800",
+              "-dur": "600",
+              "title": "日経電子版NEWS",
+              "url": "http://www.radionikkei.jp/ndn/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "日経電子版から、平日は朝・昼・夕の3回、土曜日・日曜日・祝日は朝・夕の2回、ホットニュースをピックアップしてお届けします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/5f299bmf05.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935726",
+              "-ft": "20220728080000",
+              "-to": "20220728084000",
+              "-ftl": "0800",
+              "-tol": "0840",
+              "-dur": "2400",
+              "title": "おはようマーケット",
+              "url": "http://www.radionikkei.jp/ohayo/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "番組では「前日の海外市場の動向」「今朝の株価材料／今日の予定」「決算関連のニュース／その他のニュース（経済指標等）」「日経平均先物の動向」などをお伝えします。<br> 本日の詳しい出演者の情報は、『おはようマーケット』のホームページでもご紹介しています。キャスターは浜田節子アナウンサーです。<br> （8時40分からは『早見雄二郎のズバリ投資作戦』をお送りします。）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/.di1wd03op.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935734",
+              "-ft": "20220728084000",
+              "-to": "20220728085500",
+              "-ftl": "0840",
+              "-tol": "0855",
+              "-dur": "900",
+              "title": "早見雄二郎のズバリ投資作戦",
+              "url": "http://market.radionikkei.jp/hayami/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "証券界で話題の株式評論家・早見雄二郎による鋭い相場観やテクニカル分析、絞り込んだ参考銘柄が大評判の番組。全市場参加者は要注目！",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/avflrskm86.png",
+              "genre": {
+                "program": {
+                  "-id": "P020",
+                  "name": "株/投資"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935736",
+              "-ft": "20220728085500",
+              "-to": "20220728090000",
+              "-ftl": "0855",
+              "-tol": "0900",
+              "-dur": "300",
+              "title": "おはようマーケット",
+              "url": "http://www.radionikkei.jp/ohayo/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "番組では「前日の海外市場の動向」「今朝の株価材料／今日の予定」「決算関連のニュース／その他のニュース（経済指標等）」「日経平均先物の動向」などをお伝えします。<br> 本日の詳しい出演者の情報は、『おはようマーケット』のホームページでもご紹介しています。キャスターは浜田節子アナウンサーです。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/.di1wd03op.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935746",
+              "-ft": "20220728090000",
+              "-to": "20220728113500",
+              "-ftl": "0900",
+              "-tol": "1135",
+              "-dur": "9300",
+              "title": "マーケットプレス 前場",
+              "url": "http://market.radionikkei.jp/marketpress/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "東京株式市場の株式情報を中心に、為替・商品の情報や経済ニュースなどを生放送でお送りします。ラジオNIKKEIの記者たちが集めた投資情報をリアルタイムでレポートします。<br> <br> 番組公式ブログ：<a href=\"http://market.radionikkei.jp/marketpress/\">http://market.radionikkei.jp/marketpress/</a><br> <br> twitterアカウントは「<a href=\"http://twitter.com/market_press\">@market_press</a>」<br> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23market_press\">#market_press</a>」です。<br> 皆様からのお声をお待ちしています。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/a911965e-8a41-42a1-9aa0-3330eb46c1ec.png",
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                },
+                "program": {
+                  "-id": "P020",
+                  "name": "株/投資"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#market_press"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:market_press"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9641935777",
+              "-ft": "20220728113500",
+              "-to": "20220728120000",
+              "-ftl": "1135",
+              "-tol": "1200",
+              "-dur": "1500",
+              "title": "日経新聞を読んで",
+              "url": "http://www.radionikkei.jp/yonde/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "エコノミストや大学教授などをコメンテーターに迎え、最近の日経新聞の注目記事をピックアップ。解説と今後の展望をお送りします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/ehru7tsgob.png",
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                },
+                "program": {
+                  "-id": "P013",
+                  "name": "経済"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935782",
+              "-ft": "20220728120000",
+              "-to": "20220728123000",
+              "-ftl": "1200",
+              "-tol": "1230",
+              "-dur": "1800",
+              "title": "ミュージックアプリ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "Nina Simone「My Baby Just Cares For Me」<br> NatKing Cole「Let ThereBe Love」<br> Shirley Bassey「(Where Do IBegin)Love Story」<br> Cassandra Wilson「Fragile」<br> MamaCass「DreamA LittleDream Of Me」<br> Jackie DeShannon「WhatThe WorldNeeds NowIs Love」<br> Crystal Gayle「Don't It Make My BrownEyes Blue」<br> Bobbie Gentry「I'll Never Fall InLove Again」<br> Eliane Elias「Girl FromIpanema」",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/uxxs6fu67c.png",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935788",
+              "-ft": "20220728123000",
+              "-to": "20220728125300",
+              "-ftl": "1230",
+              "-tol": "1253",
+              "-dur": "1380",
+              "title": "マーケットプレス 後場",
+              "url": "http://market.radionikkei.jp/marketpress/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "東京株式市場の株式情報を中心に、為替・商品の情報や経済ニュースなどを生放送でお送りします。ラジオNIKKEIの記者たちが集めた投資情報をリアルタイムでレポートします。<br> <br> 番組公式ブログ：<a href=\"http://market.radionikkei.jp/marketpress/\">http://market.radionikkei.jp/marketpress/</a><br> <br> twitterアカウントは「<a href=\"http://twitter.com/market_press\">@market_press</a>」<br> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23market_press\">#market_press</a>」です。<br> 皆様からのお声をお待ちしています。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/a911965e-8a41-42a1-9aa0-3330eb46c1ec.png",
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                },
+                "program": {
+                  "-id": "P020",
+                  "name": "株/投資"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#market_press"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:market_press"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9641935789",
+              "-ft": "20220728125300",
+              "-to": "20220728130000",
+              "-ftl": "1253",
+              "-tol": "1300",
+              "-dur": "420",
+              "title": "日経電子版NEWS",
+              "url": "http://www.radionikkei.jp/ndn/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "日経電子版から、平日は朝・昼・夕の3回、土曜日・日曜日・祝日は朝・夕の2回、ホットニュースをピックアップしてお届けします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/5f299bmf05.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935800",
+              "-ft": "20220728130000",
+              "-to": "20220728143000",
+              "-ftl": "1300",
+              "-tol": "1430",
+              "-dur": "5400",
+              "title": "マーケットプレス 後場",
+              "url": "http://market.radionikkei.jp/marketpress/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "東京株式市場の株式情報を中心に、為替・商品の情報や経済ニュースなどを生放送でお送りします。ラジオNIKKEIの記者たちが集めた投資情報をリアルタイムでレポートします。<br> <br> 番組公式ブログ：<a href=\"http://market.radionikkei.jp/marketpress/\">http://market.radionikkei.jp/marketpress/</a><br> <br> twitterアカウントは「<a href=\"http://twitter.com/market_press\">@market_press</a>」<br> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23market_press\">#market_press</a>」です。<br> 皆様からのお声をお待ちしています。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/a911965e-8a41-42a1-9aa0-3330eb46c1ec.png",
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                },
+                "program": {
+                  "-id": "P020",
+                  "name": "株/投資"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#market_press"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:market_press"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9641935821",
+              "-ft": "20220728143000",
+              "-to": "20220728160000",
+              "-ftl": "1430",
+              "-tol": "1600",
+              "-dur": "5400",
+              "title": "ザ・マネー",
+              "url": "http://market.radionikkei.jp/themoney/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "「ザ・マネー」木曜日は、「鎌田伸一のマーケットアドベンチャー」と題して、 鎌田伸一がホットなマーケット情報などをお届けします。",
+              "pfm": "鎌田伸一",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/97862097-63e3-4b1c-8bf3-eeb91bc521ce.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935852",
+              "-ft": "20220728160000",
+              "-to": "20220728163000",
+              "-ftl": "1600",
+              "-tol": "1630",
+              "-dur": "1800",
+              "title": "ザ☆スマート・トレーダーPLUS",
+              "url": "http://market.radionikkei.jp/thesmart/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "“うっち”こと内田まさみキャスターが、FX・株式などのヴァーチャルトレード「FX／株式ダービー」で、リスナーの皆さんと腕試し！毎週出されるミッションとそのトレードの結果を検証。実践的な投資手法を学びながらスマートなトレーダーになるための、リスナー参加型番組です。<br> コメンテーターはおなじみ、IFTA国際検定テクニカルアナリスト福永博之が務めます。<br> 詳細は番組サイトから。皆さんの参加をお待ちしています。<br> <br> twitterアカウントは「<a href=\"http://twitter.com/smatrader\">@smatrader</a>」<br> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23smatre\">#smatre</a>」です。",
+              "pfm": "福永博之 / 内田まさみ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/b3nfrixri5.png",
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                },
+                "program": {
+                  "-id": "P020",
+                  "name": "株/投資"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#smatre"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:smatrader"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9641935860",
+              "-ft": "20220728163000",
+              "-to": "20220728175000",
+              "-ftl": "1630",
+              "-tol": "1750",
+              "-dur": "4800",
+              "title": "しゃべくりカブカブ！",
+              "url": "http://market.radionikkei.jp/kabukabu/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "坂本慎太郎・馬渕磨理子が送る、株式投資家のための株式投資番組！",
+              "pfm": "坂本慎太郎 / 馬渕磨理子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/5b3e552c-c8ad-49a2-84e4-59bdcdb32206.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935892",
+              "-ft": "20220728175000",
+              "-to": "20220728180000",
+              "-ftl": "1750",
+              "-tol": "1800",
+              "-dur": "600",
+              "title": "日経電子版NEWS",
+              "url": "http://www.radionikkei.jp/ndn/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "日経電子版から、平日は朝・昼・夕の3回、土曜日・日曜日・祝日は朝・夕の2回、ホットニュースをピックアップしてお届けします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/5f299bmf05.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935903",
+              "-ft": "20220728180000",
+              "-to": "20220728190000",
+              "-ftl": "1800",
+              "-tol": "1900",
+              "-dur": "3600",
+              "title": "ラジオiNEWS",
+              "url": "http://www.radionikkei.jp/inews/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "「旬な有名人×旬なニュース」をコンセプトにお送りするニュースバラエティ番組です。<br> いまをときめく旬なアイドルが、1ヵ月ぶっ通しでメインパーソナリティを務めます。 毎回、ニュースを読んだり、ニュースに関するクイズに挑戦したり、盛りだくさんの企画を、日経新聞の編集委員とともにお送りします。",
+              "pfm": "【解説】鈴木亮（日本経済新聞編集委員） 【進行】栗林さみ（フリーアナウンサー）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/38o2pfs54c.png",
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935914",
+              "-ft": "20220728190000",
+              "-to": "20220728193000",
+              "-ftl": "1900",
+              "-tol": "1930",
+              "-dur": "1800",
+              "title": "私を競馬につれてって",
+              "url": "http://www.radionikkei.jp/keiba_love/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "競馬ビギナーでも存分に楽しめる！馬券はもちろん、グルメやイベント、グッとくるお馬さんの物語など、競馬の魅力をお伝えする情報満載でお送りします。番組を聴いて週末は競馬場に行こう！<br> <br> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E7%A7%81%E3%82%92%E7%AB%B6%E9%A6%AC%E3%81%AB%E3%81%A4%E3%82%8C%E3%81%A6%E3%81%A3%E3%81%A6\">#私を競馬につれてって</a>」です。",
+              "pfm": "藤江れいな / 小塚歩 / 大関隼 / 米田元気 / 山本直 / 小屋敷彰吾",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/sqb6cgofwo.png",
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#私を競馬につれてって"
+                }
+              }
+            },
+            {
+              "-id": "9641935919",
+              "-ft": "20220728193000",
+              "-to": "20220728200000",
+              "-ftl": "1930",
+              "-tol": "2000",
+              "-dur": "1800",
+              "title": "RaNi Music♪AfterDinner",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "▼プレイリスト▼<br />19:30 ロビンソン/スピッツ<br />19:34 Emotions/Mariah Carey<br />19:38 君は天然色/大滝詠一<br />19:43 Verge feat. Aloe Blacc/Owl City<br />19:46 Paradise feat. Walk off the Earth/Nicky Romero & Deniz Koyu<br />19:50 アンコール/YOASOBI<br />19:54 There Must Be An Angel/Eurythmics<br /><br /><a href='https://rn2service.radionikkei.jp/rn1af.php?n=20220728193000'><img src='https://rn2service.radionikkei.jp/noa/radikoimg/playprevb.jpg' /> <em>前回のRaNi Music♪ AfterDinnerへ</em></a><br /><br /><a href='https://rn2service.radionikkei.jp/rn1af.php?n=20220728193000&rf=ff'><img src='https://rn2service.radionikkei.jp/noa/radikoimg/playnextb.jpg' /> <em>次回のRaNi Music♪ AfterDinnerへ</em></a><br />",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/a56a9dc0-485f-4cce-8a15-3aac94dfa310.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935927",
+              "-ft": "20220728200000",
+              "-to": "20220728201500",
+              "-ftl": "2000",
+              "-tol": "2015",
+              "-dur": "900",
+              "title": "稲村亜美のココシロ！インターン",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/yr608gdqkm.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935931",
+              "-ft": "20220728201500",
+              "-to": "20220728202000",
+              "-ftl": "2015",
+              "-tol": "2020",
+              "-dur": "300",
+              "title": "おすすめラニィちゃん",
+              "url": "http://www.radionikkei.jp/rani/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/267a5fab-5fe6-451a-9370-bdbc20f3550e.png",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935932",
+              "-ft": "20220728202000",
+              "-to": "20220728205000",
+              "-ftl": "2020",
+              "-tol": "2050",
+              "-dur": "1800",
+              "title": "石川温のスマホNo.1メディア",
+              "url": "http://www.radionikkei.jp/spno1/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "世界中を飛び回って取材するスマホ／ケータイジャーナリストの石川温さんをパーソナリティに迎えてお送りするスマホ情報番組。<br> 最新情報からお役立ち情報まで、スマートフォンに関連する幅広い情報をお届けします。<br> <br> twitterアカウントは「<a href=\"http://twitter.com/spno1media\">@spno1media</a>」<br> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23spno1\">#spno1</a>」です。",
+              "pfm": "石川温 / 松代有生",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/e3cd6cf1-4c8c-4f35-bf59-708fd39a9deb.png",
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                },
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#spno1"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:spno1media"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9641935935",
+              "-ft": "20220728205000",
+              "-to": "20220728210000",
+              "-ftl": "2050",
+              "-tol": "2100",
+              "-dur": "600",
+              "title": "競馬が好きだ！",
+              "url": "http://www.radionikkei.jp/keibagasukida/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "ラジオNIKKEIの競馬実況アナウンサーが日替わりで登場。競馬のデイリーニュースから競馬関係者の声まで、競馬情報と愛情たっぷりの番組です。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/9144647c-7ee4-445c-8f50-e0774c5a556a.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "アナウンサー"
+                  },
+                  {
+                    "name": "競馬"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P019",
+                  "name": "公営競技"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935947",
+              "-ft": "20220728210000",
+              "-to": "20220728213000",
+              "-ftl": "2100",
+              "-tol": "2130",
+              "-dur": "1800",
+              "title": "RaNi Music♪Night",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "▼プレイリスト▼<br />21:00 君に、胸キュン。（浮気なヴァカンス）/YMO<br />21:04 If You Leave/OMD<br />21:08 RECIPE (レシピ)/山下達郎<br />21:12 Desperado/Carpenters<br />21:15 A New Day/Beverly<br />21:20 I Still Wanna Know feat. Rivers Cuomo/RAC<br />21:24 長い間/Kiroro<br /><br /><a href='https://rn2service.radionikkei.jp/rn1nt.php?n=20220728210000'><img src='https://rn2service.radionikkei.jp/noa/radikoimg/playprevb.jpg' /> <em>前回のRaNi Music♪ Nightへ</em></a><br /><br /><a href='https://rn2service.radionikkei.jp/rn1nt.php?n=20220728210000&rf=ff'><img src='https://rn2service.radionikkei.jp/noa/radikoimg/playnextb.jpg' /> <em>次回のRaNi Music♪ Nightへ</em></a><br />",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/a45d9c92-a48e-4cba-b7b0-c7ef7c104002.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935957",
+              "-ft": "20220728213000",
+              "-to": "20220728223000",
+              "-ftl": "2130",
+              "-tol": "2230",
+              "-dur": "3600",
+              "title": "LOGOS presents CAMP RADIO",
+              "url": "http://www.radionikkei.jp/campradio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "タレント・女優のMEGUMIが毎回ゲストを招いてキャンプやアウトドアの楽しい“外遊び”を伺っていくトーク番組。 2008年に男児をもうけてから、公園や海、山など自然の多い場所へ行き、その魅力、学び、大切さに気付いた一児のママであるMEGUMIの目線で「アウトドアをすること＝Outing」の楽しさを伝えます。",
+              "pfm": "MEGUMI",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/bb52c7cf-c3a3-4898-ae2a-9c265f7828c4.png",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935979",
+              "-ft": "20220728223000",
+              "-to": "20220728230000",
+              "-ftl": "2230",
+              "-tol": "2300",
+              "-dur": "1800",
+              "title": "テイスト・オブ・ジャズ",
+              "url": "http://www.radionikkei.jp/music/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "民放ラジオ最長寿級のジャズ番組「テイスト・オブ・ジャズ」。<br> 進行役は、フリーアナウンサーの山本郁。毎回ミュージシャン、シンガー、ジャズ関係者などをスタジオに招き、そのゲストにゆかりの曲をかけてジャズ・トークをお届けします。ジャズ的なユルめのトークが人気です。<br> 外来ミュージシャンのゲスト出演も多く、日本のミュージシャンでは、ベテランから新鋭まで多数のゲストにお越しいただいています。ゲストミュージシャンの多彩な顔触れと、他ではみられない（聴けない？）素顔（素声？）にご注目ください。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/0k8y3uq9ls.png",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935985",
+              "-ft": "20220728230000",
+              "-to": "20220728231500",
+              "-ftl": "2300",
+              "-tol": "2315",
+              "-dur": "900",
+              "title": "ドクターサロン",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "医療に携わる方々に最新の知見をお届けする専門番組です。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/00835277-38cd-44fd-abb3-6144fa9c2c3b.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935988",
+              "-ft": "20220728231500",
+              "-to": "20220728233000",
+              "-ftl": "2315",
+              "-tol": "2330",
+              "-dur": "900",
+              "title": "薬学の時間",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "医療に携わる方々に最新の知見をお届けする専門番組です。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/d548ca77-a3d3-4df6-a80e-0f071dccf11d.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641935992",
+              "-ft": "20220728233000",
+              "-to": "20220728235000",
+              "-ftl": "2330",
+              "-tol": "2350",
+              "-dur": "1200",
+              "title": "井手口直子のメディカル・カフェ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "医療従事者や患者関係者、学生などへ向けたトーク番組です。<br> 帝京平成大学薬学部教授の井手口直子さんが、ゲストにお話をうかがいます。<br> <br> ゲスト：横田裕行<br> <a href=\"http://medical.radionikkei.jp/yakuzaishi-go/\">http://medical.radionikkei.jp/yakuzaishi-go/</a><br> <br> twitterアカウントは「<a href=\"http://twitter.com/medical_cafe\">@medical_cafe</a>」です。",
+              "pfm": "井手口直子 / 横田裕行",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/9r821ekfr7.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "from:medical_cafe"
+                }
+              }
+            },
+            {
+              "-id": "9641935995",
+              "-ft": "20220728235000",
+              "-to": "20220729000000",
+              "-ftl": "2350",
+              "-tol": "2400",
+              "-dur": "600",
+              "title": "おやすみラニィちゃん",
+              "url": "http://www.radionikkei.jp/rani/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "こんばんは、ラジオNIKKEI公式マスコットのラニィです。今日もラジオNIKKEIをお聴きいただき、ありがとうございました。おやすみ前のひとときに音楽をどうぞ。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/abac0bd3-abdb-4050-8c3e-df36d8fd5e69.png",
+              "genre": {
+                "personality": {
+                  "-id": "C006",
+                  "name": "女性声優"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9641936006",
+              "-ft": "20220729000000",
+              "-to": "20220729045900",
+              "-ftl": "2400",
+              "-tol": "2859",
+              "-dur": "17940",
+              "title": "番組休止中",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/d548ca77-a3d3-4df6-a80e-0f071dccf11d.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
