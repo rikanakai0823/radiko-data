@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1658772457",
+    "srvtime": "1658858827",
     "stations": {
       "station": {
         "-id": "JRT",
@@ -148,7 +148,7 @@
               }
             },
             {
-              "-id": "9642506394",
+              "-id": "9642671314",
               "-ft": "20220726053000",
               "-to": "20220726063000",
               "-ftl": "0530",
@@ -507,12 +507,12 @@
               }
             },
             {
-              "-id": "9642506508",
+              "-id": "9642679080",
               "-ft": "20220726095500",
-              "-to": "20220726123500",
+              "-to": "20220726120000",
               "-ftl": "0955",
-              "-tol": "1235",
-              "-dur": "9600",
+              "-tol": "1200",
+              "-dur": "7500",
               "title": "第104回全国高校野球徳島大会準決勝第一試合",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -538,7 +538,92 @@
               }
             },
             {
-              "-id": "9642506554",
+              "-id": "9642675501",
+              "-ft": "20220726120000",
+              "-to": "20220726120700",
+              "-ftl": "1200",
+              "-tol": "1207",
+              "-dur": "420",
+              "title": "ランチタイムニュース",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/28bdc741-9578-4afb-b8cf-21c74992bbdc.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9642675502",
+              "-ft": "20220726120700",
+              "-to": "20220726121000",
+              "-ftl": "1207",
+              "-tol": "1210",
+              "-dur": "180",
+              "title": "徳島新聞ニュース",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "四国放送アナウンサー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/2d7d8df1-d3bc-46a2-a530-e115ee174db5.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9642675503",
+              "-ft": "20220726121000",
+              "-to": "20220726121500",
+              "-ftl": "1210",
+              "-tol": "1215",
+              "-dur": "300",
+              "title": "天気予報",
+              "url": "https://www.jrt.co.jp/weather",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "四国放送アナウンサー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/3c19a31d-fd19-4310-9233-1f552441b395.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9642679099",
+              "-ft": "20220726121500",
+              "-to": "20220726123500",
+              "-ftl": "1215",
+              "-tol": "1235",
+              "-dur": "1200",
+              "title": "くるまなび",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "info": "車を運転するに当たってドライバーや同乗者の安全を守るために必要な知識や技術に関する情報をお届けします。",
+              "pfm": "神原智己",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/c2917a6f-245f-4fa5-9e6a-f00943dcf282.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9642699866",
               "-ft": "20220726123500",
               "-to": "20220726125500",
               "-ftl": "1235",
@@ -736,12 +821,52 @@
               }
             },
             {
-              "-id": "9642598611",
+              "-id": "9642679112",
               "-ft": "20220726132000",
-              "-to": "20220726163000",
+              "-to": "20220726132500",
               "-ftl": "1320",
+              "-tol": "1325",
+              "-dur": "300",
+              "title": "ニュース・天気・音楽",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/7e5c28d7-0c85-4a66-8c81-5a0cee890c42.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "天気予報"
+                  },
+                  {
+                    "name": "交通情報"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9642688766",
+              "-ft": "20220726132500",
+              "-to": "20220726163000",
+              "-ftl": "1325",
               "-tol": "1630",
-              "-dur": "11400",
+              "-dur": "11100",
               "title": "第104回全国高校野球徳島大会準決勝第二試合",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -749,16 +874,6 @@
               "desc": "徳島商業高校－鳴門渦潮高校",
               "pfm": "解説・川原良正/実況・森本真司",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/4df4a55f-046f-47db-85a9-3e4b49b2129b.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -841,7 +956,7 @@
               }
             },
             {
-              "-id": "9642506633",
+              "-id": "9642688815",
               "-ft": "20220726165000",
               "-to": "20220726170000",
               "-ftl": "1650",
@@ -1203,7 +1318,7 @@
               }
             },
             {
-              "-id": "9642506722",
+              "-id": "9642679150",
               "-ft": "20220726210000",
               "-to": "20220726234000",
               "-ftl": "2100",
@@ -1216,7 +1331,7 @@
               "ts_out_ng": "0",
               "desc": "　　",
               "info": "毎週月～金曜日　21:00～23:00<br />（ナイター中継がある日は、ナイター終了時～）<br /><br />みなさんからのリクエストお待ちしています！<br /><br />ハガキ:〒770-8573　四国放送ラジオ「バンリク」 係<br />FAX:088-623-1269<br />メール：<a href=\"mailto:banban@jrt.jp\">banban@jrt.jp</a>",
-              "pfm": "島川未有",
+              "pfm": "豊成春子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/3b5ff370-02ee-4dea-ba1f-cbdadd8f89f2.jpeg",
               "tag": {
                 "item": {
@@ -1310,7 +1425,7 @@
               }
             },
             {
-              "-id": "9642469459",
+              "-id": "9642688948",
               "-ft": "20220727010000",
               "-to": "20220727030000",
               "-ftl": "2500",
