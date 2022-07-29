@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1659031657",
+    "srvtime": "1659118094",
     "stations": {
       "station": {
         "-id": "INT",
@@ -350,7 +350,7 @@
               }
             },
             {
-              "-id": "9641662718",
+              "-id": "9643322698",
               "-ft": "20220728125500",
               "-to": "20220728130000",
               "-ftl": "1255",
@@ -363,6 +363,28 @@
               "ts_out_ng": "0",
               "desc": "interfmが開局以来続けている「P.S.A.」(Public Service Announcement)は、在日外国人に向け、生活情報や災害時の避難場所などの案内を含め、日本での生活に役立つ情報を中心に、各言語でお届けしています。<br /><br />\n国際都市「横浜」にふさわしい、多彩な言語での放送が好評です。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/9ea7ae85-7c55-4c30-8b4d-3687ba469712.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "Spanish"
+                  },
+                  {
+                    "name": "PSA"
+                  },
+                  {
+                    "name": "横浜市"
+                  },
+                  {
+                    "name": "Ciudad de Yokohama"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -581,7 +603,7 @@
               }
             },
             {
-              "-id": "9643105295",
+              "-id": "9643306409",
               "-ft": "20220728160000",
               "-to": "20220728163000",
               "-ftl": "1600",
@@ -600,6 +622,10 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1659031701",
+    "srvtime": "1659118138",
     "stations": {
       "station": {
         "-id": "RAB",
@@ -481,7 +481,7 @@
               }
             },
             {
-              "-id": "9643107214",
+              "-id": "9643304832",
               "-ft": "20220731100000",
               "-to": "20220731110000",
               "-ftl": "1000",
@@ -497,6 +497,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -532,7 +536,7 @@
               }
             },
             {
-              "-id": "9643107249",
+              "-id": "9643304851",
               "-ft": "20220731110500",
               "-to": "20220731113000",
               "-ftl": "1105",
@@ -544,10 +548,19 @@
               "ts_out_ng": "0",
               "pfm": "桜田マコト、ミク",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/dzn2edzldt.png",
+              "tag": {
+                "item": {
+                  "name": "桜田まこと"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -881,7 +894,7 @@
               }
             },
             {
-              "-id": "9643107544",
+              "-id": "9643304992",
               "-ft": "20220731203000",
               "-to": "20220731210000",
               "-ftl": "2030",
@@ -893,10 +906,19 @@
               "ts_out_ng": "0",
               "pfm": "日向坂４６",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/65e4659d-2849-49ef-90d1-094aca7fe540.jpeg",
+              "tag": {
+                "item": {
+                  "name": "日向坂46"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C008",
                   "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
