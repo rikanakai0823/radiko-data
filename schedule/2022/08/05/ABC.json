@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1659636442",
+    "srvtime": "1659722872",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -10,7 +10,7 @@
           "date": "20220805",
           "prog": [
             {
-              "-id": "9644592190",
+              "-id": "9644772138",
               "-ft": "20220805050000",
               "-to": "20220805063000",
               "-ftl": "0500",
@@ -41,6 +41,10 @@
                 ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -104,7 +108,7 @@
               }
             },
             {
-              "-id": "9644592266",
+              "-id": "9644772208",
               "-ft": "20220805090000",
               "-to": "20220805120000",
               "-ftl": "0900",
@@ -138,6 +142,10 @@
                 ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -157,7 +165,7 @@
               }
             },
             {
-              "-id": "9644592285",
+              "-id": "9644772229",
               "-ft": "20220805120000",
               "-to": "20220805150000",
               "-ftl": "1200",
@@ -188,6 +196,10 @@
                 ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -428,12 +440,12 @@
               }
             },
             {
-              "-id": "9643320264",
+              "-id": "9644847694",
               "-ft": "20220805200000",
-              "-to": "20220805210000",
+              "-to": "20220805214000",
               "-ftl": "2000",
-              "-tol": "2100",
-              "-dur": "3600",
+              "-tol": "2140",
+              "-dur": "6000",
               "title": "ＡＢＣフレッシュアップベースボール(2)",
               "url": "https://www.abc1008.com/baseball/",
               "failed_record": "0",
@@ -442,24 +454,7 @@
               "info": "広島―阪神（マツダ）<BR>※試合終了までお届けします<BR>解説：天谷宗一郎<BR>実況：石橋真<BR><BR>（第１予備）<BR>ヤクルト―巨人（神宮）<BR>解説：野村弘樹<BR>実況：師岡正雄<BR><BR>（第２予備）<BR>中日―ＤｅＮＡ（バンテリンＤ）<BR>解説：山本昌<BR>実況：森貴俊<BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc_toraban\">@abc_toraban</a>」<BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23toraban1008\">#toraban1008</a>」<BR><BR><BR>",
               "pfm": "広島―阪神（マツダ）　  ※試合終了までお届けします　  解説：天谷宗一郎　  実況：石橋真　  　  （第１予備）　  ヤクルト―巨人（神宮）　  解説：野村弘樹　  実況：師岡正雄　  　  （第２予備）　  中日―ＤｅＮＡ（バンテリンＤ）　  解説：山本昌　  実況：森貴俊",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "#toraban1008"
-                  },
-                  {
-                    "name": "#ABCフレッシュアップベースボール"
-                  },
-                  {
-                    "name": "ABCラジオ"
-                  }
-                ]
-              },
               "genre": {
-                "personality": {
-                  "-id": "C013",
-                  "name": "アスリート"
-                },
                 "program": {
                   "-id": "P002",
                   "name": "スポーツ"
@@ -479,11 +474,11 @@
               }
             },
             {
-              "-id": "9643206481",
-              "-ft": "20220805210000",
-              "-to": "20220805210500",
-              "-ftl": "2100",
-              "-tol": "2105",
+              "-id": "9644836229",
+              "-ft": "20220805214000",
+              "-to": "20220805214500",
+              "-ftl": "2140",
+              "-tol": "2145",
               "-dur": "300",
               "title": "ＡＢＣニュース＆天気予報",
               "url": "https://www.abc1008.com/",
@@ -491,11 +486,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -504,12 +494,12 @@
               }
             },
             {
-              "-id": "9643317863",
-              "-ft": "20220805210500",
+              "-id": "9644847709",
+              "-ft": "20220805214500",
               "-to": "20220805215000",
-              "-ftl": "2105",
+              "-ftl": "2145",
               "-tol": "2150",
-              "-dur": "2700",
+              "-dur": "300",
               "title": "小早川秀樹のオシマシ！",
               "url": "https://www.abc1008.com/oshimashi/",
               "failed_record": "0",
@@ -518,29 +508,6 @@
               "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_kobayakawa_h.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:om@abc1008.com\">om@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%AA%E3%82%B7%E3%83%9E%E3%82%B7\">#オシマシ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/oshimashi933\">@oshimashi933</a>」<BR><BR><BR>",
               "pfm": "小早川秀樹",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/fc1e666f-0791-4689-8cbe-0860463101d7.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "#ABCラジオ"
-                  },
-                  {
-                    "name": "こばやん"
-                  },
-                  {
-                    "name": "オシマシ"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": [
                   {
