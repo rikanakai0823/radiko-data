@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1659982111",
+    "srvtime": "1660068504",
     "stations": {
       "station": {
         "-id": "CRT",
@@ -10,7 +10,7 @@
           "date": "20220814",
           "prog": [
             {
-              "-id": "9645191688",
+              "-id": "9645595051",
               "-ft": "20220814050000",
               "-to": "20220814080000",
               "-ftl": "0500",
@@ -43,7 +43,7 @@
               }
             },
             {
-              "-id": "9645191846",
+              "-id": "9645595064",
               "-ft": "20220814080000",
               "-to": "20220814110000",
               "-ftl": "0800",
@@ -76,7 +76,7 @@
               }
             },
             {
-              "-id": "9645191980",
+              "-id": "9645595082",
               "-ft": "20220814110000",
               "-to": "20220814130000",
               "-ftl": "1100",
@@ -109,45 +109,126 @@
               }
             },
             {
-              "-id": "9645193338",
+              "-id": "9645626483",
               "-ft": "20220814130000",
-              "-to": "20220814160000",
+              "-to": "20220814140000",
               "-ftl": "1300",
+              "-tol": "1400",
+              "-dur": "3600",
+              "title": "toy box",
+              "url": "http://www.crt-radio.co.jp/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "<br>\ntoy boxただいま放送中!!<br />\nおもちゃ箱のように何でもアリ◎<br />\nパーソナリティーは誰が登場するのか？<br />\n聴いた人だけのお楽しみ<br/>\n<br />\n【番組・コーナー】<br />\n　　13：30～純烈・スーパー銭湯<br />\n　　14：00～サトウヒロコ de SHOW Neo！<br />\n　　15：05～ときめきショッピング<br />\n　　15：30～キラキラ！ママ<br />\n　　15：45～大塚徹の明快人間学<br />\n　　16：00～ダイアモンドユカイのゆかいなラジオ<br />\n　　16：35～あいあいの夢のラブラブミュージック<br />\n<br />\n<br />",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CRT/48c25b9d-7455-4ea5-aee4-74ae66ce67de.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9645626493",
+              "-ft": "20220814140000",
+              "-to": "20220814143000",
+              "-ftl": "1400",
+              "-tol": "1430",
+              "-dur": "1800",
+              "title": "サトウヒロコ de SHOW Neo！",
+              "url": "http://www.crt-radio.co.jp/program/258",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E6%A0%83%E6%9C%A8%E6%94%BE%E9%80%81\">#栃木放送</a>」",
+              "pfm": "サトウヒロコ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CRT/6b3092a4-414e-4097-953d-a98733d656c7.png",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#栃木放送"
+                }
+              }
+            },
+            {
+              "-id": "9645626494",
+              "-ft": "20220814143000",
+              "-to": "20220814154500",
+              "-ftl": "1430",
+              "-tol": "1545",
+              "-dur": "4500",
+              "title": "toy box",
+              "url": "http://www.crt-radio.co.jp/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "<br>\ntoy boxただいま放送中!!<br />\nおもちゃ箱のように何でもアリ◎<br />\nパーソナリティーは誰が登場するのか？<br />\n聴いた人だけのお楽しみ<br/>\n<br />\n【番組・コーナー】<br />\n　　13：30～純烈・スーパー銭湯<br />\n　　14：00～サトウヒロコ de SHOW Neo！<br />\n　　15：05～ときめきショッピング<br />\n　　15：30～キラキラ！ママ<br />\n　　15：45～大塚徹の明快人間学<br />\n　　16：00～ダイアモンドユカイのゆかいなラジオ<br />\n　　16：35～あいあいの夢のラブラブミュージック<br />\n<br />\n<br />",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CRT/48c25b9d-7455-4ea5-aee4-74ae66ce67de.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9645626502",
+              "-ft": "20220814154500",
+              "-to": "20220814160000",
+              "-ftl": "1545",
               "-tol": "1600",
-              "-dur": "10800",
-              "title": "toy box",
-              "url": "http://www.crt-radio.co.jp/",
+              "-dur": "900",
+              "title": "大塚徹の明快人間学",
+              "url": "http://www.crt-radio.co.jp/program/63",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "<br>\ntoy boxただいま放送中!!<br />\nおもちゃ箱のように何でもアリ◎<br />\nパーソナリティーは誰が登場するのか？<br />\n聴いた人だけのお楽しみ<br/>\n<br />\n【番組・コーナー】<br />\n　　13：30～純烈・スーパー銭湯<br />\n　　14：00～昭和歌謡セレクション<br />\n　　15：05～ときめきショッピング<br />\n　　15：30～キラキラ！ママ<br />\n　　16：00～ダイアモンドユカイのゆかいなラジオ<br />\n　　16：35～あいあいの夢のラブラブミュージック<br />\n　　17：00～ロイ白川の歌の風ぐるま<br />\n　　17：30～花山ゆかの歌の玉手箱<br />\n　　18：15～山口勝平のモンキーラジオ<br />\n<br />\n<br />",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CRT/48c25b9d-7455-4ea5-aee4-74ae66ce67de.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E6%A0%83%E6%9C%A8%E6%94%BE%E9%80%81\">#栃木放送</a>」",
+              "pfm": "大塚徹",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CRT/4lddgytoxh.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#栃木放送"
                 }
               }
             },
             {
-              "-id": "9645193389",
+              "-id": "9645626510",
               "-ft": "20220814160000",
-              "-to": "20220814181500",
+              "-to": "20220814170000",
               "-ftl": "1600",
-              "-tol": "1815",
-              "-dur": "8100",
+              "-tol": "1700",
+              "-dur": "3600",
               "title": "toy box",
               "url": "http://www.crt-radio.co.jp/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "<br>\ntoy boxただいま放送中!!<br />\nおもちゃ箱のように何でもアリ◎<br />\nパーソナリティーは誰が登場するのか？<br />\n聴いた人だけのお楽しみ<br/>\n<br />\n【番組・コーナー】<br />\n　　13：30～純烈・スーパー銭湯<br />\n　　14：00～昭和歌謡セレクション<br />\n　　15：05～ときめきショッピング<br />\n　　15：30～キラキラ！ママ<br />\n　　16：00～ダイアモンドユカイのゆかいなラジオ<br />\n　　16：35～あいあいの夢のラブラブミュージック<br />\n　　17：00～ロイ白川の歌の風ぐるま<br />\n　　17：30～花山ゆかの歌の玉手箱<br />\n　　18：15～山口勝平のモンキーラジオ<br />\n<br />\n<br />",
+              "desc": "<br>\ntoy boxただいま放送中!!<br />\nおもちゃ箱のように何でもアリ◎<br />\nパーソナリティーは誰が登場するのか？<br />\n聴いた人だけのお楽しみ<br/>\n<br />\n【番組・コーナー】<br />\n　　13：30～純烈・スーパー銭湯<br />\n　　14：00～サトウヒロコ de SHOW Neo！<br />\n　　15：05～ときめきショッピング<br />\n　　15：30～キラキラ！ママ<br />\n　　15：45～大塚徹の明快人間学<br />\n　　16：00～ダイアモンドユカイのゆかいなラジオ<br />\n　　16：35～あいあいの夢のラブラブミュージック<br />\n<br />\n<br />",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CRT/48c25b9d-7455-4ea5-aee4-74ae66ce67de.jpeg",
               "genre": {
                 "program": {
@@ -163,11 +244,88 @@
               }
             },
             {
-              "-id": "9645188455",
-              "-ft": "20220814181500",
-              "-to": "20220814183000",
-              "-ftl": "1815",
-              "-tol": "1830",
+              "-id": "9645623634",
+              "-ft": "20220814170000",
+              "-to": "20220814173000",
+              "-ftl": "1700",
+              "-tol": "1730",
+              "-dur": "1800",
+              "title": "ロイ白川の歌の風ぐるま",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CRT/ue0qn5uefj.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9645623646",
+              "-ft": "20220814173000",
+              "-to": "20220814175000",
+              "-ftl": "1730",
+              "-tol": "1750",
+              "-dur": "1200",
+              "title": "花山ゆかの歌の玉手箱",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CRT/ue0qn5uefj.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9645626527",
+              "-ft": "20220814175000",
+              "-to": "20220814201500",
+              "-ftl": "1750",
+              "-tol": "2015",
+              "-dur": "8700",
+              "title": "栃木ＳＣ全力応援生中継！",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CRT/695a1e5f-2b1b-4baf-aff1-39bb8f6f151d.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C013",
+                  "name": "アスリート"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9645615352",
+              "-ft": "20220814201500",
+              "-to": "20220814203000",
+              "-ftl": "2015",
+              "-tol": "2030",
               "-dur": "900",
               "title": "山口勝平のモンキーラジオ！",
               "failed_record": "0",
@@ -193,60 +351,11 @@
               }
             },
             {
-              "-id": "9645193418",
-              "-ft": "20220814183000",
-              "-to": "20220814184500",
-              "-ftl": "1830",
-              "-tol": "1845",
-              "-dur": "900",
-              "title": "toy box",
-              "url": "http://www.crt-radio.co.jp/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "<br>\ntoy boxただいま放送中!!<br />\nおもちゃ箱のように何でもアリ◎<br />\nパーソナリティーは誰が登場するのか？<br />\n聴いた人だけのお楽しみ<br/>\n<br />\n【番組・コーナー】<br />\n　　13：30～純烈・スーパー銭湯<br />\n　　14：00～昭和歌謡セレクション<br />\n　　15：05～ときめきショッピング<br />\n　　15：30～キラキラ！ママ<br />\n　　16：00～ダイアモンドユカイのゆかいなラジオ<br />\n　　16：35～あいあいの夢のラブラブミュージック<br />\n　　17：00～ロイ白川の歌の風ぐるま<br />\n　　17：30～花山ゆかの歌の玉手箱<br />\n　　18：15～山口勝平のモンキーラジオ<br />\n<br />\n<br />",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CRT/48c25b9d-7455-4ea5-aee4-74ae66ce67de.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9645192341",
-              "-ft": "20220814184500",
-              "-to": "20220814190000",
-              "-ftl": "1845",
-              "-tol": "1900",
-              "-dur": "900",
-              "title": "大塚徹の明快人間学",
-              "url": "http://www.crt-radio.co.jp/program/63",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E6%A0%83%E6%9C%A8%E6%94%BE%E9%80%81\">#栃木放送</a>」",
-              "pfm": "大塚徹",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CRT/4lddgytoxh.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#栃木放送"
-                }
-              }
-            },
-            {
-              "-id": "9645192364",
-              "-ft": "20220814190000",
-              "-to": "20220814193000",
-              "-ftl": "1900",
-              "-tol": "1930",
+              "-id": "9645626567",
+              "-ft": "20220814203000",
+              "-to": "20220814210000",
+              "-ftl": "2030",
+              "-tol": "2100",
               "-dur": "1800",
               "title": "さかはし矢波の三ツ星クラシック",
               "url": "http://www.crt-radio.co.jp/program/64",
@@ -275,108 +384,7 @@
               }
             },
             {
-              "-id": "9645192370",
-              "-ft": "20220814193000",
-              "-to": "20220814200000",
-              "-ftl": "1930",
-              "-tol": "2000",
-              "-dur": "1800",
-              "title": "古田佳子和楽囃子が聴こえる",
-              "url": "http://www.crt-radio.co.jp/program/44",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "<br>\n民謡歌手がパーソナリティーをつとめる歌番組<br/>\n語り継がれていく民謡の世界にはまってみませんか？<br/>\n<br />\n<br />",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E6%A0%83%E6%9C%A8%E6%94%BE%E9%80%81\">#栃木放送</a>」\n<br />\nメール:<a href=\"mailto:waraku@crt-radio.co.jp\">waraku@crt-radio.co.jp</a>",
-              "pfm": "古田佳子",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CRT/.wwii7574g.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#栃木放送"
-                }
-              }
-            },
-            {
-              "-id": "9645193437",
-              "-ft": "20220814200000",
-              "-to": "20220814203000",
-              "-ftl": "2000",
-              "-tol": "2030",
-              "-dur": "1800",
-              "title": "サトウヒロコ de SHOW Neo！",
-              "url": "http://www.crt-radio.co.jp/program/258",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E6%A0%83%E6%9C%A8%E6%94%BE%E9%80%81\">#栃木放送</a>」",
-              "pfm": "サトウヒロコ",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CRT/6b3092a4-414e-4097-953d-a98733d656c7.png",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#栃木放送"
-                }
-              }
-            },
-            {
-              "-id": "9645194371",
-              "-ft": "20220814203000",
-              "-to": "20220814210000",
-              "-ftl": "2030",
-              "-tol": "2100",
-              "-dur": "1800",
-              "title": "APESのだらだら天国(再)",
-              "url": "http://www.crt-radio.co.jp/program/295",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "pfm": "APES",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CRT/b49f9edc-64f0-49ec-a15d-b3ee38dcddc9.jpeg",
-              "tag": {
-                "item": {
-                  "name": "APES"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9645185371",
+              "-id": "9645595143",
               "-ft": "20220814210000",
               "-to": "20220814211500",
               "-ftl": "2100",
@@ -396,7 +404,7 @@
               }
             },
             {
-              "-id": "9645192438",
+              "-id": "9645623753",
               "-ft": "20220814211500",
               "-to": "20220814213000",
               "-ftl": "2115",
@@ -415,7 +423,7 @@
               }
             },
             {
-              "-id": "9645192444",
+              "-id": "9645595147",
               "-ft": "20220814213000",
               "-to": "20220814220000",
               "-ftl": "2130",
@@ -447,7 +455,7 @@
               }
             },
             {
-              "-id": "9645188564",
+              "-id": "9645595151",
               "-ft": "20220814220000",
               "-to": "20220814223000",
               "-ftl": "2200",
@@ -485,7 +493,7 @@
               }
             },
             {
-              "-id": "9645185477",
+              "-id": "9645595155",
               "-ft": "20220814223000",
               "-to": "20220814230000",
               "-ftl": "2230",
@@ -508,7 +516,7 @@
               }
             },
             {
-              "-id": "9645188589",
+              "-id": "9645595157",
               "-ft": "20220814230000",
               "-to": "20220815000000",
               "-ftl": "2300",
@@ -546,7 +554,7 @@
               }
             },
             {
-              "-id": "9645283559",
+              "-id": "9645595163",
               "-ft": "20220815000000",
               "-to": "20220815050000",
               "-ftl": "2400",
