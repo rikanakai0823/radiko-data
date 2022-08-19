@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1660846051",
+    "srvtime": "1660932481",
     "stations": {
       "station": {
         "-id": "KBC",
@@ -246,13 +246,81 @@
               }
             },
             {
-              "-id": "9646882392",
+              "-id": "9647818308",
               "-ft": "20220820070000",
-              "-to": "20220820102500",
+              "-to": "20220820080000",
               "-ftl": "0700",
+              "-tol": "0800",
+              "-dur": "3600",
+              "title": "めぐみのラジオ(1)",
+              "url": "https://kbc.co.jp/megumi/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "土曜の朝は早起きしなくちゃもったいない！あなたから見梨へ。見梨からあなたへ。楽しい週末のキャッチボール☆",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:megumi@kbc.co.jp\">megumi@kbc.co.jp</a>",
+              "pfm": "いわぶ見梨",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/1f0dd3df-9833-454c-943d-cd86ed9c8986.jpeg",
+              "tag": {
+                "item": {
+                  "name": "いわぶ見梨"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9647823312",
+              "-ft": "20220820080000",
+              "-to": "20220820090000",
+              "-ftl": "0800",
+              "-tol": "0900",
+              "-dur": "3600",
+              "title": "めぐみのラジオ(2)",
+              "url": "https://kbc.co.jp/megumi/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "土曜の朝は早起きしなくちゃもったいない！あなたから見梨へ。見梨からあなたへ。楽しい週末のキャッチボール☆",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:megumi@kbc.co.jp\">megumi@kbc.co.jp</a>",
+              "pfm": "いわぶ見梨",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/1f0dd3df-9833-454c-943d-cd86ed9c8986.jpeg",
+              "tag": {
+                "item": {
+                  "name": "いわぶ見梨"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9647823341",
+              "-ft": "20220820090000",
+              "-to": "20220820102500",
+              "-ftl": "0900",
               "-tol": "1025",
-              "-dur": "12300",
-              "title": "めぐみのラジオ",
+              "-dur": "5100",
+              "title": "めぐみのラジオ(3)",
               "url": "https://kbc.co.jp/megumi/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -531,13 +599,13 @@
               }
             },
             {
-              "-id": "9647126389",
+              "-id": "9647826433",
               "-ft": "20220820130000",
-              "-to": "20220820175500",
+              "-to": "20220820150000",
               "-ftl": "1300",
-              "-tol": "1755",
-              "-dur": "17700",
-              "title": "ＫＢＣサタデーミュージックカウントダウン",
+              "-tol": "1500",
+              "-dur": "7200",
+              "title": "ＫＢＣサタデーミュージックカウントダウン(1)",
               "url": "https://kbc.co.jp/satakan/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -546,40 +614,29 @@
               "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:satakan@kbc.co.jp\">satakan@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_satakan\">@kbc_satakan</a>」",
               "pfm": "こだマン、真璃子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/daf12386-b73d-43cd-a034-317e6f6cd57d.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "音楽"
-                  },
-                  {
-                    "name": "ドライブ"
-                  },
-                  {
-                    "name": "ランキング"
-                  },
-                  {
-                    "name": "生放送"
-                  },
-                  {
-                    "name": "懐かしい"
-                  },
-                  {
-                    "name": "JーPOP"
-                  },
-                  {
-                    "name": "サタカン"
-                  },
-                  {
-                    "name": "こだマン"
-                  },
-                  {
-                    "name": "真璃子"
-                  },
-                  {
-                    "name": "ヒットソング"
-                  }
-                ]
-              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9647844764",
+              "-ft": "20220820150000",
+              "-to": "20220820175500",
+              "-ftl": "1500",
+              "-tol": "1755",
+              "-dur": "10500",
+              "title": "ＫＢＣサタデーミュージックカウントダウン(2)",
+              "url": "https://kbc.co.jp/satakan/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "最新のヒット曲から懐かしのあの歌まで『１粒で２度おいしい』家族みんなで聴けるランキング形式の音楽番組！",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:satakan@kbc.co.jp\">satakan@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_satakan\">@kbc_satakan</a>」",
+              "pfm": "こだマン、真璃子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/daf12386-b73d-43cd-a034-317e6f6cd57d.jpeg",
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -674,7 +731,7 @@
               }
             },
             {
-              "-id": "9647543842",
+              "-id": "9647790172",
               "-ft": "20220820220000",
               "-to": "20220820230000",
               "-ftl": "2200",
