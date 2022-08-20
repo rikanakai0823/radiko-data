@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1660932481",
+    "srvtime": "1661018843",
     "stations": {
       "station": {
         "-id": "KBC",
@@ -130,7 +130,7 @@
               }
             },
             {
-              "-id": "9647121482",
+              "-id": "9648013643",
               "-ft": "20220820061500",
               "-to": "20220820062500",
               "-ftl": "0615",
@@ -162,7 +162,7 @@
               }
             },
             {
-              "-id": "9647121484",
+              "-id": "9648013648",
               "-ft": "20220820062500",
               "-to": "20220820064000",
               "-ftl": "0625",
@@ -246,7 +246,7 @@
               }
             },
             {
-              "-id": "9647818308",
+              "-id": "9648045566",
               "-ft": "20220820070000",
               "-to": "20220820080000",
               "-ftl": "0700",
@@ -280,7 +280,7 @@
               }
             },
             {
-              "-id": "9647823312",
+              "-id": "9648045591",
               "-ft": "20220820080000",
               "-to": "20220820090000",
               "-ftl": "0800",
@@ -314,7 +314,7 @@
               }
             },
             {
-              "-id": "9647823341",
+              "-id": "9648045626",
               "-ft": "20220820090000",
               "-to": "20220820102500",
               "-ftl": "0900",
@@ -599,7 +599,7 @@
               }
             },
             {
-              "-id": "9647826433",
+              "-id": "9647971040",
               "-ft": "20220820130000",
               "-to": "20220820150000",
               "-ftl": "1300",
@@ -614,29 +614,40 @@
               "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:satakan@kbc.co.jp\">satakan@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_satakan\">@kbc_satakan</a>」",
               "pfm": "こだマン、真璃子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/daf12386-b73d-43cd-a034-317e6f6cd57d.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9647844764",
-              "-ft": "20220820150000",
-              "-to": "20220820175500",
-              "-ftl": "1500",
-              "-tol": "1755",
-              "-dur": "10500",
-              "title": "ＫＢＣサタデーミュージックカウントダウン(2)",
-              "url": "https://kbc.co.jp/satakan/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "最新のヒット曲から懐かしのあの歌まで『１粒で２度おいしい』家族みんなで聴けるランキング形式の音楽番組！",
-              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:satakan@kbc.co.jp\">satakan@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_satakan\">@kbc_satakan</a>」",
-              "pfm": "こだマン、真璃子",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/daf12386-b73d-43cd-a034-317e6f6cd57d.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽"
+                  },
+                  {
+                    "name": "ドライブ"
+                  },
+                  {
+                    "name": "ランキング"
+                  },
+                  {
+                    "name": "生放送"
+                  },
+                  {
+                    "name": "懐かしい"
+                  },
+                  {
+                    "name": "JーPOP"
+                  },
+                  {
+                    "name": "サタカン"
+                  },
+                  {
+                    "name": "こだマン"
+                  },
+                  {
+                    "name": "真璃子"
+                  },
+                  {
+                    "name": "ヒットソング"
+                  }
+                ]
+              },
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -651,12 +662,75 @@
               }
             },
             {
-              "-id": "9646939664",
+              "-id": "9647971097",
+              "-ft": "20220820150000",
+              "-to": "20220820175500",
+              "-ftl": "1500",
+              "-tol": "1755",
+              "-dur": "10500",
+              "title": "ＫＢＣサタデーミュージックカウントダウン(2)",
+              "url": "https://kbc.co.jp/satakan/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "最新のヒット曲から懐かしのあの歌まで『１粒で２度おいしい』家族みんなで聴けるランキング形式の音楽番組！",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:satakan@kbc.co.jp\">satakan@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_satakan\">@kbc_satakan</a>」",
+              "pfm": "こだマン、真璃子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/daf12386-b73d-43cd-a034-317e6f6cd57d.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽"
+                  },
+                  {
+                    "name": "ドライブ"
+                  },
+                  {
+                    "name": "ランキング"
+                  },
+                  {
+                    "name": "生放送"
+                  },
+                  {
+                    "name": "懐かしい"
+                  },
+                  {
+                    "name": "JーPOP"
+                  },
+                  {
+                    "name": "サタカン"
+                  },
+                  {
+                    "name": "こだマン"
+                  },
+                  {
+                    "name": "真璃子"
+                  },
+                  {
+                    "name": "ヒットソング"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9648079647",
               "-ft": "20220820175500",
-              "-to": "20220820210000",
+              "-to": "20220820221000",
               "-ftl": "1755",
-              "-tol": "2100",
-              "-dur": "11100",
+              "-tol": "2210",
+              "-dur": "15300",
               "title": "ＫＢＣホークスナイター（土）",
               "url": "https://kbc.co.jp/hawks/",
               "failed_record": "0",
@@ -692,12 +766,12 @@
               }
             },
             {
-              "-id": "9646882492",
-              "-ft": "20220820210000",
-              "-to": "20220820220000",
-              "-ftl": "2100",
-              "-tol": "2200",
-              "-dur": "3600",
+              "-id": "9648088160",
+              "-ft": "20220820221000",
+              "-to": "20220820230000",
+              "-ftl": "2210",
+              "-tol": "2300",
+              "-dur": "3000",
               "title": "よるばけ！",
               "url": "https://kbc.co.jp/r-radio/yorubake/",
               "failed_record": "0",
@@ -707,45 +781,6 @@
               "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:bake@kbc.co.jp\">bake@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_bake\">@kbc_bake</a>」",
               "pfm": "ルーシー",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/3ed7a45b-b3ca-4d8f-b048-df30c0a97a0c.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "音楽"
-                  },
-                  {
-                    "name": "ルーシー"
-                  }
-                ]
-              },
-              "genre": {
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9647790172",
-              "-ft": "20220820220000",
-              "-to": "20220820230000",
-              "-ftl": "2200",
-              "-tol": "2300",
-              "-dur": "3600",
-              "title": "キテマス。K",
-              "url": "https://kbc.co.jp/r-radio/kite/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "20日(土)放送はコチラ<br/><br/>  【キテマス特派員】<br/> ・韓国の夏～街でよく見る光景その１<br/> ・新コーナー「「その年、私たちは・特派員編」第2話<br/> 歴代ANNソウル支局特派員が過ごした当時の韓国エピソード<br/> 初代特派員リポートからは恋愛話も<br/><br/> 【キテマスK-POP】<br/> INIからコメントが！<br/> 特集はNewJeans<br/><br/> そして今週のお役立ち韓国語もお楽しみに(^^)/<br/><br/>  ",
-              "info": "韓国大好き 加藤恭子アナがK-POP・韓国グルメに旅行ほかあらゆる旬な情報、「キテマス」を発信！<br/>mail：<a href=\"mailto:kite@kbc.co.jp\">kite@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kite_kbc\">@kite_kbc</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/kite_kbc/\">@kite_kbc</a>」",
-              "pfm": "加藤恭子",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/0485b351-321b-4a60-945f-f918d92f5c03.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -783,7 +818,7 @@
               }
             },
             {
-              "-id": "9647126512",
+              "-id": "9648049827",
               "-ft": "20220820233000",
               "-to": "20220821000000",
               "-ftl": "2330",
@@ -804,7 +839,7 @@
               }
             },
             {
-              "-id": "9647126540",
+              "-id": "9648051751",
               "-ft": "20220821000000",
               "-to": "20220821003000",
               "-ftl": "2400",
@@ -899,7 +934,7 @@
               }
             },
             {
-              "-id": "9647573207",
+              "-id": "9647973617",
               "-ft": "20220821030000",
               "-to": "20220821050000",
               "-ftl": "2700",
