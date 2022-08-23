@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1661191711",
+    "srvtime": "1661278082",
     "stations": {
       "station": {
         "-id": "FMAICHI",
@@ -10,7 +10,7 @@
           "date": "20220828",
           "prog": [
             {
-              "-id": "9648234572",
+              "-id": "9648650184",
               "-ft": "20220828050000",
               "-to": "20220828052500",
               "-ftl": "0500",
@@ -946,7 +946,7 @@
               }
             },
             {
-              "-id": "9648437148",
+              "-id": "9648640770",
               "-ft": "20220828135500",
               "-to": "20220828140000",
               "-ftl": "1355",
@@ -1391,22 +1391,67 @@
               }
             },
             {
-              "-id": "9648233622",
+              "-id": "9648652670",
               "-ft": "20220828190000",
-              "-to": "20220828200000",
+              "-to": "20220828195500",
               "-ftl": "1900",
-              "-tol": "2000",
-              "-dur": "3600",
-              "title": "FM AICHI SUNDAY SPECIAL",
+              "-tol": "1955",
+              "-dur": "3300",
+              "title": "村上RADIO～いかがなものか、カバー～",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "desc": "世の中にはカバーソングがいっぱいあります。とても素敵なカバー、意欲的なカバーももちろんありますが、中には「これはどうかな？」とふと首をかしげてしまうもの、あっと仰天してしまうもの、思わず笑ってしまうものもあります。今回はそういう「ちょっと風変わりな」カバーを集めてみました。<br /><br />",
+              "pfm": "村上春樹",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMAICHI/9c45c48b-cc36-49b1-a8c6-2a7407cefa0a.png",
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
                   "-value": "#radiko"
                 }
+              }
+            },
+            {
+              "-id": "9648640904",
+              "-ft": "20220828195500",
+              "-to": "20220828200000",
+              "-ftl": "1955",
+              "-tol": "2000",
+              "-dur": "300",
+              "title": "Premium Song Collection",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "いつ聞いても新鮮で色あせない、誰もが知っている名曲をお届けします。<br /><br />",
+              "info": "<a href=\"https://fma.co.jp/f/req/?cd=premium\">メッセージ・リクエストはこちら</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23FMAICHI\">#FMAICHI</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/FMAICHI\">@FMAICHI</a>」<br />",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMAICHI/jjhod5tqbo.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#FMAICHI"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:FMAICHI"
+                  }
+                ]
               }
             },
             {
