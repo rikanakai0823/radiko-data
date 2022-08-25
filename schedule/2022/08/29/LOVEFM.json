@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1661364463",
+    "srvtime": "1661450852",
     "stations": {
       "station": {
         "-id": "LOVEFM",
@@ -202,7 +202,7 @@
               }
             },
             {
-              "-id": "9648811721",
+              "-id": "9649020244",
               "-ft": "20220829120000",
               "-to": "20220829150000",
               "-ftl": "1200",
@@ -217,14 +217,44 @@
               "pfm": "藤田じゅん",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LOVEFM/j0fvbs3hha.jpg",
               "tag": {
-                "item": {
-                  "name": "kainatsu"
-                }
+                "item": [
+                  {
+                    "name": "kainatsu"
+                  },
+                  {
+                    "name": "宮里陽太"
+                  },
+                  {
+                    "name": "藤田じゅん"
+                  },
+                  {
+                    "name": "ビジネス情報"
+                  },
+                  {
+                    "name": "海外情報"
+                  },
+                  {
+                    "name": "情報"
+                  },
+                  {
+                    "name": "MUSIC"
+                  },
+                  {
+                    "name": "NEWS"
+                  },
+                  {
+                    "name": "WEATHER"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -263,7 +293,7 @@
               }
             },
             {
-              "-id": "9648811749",
+              "-id": "9649020273",
               "-ft": "20220829170000",
               "-to": "20220829190000",
               "-ftl": "1700",
@@ -284,6 +314,33 @@
                   },
                   {
                     "name": "9mm Parabellum Bullet"
+                  },
+                  {
+                    "name": "ジェフ太郎"
+                  },
+                  {
+                    "name": "MUSIC"
+                  },
+                  {
+                    "name": "ゲスト"
+                  },
+                  {
+                    "name": "JーPop"
+                  },
+                  {
+                    "name": "トレンド"
+                  },
+                  {
+                    "name": "ABEMARADIO"
+                  },
+                  {
+                    "name": "Abema"
+                  },
+                  {
+                    "name": "情報"
+                  },
+                  {
+                    "name": "電リク"
                   }
                 ]
               },
@@ -291,6 +348,10 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -410,7 +471,7 @@
               }
             },
             {
-              "-id": "9648847106",
+              "-id": "9649047958",
               "-ft": "20220829213000",
               "-to": "20220829230000",
               "-ftl": "2130",
