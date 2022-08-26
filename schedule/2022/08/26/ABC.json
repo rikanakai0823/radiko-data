@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1661450817",
+    "srvtime": "1661537257",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -10,7 +10,7 @@
           "date": "20220826",
           "prog": [
             {
-              "-id": "9649086256",
+              "-id": "9649242620",
               "-ft": "20220826050000",
               "-to": "20220826063000",
               "-ftl": "0500",
@@ -108,7 +108,7 @@
               }
             },
             {
-              "-id": "9649086283",
+              "-id": "9649242678",
               "-ft": "20220826090000",
               "-to": "20220826120000",
               "-ftl": "0900",
@@ -165,7 +165,7 @@
               }
             },
             {
-              "-id": "9647797925",
+              "-id": "9649261588",
               "-ft": "20220826120000",
               "-to": "20220826150000",
               "-ftl": "1200",
@@ -435,12 +435,12 @@
               }
             },
             {
-              "-id": "9647810178",
+              "-id": "9649310210",
               "-ft": "20220826200000",
-              "-to": "20220826210000",
+              "-to": "20220826215000",
               "-ftl": "2000",
-              "-tol": "2100",
-              "-dur": "3600",
+              "-tol": "2150",
+              "-dur": "6600",
               "title": "ＡＢＣフレッシュアップベースボール(2)",
               "url": "https://www.abc1008.com/baseball/",
               "failed_record": "0",
@@ -449,6 +449,19 @@
               "info": "中日―阪神（バンテリンＤ）<BR>※試合終了までお届けします<BR>解説：井端弘和<BR>実況：森貴俊<BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc_toraban\">@abc_toraban</a>」<BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23toraban1008\">#toraban1008</a>」<BR><BR><BR>",
               "pfm": "中日―阪神（バンテリンＤ）　  ※試合終了までお届けします　  解説：井端弘和　  実況：森貴俊",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "#toraban1008"
+                  },
+                  {
+                    "name": "#ABCフレッシュアップベースボール"
+                  },
+                  {
+                    "name": "ABCラジオ"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C013",
@@ -468,69 +481,6 @@
                   {
                     "-name": "twitter",
                     "-value": "from:abc_toraban"
-                  }
-                ]
-              }
-            },
-            {
-              "-id": "9647681258",
-              "-ft": "20220826210000",
-              "-to": "20220826210500",
-              "-ftl": "2100",
-              "-tol": "2105",
-              "-dur": "300",
-              "title": "ＡＢＣニュース＆天気予報",
-              "url": "https://www.abc1008.com/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9647801676",
-              "-ft": "20220826210500",
-              "-to": "20220826215000",
-              "-ftl": "2105",
-              "-tol": "2150",
-              "-dur": "2700",
-              "title": "小早川秀樹のオシマシ！",
-              "url": "https://www.abc1008.com/oshimashi/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_kobayakawa_h.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:om@abc1008.com\">om@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%AA%E3%82%B7%E3%83%9E%E3%82%B7\">#オシマシ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/oshimashi933\">@oshimashi933</a>」<BR><BR><BR>",
-              "pfm": "小早川秀樹",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/fc1e666f-0791-4689-8cbe-0860463101d7.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#オシマシ"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:oshimashi933"
                   }
                 ]
               }
