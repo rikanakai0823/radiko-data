@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1661882881",
+    "srvtime": "1661969281",
     "stations": {
       "station": {
         "-id": "FMAICHI",
@@ -1402,22 +1402,30 @@
               }
             },
             {
-              "-id": "9649693012",
+              "-id": "9650405621",
               "-ft": "20220904190000",
               "-to": "20220904200000",
               "-ftl": "1900",
               "-tol": "2000",
               "-dur": "3600",
-              "title": "FM AICHI SUNDAY SPECIAL",
+              "title": "FM AICHI Premium Song History",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMAICHI/9c45c48b-cc36-49b1-a8c6-2a7407cefa0a.png",
+              "desc": "年代、アーティストをピックアップし、その歴史を振り返りながら楽曲を紹介。<br /><br />",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23FMAICHI\">#FMAICHI</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/FMAICHI\">@FMAICHI</a>」<br />",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMAICHI/jv6fodh1sm.jpg",
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#FMAICHI"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:FMAICHI"
+                  }
+                ]
               }
             },
             {
