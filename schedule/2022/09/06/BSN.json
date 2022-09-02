@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1662055668",
+    "srvtime": "1662142135",
     "stations": {
       "station": {
         "-id": "BSN",
@@ -123,7 +123,7 @@
               }
             },
             {
-              "-id": "9650558290",
+              "-id": "9650844016",
               "-ft": "20220906053000",
               "-to": "20220906062900",
               "-ftl": "0530",
@@ -137,6 +137,16 @@
               "desc": "　　",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/BSN/zzitlnlv06.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1450,7 +1460,7 @@
               }
             },
             {
-              "-id": "9650558805",
+              "-id": "9650844720",
               "-ft": "20220907000000",
               "-to": "20220907010000",
               "-ftl": "2400",
@@ -1464,6 +1474,12 @@
               "desc": "KちゃんNEWS",
               "pfm": "オテンキのり",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/BSN/pr4autkm8w.png",
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

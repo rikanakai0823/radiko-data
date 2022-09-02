@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1662055611",
+    "srvtime": "1662142072",
     "stations": {
       "station": {
         "-id": "RAB",
@@ -10,7 +10,7 @@
           "date": "20220901",
           "prog": [
             {
-              "-id": "9650555242",
+              "-id": "9650839211",
               "-ft": "20220901050000",
               "-to": "20220901053000",
               "-ftl": "0500",
@@ -22,6 +22,26 @@
               "ts_out_ng": "0",
               "pfm": "大友寿郎",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a1829ea1-4b98-4675-8be1-41295a22aec5.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "大友寿郎"
+                  },
+                  {
+                    "name": "GG"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -30,7 +50,7 @@
               }
             },
             {
-              "-id": "9650555272",
+              "-id": "9650839255",
               "-ft": "20220901053000",
               "-to": "20220901063000",
               "-ftl": "0530",
@@ -42,6 +62,21 @@
               "ts_out_ng": "0",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/5476behcdk.png",
+              "tag": {
+                "item": {
+                  "name": "生島ヒロシ"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -355,7 +390,7 @@
               }
             },
             {
-              "-id": "9650555407",
+              "-id": "9650839464",
               "-ft": "20220901111500",
               "-to": "20220901112000",
               "-ftl": "1115",
@@ -367,6 +402,16 @@
               "ts_out_ng": "0",
               "pfm": "杉原テツ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/d349c0be-721f-4dc0-bd06-e4a632a64dc7.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1183,7 +1228,7 @@
               }
             },
             {
-              "-id": "9650339443",
+              "-id": "9650829230",
               "-ft": "20220902030000",
               "-to": "20220902043000",
               "-ftl": "2700",

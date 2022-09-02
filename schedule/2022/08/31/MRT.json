@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1662055599",
+    "srvtime": "1662142059",
     "stations": {
       "station": {
         "-id": "MRT",
@@ -101,7 +101,7 @@
               }
             },
             {
-              "-id": "9650554971",
+              "-id": "9650838463",
               "-ft": "20220831053000",
               "-to": "20220831063000",
               "-ftl": "0530",
@@ -113,6 +113,16 @@
               "ts_out_ng": "0",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MRT/rhag9jh54m.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -867,7 +877,7 @@
               }
             },
             {
-              "-id": "9650592527",
+              "-id": "9650838814",
               "-ft": "20220831164000",
               "-to": "20220831165000",
               "-ftl": "1640",
@@ -880,10 +890,6 @@
               "pfm": "だいすけ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MRT/2ed0af80-73df-45af-b251-e174216562cc.jpeg",
               "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
@@ -1208,7 +1214,7 @@
               }
             },
             {
-              "-id": "9650555121",
+              "-id": "9650839097",
               "-ft": "20220901000000",
               "-to": "20220901010000",
               "-ftl": "2400",
@@ -1220,6 +1226,12 @@
               "ts_out_ng": "0",
               "pfm": "ｵﾃﾝｷのり",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MRT/0um1jrjijq.png",
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

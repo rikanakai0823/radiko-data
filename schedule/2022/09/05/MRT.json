@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1662055653",
+    "srvtime": "1662142122",
     "stations": {
       "station": {
         "-id": "MRT",
@@ -101,7 +101,7 @@
               }
             },
             {
-              "-id": "9650557759",
+              "-id": "9650843139",
               "-ft": "20220905053000",
               "-to": "20220905063000",
               "-ftl": "0530",
@@ -113,6 +113,16 @@
               "ts_out_ng": "0",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MRT/rhag9jh54m.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -808,7 +818,7 @@
               }
             },
             {
-              "-id": "9650596736",
+              "-id": "9650843535",
               "-ft": "20220905164000",
               "-to": "20220905165000",
               "-ftl": "1640",
@@ -821,10 +831,6 @@
               "pfm": "だいすけ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MRT/2ed0af80-73df-45af-b251-e174216562cc.jpeg",
               "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
@@ -1058,7 +1064,7 @@
               }
             },
             {
-              "-id": "9650141312",
+              "-id": "9650843663",
               "-ft": "20220905190000",
               "-to": "20220905210000",
               "-ftl": "1900",
@@ -1071,10 +1077,6 @@
               "pfm": "宇多丸",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MRT/02aa8e08-7766-4d43-9a7c-8dddb126c061.jpeg",
               "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
                 "program": {
                   "-id": "P012",
                   "name": "趣味/教育"
@@ -1128,7 +1130,7 @@
               }
             },
             {
-              "-id": "9650558196",
+              "-id": "9650843869",
               "-ft": "20220906000000",
               "-to": "20220906010000",
               "-ftl": "2400",
@@ -1140,6 +1142,12 @@
               "ts_out_ng": "0",
               "pfm": "ｵﾃﾝｷのり",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MRT/0um1jrjijq.png",
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
