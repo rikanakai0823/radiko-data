@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1662401193",
+    "srvtime": "1662487621",
     "stations": {
       "station": {
         "-id": "LOVEFM",
@@ -173,7 +173,7 @@
               }
             },
             {
-              "-id": "9650843372",
+              "-id": "9651902812",
               "-ft": "20220905120000",
               "-to": "20220905150000",
               "-ftl": "1200",
@@ -188,11 +188,38 @@
               "pfm": "藤田じゅん",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/LOVEFM/j0fvbs3hha.jpg",
               "tag": {
-                "item": {
-                  "name": "渋谷すばる"
-                }
+                "item": [
+                  {
+                    "name": "渋谷すばる"
+                  },
+                  {
+                    "name": "藤田じゅん"
+                  },
+                  {
+                    "name": "ビジネス情報"
+                  },
+                  {
+                    "name": "海外情報"
+                  },
+                  {
+                    "name": "情報"
+                  },
+                  {
+                    "name": "MUSIC"
+                  },
+                  {
+                    "name": "NEWS"
+                  },
+                  {
+                    "name": "WEATHER"
+                  }
+                ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
@@ -351,7 +378,7 @@
               }
             },
             {
-              "-id": "9651585373",
+              "-id": "9651903046",
               "-ft": "20220905213000",
               "-to": "20220905230000",
               "-ftl": "2130",
@@ -377,6 +404,16 @@
                     "name": "昆虫"
                   }
                 ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
               },
               "metas": {
                 "meta": {

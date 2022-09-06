@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1662401261",
+    "srvtime": "1662487689",
     "stations": {
       "station": {
         "-id": "FMAICHI",
@@ -1401,22 +1401,74 @@
               }
             },
             {
-              "-id": "9651361350",
+              "-id": "9652004227",
               "-ft": "20220911190000",
-              "-to": "20220911200000",
+              "-to": "20220911195500",
               "-ftl": "1900",
-              "-tol": "2000",
-              "-dur": "3600",
-              "title": "FM AICHI SUNDAY SPECIAL",
+              "-tol": "1955",
+              "-dur": "3300",
+              "title": "ASKA Terminal Melody～platinum～",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "desc": "イントロを聴いただけで、「あの瞬間」の心の扉が開く、そんなとっておきの名曲。心の音楽に出会う場所。<br />毎週日曜23:30からオンエア中、『ASKA Terminal Melody』の特別番組です。今回はASKAさんご本人が登場します。<br /><br />",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23FMAICHI\">#FMAICHI</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/FMAICHI\">@FMAICHI</a>」<br />",
+              "pfm": "ASKA / 小山ジャネット愛子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMAICHI/9c45c48b-cc36-49b1-a8c6-2a7407cefa0a.png",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#FMAICHI"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:FMAICHI"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9651915755",
+              "-ft": "20220911195500",
+              "-to": "20220911200000",
+              "-ftl": "1955",
+              "-tol": "2000",
+              "-dur": "300",
+              "title": "Premium Song Collection",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "いつ聞いても新鮮で色あせない、誰もが知っている名曲をお届けします。<br /><br />",
+              "info": "<a href=\"https://fma.co.jp/f/req/?cd=premium\">メッセージ・リクエストはこちら</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23FMAICHI\">#FMAICHI</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/FMAICHI\">@FMAICHI</a>」<br />",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMAICHI/jjhod5tqbo.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#FMAICHI"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:FMAICHI"
+                  }
+                ]
               }
             },
             {
@@ -1673,7 +1725,7 @@
               }
             },
             {
-              "-id": "9651357452",
+              "-id": "9651915863",
               "-ft": "20220911233000",
               "-to": "20220911235500",
               "-ftl": "2330",

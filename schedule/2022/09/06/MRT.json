@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1662401208",
+    "srvtime": "1662487635",
     "stations": {
       "station": {
         "-id": "MRT",
@@ -101,7 +101,7 @@
               }
             },
             {
-              "-id": "9651607642",
+              "-id": "9651903293",
               "-ft": "20220906053000",
               "-to": "20220906063000",
               "-ftl": "0530",
@@ -113,6 +113,16 @@
               "ts_out_ng": "0",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MRT/rhag9jh54m.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -741,7 +751,7 @@
               }
             },
             {
-              "-id": "9651608138",
+              "-id": "9651903546",
               "-ft": "20220906164000",
               "-to": "20220906165000",
               "-ftl": "1640",
@@ -753,6 +763,16 @@
               "ts_out_ng": "0",
               "pfm": "だいすけ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MRT/2ed0af80-73df-45af-b251-e174216562cc.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1031,7 +1051,7 @@
               }
             },
             {
-              "-id": "9651631034",
+              "-id": "9651903803",
               "-ft": "20220907000000",
               "-to": "20220907010000",
               "-ftl": "2400",
@@ -1057,7 +1077,7 @@
               }
             },
             {
-              "-id": "9651586245",
+              "-id": "9651903855",
               "-ft": "20220907010000",
               "-to": "20220907030000",
               "-ftl": "2500",
@@ -1070,6 +1090,12 @@
               "desc": "『星野源のオールナイトニッポン』",
               "pfm": "星野源",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MRT/j7jyy3obi3.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
