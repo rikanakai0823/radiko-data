@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1662573999",
+    "srvtime": "1662660390",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -61,7 +61,7 @@
               }
             },
             {
-              "-id": "9652152209",
+              "-id": "9652397254",
               "-ft": "20220907063000",
               "-to": "20220907090000",
               "-ftl": "0630",
@@ -92,6 +92,10 @@
                 ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -346,7 +350,7 @@
               }
             },
             {
-              "-id": "9652234961",
+              "-id": "9652397862",
               "-ft": "20220907200000",
               "-to": "20220907214000",
               "-ftl": "2000",
@@ -397,7 +401,7 @@
               }
             },
             {
-              "-id": "9652226847",
+              "-id": "9652347192",
               "-ft": "20220907214000",
               "-to": "20220907214500",
               "-ftl": "2140",
@@ -409,6 +413,11 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ABCラジオ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -417,7 +426,7 @@
               }
             },
             {
-              "-id": "9652235024",
+              "-id": "9652440044",
               "-ft": "20220907214500",
               "-to": "20220907215000",
               "-ftl": "2145",
@@ -431,6 +440,16 @@
               "info": "<img src=\"https://www.abc1008.com/img/program/yoasobi.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:tm@abc1008.com\">tm@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%A4%9C%E3%82%B3%E3%82%B3\">#夜ココ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/yorukoko1008\">@yorukoko1008</a>」<BR><BR><BR>",
               "pfm": "田淵麻里奈",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/fb072740-8f7d-4782-82df-46d5d9c50e55.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": [
                   {
