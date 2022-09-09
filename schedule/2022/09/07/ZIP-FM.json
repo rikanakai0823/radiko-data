@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1662574002",
+    "srvtime": "1662746850",
     "stations": {
       "station": {
         "-id": "ZIP-FM",
@@ -10,7 +10,7 @@
           "date": "20220907",
           "prog": [
             {
-              "-id": "9652159842",
+              "-id": "9652702811",
               "-ft": "20220907050000",
               "-to": "20220907060000",
               "-ftl": "0500",
@@ -24,6 +24,16 @@
               "desc": "GOOD MUSICと、ニュース、天気など、早朝に必要な情報をコンパクトにまとめてオンエア！AIナビゲーター「ジプコ」のCUTEなトークでリスナーの１日のスタートを応援します。",
               "pfm": "ジプコ(AIナビゲーター)",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ZIP-FM/4f4b10c7-a686-4a12-8107-53455f6548ab.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1662660414",
+    "srvtime": "1662746872",
     "stations": {
       "station": {
         "-id": "STV",
@@ -292,7 +292,7 @@
               }
             },
             {
-              "-id": "9650852401",
+              "-id": "9652722917",
               "-ft": "20220909160000",
               "-to": "20220909175500",
               "-ftl": "1600",
@@ -308,6 +308,10 @@
               "pfm": "吉川のりお　草野あずみ　／　牧やすまさ　／　稲田直人",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/685cc077-3bd9-41bb-a67e-8410802c59ef.png",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P002",
                   "name": "スポーツ"
@@ -354,12 +358,12 @@
               }
             },
             {
-              "-id": "9650848400",
+              "-id": "9652796546",
               "-ft": "20220909190000",
-              "-to": "20220909210000",
+              "-to": "20220909220000",
               "-ftl": "1900",
-              "-tol": "2100",
-              "-dur": "7200",
+              "-tol": "2200",
+              "-dur": "10800",
               "title": "ＳＴＶファイターズＬＩＶＥ　巨人対中日　＠東京ドーム",
               "url": "https://www.stv.jp/radio/fighters-live/index.html",
               "failed_record": "0",
@@ -377,39 +381,6 @@
                 "program": {
                   "-id": "P002",
                   "name": "スポーツ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9652409854",
-              "-ft": "20220909210000",
-              "-to": "20220909220000",
-              "-ftl": "2100",
-              "-tol": "2200",
-              "-dur": "3600",
-              "title": "リアルタイム！",
-              "url": "https://www.stv.jp/radio/realtime/index.html",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "野球中継が終わったら「リアルタイム！」温かく・優しく・楽しい！あなたと一緒に過ごす変幻自在の生放送！",
-              "info": "メール：win@stv.jp<br/>Twitterハッシュタグ：#stvradio #リアルタイム<br/>Twitterアカウント：@stvradio",
-              "pfm": "田村みなみ",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/ba0eaefb-c860-47c4-89b0-0088196515f4.png",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -448,7 +419,7 @@
               }
             },
             {
-              "-id": "9651120866",
+              "-id": "9652723434",
               "-ft": "20220910000000",
               "-to": "20220910010000",
               "-ftl": "2400",
