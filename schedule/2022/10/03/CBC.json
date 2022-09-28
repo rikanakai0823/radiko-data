@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1664302089",
+    "srvtime": "1664388493",
     "stations": {
       "station": {
         "-id": "CBC",
@@ -10,7 +10,7 @@
           "date": "20221003",
           "prog": [
             {
-              "-id": "9657152724",
+              "-id": "9657615322",
               "-ft": "20221003050000",
               "-to": "20221003052500",
               "-ftl": "0500",
@@ -25,6 +25,16 @@
               "info": "毎日が始まる朝のひととき、演歌・歌謡曲の名曲と共に、リスナーの皆さんへ元気をお届けします。\n<br />あなたと一緒にすてきな番組にしていきたいと願いつつ、あなたが聴きたい曲をお送りします。\n<br />その歌にまつわる思い出などのおたよりも、お待ちしております。\n\n<br /><br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=393'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
               "pfm": "梓夕子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/azmu5ow65z.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -33,7 +43,7 @@
               }
             },
             {
-              "-id": "9657152797",
+              "-id": "9657615336",
               "-ft": "20221003052500",
               "-to": "20221003053000",
               "-ftl": "0525",
@@ -46,6 +56,12 @@
               "ts_out_ng": "0",
               "desc": "CBCが選ぶ、おトクな商品をご紹介します。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/ab1c097c-1cae-4518-bfa1-18baa2d30769.png",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -54,7 +70,7 @@
               }
             },
             {
-              "-id": "9657398961",
+              "-id": "9657615370",
               "-ft": "20221003053000",
               "-to": "20221003063000",
               "-ftl": "0530",
@@ -87,7 +103,7 @@
               }
             },
             {
-              "-id": "9657152980",
+              "-id": "9657615433",
               "-ft": "20221003063000",
               "-to": "20221003070000",
               "-ftl": "0630",
@@ -102,6 +118,16 @@
               "info": "CBCラジオでは昭和28年3月にスタートし、放送回数はすでに1万回を超えた長寿番組。\n<br/>なつメロから最新のヒット曲まで皆さんのリクエストにカラオケでお応えしています。\n\n<br/><br/>リクエスト、おたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=411'><u>こちら</u></a>\n<br/>FAXは 052-263-6800 まで",
               "pfm": "多田しげお　山本衿奈",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/c10b8e80-b99a-41f1-9596-ff346cfa400c.png",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -110,7 +136,7 @@
               }
             },
             {
-              "-id": "9657153087",
+              "-id": "9657615455",
               "-ft": "20221003070000",
               "-to": "20221003090000",
               "-ftl": "0700",
@@ -125,6 +151,16 @@
               "info": "朝PONはCBCラジオの番組です。\n<br />最新ニュースから気になる話題まで、朝一番の情報をとにかくわかりやすく噛み砕いてお届けしています。\n<br />耳で聴く朝刊、朝PONをぜひお聴きください！\n\n<br /><br />番組記事を読む→<a href=\"https://radichubu.jp/kibun/\"><u>こちら</u></a>\n<br/>番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=409'><u>こちら</u></a>\n<br/>FAXは 052-263-6800 まで",
               "pfm": "多田しげお　山本衿奈",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/c10b8e80-b99a-41f1-9596-ff346cfa400c.png",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -133,7 +169,7 @@
               }
             },
             {
-              "-id": "9657153392",
+              "-id": "9657615584",
               "-ft": "20221003090000",
               "-to": "20221003115500",
               "-ftl": "0900",
@@ -144,10 +180,19 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "放送開始30周年の長寿番組。世間の出来事、つボイノリオ自身の体験や、個々人の身の回りの日常など番組で取り上げる話題はすべて、リスナーの生活と密着した「いま」そのもの！<br />",
-              "info": "日々のニュースを巧みに取り上げ、笑いに転化！あっという間の2時間55分の生放送！\n<br />今週もゆるぎない爆裂トークで、抱腹絶倒の朝をお迎えください!!\n\n<br /><br />10時40分頃からは「キユーピーラジオクッキング」\n<br />詳しいレシピはこちら <a href='http://hicbc.com/radio/kikeba/cooking/'>http://hicbc.com/radio/kikeba/cooking/</a>\n\n<br /><br />番組記事を読む→<a href=\"https://radichubu.jp/kikeba/\"><u>こちら</u></a>\n<br />番組ツイッターは<a href=\"https://twitter.com/cbc1053kikeba\"><u>こちら</u></a>\n<br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=387'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
+              "info": "世間の出来事、つボイノリオ自身の体験や、個々人の身の回りの日常など番組で取り上げる話題はすべて、リスナーの生活と密着した「いま」そのものです。\n<br />一緒に聞き、一緒に番組を創っていく。送られてくるお便りは全国から毎日300通余り。\n<br />コメントに関する即座のリアクションによって、番組はLIVE感あふれる究極の「井戸端会議｣になっています。\n<br />パーソナリティは「オールナイトニッポン」のDJや、名（迷）曲「金太の大冒険」で東海地区ではおなじみ、つボイノリオと小高直子CBCアナウンサーの名コンビ。\n<br />四半世紀を超える長寿番組です。\n\n<br /><br />10時40分頃からは「キユーピーラジオクッキング」\n<br />詳しいレシピはこちら <a href='http://hicbc.com/radio/kikeba/cooking/'>http://hicbc.com/radio/kikeba/cooking/</a>\n\n<br /><br />番組記事を読む→<a href=\"https://radichubu.jp/kikeba/\"><u>こちら</u></a>\n<br />番組Twitterは<a href=\"https://twitter.com/cbc1053kikeba\"><u>こちら</u></a>\n<br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=387'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
               "pfm": "つボイノリオ　小高直子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/d6cb4fac-f5e0-4921-bbef-df257a52894a.png",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -156,7 +201,7 @@
               }
             },
             {
-              "-id": "9657123453",
+              "-id": "9657615776",
               "-ft": "20221003115500",
               "-to": "20221003120000",
               "-ftl": "1155",
@@ -186,7 +231,7 @@
               }
             },
             {
-              "-id": "9657153786",
+              "-id": "9657615803",
               "-ft": "20221003120000",
               "-to": "20221003122000",
               "-ftl": "1200",
@@ -200,6 +245,16 @@
               "desc": "誰にも相談できない「悩み」や「苦しみ」でお困りの方、専門家がお答えします。",
               "info": "<br />\nこの番組はタイムフリー非対応です。ご了承ください。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/amob4vqjeh.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P009",
+                  "name": "ドキュメンタリー"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -208,18 +263,18 @@
               }
             },
             {
-              "-id": "9657153820",
+              "-id": "9657647566",
               "-ft": "20221003122000",
               "-to": "20221003123000",
               "-ftl": "1220",
               "-tol": "1230",
               "-dur": "600",
-              "title": "未来につなげ　発見！日本の食",
+              "title": "未来につなげ 発見！日本の食",
               "url": "https://hicbc.com/radio/shoku/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "「日本の食」の魅力、素晴らしさを発見、伝える番組です。\n<br />毎月、食についての様々な専門家をゲストに招き、インタビュ－しながら、「日本の食」の魅力を掘り下げつつ、また食という視点からのSDGsについても触れていきます。",
+              "info": "「日本の食」の魅力、素晴らしさを発見、伝える番組です。\n<br />毎月、食についての様々な専門家をゲストに招き、インタビュ－しながら、「日本の食」の魅力を掘り下げつつ、また食という視点からのSDGsについても触れていきます。\n\n<br />番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=647'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
               "pfm": "山田門努　佐藤実絵子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/3f4007a9-c080-490a-af51-3c118f2e6767.png",
               "metas": {
@@ -230,7 +285,7 @@
               }
             },
             {
-              "-id": "9657153845",
+              "-id": "9657615818",
               "-ft": "20221003123000",
               "-to": "20221003130000",
               "-ftl": "1230",
@@ -253,7 +308,7 @@
               }
             },
             {
-              "-id": "9657153989",
+              "-id": "9657615888",
               "-ft": "20221003130000",
               "-to": "20221003160000",
               "-ftl": "1300",
@@ -265,9 +320,19 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "本音トークでズバっとぶった斬り！一度聴いたらクセになる！",
-              "info": "パーソナリティ 北野誠と、月曜アシスタントの松岡亜矢子が登場！\n\n<br /><br />14時台の日替わりコーナー「ズバリなっとく」、今日は“ズバリマネー”\n<br />イケメンファイナンシャルプランナーが、リスナーからの【人生のお金にまつわる相談】に答えていきます。\n\n<br /><br />いろいろトラブってくる仕事・家庭・健康を、北野誠がズバっと斬って、みんなスッキリ！\n<br />今週もお楽しみに！\n\n<br /><br />ズバリ公式LINE＠は<a href=\"http://accountpage.line.me/makozuba1053\"><u>ここから</u></a>\n<br />番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=384'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n\n<br /><br />北野誠とリスナーが自腹で飲み会をする「マコ酒RUN」では、\n<br />北野誠に食べに来てほしいお店を募集中！\n<br />ご応募は<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=384'><u>こちら</u></a>",
+              "info": "北野誠が中高年リスナーとともにお送りする3時間の生放送！\n<br />仕事・家庭・健康…いろいろトラブるお年頃。\n<br />いいことばかりじゃないけれど、テキトーにやればきっと楽しい時もある？そんな人生バラエティワイド！\n\n<br /><br />ズバリ公式LINE＠は<a href=\"http://accountpage.line.me/makozuba1053\"><u>ここから</u></a>\n<br />番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=384'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n\n<br /><br />北野誠とリスナーが自腹で飲み会をする「マコ酒RUN」では、\n<br />北野誠に食べに来てほしいお店を募集中！\n<br />ご応募は<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=384'><u>こちら</u></a>",
               "pfm": "北野誠　松岡亜矢子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/ba4ce9b5-9909-44e1-a907-d5df159bd5c3.png",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -276,7 +341,7 @@
               }
             },
             {
-              "-id": "9657154348",
+              "-id": "9657616124",
               "-ft": "20221003160000",
               "-to": "20221003180000",
               "-ftl": "1600",
@@ -288,7 +353,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "超ド級、スポーツエンタ！",
-              "info": "『超ド級、スポーツエンタ』をコンセプトにしたスポーツ・情報番組。\n<br />月曜は、ドラファンで音楽に精通した大谷ノブ彦が担当し、火曜～金曜は、個性豊かなパーソナリティが、現場至上主義のスポーツ最新情報を取材秘話までお送りします。\n<br />ドラゴンズ応援番組ナンバーワンを目指します。\n\n\n<br /><br />番組ツイッターは<a href=\"https://twitter.com/DragonsCBC\"><u>こちら</u></a>\n<br />番組記事を読む→<a href='https://radichubu.jp/dradama-king/'><u>こちら</u></a>\n<br />番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=439'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
+              "info": "月曜は、ドラファンで音楽に精通した大谷ノブ彦が担当し、火曜～金曜は、個性豊かなパーソナリティが、現場至上主義のスポーツ最新情報を取材秘話までお送りします。\n<br />ドラゴンズ応援番組ナンバーワンを目指します。\n\n\n<br /><br />番組ツイッターは<a href=\"https://twitter.com/DragonsCBC\"><u>こちら</u></a>\n<br />番組記事を読む→<a href='https://radichubu.jp/dradama-king/'><u>こちら</u></a>\n<br />番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=439'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n",
               "pfm": "大谷ノブ彦（ダイノジ）　加藤里奈",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/2822d942-33fd-4979-871f-4a9430dd606b.png",
               "metas": {
@@ -299,7 +364,7 @@
               }
             },
             {
-              "-id": "9657154702",
+              "-id": "9657616266",
               "-ft": "20221003180000",
               "-to": "20221003190000",
               "-ftl": "1800",
@@ -321,7 +386,7 @@
               }
             },
             {
-              "-id": "9657154885",
+              "-id": "9657616342",
               "-ft": "20221003190000",
               "-to": "20221003200000",
               "-ftl": "1900",
@@ -343,20 +408,19 @@
               }
             },
             {
-              "-id": "9657155031",
+              "-id": "9657616423",
               "-ft": "20221003200000",
               "-to": "20221003203000",
               "-ftl": "2000",
               "-tol": "2030",
               "-dur": "1800",
-              "title": "らじお女子の「ラジオに恋して」（第1部）",
+              "title": "らじお女子の「ラジオに恋して」1部",
               "url": "https://hicbc.com/radio/wearerj/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "会いに行くアイドルAKB48 Team 8がお送りする30分！",
               "info": "らじお女子は、CBCラジオの番組オーディションで選ばれた「ラジオ好き」のリスナーで結成したガールズユニット。 <br />2017年6月よりCBC1スタホールで定期公演をスタート。<br />ライブや楽曲で「ラジオの魅力」を伝えるため、精力的に活動を続けています。\n\n<br /><br />番組ツイッターは<a href=\"https://twitter.com/radi_koi\"><u>こちら</u></a>\n<br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=600'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
-              "pfm": "らじお女子/太廊",
+              "pfm": "らじお女子　太廊",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/4f8e314d-a5e9-48f3-b3e4-2aecf0fe0e2e.png",
               "metas": {
                 "meta": {
@@ -366,14 +430,14 @@
               }
             },
             {
-              "-id": "9657155086",
+              "-id": "9657616440",
               "-ft": "20221003203000",
               "-to": "20221003210000",
               "-ftl": "2030",
               "-tol": "2100",
               "-dur": "1800",
               "title": "SKE48 なるべくしゃべりたい",
-              "url": "http://hicbc.com/radio/ske48/",
+              "url": "https://hicbc.com/radio/ske48/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -388,19 +452,19 @@
               }
             },
             {
-              "-id": "9657155180",
+              "-id": "9657616514",
               "-ft": "20221003210000",
               "-to": "20221003213000",
               "-ftl": "2100",
               "-tol": "2130",
               "-dur": "1800",
-              "title": "らじお女子の「ラジオに恋して」（第2部）",
+              "title": "らじお女子の「ラジオに恋して」2部",
               "url": "https://hicbc.com/radio/wearerj/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "らじお女子は、CBCラジオの番組オーディションで選ばれた「ラジオ好き」のリスナーで結成したガールズユニット。 <br />2017年6月よりCBC1スタホールで定期公演をスタート。<br />ライブや楽曲で「ラジオの魅力」を伝えるため、精力的に活動を続けています。\n\n<br /><br />番組ツイッターは<a href=\"https://twitter.com/radi_koi\"><u>こちら</u></a>\n<br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=600'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
-              "pfm": "らじお女子/太廊",
+              "pfm": "らじお女子　太廊",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/4f8e314d-a5e9-48f3-b3e4-2aecf0fe0e2e.png",
               "metas": {
                 "meta": {
@@ -410,7 +474,7 @@
               }
             },
             {
-              "-id": "9657155240",
+              "-id": "9657616527",
               "-ft": "20221003213000",
               "-to": "20221003214000",
               "-ftl": "2130",
@@ -421,7 +485,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "アイドル好きの現役アイドル、SKE48の坂本真凛がお届けする10分間！\n\n<br /><br/>番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=673'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
+              "info": "アイドル好きの現役アイドル、SKE48の坂本真凛がお届けする10分間！\n\n<br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=673'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
               "pfm": "坂本真凛",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/4fb38e99-e1a0-4cc5-85ae-22144163da3f.png",
               "metas": {
@@ -432,7 +496,7 @@
               }
             },
             {
-              "-id": "9657124545",
+              "-id": "9657616530",
               "-ft": "20221003214000",
               "-to": "20221003214500",
               "-ftl": "2140",
@@ -462,14 +526,14 @@
               }
             },
             {
-              "-id": "9657400438",
+              "-id": "9657616532",
               "-ft": "20221003214500",
               "-to": "20221003220000",
               "-ftl": "2145",
               "-tol": "2200",
               "-dur": "900",
               "title": "ココロのオンガク～music for you～",
-              "url": "https://www.joqr.co.jp/qr/program/musicmusic/",
+              "url": "http://www.joqr.co.jp/musicmusic/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -484,20 +548,20 @@
               }
             },
             {
-              "-id": "9657155367",
+              "-id": "9657616601",
               "-ft": "20221003220000",
-              "-to": "20221004000000",
+              "-to": "20221003233000",
               "-ftl": "2200",
-              "-tol": "2400",
-              "-dur": "7200",
+              "-tol": "2330",
+              "-dur": "5400",
               "title": "チュウモリ『BOYS AND MEN 栄第七学園男組』",
               "url": "http://hicbc.com/radio/boysandmen/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "今夜の出席者は誰だ!?",
-              "info": "名古屋を拠点に活躍中のBOYS AND MENが送る2時間半の生放送！\n<br />毎週様々な「授業」や「部活動」にボイメンメンバーが奮闘！\n\n<br /><br />今日もボイメンの楽しいハチャメチャ学園生活を聴き逃すな!!\n\n<br /><br />番組ツイッターは<a href=\"https://twitter.com/SSeventhSchool\"><u>こちら</u></a>\n<br />番組へのおたよりは<a href=\"https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=386\"><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n\n<br /><br />------------------------------------------------------------\n<br /><br />23時5分頃からは「lol-エルオーエル- hibikiのヒビスタグラム」を放送！ \n<br />番組HPは<a href=\"http://hicbc.com/radio/lol/\"><u>こちら</u></a>\n<br />番組へのおたよりは<a href=\"https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=329\"><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n<br />------------------------------------------------------------",
-              "pfm": "BOYS AND MEN　\nコーナー出演：lol-エルオーエル- hibiki",
+              "info": "名古屋のエンターテイメント集団\"BOYS AND MEN\"の生放送！\n<br />名古屋栄にある「栄第七学園」の\"男組\"は落ちこぼれの生徒が集まる男だけのクラス。\n<br />明るさだけは誰にも負けないと自負するメンバーが東海地区を元気にするために日々活動！\n\n<br /><br />番組Twitterは<a href=\"https://twitter.com/SSeventhSchool\"><u>こちら</u></a>\n<br />番組へのおたよりは<a href=\"https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=386\"><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n\n<br /><br />------------------------------------------------------------\n<br />23時05分からは「lol-エルオーエル- hibikiのヒビスタグラム」を放送！ \n<br />番組HPは<a href=\"http://hicbc.com/radio/lol/\"><u>こちら</u></a>\n<br />番組へのおたよりは<a href=\"https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=329\"><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n<br />------------------------------------------------------------",
+              "pfm": "BOYS AND MEN",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/a8fd2429-00f4-4f19-98a6-4ae725be506f.png",
               "genre": {
                 "personality": {
@@ -517,7 +581,29 @@
               }
             },
             {
-              "-id": "9657400678",
+              "-id": "9657616623",
+              "-ft": "20221003233000",
+              "-to": "20221004000000",
+              "-ftl": "2330",
+              "-tol": "2400",
+              "-dur": "1800",
+              "title": "古舘伊知郎×本田剛文のおしゃべり道場",
+              "url": "https://hicbc.com/radio/dojo/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "師弟関係の古舘伊知郎と本田剛文が巷の気になること、よくわからないことを教え合い、“オジサン目線”“若者目線”でお互いを高め合います。\n<br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=599'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
+              "pfm": "古舘伊知郎　本田剛文（BOYS AND MEN）\n",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/7aa2bce8-a388-43c7-89da-96957c92e544.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9657616696",
               "-ft": "20221004000000",
               "-to": "20221004010000",
               "-ftl": "2400",
@@ -539,7 +625,7 @@
               }
             },
             {
-              "-id": "9657400808",
+              "-id": "9657616774",
               "-ft": "20221004010000",
               "-to": "20221004030000",
               "-ftl": "2500",
@@ -561,7 +647,7 @@
               }
             },
             {
-              "-id": "9657400935",
+              "-id": "9657616833",
               "-ft": "20221004030000",
               "-to": "20221004050000",
               "-ftl": "2700",
