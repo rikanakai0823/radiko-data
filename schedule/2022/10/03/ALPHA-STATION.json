@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1664302091",
+    "srvtime": "1664474871",
     "stations": {
       "station": {
         "-id": "ALPHA-STATION",
@@ -10,7 +10,7 @@
           "date": "20221003",
           "prog": [
             {
-              "-id": "9657421364",
+              "-id": "9657963715",
               "-ft": "20221003050000",
               "-to": "20221003060000",
               "-ftl": "0500",
@@ -62,7 +62,7 @@
               }
             },
             {
-              "-id": "9657421463",
+              "-id": "9657963818",
               "-ft": "20221003060000",
               "-to": "20221003070000",
               "-ftl": "0600",
@@ -575,12 +575,34 @@
               }
             },
             {
-              "-id": "9657155432",
+              "-id": "9657872802",
               "-ft": "20221003230000",
-              "-to": "20221004010000",
+              "-to": "20221004000000",
               "-ftl": "2300",
+              "-tol": "2400",
+              "-dur": "3600",
+              "title": "Takara Leben Group presents 民放ラジオ99局特別番組 “スピーカーでラジオを聴こう”キャンペーン  WE LOVE RADIO 松任谷由実 50th ANNIVERSARY～日本中、ユーミンに包まれたなら～",
+              "url": "https://www.weloveradio2022.jp/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "民放ラジオ99局の特別番組。キャンペーンアンバサダーの松任谷由実さんが出演、スペシャル公開収録の模様をお届けします！",
+              "pfm": "松任谷由実 /垣花正 /住吉美紀",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ALPHA-STATION/eb946aa0-e5d1-4e0f-b793-8395a6b1c269.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9657872888",
+              "-ft": "20221004000000",
+              "-to": "20221004010000",
+              "-ftl": "2400",
               "-tol": "2500",
-              "-dur": "7200",
+              "-dur": "3600",
               "title": "PLAY BACK",
               "url": "http://fm-kyoto.jp/blog/play_back/",
               "failed_record": "0",
@@ -602,6 +624,12 @@
                     "name": "深夜ディスコ"
                   }
                 ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
               },
               "metas": {
                 "meta": [
