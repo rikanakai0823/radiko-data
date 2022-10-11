@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1665338891",
+    "srvtime": "1665511662",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -655,21 +655,40 @@
               }
             },
             {
-              "-id": "9661605620",
+              "-id": "9663944378",
               "-ft": "20221015175500",
-              "-to": "20221015180000",
+              "-to": "20221015200000",
               "-ftl": "1755",
-              "-tol": "1800",
-              "-dur": "300",
-              "title": "ＡＢＣニュース＆天気予報",
+              "-tol": "2000",
+              "-dur": "7500",
+              "title": "ＡＢＣフレッシュアップベースボール　クライマックスシリーズ　ファイナルステージ(1)",
               "url": "https://www.abc1008.com/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
+              "info": "ヤクルト―阪神（神宮）<BR>※試合終了までお届けします<BR>解説：中西清起<BR>実況：伊藤史隆<BR><BR><BR>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
               "tag": {
-                "item": {
-                  "name": "ABCラジオ"
+                "item": [
+                  {
+                    "name": "#toraban1008"
+                  },
+                  {
+                    "name": "#ABCフレッシュアップベースボール"
+                  },
+                  {
+                    "name": "ABCラジオ"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C013",
+                  "name": "アスリート"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
                 }
               },
               "metas": {
@@ -680,20 +699,19 @@
               }
             },
             {
-              "-id": "9662319127",
-              "-ft": "20221015180000",
+              "-id": "9663880004",
+              "-ft": "20221015200000",
               "-to": "20221015210000",
-              "-ftl": "1800",
+              "-ftl": "2000",
               "-tol": "2100",
-              "-dur": "10800",
-              "title": "山下剛のナイスじゃナイト！(1)",
-              "url": "https://www.abc1008.com/nice_yamashita/index.html",
+              "-dur": "3600",
+              "title": "ＡＢＣフレッシュアップベースボール　クライマックスシリーズ　ファイナルステージ(2)",
+              "url": "https://www.abc1008.com/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "メールアドレス：<a href=\"mailto:nice@abc1008.com\">nice@abc1008.com</a><BR><BR><BR>",
-              "pfm": "山下剛",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/45e45540-9a08-4a47-9011-911855dc3abe.jpeg",
+              "info": "ヤクルト―阪神（神宮）<BR>※試合終了までお届けします<BR>解説：中西清起<BR>実況：伊藤史隆<BR><BR><BR>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -702,20 +720,39 @@
               }
             },
             {
-              "-id": "9661774680",
+              "-id": "9663880088",
               "-ft": "20221015210000",
-              "-to": "20221015213000",
+              "-to": "20221015210500",
               "-ftl": "2100",
-              "-tol": "2130",
-              "-dur": "1800",
-              "title": "山下剛のナイスじゃナイト！(2)",
-              "url": "https://www.abc1008.com/nice_yamashita/index.html",
+              "-tol": "2105",
+              "-dur": "300",
+              "title": "ＡＢＣニュース＆天気予報",
+              "url": "https://www.abc1008.com/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "メールアドレス：<a href=\"mailto:nice@abc1008.com\">nice@abc1008.com</a><BR><BR><BR>",
-              "pfm": "山下剛",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/45e45540-9a08-4a47-9011-911855dc3abe.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9663920445",
+              "-ft": "20221015210500",
+              "-to": "20221015213000",
+              "-ftl": "2105",
+              "-tol": "2130",
+              "-dur": "1500",
+              "title": "小早川秀樹のマシマシ！ベースボール",
+              "url": "https://www.abc1008.com/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "小早川秀樹",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -775,13 +812,13 @@
               }
             },
             {
-              "-id": "9661774709",
+              "-id": "9663880168",
               "-ft": "20221015220000",
               "-to": "20221015223000",
               "-ftl": "2200",
               "-tol": "2230",
               "-dur": "1800",
-              "title": "ＡＢＣミュージックパラダイス＋",
+              "title": "ＡＢＣミュージックパラダイス＋　０４Ｌｉｍｉｔｅｄ　Ｓａｚａｂｙｓ「Ｈａｒｖｅｓｔ」エディション",
               "url": "https://www.abc1008.com/",
               "failed_record": "0",
               "ts_in_ng": "0",

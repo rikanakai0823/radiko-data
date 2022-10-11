@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1665425295",
+    "srvtime": "1665511675",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -663,13 +663,13 @@
               }
             },
             {
-              "-id": "9662661697",
+              "-id": "9663921351",
               "-ft": "20221016130000",
               "-to": "20221016160000",
               "-ftl": "1300",
               "-tol": "1600",
               "-dur": "10800",
-              "title": "ＳＴＡＲ☆ＭＵＳＩＣ☆ＳＵＮＤＡＹ(1)",
+              "title": "ＳＴＡＲ☆ＭＵＳＩＣ☆ＳＵＮＤＡＹ",
               "url": "https://www.abc1008.com/sms/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -714,54 +714,24 @@
               }
             },
             {
-              "-id": "9662661882",
+              "-id": "9663921536",
               "-ft": "20221016160000",
               "-to": "20221016170000",
               "-ftl": "1600",
               "-tol": "1700",
               "-dur": "3600",
-              "title": "ＳＴＡＲ☆ＭＵＳＩＣ☆ＳＵＮＤＡＹ(2)",
-              "url": "https://www.abc1008.com/sms/",
+              "title": "日本冷凍食品協会プレゼンツ　武田和歌子の冷食のススメ。",
+              "url": "https://www.abc1008.com/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_shimoguchi.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:sms@abc1008.com\">sms@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%BB%E3%81%97%E3%81%8A%E3%82%93\">#ほしおん</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/sms_hoshion\">@sms_hoshion</a>」<BR><BR><BR>",
-              "pfm": "しもぐち☆雅充",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/cbe2c3n9te.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ABCラジオ"
-                  },
-                  {
-                    "name": "ほしおん"
-                  },
-                  {
-                    "name": "吸い込まれる!"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
+              "pfm": "武田和歌子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
               "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#ほしおん"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:sms_hoshion"
-                  }
-                ]
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
               }
             },
             {
@@ -797,21 +767,40 @@
               }
             },
             {
-              "-id": "9662321330",
+              "-id": "9664097762",
               "-ft": "20221016175500",
-              "-to": "20221016180000",
+              "-to": "20221016200000",
               "-ftl": "1755",
-              "-tol": "1800",
-              "-dur": "300",
-              "title": "ＡＢＣニュース＆天気予報",
+              "-tol": "2000",
+              "-dur": "7500",
+              "title": "ＡＢＣフレッシュアップベースボール　クライマックスシリーズ　ファイナルステージ(1)",
               "url": "https://www.abc1008.com/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
+              "info": "ヤクルト―阪神（神宮）<BR>※試合終了までお届けします<BR>解説：桧山進次郎<BR>実況：高野純一<BR><BR><BR>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
               "tag": {
-                "item": {
-                  "name": "ABCラジオ"
+                "item": [
+                  {
+                    "name": "#toraban1008"
+                  },
+                  {
+                    "name": "#ABCフレッシュアップベースボール"
+                  },
+                  {
+                    "name": "ABCラジオ"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C013",
+                  "name": "アスリート"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
                 }
               },
               "metas": {
@@ -822,69 +811,65 @@
               }
             },
             {
-              "-id": "9662402339",
-              "-ft": "20221016180000",
+              "-id": "9663910617",
+              "-ft": "20221016200000",
               "-to": "20221016210000",
-              "-ftl": "1800",
+              "-ftl": "2000",
               "-tol": "2100",
-              "-dur": "10800",
-              "title": "サニー・フランシスのマサララジオ(1)",
-              "url": "https://www.abc1008.com/masararadio/",
+              "-dur": "3600",
+              "title": "ＡＢＣフレッシュアップベースボール　クライマックスシリーズ　ファイナルステージ(2)",
+              "url": "https://www.abc1008.com/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_sunnyfrancis.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:masara@abc1008.com\">masara@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%9E%E3%82%B5%E3%83%A9%E3%83%A9%E3%82%B8%E3%82%AA\">#マサララジオ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/masara_abc\">@masara_abc</a>」<BR><BR><BR>",
-              "pfm": "サニー・フランシス／小寺右子",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/d19afbbc-0ef2-41d9-9e2b-6c93e9bb54c6.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
+              "info": "ヤクルト―阪神（神宮）<BR>※試合終了までお届けします<BR>解説：桧山進次郎<BR>実況：高野純一<BR><BR><BR>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
               "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#マサララジオ"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:masara_abc"
-                  }
-                ]
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
               }
             },
             {
-              "-id": "9662402583",
+              "-id": "9663910681",
               "-ft": "20221016210000",
-              "-to": "20221016213000",
+              "-to": "20221016210500",
               "-ftl": "2100",
-              "-tol": "2130",
-              "-dur": "1800",
-              "title": "サニー・フランシスのマサララジオ(2)",
-              "url": "https://www.abc1008.com/masararadio/",
+              "-tol": "2105",
+              "-dur": "300",
+              "title": "ＡＢＣニュース＆天気予報",
+              "url": "https://www.abc1008.com/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_sunnyfrancis.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:masara@abc1008.com\">masara@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%9E%E3%82%B5%E3%83%A9%E3%83%A9%E3%82%B8%E3%82%AA\">#マサララジオ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/masara_abc\">@masara_abc</a>」<BR><BR><BR>",
-              "pfm": "サニー・フランシス／小寺右子",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/d19afbbc-0ef2-41d9-9e2b-6c93e9bb54c6.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
               "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#マサララジオ"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:masara_abc"
-                  }
-                ]
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9663921704",
+              "-ft": "20221016210500",
+              "-to": "20221016213000",
+              "-ftl": "2105",
+              "-tol": "2130",
+              "-dur": "1500",
+              "title": "小早川秀樹のマシマシ！ベースボール",
+              "url": "https://www.abc1008.com/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "小早川秀樹",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
               }
             },
             {
@@ -1053,12 +1038,12 @@
               }
             },
             {
-              "-id": "9662921910",
+              "-id": "9663911063",
               "-ft": "20221017010000",
-              "-to": "20221017030000",
+              "-to": "20221017032500",
               "-ftl": "2500",
-              "-tol": "2700",
-              "-dur": "7200",
+              "-tol": "2725",
+              "-dur": "8700",
               "title": "ＥＮＤＩＮＧ　放送休止",
               "url": "https://www.abc1008.com/",
               "failed_record": "0",
@@ -1080,12 +1065,39 @@
               }
             },
             {
-              "-id": "9662675967",
-              "-ft": "20221017030000",
+              "-id": "9663911111",
+              "-ft": "20221017032500",
+              "-to": "20221017033000",
+              "-ftl": "2725",
+              "-tol": "2730",
+              "-dur": "300",
+              "title": "ＥＮＤＩＮＧ　放送休止",
+              "url": "https://www.abc1008.com/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23abc1008\">#abc1008</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc1008khz\">@abc1008khz</a>」<BR><BR><BR>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#abc1008"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:abc1008khz"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9663950852",
+              "-ft": "20221017033000",
               "-to": "20221017043500",
-              "-ftl": "2700",
+              "-ftl": "2730",
               "-tol": "2835",
-              "-dur": "5700",
+              "-dur": "3900",
               "title": "ＯＰＥＮＩＮＧ　放送開始",
               "url": "https://www.abc1008.com/",
               "failed_record": "0",
