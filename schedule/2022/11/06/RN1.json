@@ -1,0 +1,417 @@
+{
+  "radiko": {
+    "ttl": "1800",
+    "srvtime": "1667239718",
+    "stations": {
+      "station": {
+        "-id": "RN1",
+        "name": "ラジオNIKKEI第1",
+        "progs": {
+          "date": "20221106",
+          "prog": [
+            {
+              "-id": "9673963494",
+              "-ft": "20221106050000",
+              "-to": "20221106084000",
+              "-ftl": "0500",
+              "-tol": "0840",
+              "-dur": "13200",
+              "title": "番組休止中",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/d548ca77-a3d3-4df6-a80e-0f071dccf11d.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9673963738",
+              "-ft": "20221106084000",
+              "-to": "20221106084500",
+              "-ftl": "0840",
+              "-tol": "0845",
+              "-dur": "300",
+              "title": "開始アナウンス",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/d548ca77-a3d3-4df6-a80e-0f071dccf11d.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9673963744",
+              "-ft": "20221106084500",
+              "-to": "20221106085000",
+              "-ftl": "0845",
+              "-tol": "0850",
+              "-dur": "300",
+              "title": "おすすめラニィちゃん",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/d548ca77-a3d3-4df6-a80e-0f071dccf11d.png",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9673963745",
+              "-ft": "20221106085000",
+              "-to": "20221106090000",
+              "-ftl": "0850",
+              "-tol": "0900",
+              "-dur": "600",
+              "title": "日経電子版NEWS",
+              "url": "https://www.radionikkei.jp/ndn/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "日経電子版から、平日は朝・昼・夕の3回、土曜日・日曜日・祝日は朝・夕の2回、ホットニュースをピックアップしてお届けします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/em82074w8o.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9673963770",
+              "-ft": "20221106090000",
+              "-to": "20221106093000",
+              "-ftl": "0900",
+              "-tol": "0930",
+              "-dur": "1800",
+              "title": "ミュージックライフ・サンデー",
+              "url": "https://www.radionikkei.jp/mlife/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "佐藤泉（ラジオNIKKEIアナウンサー）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/8my9hh7q5g.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9673963788",
+              "-ft": "20221106093000",
+              "-to": "20221106120000",
+              "-ftl": "0930",
+              "-tol": "1200",
+              "-dur": "9000",
+              "title": "中央競馬実況中継",
+              "url": "https://www.radionikkei.jp/keibablog/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "出演者・コーナーなど番組の詳細については、「中央競馬実況中継」番組ブログをチェック！<br>\n<br>\n<a href=\"http://blog.radionikkei.jp/keibablog/\">http://blog.radionikkei.jp/keibablog/</a><br>\n<br>\nまた、「ラジオNIKKEI競馬実況Web」で、競馬ニュースやアナウンサーコラムなどを掲載中！<br>\n<br>\nラジオNIKKEI競馬実況Web：<a href=\"http://keiba.radionikkei.jp/\">http://keiba.radionikkei.jp/</a><br>\n<br>\ntwitterアカウントはこちら↓<br>「@keiba_ana_east」（中央競馬実況中継）<br>\n「@keiba_ana_west」（ラジオNIKKEIアナウンサーズ）<br>\ntwitterハッシュタグは「#keiba_radio」です。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/wddn0eiizk.png",
+              "genre": {
+                "program": {
+                  "-id": "P019",
+                  "name": "公営競技"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9673963933",
+              "-ft": "20221106120000",
+              "-to": "20221106143000",
+              "-ftl": "1200",
+              "-tol": "1430",
+              "-dur": "9000",
+              "title": "中央競馬実況中継",
+              "url": "https://www.radionikkei.jp/keibablog/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "出演者・コーナーなど番組の詳細については、「中央競馬実況中継」番組ブログをチェック！<br>\n<br>\n<a href=\"http://blog.radionikkei.jp/keibablog/\">http://blog.radionikkei.jp/keibablog/</a><br>\n<br>\nまた、「ラジオNIKKEI競馬実況Web」で、競馬ニュースやアナウンサーコラムなどを掲載中！<br>\n<br>\nラジオNIKKEI競馬実況Web：<a href=\"http://keiba.radionikkei.jp/\">http://keiba.radionikkei.jp/</a><br>\n<br>\ntwitterアカウントはこちら↓<br>「@keiba_ana_east」（中央競馬実況中継）<br>\n「@keiba_ana_west」（ラジオNIKKEIアナウンサーズ）<br>\ntwitterハッシュタグは「#keiba_radio」です。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/wddn0eiizk.png",
+              "genre": {
+                "program": {
+                  "-id": "P019",
+                  "name": "公営競技"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9673964057",
+              "-ft": "20221106143000",
+              "-to": "20221106164500",
+              "-ftl": "1430",
+              "-tol": "1645",
+              "-dur": "8100",
+              "title": "中央競馬実況中継",
+              "url": "https://www.radionikkei.jp/keibablog/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "出演者・コーナーなど番組の詳細については、「中央競馬実況中継」番組ブログをチェック！<br>\n<br>\n<a href=\"http://blog.radionikkei.jp/keibablog/\">http://blog.radionikkei.jp/keibablog/</a><br>\n<br>\nまた、「ラジオNIKKEI競馬実況Web」で、競馬ニュースやアナウンサーコラムなどを掲載中！<br>\n<br>\nラジオNIKKEI競馬実況Web：<a href=\"http://keiba.radionikkei.jp/\">http://keiba.radionikkei.jp/</a><br>\n<br>\ntwitterアカウントはこちら↓<br>「@keiba_ana_east」（中央競馬実況中継）<br>\n「@keiba_ana_west」（ラジオNIKKEIアナウンサーズ）<br>\ntwitterハッシュタグは「#keiba_radio」です。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/wddn0eiizk.png",
+              "genre": {
+                "program": {
+                  "-id": "P019",
+                  "name": "公営競技"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9673964134",
+              "-ft": "20221106164500",
+              "-to": "20221106170000",
+              "-ftl": "1645",
+              "-tol": "1700",
+              "-dur": "900",
+              "title": "地方競馬プラスワン",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/d548ca77-a3d3-4df6-a80e-0f071dccf11d.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9673964153",
+              "-ft": "20221106170000",
+              "-to": "20221106171000",
+              "-ftl": "1700",
+              "-tol": "1710",
+              "-dur": "600",
+              "title": "日経電子版NEWS",
+              "url": "https://www.radionikkei.jp/ndn/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "日経電子版から、平日は朝・昼・夕の3回、土曜日・日曜日・祝日は朝・夕の2回、ホットニュースをピックアップしてお届けします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/em82074w8o.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9673964160",
+              "-ft": "20221106171000",
+              "-to": "20221106173000",
+              "-ftl": "1710",
+              "-tol": "1730",
+              "-dur": "1200",
+              "title": "あの日　あの時　あのレース",
+              "url": "https://www.radionikkei.jp/anohianotokianorace/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "この番組では、歴史に残る名馬や、印象に残ったレースやエピソードを、レース実況とともに振り返ります。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/n833w3jisc.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9673964174",
+              "-ft": "20221106173000",
+              "-to": "20221106180000",
+              "-ftl": "1730",
+              "-tol": "1800",
+              "-dur": "1800",
+              "title": "寄席あぷり～みなと芝浜寄席から",
+              "url": "https://www.radionikkei.jp/yose/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "寄席で演じられた選りすぐりの落語をお届けします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/rvpxle8ybg.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9673964204",
+              "-ft": "20221106180000",
+              "-to": "20221106182000",
+              "-ftl": "1800",
+              "-tol": "1820",
+              "-dur": "1200",
+              "title": "健康ネットワーク",
+              "url": "https://www.radionikkei.jp/kenkounet/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "毎週、医療や健康、化学にまつわる専門家をゲストに迎える健康生活応援番組。<br>\n健康な生活を送るための医学的知識や美容のノウハウ、サプリメントを開発・販売・選択するために必要な化学の知識を中心に、トークを展開します。健康生活のヒントはこの番組で！<br>\n<br>\n聞き手は、薬剤師の堀美智子さんと、環状オリゴ糖研究の第一人者、寺尾啓二さん（コサナ社長・神戸大学医学部客員教授）。",
+              "pfm": "堀美智子 / 寺尾啓二",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/0u71w8n80s.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9673964214",
+              "-ft": "20221106182000",
+              "-to": "20221106183000",
+              "-ftl": "1820",
+              "-tol": "1830",
+              "-dur": "600",
+              "title": "ななかもしか発見伝！",
+              "url": "https://www.radionikkei.jp/nanakamoshika/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "ラジオNIKKEI新人アナウンサーの藤原菜々花が様々な「発見」をリスナーと共有する番組。元気に自由に毎週日曜日の10分間をお届けします！",
+              "pfm": "藤原菜々花",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/iu86k5r8o9.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9673964224",
+              "-ft": "20221106183000",
+              "-to": "20221106190000",
+              "-ftl": "1830",
+              "-tol": "1900",
+              "-dur": "1800",
+              "title": "私の書いたポエム",
+              "url": "https://www.radionikkei.jp/poem/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "番組では、寄せられたメールやおたよりに込められた気持ちや言葉を受けて、語り継いでいきたい「こころ」について考えます。ポエム（詩）や季節の便り、身のまわりの出来事、誰かに伝えたい想い、リクエスト曲など、幅広い内容のリスナーの声をご紹介しながら、パーソナリティー２人のトークをお届けします。",
+              "pfm": "長岡一也 / 大橋照子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/plwwyyo11r.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9673964254",
+              "-ft": "20221106190000",
+              "-to": "20221106193000",
+              "-ftl": "1900",
+              "-tol": "1930",
+              "-dur": "1800",
+              "title": "テイスト・オブ・ジャズ",
+              "url": "https://www.radionikkei.jp/music/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "民放ラジオ最長寿級のジャズ番組「テイスト・オブ・ジャズ」。<br>\n進行役は、フリーアナウンサーの山本郁。毎回ミュージシャン、シンガー、ジャズ関係者などをスタジオに招き、そのゲストにゆかりの曲をかけてジャズ・トークをお届けします。ジャズ的なユルめのトークが人気です。<br>\n外来ミュージシャンのゲスト出演も多く、日本のミュージシャンでは、ベテランから新鋭まで多数のゲストにお越しいただいています。ゲストミュージシャンの多彩な顔触れと、他ではみられない（聴けない？）素顔（素声？）にご注目ください。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/elizgz9349.png",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9673964262",
+              "-ft": "20221106193000",
+              "-to": "20221107045900",
+              "-ftl": "1930",
+              "-tol": "2859",
+              "-dur": "34140",
+              "title": "番組休止中",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/d548ca77-a3d3-4df6-a80e-0f071dccf11d.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
