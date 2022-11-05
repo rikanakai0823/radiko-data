@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1667412273",
+    "srvtime": "1667671501",
     "stations": {
       "station": {
         "-id": "STV",
@@ -10,7 +10,7 @@
           "date": "20221108",
           "prog": [
             {
-              "-id": "9675147150",
+              "-id": "9677963699",
               "-ft": "20221108050000",
               "-to": "20221108050500",
               "-ftl": "0500",
@@ -37,7 +37,7 @@
               }
             },
             {
-              "-id": "9675179170",
+              "-id": "9677995433",
               "-ft": "20221108050500",
               "-to": "20221108052000",
               "-ftl": "0505",
@@ -58,7 +58,7 @@
               }
             },
             {
-              "-id": "9675208301",
+              "-id": "9677995441",
               "-ft": "20221108052000",
               "-to": "20221108053000",
               "-ftl": "0520",
@@ -91,13 +91,13 @@
               }
             },
             {
-              "-id": "9675179231",
+              "-id": "9677995484",
               "-ft": "20221108053000",
               "-to": "20221108073100",
               "-ftl": "0530",
               "-tol": "0731",
               "-dur": "7260",
-              "title": "北海道ライブ　あさミミ！",
+              "title": "北海道ライブ あさミミ！",
               "url": "https://www.stv.jp/radio/asamimi/index.html",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -107,6 +107,10 @@
               "pfm": "八幡淳　油野純帆",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/16d3a55a-8cc5-4805-986c-d5918037146a.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -120,7 +124,7 @@
               }
             },
             {
-              "-id": "9675208494",
+              "-id": "9677995632",
               "-ft": "20221108073100",
               "-to": "20221108073700",
               "-ftl": "0731",
@@ -152,13 +156,13 @@
               }
             },
             {
-              "-id": "9675179450",
+              "-id": "9677995634",
               "-ft": "20221108073700",
               "-to": "20221108080000",
               "-ftl": "0737",
               "-tol": "0800",
               "-dur": "1380",
-              "title": "北海道ライブ　あさミミ！",
+              "title": "北海道ライブ あさミミ！",
               "url": "https://www.stv.jp/radio/asamimi/index.html",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -168,6 +172,10 @@
               "pfm": "八幡淳　油野純帆",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/16d3a55a-8cc5-4805-986c-d5918037146a.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -181,13 +189,13 @@
               }
             },
             {
-              "-id": "9675179484",
+              "-id": "9677995673",
               "-ft": "20221108080000",
-              "-to": "20221108100000",
+              "-to": "20221108090000",
               "-ftl": "0800",
-              "-tol": "1000",
-              "-dur": "7200",
-              "title": "リクエストプラザ",
+              "-tol": "0900",
+              "-dur": "3600",
+              "title": "リクエストプラザ (1)",
               "url": "https://www.stv.jp/radio/rikupura/index.html",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -214,13 +222,46 @@
               }
             },
             {
-              "-id": "9675179668",
+              "-id": "9677995674",
+              "-ft": "20221108090000",
+              "-to": "20221108100000",
+              "-ftl": "0900",
+              "-tol": "1000",
+              "-dur": "3600",
+              "title": "リクエストプラザ (2)",
+              "url": "https://www.stv.jp/radio/rikupura/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "あなたの朝を音楽で応援！２時間たっぷり全曲フルコーラスでお届けします！",
+              "info": "メール：rikupura@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "奈良まなみ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/c2686e90-2473-4462-bfee-f50e2961ea65.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9677995788",
               "-ft": "20221108100000",
-              "-to": "20221108130000",
+              "-to": "20221108110000",
               "-ftl": "1000",
-              "-tol": "1300",
-              "-dur": "10800",
-              "title": "工藤じゅんきの十人十色",
+              "-tol": "1100",
+              "-dur": "3600",
+              "title": "工藤じゅんきの十人十色 (1)",
               "url": "https://www.stv.jp/radio/toiro/index.html",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -247,21 +288,31 @@
               }
             },
             {
-              "-id": "9675179983",
-              "-ft": "20221108130000",
-              "-to": "20221108160000",
-              "-ftl": "1300",
-              "-tol": "1600",
-              "-dur": "10800",
-              "title": "まるごと！エンタメ～ション",
-              "url": "https://www.stv.jp/radio/entamation/index.html",
+              "-id": "9677995789",
+              "-ft": "20221108110000",
+              "-to": "20221108120000",
+              "-ftl": "1100",
+              "-tol": "1200",
+              "-dur": "3600",
+              "title": "工藤じゅんきの十人十色 (2)",
+              "url": "https://www.stv.jp/radio/toiro/index.html",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "佐々木たくおがメインパーソナリティを務める、トーク・音楽・話題・情報満載の３時間生放送！◇13：40～「ようじのぢかん」",
-              "info": "メール：marugoto@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
-              "pfm": "佐々木たくお　庭野ほのか　／　木村洋二",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/0cf200f6-79bb-4741-a3c5-db1184cdd8c6.jpeg",
+              "desc": "生活における喜怒哀楽を番組独自の切り口で展開していく３時間 毎日日替わりのテーマで、流行もの、生活スタイル、思い出話、男と女のあんな話やこんな話を明るく、楽しく紹介します。 ◇12：43頃～「氷川きよし　限界突破RADIO 」",
+              "info": "メール：toiro@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "工藤じゅんき　内山よしこ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/a8b53a35-e5a0-4bf6-941f-d5c46dc42287.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -270,13 +321,145 @@
               }
             },
             {
-              "-id": "9675180249",
+              "-id": "9677995790",
+              "-ft": "20221108120000",
+              "-to": "20221108130000",
+              "-ftl": "1200",
+              "-tol": "1300",
+              "-dur": "3600",
+              "title": "工藤じゅんきの十人十色 (3)",
+              "url": "https://www.stv.jp/radio/toiro/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "生活における喜怒哀楽を番組独自の切り口で展開していく３時間 毎日日替わりのテーマで、流行もの、生活スタイル、思い出話、男と女のあんな話やこんな話を明るく、楽しく紹介します。 ◇12：43頃～「氷川きよし　限界突破RADIO 」",
+              "info": "メール：toiro@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "工藤じゅんき　内山よしこ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/a8b53a35-e5a0-4bf6-941f-d5c46dc42287.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9677996090",
+              "-ft": "20221108130000",
+              "-to": "20221108140000",
+              "-ftl": "1300",
+              "-tol": "1400",
+              "-dur": "3600",
+              "title": "まるごと！エンタメ～ション (1)",
+              "url": "https://www.stv.jp/radio/entamation/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "佐々木たくおがメインパーソナリティを務める、トーク・音楽・話題・情報満載の３時間生放送！◇13：40～「ようじのぢかん」",
+              "info": "メール：marugoto@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "佐々木たくお　兼子真衣　／　木村洋二　福永俊介",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/0cf200f6-79bb-4741-a3c5-db1184cdd8c6.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9677996091",
+              "-ft": "20221108140000",
+              "-to": "20221108150000",
+              "-ftl": "1400",
+              "-tol": "1500",
+              "-dur": "3600",
+              "title": "まるごと！エンタメ～ション (2)",
+              "url": "https://www.stv.jp/radio/entamation/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "佐々木たくおがメインパーソナリティを務める、トーク・音楽・話題・情報満載の３時間生放送！◇13：40～「ようじのぢかん」",
+              "info": "メール：marugoto@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "佐々木たくお　兼子真衣　／　木村洋二　福永俊介",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/0cf200f6-79bb-4741-a3c5-db1184cdd8c6.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9677996092",
+              "-ft": "20221108150000",
+              "-to": "20221108160000",
+              "-ftl": "1500",
+              "-tol": "1600",
+              "-dur": "3600",
+              "title": "まるごと！エンタメ～ション (3)",
+              "url": "https://www.stv.jp/radio/entamation/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "佐々木たくおがメインパーソナリティを務める、トーク・音楽・話題・情報満載の３時間生放送！◇13：40～「ようじのぢかん」",
+              "info": "メール：marugoto@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "佐々木たくお　兼子真衣　／　木村洋二　福永俊介",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/0cf200f6-79bb-4741-a3c5-db1184cdd8c6.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9677996373",
               "-ft": "20221108160000",
-              "-to": "20221108190000",
+              "-to": "20221108170000",
               "-ftl": "1600",
-              "-tol": "1900",
-              "-dur": "10800",
-              "title": "吉川のりお　スーパーＬＩＶＥ",
+              "-tol": "1700",
+              "-dur": "3600",
+              "title": "吉川のりお スーパーLIVE (1)",
               "url": "https://www.stv.jp/radio/super-live/index.html",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -303,7 +486,73 @@
               }
             },
             {
-              "-id": "9675176055",
+              "-id": "9677996374",
+              "-ft": "20221108170000",
+              "-to": "20221108180000",
+              "-ftl": "1700",
+              "-tol": "1800",
+              "-dur": "3600",
+              "title": "吉川のりお スーパーLIVE (2)",
+              "url": "https://www.stv.jp/radio/super-live/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "道内をはじめ全国の最新ニュースをいち早くお届けする情報バラエティ番組。「今何が起こっているか」をコンパクトにわかりやすくお伝えします。◇16：45頃～「スポーツ伝説」17：00～「ニュースパレード」17：30～「白井一幸　ブリング・アップ」",
+              "info": "メール：live@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "吉川のりお　草野あずみ　／　牧やすまさ　／　白井一幸",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/685cc077-3bd9-41bb-a67e-8410802c59ef.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9677996375",
+              "-ft": "20221108180000",
+              "-to": "20221108190000",
+              "-ftl": "1800",
+              "-tol": "1900",
+              "-dur": "3600",
+              "title": "吉川のりお スーパーLIVE (3)",
+              "url": "https://www.stv.jp/radio/super-live/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "道内をはじめ全国の最新ニュースをいち早くお届けする情報バラエティ番組。「今何が起こっているか」をコンパクトにわかりやすくお伝えします。◇16：45頃～「スポーツ伝説」17：00～「ニュースパレード」17：30～「白井一幸　ブリング・アップ」",
+              "info": "メール：live@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
+              "pfm": "吉川のりお　草野あずみ　／　牧やすまさ　／　白井一幸",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/685cc077-3bd9-41bb-a67e-8410802c59ef.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9677996645",
               "-ft": "20221108190000",
               "-to": "20221108220000",
               "-ftl": "1900",
@@ -336,13 +585,13 @@
               }
             },
             {
-              "-id": "9675806782",
+              "-id": "9677996926",
               "-ft": "20221108220000",
               "-to": "20221109000000",
               "-ftl": "2200",
               "-tol": "2400",
               "-dur": "7200",
-              "title": "オールナイトニッポン  ＭＵＳＩＣ１０",
+              "title": "オールナイトニッポン MUSIC10",
               "url": "http://www.allnightnippon.com/music10/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -368,7 +617,7 @@
               }
             },
             {
-              "-id": "9675778841",
+              "-id": "9677997042",
               "-ft": "20221109000000",
               "-to": "20221109010000",
               "-ftl": "2400",
@@ -400,7 +649,7 @@
               }
             },
             {
-              "-id": "9675807055",
+              "-id": "9677997134",
               "-ft": "20221109010000",
               "-to": "20221109030000",
               "-ftl": "2500",
@@ -432,7 +681,7 @@
               }
             },
             {
-              "-id": "9675778921",
+              "-id": "9677997201",
               "-ft": "20221109030000",
               "-to": "20221109043000",
               "-ftl": "2700",
@@ -464,7 +713,7 @@
               }
             },
             {
-              "-id": "9675778956",
+              "-id": "9677965527",
               "-ft": "20221109043000",
               "-to": "20221109044500",
               "-ftl": "2830",
@@ -475,7 +724,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/b006e938-de1f-436f-9a83-e54929887ba7.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/6fb8f761-d8ef-4254-b4ce-b619d22a4e6c.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -494,7 +743,7 @@
               }
             },
             {
-              "-id": "9675464795",
+              "-id": "9677965530",
               "-ft": "20221109044500",
               "-to": "20221109050000",
               "-ftl": "2845",
@@ -504,7 +753,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/b006e938-de1f-436f-9a83-e54929887ba7.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/6fb8f761-d8ef-4254-b4ce-b619d22a4e6c.jpeg",
               "genre": {
                 "program": {
                   "-id": "P018",
