@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1667844290",
+    "srvtime": "1668103503",
     "stations": {
       "station": {
         "-id": "NORTHWAVE",
@@ -10,7 +10,7 @@
           "date": "20221113",
           "prog": [
             {
-              "-id": "9678426621",
+              "-id": "9681394184",
               "-ft": "20221113050000",
               "-to": "20221113070000",
               "-ftl": "0500",
@@ -23,14 +23,9 @@
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/NORTHWAVE/m6w9rtacu9.jpg",
               "tag": {
-                "item": [
-                  {
-                    "name": "ノースウェーブ"
-                  },
-                  {
-                    "name": "MUSIC ONLY"
-                  }
-                ]
+                "item": {
+                  "name": "ノースウェーブ"
+                }
               },
               "genre": {
                 "program": {
@@ -46,7 +41,7 @@
               }
             },
             {
-              "-id": "9678426838",
+              "-id": "9681394298",
               "-ft": "20221113070000",
               "-to": "20221113073000",
               "-ftl": "0700",
@@ -58,6 +53,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "北海道の女子バレーボールチーム、アルテミス北海道の応援番組がスタート！<br />アルテミス北海道の奥山優奈選手と、DJハイジがナビゲート。<br />試合情報はもちろん、ここでしか聞けない話など盛りだくさんの30分！<br /> <br />アルテミス北海道　ホームページ<br /><a href=\"http://artemis-hokkaido.jp/\" target=\"_blank\">http://artemis-hokkaido.jp/</a><br />",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%8A%E3%81%AF%E3%83%86%E3%83%9F%E3%82%B9\">#おはテミス</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/ArtemisHokkaido\">@ArtemisHokkaido</a>」",
               "pfm": "奥山優奈／ハイジ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/NORTHWAVE/gkn1apbp2t.png",
               "tag": {
@@ -67,27 +63,24 @@
                   },
                   {
                     "name": "アルテミス北海道"
-                  },
-                  {
-                    "name": "DJハイジ"
-                  },
-                  {
-                    "name": "奥山優奈"
-                  },
-                  {
-                    "name": "バレーボール"
                   }
                 ]
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#おはテミス"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:ArtemisHokkaido"
+                  }
+                ]
               }
             },
             {
-              "-id": "9678459257",
+              "-id": "9681394337",
               "-ft": "20221113073000",
               "-to": "20221113080000",
               "-ftl": "0730",
@@ -103,23 +96,9 @@
               "pfm": "カツノリ／HITOMI",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/NORTHWAVE/nrhevd0tcc.jpg",
               "tag": {
-                "item": [
-                  {
-                    "name": "ノースウェーブ"
-                  },
-                  {
-                    "name": "ランパラ"
-                  },
-                  {
-                    "name": "マラソン"
-                  },
-                  {
-                    "name": "DJカツノリ"
-                  },
-                  {
-                    "name": "HITOMI"
-                  }
-                ]
+                "item": {
+                  "name": "ノースウェーブ"
+                }
               },
               "genre": {
                 "personality": {
@@ -145,7 +124,7 @@
               }
             },
             {
-              "-id": "9678463879",
+              "-id": "9681394372",
               "-ft": "20221113080000",
               "-to": "20221113100000",
               "-ftl": "0800",
@@ -166,9 +145,6 @@
                     "name": "ノースウェーブ"
                   },
                   {
-                    "name": "アイブリ"
-                  },
-                  {
                     "name": "ハワイ"
                   }
                 ]
@@ -187,7 +163,7 @@
               }
             },
             {
-              "-id": "9678459616",
+              "-id": "9681394529",
               "-ft": "20221113100000",
               "-to": "20221113110000",
               "-ftl": "1000",
@@ -206,9 +182,6 @@
                 "item": [
                   {
                     "name": "ノースウェーブ"
-                  },
-                  {
-                    "name": "sabaai825"
                   },
                   {
                     "name": "タイ"
@@ -239,7 +212,7 @@
               }
             },
             {
-              "-id": "9678464035",
+              "-id": "9681394597",
               "-ft": "20221113110000",
               "-to": "20221113113000",
               "-ftl": "1100",
@@ -255,17 +228,9 @@
               "pfm": "田村次郎",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/NORTHWAVE/aecmvo27wq.jpg",
               "tag": {
-                "item": [
-                  {
-                    "name": "ノースウェーブ"
-                  },
-                  {
-                    "name": "HAMBURGER BOYS"
-                  },
-                  {
-                    "name": "田村次郎"
-                  }
-                ]
+                "item": {
+                  "name": "ノースウェーブ"
+                }
               },
               "genre": {
                 "personality": {
@@ -291,7 +256,7 @@
               }
             },
             {
-              "-id": "9678464055",
+              "-id": "9681394622",
               "-ft": "20221113113000",
               "-to": "20221113120000",
               "-ftl": "1130",
@@ -330,7 +295,7 @@
               }
             },
             {
-              "-id": "9678960555",
+              "-id": "9681394673",
               "-ft": "20221113120000",
               "-to": "20221113150000",
               "-ftl": "1200",
@@ -342,21 +307,13 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "今、北海道で最も熱い100曲を4時間に亘ってカウントダウンする、FMノースウェーブの人気看板番組！札幌市内３つのＣＤショップ「タワーレコード札幌パルコ店」「玉光堂 四丁目店」そして「ＨＭＶ札幌ステラプレイス」のＣＤ売り上げと、FMノースウェーブのオンエアー回数、さらにSpotifyのランキング、これらの数値をポイント計算し「SAPPORO HOT 100　チャート作成委員会」が決定したランキング。 さぁ今週の1位は果たして誰の何という曲なのか？毎週「NO.1予想クイズ」受付中！メール、ツイッターであなたも番組に参加して下さい♪ 抽選でCD引換券や番組特製オリジナルグッズが当たります！<br /><br />【SAPPORO HOT 100】チャート<br /><a href=\"https://www.fmnorth.co.jp/hot100/\" target=\"_blank\">https://www.fmnorth.co.jp/hot100/</a>",
-              "info": "◎NO.1予想クイズ（締切15時）<br />あなたが思う「今週のナンバー1」を送ってください！番組中に予想オッズも発表♪ 正解者の中から1名様に、道内CDショップで使えるCD引換券3000円分をプレゼント！<br /><br />◎アタック62（時間不定）<br />クイズコーナー「アタック62」！クイズを出題するので、答えをメッセージでお送りください。正解者には番組オリジナルの「タックサージー」をプレゼント！<br /><br />◎HOT 1 FOCUS<br />毎週チャートアクションに合わせて、色んな角度から1曲にフォーカスを当てていきます。<br /><br />その他、チャート紹介だけではなくミュージックシーンを様々な視点から切り取るコーナー盛りだくさんでお届け！<br />12時台<br />「 WEATHER INFORMATION 」<br />三菱地所 ? <a href=\"https://www.mec.co.jp/\" target=\"_blank\">https://www.mec.co.jp/</a><br />13時台<br />「 TRAFFIC INFORMATION 」<br />札幌パーツ ? <a href=\"https://www.sapporo-parts.co.jp/\" target=\"_blank\">https://www.sapporo-parts.co.jp/</a><br />14時台<br />「 WEATHER INFORMATION 」<br />三菱地所 ? <a href=\"https://www.mec.co.jp/\" target=\"_blank\">https://www.mec.co.jp/</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23SAPPOROHOT100\">#SAPPOROHOT100</a>」「#ノースウェーブ」<br />twitterアカウントは「<a href=\"http://twitter.com/SAPPORO_HOT_100\">@SAPPORO_HOT_100</a>」",
+              "info": "◎NO.1予想クイズ（締切15時）<br />あなたが思う「今週のナンバー1」を送ってください！番組中に予想オッズも発表♪ 正解者の中から1名様に、道内CDショップで使えるCD引換券3000円分をプレゼント！<br /><br />◎アタック62（時間不定）<br />クイズコーナー「アタック62」！クイズを出題するので、答えをメッセージでお送りください。正解者には番組オリジナルの「タックサージー」をプレゼント！<br /><br />◎HOT 1 FOCUS<br />毎週チャートアクションに合わせて、色んな角度から1曲にフォーカスを当てていきます。<br /><br />その他、チャート紹介だけではなくミュージックシーンを様々な視点から切り取るコーナー盛りだくさんでお届け！<br />12時台<br />「 WEATHER INFORMATION 」<br />三菱地所 ? <a href=\"https://www.mec.co.jp/\" target=\"_blank\">https://www.mec.co.jp/</a><br />13時台<br />「 TRAFFIC INFORMATION 」<br />札幌パーツ ? <a href=\"https://www.sapporo-parts.co.jp/\" target=\"_blank\">https://www.sapporo-parts.co.jp/</a><br />14時台<br />「 WEATHER INFORMATION 」<br />三菱地所 ? <a href=\"https://www.mec.co.jp/\" target=\"_blank\">https://www.mec.co.jp/</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23SAPPOROHOT100\">#SAPPOROHOT100</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/SAPPORO_HOT_100\">@SAPPORO_HOT_100</a>」",
               "pfm": "タック・ハーシー",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/NORTHWAVE/gj1e436zt5.jpg",
               "tag": {
-                "item": [
-                  {
-                    "name": "ノースウェーブ"
-                  },
-                  {
-                    "name": "HOT100"
-                  },
-                  {
-                    "name": "DJタック・ハーシー"
-                  }
-                ]
+                "item": {
+                  "name": "ノースウェーブ"
+                }
               },
               "genre": {
                 "personality": {
@@ -382,7 +339,7 @@
               }
             },
             {
-              "-id": "9678960556",
+              "-id": "9681394674",
               "-ft": "20221113150000",
               "-to": "20221113160000",
               "-ftl": "1500",
@@ -394,21 +351,13 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "今、北海道で最も熱い100曲を4時間に亘ってカウントダウンする、FMノースウェーブの人気看板番組！札幌市内３つのＣＤショップ「タワーレコード札幌パルコ店」「玉光堂 四丁目店」そして「ＨＭＶ札幌ステラプレイス」のＣＤ売り上げと、FMノースウェーブのオンエアー回数、さらにSpotifyのランキング、これらの数値をポイント計算し「SAPPORO HOT 100　チャート作成委員会」が決定したランキング。 さぁ今週の1位は果たして誰の何という曲なのか？毎週「NO.1予想クイズ」受付中！メール、ツイッターであなたも番組に参加して下さい♪ 抽選でCD引換券や番組特製オリジナルグッズが当たります！<br /><br />【SAPPORO HOT 100】チャート<br /><a href=\"https://www.fmnorth.co.jp/hot100/\" target=\"_blank\">https://www.fmnorth.co.jp/hot100/</a>",
-              "info": "◎NO.1予想クイズ（締切15時）<br />あなたが思う「今週のナンバー1」を送ってください！番組中に予想オッズも発表♪ 正解者の中から1名様に、道内CDショップで使えるCD引換券3000円分をプレゼント！<br /><br />◎アタック62（時間不定）<br />クイズコーナー「アタック62」！クイズを出題するので、答えをメッセージでお送りください。正解者には番組オリジナルの「タックサージー」をプレゼント！<br /><br />◎HOT 1 FOCUS<br />毎週チャートアクションに合わせて、色んな角度から1曲にフォーカスを当てていきます。<br /><br />その他、チャート紹介だけではなくミュージックシーンを様々な視点から切り取るコーナー盛りだくさんでお届け！<br />12時台<br />「 WEATHER INFORMATION 」<br />三菱地所 ? <a href=\"https://www.mec.co.jp/\" target=\"_blank\">https://www.mec.co.jp/</a><br />13時台<br />「 TRAFFIC INFORMATION 」<br />札幌パーツ ? <a href=\"https://www.sapporo-parts.co.jp/\" target=\"_blank\">https://www.sapporo-parts.co.jp/</a><br />14時台<br />「 WEATHER INFORMATION 」<br />三菱地所 ? <a href=\"https://www.mec.co.jp/\" target=\"_blank\">https://www.mec.co.jp/</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23SAPPOROHOT100\">#SAPPOROHOT100</a>」「#ノースウェーブ」<br />twitterアカウントは「<a href=\"http://twitter.com/SAPPORO_HOT_100\">@SAPPORO_HOT_100</a>」",
+              "info": "◎NO.1予想クイズ（締切15時）<br />あなたが思う「今週のナンバー1」を送ってください！番組中に予想オッズも発表♪ 正解者の中から1名様に、道内CDショップで使えるCD引換券3000円分をプレゼント！<br /><br />◎アタック62（時間不定）<br />クイズコーナー「アタック62」！クイズを出題するので、答えをメッセージでお送りください。正解者には番組オリジナルの「タックサージー」をプレゼント！<br /><br />◎HOT 1 FOCUS<br />毎週チャートアクションに合わせて、色んな角度から1曲にフォーカスを当てていきます。<br /><br />その他、チャート紹介だけではなくミュージックシーンを様々な視点から切り取るコーナー盛りだくさんでお届け！<br />12時台<br />「 WEATHER INFORMATION 」<br />三菱地所 ? <a href=\"https://www.mec.co.jp/\" target=\"_blank\">https://www.mec.co.jp/</a><br />13時台<br />「 TRAFFIC INFORMATION 」<br />札幌パーツ ? <a href=\"https://www.sapporo-parts.co.jp/\" target=\"_blank\">https://www.sapporo-parts.co.jp/</a><br />14時台<br />「 WEATHER INFORMATION 」<br />三菱地所 ? <a href=\"https://www.mec.co.jp/\" target=\"_blank\">https://www.mec.co.jp/</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23SAPPOROHOT100\">#SAPPOROHOT100</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/SAPPORO_HOT_100\">@SAPPORO_HOT_100</a>」",
               "pfm": "タック・ハーシー",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/NORTHWAVE/gj1e436zt5.jpg",
               "tag": {
-                "item": [
-                  {
-                    "name": "ノースウェーブ"
-                  },
-                  {
-                    "name": "HOT100"
-                  },
-                  {
-                    "name": "DJタック・ハーシー"
-                  }
-                ]
+                "item": {
+                  "name": "ノースウェーブ"
+                }
               },
               "genre": {
                 "personality": {
@@ -434,7 +383,7 @@
               }
             },
             {
-              "-id": "9678464315",
+              "-id": "9681394918",
               "-ft": "20221113160000",
               "-to": "20221113173000",
               "-ftl": "1600",
@@ -450,20 +399,9 @@
               "pfm": "佐藤広大／渡辺菜月／内海てつや ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/NORTHWAVE/j382vv7e2w.png",
               "tag": {
-                "item": [
-                  {
-                    "name": "ノースウェーブ"
-                  },
-                  {
-                    "name": "ファンアフ"
-                  },
-                  {
-                    "name": "佐藤広大"
-                  },
-                  {
-                    "name": "渡辺菜月"
-                  }
-                ]
+                "item": {
+                  "name": "ノースウェーブ"
+                }
               },
               "genre": {
                 "personality": {
@@ -489,7 +427,7 @@
               }
             },
             {
-              "-id": "9678464368",
+              "-id": "9681394982",
               "-ft": "20221113173000",
               "-to": "20221113180000",
               "-ftl": "1730",
@@ -501,7 +439,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "2001年、角松敏生20周年の年にFM NORTH WAVEでオンエアしていたレギュラー番組『My BLUES LIFE』が19年の時を経て2020年7月、装いも新たに蘇ります。世界が大きく変わる分岐点に立つ今、『My BLUES LIFE』は人類にとって、音楽のチカラ、存在価値とは何なのか・・・そんな永遠のテーマにチャレンジしつつ、来る2021年！デビュー40周年を迎える角松敏生の”BLUES = SOUL”を発信していきます！",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96\">#ノースウェーブ</a>」",
               "pfm": "角松敏生 ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/NORTHWAVE/cwqcdppldk.jpg",
               "tag": {
@@ -527,12 +464,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#ノースウェーブ"
+                  "-value": "#radiko"
                 }
               }
             },
             {
-              "-id": "9678430918",
+              "-id": "9681209693",
               "-ft": "20221113180000",
               "-to": "20221113190000",
               "-ftl": "1800",
@@ -576,7 +513,7 @@
               }
             },
             {
-              "-id": "9678430976",
+              "-id": "9681209803",
               "-ft": "20221113190000",
               "-to": "20221113200000",
               "-ftl": "1900",
@@ -603,7 +540,7 @@
               }
             },
             {
-              "-id": "9678464485",
+              "-id": "9681395149",
               "-ft": "20221113200000",
               "-to": "20221113210000",
               "-ftl": "2000",
@@ -615,16 +552,13 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "FM NORTH WAVE 唯一の洋楽ロック専門プログラム！新作から懐かしいものまで、ラジオだからこそ楽しめる洋楽ロックの世界をお届けします。",
-              "info": "洋楽ロックを新旧問わず、紹介していきます。<br />NORTH WAVEで初めてかかるような曲もどんどんOAしていきます。<br />20:15<br />FREAK OUT!<br />アルバム、アーティストなどテーマを決めて特集します。<br />20:30<br />Rock Topics<br />最新情報から為にならない情報まで、ロックな話題を紹介します。<br /><br />20:55<br />ROCK STARの名言<br />ちゃぼが選定したロックスターの名言を曲と共に紹介します。<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23rock_north\">#rock_north</a>」「#ノースウェーブ」<br />twitterアカウントは「<a href=\"http://twitter.com/rock_vibration\">@rock_vibration</a>」",
+              "info": "洋楽ロックを新旧問わず、紹介していきます。<br />NORTH WAVEで初めてかかるような曲もどんどんOAしていきます。<br />20:15<br />FREAK OUT!<br />アルバム、アーティストなどテーマを決めて特集します。<br />20:30<br />Rock Topics<br />最新情報から為にならない情報まで、ロックな話題を紹介します。<br /><br />20:55<br />ROCK STARの名言<br />ちゃぼが選定したロックスターの名言を曲と共に紹介します。<br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23rock_north\">#rock_north</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/rock_vibration\">@rock_vibration</a>」",
               "pfm": "ちゃぼ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/NORTHWAVE/ug8cugr4wm.jpg",
               "tag": {
                 "item": [
                   {
                     "name": "ノースウェーブ"
-                  },
-                  {
-                    "name": "ちゃぼ"
                   },
                   {
                     "name": "洋楽ロック"
@@ -645,7 +579,7 @@
               }
             },
             {
-              "-id": "9678464521",
+              "-id": "9681395191",
               "-ft": "20221113210000",
               "-to": "20221113220000",
               "-ftl": "2100",
@@ -657,7 +591,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "15年間苦楽を共にしてきた希望を歌うロックバンドが月曜日に向かうリスナーに元気を届ける応援番組。「おかえり」「いってらっしゃい」のある”リビング”からお届けする暖かい雰囲気と、明日を生きる（リビング）力になるメッセージとファイトソングをお届けします！",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%8A%E3%82%A4%E3%83%AA%E3%83%93\">#ナイリビ</a>」「#ノースウェーブ」<br />twitterアカウントは「<a href=\"http://twitter.com/NDL_LIVING\">@NDL_LIVING</a>」",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%8A%E3%82%A4%E3%83%AA%E3%83%93\">#ナイリビ</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/NDL_LIVING\">@NDL_LIVING</a>」",
               "pfm": "ナイトdeライト",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/NORTHWAVE/zruq7rmmqb.jpg",
               "tag": {
@@ -667,9 +601,6 @@
                   },
                   {
                     "name": "ナイトdeライト"
-                  },
-                  {
-                    "name": "ナイリビ"
                   }
                 ]
               },
@@ -687,7 +618,7 @@
               }
             },
             {
-              "-id": "9678427675",
+              "-id": "9681395251",
               "-ft": "20221113220000",
               "-to": "20221114000000",
               "-ftl": "2200",
@@ -703,17 +634,9 @@
               "pfm": "カツノリ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/NORTHWAVE/vvmjw3fcih.jpg",
               "tag": {
-                "item": [
-                  {
-                    "name": "ノースウェーブ"
-                  },
-                  {
-                    "name": "4steps"
-                  },
-                  {
-                    "name": "DJカツノリ"
-                  }
-                ]
+                "item": {
+                  "name": "ノースウェーブ"
+                }
               },
               "genre": {
                 "personality": {
@@ -739,7 +662,7 @@
               }
             },
             {
-              "-id": "9679120130",
+              "-id": "9681395375",
               "-ft": "20221114000000",
               "-to": "20221114010000",
               "-ftl": "2400",
@@ -786,7 +709,7 @@
               }
             },
             {
-              "-id": "9679120208",
+              "-id": "9681395416",
               "-ft": "20221114010000",
               "-to": "20221114040000",
               "-ftl": "2500",
@@ -800,14 +723,9 @@
               "desc": "アップテンポなダンスミュージックからスローなバラード、ちょっとジャジーなチューンまでノンストップ・ノントークでお送りします。心地よいテンポとグルーブはきっと時間が流れるのを忘れさせてくれるはず･･･。車の中でもお部屋でも楽しめる深夜の音楽専門番組です。 ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/NORTHWAVE/7ierymqdst.jpg",
               "tag": {
-                "item": [
-                  {
-                    "name": "ノースウェーブ"
-                  },
-                  {
-                    "name": "MUSIC ONLY"
-                  }
-                ]
+                "item": {
+                  "name": "ノースウェーブ"
+                }
               },
               "genre": {
                 "program": {
@@ -823,7 +741,7 @@
               }
             },
             {
-              "-id": "9679120209",
+              "-id": "9681395417",
               "-ft": "20221114040000",
               "-to": "20221114050000",
               "-ftl": "2800",
@@ -837,14 +755,9 @@
               "desc": "アップテンポなダンスミュージックからスローなバラード、ちょっとジャジーなチューンまでノンストップ・ノントークでお送りします。心地よいテンポとグルーブはきっと時間が流れるのを忘れさせてくれるはず･･･。車の中でもお部屋でも楽しめる深夜の音楽専門番組です。 ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/NORTHWAVE/7ierymqdst.jpg",
               "tag": {
-                "item": [
-                  {
-                    "name": "ノースウェーブ"
-                  },
-                  {
-                    "name": "MUSIC ONLY"
-                  }
-                ]
+                "item": {
+                  "name": "ノースウェーブ"
+                }
               },
               "genre": {
                 "program": {
