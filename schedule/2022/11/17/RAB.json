@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1668621870",
+    "srvtime": "1668708201",
     "stations": {
       "station": {
         "-id": "RAB",
@@ -10,7 +10,7 @@
           "date": "20221117",
           "prog": [
             {
-              "-id": "9684844405",
+              "-id": "9685326488",
               "-ft": "20221117050000",
               "-to": "20221117053000",
               "-ftl": "0500",
@@ -22,7 +22,21 @@
               "ts_out_ng": "0",
               "pfm": "大友寿郎",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a1829ea1-4b98-4675-8be1-41295a22aec5.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "大友寿郎"
+                  },
+                  {
+                    "name": "GG"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -36,7 +50,7 @@
               }
             },
             {
-              "-id": "9684844462",
+              "-id": "9685326534",
               "-ft": "20221117053000",
               "-to": "20221117063000",
               "-ftl": "0530",
@@ -48,7 +62,16 @@
               "ts_out_ng": "0",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/5476behcdk.png",
+              "tag": {
+                "item": {
+                  "name": "生島ヒロシ"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -301,7 +324,7 @@
               }
             },
             {
-              "-id": "9684844864",
+              "-id": "9685326707",
               "-ft": "20221117111500",
               "-to": "20221117112500",
               "-ftl": "1115",
@@ -314,6 +337,10 @@
               "pfm": "杉原テツ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/d349c0be-721f-4dc0-bd06-e4a632a64dc7.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
@@ -405,7 +432,7 @@
               }
             },
             {
-              "-id": "9684844939",
+              "-id": "9685334247",
               "-ft": "20221117115500",
               "-to": "20221117140000",
               "-ftl": "1155",
@@ -420,7 +447,21 @@
               "info": "津軽のエンターティナー黒石八郎の絶叫に心躍る時間。「下山大地選手がパーソナリティーの青森ワッツ１１月号！プレゼントもあり！」",
               "pfm": "黒石八郎、筋野裕子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/ou44ulintr.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "黒石八郎"
+                  },
+                  {
+                    "name": "筋野裕子"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -434,7 +475,7 @@
               }
             },
             {
-              "-id": "9684844940",
+              "-id": "9685334248",
               "-ft": "20221117140000",
               "-to": "20221117160000",
               "-ftl": "1400",
@@ -449,7 +490,21 @@
               "info": "津軽のエンターティナー黒石八郎の絶叫に心躍る時間。「下山大地選手がパーソナリティーの青森ワッツ１１月号！プレゼントもあり！」",
               "pfm": "黒石八郎、筋野裕子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/ou44ulintr.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "黒石八郎"
+                  },
+                  {
+                    "name": "筋野裕子"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -909,7 +964,7 @@
               }
             },
             {
-              "-id": "9684845603",
+              "-id": "9685326948",
               "-ft": "20221117190000",
               "-to": "20221117200000",
               "-ftl": "1900",
@@ -922,6 +977,10 @@
               "pfm": "笑福亭鶴光",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/627d8903-232a-4d4d-94ed-d241bdb1cba1.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
@@ -935,7 +994,7 @@
               }
             },
             {
-              "-id": "9684845674",
+              "-id": "9685326973",
               "-ft": "20221117200000",
               "-to": "20221117210000",
               "-ftl": "2000",
@@ -948,6 +1007,10 @@
               "pfm": "宇多丸",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/w90vjyax7e.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
                   "-id": "P012",
                   "name": "趣味/教育"
@@ -961,7 +1024,7 @@
               }
             },
             {
-              "-id": "9684845774",
+              "-id": "9685327012",
               "-ft": "20221117210000",
               "-to": "20221117213000",
               "-ftl": "2100",
@@ -974,6 +1037,10 @@
               "pfm": "乃木坂４６",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/mhjztrndz9.png",
               "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -1025,18 +1092,27 @@
               }
             },
             {
-              "-id": "9684845884",
+              "-id": "9685352300",
               "-ft": "20221117220000",
               "-to": "20221118000000",
               "-ftl": "2200",
               "-tol": "2400",
               "-dur": "7200",
-              "title": "オールナイトニッポンＭＵＳＩＣ１０",
+              "title": "オールナイトニッポンＧＯＬＤ～『ポケットモンスター　スカーレット・バイオレット』ＳＰ～",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "渡辺満里奈",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/3hnvhj9dlg.jpg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/ea292853-5f9d-4b40-9e47-9f3f6de6b37a.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1097,7 +1173,7 @@
               }
             },
             {
-              "-id": "9684846160",
+              "-id": "9685327203",
               "-ft": "20221118030000",
               "-to": "20221118043000",
               "-ftl": "2700",
@@ -1109,7 +1185,16 @@
               "ts_out_ng": "0",
               "pfm": "マヂカルラブリー",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/0f23bd0a-aed4-49fb-8c2f-72d761103206.jpeg",
+              "tag": {
+                "item": {
+                  "name": "マヂカルラブリー"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
