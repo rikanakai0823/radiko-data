@@ -1,0 +1,834 @@
+{
+  "radiko": {
+    "ttl": "1800",
+    "srvtime": "1670609147",
+    "stations": {
+      "station": {
+        "-id": "RFC",
+        "name": "RFCラジオ福島",
+        "progs": {
+          "date": "20221215",
+          "prog": [
+            {
+              "-id": "9700026973",
+              "-ft": "20221215050000",
+              "-to": "20221215051000",
+              "-ftl": "0500",
+              "-tol": "0510",
+              "-dur": "600",
+              "title": "岡村孝子　あの頃ミュージック",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/ba20a421-524c-46f3-94db-fcc59f980b69.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9699330792",
+              "-ft": "20221215051000",
+              "-to": "20221215051500",
+              "-ftl": "0510",
+              "-tol": "0515",
+              "-dur": "300",
+              "title": "ｒｆｃ８６５５ラジオショッピング",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/uwnqm9geoh.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "手塚伸一"
+                  },
+                  {
+                    "name": "海藤尚美"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9699330797",
+              "-ft": "20221215051500",
+              "-to": "20221215052500",
+              "-ftl": "0515",
+              "-tol": "0525",
+              "-dur": "600",
+              "title": "農家の皆さんへ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "稲作や野菜・果実栽培、酪農に関する情報など、農業に関する情報を提供。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/yx0wqwdbeu.png",
+              "tag": {
+                "item": {
+                  "name": "農家の皆さんへ"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9699326609",
+              "-ft": "20221215052500",
+              "-to": "20221215053000",
+              "-ftl": "0525",
+              "-tol": "0530",
+              "-dur": "300",
+              "title": "心のともしび",
+              "url": "http://tomoshibi.or.jp/radio/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "毎月ひとつのテーマを定め、それに沿って複数のカトリック信徒から寄せられた手記を朗読。",
+              "pfm": "坪井木の実",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/dvortkyjvm.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9700026996",
+              "-ft": "20221215053000",
+              "-to": "20221215063000",
+              "-ftl": "0530",
+              "-tol": "0630",
+              "-dur": "3600",
+              "title": "生島ヒロシのおはよう一直線",
+              "url": "http://www.tbs.co.jp/radio/ohayou/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "コンセプトは聴くスポーツ新聞。ニュース、スポーツ、健康、シニアライフなどをキーワードに生島ヒロシがわかりやすく伝える。",
+              "pfm": "生島ヒロシ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/lee2u5c324.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9698965557",
+              "-ft": "20221215063000",
+              "-to": "20221215063500",
+              "-ftl": "0630",
+              "-tol": "0635",
+              "-dur": "300",
+              "title": "快適生活ラジオショッピング",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "ラジオショッピング",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/08d2778f-99ac-4daf-93fc-235aafb689e6.jpeg",
+              "tag": {
+                "item": {
+                  "name": "井畑美穂子"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9699330917",
+              "-ft": "20221215063500",
+              "-to": "20221215064500",
+              "-ftl": "0635",
+              "-tol": "0645",
+              "-dur": "600",
+              "title": "ＥＮＥＯＳプレゼンツ あさナビ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "毎日、さまざまなジャンルのプロフェッショナルをお迎えして、朝の活力になるお話をうかがっていく。",
+              "pfm": "黒木瞳",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/b485931a-aa07-4a9e-bdac-0a2d8306c28d.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9698965580",
+              "-ft": "20221215064500",
+              "-to": "20221215070000",
+              "-ftl": "0645",
+              "-tol": "0700",
+              "-dur": "900",
+              "title": "健やかインフォメーション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/08d2778f-99ac-4daf-93fc-235aafb689e6.jpeg",
+              "tag": {
+                "item": {
+                  "name": "健やかインフォメーション"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9699341998",
+              "-ft": "20221215070000",
+              "-to": "20221215083500",
+              "-ftl": "0700",
+              "-tol": "0835",
+              "-dur": "5700",
+              "title": "レディ・オン",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "07:05 お早う！ニュースネットワーク＆情報宝島<br/>07:09 ニュースフラッシュ<br/>07:11 おらが町のふるさとリポーター<br/>07:17 トラフィックリポート<br/>07:20 福島県からのお知らせ<br/>07:21 福島県警スマイル・ポリス！ステーション<br/>07:25 Ｗｅ　Ｌｏｖｅ　Ｓｐｏｒｔｓ<br/>07:30 歌のない歌謡曲<br/>07:45 レディ・オンミュージック<br/>07:50 交通情報<br/>07:55 ニュース・天気予報<br/>08:00 日本全国８時です<br/>08:15 レディ・オンハーフタイム<br/>08:20 朝ゼミ・エフ<br/>08:26 交通情報<br/>08:30 ウェザーインフォメーション<br/>08:32 スポーツフラッシュ",
+              "pfm": "高田優美",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/030e3918-2bb8-4f77-a786-553015019388.png",
+              "tag": {
+                "item": {
+                  "name": "レディ・オン"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9699342108",
+              "-ft": "20221215083500",
+              "-to": "20221215084000",
+              "-ftl": "0835",
+              "-tol": "0840",
+              "-dur": "300",
+              "title": "スズキ･ハッピーモーニング 羽田美智子のいってらっしゃい",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/b415adea-1be3-47ca-9547-2c049a7039f7.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9699342112",
+              "-ft": "20221215084000",
+              "-to": "20221215093000",
+              "-ftl": "0840",
+              "-tol": "0930",
+              "-dur": "3000",
+              "title": "レディ・オン",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "08:40 武田鉄矢・今朝の三枚おろし<br/>08:50 交通情報<br/>08:55 ニュース・天気予報<br/>09:10 伊集院光のおたよりください<br/>09:15 ウィークリー　あなたの記念日リクエスト<br/>09:20 ミル総本社ラジオショッピング",
+              "pfm": "高田優美",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/030e3918-2bb8-4f77-a786-553015019388.png",
+              "tag": {
+                "item": {
+                  "name": "レディ・オン"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9699342154",
+              "-ft": "20221215093000",
+              "-to": "20221215094000",
+              "-ftl": "0930",
+              "-tol": "0940",
+              "-dur": "600",
+              "title": "大自然まるかじりライフ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "大自然と健康をテーマに、料理、建築、家族や畑、花のこと、それを支える大自然の営みについて語る。",
+              "pfm": "河村通夫",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/jpd55q58l4.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9699342156",
+              "-ft": "20221215094000",
+              "-to": "20221215095500",
+              "-ftl": "0940",
+              "-tol": "0955",
+              "-dur": "900",
+              "title": "お母さん教室",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "福島教会のみなさんに季節に沿ったテーマでお話していただきます。",
+              "pfm": "深野健司",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/d61b404e-3057-4923-99d3-304c9c12f43c.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9698920019",
+              "-ft": "20221215095500",
+              "-to": "20221215100000",
+              "-ftl": "0955",
+              "-tol": "1000",
+              "-dur": "300",
+              "title": "ニュース・天気予報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/gqwgu8u9id.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9699346393",
+              "-ft": "20221215100000",
+              "-to": "20221215125000",
+              "-ftl": "1000",
+              "-tol": "1250",
+              "-dur": "10200",
+              "title": "スマイル！",
+              "url": "https://www.facebook.com/pages/Smile/120205628130351",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "FAX 024-535-3451　E-mail smile@rfc.jp",
+              "info": "10:07 交通情報<br/>10:10 ｒｆｃ８６５５ラジオショッピング<br/>10:15 子供の夢の青い窓<br/>10:25 氷川きよし　限界突破ＲＡＤＩＯ<br/>10:50 チャレンジ！快適ライフ<br/>10:57 ベスト学院　合格者の声<br/>11:00 昼の希望音楽会<br/>11:15 トヨタカローラ福島チャリティーキャラバン２０２２<br/>11:40 快適生活ラジオショッピング<br/>11:50 福島県からのお知らせ<br/>11:52 ニュース<br/>11:57 天気予報<br/>12:00 グリーンメロディー<br/>12:30 健やかインフォメーション",
+              "pfm": "井畑美穂子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/c8adace7-087b-4b3b-930b-2ab871ca2e7b.png",
+              "tag": {
+                "item": {
+                  "name": "スマイル!"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9699331241",
+              "-ft": "20221215125000",
+              "-to": "20221215130000",
+              "-ftl": "1250",
+              "-tol": "1300",
+              "-dur": "600",
+              "title": "森野熊八グルメタイム～ニッポン全国うまい、うまい！～",
+              "url": "http://umai-umai-kuma8.blogspot.jp/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "森野熊八",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/sumewu0k3x.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9699346483",
+              "-ft": "20221215130000",
+              "-to": "20221215160000",
+              "-ftl": "1300",
+              "-tol": "1600",
+              "-dur": "10800",
+              "title": "Ｒａｄｉｏ　ｄｅ　Ｓｈｏｗ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "13:10 洋楽 ｄｅ Ｓｈｏｗ<br/>13:30 ファイトＦｕｋｕｓｈｉｍａ！<br/>13:50 ニュース・天気予報<br/>14:00 Ｑｕｉｚ　ｄｅ　Ｓｈｏｗ<br/>14:20 銀幕の彼方 ｄｅ Ｓｈｏｗ<br/>14:30 ジャパネットたかたラジオショッピング<br/>14:52 ニュース・天気予報<br/>15:15 ＨＡＰＰＹふくしま隊のハッピータイム！<br/>15:25 牧ねぇの味工房だより<br/>15:40 カバーソング ｄｅ Ｓｈｏｗ<br/>15:50 ニュース<br/>15:53 天気予報",
+              "pfm": "鏡田辰也",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/40babaaa-2118-49ef-befa-a0cc7873aeb0.png",
+              "tag": {
+                "item": {
+                  "name": "Radio de Show"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9699376442",
+              "-ft": "20221215160000",
+              "-to": "20221215161000",
+              "-ftl": "1600",
+              "-tol": "1610",
+              "-dur": "600",
+              "title": "あなたにハッピー・メロディ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/7d57d568-0b4e-45ab-96d4-6e1f8cb3df99.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9699327128",
+              "-ft": "20221215161000",
+              "-to": "20221215162000",
+              "-ftl": "1610",
+              "-tol": "1620",
+              "-dur": "600",
+              "title": "朗読のミカタ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/0edcac77-b68d-4bdf-bd2d-8656a732ec21.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9699342559",
+              "-ft": "20221215162000",
+              "-to": "20221215184500",
+              "-ftl": "1620",
+              "-tol": "1845",
+              "-dur": "8700",
+              "title": "ＯＲＡＮＧＥ　ＴＩＭＥ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "FAX 024-535-3451　E-mail 1600@rfc.jp　# オレンジタイム",
+              "info": "16:25 ラジオ伝言板～アニマル探偵局<br/>16:30 交通情報＆安全運転ワンポイント<br/>16:35 さがみ典礼　お悔やみのお知らせ<br/>16:40 ｒｆｃ８６５５ラジオショッピング<br/>17:00 ニュースパレード<br/>17:25 交通情報<br/>17:30 ネットワークトゥデイ<br/>17:46 ジャパネットたかたインフォメーション<br/>17:48 福島県からのお知らせ<br/>17:50 ニュース・ピックアップ<br/>17:55 プリンス　イブニングスナップ<br/>18:15 ニュースデスクから<br/>18:20 身近なことからＳＤＧｓ<br/>18:25 交通情報<br/>18:35 ニュース・天気予報",
+              "pfm": "海藤尚美",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/16b255e9-83d0-429b-8425-31bf043eebee.png",
+              "tag": {
+                "item": {
+                  "name": "ORANGE TIME"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9699931507",
+              "-ft": "20221215184500",
+              "-to": "20221215190000",
+              "-ftl": "1845",
+              "-tol": "1900",
+              "-dur": "900",
+              "title": "ココロのオンガク　～ｍｕｓｉｃ　ｆｏｒ　ｙｏｕ～",
+              "url": "https://www.joqr.co.jp/qr/program/musicmusic/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "音楽を通じて、\" 今を生きる\" 皆さんを応援する番組です。皆さんからのメッセージ、そしてリクエスト曲をお届けします。 ",
+              "pfm": "井手大介",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/92fbdac1p1.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9699376720",
+              "-ft": "20221215190000",
+              "-to": "20221215200000",
+              "-ftl": "1900",
+              "-tol": "2000",
+              "-dur": "3600",
+              "title": "鶴光の噂のゴールデンリクエスト",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/5f1f5bf4-851d-4d5a-8957-5f700ab63d21.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9699342765",
+              "-ft": "20221215200000",
+              "-to": "20221215210000",
+              "-ftl": "2000",
+              "-tol": "2100",
+              "-dur": "3600",
+              "title": "アフター６ジャンクション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "日常の中の「おもしろ」を掘り起こすカルチャー・キュレーションで現代社会に広がる様々な趣味嗜好の多様性を受け止めていく。",
+              "pfm": "宇多丸（ＲＨＹＭＥＳＴＥＲ）ほか",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/c5l1nokj5h.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9699346737",
+              "-ft": "20221215210000",
+              "-to": "20221215220000",
+              "-ftl": "2100",
+              "-tol": "2200",
+              "-dur": "3600",
+              "title": "ラジオアミューズメントパーク",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "ＭＩＬＬＥＡ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/cb474aee-509a-4571-b100-b2c039a493d9.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9700023381",
+              "-ft": "20221215220000",
+              "-to": "20221216000000",
+              "-ftl": "2200",
+              "-tol": "2400",
+              "-dur": "7200",
+              "title": "レコメン！",
+              "url": "http://www.joqr.co.jp/reco/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "SexyZoneのQrzone（22:30 ごろ） Hey!Say!7 UltraPower（23:30 ごろ）",
+              "pfm": "ジャニーズＷＥＳＴ　桐山照史・中間淳太",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/qf3tgc9x7m.png",
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9700023455",
+              "-ft": "20221216000000",
+              "-to": "20221216010000",
+              "-ftl": "2400",
+              "-tol": "2500",
+              "-dur": "3600",
+              "title": "レコメン！",
+              "url": "http://www.joqr.co.jp/reco/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "ジャニーズＷＥＳＴ　桐山照史・中間淳太",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/qf3tgc9x7m.png",
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9700061621",
+              "-ft": "20221216010000",
+              "-to": "20221216030000",
+              "-ftl": "2500",
+              "-tol": "2700",
+              "-dur": "7200",
+              "title": "オールナイトニッポン",
+              "url": "http://www.allnightnippon.com/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "ナインティナイン",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/bd1403ef-a253-478e-bde1-ddcbc788ac01.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9700061732",
+              "-ft": "20221216030000",
+              "-to": "20221216043000",
+              "-ftl": "2700",
+              "-tol": "2830",
+              "-dur": "5400",
+              "title": "オールナイトニッポン０（ＺＥＲＯ）",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "マヂカルラブリー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/71a8a579-ca26-4fea-aa68-4a19542d2d26.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9700023625",
+              "-ft": "20221216043000",
+              "-to": "20221216050000",
+              "-ftl": "2830",
+              "-tol": "2900",
+              "-dur": "1800",
+              "title": "上柳昌彦　あさぼらけ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "上柳昌彦",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RFC/faf27959-30e4-49e0-b9b7-d02a625365fb.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
