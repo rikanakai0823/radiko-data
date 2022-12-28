@@ -1,0 +1,663 @@
+{
+  "radiko": {
+    "ttl": "1800",
+    "srvtime": "1672250704",
+    "stations": {
+      "station": {
+        "-id": "KBC",
+        "name": "KBCラジオ",
+        "progs": {
+          "date": "20230103",
+          "prog": [
+            {
+              "-id": "9711350172",
+              "-ft": "20230103050000",
+              "-to": "20230103051500",
+              "-ftl": "0500",
+              "-tol": "0515",
+              "-dur": "900",
+              "title": "わくわくお届け便",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/81c68be9-6846-4a84-a34f-441c84b0e5e3.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9711813207",
+              "-ft": "20230103051500",
+              "-to": "20230103053000",
+              "-ftl": "0515",
+              "-tol": "0530",
+              "-dur": "900",
+              "title": "morning パーティー（再）",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "まこパーティー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/3222ed49-a896-4f14-b406-d589a22bb2ba.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9711845385",
+              "-ft": "20230103053000",
+              "-to": "20230103061600",
+              "-ftl": "0530",
+              "-tol": "0616",
+              "-dur": "2760",
+              "title": "アサナニ。",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "富田薫、奥田智子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/6c68f022-be6e-43ce-9365-107b9d1c4938.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9711505652",
+              "-ft": "20230103061600",
+              "-to": "20230103062200",
+              "-ftl": "0616",
+              "-tol": "0622",
+              "-dur": "360",
+              "title": "ＫＢＣニュース＆天気予報",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/81c68be9-6846-4a84-a34f-441c84b0e5e3.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ニュース"
+                  },
+                  {
+                    "name": "天気"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9711808701",
+              "-ft": "20230103062200",
+              "-to": "20230103063000",
+              "-ftl": "0622",
+              "-tol": "0630",
+              "-dur": "480",
+              "title": "ENEOS プレゼンツ　あさナビ",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "黒木瞳",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/93fdda0b-fe20-44ae-97bc-cbb79fbbabec.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9711808710",
+              "-ft": "20230103063000",
+              "-to": "20230103075500",
+              "-ftl": "0630",
+              "-tol": "0755",
+              "-dur": "5100",
+              "title": "はじめちゃんで  まだまだ新年始めよう",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "はじめちゃん/ムサシ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/6b38dabf-8b5f-4a1d-9dc2-40b13aebb0b1.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9711813539",
+              "-ft": "20230103075500",
+              "-to": "20230103080000",
+              "-ftl": "0755",
+              "-tol": "0800",
+              "-dur": "300",
+              "title": "スズキ・ハッピーモーニング　羽田美智子のいってらっしゃい",
+              "url": "https://www.1242.com/hada/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "晴れの日や雨の日、気分が明るい時、ちょっと暗い時、そんなあなたの朝に『いってらっしゃい』の言葉を届けます。あなたの朝がいつもイイ朝でありますように…<br/><br/>メールアドレス：<br/>mail：<a href=\"mailto:hada@1242.com\">hada@1242.com",
+              "pfm": "羽田美智子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/4f427987-d0d7-4a71-81a2-88e76e8d569a.jpeg",
+              "tag": {
+                "item": {
+                  "name": "羽田美智子"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9711813581",
+              "-ft": "20230103080000",
+              "-to": "20230103140000",
+              "-ftl": "0800",
+              "-tol": "1400",
+              "-dur": "21600",
+              "title": "第９９回東京箱根間往復大学駅伝競走実況中継",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/1fc2f4fd-af91-4d85-868b-e5f3939e4846.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9711632870",
+              "-ft": "20230103140000",
+              "-to": "20230103140500",
+              "-ftl": "1400",
+              "-tol": "1405",
+              "-dur": "300",
+              "title": "岩本初恵の幸せをつれてくる言葉",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "パーソナリティ：岩本初恵",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/81c68be9-6846-4a84-a34f-441c84b0e5e3.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9711809163",
+              "-ft": "20230103140500",
+              "-to": "20230103142500",
+              "-ftl": "1405",
+              "-tol": "1425",
+              "-dur": "1200",
+              "title": "テレフォン人生相談",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/81c68be9-6846-4a84-a34f-441c84b0e5e3.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9711809175",
+              "-ft": "20230103142500",
+              "-to": "20230103143500",
+              "-ftl": "1425",
+              "-tol": "1435",
+              "-dur": "600",
+              "title": "ビューティフル・メロディーズ～よみがえる青春のポップス",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "野村邦丸",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/b62f10fe-1d1a-4dda-8563-13fc6d296366.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9711809183",
+              "-ft": "20230103143500",
+              "-to": "20230103170000",
+              "-ftl": "1435",
+              "-tol": "1700",
+              "-dur": "8700",
+              "title": "ブルーリバーの2023年も挑むところだ！",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "ブルーリバー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/47bdd1c5-b2d4-4b1e-be92-b95fa72daaa0.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9711814465",
+              "-ft": "20230103170000",
+              "-to": "20230103171500",
+              "-ftl": "1700",
+              "-tol": "1715",
+              "-dur": "900",
+              "title": "ニュースパレード",
+              "url": "http://www.joqr.co.jp/programs/detail/newsparade.php",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/a0bac31c-fa19-4545-b6eb-31ca20fec9a8.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9711809377",
+              "-ft": "20230103171500",
+              "-to": "20230103184500",
+              "-ftl": "1715",
+              "-tol": "1845",
+              "-dur": "5400",
+              "title": "ブルーリバーの2023年も挑むところだ！",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "ブルーリバー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/47bdd1c5-b2d4-4b1e-be92-b95fa72daaa0.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9711814708",
+              "-ft": "20230103184500",
+              "-to": "20230103190000",
+              "-ftl": "1845",
+              "-tol": "1900",
+              "-dur": "900",
+              "title": "ココロのオンガク  ～music for you ～",
+              "url": "http://www.joqr.co.jp/musicmusic/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "パーソナリティ：井手大介",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/pm5yb63um5.png",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9711809509",
+              "-ft": "20230103190000",
+              "-to": "20230103204000",
+              "-ftl": "1900",
+              "-tol": "2040",
+              "-dur": "6000",
+              "title": "KBC Sound  Amenity",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/806d23fa-b5e6-4445-9cf2-6a5ce19b28cc.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9711814895",
+              "-ft": "20230103204000",
+              "-to": "20230103211000",
+              "-ftl": "2040",
+              "-tol": "2110",
+              "-dur": "1800",
+              "title": "島田秀平の開運ラジオ",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "島田秀平",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/3c930297-0d26-4bcb-a7ac-22afcc7bac97.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9711814981",
+              "-ft": "20230103211000",
+              "-to": "20230103215500",
+              "-ftl": "2110",
+              "-tol": "2155",
+              "-dur": "2700",
+              "title": "カエレナイ街から　～翔子さんと実穂さんと私たち～カエレナイ街から　～翔子さんと実穂さんと私たち～",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/e3389e65-9f91-4413-b5ed-c0d2e84590e8.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9711506269",
+              "-ft": "20230103215500",
+              "-to": "20230103220000",
+              "-ftl": "2155",
+              "-tol": "2200",
+              "-dur": "300",
+              "title": "ＫＢＣニュース＆天気予報",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/81c68be9-6846-4a84-a34f-441c84b0e5e3.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ニュース"
+                  },
+                  {
+                    "name": "天気"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9712310676",
+              "-ft": "20230103220000",
+              "-to": "20230104000000",
+              "-ftl": "2200",
+              "-tol": "2400",
+              "-dur": "7200",
+              "title": "オールナイトニッポン　ＭＵＳＩＣ　１０",
+              "url": "https://www.allnightnippon.com/music10/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "【あなたの夜に、音楽を。】オールナイトニッポン Music10 では、毎晩10時から、あなたの音楽リクエストに「フルコーラス」でお応えしています。<br/>洋邦を問わず、古今東西の名曲、ヒット曲、様々な音楽を、2時間たっぷりお届けします。音楽のリクエストには、その曲の想い出・エピソードを添えて下さい。リクエストはメールフォームか、mail：<a href=\"mailto:10@1242.com\">10@1242.com</a>まで、お寄せください。",
+              "pfm": "鈴木杏樹",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/7bf76c81-9384-4041-9cf6-e84dd9e40b68.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9712463070",
+              "-ft": "20230104000000",
+              "-to": "20230104003000",
+              "-ftl": "2400",
+              "-tol": "2430",
+              "-dur": "1800",
+              "title": "藤ヶ谷太輔 Peaceful Days",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "パーソナリティ：藤ヶ谷太輔",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/a9abbdc1-17c6-4af7-8561-1e1ae30b7974.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9712463079",
+              "-ft": "20230104003000",
+              "-to": "20230104010000",
+              "-ftl": "2430",
+              "-tol": "2500",
+              "-dur": "1800",
+              "title": "ダメ恋診療所",
+              "url": "https://kbc.co.jp/r-radio/damekoi/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "女子たちと一緒に恋愛を語る！お悩みスーパードクターからアドバイスをもらって恋愛力アップをめざすよ☆",
+              "pfm": "いわぶ見梨、中島綾菜",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/78200406-c8f6-4257-becf-a8156efd7094.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "中島綾菜"
+                  },
+                  {
+                    "name": "神崎メリ"
+                  },
+                  {
+                    "name": "婚活"
+                  },
+                  {
+                    "name": "恋愛"
+                  },
+                  {
+                    "name": "悩み"
+                  },
+                  {
+                    "name": "男女問題"
+                  },
+                  {
+                    "name": "いわぶ見梨"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9712430860",
+              "-ft": "20230104010000",
+              "-to": "20230104030000",
+              "-ftl": "2500",
+              "-tol": "2700",
+              "-dur": "7200",
+              "title": "オールナイトニッポン",
+              "url": "https://www.allnightnippon.com/hoshinogen/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "メッセージはmail：<a href=\"mailto:gen@allnightnippon.com\">gen@allnightnippon.com</a>まで",
+              "pfm": "星野源",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/e7b7da68-8259-4ee7-825c-7bc386b5f28f.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9712403642",
+              "-ft": "20230104030000",
+              "-to": "20230104043000",
+              "-ftl": "2700",
+              "-tol": "2830",
+              "-dur": "5400",
+              "title": "オールナイトニッポン０（ＺＥＲＯ）",
+              "url": "https://www.allnightnippon.com/pekopa/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "ヤングスキニー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/8bd89ad5-77b0-44ed-8c36-97466fd7c03f.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9712403677",
+              "-ft": "20230104043000",
+              "-to": "20230104050000",
+              "-ftl": "2830",
+              "-tol": "2900",
+              "-dur": "1800",
+              "title": "上柳昌彦　あさぼらけ",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/a406d36e-a542-4a1b-89d6-d97726976025.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

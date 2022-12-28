@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1672164317",
+    "srvtime": "1672250688",
     "stations": {
       "station": {
         "-id": "KBS",
@@ -204,7 +204,7 @@
               }
             },
             {
-              "-id": "9711725972",
+              "-id": "9712309710",
               "-ft": "20230101063500",
               "-to": "20230101064000",
               "-ftl": "0635",
@@ -216,7 +216,16 @@
               "ts_out_ng": "0",
               "pfm": "海平和",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/54z57flp7k.jpg",
+              "tag": {
+                "item": {
+                  "name": "海平和"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
