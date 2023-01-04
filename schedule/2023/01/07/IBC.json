@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1672596281",
+    "srvtime": "1672855427",
     "stations": {
       "station": {
         "-id": "IBC",
@@ -1099,7 +1099,7 @@
               }
             },
             {
-              "-id": "9715270825",
+              "-id": "9717371672",
               "-ft": "20230107200000",
               "-to": "20230107203000",
               "-ftl": "2000",
@@ -1327,7 +1327,7 @@
               }
             },
             {
-              "-id": "9715238753",
+              "-id": "9717274376",
               "-ft": "20230108030000",
               "-to": "20230108040000",
               "-ftl": "2700",
@@ -1338,14 +1338,21 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "番組twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」",
+              "desc": "E-mail　<a href=\"mailto:is@allnightnippon.com\">is@allnightnippon.com</a>",
+              "info": "番組twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」<br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23iScreamANN0\">#iScreamANN0</a>」",
               "pfm": "ｉＳｃｒｅａｍ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/34d746d1-16a6-4a2c-b90f-f7d243275237.jpeg",
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "from:Ann_Since1967"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#iScreamANN0"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:Ann_Since1967"
+                  }
+                ]
               }
             },
             {
