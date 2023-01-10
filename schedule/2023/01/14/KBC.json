@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1673201058",
+    "srvtime": "1673373718",
     "stations": {
       "station": {
         "-id": "KBC",
@@ -32,18 +32,19 @@
               }
             },
             {
-              "-id": "9719120063",
+              "-id": "9721693641",
               "-ft": "20230114052000",
               "-to": "20230114053500",
               "-ftl": "0520",
               "-tol": "0535",
               "-dur": "900",
-              "title": "ヒヨコで踊るラジオ",
+              "title": "morning パーティー（再）",
               "url": "https://kbc.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/81c68be9-6846-4a84-a34f-441c84b0e5e3.jpeg",
+              "pfm": "まこパーティー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/3222ed49-a896-4f14-b406-d589a22bb2ba.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -151,7 +152,7 @@
               }
             },
             {
-              "-id": "9719522912",
+              "-id": "9721756884",
               "-ft": "20230114062500",
               "-to": "20230114064000",
               "-ftl": "0625",
@@ -163,6 +164,16 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/81c68be9-6846-4a84-a34f-441c84b0e5e3.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -492,13 +503,139 @@
               }
             },
             {
-              "-id": "9719555305",
+              "-id": "9721765555",
               "-ft": "20230114130000",
-              "-to": "20230114190000",
+              "-to": "20230114150000",
               "-ftl": "1300",
+              "-tol": "1500",
+              "-dur": "7200",
+              "title": "ＫＢＣサタデーミュージックカウントダウン(1)",
+              "url": "https://kbc.co.jp/satakan/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "最新のヒット曲から懐かしのあの歌まで『１粒で２度おいしい』家族みんなで聴けるランキング形式の音楽番組！",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:satakan@kbc.co.jp\">satakan@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_satakan\">@kbc_satakan</a>」",
+              "pfm": "こだマン、真璃子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/daf12386-b73d-43cd-a034-317e6f6cd57d.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽"
+                  },
+                  {
+                    "name": "ドライブ"
+                  },
+                  {
+                    "name": "ランキング"
+                  },
+                  {
+                    "name": "生放送"
+                  },
+                  {
+                    "name": "懐かしい"
+                  },
+                  {
+                    "name": "JーPOP"
+                  },
+                  {
+                    "name": "サタカン"
+                  },
+                  {
+                    "name": "こだマン"
+                  },
+                  {
+                    "name": "真璃子"
+                  },
+                  {
+                    "name": "ヒットソング"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9721765562",
+              "-ft": "20230114150000",
+              "-to": "20230114170000",
+              "-ftl": "1500",
+              "-tol": "1700",
+              "-dur": "7200",
+              "title": "ＫＢＣサタデーミュージックカウントダウン(2)",
+              "url": "https://kbc.co.jp/satakan/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "最新のヒット曲から懐かしのあの歌まで『１粒で２度おいしい』家族みんなで聴けるランキング形式の音楽番組！",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:satakan@kbc.co.jp\">satakan@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_satakan\">@kbc_satakan</a>」",
+              "pfm": "こだマン、真璃子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/daf12386-b73d-43cd-a034-317e6f6cd57d.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽"
+                  },
+                  {
+                    "name": "ドライブ"
+                  },
+                  {
+                    "name": "ランキング"
+                  },
+                  {
+                    "name": "生放送"
+                  },
+                  {
+                    "name": "懐かしい"
+                  },
+                  {
+                    "name": "JーPOP"
+                  },
+                  {
+                    "name": "サタカン"
+                  },
+                  {
+                    "name": "こだマン"
+                  },
+                  {
+                    "name": "真璃子"
+                  },
+                  {
+                    "name": "ヒットソング"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9721765567",
+              "-ft": "20230114170000",
+              "-to": "20230114190000",
+              "-ftl": "1700",
               "-tol": "1900",
-              "-dur": "21600",
-              "title": "ＫＢＣサタデーミュージックカウントダウン",
+              "-dur": "7200",
+              "title": "ＫＢＣサタデーミュージックカウントダウン(3)",
               "url": "https://kbc.co.jp/satakan/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -783,30 +920,20 @@
               }
             },
             {
-              "-id": "9720371719",
+              "-id": "9721882467",
               "-ft": "20230115030000",
               "-to": "20230115050000",
               "-ftl": "2700",
               "-tol": "2900",
               "-dur": "7200",
-              "title": "オールナイトニッポン０（ＺＥＲＯ)",
+              "title": "オールナイトニッポン０(zero)  スタプラアイドルフェススペシャル",
               "url": "https://www.allnightnippon.com/zero-sat/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "土曜も深夜3時からはオールナイトニッポン0(ZERO)！スペシャルなパーソナリティが週替わりで登場します！",
               "pfm": "週替わりパーソナリティー",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/9na7lcoc68.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/3e9c5361-10c4-43c3-8fb6-5317d400a322.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
