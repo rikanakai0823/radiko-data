@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1674151425",
+    "srvtime": "1674237945",
     "stations": {
       "station": {
         "-id": "YFM",
@@ -10,11 +10,45 @@
           "date": "20230123",
           "prog": [
             {
-              "-id": "9728369421",
+              "-id": "9728742206",
               "-ft": "20230123050000",
               "-to": "20230123053000",
               "-ftl": "0500",
               "-tol": "0530",
+              "-dur": "1800",
+              "title": "Sound Ocean",
+              "url": "https://www.fmyokohama.co.jp/program/SoundOcean",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "洋楽、邦楽、新旧問わず、テーマに沿った選曲をノンストップでお送りします！",
+              "info": "twitterアカウントは「<a href=\"http://twitter.com/Hits200_fyoko\">@Hits200_fyoko</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23FM%E3%83%A8%E3%82%B3%E3%83%8F%E3%83%9E\">#FMヨコハマ</a>」<br />メールアドレス：<a href=\"mailto:ocean@fmyokohama.jp\">ocean@fmyokohama.jp</a><br />",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/3823d205-c7e1-4995-ad0f-54a5aa1d97a4.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#FMヨコハマ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:Hits200_fyoko"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9729008542",
+              "-ft": "20230123053000",
+              "-to": "20230123060000",
+              "-ftl": "0530",
+              "-tol": "0600",
               "-dur": "1800",
               "title": "メラタデマンデー",
               "url": "https://www.fmyokohama.co.jp/program/MeratadeMonday",
@@ -24,7 +58,7 @@
               "desc": "神奈川の日曜日に「元気」と「笑い」を届けてきた番組「メラタデサンデー」が、月曜の朝に“ギュッ”と濃縮してお引っ越し！<br />その名も「メラタデマンデー」（！？）<br />よりマシマシで、こってりで、でも健康的な音楽バラエティ番組としてパワーアップします！音楽と、他愛もない話、そしておなじみのあの声！月曜の朝に、“笑顔”と“元気”をお届けします。",
               "info": "twitterアカウントは「<a href=\"http://twitter.com/meratademonday\">@meratademonday</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A1%E3%83%A9%E3%82%BF%E3%83%87\">#メラタデ</a>」<br />メールアドレス：<a href=\"mailto:kent@fmyokohama.jp\">kent@fmyokohama.jp</a><br />",
               "pfm": "ケント・フリック",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/0a84806e-ab5c-4df4-a0bc-9fd1e206279a.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/957a4cf5-f270-4def-aaf2-fe316bf653e1.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -49,40 +83,7 @@
               }
             },
             {
-              "-id": "9728369477",
-              "-ft": "20230123053000",
-              "-to": "20230123060000",
-              "-ftl": "0530",
-              "-tol": "0600",
-              "-dur": "1800",
-              "title": "チップワンストップ presents Come On！ カモン！ モーニング！",
-              "url": "https://www.fmyokohama.co.jp/program/ComeOnComeOnMorning",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "シンガーソングライター「嘉門タツオ」の独自の世界が遂にFMヨコハマで展開！！<br />彼の好奇心・探究心は日常の出来事から、ＩＴの分野から、食の分野まで、ジャンル不問。<br />時にはゲストを招き、時にはギターを抱えてライヴ・パフォーマンスも披露！<br />Twitter（#atakowa）でのコミュニケーションも！！<br />嘉門タツオならではのバラエティーに富んだ番組をお届けします。",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23atakowa\">#atakowa</a>」<br />メールアドレス：<a href=\"mailto:kamon@fmyokohama.jp\">kamon@fmyokohama.jp</a><br />",
-              "pfm": "嘉門タツオ",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/7728a3cb-846a-43cb-943c-08f4df577edc.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#atakowa"
-                }
-              }
-            },
-            {
-              "-id": "9728369529",
+              "-id": "9729008552",
               "-ft": "20230123060000",
               "-to": "20230123090000",
               "-ftl": "0600",
@@ -120,7 +121,7 @@
               }
             },
             {
-              "-id": "9728369713",
+              "-id": "9729008589",
               "-ft": "20230123090000",
               "-to": "20230123120000",
               "-ftl": "0900",
@@ -158,7 +159,7 @@
               }
             },
             {
-              "-id": "9728369940",
+              "-id": "9729008639",
               "-ft": "20230123120000",
               "-to": "20230123150000",
               "-ftl": "1200",
@@ -196,7 +197,7 @@
               }
             },
             {
-              "-id": "9728370182",
+              "-id": "9729008680",
               "-ft": "20230123150000",
               "-to": "20230123170000",
               "-ftl": "1500",
@@ -207,8 +208,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "ホッとできるWEEKDAYの夕方に、一緒に楽しい時間を過ごしましょう！",
-              "info": "twitterアカウントは「<a href=\"http://twitter.com/tresen_Fyoko\">@tresen_Fyoko</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%A8%E3%82%8C%E3%81%9B%E3%82%93\">#とれせん</a>」<br />メールアドレス：<a href=\"mailto:tresen@fmyokohama.jp\">tresen@fmyokohama.jp</a><br />",
+              "info": "びっちょん植松哲平とFM界の走るイエローカードSakuがお送りするTresen！<br /><br />メッセージテーマは「順番の話」<br /><br />16:15　ゲスト / 八木海莉<br />17:00　えのすい presents LIFE OF AQUARIUM<br />17:36　日進レンタカー Music Navigation<br />17:54　煩悩タイム<br />18:00　佐久間さんの洋楽食堂<br />18:20　101 Music House ■lol-エルオーエル-<br /><br />twitterアカウントは「<a href=\"http://twitter.com/tresen_Fyoko\">@tresen_Fyoko</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%A8%E3%82%8C%E3%81%9B%E3%82%93\">#とれせん</a>」<br />メールアドレス：<a href=\"mailto:tresen@fmyokohama.jp\">tresen@fmyokohama.jp</a><br />",
               "pfm": "植松哲平 / Saku",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/33146292-6252-4952-89d4-6db157d70521.jpeg",
               "genre": {
@@ -235,7 +235,7 @@
               }
             },
             {
-              "-id": "9728370183",
+              "-id": "9729008681",
               "-ft": "20230123170000",
               "-to": "20230123190000",
               "-ftl": "1700",
@@ -246,8 +246,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "ホッとできるWEEKDAYの夕方に、一緒に楽しい時間を過ごしましょう！",
-              "info": "twitterアカウントは「<a href=\"http://twitter.com/tresen_Fyoko\">@tresen_Fyoko</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%A8%E3%82%8C%E3%81%9B%E3%82%93\">#とれせん</a>」<br />メールアドレス：<a href=\"mailto:tresen@fmyokohama.jp\">tresen@fmyokohama.jp</a><br />",
+              "info": "びっちょん植松哲平とFM界の走るイエローカードSakuがお送りするTresen！<br /><br />メッセージテーマは「順番の話」<br /><br />16:15　ゲスト / 八木海莉<br />17:00　えのすい presents LIFE OF AQUARIUM<br />17:36　日進レンタカー Music Navigation<br />17:54　煩悩タイム<br />18:00　佐久間さんの洋楽食堂<br />18:20　101 Music House ■lol-エルオーエル-<br /><br />twitterアカウントは「<a href=\"http://twitter.com/tresen_Fyoko\">@tresen_Fyoko</a>」<br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%A8%E3%82%8C%E3%81%9B%E3%82%93\">#とれせん</a>」<br />メールアドレス：<a href=\"mailto:tresen@fmyokohama.jp\">tresen@fmyokohama.jp</a><br />",
               "pfm": "植松哲平 / Saku",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YFM/33146292-6252-4952-89d4-6db157d70521.jpeg",
               "genre": {
@@ -274,7 +273,7 @@
               }
             },
             {
-              "-id": "9728370500",
+              "-id": "9729008757",
               "-ft": "20230123190000",
               "-to": "20230123215000",
               "-ftl": "1900",
@@ -312,7 +311,7 @@
               }
             },
             {
-              "-id": "9728370727",
+              "-id": "9729008823",
               "-ft": "20230123215000",
               "-to": "20230123220000",
               "-ftl": "2150",
@@ -350,7 +349,7 @@
               }
             },
             {
-              "-id": "9728370763",
+              "-id": "9729008835",
               "-ft": "20230123220000",
               "-to": "20230123232000",
               "-ftl": "2200",
@@ -388,7 +387,7 @@
               }
             },
             {
-              "-id": "9728370818",
+              "-id": "9729008854",
               "-ft": "20230123232000",
               "-to": "20230123233000",
               "-ftl": "2320",
@@ -420,7 +419,7 @@
               }
             },
             {
-              "-id": "9728370819",
+              "-id": "9729008855",
               "-ft": "20230123233000",
               "-to": "20230124000000",
               "-ftl": "2330",
@@ -458,7 +457,7 @@
               }
             },
             {
-              "-id": "9728370861",
+              "-id": "9729008867",
               "-ft": "20230124000000",
               "-to": "20230124003000",
               "-ftl": "2400",
@@ -490,7 +489,7 @@
               }
             },
             {
-              "-id": "9728370903",
+              "-id": "9729008878",
               "-ft": "20230124003000",
               "-to": "20230124013000",
               "-ftl": "2430",
@@ -522,7 +521,7 @@
               }
             },
             {
-              "-id": "9728370986",
+              "-id": "9729008901",
               "-ft": "20230124013000",
               "-to": "20230124020000",
               "-ftl": "2530",
@@ -561,7 +560,7 @@
               }
             },
             {
-              "-id": "9728370992",
+              "-id": "9729008905",
               "-ft": "20230124020000",
               "-to": "20230124023000",
               "-ftl": "2600",
@@ -599,7 +598,7 @@
               }
             },
             {
-              "-id": "9728371032",
+              "-id": "9729008913",
               "-ft": "20230124023000",
               "-to": "20230124030000",
               "-ftl": "2630",
@@ -638,7 +637,7 @@
               }
             },
             {
-              "-id": "9728371036",
+              "-id": "9729008916",
               "-ft": "20230124030000",
               "-to": "20230124033000",
               "-ftl": "2700",
@@ -670,7 +669,7 @@
               }
             },
             {
-              "-id": "9728371047",
+              "-id": "9729008925",
               "-ft": "20230124033000",
               "-to": "20230124050000",
               "-ftl": "2730",

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1674064989",
+    "srvtime": "1674237933",
     "stations": {
       "station": {
         "-id": "RKK",
@@ -10,7 +10,7 @@
           "date": "20230122",
           "prog": [
             {
-              "-id": "9726204550",
+              "-id": "9728792695",
               "-ft": "20230122050000",
               "-to": "20230122051500",
               "-ftl": "0500",
@@ -27,10 +27,6 @@
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
                 }
               },
               "metas": {
@@ -41,7 +37,7 @@
               }
             },
             {
-              "-id": "9726204561",
+              "-id": "9728805184",
               "-ft": "20230122051500",
               "-to": "20230122054500",
               "-ftl": "0515",
@@ -54,6 +50,16 @@
               "desc": "「チータ」の愛称で知られるあの水前寺清子がお届けする番組。日本初のオリンピックが開催された1964年のデビュー以来、歌謡シーンの最前線で活躍してきたチータが自信のヒット曲と共に、様々な話題をピックアップし、本音で語るラジオ番組。\n「おう！！ビシっといこうぜ」と爽やかなチータの応援トークは、老若男女心地いいものです。",
               "pfm": "水前寺清子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -62,7 +68,7 @@
               }
             },
             {
-              "-id": "9726204577",
+              "-id": "9728792733",
               "-ft": "20230122054500",
               "-to": "20230122060000",
               "-ftl": "0545",
@@ -79,6 +85,60 @@
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9728988133",
+              "-ft": "20230122060000",
+              "-to": "20230122060500",
+              "-ftl": "0600",
+              "-tol": "0605",
+              "-dur": "300",
+              "title": "ＲＫＫ　ＳＰれこお堂",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "ＲＫＫのレコード室にある貴重なＳＰレコードの中から珠玉の1曲を紹介する",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9728805197",
+              "-ft": "20230122060500",
+              "-to": "20230122061000",
+              "-ftl": "0605",
+              "-tol": "0610",
+              "-dur": "300",
+              "title": "心のともしび",
+              "url": "https://tomoshibi.or.jp/radio/r-program.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "暗いと不平を言うよりも、 すすんであかりをつけましょう。カトリック教会がお送りする心のともしび。",
+              "pfm": "坪井木の実",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/kljv4v588r.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
                 },
                 "program": {
                   "-id": "P016",
@@ -93,49 +153,7 @@
               }
             },
             {
-              "-id": "9726204614",
-              "-ft": "20230122060000",
-              "-to": "20230122060500",
-              "-ftl": "0600",
-              "-tol": "0605",
-              "-dur": "300",
-              "title": "ＲＫＫ　ＳＰれこお堂",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "ＲＫＫのレコード室にある貴重なＳＰレコードの中から珠玉の1曲を紹介する",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9726204622",
-              "-ft": "20230122060500",
-              "-to": "20230122061000",
-              "-ftl": "0605",
-              "-tol": "0610",
-              "-dur": "300",
-              "title": "心のともしび",
-              "url": "https://tomoshibi.or.jp/radio/r-program.html",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "暗いと不平を言うよりも、 すすんであかりをつけましょう。カトリック教会がお送りする心のともしび。",
-              "pfm": "坪井木の実",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/kljv4v588r.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9726204623",
+              "-id": "9728792804",
               "-ft": "20230122061000",
               "-to": "20230122061500",
               "-ftl": "0610",
@@ -148,12 +166,6 @@
               "desc": "熊本少年少女合唱団の爽やかな歌声をお送りします。",
               "pfm": "熊本少年少女合唱団",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -162,7 +174,7 @@
               }
             },
             {
-              "-id": "9726204631",
+              "-id": "9728805198",
               "-ft": "20230122061500",
               "-to": "20230122063000",
               "-ftl": "0615",
@@ -175,124 +187,6 @@
               "ts_out_ng": "0",
               "desc": "映画化された話題の本『なぜ生きる』の朗読を中心に、リスナーの皆様に役立つ情報をお届けしていきます。",
               "pfm": "朗読：鈴木弘子",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9726204648",
-              "-ft": "20230122063000",
-              "-to": "20230122064000",
-              "-ftl": "0630",
-              "-tol": "0640",
-              "-dur": "600",
-              "title": "おもいでビルボード",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "音楽情報誌『ビルボード』の年間チャートを賑わせたヒット曲を選りすぐって紹介していきます。\n時代を彩ってきた懐かしの名曲をぜひお楽しみください。",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9726204652",
-              "-ft": "20230122064000",
-              "-to": "20230122065500",
-              "-ftl": "0640",
-              "-tol": "0655",
-              "-dur": "900",
-              "title": "ピックアップラジオショッピング",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9726204661",
-              "-ft": "20230122065500",
-              "-to": "20230122070000",
-              "-ftl": "0655",
-              "-tol": "0700",
-              "-dur": "300",
-              "title": "善意銀行便り",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "社団法人熊本善意銀行の金品の預託や登録ボランティアの活動状況、物品の払い出しなどを毎週紹介します。",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P011",
-                  "name": "福祉"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9726204685",
-              "-ft": "20230122070000",
-              "-to": "20230122071500",
-              "-ftl": "0700",
-              "-tol": "0715",
-              "-dur": "900",
-              "title": "旬！ＳＨＵＮ！ピックアップ",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "竹内郁子、ねづっち、島田秀平、真木ひろかが、最新のおすすめ商品や気になる商品、巷で話題の商品などを楽しいトークとともにご紹介する番組です。あなたのお気に入り商品が見つかるかも。",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9726204696",
-              "-ft": "20230122071500",
-              "-to": "20230122073000",
-              "-ftl": "0715",
-              "-tol": "0730",
-              "-dur": "900",
-              "title": "天理教の時間",
-              "url": "https://www.tenrikyo.or.jp/yoboku/radio/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "家族円満”。夫婦、親子が絆を深め合い、ともに明るく暮らすためのヒントを、天理教の教えに基づいて分かりやすくお届けします。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
               "genre": {
                 "program": {
@@ -308,16 +202,17 @@
               }
             },
             {
-              "-id": "9726204728",
-              "-ft": "20230122073000",
-              "-to": "20230122074500",
-              "-ftl": "0730",
-              "-tol": "0745",
-              "-dur": "900",
-              "title": "小倉・ⅠＭＡＬＵの〇〇玉手箱",
+              "-id": "9728792833",
+              "-ft": "20230122063000",
+              "-to": "20230122064000",
+              "-ftl": "0630",
+              "-tol": "0640",
+              "-dur": "600",
+              "title": "おもいでビルボード",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "desc": "音楽情報誌『ビルボード』の年間チャートを賑わせたヒット曲を選りすぐって紹介していきます。\n時代を彩ってきた懐かしの名曲をぜひお楽しみください。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
               "metas": {
                 "meta": {
@@ -327,17 +222,16 @@
               }
             },
             {
-              "-id": "9726204736",
-              "-ft": "20230122074500",
-              "-to": "20230122080000",
-              "-ftl": "0745",
-              "-tol": "0800",
+              "-id": "9728988169",
+              "-ft": "20230122064000",
+              "-to": "20230122065500",
+              "-ftl": "0640",
+              "-tol": "0655",
               "-dur": "900",
-              "title": "まいどあり～。",
+              "title": "ピックアップラジオショッピング",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "なぞかけ名人のねづっちさん、ピンクの電話の竹内都子さん、ちはるさんなど、週替わりの出演者が楽しくいきいきと商品を紹介する。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
               "genre": {
                 "program": {
@@ -353,7 +247,117 @@
               }
             },
             {
-              "-id": "9726238697",
+              "-id": "9728792855",
+              "-ft": "20230122065500",
+              "-to": "20230122070000",
+              "-ftl": "0655",
+              "-tol": "0700",
+              "-dur": "300",
+              "title": "善意銀行便り",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "社団法人熊本善意銀行の金品の預託や登録ボランティアの活動状況、物品の払い出しなどを毎週紹介します。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9728792888",
+              "-ft": "20230122070000",
+              "-to": "20230122071500",
+              "-ftl": "0700",
+              "-tol": "0715",
+              "-dur": "900",
+              "title": "旬！ＳＨＵＮ！ピックアップ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "竹内郁子、ねづっち、島田秀平、真木ひろかが、最新のおすすめ商品や気になる商品、巷で話題の商品などを楽しいトークとともにご紹介する番組です。あなたのお気に入り商品が見つかるかも。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9728792899",
+              "-ft": "20230122071500",
+              "-to": "20230122073000",
+              "-ftl": "0715",
+              "-tol": "0730",
+              "-dur": "900",
+              "title": "天理教の時間",
+              "url": "https://www.tenrikyo.or.jp/yoboku/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "家族円満”。夫婦、親子が絆を深め合い、ともに明るく暮らすためのヒントを、天理教の教えに基づいて分かりやすくお届けします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9728988269",
+              "-ft": "20230122073000",
+              "-to": "20230122074500",
+              "-ftl": "0730",
+              "-tol": "0745",
+              "-dur": "900",
+              "title": "小倉・ⅠＭＡＬＵの〇〇玉手箱",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9728792966",
+              "-ft": "20230122074500",
+              "-to": "20230122080000",
+              "-ftl": "0745",
+              "-tol": "0800",
+              "-dur": "900",
+              "title": "まいどあり～。",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "なぞかけ名人のねづっちさん、ピンクの電話の竹内都子さん、ちはるさんなど、週替わりの出演者が楽しくいきいきと商品を紹介する。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9728988332",
               "-ft": "20230122080000",
               "-to": "20230122085500",
               "-ftl": "0800",
@@ -368,6 +372,16 @@
               "info": "▼メール onej@onej.jp<br />\n<!-- tw:onej_sunday img:https://rkk.jp/radikoimg/edit_r/img20210707171611.jpg -->",
               "pfm": "パーソナリティ：本仮屋ユイカ　堀口正裕（「TURNS 」プロデューサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/uf8vyfv6qu.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -376,7 +390,7 @@
               }
             },
             {
-              "-id": "9726204828",
+              "-id": "9728793115",
               "-ft": "20230122085500",
               "-to": "20230122090000",
               "-ftl": "0855",
@@ -391,10 +405,6 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -405,7 +415,7 @@
               }
             },
             {
-              "-id": "9726204859",
+              "-id": "9728988467",
               "-ft": "20230122090000",
               "-to": "20230122100000",
               "-ftl": "0900",
@@ -420,6 +430,16 @@
               "info": "▼メール onej@onej.jp<br />\n<!-- tw:onej_sunday img:https://rkk.jp/radikoimg/edit_r/img20210707171611.jpg -->",
               "pfm": "パーソナリティ：本仮屋ユイカ　堀口正裕（「TURNS 」プロデューサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/uf8vyfv6qu.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -428,7 +448,7 @@
               }
             },
             {
-              "-id": "9726204949",
+              "-id": "9728793319",
               "-ft": "20230122100000",
               "-to": "20230122100500",
               "-ftl": "1000",
@@ -443,10 +463,6 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -457,7 +473,7 @@
               }
             },
             {
-              "-id": "9726204952",
+              "-id": "9728988616",
               "-ft": "20230122100500",
               "-to": "20230122103000",
               "-ftl": "1005",
@@ -471,6 +487,16 @@
               "info": "▼メール　kamiama@rkk.jp",
               "pfm": "木村和也",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -479,7 +505,7 @@
               }
             },
             {
-              "-id": "9726204978",
+              "-id": "9728805242",
               "-ft": "20230122103000",
               "-to": "20230122110000",
               "-ftl": "1030",
@@ -511,7 +537,7 @@
               }
             },
             {
-              "-id": "9726205031",
+              "-id": "9728793448",
               "-ft": "20230122110000",
               "-to": "20230122110500",
               "-ftl": "1100",
@@ -526,10 +552,6 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -540,7 +562,7 @@
               }
             },
             {
-              "-id": "9726205034",
+              "-id": "9728988741",
               "-ft": "20230122110500",
               "-to": "20230122112000",
               "-ftl": "1105",
@@ -551,6 +573,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -559,7 +587,7 @@
               }
             },
             {
-              "-id": "9726205037",
+              "-id": "9728988743",
               "-ft": "20230122112000",
               "-to": "20230122113500",
               "-ftl": "1120",
@@ -570,6 +598,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -578,7 +612,7 @@
               }
             },
             {
-              "-id": "9726205061",
+              "-id": "9728988783",
               "-ft": "20230122113500",
               "-to": "20230122120000",
               "-ftl": "1135",
@@ -592,6 +626,16 @@
               "info": "<!-- img:https://rkk.jp/radikoimg/edit_r/img20220318112651.jpg -->",
               "pfm": "宮澤ミシェル",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/k7bhgu2icl.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C013",
+                  "name": "アスリート"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -600,7 +644,7 @@
               }
             },
             {
-              "-id": "9726205119",
+              "-id": "9728793584",
               "-ft": "20230122120000",
               "-to": "20230122120500",
               "-ftl": "1200",
@@ -615,10 +659,6 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -629,7 +669,7 @@
               }
             },
             {
-              "-id": "9726205124",
+              "-id": "9728793595",
               "-ft": "20230122120500",
               "-to": "20230122121500",
               "-ftl": "1205",
@@ -655,7 +695,7 @@
               }
             },
             {
-              "-id": "9726205131",
+              "-id": "9728988887",
               "-ft": "20230122121500",
               "-to": "20230122151500",
               "-ftl": "1215",
@@ -669,6 +709,12 @@
               "info": "3年ぶりとなる大会！広島平和記念公園がスタート・フィニッシュ。１本のタスキにかける男たちの熱きドラマを生中継！<br />\n宮島をのぞむ2つの世界遺産をつなぐシーサイドコースに、ふるさとの期待を背負う４７チームが熱戦を展開。<br />\n7区間48キロを、中学生、高校生、そして大学生・実業団などの一般ランナーたちが１本のタスキ、ひとつの心でつなぎ栄光のゴールを目指します。\n",
               "pfm": "解説：原 晋（青山学院大学陸上競技部監督）\n実況：一柳信行アナウンサー（ＲＣＣ）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -677,7 +723,7 @@
               }
             },
             {
-              "-id": "9726205339",
+              "-id": "9728805268",
               "-ft": "20230122151500",
               "-to": "20230122153500",
               "-ftl": "1515",
@@ -710,7 +756,7 @@
               }
             },
             {
-              "-id": "9726205345",
+              "-id": "9728793935",
               "-ft": "20230122153500",
               "-to": "20230122154000",
               "-ftl": "1535",
@@ -725,6 +771,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -735,7 +785,7 @@
               }
             },
             {
-              "-id": "9726205346",
+              "-id": "9728805270",
               "-ft": "20230122154000",
               "-to": "20230122161000",
               "-ftl": "1540",
@@ -768,7 +818,7 @@
               }
             },
             {
-              "-id": "9727319608",
+              "-id": "9728805275",
               "-ft": "20230122161000",
               "-to": "20230122170000",
               "-ftl": "1610",
@@ -800,7 +850,7 @@
               }
             },
             {
-              "-id": "9726205471",
+              "-id": "9728805282",
               "-ft": "20230122170000",
               "-to": "20230122170500",
               "-ftl": "1700",
@@ -815,6 +865,16 @@
               "info": "▼メール　nakahara@rkk.jp\n",
               "pfm": "中原丈雄",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C002",
+                  "name": "俳優"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -823,7 +883,7 @@
               }
             },
             {
-              "-id": "9726205475",
+              "-id": "9728989428",
               "-ft": "20230122170500",
               "-to": "20230122171500",
               "-ftl": "1705",
@@ -834,6 +894,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -842,7 +908,7 @@
               }
             },
             {
-              "-id": "9726205479",
+              "-id": "9728989433",
               "-ft": "20230122171500",
               "-to": "20230122173000",
               "-ftl": "1715",
@@ -857,6 +923,16 @@
               "info": "<!-- img:https://rkk.jp/radikoimg/edit_r/img20220927161648.png -->",
               "pfm": "佃航平役：岸谷五朗",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/xhlpscgx3u.png",
+              "genre": {
+                "personality": {
+                  "-id": "C002",
+                  "name": "俳優"
+                },
+                "program": {
+                  "-id": "P004",
+                  "name": "ドラマ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -865,7 +941,7 @@
               }
             },
             {
-              "-id": "9726205486",
+              "-id": "9728805291",
               "-ft": "20230122173000",
               "-to": "20230122180000",
               "-ftl": "1730",
@@ -878,6 +954,12 @@
               "desc": "知っているようで知らない健康に関する様々なお話を、ゲストドクターが、わかりやすく解説する肩の凝らない医療情報番組。",
               "pfm": "江越哲也",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P010",
+                  "name": "医療"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -886,7 +968,7 @@
               }
             },
             {
-              "-id": "9726205549",
+              "-id": "9728794264",
               "-ft": "20230122180000",
               "-to": "20230122180500",
               "-ftl": "1800",
@@ -901,10 +983,6 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -915,7 +993,7 @@
               }
             },
             {
-              "-id": "9726205553",
+              "-id": "9728794269",
               "-ft": "20230122180500",
               "-to": "20230122181000",
               "-ftl": "1805",
@@ -929,12 +1007,6 @@
               "desc": "レコード会社がおすすめするアーティストの楽曲を紹介する。",
               "info": "<!-- img:https://rkk.jp/radikoimg/edit_r/img20220415143451.jpg -->",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/9yjnf81ooo.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -943,7 +1015,7 @@
               }
             },
             {
-              "-id": "9726205554",
+              "-id": "9728805297",
               "-ft": "20230122181000",
               "-to": "20230122183000",
               "-ftl": "1810",
@@ -957,6 +1029,16 @@
               "info": "▼メール　kokoro@rkk.jp<br />",
               "pfm": "小笠原嘉祐　右田昌子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -965,7 +1047,7 @@
               }
             },
             {
-              "-id": "9726205579",
+              "-id": "9728794309",
               "-ft": "20230122183000",
               "-to": "20230122184000",
               "-ftl": "1830",
@@ -979,12 +1061,6 @@
               "desc": "半世紀以上の歴史を持つ録音構成番組。全国の放送局がその土地ならではの風俗をそこでしか聞くことのできない音とともに紹介します。\n\n\n",
               "info": "<!-- img:https://rkk.jp/radikoimg/edit_r/img20200319191503.jpg -->",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/mhgkc8lb2j.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P015",
-                  "name": "教養"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -993,7 +1069,7 @@
               }
             },
             {
-              "-id": "9726205581",
+              "-id": "9728989577",
               "-ft": "20230122184000",
               "-to": "20230122185000",
               "-ftl": "1840",
@@ -1006,29 +1082,10 @@
               "desc": "主役は熊本県内の小学生。\n小学校や施設、クラブ教室など熊本県内で活動する子どもたちの様子や、子供たちが感じている喜怒哀楽を、ラジオでお届けします。また、子どもたちを見守る大人のみなさんなど、「小学生」を中心に広がるコミュニティにも注目し紹介します。\n",
               "pfm": "岩本実希",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9726205584",
-              "-ft": "20230122185000",
-              "-to": "20230122190000",
-              "-ftl": "1850",
-              "-tol": "1900",
-              "-dur": "600",
-              "title": "ＲＫＫスクリーン・ミュージック",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
               "genre": {
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -1039,7 +1096,26 @@
               }
             },
             {
-              "-id": "9726205625",
+              "-id": "9728794316",
+              "-ft": "20230122185000",
+              "-to": "20230122190000",
+              "-ftl": "1850",
+              "-tol": "1900",
+              "-dur": "600",
+              "title": "ＲＫＫスクリーン・ミュージック",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9728989642",
               "-ft": "20230122190000",
               "-to": "20230122200000",
               "-ftl": "1900",
@@ -1054,6 +1130,16 @@
               "info": "九州各局からのレポートコーナー「ゴリなび」。\n今月のテーマは「殿様が愛した〇○第２弾」。<br />\n熊本からは、沖村考祐アナウンサーのからし蓮根作り体験と菊池温泉についてご紹介します。<br />\n<!-- img:https://rkk.jp/radikoimg/edit_r/img20211001102228.jpg -->",
               "pfm": "ゴリけん　田畑竜介",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/vdvagppexl.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1062,7 +1148,7 @@
               }
             },
             {
-              "-id": "9727223512",
+              "-id": "9728805313",
               "-ft": "20230122200000",
               "-to": "20230122210000",
               "-ftl": "2000",
@@ -1095,7 +1181,7 @@
               }
             },
             {
-              "-id": "9726205726",
+              "-id": "9728805318",
               "-ft": "20230122210000",
               "-to": "20230122220000",
               "-ftl": "2100",
@@ -1110,6 +1196,16 @@
               "info": "▼メール　sora@rkk.jp　▼FAX　096-356-1117<br />\n<!-- tw:sorayofan fb:sorayofan img:https://rkk.jp/radikoimg/top/sora.jpg -->",
               "pfm": "塚原まきこ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/sq5ic5uksn.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1118,7 +1214,7 @@
               }
             },
             {
-              "-id": "9726205792",
+              "-id": "9728805324",
               "-ft": "20230122220000",
               "-to": "20230122223000",
               "-ftl": "2200",
@@ -1151,7 +1247,7 @@
               }
             },
             {
-              "-id": "9726205810",
+              "-id": "9728989917",
               "-ft": "20230122223000",
               "-to": "20230122230000",
               "-ftl": "2230",
@@ -1166,6 +1262,16 @@
               "info": "▼メール：west@jocr.jp　▼FAX：078-361-0005『ジャニーズWEST もぎたて関ジュース』係<br/> 　\n▼ハガキ：〒650-8580\nラジオ関西『ジャニーズWEST もぎたて関ジュース』係<br />\n<!-- img:https://rkk.jp/radikoimg/edit_r/img20220523184818.jpg -->",
               "pfm": "ジャニーズＷＥＳＴ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/qssivfup9j.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1174,7 +1280,7 @@
               }
             },
             {
-              "-id": "9727328377",
+              "-id": "9728805329",
               "-ft": "20230122230000",
               "-to": "20230122233000",
               "-ftl": "2300",
@@ -1207,7 +1313,7 @@
               }
             },
             {
-              "-id": "9726205883",
+              "-id": "9728805332",
               "-ft": "20230122233000",
               "-to": "20230123000000",
               "-ftl": "2330",
@@ -1222,6 +1328,16 @@
               "info": "▼メール　hkt@kbc.co.jp<br />\n<!-- img:https://rkk.jp/radikoimg/edit_r/img20210915220443.jpg -->",
               "pfm": "HKT48　沖繁義",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/xjvmmbskik.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1230,7 +1346,7 @@
               }
             },
             {
-              "-id": "9726205933",
+              "-id": "9728990118",
               "-ft": "20230123000000",
               "-to": "20230123002900",
               "-ftl": "2400",
@@ -1244,6 +1360,16 @@
               "desc": "ゲストをお迎えして話題の最新曲や注目曲、楽しいトークを繰り広げてお届けしていきます。\n深夜の遅い時間ですがリアルタイムで聴いて応援してください",
               "pfm": "京太郎・レイジュ(麗珠)",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKK/b4333dbe-c8e1-4086-b5f5-81128e5d23d7.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1252,7 +1378,7 @@
               }
             },
             {
-              "-id": "9726205938",
+              "-id": "9728794885",
               "-ft": "20230123002900",
               "-to": "20230123040000",
               "-ftl": "2429",
@@ -1271,7 +1397,7 @@
               }
             },
             {
-              "-id": "9726211861",
+              "-id": "9728795005",
               "-ft": "20230123040000",
               "-to": "20230123050000",
               "-ftl": "2800",
