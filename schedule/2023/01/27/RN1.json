@@ -1,0 +1,866 @@
+{
+  "radiko": {
+    "ttl": "1800",
+    "srvtime": "1674324382",
+    "stations": {
+      "station": {
+        "-id": "RN1",
+        "name": "ラジオNIKKEI第1",
+        "progs": {
+          "date": "20230127",
+          "prog": [
+            {
+              "-id": "9729354857",
+              "-ft": "20230127050000",
+              "-to": "20230127071000",
+              "-ftl": "0500",
+              "-tol": "0710",
+              "-dur": "7800",
+              "title": "番組休止中",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/d548ca77-a3d3-4df6-a80e-0f071dccf11d.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354882",
+              "-ft": "20230127071000",
+              "-to": "20230127071500",
+              "-ftl": "0710",
+              "-tol": "0715",
+              "-dur": "300",
+              "title": "開始アナウンス",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/d548ca77-a3d3-4df6-a80e-0f071dccf11d.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354883",
+              "-ft": "20230127071500",
+              "-to": "20230127072500",
+              "-ftl": "0715",
+              "-tol": "0725",
+              "-dur": "600",
+              "title": "まことの救い",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "誰にでもわかりやすいイエス・キリストのお話。日本福音宣教会がお届けするラジオ放送です。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/d548ca77-a3d3-4df6-a80e-0f071dccf11d.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354885",
+              "-ft": "20230127072500",
+              "-to": "20230127073000",
+              "-ftl": "0725",
+              "-tol": "0730",
+              "-dur": "300",
+              "title": "ミュージックアプリ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "アンドレ・ギャニオン「めぐり逢い」",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/d548ca77-a3d3-4df6-a80e-0f071dccf11d.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354887",
+              "-ft": "20230127073000",
+              "-to": "20230127074500",
+              "-ftl": "0730",
+              "-tol": "0745",
+              "-dur": "900",
+              "title": "マネーのカラクリ",
+              "url": "https://www.radionikkei.jp/karakuri/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "投資や移住、副業や起業など様々な方法で、自分らしく「お金に困らない生き方」を実践している人々にインタビュー。<br>\n話題のビジネスや働き方をテーマに、「お金の流れ、仕組み」をわかりやすく解説します。<br>\nより充実した仕事や生き方を実践したいビジネスパーソンの「発見」につながる番組です。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/z3iq7xj7op.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354888",
+              "-ft": "20230127074500",
+              "-to": "20230127075000",
+              "-ftl": "0745",
+              "-tol": "0750",
+              "-dur": "300",
+              "title": "光とともに",
+              "url": "https://www.radionikkei.jp/hikari/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "キリスト教の教えから幸せな生き方の秘訣をお伝えするショートメッセージをお届けします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/n2ornk8ykq.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354889",
+              "-ft": "20230127075000",
+              "-to": "20230127080000",
+              "-ftl": "0750",
+              "-tol": "0800",
+              "-dur": "600",
+              "title": "日経電子版NEWS",
+              "url": "https://www.radionikkei.jp/ndn/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "日経電子版から、平日は朝・昼・夕・夜の4回、土曜日・日曜日・祝日は朝・夕の2回、ホットニュースをピックアップしてお届けします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/em82074w8o.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354891",
+              "-ft": "20230127080000",
+              "-to": "20230127084000",
+              "-ftl": "0800",
+              "-tol": "0840",
+              "-dur": "2400",
+              "title": "おはようマーケット",
+              "url": "https://www.radionikkei.jp/ohayo/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "番組では「前日の海外市場の動向」「今朝の株価材料／今日の予定」「決算関連のニュース／その他のニュース（経済指標等）」「日経平均先物の動向」などをお伝えします。<br>\n本日の詳しい出演者の情報は、『おはようマーケット』のホームページでもご紹介しています。キャスターは浜田節子アナウンサーです。<br>\n（8時40分からは『朝倉慶の株式フライデー』をお送りします。）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/vxtco3u742.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354897",
+              "-ft": "20230127084000",
+              "-to": "20230127085500",
+              "-ftl": "0840",
+              "-tol": "0855",
+              "-dur": "900",
+              "title": "朝倉慶の株式フライデー",
+              "url": "https://www.radionikkei.jp/friday/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "いま朝倉慶が熱い！<br>\nその鋭い洞察力と分析力で注目を集める経済予測のプロ朝倉慶が、毎週金曜の寄り付き直前に、株式投資をする上での重要な注目ポイントをズバリ解説。<br>\n毎週第1金曜日は長谷川伸一さんをゲストに迎えて「注目銘柄解説」を、毎週第3金曜日は西野匡さんを迎えて「個別銘柄スペシャル」をお送りします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/hs7hvdmomb.png",
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354899",
+              "-ft": "20230127085500",
+              "-to": "20230127090000",
+              "-ftl": "0855",
+              "-tol": "0900",
+              "-dur": "300",
+              "title": "おはようマーケット",
+              "url": "https://www.radionikkei.jp/ohayo/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "番組では「前日の海外市場の動向」「今朝の株価材料／今日の予定」「決算関連のニュース／その他のニュース（経済指標等）」「日経平均先物の動向」などをお伝えします。<br>\n本日の詳しい出演者の情報は、『おはようマーケット』のホームページでもご紹介しています。キャスターは浜田節子アナウンサーです。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/vxtco3u742.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354901",
+              "-ft": "20230127090000",
+              "-to": "20230127113500",
+              "-ftl": "0900",
+              "-tol": "1135",
+              "-dur": "9300",
+              "title": "マーケットプレス　前場",
+              "url": "https://www.radionikkei.jp/marketpress/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "東京株式市場の株式情報を中心に、為替・商品の情報や経済ニュースなどを生放送でお送りします。ラジオNIKKEIの記者たちが集めた投資情報をリアルタイムでレポートします。<br>\n<br>\n番組公式ブログ：<a href=\"http://market.radionikkei.jp/marketpress/\">http://market.radionikkei.jp/marketpress/</a><br>\n<br>\ntwitterアカウントは「@market_press」<br>\ntwitterハッシュタグは「#market_press」です。<br>\n皆様からのお声をお待ちしています。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/j1ukn0x1xa.png",
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354916",
+              "-ft": "20230127113500",
+              "-to": "20230127123000",
+              "-ftl": "1135",
+              "-tol": "1230",
+              "-dur": "3300",
+              "title": "大人のラヂオ",
+              "url": "https://www.radionikkei.jp/otona/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "「大人の○○」をテーマに、大人がゆったり聴けるラジオ番組をお届けします。<br>\n「大人の健康」「大人の生活」「大人の音楽」「大人のスポーツ」など様々なテーマを取り上げ、各界から多彩なゲストを迎えてお話を伺います。<br>\n<br>\n番組オンエア後に、オンデマンド放送も配信しています。<br>\n放送日から数日中に配信開始予定ですので、放送を聞き逃したり「もう一度聴いてみたい！」と思ったときに、ぜひご利用ください。\n<br>\n詳細は番組サイトをチェック！",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/621dkmzyss.png",
+              "tag": {
+                "item": {
+                  "name": "教養番組"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354926",
+              "-ft": "20230127123000",
+              "-to": "20230127125300",
+              "-ftl": "1230",
+              "-tol": "1253",
+              "-dur": "1380",
+              "title": "マーケットプレス　後場",
+              "url": "https://www.radionikkei.jp/marketpress/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "東京株式市場の株式情報を中心に、為替・商品の情報や経済ニュースなどを生放送でお送りします。ラジオNIKKEIの記者たちが集めた投資情報をリアルタイムでレポートします。<br>\n<br>\n番組公式ブログ：<a href=\"http://market.radionikkei.jp/marketpress/\">http://market.radionikkei.jp/marketpress/</a><br>\n<br>\ntwitterアカウントは「@market_press」<br>\ntwitterハッシュタグは「#market_press」です。<br>\n皆様からのお声をお待ちしています。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/j1ukn0x1xa.png",
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354929",
+              "-ft": "20230127125300",
+              "-to": "20230127130000",
+              "-ftl": "1253",
+              "-tol": "1300",
+              "-dur": "420",
+              "title": "日経電子版NEWS",
+              "url": "https://www.radionikkei.jp/ndn/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "日経電子版から、平日は朝・昼・夕・夜の4回、土曜日・日曜日・祝日は朝・夕の2回、ホットニュースをピックアップしてお届けします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/em82074w8o.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354931",
+              "-ft": "20230127130000",
+              "-to": "20230127143000",
+              "-ftl": "1300",
+              "-tol": "1430",
+              "-dur": "5400",
+              "title": "マーケットプレス　後場",
+              "url": "https://www.radionikkei.jp/marketpress/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "東京株式市場の株式情報を中心に、為替・商品の情報や経済ニュースなどを生放送でお送りします。ラジオNIKKEIの記者たちが集めた投資情報をリアルタイムでレポートします。<br>\n<br>\n番組公式ブログ：<a href=\"http://market.radionikkei.jp/marketpress/\">http://market.radionikkei.jp/marketpress/</a><br>\n<br>\ntwitterアカウントは「@market_press」<br>\ntwitterハッシュタグは「#market_press」です。<br>\n皆様からのお声をお待ちしています。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/j1ukn0x1xa.png",
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354938",
+              "-ft": "20230127143000",
+              "-to": "20230127160000",
+              "-ftl": "1430",
+              "-tol": "1600",
+              "-dur": "5400",
+              "title": "ザ・マネー　～西山孝四郎のマーケットスクエア",
+              "url": "https://www.radionikkei.jp/fxms/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "ザ・マネー金曜日は、現役ファンドマネージャー西山孝四郎が、外国為替市場を中心にマーケットを一刀両断。日々マーケットに接している西山氏ならではのリアリティある情報に要注目！<br>\nYouTubeでも毎週動画を配信しています。",
+              "pfm": "西山孝四郎 ほか",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/5vift264oa.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354946",
+              "-ft": "20230127160000",
+              "-to": "20230127163000",
+              "-ftl": "1600",
+              "-tol": "1630",
+              "-dur": "1800",
+              "title": "町田徹のふかぼり！",
+              "url": "https://www.radionikkei.jp/fukabori/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "町田徹 / 杉浦舞",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/swnbtla4em.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354950",
+              "-ft": "20230127163000",
+              "-to": "20230127170000",
+              "-ftl": "1630",
+              "-tol": "1700",
+              "-dur": "1800",
+              "title": "カブりつき・マーケット情報局",
+              "url": "https://www.radionikkei.jp/kaburitsuki/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "マーケット情報の発信基地！<br>\n銘柄情報に、プロの投資手法に、相場の注目ポイントが集約された30分（＋延長戦をYouTubeLiveで配信します）。<br>\n思わずラジオにカブりついて、PC画面にカジりついてしまうようなマーケット情報をガッツリお届けします。<br>\n出演は、Bコミさんこと坂本慎太郎さん、スパローズ・大和一孝さんほか。",
+              "pfm": "坂本慎太郎 / 大和一孝 / 八木ひとみほか",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/7qkdz0pbzo.png",
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                },
+                "program": {
+                  "-id": "P020",
+                  "name": "株/投資"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354956",
+              "-ft": "20230127170000",
+              "-to": "20230127172000",
+              "-ftl": "1700",
+              "-tol": "1720",
+              "-dur": "1200",
+              "title": "健康ネットワーク",
+              "url": "https://www.radionikkei.jp/kenkounet/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "毎週、医療や健康、化学にまつわる専門家をゲストに迎える健康生活応援番組。<br>\n健康な生活を送るための医学的知識や美容のノウハウ、サプリメントを開発・販売・選択するために必要な化学の知識を中心に、トークを展開します。健康生活のヒントはこの番組で！<br>\n<br>\n聞き手は、薬剤師の堀美智子さんと、環状オリゴ糖研究の第一人者、寺尾啓二さん（コサナ社長・神戸大学医学部客員教授）。",
+              "pfm": "堀美智子 / 寺尾啓二",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/0u71w8n80s.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354962",
+              "-ft": "20230127172000",
+              "-to": "20230127175000",
+              "-ftl": "1720",
+              "-tol": "1750",
+              "-dur": "1800",
+              "title": "ミュージックアプリ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "The Bangles 「Eternal Flame」<br>\n「HeroTales a Fall」<br>\n「Going Down to Liverpool」<br>\n「Manic Monday」<br>\n「If She Knew What She Wants」<br>\n「Walking Down Your Street」<br>\n「AHazy Shadeof Winter」<br>\n「BeWith You」<br>\n「Walk Like anEgyptian」",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/d548ca77-a3d3-4df6-a80e-0f071dccf11d.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354971",
+              "-ft": "20230127175000",
+              "-to": "20230127180000",
+              "-ftl": "1750",
+              "-tol": "1800",
+              "-dur": "600",
+              "title": "日経電子版NEWS",
+              "url": "https://www.radionikkei.jp/ndn/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "日経電子版から、平日は朝・昼・夕・夜の4回、土曜日・日曜日・祝日は朝・夕の2回、ホットニュースをピックアップしてお届けします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/em82074w8o.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354975",
+              "-ft": "20230127180000",
+              "-to": "20230127183000",
+              "-ftl": "1800",
+              "-tol": "1830",
+              "-dur": "1800",
+              "title": "洋楽処POPS倶楽部",
+              "url": "https://www.radionikkei.jp/pops/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "60年代を中心とした懐かしの洋楽ポップス・ヒットをラジオにかじりついて聴いていたあの日々を、鮮やかによみがえらせよう！<br>何度聴いても元気がもらえる、色褪せない海外アーティストの至極の名盤。洋楽ファン必聴です。<br>パーソナリティは、音楽好きが高じてラジオパーソナリティになった佐藤健一（さとけん）。<br>\n番組内でご紹介している懐かしのCDを紹介するラジオショッピングコーナーも。",
+              "pfm": "佐藤健一",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/knwtqtzilw.png",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354980",
+              "-ft": "20230127183000",
+              "-to": "20230127190000",
+              "-ftl": "1830",
+              "-tol": "1900",
+              "-dur": "1800",
+              "title": "テイスト・オブ・ジャズ",
+              "url": "https://www.radionikkei.jp/music/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "民放ラジオ最長寿級のジャズ番組「テイスト・オブ・ジャズ」。<br>\n進行役は、フリーアナウンサーの山本郁。毎回ミュージシャン、シンガー、ジャズ関係者などをスタジオに招き、そのゲストにゆかりの曲をかけてジャズ・トークをお届けします。ジャズ的なユルめのトークが人気です。<br>\n外来ミュージシャンのゲスト出演も多く、日本のミュージシャンでは、ベテランから新鋭まで多数のゲストにお越しいただいています。ゲストミュージシャンの多彩な顔触れと、他ではみられない（聴けない？）素顔（素声？）にご注目ください。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/elizgz9349.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354986",
+              "-ft": "20230127190000",
+              "-to": "20230127193000",
+              "-ftl": "1900",
+              "-tol": "1930",
+              "-dur": "1800",
+              "title": "BIZ&TECH Ｔｅｒｍｉｎａｌ",
+              "url": "https://www.radionikkei.jp/btt/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "さまざまな業界のビジネストップランナーらによる対談など、最新の時事トピックなどと合わせて紹介していきます。<br>\n時には仕事の現場で、時には友人との話のネタに使える、ビジネスを中心とした情報を提供します。",
+              "pfm": "柳瀬博一（東京工業大学教授）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/ozv7l6kmh7.png",
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354989",
+              "-ft": "20230127193000",
+              "-to": "20230127195000",
+              "-ftl": "1930",
+              "-tol": "1950",
+              "-dur": "1200",
+              "title": "RaNi Music♪AfterDinner",
+              "url": "https://www.radionikkei.jp/ranimusic/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "▼プレイリスト▼<br />19:30 ポニーテイル/ビッケブランカ<br />19:34 夢想花/円広志<br />19:41 More Than a Feeling/Boston<br />19:45 Forevermore/宇多田ヒカル<br /><br /><a href='https://rn2service.radionikkei.jp/rn1af.php?n=20230127193000'><img src='https://rn2service.radionikkei.jp/noa/radikoimg/playprevb.jpg' /> <em>前回のRaNi Music♪ AfterDinnerへ</em></a><br /><br /><a href='https://rn2service.radionikkei.jp/rn1af.php?n=20230127193000&rf=ff'><img src='https://rn2service.radionikkei.jp/noa/radikoimg/playnextb.jpg' /> <em>次回のRaNi Music♪ AfterDinnerへ</em></a><br />",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/v7l11tbn6a.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354990",
+              "-ft": "20230127195000",
+              "-to": "20230127200000",
+              "-ftl": "1950",
+              "-tol": "2000",
+              "-dur": "600",
+              "title": "日経電子版NEWS",
+              "url": "https://www.radionikkei.jp/ndn/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "日経電子版から、平日は朝・昼・夕・夜の4回、土曜日・日曜日・祝日は朝・夕の2回、ホットニュースをピックアップしてお届けします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/em82074w8o.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729354995",
+              "-ft": "20230127200000",
+              "-to": "20230127203000",
+              "-ftl": "2000",
+              "-tol": "2030",
+              "-dur": "1800",
+              "title": "うまきんIII",
+              "url": "https://www.radionikkei.jp/umakin3/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "週替わりで担当アナウンサーが登場し、週末の競馬を予想したりリスナーからメールで届いた質問に真摯に？答えながら、普段の競馬中継ではうかがい知ることのできない素顔や日常に迫る？ゆるゆる、ドキドキの30分。一度聴いたら癖になること間違いなし！",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/zkwj0oysjw.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729387337",
+              "-ft": "20230127203000",
+              "-to": "20230127210000",
+              "-ftl": "2030",
+              "-tol": "2100",
+              "-dur": "1800",
+              "title": "鈴木淑子の地球は競馬でまわってる",
+              "url": "https://www.radionikkei.jp/yoshikokeiba/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "あの鈴木淑子が、競馬の話題や重賞展望を、素敵な音楽やおしゃべりとともにお送りする30分！<br>\n<br>\n<br>\ntwitterアカウントは「@yoshikokeiba」です。<br>\n皆様からのツイートをお待ちしています！",
+              "pfm": "鈴木淑子 / ラジオNIKKEIアナウンサー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/leeqbm6f2n.png",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P019",
+                  "name": "公営競技"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729387346",
+              "-ft": "20230127210000",
+              "-to": "20230127213000",
+              "-ftl": "2100",
+              "-tol": "2130",
+              "-dur": "1800",
+              "title": "伊藤洋一のRound Up World Now!プロパティエージェントスペシャル",
+              "url": "https://www.radionikkei.jp/roundup/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "伊藤洋一",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/mzwamcvgph.png",
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729355015",
+              "-ft": "20230127213000",
+              "-to": "20230127223000",
+              "-ftl": "2130",
+              "-tol": "2230",
+              "-dur": "3600",
+              "title": "夜トレ！",
+              "url": "https://www.radionikkei.jp/yorutore/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "現役トレーダーや投資に関心のある方々のための番組です。<br>\n各指標の発表など『トレードが一番面白い金曜日の夜』に、ユーストリームやツイッターなどを使いながら、マネーや投資をテーマにリスナーと出演者でワイワイ語り合います。指南役の識者のコメントも交え、トレーダー全員で楽しみながら投資を学んでいきます。<br>\n<br>\n番組ホームページ： <a href=\"http://market.radionikkei.jp/yorutore/\">http://market.radionikkei.jp/yorutore/</a><br>\n<br>\ntwitterアカウントは「@yorutore」<br>\ntwitterハッシュタグは「#yorutore」です。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/nfdh55nulc.png",
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729387361",
+              "-ft": "20230127223000",
+              "-to": "20230127230000",
+              "-ftl": "2230",
+              "-tol": "2300",
+              "-dur": "1800",
+              "title": "伊藤洋一のRound Up World Now!",
+              "url": "https://www.radionikkei.jp/roundup/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "国内外で起こった1週間の経済・社会・政治関連の出来事、指標、トピックスなどを分かりやすく解説。刻々と変化していく現代をグローバルに見渡すことのできる30分です。",
+              "pfm": "伊藤洋一",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/mzwamcvgph.png",
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729355028",
+              "-ft": "20230127230000",
+              "-to": "20230127233000",
+              "-ftl": "2300",
+              "-tol": "2330",
+              "-dur": "1800",
+              "title": "町田徹のふかぼり！",
+              "url": "https://www.radionikkei.jp/fukabori/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "町田徹 / 杉浦舞",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/swnbtla4em.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729387377",
+              "-ft": "20230127233000",
+              "-to": "20230128003000",
+              "-ftl": "2330",
+              "-tol": "2430",
+              "-dur": "3600",
+              "title": "アイドルジェネレーション",
+              "url": "https://www.radionikkei.jp/idol_generation/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "～アイドルジェネレーションの詳細は<a href=\"http://www.radionikkei.jp/idol_generation/\">番組ホームページ</a>に随時アップしていきますので要チェック！～<br>\n<br>\n番組ホームページ： <a href=\"http://www.radionikkei.jp/idol_generation/\">http://www.radionikkei.jp/idol_generation/</a><br>\n<br>\ntwitterアカウントは「@rn_idol」です！<br>\n番組のご感想など、お待ちしています！",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/zy5f35cf7n.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9729355090",
+              "-ft": "20230128003000",
+              "-to": "20230128045900",
+              "-ftl": "2430",
+              "-tol": "2859",
+              "-dur": "16140",
+              "title": "番組休止中",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/d548ca77-a3d3-4df6-a80e-0f071dccf11d.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
