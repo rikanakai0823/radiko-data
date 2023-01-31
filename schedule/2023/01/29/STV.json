@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1675101785",
+    "srvtime": "1675188131",
     "stations": {
       "station": {
         "-id": "STV",
@@ -164,7 +164,7 @@
               }
             },
             {
-              "-id": "9735434947",
+              "-id": "9736103230",
               "-ft": "20230129061500",
               "-to": "20230129063000",
               "-ftl": "0615",
@@ -176,6 +176,16 @@
               "ts_out_ng": "0",
               "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/451f314c-2a84-4762-9f84-84f5f168be9e.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -236,7 +246,7 @@
               }
             },
             {
-              "-id": "9735434959",
+              "-id": "9736103266",
               "-ft": "20230129070000",
               "-to": "20230129071500",
               "-ftl": "0700",
@@ -251,6 +261,16 @@
               "info": "メール：ainu@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "下倉絵美　渋谷もなみ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/b87733a2-1ad0-4507-af33-bcf6faae5572.png",
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -292,7 +312,7 @@
               }
             },
             {
-              "-id": "9735434965",
+              "-id": "9736103287",
               "-ft": "20230129073000",
               "-to": "20230129074500",
               "-ftl": "0730",
@@ -356,7 +376,7 @@
               }
             },
             {
-              "-id": "9735434972",
+              "-id": "9736103314",
               "-ft": "20230129080000",
               "-to": "20230129081500",
               "-ftl": "0800",
@@ -371,6 +391,21 @@
               "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "胡青余　北本隆雄",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/ced5f1fc-7885-41f5-b4f6-9bfbc0a7cc5b.jpeg",
+              "tag": {
+                "item": {
+                  "name": "誰にも言えないお悩み相談"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P010",
+                  "name": "医療"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -491,7 +526,7 @@
               }
             },
             {
-              "-id": "9735434980",
+              "-id": "9736103356",
               "-ft": "20230129090000",
               "-to": "20230129091500",
               "-ftl": "0900",
@@ -507,9 +542,13 @@
               "pfm": "遠藤陶子　山本浩子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/f4db77aa-e9c7-4ac9-95fe-581981e833cc.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
                 "program": {
-                  "-id": "P017",
-                  "name": "健康"
+                  "-id": "P010",
+                  "name": "医療"
                 }
               },
               "metas": {
@@ -520,7 +559,7 @@
               }
             },
             {
-              "-id": "9735434981",
+              "-id": "9736103364",
               "-ft": "20230129091500",
               "-to": "20230129093000",
               "-ftl": "0915",
@@ -535,6 +574,10 @@
               "pfm": "堺なおこ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/451f314c-2a84-4762-9f84-84f5f168be9e.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
                 "program": {
                   "-id": "P017",
                   "name": "健康"
@@ -614,7 +657,7 @@
               }
             },
             {
-              "-id": "9735434995",
+              "-id": "9735813145",
               "-ft": "20230129110000",
               "-to": "20230129120000",
               "-ftl": "1100",
@@ -633,10 +676,6 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
                 }
               },
               "metas": {
@@ -939,7 +978,7 @@
               }
             },
             {
-              "-id": "9735435045",
+              "-id": "9736103795",
               "-ft": "20230129220000",
               "-to": "20230129223000",
               "-ftl": "2200",
@@ -956,6 +995,16 @@
               "tag": {
                 "item": {
                   "name": "#音楽との出会いが楽しめる"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -999,7 +1048,7 @@
               }
             },
             {
-              "-id": "9735435050",
+              "-id": "9736103829",
               "-ft": "20230129230000",
               "-to": "20230129233000",
               "-ftl": "2300",
@@ -1014,9 +1063,14 @@
               "pfm": "中村七之助　ヒロド歩美",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/d8323a7f-2515-4513-a2e8-03778c19bbbc.jpeg",
               "tag": {
-                "item": {
-                  "name": "#人気俳優トーク"
-                }
+                "item": [
+                  {
+                    "name": "#人気俳優トーク"
+                  },
+                  {
+                    "name": "#寝る前に聴きたい"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1036,7 +1090,7 @@
               }
             },
             {
-              "-id": "9735435052",
+              "-id": "9736103846",
               "-ft": "20230129233000",
               "-to": "20230130000000",
               "-ftl": "2330",
@@ -1051,9 +1105,14 @@
               "pfm": "水樹奈々　福圓美里",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/qy3a7j5i6t.png",
               "tag": {
-                "item": {
-                  "name": "#人気声優出演"
-                }
+                "item": [
+                  {
+                    "name": "#人気声優出演"
+                  },
+                  {
+                    "name": "#寝る前に聴きたい"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1073,7 +1132,7 @@
               }
             },
             {
-              "-id": "9735435055",
+              "-id": "9736103868",
               "-ft": "20230130000000",
               "-to": "20230130003000",
               "-ftl": "2400",
@@ -1088,9 +1147,14 @@
               "pfm": "藤原竜也",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/456bc4c7-b231-4c16-b107-28fbff404c72.jpeg",
               "tag": {
-                "item": {
-                  "name": "#人気俳優トーク"
-                }
+                "item": [
+                  {
+                    "name": "#人気俳優トーク"
+                  },
+                  {
+                    "name": "#寝る前に聴きたい"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1110,7 +1174,7 @@
               }
             },
             {
-              "-id": "9735435058",
+              "-id": "9736103883",
               "-ft": "20230130003000",
               "-to": "20230130010000",
               "-ftl": "2430",
@@ -1125,9 +1189,14 @@
               "pfm": "櫻坂46",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/885f49d8-c874-4249-b995-bee3b0f35ba7.jpeg",
               "tag": {
-                "item": {
-                  "name": "#坂道グループ出演"
-                }
+                "item": [
+                  {
+                    "name": "#坂道グループ出演"
+                  },
+                  {
+                    "name": "#寝る前に聴きたい"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1180,7 +1249,7 @@
               }
             },
             {
-              "-id": "9735435067",
+              "-id": "9736103913",
               "-ft": "20230130020000",
               "-to": "20230130030000",
               "-ftl": "2600",
@@ -1195,9 +1264,14 @@
               "pfm": "なにわ男子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/7e97f087-9cb9-494d-8493-2a8eedf69657.jpeg",
               "tag": {
-                "item": {
-                  "name": "#ジャニーズ出演"
-                }
+                "item": [
+                  {
+                    "name": "#ジャニーズ出演"
+                  },
+                  {
+                    "name": "#寝る前に聴きたい"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1217,7 +1291,7 @@
               }
             },
             {
-              "-id": "9735435069",
+              "-id": "9736103920",
               "-ft": "20230130030000",
               "-to": "20230130033000",
               "-ftl": "2700",
@@ -1231,8 +1305,23 @@
               "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/451f314c-2a84-4762-9f84-84f5f168be9e.jpeg",
               "tag": {
-                "item": {
-                  "name": "#ハロプロメンバー出演"
+                "item": [
+                  {
+                    "name": "#ハロプロメンバー出演"
+                  },
+                  {
+                    "name": "#寝る前に聴きたい"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -1243,7 +1332,7 @@
               }
             },
             {
-              "-id": "9735435070",
+              "-id": "9736103924",
               "-ft": "20230130033000",
               "-to": "20230130034500",
               "-ftl": "2730",
@@ -1256,6 +1345,16 @@
               "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "相川七瀬",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/ea3d015a-bfb3-45d0-8064-f32d5eaa4fa1.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1675101811",
+    "srvtime": "1675188157",
     "stations": {
       "station": {
         "-id": "STV",
@@ -10,7 +10,7 @@
           "date": "20230201",
           "prog": [
             {
-              "-id": "9731887469",
+              "-id": "9735845332",
               "-ft": "20230201050000",
               "-to": "20230201050500",
               "-ftl": "0500",
@@ -37,7 +37,7 @@
               }
             },
             {
-              "-id": "9731533013",
+              "-id": "9735845337",
               "-ft": "20230201050500",
               "-to": "20230201052000",
               "-ftl": "0505",
@@ -63,7 +63,7 @@
               }
             },
             {
-              "-id": "9734983471",
+              "-id": "9736105198",
               "-ft": "20230201052000",
               "-to": "20230201053000",
               "-ftl": "0520",
@@ -78,14 +78,19 @@
               "info": "メール：genki@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "和久井薫",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/20945cb6-c9f2-453f-bac4-a22147f97498.jpeg",
+              "tag": {
+                "item": {
+                  "name": "サクッと短時間で聴ける"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P009",
+                  "name": "ドキュメンタリー"
                 }
               },
               "metas": {
@@ -96,7 +101,7 @@
               }
             },
             {
-              "-id": "9731891643",
+              "-id": "9736105207",
               "-ft": "20230201053000",
               "-to": "20230201073100",
               "-ftl": "0530",
@@ -117,6 +122,10 @@
                 }
               },
               "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -130,7 +139,7 @@
               }
             },
             {
-              "-id": "9731891925",
+              "-id": "9735845364",
               "-ft": "20230201073100",
               "-to": "20230201073700",
               "-ftl": "0731",
@@ -143,16 +152,6 @@
               "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "羽田美智子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/a6bb5ce8-14cd-4be3-9793-d57ba2f9b289.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C003",
-                  "name": "女優"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -161,7 +160,7 @@
               }
             },
             {
-              "-id": "9731891930",
+              "-id": "9735863191",
               "-ft": "20230201073700",
               "-to": "20230201080000",
               "-ftl": "0737",
@@ -182,6 +181,10 @@
                 }
               },
               "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -195,7 +198,7 @@
               }
             },
             {
-              "-id": "9731891984",
+              "-id": "9736105268",
               "-ft": "20230201080000",
               "-to": "20230201100000",
               "-ftl": "0800",
@@ -211,9 +214,14 @@
               "pfm": "村岡啓介",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/c2686e90-2473-4462-bfee-f50e2961ea65.jpeg",
               "tag": {
-                "item": {
-                  "name": "ドライブ中におすすめ"
-                }
+                "item": [
+                  {
+                    "name": "ドライブ中におすすめ"
+                  },
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -233,7 +241,7 @@
               }
             },
             {
-              "-id": "9734992291",
+              "-id": "9736105304",
               "-ft": "20230201100000",
               "-to": "20230201130000",
               "-ftl": "1000",
@@ -248,6 +256,11 @@
               "info": "メール：toiro@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "工藤じゅんき　内山よしこ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/a8b53a35-e5a0-4bf6-941f-d5c46dc42287.jpeg",
+              "tag": {
+                "item": {
+                  "name": "作業がはかどる"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -266,7 +279,7 @@
               }
             },
             {
-              "-id": "9731892544",
+              "-id": "9735845434",
               "-ft": "20230201130000",
               "-to": "20230201160000",
               "-ftl": "1300",
@@ -281,16 +294,6 @@
               "info": "メール：marugoto@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "佐々木たくお　兼子真衣　／　木村洋二",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/0cf200f6-79bb-4741-a3c5-db1184cdd8c6.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -299,7 +302,7 @@
               }
             },
             {
-              "-id": "9735422507",
+              "-id": "9735845462",
               "-ft": "20230201160000",
               "-to": "20230201190000",
               "-ftl": "1600",
@@ -314,16 +317,6 @@
               "info": "メール：live@stv.jp<br/>Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "吉川のりお　草野あずみ　／　牧やすまさ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/685cc077-3bd9-41bb-a67e-8410802c59ef.png",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -332,7 +325,7 @@
               }
             },
             {
-              "-id": "9733102862",
+              "-id": "9735845512",
               "-ft": "20230201190000",
               "-to": "20230201220000",
               "-ftl": "1900",
@@ -347,16 +340,6 @@
               "info": "メール：mj@stv.jp<br/>Twitterハッシュタグ：#musicj #stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "松崎真人",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/affac747-5a06-4d0d-9125-847f97a08b02.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -365,7 +348,7 @@
               }
             },
             {
-              "-id": "9731893456",
+              "-id": "9736105607",
               "-ft": "20230201220000",
               "-to": "20230202000000",
               "-ftl": "2200",
@@ -379,6 +362,11 @@
               "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "名取裕子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/f0b8hthsn4.jpg",
+              "tag": {
+                "item": {
+                  "name": "音楽との出会いが楽しめる"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -397,7 +385,7 @@
               }
             },
             {
-              "-id": "9732554780",
+              "-id": "9736105653",
               "-ft": "20230202000000",
               "-to": "20230202010000",
               "-ftl": "2400",
@@ -411,6 +399,16 @@
               "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "JO1",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/716dda4a-7038-4489-9807-ef64bebfd619.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "人気俳優トーク"
+                  },
+                  {
+                    "name": "人気モデル出演"
+                  }
+                ]
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -419,7 +417,7 @@
               }
             },
             {
-              "-id": "9733823641",
+              "-id": "9736105684",
               "-ft": "20230202010000",
               "-to": "20230202030000",
               "-ftl": "2500",
@@ -433,6 +431,26 @@
               "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "乃木坂46",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/6a53b581-cc13-4554-9433-22273eca0b62.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "学生におすすめ"
+                  },
+                  {
+                    "name": "坂道グループ出演"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -441,7 +459,7 @@
               }
             },
             {
-              "-id": "9732554965",
+              "-id": "9736105717",
               "-ft": "20230202030000",
               "-to": "20230202043000",
               "-ftl": "2700",
@@ -455,6 +473,11 @@
               "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "佐久間宣行",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/b2c2338e-ca13-4544-837c-4a8fee03949f.jpeg",
+              "tag": {
+                "item": {
+                  "name": "学生におすすめ"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -473,7 +496,7 @@
               }
             },
             {
-              "-id": "9732555000",
+              "-id": "9735845614",
               "-ft": "20230202043000",
               "-to": "20230202044500",
               "-ftl": "2830",
@@ -485,16 +508,6 @@
               "ts_out_ng": "0",
               "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/451f314c-2a84-4762-9f84-84f5f168be9e.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -503,7 +516,7 @@
               }
             },
             {
-              "-id": "9732219752",
+              "-id": "9735845615",
               "-ft": "20230202044500",
               "-to": "20230202050000",
               "-ftl": "2845",
@@ -515,12 +528,6 @@
               "ts_out_ng": "0",
               "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/451f314c-2a84-4762-9f84-84f5f168be9e.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
