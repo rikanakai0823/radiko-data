@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1676224965",
+    "srvtime": "1676311399",
     "stations": {
       "station": {
         "-id": "RKB",
@@ -10,7 +10,7 @@
           "date": "20230218",
           "prog": [
             {
-              "-id": "9743989303",
+              "-id": "9745006147",
               "-ft": "20230218050000",
               "-to": "20230218051500",
               "-ftl": "0500",
@@ -31,7 +31,7 @@
               }
             },
             {
-              "-id": "9743989307",
+              "-id": "9745006151",
               "-ft": "20230218051500",
               "-to": "20230218053000",
               "-ftl": "0515",
@@ -46,15 +46,15 @@
               "info": "戦争の記憶は様々です。その強烈な体験は、ひとりとして同じものはありません。今しか聴くことができないだろう語り部の記録。あなたの耳に記憶に刻み込んでください。",
               "pfm": "坂田周大",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/832a8dcf-4a10-45c7-bcd4-04cfa691bb60.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P009",
-                  "name": "ドキュメンタリー"
-                }
+              "tag": {
+                "item": [
+                  {
+                    "name": "坂田周大"
+                  },
+                  {
+                    "name": "語り部の記録"
+                  }
+                ]
               },
               "metas": {
                 "meta": {
@@ -64,7 +64,7 @@
               }
             },
             {
-              "-id": "9743989309",
+              "-id": "9745006153",
               "-ft": "20230218053000",
               "-to": "20230218054500",
               "-ftl": "0530",
@@ -81,7 +81,7 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/735914b1-c27a-4ad8-b102-3d291c3d49d0.jpeg",
               "tag": {
                 "item": {
-                  "name": "茅野正昌"
+                  "name": "サクッと短時間で聴ける"
                 }
               },
               "genre": {
@@ -102,7 +102,7 @@
               }
             },
             {
-              "-id": "9743989311",
+              "-id": "9745006155",
               "-ft": "20230218054500",
               "-to": "20230218060000",
               "-ftl": "0545",
@@ -123,7 +123,7 @@
               }
             },
             {
-              "-id": "9743989313",
+              "-id": "9745006157",
               "-ft": "20230218060000",
               "-to": "20230218070000",
               "-ftl": "0600",
@@ -148,16 +148,6 @@
                   }
                 ]
               },
-              "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -166,7 +156,7 @@
               }
             },
             {
-              "-id": "9743989321",
+              "-id": "9745006165",
               "-ft": "20230218070000",
               "-to": "20230218073000",
               "-ftl": "0700",
@@ -187,7 +177,7 @@
               }
             },
             {
-              "-id": "9743989325",
+              "-id": "9745006169",
               "-ft": "20230218073000",
               "-to": "20230218080000",
               "-ftl": "0730",
@@ -210,7 +200,7 @@
               }
             },
             {
-              "-id": "9743989328",
+              "-id": "9745006172",
               "-ft": "20230218080000",
               "-to": "20230218082500",
               "-ftl": "0800",
@@ -230,16 +220,6 @@
                   "name": "#音楽との出会いが楽しめる"
                 }
               },
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -248,7 +228,7 @@
               }
             },
             {
-              "-id": "9743989331",
+              "-id": "9745006175",
               "-ft": "20230218082500",
               "-to": "20230218083900",
               "-ftl": "0825",
@@ -268,16 +248,6 @@
                   "name": "南雲吉明"
                 }
               },
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P010",
-                  "name": "医療"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -286,7 +256,7 @@
               }
             },
             {
-              "-id": "9743989332",
+              "-id": "9745006176",
               "-ft": "20230218083900",
               "-to": "20230218123000",
               "-ftl": "0839",
@@ -306,16 +276,6 @@
                   "name": "#音楽との出会いが楽しめる"
                 }
               },
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -324,7 +284,7 @@
               }
             },
             {
-              "-id": "9743989343",
+              "-id": "9745006187",
               "-ft": "20230218123000",
               "-to": "20230218130000",
               "-ftl": "1230",
@@ -352,16 +312,6 @@
                   }
                 ]
               },
-              "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -370,7 +320,7 @@
               }
             },
             {
-              "-id": "9743989345",
+              "-id": "9745006189",
               "-ft": "20230218130000",
               "-to": "20230218135500",
               "-ftl": "1300",
@@ -393,7 +343,7 @@
               }
             },
             {
-              "-id": "9743989349",
+              "-id": "9745006193",
               "-ft": "20230218135500",
               "-to": "20230218135700",
               "-ftl": "1355",
@@ -407,11 +357,6 @@
               "desc": "地域の交通情報をお届けします",
               "info": "RKBラジオ公式twitterアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/423cb169-8e4d-405f-8f8a-c225fb94a71b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "交通情報"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -430,7 +375,7 @@
               }
             },
             {
-              "-id": "9743989350",
+              "-id": "9745006194",
               "-ft": "20230218135700",
               "-to": "20230218140000",
               "-ftl": "1357",
@@ -444,11 +389,6 @@
               "desc": "地域の気象情報をお届けします",
               "info": "RKBラジオ公式twitterアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/f05034bc-997f-4806-a345-e58a5414049b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "交通情報"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -467,7 +407,7 @@
               }
             },
             {
-              "-id": "9743989352",
+              "-id": "9745006196",
               "-ft": "20230218140000",
               "-to": "20230218145500",
               "-ftl": "1400",
@@ -490,7 +430,7 @@
               }
             },
             {
-              "-id": "9743989358",
+              "-id": "9745006202",
               "-ft": "20230218145500",
               "-to": "20230218145700",
               "-ftl": "1455",
@@ -504,11 +444,6 @@
               "desc": "全国、及び地域のニュースをお届けします。",
               "info": "RKBラジオ公式twitterアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/11417f80-c665-4132-b8ba-e273a76a2dff.jpeg",
-              "tag": {
-                "item": {
-                  "name": "交通情報"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -527,7 +462,7 @@
               }
             },
             {
-              "-id": "9743989359",
+              "-id": "9745006203",
               "-ft": "20230218145700",
               "-to": "20230218150000",
               "-ftl": "1457",
@@ -541,11 +476,6 @@
               "desc": "地域の気象情報をお届けします",
               "info": "RKBラジオ公式twitterアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/f05034bc-997f-4806-a345-e58a5414049b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "交通情報"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -564,7 +494,7 @@
               }
             },
             {
-              "-id": "9743989361",
+              "-id": "9745006205",
               "-ft": "20230218150000",
               "-to": "20230218160000",
               "-ftl": "1500",
@@ -577,11 +507,6 @@
               "ts_out_ng": "0",
               "info": "RKBラジオ公式twitterアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/11417f80-c665-4132-b8ba-e273a76a2dff.jpeg",
-              "tag": {
-                "item": {
-                  "name": "競馬"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -600,7 +525,7 @@
               }
             },
             {
-              "-id": "9743989368",
+              "-id": "9745006212",
               "-ft": "20230218160000",
               "-to": "20230218170000",
               "-ftl": "1600",
@@ -615,16 +540,6 @@
               "info": "☆黄昏ラウンジ知子<br />ゲストとがっつりしっかりしっとりとトークに花を咲かせます。<br /><br />☆黄昏マイラブ<br />中島知子のＬＯＶＥなものをお話しします。<br /><br />☆知子のラジオでしか聞けない話<br />芸能界のあんな話やこんな話をお話しします。<br /><br />メッセージはこちらから。。。<br />tasogare@rkbr.jp<br /><br />RKBラジオ公式twitterアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
               "pfm": "中島知子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/5abe5fbe-211b-40d5-825e-5cacc1919975.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "#気分転換におすすめ"
-                  },
-                  {
-                    "name": "#音楽との出会いが楽しめる"
-                  }
-                ]
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -633,7 +548,7 @@
               }
             },
             {
-              "-id": "9743989375",
+              "-id": "9745006219",
               "-ft": "20230218170000",
               "-to": "20230218170400",
               "-ftl": "1700",
@@ -647,11 +562,6 @@
               "desc": "全国、及び地域のニュースをお届けします。",
               "info": "RKBラジオ公式twitterアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/vpjbhwhkdp.jpg",
-              "tag": {
-                "item": {
-                  "name": "交通情報"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -670,7 +580,7 @@
               }
             },
             {
-              "-id": "9743989378",
+              "-id": "9745006222",
               "-ft": "20230218170400",
               "-to": "20230218170500",
               "-ftl": "1704",
@@ -684,11 +594,6 @@
               "desc": "地域の気象情報をお届けします",
               "info": "RKBラジオ公式twitterアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/f05034bc-997f-4806-a345-e58a5414049b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "交通情報"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -707,7 +612,7 @@
               }
             },
             {
-              "-id": "9743989379",
+              "-id": "9745006223",
               "-ft": "20230218170500",
               "-to": "20230218172000",
               "-ftl": "1705",
@@ -729,7 +634,7 @@
               }
             },
             {
-              "-id": "9743989382",
+              "-id": "9745006226",
               "-ft": "20230218172000",
               "-to": "20230218173500",
               "-ftl": "1720",
@@ -762,7 +667,7 @@
               }
             },
             {
-              "-id": "9743989384",
+              "-id": "9745006228",
               "-ft": "20230218173500",
               "-to": "20230218174500",
               "-ftl": "1735",
@@ -795,7 +700,7 @@
               }
             },
             {
-              "-id": "9743989386",
+              "-id": "9745006230",
               "-ft": "20230218174500",
               "-to": "20230218175000",
               "-ftl": "1745",
@@ -826,7 +731,7 @@
               }
             },
             {
-              "-id": "9743989388",
+              "-id": "9745006232",
               "-ft": "20230218175000",
               "-to": "20230218200000",
               "-ftl": "1750",
@@ -841,16 +746,6 @@
               "info": "音楽通のふたりの、音楽にとことんこだわるプログラム。<br />コロナ禍でなかなかライブに行けない今、“がめ煮”的にお届けするManyTunesで、フェス気分をお楽しみください。<br /><br />RKBラジオ公式twitterアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
               "pfm": "深町健二郎・坂口カンナ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/95751711-ee47-4cc3-b009-8d483909f68e.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "#音楽との出会いが楽しめる"
-                  },
-                  {
-                    "name": "#人気アーティストトーク"
-                  }
-                ]
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -859,7 +754,7 @@
               }
             },
             {
-              "-id": "9743989401",
+              "-id": "9745006245",
               "-ft": "20230218200000",
               "-to": "20230218210000",
               "-ftl": "2000",
@@ -880,7 +775,7 @@
               }
             },
             {
-              "-id": "9743989405",
+              "-id": "9745006248",
               "-ft": "20230218210000",
               "-to": "20230218214500",
               "-ftl": "2100",
@@ -895,16 +790,6 @@
               "info": "番組では、過去と現在に散らばるさまざまなことばの中から、とっておきのことばを集めてお届けします。 そしてそれがリスナーの皆さんにとってエールになれば・・・そんな想いを込めた番組です。 <br /><br /><br />番組メールアドレス<br /><a href=\"mailto:yell@tbs.co.jp\">yell@tbs.co.jp</a><br /><br /><br />RKBラジオ公式twitterアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
               "pfm": "パーソナリティ：西村江太郎　レポーター：田代沙織、上杉桜子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/vib7g6bc84.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -913,7 +798,7 @@
               }
             },
             {
-              "-id": "9743989409",
+              "-id": "9745006252",
               "-ft": "20230218214500",
               "-to": "20230218220000",
               "-ftl": "2145",
@@ -928,6 +813,16 @@
               "info": "原ノコシが今週の「＃さえのわっふる」の出来を振り返る15分番組。<br />今週の良かったこと、悪かったことを振り返り、来週の放送が楽しみになる1曲をお届けします！<br /><br />RKBラジオ公式twitterアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
               "pfm": "原ノコシ（とらんじっと）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/b4eac082-d096-43d8-a191-b4062f2b3e4e.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "お笑い芸人の最強トーク"
+                  },
+                  {
+                    "name": "サクッと短時間で聴ける"
+                  }
+                ]
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -936,7 +831,7 @@
               }
             },
             {
-              "-id": "9743989411",
+              "-id": "9745006254",
               "-ft": "20230218220000",
               "-to": "20230218233000",
               "-ftl": "2200",
@@ -951,19 +846,6 @@
               "info": "アナウンサーの荘口彰久さん等と共に、思いつくまま気の向くままに繰り広げられる ”ちょっとディープ”な四方山話をお届けします!!<br /><br />メール： <a href=\"mailto:chiteijin@shiburadi.com\">chiteijin@shiburadi.com</a><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%9C%B0%E5%BA%95%E4%BA%BA%E3%83%A9%E3%82%B8%E3%82%AA\">#地底人ラジオ</a>」<br />",
               "pfm": "福山雅治・荘口彰久",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/e660c36c-f9d1-44cf-aef1-35c621b3ee42.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "福山雅治"
-                  },
-                  {
-                    "name": "荘口彰久"
-                  },
-                  {
-                    "name": "地底人ラジオ"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -982,7 +864,7 @@
               }
             },
             {
-              "-id": "9743989418",
+              "-id": "9745006261",
               "-ft": "20230218233000",
               "-to": "20230219010000",
               "-ftl": "2330",
@@ -1006,16 +888,6 @@
                   }
                 ]
               },
-              "genre": {
-                "personality": {
-                  "-id": "C007",
-                  "name": "男性アイドル"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1024,7 +896,7 @@
               }
             },
             {
-              "-id": "9743989422",
+              "-id": "9745006265",
               "-ft": "20230219010000",
               "-to": "20230219013000",
               "-ftl": "2500",
@@ -1040,17 +912,9 @@
               "pfm": "森ハヤシ　田野アサミ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/d4r3yyf0wg.jpg",
               "tag": {
-                "item": [
-                  {
-                    "name": "田野アサミ"
-                  },
-                  {
-                    "name": "森ハヤシ"
-                  },
-                  {
-                    "name": "もちこみっ!"
-                  }
-                ]
+                "item": {
+                  "name": "人気声優出演"
+                }
               },
               "genre": {
                 "personality": {
@@ -1070,7 +934,7 @@
               }
             },
             {
-              "-id": "9743989426",
+              "-id": "9745006269",
               "-ft": "20230219013000",
               "-to": "20230219020000",
               "-ftl": "2530",
@@ -1098,7 +962,7 @@
               }
             },
             {
-              "-id": "9743989427",
+              "-id": "9745006270",
               "-ft": "20230219020000",
               "-to": "20230219023000",
               "-ftl": "2600",
@@ -1131,7 +995,7 @@
               }
             },
             {
-              "-id": "9743989430",
+              "-id": "9745006273",
               "-ft": "20230219023000",
               "-to": "20230219030000",
               "-ftl": "2630",
@@ -1145,11 +1009,6 @@
               "info": "番組メールアドレス：snowman@joqr.net<br /><br />twitterページは「https://twitter.com/snowman_ssw」",
               "pfm": "Snow Man",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/97a88133-8bce-4f09-9d9a-af0ec3a45bbd.jpeg",
-              "tag": {
-                "item": {
-                  "name": "Snow Man"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C007",
@@ -1168,7 +1027,7 @@
               }
             },
             {
-              "-id": "9743989432",
+              "-id": "9745006275",
               "-ft": "20230219030000",
               "-to": "20230219040000",
               "-ftl": "2700",
@@ -1183,6 +1042,11 @@
               "info": "☆黄昏ラウンジ知子<br />ゲストとがっつりしっかりしっとりとトークに花を咲かせます。<br /><br />☆黄昏マイラブ<br />中島知子のＬＯＶＥなものをお話しします。<br /><br />☆知子のラジオでしか聞けない話<br />芸能界のあんな話やこんな話をお話しします。<br /><br />メッセージはこちらから。。。<br />tasogare@rkbr.jp<br />RKBラジオ公式twitterアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
               "pfm": "中島知子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/5abe5fbe-211b-40d5-825e-5cacc1919975.jpeg",
+              "tag": {
+                "item": {
+                  "name": "音楽との出会いが楽しめる"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1191,7 +1055,7 @@
               }
             },
             {
-              "-id": "9743989436",
+              "-id": "9745006279",
               "-ft": "20230219040000",
               "-to": "20230219041500",
               "-ftl": "2800",
@@ -1205,6 +1069,16 @@
               "desc": "週替わりの演歌・歌謡曲アーティストが紡ぐちょっと大人でスウィンギンな新感覚音楽番組。お相手は演歌歌謡曲を歌う人気アーティストが週替わりで登場します！心のメロディーをお楽しみください。",
               "info": "RKBラジオ公式twitterアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/4cb5af2d-4637-40de-a5da-8cb307715d55.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "人気アーティストトーク"
+                  }
+                ]
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1213,7 +1087,7 @@
               }
             },
             {
-              "-id": "9743989439",
+              "-id": "9745006282",
               "-ft": "20230219041500",
               "-to": "20230219043000",
               "-ftl": "2815",
@@ -1228,6 +1102,16 @@
               "info": "番組ではあなたからのお便りも大募集！ おのうえちえ、松相遼に聴いて欲しい話やゆる～く解決して欲しい悩み、番組の感想などなど何でも大歓迎です！<br /><br />RKBラジオ公式twitterアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
               "pfm": "おのうえちえ・松相遼（カーネギー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/aae4d3ee-594a-4bbc-9d59-3ccacbc01c53.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "お笑い芸人の最強トーク"
+                  },
+                  {
+                    "name": "サクッと短時間で聴ける"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C009",
@@ -1246,7 +1130,7 @@
               }
             },
             {
-              "-id": "9743989440",
+              "-id": "9745006283",
               "-ft": "20230219043000",
               "-to": "20230219044500",
               "-ftl": "2830",
@@ -1261,11 +1145,6 @@
               "info": "“イケてるオヤジ”宇治田みのる！<br />「surfing」「skateboarding」「snowboard」「sound」「street」<br />5つの「S」をテーマに<br />リスナーへ活力になる情報盛りだくさん！<br />休日のイケてる過ごし方、ライフスタイルのヒントをお届けします！<br /><br /><br /><br />メールアドレス<br /><br />5s@crt-radio.co.jp<br />",
               "pfm": "宇治田みのる",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/3331b388-efb8-4f99-bd02-904915728cfc.jpeg",
-              "tag": {
-                "item": {
-                  "name": "宇治田みのる"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -1284,7 +1163,7 @@
               }
             },
             {
-              "-id": "9743989441",
+              "-id": "9745006284",
               "-ft": "20230219044500",
               "-to": "20230219045900",
               "-ftl": "2845",
@@ -1298,11 +1177,6 @@
               "desc": "メールアドレスは <a href=\"mailto:yagamijunko@live.jp\">yagamijunko@live.jp</a>RKBラジオ公式twitterアカウントは「@rkbr_info」RKBラジオ公式facebookページは「https://www.facebook.com/rkbradio/」",
               "pfm": "八神純子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RKB/kfe634hvta.jpg",
-              "tag": {
-                "item": {
-                  "name": "八神純子"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C004",
