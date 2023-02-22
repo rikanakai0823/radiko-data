@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1677002669",
+    "srvtime": "1677089084",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -115,7 +115,7 @@
               }
             },
             {
-              "-id": "9750211205",
+              "-id": "9751003200",
               "-ft": "20230227090000",
               "-to": "20230227120000",
               "-ftl": "0900",
@@ -208,7 +208,7 @@
               }
             },
             {
-              "-id": "9750211703",
+              "-id": "9750806324",
               "-ft": "20230227150000",
               "-to": "20230227172500",
               "-ftl": "1500",
@@ -219,7 +219,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_urakawa_y.jpg\" width=\"100\"><img src=\"https://www.abc1008.com/program/personality/photo/photo_shuku.jpg\" width=\"100\"><BR><BR><BR>",
+              "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_urakawa_y.jpg\" width=\"100\"><img src=\"https://www.abc1008.com/program/personality/photo/photo_shuku.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:ura@abc1008.com\">ura@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%A6%E3%83%A9%E3%82%A6%E3%83%A9\">#ウラウラ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/uraurakin\">@uraurakin</a>」<BR><BR><BR>",
               "pfm": "浦川泰幸／珠久美穂子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/6a899b80-4c8c-48c3-b150-329e8eeee54d.jpeg",
               "tag": {
@@ -252,10 +252,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ウラウラ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:uraurakin"
+                  }
+                ]
               }
             },
             {
