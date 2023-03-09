@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1678300110",
+    "srvtime": "1678386502",
     "stations": {
       "station": {
         "-id": "KBS",
@@ -238,7 +238,7 @@
               }
             },
             {
-              "-id": "9759888586",
+              "-id": "9760558041",
               "-ft": "20230312063500",
               "-to": "20230312064000",
               "-ftl": "0635",
@@ -250,7 +250,16 @@
               "ts_out_ng": "0",
               "pfm": "海平和",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/54z57flp7k.jpg",
+              "tag": {
+                "item": {
+                  "name": "海平和"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -445,17 +454,18 @@
               }
             },
             {
-              "-id": "9757949840",
+              "-id": "9760767645",
               "-ft": "20230312110000",
               "-to": "20230312130000",
               "-ftl": "1100",
               "-tol": "1300",
               "-dur": "7200",
-              "title": "第34回全国車いす駅伝競走大会 実況中継",
+              "title": "KBS京都スポーツスペシャル 天皇盃 第34回全国車いす駅伝競走大会 実況中継",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/131e307d-6698-4b00-839d-f666f45434bf.jpeg",
+              "pfm": "三井利仁 (解説) / 澤武博之 / 梶原誠 / 森谷威夫 / 遠藤奈美 / 海平和 / 相埜裕樹",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/rh9tpejnmr.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
