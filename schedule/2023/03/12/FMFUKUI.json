@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1678386507",
+    "srvtime": "1678472896",
     "stations": {
       "station": {
         "-id": "FMFUKUI",
@@ -10,7 +10,7 @@
           "date": "20230312",
           "prog": [
             {
-              "-id": "9761006275",
+              "-id": "9761703982",
               "-ft": "20230312050000",
               "-to": "20230312060000",
               "-ftl": "0500",
@@ -25,9 +25,14 @@
               "pfm": "平野啓一郎 / トムセン陽子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/y47y9uwp57.jpg",
               "tag": {
-                "item": {
-                  "name": "気分転換におすすめ"
-                }
+                "item": [
+                  {
+                    "name": "気分転換におすすめ"
+                  },
+                  {
+                    "name": "劇場型オムニバス・ゲスト・トーク番組"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -47,7 +52,7 @@
               }
             },
             {
-              "-id": "9761006350",
+              "-id": "9761704061",
               "-ft": "20230312060000",
               "-to": "20230312073000",
               "-ftl": "0600",
@@ -68,6 +73,15 @@
                   },
                   {
                     "name": "朝のニュースを効率良く"
+                  },
+                  {
+                    "name": "SUNDAYFLICKERS"
+                  },
+                  {
+                    "name": "春風亭一之輔"
+                  },
+                  {
+                    "name": "汾陽麻衣"
                   }
                 ]
               },
@@ -95,7 +109,7 @@
               }
             },
             {
-              "-id": "9761006483",
+              "-id": "9761704202",
               "-ft": "20230312073000",
               "-to": "20230312080000",
               "-ftl": "0730",
@@ -132,7 +146,7 @@
               }
             },
             {
-              "-id": "9761006544",
+              "-id": "9761704266",
               "-ft": "20230312080000",
               "-to": "20230312082500",
               "-ftl": "0800",
@@ -164,8 +178,8 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C010",
+                  "name": "タレント"
                 },
                 "program": {
                   "-id": "P007",
@@ -186,7 +200,7 @@
               }
             },
             {
-              "-id": "9761006570",
+              "-id": "9761704292",
               "-ft": "20230312082500",
               "-to": "20230312085500",
               "-ftl": "0825",
@@ -201,9 +215,17 @@
               "pfm": "西川貴教",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/12ckbrazgf.jpg",
               "tag": {
-                "item": {
-                  "name": "人気アーティストトーク"
-                }
+                "item": [
+                  {
+                    "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "イナズマロックレディオ"
+                  },
+                  {
+                    "name": "西川貴教"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -223,7 +245,7 @@
               }
             },
             {
-              "-id": "9761006635",
+              "-id": "9761704357",
               "-ft": "20230312085500",
               "-to": "20230312090000",
               "-ftl": "0855",
@@ -258,7 +280,7 @@
               }
             },
             {
-              "-id": "9761006677",
+              "-id": "9761704399",
               "-ft": "20230312090000",
               "-to": "20230312093000",
               "-ftl": "0900",
@@ -279,9 +301,6 @@
                   },
                   {
                     "name": "鈴木愛理のバラエティートーク"
-                  },
-                  {
-                    "name": "鈴木愛理"
                   }
                 ]
               },
@@ -303,7 +322,7 @@
               }
             },
             {
-              "-id": "9761006734",
+              "-id": "9761704456",
               "-ft": "20230312093000",
               "-to": "20230312095500",
               "-ftl": "0930",
@@ -318,9 +337,17 @@
               "pfm": "上野樹里 ゲスト: SHISHAMO",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/wp7d3z312u.jpg",
               "tag": {
-                "item": {
-                  "name": "人気俳優トーク"
-                }
+                "item": [
+                  {
+                    "name": "人気俳優トーク"
+                  },
+                  {
+                    "name": "じゅりノート"
+                  },
+                  {
+                    "name": "上野樹里"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -340,7 +367,7 @@
               }
             },
             {
-              "-id": "9761006773",
+              "-id": "9761704495",
               "-ft": "20230312095500",
               "-to": "20230312100000",
               "-ftl": "0955",
@@ -382,7 +409,7 @@
               }
             },
             {
-              "-id": "9761006811",
+              "-id": "9761704534",
               "-ft": "20230312100000",
               "-to": "20230312103000",
               "-ftl": "1000",
@@ -408,8 +435,8 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C012",
-                  "name": "文化人"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
                   "-id": "P007",
@@ -424,7 +451,7 @@
               }
             },
             {
-              "-id": "9761006853",
+              "-id": "9761704577",
               "-ft": "20230312103000",
               "-to": "20230312105500",
               "-ftl": "1030",
@@ -445,9 +472,6 @@
                   },
                   {
                     "name": "皆藤愛子のゲストトーク"
-                  },
-                  {
-                    "name": "皆藤愛子"
                   }
                 ]
               },
@@ -469,7 +493,7 @@
               }
             },
             {
-              "-id": "9761006892",
+              "-id": "9761704619",
               "-ft": "20230312105500",
               "-to": "20230312110000",
               "-ftl": "1055",
@@ -490,9 +514,6 @@
                   },
                   {
                     "name": "登坂淳一のビートルズ・プログラム"
-                  },
-                  {
-                    "name": "登坂淳一"
                   }
                 ]
               },
@@ -514,7 +535,7 @@
               }
             },
             {
-              "-id": "9761006929",
+              "-id": "9761704656",
               "-ft": "20230312110000",
               "-to": "20230312113000",
               "-ftl": "1100",
@@ -525,7 +546,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/51864b90-be12-4b59-84fb-9698fca4a793_sq.jpg\" height=\"60\" width=\"60\" alt=\"濱田めぐみ\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/9720d6c7-56ff-4726-8767-af0cb72bea40_sq.jpg\" height=\"60\" width=\"60\" alt=\"実咲凜音\"></td>  </tr></table><br /><br />\t番組Webサイト：<a href=\"https://www.fmosaka.net/_sites/16783586\">https://www.fmosaka.net/_sites/16783586</a><br />\tメッセージフォーム：<a href=\"https://fmosaka.futureartist.net/enquete/333878\">https://fmosaka.futureartist.net/enquete/333878</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MusicShampoo\">#MusicShampoo</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/Music_Shampoo\">@Music_Shampoo</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/51864b90-be12-4b59-84fb-9698fca4a793_sq.jpg\" height=\"60\" width=\"60\" alt=\"濱田めぐみ\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/9720d6c7-56ff-4726-8767-af0cb72bea40_sq.jpg\" height=\"60\" width=\"60\" alt=\"実咲凜音\"></td>  </tr></table><br /><br />\t舞台を中心に活動する女優の濱田めぐみと実咲凜音が、<br />2週ごとにパーソナリティを担当。<br />全国38局ネットでお届け中の<br />魔法のシャンプーで髪を洗うように、<br />\"音楽で心をしなやかにする\"ミュージックプログラム。<br />今週の担当は濱田めぐみ。<br /><br />3月8日は「国際女性デー」でした。<br />これまでの女性たちの活躍と勇気を、あらためて称える日です。<br />今週は、自分らしく生きる女性アーティストの楽曲たちが、<br />あなたの髪と心をシャンプーします。<br /><br />番組の感想など、みなさんの声もぜひ聴かせてください。<br />メッセージをくださった方の中から抽選で、<br />oggi ottoからプレゼントがあります。<br /><br />髪のダメージケアをしながら洗える、人気の「セラム」、<br />髪の保湿やツヤをよくする「セラムマスク」、<br />このトライアルセットを４名のかたにプレゼントします。<br />「スムースタイプ」か「モイスチャータイプ」、どちらが希望かご明記ください。<br /><br />当選者の発表は、発送をもって代えさせていただきます。<br />https://fmosaka.futureartist.net/enquete/333878<br /><br />☆また、商品の詳細は、<br />oggi ottoの公式HPやインスタグラムでもご確認いただけます。<br />https://oggiotto.com <br /><br />\t番組Webサイト：<a href=\"https://www.fmosaka.net/_sites/16783586\">https://www.fmosaka.net/_sites/16783586</a><br />\tメッセージフォーム：<a href=\"https://fmosaka.futureartist.net/enquete/333878\">https://fmosaka.futureartist.net/enquete/333878</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MusicShampoo\">#MusicShampoo</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/Music_Shampoo\">@Music_Shampoo</a>」<br /><br /></div>",
               "pfm": "濱田めぐみ / 実咲凜音",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/5whqqndfh7.png",
               "tag": {
@@ -543,8 +564,8 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C003",
-                  "name": "女優"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
                   "-id": "P007",
@@ -565,7 +586,7 @@
               }
             },
             {
-              "-id": "9761006971",
+              "-id": "9761704701",
               "-ft": "20230312113000",
               "-to": "20230312115500",
               "-ftl": "1130",
@@ -576,7 +597,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/86af958e-db31-4ad3-a794-684e75b6e74d_sq.jpg\" height=\"60\" width=\"60\" alt=\"木村拓哉\"></td>  </tr></table><br /><br />\t拓哉キャプテンと“親交”のある方から“はじめまして”な方まで、<br />様々なステキなゲストをお迎えしてお送りする「Flow」！ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/flow/\">https://www.tfm.co.jp/flow/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/flow/index.php?catid=3748\">https://www.tfm.co.jp/flow/index.php?catid=3748</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%95%E3%83%AD%E3%82%A6%E3%81%95%E3%82%93\">#フロウさん</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/flowsaaaan\">@flowsaaaan</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/86af958e-db31-4ad3-a794-684e75b6e74d_sq.jpg\" height=\"60\" width=\"60\" alt=\"木村拓哉\"></td>  </tr></table><br /><br />\t拓哉キャプテンと“親交”のある方から“はじめまして”な方まで、<br />様々なステキなゲストをお迎えしてお送りする「Flow」！<br />3月のマンスリーゲストはDA PUMPのISSAさんが登場！<br />今週もISSAさんの“超人的”エピソードに拓哉キャプテンがびっくり！？<br />お楽しみに！ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/flow/\">https://www.tfm.co.jp/flow/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/flow/index.php?catid=3748\">https://www.tfm.co.jp/flow/index.php?catid=3748</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%95%E3%83%AD%E3%82%A6%E3%81%95%E3%82%93\">#フロウさん</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/flowsaaaan\">@flowsaaaan</a>」<br /><br /></div>",
               "pfm": "木村拓哉",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/vieuubwhio.png",
               "tag": {
@@ -589,6 +610,9 @@
                   },
                   {
                     "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "フロウさん"
                   }
                 ]
               },
@@ -616,7 +640,7 @@
               }
             },
             {
-              "-id": "9761007012",
+              "-id": "9761704744",
               "-ft": "20230312115500",
               "-to": "20230312120000",
               "-ftl": "1155",
@@ -651,7 +675,7 @@
               }
             },
             {
-              "-id": "9761007053",
+              "-id": "9761704788",
               "-ft": "20230312120000",
               "-to": "20230312122500",
               "-ftl": "1200",
@@ -666,9 +690,14 @@
               "pfm": "ホラン千秋",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/4krzly4wmg.jpg",
               "tag": {
-                "item": {
-                  "name": "ホラン千秋"
-                }
+                "item": [
+                  {
+                    "name": "ホラン千秋"
+                  },
+                  {
+                    "name": "DDプレス"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -688,7 +717,7 @@
               }
             },
             {
-              "-id": "9761007094",
+              "-id": "9761704829",
               "-ft": "20230312122500",
               "-to": "20230312123000",
               "-ftl": "1225",
@@ -720,7 +749,7 @@
               }
             },
             {
-              "-id": "9761007132",
+              "-id": "9761704867",
               "-ft": "20230312123000",
               "-to": "20230312125500",
               "-ftl": "1230",
@@ -747,6 +776,9 @@
                   },
                   {
                     "name": "きゃりーぱみゅぱみゅ"
+                  },
+                  {
+                    "name": "チャプター0"
                   }
                 ]
               },
@@ -774,7 +806,7 @@
               }
             },
             {
-              "-id": "9761007175",
+              "-id": "9761704911",
               "-ft": "20230312125500",
               "-to": "20230312130000",
               "-ftl": "1255",
@@ -809,7 +841,7 @@
               }
             },
             {
-              "-id": "9761007215",
+              "-id": "9761704952",
               "-ft": "20230312130000",
               "-to": "20230312135500",
               "-ftl": "1300",
@@ -830,6 +862,9 @@
                   },
                   {
                     "name": "音楽プロデューサー出演"
+                  },
+                  {
+                    "name": "いいこと聴いた"
                   }
                 ]
               },
@@ -857,7 +892,7 @@
               }
             },
             {
-              "-id": "9761007257",
+              "-id": "9761704994",
               "-ft": "20230312135500",
               "-to": "20230312140000",
               "-ftl": "1355",
@@ -878,9 +913,6 @@
                   },
                   {
                     "name": "登坂淳一のビートルズ・プログラム"
-                  },
-                  {
-                    "name": "登坂淳一"
                   }
                 ]
               },
@@ -902,7 +934,7 @@
               }
             },
             {
-              "-id": "9761007295",
+              "-id": "9761705032",
               "-ft": "20230312140000",
               "-to": "20230312145500",
               "-ftl": "1400",
@@ -938,6 +970,9 @@
                   },
                   {
                     "name": "気分転換におすすめ"
+                  },
+                  {
+                    "name": "sundaysongbook"
                   }
                 ]
               },
@@ -959,7 +994,7 @@
               }
             },
             {
-              "-id": "9761007335",
+              "-id": "9761705072",
               "-ft": "20230312145500",
               "-to": "20230312150000",
               "-ftl": "1455",
@@ -999,7 +1034,7 @@
               }
             },
             {
-              "-id": "9761007377",
+              "-id": "9761705115",
               "-ft": "20230312150000",
               "-to": "20230312155000",
               "-ftl": "1500",
@@ -1020,6 +1055,9 @@
                   },
                   {
                     "name": "宇賀なつみ"
+                  },
+                  {
+                    "name": "サンポス"
                   }
                 ]
               },
@@ -1047,7 +1085,7 @@
               }
             },
             {
-              "-id": "9761007419",
+              "-id": "9761705157",
               "-ft": "20230312155000",
               "-to": "20230312155500",
               "-ftl": "1550",
@@ -1089,7 +1127,7 @@
               }
             },
             {
-              "-id": "9761007454",
+              "-id": "9761705192",
               "-ft": "20230312155500",
               "-to": "20230312160000",
               "-ftl": "1555",
@@ -1110,9 +1148,6 @@
                   },
                   {
                     "name": "登坂淳一のビートルズ・プログラム"
-                  },
-                  {
-                    "name": "登坂淳一"
                   }
                 ]
               },
@@ -1134,7 +1169,7 @@
               }
             },
             {
-              "-id": "9761007494",
+              "-id": "9761705233",
               "-ft": "20230312160000",
               "-to": "20230312165500",
               "-ftl": "1600",
@@ -1161,6 +1196,9 @@
                   },
                   {
                     "name": "気分転換におすすめ"
+                  },
+                  {
+                    "name": "ハピクロ"
                   }
                 ]
               },
@@ -1188,7 +1226,7 @@
               }
             },
             {
-              "-id": "9761007538",
+              "-id": "9761705280",
               "-ft": "20230312165500",
               "-to": "20230312170000",
               "-ftl": "1655",
@@ -1223,7 +1261,7 @@
               }
             },
             {
-              "-id": "9761007579",
+              "-id": "9761705322",
               "-ft": "20230312170000",
               "-to": "20230312175500",
               "-ftl": "1700",
@@ -1234,13 +1272,18 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/f2725fad-b5a3-44ae-9c0d-a88d44ee8a55_sq.jpg\" height=\"60\" width=\"60\" alt=\"安部礼司\"></td>  </tr></table><br /><br />\t「モヤモヤなんて吹き飛ばせ！スッキリ―マン参上！」<br />年度末、たまった仕事で押しつぶされそうになっていませんか？加えて社内の色んなストレスで、心身のモヤモヤはMAX・・・！こんな時に現れたのは正体不明の愛の戦士・スッキリ―マン！スッキリ―マンが、あなたの悩みを解決してスッキリさせます！ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/abe/\">https://www.tfm.co.jp/abe/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23abe02\">#abe02</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/abestaff\">@abestaff</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/f2725fad-b5a3-44ae-9c0d-a88d44ee8a55_sq.jpg\" height=\"60\" width=\"60\" alt=\"安部礼司\"></td>  </tr></table><br /><br />\t「世代間ギャップ、みなさんは、ふだんの生活の中で、感じていますか？」<br />我らが安部礼司は、この世代間ギャップに、いたって無関心、無警戒、無対策。新人、雨越虹花があきれるくらい……。<br />しかし、経営企画部部長の権藤進は、違いました。権藤は、そこをキッチリ、バッチリおさえているのです。やっぱり同期とは思えない……。<br />権藤の部下、新人の古巣畑大二郎は、そんな権藤を大尊敬しているのですが……。権藤に、ある異変が？<br />出向と重山のホワイトデーなフレーバーもまぶしつつ、今週も、お楽しみに!! <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/abe/\">https://www.tfm.co.jp/abe/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23abe02\">#abe02</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/abestaff\">@abestaff</a>」<br /><br /></div>",
               "pfm": "安部礼司",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/kp2yay9koh.png",
               "tag": {
-                "item": {
-                  "name": "ラジオドラマ"
-                }
+                "item": [
+                  {
+                    "name": "ラジオドラマ"
+                  },
+                  {
+                    "name": "abe02"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1266,7 +1309,7 @@
               }
             },
             {
-              "-id": "9761007642",
+              "-id": "9761705385",
               "-ft": "20230312175500",
               "-to": "20230312180000",
               "-ftl": "1755",
@@ -1301,7 +1344,7 @@
               }
             },
             {
-              "-id": "9761007682",
+              "-id": "9761705426",
               "-ft": "20230312180000",
               "-to": "20230312183000",
               "-ftl": "1800",
@@ -1316,9 +1359,17 @@
               "pfm": "あ～ちゃん（Perfume） / 西脇彩華（ちゃあぽん）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/g33amee1lk.jpg",
               "tag": {
-                "item": {
-                  "name": "人気アーティストトーク"
-                }
+                "item": [
+                  {
+                    "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "westsidestory"
+                  },
+                  {
+                    "name": "あ〜ちゃん ちゃあぽんのフリートーク"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1338,7 +1389,7 @@
               }
             },
             {
-              "-id": "9761007721",
+              "-id": "9761705466",
               "-ft": "20230312183000",
               "-to": "20230312185500",
               "-ftl": "1830",
@@ -1359,6 +1410,12 @@
                   },
                   {
                     "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "GENETALK"
+                  },
+                  {
+                    "name": "GENERATIONSの音楽トーク"
                   }
                 ]
               },
@@ -1380,7 +1437,7 @@
               }
             },
             {
-              "-id": "9761007756",
+              "-id": "9761705501",
               "-ft": "20230312185500",
               "-to": "20230312190000",
               "-ftl": "1855",
@@ -1415,7 +1472,7 @@
               }
             },
             {
-              "-id": "9761007800",
+              "-id": "9761705545",
               "-ft": "20230312190000",
               "-to": "20230312195500",
               "-ftl": "1900",
@@ -1427,6 +1484,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\t岩手、宮城、福島で受け継がれる伝統行事や郷土芸能にフォーカス。<br />その歴史や存在意義、被災後の状況、継承の取り組みと現状を聞く。 <br /><br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/xhro7qocth.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "KIKITABI"
+                  },
+                  {
+                    "name": "井門宗之"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -1445,7 +1512,7 @@
               }
             },
             {
-              "-id": "9761007834",
+              "-id": "9761705583",
               "-ft": "20230312195500",
               "-to": "20230312200000",
               "-ftl": "1955",
@@ -1466,9 +1533,6 @@
                   },
                   {
                     "name": "登坂淳一のビートルズ・プログラム"
-                  },
-                  {
-                    "name": "登坂淳一"
                   }
                 ]
               },
@@ -1490,7 +1554,7 @@
               }
             },
             {
-              "-id": "9761007870",
+              "-id": "9761705620",
               "-ft": "20230312200000",
               "-to": "20230312215500",
               "-ftl": "2000",
@@ -1505,9 +1569,17 @@
               "pfm": "有吉弘行",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/u3d094jwrw.jpg",
               "tag": {
-                "item": {
-                  "name": "お笑い芸人の最強トーク"
-                }
+                "item": [
+                  {
+                    "name": "お笑い芸人の最強トーク"
+                  },
+                  {
+                    "name": "SUNDAYNIGHTDREAMER"
+                  },
+                  {
+                    "name": "有吉弘行のバラエティ・トーク・プログラム"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1527,7 +1599,7 @@
               }
             },
             {
-              "-id": "9761007986",
+              "-id": "9761705737",
               "-ft": "20230312215500",
               "-to": "20230312220000",
               "-ftl": "2155",
@@ -1548,9 +1620,6 @@
                   },
                   {
                     "name": "登坂淳一のビートルズ・プログラム"
-                  },
-                  {
-                    "name": "登坂淳一"
                   }
                 ]
               },
@@ -1572,7 +1641,7 @@
               }
             },
             {
-              "-id": "9761008026",
+              "-id": "9761705778",
               "-ft": "20230312220000",
               "-to": "20230312225500",
               "-ftl": "2200",
@@ -1593,9 +1662,6 @@
                   },
                   {
                     "name": "WANIMAの音楽トーク"
-                  },
-                  {
-                    "name": "WANIMA"
                   }
                 ]
               },
@@ -1617,7 +1683,7 @@
               }
             },
             {
-              "-id": "9761008078",
+              "-id": "9761705830",
               "-ft": "20230312225500",
               "-to": "20230312230000",
               "-ftl": "2255",
@@ -1652,7 +1718,7 @@
               }
             },
             {
-              "-id": "9761008118",
+              "-id": "9761705871",
               "-ft": "20230312230000",
               "-to": "20230312233000",
               "-ftl": "2300",
@@ -1694,7 +1760,7 @@
               }
             },
             {
-              "-id": "9761008163",
+              "-id": "9761705917",
               "-ft": "20230312233000",
               "-to": "20230312235500",
               "-ftl": "2330",
@@ -1736,7 +1802,7 @@
               }
             },
             {
-              "-id": "9761008202",
+              "-id": "9761705956",
               "-ft": "20230312235500",
               "-to": "20230313000000",
               "-ftl": "2355",
@@ -1777,7 +1843,7 @@
               }
             },
             {
-              "-id": "9761008243",
+              "-id": "9761705998",
               "-ft": "20230313000000",
               "-to": "20230313003000",
               "-ftl": "2400",
@@ -1792,9 +1858,17 @@
               "pfm": "吉岡聖恵（いきものがかり）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/sftlzs6d33.jpg",
               "tag": {
-                "item": {
-                  "name": "人気アーティストトーク"
-                }
+                "item": [
+                  {
+                    "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "うたいろRadio"
+                  },
+                  {
+                    "name": "吉岡聖恵"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1814,7 +1888,7 @@
               }
             },
             {
-              "-id": "9761008276",
+              "-id": "9761706032",
               "-ft": "20230313003000",
               "-to": "20230313010000",
               "-ftl": "2430",
@@ -1829,9 +1903,17 @@
               "pfm": "川谷絵音",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/9cysetqxu3.jpg",
               "tag": {
-                "item": {
-                  "name": "人気アーティストトーク"
-                }
+                "item": [
+                  {
+                    "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "30我慢"
+                  },
+                  {
+                    "name": "川谷絵音の音楽トーク"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1851,7 +1933,7 @@
               }
             },
             {
-              "-id": "9761008314",
+              "-id": "9761706071",
               "-ft": "20230313010000",
               "-to": "20230313040000",
               "-ftl": "2500",
@@ -1877,7 +1959,7 @@
               }
             },
             {
-              "-id": "9761008381",
+              "-id": "9761706140",
               "-ft": "20230313040000",
               "-to": "20230313050000",
               "-ftl": "2800",
@@ -1892,9 +1974,17 @@
               "pfm": "武部聡志",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMFUKUI/ol852h578w.jpg",
               "tag": {
-                "item": {
-                  "name": "音楽プロデューサー出演"
-                }
+                "item": [
+                  {
+                    "name": "音楽プロデューサー出演"
+                  },
+                  {
+                    "name": "SESSIONS"
+                  },
+                  {
+                    "name": "武部聡志"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
