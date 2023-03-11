@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1678472909",
+    "srvtime": "1678559308",
     "stations": {
       "station": {
         "-id": "RAB",
@@ -10,7 +10,7 @@
           "date": "20230314",
           "prog": [
             {
-              "-id": "9761399950",
+              "-id": "9761979520",
               "-ft": "20230314050000",
               "-to": "20230314053000",
               "-ftl": "0500",
@@ -22,7 +22,21 @@
               "ts_out_ng": "0",
               "pfm": "大友寿郎",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a1829ea1-4b98-4675-8be1-41295a22aec5.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "大友寿郎"
+                  },
+                  {
+                    "name": "GG"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -36,7 +50,7 @@
               }
             },
             {
-              "-id": "9761399955",
+              "-id": "9761908401",
               "-ft": "20230314053000",
               "-to": "20230314063000",
               "-ftl": "0530",
@@ -48,7 +62,16 @@
               "ts_out_ng": "0",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/5476behcdk.png",
+              "tag": {
+                "item": {
+                  "name": "生島ヒロシ"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -312,7 +335,7 @@
               }
             },
             {
-              "-id": "9761400019",
+              "-id": "9761979586",
               "-ft": "20230314111500",
               "-to": "20230314112000",
               "-ftl": "1115",
@@ -325,6 +348,10 @@
               "pfm": "杉原テツ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/d349c0be-721f-4dc0-bd06-e4a632a64dc7.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
@@ -1006,7 +1033,7 @@
               }
             },
             {
-              "-id": "9761400107",
+              "-id": "9761979712",
               "-ft": "20230314200000",
               "-to": "20230314210000",
               "-ftl": "2000",
@@ -1019,6 +1046,10 @@
               "pfm": "宇多丸",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/w90vjyax7e.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
                   "-id": "P012",
                   "name": "趣味/教育"
@@ -1061,7 +1092,7 @@
               }
             },
             {
-              "-id": "9761400121",
+              "-id": "9761979722",
               "-ft": "20230314213000",
               "-to": "20230314220000",
               "-ftl": "2130",
@@ -1073,7 +1104,16 @@
               "ts_out_ng": "0",
               "pfm": "純烈",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/58c51cea-2ce0-4b00-bae5-ab77713c5ef5.jpeg",
+              "tag": {
+                "item": {
+                  "name": "純烈"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
@@ -1087,7 +1127,7 @@
               }
             },
             {
-              "-id": "9761400127",
+              "-id": "9761979744",
               "-ft": "20230314220000",
               "-to": "20230315000000",
               "-ftl": "2200",
@@ -1100,6 +1140,10 @@
               "pfm": "鈴木杏樹",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/8c37588a-7e91-4f70-9ef8-70173cb374d4.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
@@ -1113,7 +1157,7 @@
               }
             },
             {
-              "-id": "9761400144",
+              "-id": "9761979785",
               "-ft": "20230315000000",
               "-to": "20230315010000",
               "-ftl": "2400",
@@ -1139,7 +1183,7 @@
               }
             },
             {
-              "-id": "9761400150",
+              "-id": "9761979821",
               "-ft": "20230315010000",
               "-to": "20230315030000",
               "-ftl": "2500",
@@ -1151,7 +1195,16 @@
               "ts_out_ng": "0",
               "pfm": "星野源",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/bznx512lh7.jpg",
+              "tag": {
+                "item": {
+                  "name": "星野源"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
