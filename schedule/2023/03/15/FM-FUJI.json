@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1678386523",
+    "srvtime": "1678991253",
     "stations": {
       "station": {
         "-id": "FM-FUJI",
@@ -805,7 +805,7 @@
               }
             },
             {
-              "-id": "9760656739",
+              "-id": "9765363297",
               "-ft": "20230316003000",
               "-to": "20230316010000",
               "-ftl": "2430",
@@ -820,11 +820,20 @@
               "pfm": "halca",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/725b4b26-e76a-427b-8328-e99687d5cec4.jpeg",
               "tag": {
-                "item": {
-                  "name": "学生におすすめ"
-                }
+                "item": [
+                  {
+                    "name": "学生におすすめ"
+                  },
+                  {
+                    "name": "halca"
+                  }
+                ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
