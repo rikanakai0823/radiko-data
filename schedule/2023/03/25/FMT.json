@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1679250476",
+    "srvtime": "1679336851",
     "stations": {
       "station": {
         "-id": "FMT",
@@ -10,7 +10,7 @@
           "date": "20230325",
           "prog": [
             {
-              "-id": "9767840384",
+              "-id": "9768531691",
               "-ft": "20230325050000",
               "-to": "20230325055500",
               "-ftl": "0500",
@@ -55,7 +55,7 @@
               }
             },
             {
-              "-id": "9767840404",
+              "-id": "9768531773",
               "-ft": "20230325055500",
               "-to": "20230325060000",
               "-ftl": "0555",
@@ -90,23 +90,76 @@
               }
             },
             {
-              "-id": "9767840410",
+              "-id": "9768272751",
               "-ft": "20230325060000",
-              "-to": "20230325070000",
+              "-to": "20230325065500",
               "-ftl": "0600",
-              "-tol": "0700",
-              "-dur": "3600",
-              "title": "TOKYO NEWS RADIO～LIFE～",
-              "url": "https://www.tfm.co.jp/newsradio/",
+              "-tol": "0655",
+              "-dur": "3300",
+              "title": "TOKYO FM 特別番組 清水哲男を偲んで～父の名は詩人",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/f4b819a7-8cd1-4c34-9d24-499ffb7fbae7_sq.jpg\" height=\"60\" width=\"60\" alt=\"村田睦\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/e1813bd4-a1cf-4f8e-9106-646ce7613534_sq.jpg\" height=\"60\" width=\"60\" alt=\"手島千尋\"></td>  </tr></table><br /><br />\tこの番組では、TOKYO FMの報道・情報センターの記者が、東京で起こっている ニュースを独自に取材したオリジナルの情報を「東京事件」としてお届けします。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/newsradio/\">https://www.tfm.co.jp/newsradio/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/newsradio/message\">https://www.tfm.co.jp/f/newsradio/message</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%A4%E3%83%9580\">#ライフ80</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/TOKYONEWSRADIO\">@TOKYONEWSRADIO</a>」<br /><br /></div>",
-              "pfm": "村田睦 / 手島千尋",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/iwar484jq2.jpg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      </tr><tr valign=\"top\">       <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/fb468da3-4766-4090-99e5-215eaf0106d7_sq.jpg\" height=\"60\" width=\"60\" alt=\"田中美登里\"></td>      </tr><tr valign=\"top\">       <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/2944ef91-df97-43dc-8b13-0c8a60e13de7_sq.jpg\" height=\"60\" width=\"60\" alt=\"玉置玲央\"></td>  </tr></table><br /><br />\t--- <br /><br /><br /></div>",
+              "pfm": "清水あかね / 清水みぎわ / ねじめ正一 / 鳥越俊太郎 / 大多田純 / 田中美登里 / 玉置玲央",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/656baa14-31d3-4896-9b86-2c9622b88a05.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "清水哲男"
+                  },
+                  {
+                    "name": "清水あかね"
+                  },
+                  {
+                    "name": "清水みぎわ"
+                  },
+                  {
+                    "name": "ねじめ正一"
+                  },
+                  {
+                    "name": "鳥越俊太郎"
+                  },
+                  {
+                    "name": "大多田純"
+                  },
+                  {
+                    "name": "田中美登里"
+                  },
+                  {
+                    "name": "玉置玲央"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9768531840",
+              "-ft": "20230325065500",
+              "-to": "20230325070000",
+              "-ftl": "0655",
+              "-tol": "0700",
+              "-dur": "300",
+              "title": "ドライバーズ・インフォ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t--- <br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/97axt6cw5j.jpg",
               "tag": {
                 "item": {
-                  "name": "朝のニュースを効率良く"
+                  "name": "天気"
                 }
               },
               "genre": {
@@ -120,20 +173,14 @@
                 }
               },
               "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#ライフ80"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:TOKYONEWSRADIO"
-                  }
-                ]
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
               }
             },
             {
-              "-id": "9767840430",
+              "-id": "9768531843",
               "-ft": "20230325070000",
               "-to": "20230325072500",
               "-ftl": "0700",
@@ -181,7 +228,7 @@
               }
             },
             {
-              "-id": "9767840438",
+              "-id": "9768531864",
               "-ft": "20230325072500",
               "-to": "20230325073000",
               "-ftl": "0725",
@@ -213,7 +260,7 @@
               }
             },
             {
-              "-id": "9767840441",
+              "-id": "9768531870",
               "-ft": "20230325073000",
               "-to": "20230325075500",
               "-ftl": "0730",
@@ -255,7 +302,7 @@
               }
             },
             {
-              "-id": "9767840451",
+              "-id": "9768531891",
               "-ft": "20230325075500",
               "-to": "20230325080000",
               "-ftl": "0755",
@@ -290,7 +337,7 @@
               }
             },
             {
-              "-id": "9767840457",
+              "-id": "9768531904",
               "-ft": "20230325080000",
               "-to": "20230325082500",
               "-ftl": "0800",
@@ -332,7 +379,7 @@
               }
             },
             {
-              "-id": "9767840467",
+              "-id": "9768531940",
               "-ft": "20230325082500",
               "-to": "20230325083000",
               "-ftl": "0825",
@@ -369,7 +416,7 @@
               }
             },
             {
-              "-id": "9767840473",
+              "-id": "9768531948",
               "-ft": "20230325083000",
               "-to": "20230325085500",
               "-ftl": "0830",
@@ -411,7 +458,7 @@
               }
             },
             {
-              "-id": "9767840478",
+              "-id": "9768531969",
               "-ft": "20230325085500",
               "-to": "20230325090000",
               "-ftl": "0855",
@@ -447,7 +494,7 @@
               }
             },
             {
-              "-id": "9767840488",
+              "-id": "9768532001",
               "-ft": "20230325090000",
               "-to": "20230325093000",
               "-ftl": "0900",
@@ -484,7 +531,7 @@
               }
             },
             {
-              "-id": "9767840502",
+              "-id": "9768532056",
               "-ft": "20230325093000",
               "-to": "20230325095500",
               "-ftl": "0930",
@@ -532,7 +579,7 @@
               }
             },
             {
-              "-id": "9767840510",
+              "-id": "9768532093",
               "-ft": "20230325095500",
               "-to": "20230325100000",
               "-ftl": "0955",
@@ -569,7 +616,7 @@
               }
             },
             {
-              "-id": "9767840522",
+              "-id": "9768532128",
               "-ft": "20230325100000",
               "-to": "20230325105000",
               "-ftl": "1000",
@@ -617,7 +664,7 @@
               }
             },
             {
-              "-id": "9767840533",
+              "-id": "9768532171",
               "-ft": "20230325105000",
               "-to": "20230325105500",
               "-ftl": "1050",
@@ -652,7 +699,7 @@
               }
             },
             {
-              "-id": "9767840539",
+              "-id": "9768532207",
               "-ft": "20230325105500",
               "-to": "20230325110000",
               "-ftl": "1055",
@@ -688,7 +735,7 @@
               }
             },
             {
-              "-id": "9767840550",
+              "-id": "9768532246",
               "-ft": "20230325110000",
               "-to": "20230325112500",
               "-ftl": "1100",
@@ -739,7 +786,7 @@
               }
             },
             {
-              "-id": "9767840559",
+              "-id": "9768532288",
               "-ft": "20230325112500",
               "-to": "20230325113000",
               "-ftl": "1125",
@@ -779,7 +826,7 @@
               }
             },
             {
-              "-id": "9767840560",
+              "-id": "9768532291",
               "-ft": "20230325113000",
               "-to": "20230325115500",
               "-ftl": "1130",
@@ -790,7 +837,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/f1b1bb2a-9c53-4f0f-b0c6-0cc3ceb09c16_sq.jpg\" height=\"60\" width=\"60\" alt=\"河原賢一郎（「ギター・マガジン」プロデューサー）\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/df6e82af-a62d-488f-9df3-f23c4ab64729_sq.jpg\" height=\"60\" width=\"60\" alt=\"中川絵美里\"></td>  </tr></table><br /><br />\t“音楽の聞こえ方が変わるプログラム”<br />ギターマガジン編集部の河原賢一郎がその豊富な音楽知識を生かして<br />一曲一曲思いを込めた楽曲や情報を紹介する「ザ・音楽番組」。<br />土曜日のゆったりした空気にピッタリなサウンドと共に、<br />その時々のニュースや、音楽トピックを紹介する特集コーナーなど。<br />新しい土曜日のお昼を提案します！ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/f/guitarmagazine/message\">https://www.tfm.co.jp/f/guitarmagazine/message</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/guitarmagazine/message\">https://www.tfm.co.jp/f/guitarmagazine/message</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23GMRadio\">#GMRadio</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/f1b1bb2a-9c53-4f0f-b0c6-0cc3ceb09c16_sq.jpg\" height=\"60\" width=\"60\" alt=\"河原賢一郎（「ギター・マガジン」プロデューサー）\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/df6e82af-a62d-488f-9df3-f23c4ab64729_sq.jpg\" height=\"60\" width=\"60\" alt=\"中川絵美里\"></td>  </tr></table><br /><br />\t★最終回は、リクエスト「お昼ギター」で選曲！<br /><br />“音楽の聞こえ方が変わるプログラム”<br />ギターマガジン編集部の河原賢一郎がその豊富な音楽知識を生かして<br />一曲一曲思いを込めた楽曲や情報を紹介する「ザ・音楽番組」。<br />土曜日のゆったりした空気にピッタリなサウンドと共に、<br />その時々のニュースや、音楽トピックを紹介する特集コーナーなど。<br />新しい土曜日のお昼を提案します！ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/f/guitarmagazine/message\">https://www.tfm.co.jp/f/guitarmagazine/message</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/guitarmagazine/message\">https://www.tfm.co.jp/f/guitarmagazine/message</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23GMRadio\">#GMRadio</a>」<br /><br /></div>",
               "pfm": "河原賢一郎（「ギター・マガジン」プロデューサー） / 中川絵美里",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/eazoql8eyo.jpg",
               "tag": {
@@ -830,7 +877,7 @@
               }
             },
             {
-              "-id": "9767840566",
+              "-id": "9768532319",
               "-ft": "20230325115500",
               "-to": "20230325120000",
               "-ftl": "1155",
@@ -865,7 +912,7 @@
               }
             },
             {
-              "-id": "9767840574",
+              "-id": "9768532351",
               "-ft": "20230325120000",
               "-to": "20230325122500",
               "-ftl": "1200",
@@ -907,7 +954,7 @@
               }
             },
             {
-              "-id": "9767840582",
+              "-id": "9768532392",
               "-ft": "20230325122500",
               "-to": "20230325123000",
               "-ftl": "1225",
@@ -942,7 +989,7 @@
               }
             },
             {
-              "-id": "9767840584",
+              "-id": "9768532398",
               "-ft": "20230325123000",
               "-to": "20230325125500",
               "-ftl": "1230",
@@ -987,7 +1034,7 @@
               }
             },
             {
-              "-id": "9767840591",
+              "-id": "9768532423",
               "-ft": "20230325125500",
               "-to": "20230325130000",
               "-ftl": "1255",
@@ -1022,7 +1069,7 @@
               }
             },
             {
-              "-id": "9767840602",
+              "-id": "9768532459",
               "-ft": "20230325130000",
               "-to": "20230325135300",
               "-ftl": "1300",
@@ -1076,7 +1123,7 @@
               }
             },
             {
-              "-id": "9767840614",
+              "-id": "9768532503",
               "-ft": "20230325135300",
               "-to": "20230325135500",
               "-ftl": "1353",
@@ -1113,7 +1160,7 @@
               }
             },
             {
-              "-id": "9767840620",
+              "-id": "9768532530",
               "-ft": "20230325135500",
               "-to": "20230325140000",
               "-ftl": "1355",
@@ -1149,7 +1196,7 @@
               }
             },
             {
-              "-id": "9767840630",
+              "-id": "9768532570",
               "-ft": "20230325140000",
               "-to": "20230325145500",
               "-ftl": "1400",
@@ -1203,7 +1250,7 @@
               }
             },
             {
-              "-id": "9767840645",
+              "-id": "9768532620",
               "-ft": "20230325145500",
               "-to": "20230325150000",
               "-ftl": "1455",
@@ -1238,7 +1285,7 @@
               }
             },
             {
-              "-id": "9767840655",
+              "-id": "9768532657",
               "-ft": "20230325150000",
               "-to": "20230325152500",
               "-ftl": "1500",
@@ -1301,7 +1348,7 @@
               }
             },
             {
-              "-id": "9767840665",
+              "-id": "9768532699",
               "-ft": "20230325152500",
               "-to": "20230325153000",
               "-ftl": "1525",
@@ -1338,7 +1385,7 @@
               }
             },
             {
-              "-id": "9767840673",
+              "-id": "9768532737",
               "-ft": "20230325153000",
               "-to": "20230325155500",
               "-ftl": "1530",
@@ -1375,7 +1422,7 @@
               }
             },
             {
-              "-id": "9767840680",
+              "-id": "9768532774",
               "-ft": "20230325155500",
               "-to": "20230325160000",
               "-ftl": "1555",
@@ -1410,7 +1457,7 @@
               }
             },
             {
-              "-id": "9767840693",
+              "-id": "9768532814",
               "-ft": "20230325160000",
               "-to": "20230325165500",
               "-ftl": "1600",
@@ -1452,7 +1499,7 @@
               }
             },
             {
-              "-id": "9767840708",
+              "-id": "9768532860",
               "-ft": "20230325165500",
               "-to": "20230325170000",
               "-ftl": "1655",
@@ -1487,7 +1534,7 @@
               }
             },
             {
-              "-id": "9767840716",
+              "-id": "9768532895",
               "-ft": "20230325170000",
               "-to": "20230325175500",
               "-ftl": "1700",
@@ -1498,7 +1545,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/3061b1de-5499-4d14-8997-59899af8b09a_sq.jpg\" height=\"60\" width=\"60\" alt=\"川島明（麒麟）\"></td>  </tr></table><br /><br />\t土曜日に55分間だけラジオの中にオープンする旅行会社<br />「Eureka Drive Corporation」<br /><br />「お客様の心を、ここではないどこかへ」をテーマに、<br />毎回多彩なジャンルのゲストを招き、日本全国、世界各地、<br />時空も超えた「ココロが動く（＝エウレカ）思い入れのある場所」へと案内していきます。<br />ドライバーは、麒麟・川島明が務めます。 <br /><br />\t本日のゲスト：\t\t友近\t<br />\t<br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/wonderfuljourney/\">https://www.tfm.co.jp/wonderfuljourney/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%9C%9F%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%A8%E3%82%A6%E3%83%AC%E3%82%AB\">#土曜日のエウレカ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/DriveEureka\">@DriveEureka</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/3061b1de-5499-4d14-8997-59899af8b09a_sq.jpg\" height=\"60\" width=\"60\" alt=\"川島明（麒麟）\"></td>  </tr></table><br /><br />\t土曜日に55分間だけラジオの中にオープンする旅行会社<br />「Eureka Drive Corporation」<br /><br />「お客様の心を、ここではないどこかへ」をテーマに、<br />毎回多彩なジャンルのゲストを招き、日本全国、世界各地、時空も超えた<br />「ココロが動く（＝エウレカ）思い入れのある場所」へと案内していきます。<br />ドライバーは、麒麟・川島明が務めます。<br /><br />今週のゲストは、友近さん！ <br /><br />\t本日のゲスト：\t\t友近\t<br />\t<br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/wonderfuljourney/\">https://www.tfm.co.jp/wonderfuljourney/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%9C%9F%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%A8%E3%82%A6%E3%83%AC%E3%82%AB\">#土曜日のエウレカ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/DriveEureka\">@DriveEureka</a>」<br /><br /></div>",
               "pfm": "川島明（麒麟） ゲスト: 友近",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/ywpmrlshen.jpg",
               "tag": {
@@ -1544,7 +1591,7 @@
               }
             },
             {
-              "-id": "9767840736",
+              "-id": "9768532954",
               "-ft": "20230325175500",
               "-to": "20230325180000",
               "-ftl": "1755",
@@ -1581,7 +1628,7 @@
               }
             },
             {
-              "-id": "9767840747",
+              "-id": "9768532990",
               "-ft": "20230325180000",
               "-to": "20230325183000",
               "-ftl": "1800",
@@ -1618,7 +1665,7 @@
               }
             },
             {
-              "-id": "9767840764",
+              "-id": "9768533042",
               "-ft": "20230325183000",
               "-to": "20230325185500",
               "-ftl": "1830",
@@ -1672,7 +1719,7 @@
               }
             },
             {
-              "-id": "9767840772",
+              "-id": "9768533070",
               "-ft": "20230325185500",
               "-to": "20230325190000",
               "-ftl": "1855",
@@ -1707,7 +1754,7 @@
               }
             },
             {
-              "-id": "9767840784",
+              "-id": "9768533103",
               "-ft": "20230325190000",
               "-to": "20230325193000",
               "-ftl": "1900",
@@ -1770,7 +1817,7 @@
               }
             },
             {
-              "-id": "9767840796",
+              "-id": "9768533151",
               "-ft": "20230325193000",
               "-to": "20230325200000",
               "-ftl": "1930",
@@ -1818,7 +1865,7 @@
               }
             },
             {
-              "-id": "9767840811",
+              "-id": "9768533209",
               "-ft": "20230325200000",
               "-to": "20230325203000",
               "-ftl": "2000",
@@ -1855,7 +1902,7 @@
               }
             },
             {
-              "-id": "9767840825",
+              "-id": "9768533255",
               "-ft": "20230325203000",
               "-to": "20230325205500",
               "-ftl": "2030",
@@ -1866,7 +1913,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/12a4a81e-3975-4bbd-a43c-f4a878a595b8_sq.jpg\" height=\"60\" width=\"60\" alt=\"篠原ともえ\"></td>  </tr></table><br /><br />\tここは大都会 東京のどこかにある、天文台を改装したパーティーラウンジ…<br />「東京プラネタリー☆カフェ」。<br />今日もステキなゲストをお招きして、宙トーク満載のパーティが始まろうとしています。 <br /><br />\t本日のゲスト：\t\t矢野顕子\t<br />\t<br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/hoshi/\">https://www.tfm.co.jp/hoshi/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/hoshi/index.php?catid=1511\">https://www.tfm.co.jp/hoshi/index.php?catid=1511</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%97%E3%83%A9%E3%82%AB%E3%83%95%E3%82%A7\">#プラカフェ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/tokyofm_space\">@tokyofm_space</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/12a4a81e-3975-4bbd-a43c-f4a878a595b8_sq.jpg\" height=\"60\" width=\"60\" alt=\"篠原ともえ\"></td>  </tr></table><br /><br />\t矢野顕子さん登場！<br />篠原ともえと語り合う「宇宙は、特別なところじゃない☆彡」 <br /><br />\t本日のゲスト：\t\t矢野顕子\t<br />\t<br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/hoshi/\">https://www.tfm.co.jp/hoshi/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/hoshi/index.php?catid=1511\">https://www.tfm.co.jp/hoshi/index.php?catid=1511</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%97%E3%83%A9%E3%82%AB%E3%83%95%E3%82%A7\">#プラカフェ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/tokyofm_space\">@tokyofm_space</a>」<br /><br /></div>",
               "pfm": "篠原ともえ ゲスト: 矢野顕子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/ubob77s3jn.jpg",
               "tag": {
@@ -1903,7 +1950,7 @@
               }
             },
             {
-              "-id": "9767840829",
+              "-id": "9768533275",
               "-ft": "20230325205500",
               "-to": "20230325210000",
               "-ftl": "2055",
@@ -1929,7 +1976,7 @@
               }
             },
             {
-              "-id": "9767840838",
+              "-id": "9768533307",
               "-ft": "20230325210000",
               "-to": "20230325213000",
               "-ftl": "2100",
@@ -1977,7 +2024,7 @@
               }
             },
             {
-              "-id": "9767840854",
+              "-id": "9768533352",
               "-ft": "20230325213000",
               "-to": "20230325215500",
               "-ftl": "2130",
@@ -1988,7 +2035,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/1ff68ad1-0d8f-43f3-aa05-f7776880dd6f_sq.jpg\" height=\"60\" width=\"60\" alt=\"一木広治\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/018c6969-77ed-41d5-a335-341113a8039e_sq.jpg\" height=\"60\" width=\"60\" alt=\"Chigusa\"></td>  </tr></table><br /><br />\t「日本を元気に」を合言葉に毎週各界著名人をゲストに招き、SDGsピースコミュニケーションに向けての取り組みやヒントをお届けします。<br />TOKYO HEADLINEやBEYOND 2020 NEXT FORUMとも連動した土曜夜9時半から始まるエンタメ音声コンテンツ“JAPAN MOVE UP”。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/23692\">https://audee.jp/program/show/23692</a><br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/1ff68ad1-0d8f-43f3-aa05-f7776880dd6f_sq.jpg\" height=\"60\" width=\"60\" alt=\"一木広治\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/018c6969-77ed-41d5-a335-341113a8039e_sq.jpg\" height=\"60\" width=\"60\" alt=\"Chigusa\"></td>  </tr></table><br /><br />\t今回の日本を元気にするゲストは<br />お笑いコンビ・EXITのりんたろー。さんと静岡県浜松市長の鈴木康友さん。<br />浜松出身で「やらまいか大使」でもあるりんたろーさん。<br />「大河ドラマ館」もオープンした浜松の魅力、注目スポットを語ります。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/23692\">https://audee.jp/program/show/23692</a><br /><br /></div>",
               "pfm": "一木広治 / Chigusa",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/yys312vdab.jpg",
               "tag": {
@@ -2014,7 +2061,7 @@
               }
             },
             {
-              "-id": "9767840860",
+              "-id": "9768533370",
               "-ft": "20230325215500",
               "-to": "20230325220000",
               "-ftl": "2155",
@@ -2049,7 +2096,7 @@
               }
             },
             {
-              "-id": "9767840869",
+              "-id": "9768533402",
               "-ft": "20230325220000",
               "-to": "20230325223000",
               "-ftl": "2200",
@@ -2060,7 +2107,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/0b463075-6199-4b50-b72b-2e5aceadc885_sq.jpg\" height=\"60\" width=\"60\" alt=\"茂木健一郎\"></td>  </tr></table><br /><br />\t脳科学者 茂木健一郎が、日本や世界を舞台に活躍している人々をゲストに迎え、その“挑戦”に迫っていきます。 <br /><br />\t本日のゲスト：\t\tウエストランド\t<br />\t<br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/dreamheart/\">https://www.tfm.co.jp/dreamheart/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp//dreamheart/index.php?catid=1746\">https://www.tfm.co.jp//dreamheart/index.php?catid=1746</a><br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/0b463075-6199-4b50-b72b-2e5aceadc885_sq.jpg\" height=\"60\" width=\"60\" alt=\"茂木健一郎\"></td>  </tr></table><br /><br />\t脳科学者 茂木健一郎が、日本や世界を舞台に活躍している人々を<br />ゲストに迎え、その夢や挑戦に迫っているプログラムです。<br /><br />今週のお客さまは、引き続き、<br />昨年の「M-1グランプリ2022」で優勝しました、<br />お笑いコンビ「ウエストランド」の井口浩之さんと河本太さんをお迎えします。<br /><br />★AuDeeでは、茂木健一郎さんがみなさんのお悩みにお答えする<br />番外編番組⇒<a href=\"https://audee.jp/program/show/11745\">「ポジティブ脳教室」も配信中！</a> <br /><br />\t本日のゲスト：\t\tウエストランド\t<br />\t<br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/dreamheart/\">https://www.tfm.co.jp/dreamheart/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp//dreamheart/index.php?catid=1746\">https://www.tfm.co.jp//dreamheart/index.php?catid=1746</a><br /><br /></div>",
               "pfm": "茂木健一郎 ゲスト: ウエストランド",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/75yqck95me.jpg",
               "tag": {
@@ -2091,7 +2138,7 @@
               }
             },
             {
-              "-id": "9767840883",
+              "-id": "9768533447",
               "-ft": "20230325223000",
               "-to": "20230325225500",
               "-ftl": "2230",
@@ -2142,7 +2189,7 @@
               }
             },
             {
-              "-id": "9767840889",
+              "-id": "9768533483",
               "-ft": "20230325225500",
               "-to": "20230325230000",
               "-ftl": "2255",
@@ -2169,7 +2216,7 @@
               }
             },
             {
-              "-id": "9767840900",
+              "-id": "9768533522",
               "-ft": "20230325230000",
               "-to": "20230325235500",
               "-ftl": "2300",
@@ -2223,7 +2270,7 @@
               }
             },
             {
-              "-id": "9767840917",
+              "-id": "9768533570",
               "-ft": "20230325235500",
               "-to": "20230326000000",
               "-ftl": "2355",
@@ -2258,7 +2305,7 @@
               }
             },
             {
-              "-id": "9767840926",
+              "-id": "9768533607",
               "-ft": "20230326000000",
               "-to": "20230326003000",
               "-ftl": "2400",
@@ -2327,7 +2374,7 @@
               }
             },
             {
-              "-id": "9767840942",
+              "-id": "9768533654",
               "-ft": "20230326003000",
               "-to": "20230326010000",
               "-ftl": "2430",
@@ -2370,7 +2417,7 @@
               }
             },
             {
-              "-id": "9767840954",
+              "-id": "9768533687",
               "-ft": "20230326010000",
               "-to": "20230326013000",
               "-ftl": "2500",
@@ -2411,7 +2458,7 @@
               }
             },
             {
-              "-id": "9767840966",
+              "-id": "9768533723",
               "-ft": "20230326013000",
               "-to": "20230326020000",
               "-ftl": "2530",
@@ -2462,7 +2509,7 @@
               }
             },
             {
-              "-id": "9767840975",
+              "-id": "9768533736",
               "-ft": "20230326020000",
               "-to": "20230326023000",
               "-ftl": "2600",
@@ -2507,7 +2554,7 @@
               }
             },
             {
-              "-id": "9767840986",
+              "-id": "9768533778",
               "-ft": "20230326023000",
               "-to": "20230326030000",
               "-ftl": "2630",
@@ -2555,7 +2602,7 @@
               }
             },
             {
-              "-id": "9767840995",
+              "-id": "9768533795",
               "-ft": "20230326030000",
               "-to": "20230326033000",
               "-ftl": "2700",
@@ -2606,7 +2653,7 @@
               }
             },
             {
-              "-id": "9767841008",
+              "-id": "9768533839",
               "-ft": "20230326033000",
               "-to": "20230326040000",
               "-ftl": "2730",
@@ -2617,7 +2664,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/314c7f1a-46ce-430d-a434-d216f5953657_sq.jpg\" height=\"60\" width=\"60\" alt=\"羽多野渉\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/af19a100-7f5c-47c9-916a-b1aa8923509c_sq.jpg\" height=\"60\" width=\"60\" alt=\"古賀葵\"></td>  </tr></table><br /><br />\tこの番組は、声優の羽多野渉と古賀葵が、「声」「台詞」「言葉」にフォーカス してお届けしています。<br />ご紹介する楽曲も“いいコエ”に着目！パーソナリティやリスナーが「格好良いコ エ」「かわいいコエ」など心に残る視点でセレクトし、邦楽・洋楽、アニソン問 わずオールジャンルでお送りします。<br />声優同士のコラボや、大御所俳優のコエにまつわるエピソード紹介も。<br />どうぞお楽しみに！ <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/50252\">https://audee.jp/program/show/50252</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/koekoe/message\">https://www.tfm.co.jp/f/koekoe/message</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%B3%E3%82%A8%E3%82%B3%E3%82%A8tfm\">#コエコエtfm</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/koekoe_tfm\">@koekoe_tfm</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/314c7f1a-46ce-430d-a434-d216f5953657_sq.jpg\" height=\"60\" width=\"60\" alt=\"羽多野渉\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/af19a100-7f5c-47c9-916a-b1aa8923509c_sq.jpg\" height=\"60\" width=\"60\" alt=\"古賀葵\"></td>  </tr></table><br /><br />\tパーソナリティの羽多野渉と古賀葵が<br />『コエ』や『コトバ』を深堀りする『コエカルチャープログラム』<br /><br />＜レギュラーコーナー＞<br /><br />【いいコエリクエスト】<br />\"いいコエだな\"\"いいコトバだな\"と思う曲のリクエストをお待ちしています。<br /><br />【コエポスト～拝啓、あの時のわたしへ～】<br />過去の自分へ贈りたい手紙を綴って下さい。羽多野と古賀が読み上げます。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/50252\">https://audee.jp/program/show/50252</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/koekoe/message\">https://www.tfm.co.jp/f/koekoe/message</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%B3%E3%82%A8%E3%82%B3%E3%82%A8tfm\">#コエコエtfm</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/koekoe_tfm\">@koekoe_tfm</a>」<br /><br /></div>",
               "pfm": "羽多野渉 / 古賀葵",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FMT/t5wt3mtpsp.jpg",
               "tag": {
@@ -2666,7 +2713,7 @@
               }
             },
             {
-              "-id": "9767841019",
+              "-id": "9768533878",
               "-ft": "20230326040000",
               "-to": "20230326043000",
               "-ftl": "2800",
@@ -2703,7 +2750,7 @@
               }
             },
             {
-              "-id": "9767841033",
+              "-id": "9768533922",
               "-ft": "20230326043000",
               "-to": "20230326050000",
               "-ftl": "2830",
