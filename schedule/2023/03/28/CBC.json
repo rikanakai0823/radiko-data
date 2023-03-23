@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1679509681",
+    "srvtime": "1679596114",
     "stations": {
       "station": {
         "-id": "CBC",
@@ -10,7 +10,7 @@
           "date": "20230328",
           "prog": [
             {
-              "-id": "9768931476",
+              "-id": "9770164682",
               "-ft": "20230328050000",
               "-to": "20230328052500",
               "-ftl": "0500",
@@ -25,14 +25,31 @@
               "info": "毎日が始まる朝のひととき、演歌・歌謡曲の名曲と共に、リスナーの皆さんへ元気をお届けします。\n<br />あなたと一緒にすてきな番組にしていきたいと願いつつ、あなたが聴きたい曲をお送りします。\n<br />その歌にまつわる思い出などのおたよりも、お待ちしております。\n\n<br /><br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=393'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
               "pfm": "梓夕子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/ab54ce35-8033-487f-9e78-6fa537fb0846.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9770221212",
+              "-ft": "20230328052500",
+              "-to": "20230328053000",
+              "-ftl": "0525",
+              "-tol": "0530",
+              "-dur": "300",
+              "title": "ＣＢＣラジオショッピング",
+              "url": "http://www.j-shopping.jp/cbc/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "CBCが選ぶ、おトクな商品をご紹介します。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/ab1c097c-1cae-4518-bfa1-18baa2d30769.png",
               "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -43,26 +60,7 @@
               }
             },
             {
-              "-id": "9768901111",
-              "-ft": "20230328052500",
-              "-to": "20230328053000",
-              "-ftl": "0525",
-              "-tol": "0530",
-              "-dur": "300",
-              "title": "（最終回）いいものファイブミニッツ",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/eaa20984-6000-454a-9004-053e28ae3f9c.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9769413415",
+              "-id": "9770164693",
               "-ft": "20230328053000",
               "-to": "20230328063000",
               "-ftl": "0530",
@@ -77,16 +75,6 @@
               "info": "ニュース、スポーツ、健康、シニアライフ、介護などをキーワードにわかりやすく、お伝えしていきます。",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/n9i7kubnjx.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -95,7 +83,7 @@
               }
             },
             {
-              "-id": "9768931614",
+              "-id": "9770164701",
               "-ft": "20230328063000",
               "-to": "20230328070000",
               "-ftl": "0630",
@@ -107,19 +95,9 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "この時間は歌のない歌謡曲を中心に知りたい情報をお届け。",
-              "info": "「歌のない歌謡曲」では、なつメロから最新のヒット曲まで皆さんのリクエストにカラオケでお応えしていきます。\n\n<br/><br/>リクエスト、おたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=411'><u>こちら</u></a>\n<br/>FAXは 052-263-6800 まで",
-              "pfm": "多田しげお　石坂窓花",
+              "info": "CBCラジオでは昭和28年3月にスタートし、放送回数はすでに1万回を超えた長寿番組。\n<br/>なつメロから最新のヒット曲まで皆さんのリクエストにカラオケでお応えしています。\n\n<br/><br/>リクエスト、おたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=411'><u>こちら</u></a>\n<br/>FAXは 052-263-6800 まで",
+              "pfm": "多田しげお　當山日和子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/c10b8e80-b99a-41f1-9596-ff346cfa400c.png",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -128,7 +106,7 @@
               }
             },
             {
-              "-id": "9768931651",
+              "-id": "9770164709",
               "-ft": "20230328070000",
               "-to": "20230328090000",
               "-ftl": "0700",
@@ -139,20 +117,10 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "忙しい朝も朝PONで情報ゲット！",
-              "info": "多田しげおと、火曜アシスタント 石坂窓花が元気にお送りします！\n<br/>あなたの忙しい朝に、面白くてためになる「朝PON」をお聴き逃しなく♪\n\n<br /><br />番組記事を読む→<a href=\"https://radichubu.jp/kibun/\"><u>こちら</u></a>\n<br/>番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=409'><u>こちら</u></a>\n<br/>FAXは 052-263-6800 まで",
-              "pfm": "多田しげお　石坂窓花",
+              "desc": "朝PONがみなさんの一日の始まりに必要な情報をしっかりお届け！",
+              "info": "朝PONはCBCラジオの番組です。\n<br />最新ニュースから気になる話題まで、朝一番の情報をとにかくわかりやすく噛み砕いてお届けしています。\n<br />耳で聴く朝刊、朝PONをぜひお聴きください！\n\n<br /><br />番組記事を読む→<a href=\"https://radichubu.jp/kibun/\"><u>こちら</u></a>\n<br/>番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=409'><u>こちら</u></a>\n<br/>FAXは 052-263-6800 まで",
+              "pfm": "多田しげお　當山日和子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/c10b8e80-b99a-41f1-9596-ff346cfa400c.png",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -161,7 +129,7 @@
               }
             },
             {
-              "-id": "9768931825",
+              "-id": "9770164728",
               "-ft": "20230328090000",
               "-to": "20230328115500",
               "-ftl": "0900",
@@ -172,20 +140,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "四半世紀を超える長寿番組。世間の出来事、つボイノリオ自身の体験や、個々人の身の回りの日常など番組で取り上げる話題はすべて、リスナーの生活と密着した「いま」そのもの！<br />",
-              "info": "この番組は、日々のニュースを巧みに取り上げ、笑いに転化していきます！\n<br />「10時のつボ」、つボイとリスナーからの投稿によるギリギリのせめぎあいを存分にご堪能ください。\n<br />「トーマスの箱」ではつボイノリオが、リスナーからのおたよりをもとに、世相を聞けば風にきり込みます。\n\n<br /><br />10時40分頃からは「キユーピーラジオクッキング」\n<br />詳しいレシピはこちら <a href='http://hicbc.com/radio/kikeba/cooking/'>http://hicbc.com/radio/kikeba/cooking/</a>\n\n<br /><br />番組記事を読む→<a href=\"https://radichubu.jp/kikeba/\"><u>こちら</u></a>\n<br />番組ツイッターは<a href=\"https://twitter.com/cbc1053kikeba\"><u>こちら</u></a>\n<br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=387'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
-              "pfm": "つボイノリオ　小高直子",
+              "info": "世間の出来事、個々人の身の回りの日常など番組で取り上げる話題はすべて、リスナーの生活と密着した「いま」そのもの。\n<br />一緒に聞き、一緒に番組を創っていく。送られてくるおたよりは全国から毎日300通余り。\n<br />コメントに関する即座のリアクションによって、番組はLIVE感あふれる究極の「井戸端会議｣！\n<br />30周年を迎えた長寿番組です。\n\n<br /><br />10時40分頃からは「キユーピーラジオクッキング」\n<br />詳しいレシピはこちら <a href='http://hicbc.com/radio/kikeba/cooking/'>http://hicbc.com/radio/kikeba/cooking/</a>\n\n<br /><br />番組記事を読む→<a href=\"https://radichubu.jp/kikeba/\"><u>こちら</u></a>\n<br />番組Twitterは<a href=\"https://twitter.com/cbc1053kikeba\"><u>こちら</u></a>\n<br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=387'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
+              "pfm": "塩見啓一　小高直子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/d6cb4fac-f5e0-4921-bbef-df257a52894a.png",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -194,7 +151,7 @@
               }
             },
             {
-              "-id": "9768478142",
+              "-id": "9770164752",
               "-ft": "20230328115500",
               "-to": "20230328120000",
               "-ftl": "1155",
@@ -206,16 +163,6 @@
               "ts_out_ng": "0",
               "desc": "この時間は、最新のニュースをお伝えします。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/70d81ba7-a179-4302-91e8-ad16442c5aae.png",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -224,7 +171,7 @@
               }
             },
             {
-              "-id": "9768880874",
+              "-id": "9770164755",
               "-ft": "20230328120000",
               "-to": "20230328122000",
               "-ftl": "1200",
@@ -238,16 +185,6 @@
               "desc": "誰にも相談できない「悩み」や「苦しみ」でお困りの方、専門家がお答えします。",
               "info": "<br />\nこの番組はタイムフリー非対応です。ご了承ください。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/amob4vqjeh.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C012",
-                  "name": "文化人"
-                },
-                "program": {
-                  "-id": "P009",
-                  "name": "ドキュメンタリー"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -256,7 +193,7 @@
               }
             },
             {
-              "-id": "9768935595",
+              "-id": "9770164759",
               "-ft": "20230328122000",
               "-to": "20230328123000",
               "-ftl": "1220",
@@ -270,16 +207,6 @@
               "info": "持続可能な開発目標「SDGs」は、2030年までに世界で達成させる17の目標です。<br />\nどんな目標があるのか、日本に生きる私たちはどんなことをしたらよいのか。<br />\n吉岡直子アナウンサーと、いっしょに考えていきましょう。\n<br /><br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=589'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
               "pfm": "吉岡直子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/add6dece-2093-4d01-a47a-ca61f7025411.png",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -288,7 +215,7 @@
               }
             },
             {
-              "-id": "9768904221",
+              "-id": "9770164760",
               "-ft": "20230328123000",
               "-to": "20230328130000",
               "-ftl": "1230",
@@ -311,7 +238,7 @@
               }
             },
             {
-              "-id": "9768932193",
+              "-id": "9770164766",
               "-ft": "20230328130000",
               "-to": "20230328160000",
               "-ftl": "1300",
@@ -322,20 +249,10 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "お金のことから男女の仲までぶった斬る！本音トークラジオ。",
-              "info": "パーソナリティは北野誠、火曜アシスタントは佐藤実絵子。\n<br />いわくつきの部屋に住む“事故物件芸人”の肩書きを持つ、松原タニシも火曜ご意見番として登場！\n\n<br /><br />社会の出来事から夫婦の問題まで本音で斬って、斬って、斬りまくる！\n<br />どんな話題が飛び出すか、耳が離せない3時間！\n<br />今日もお楽しみに！\n\n<br /><br />ズバリ公式LINE＠は<a href=\"http://accountpage.line.me/makozuba1053\"><u>ここから</u></a>\n<br />番組記事を読む→<a href=\"https://radichubu.jp/makozuba/\"><u>こちら</u></a>\n<br />番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=384'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n\n<br /><br />北野誠とリスナーが自腹で飲み会をする「マコ酒RUN」では、\n<br />北野誠に食べに来てほしいお店を募集中！\n<br />ご応募は<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=384'><u>こちら</u></a>",
+              "desc": "本音トークでズバっとぶった斬り！一度聴いたらクセになる！",
+              "info": "北野誠が中高年リスナーとともにお送りする3時間の生放送！\n<br />仕事・家庭・健康…いろいろトラブるお年頃。\n<br />いいことばかりじゃないけれど、テキトーにやればきっと楽しい時もある？そんな人生バラエティワイド！\n\n<br /><br />ズバリ公式LINE＠は<a href=\"http://accountpage.line.me/makozuba1053\"><u>ここから</u></a>\n<br />番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=384'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n\n<br /><br />北野誠とリスナーが自腹で飲み会をする「マコ酒RUN」では、\n<br />北野誠に食べに来てほしいお店を募集中！\n<br />ご応募は<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=384'><u>こちら</u></a>",
               "pfm": "北野誠　佐藤実絵子　松原タニシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/ba4ce9b5-9909-44e1-a907-d5df159bd5c3.png",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -344,7 +261,7 @@
               }
             },
             {
-              "-id": "9768880975",
+              "-id": "9770164786",
               "-ft": "20230328160000",
               "-to": "20230328190000",
               "-ftl": "1600",
@@ -355,8 +272,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "『超ド級、スポーツエンタ』をコンセプトにしたスポーツ・情報番組。\n<br />月曜は、ドラファンで音楽に精通した大谷ノブ彦が担当し、火曜～金曜は、個性豊かなパーソナリティが、現場至上主義のスポーツ最新情報を取材秘話までお送りします。\n<br />ドラゴンズ応援番組ナンバーワンを目指します。\n\n\n<br /><br />番組ツイッターは<a href=\"https://twitter.com/DragonsCBC\"><u>こちら</u></a>\n<br />番組記事を読む→<a href='https://radichubu.jp/dradama-king/'><u>こちら</u></a>\n<br />番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=439'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
-              "pfm": "加藤里奈 三浦優奈",
+              "desc": "超ド級、スポーツエンタ！",
+              "info": "月曜は、ドラファンで音楽に精通した大谷ノブ彦が担当し、火曜～金曜は、個性豊かなパーソナリティが、現場至上主義のスポーツ最新情報を取材秘話までお送りします。\n<br />ドラゴンズ応援番組ナンバーワンを目指します。\n\n\n<br /><br />番組ツイッターは<a href=\"https://twitter.com/DragonsCBC\"><u>こちら</u></a>\n<br />番組記事を読む→<a href='https://radichubu.jp/dradama-king/'><u>こちら</u></a>\n<br />番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=439'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
+              "pfm": "加藤里奈　三浦優奈",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/2822d942-33fd-4979-871f-4a9430dd606b.png",
               "metas": {
                 "meta": {
@@ -366,21 +284,17 @@
               }
             },
             {
-              "-id": "9768904449",
+              "-id": "9770164823",
               "-ft": "20230328190000",
               "-to": "20230328210000",
               "-ftl": "1900",
               "-tol": "2100",
               "-dur": "7200",
-              "title": "アフター6ジャンクション",
-              "url": "https://www.tbsradio.jp/a6j/",
+              "title": "ドラ魂キング開幕直前SP CBC実況アナ全員集合！立浪ドラゴンズ2年目の逆襲",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "ライムスター宇多丸の聴くカルチャー・プログラム、最高峰。",
-              "info": "あなたの\"好き\"が否定されない、あなたの\"好き\"が見つかる場所。<br /> 映画・音楽・本・ゲームなどの分析や、独自視点による文化研究など、日常の中にある「おもしろ」を掘り起こすカルチャー・キュレーションで現代社会に広がる様々な趣味嗜好の多様性を受け止める。<br /><br /> 番組略称は「アトロク」(いとうせいこう命名)。\n",
-              "pfm": "宇多丸",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/irlgvnbqkc.jpg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/eaa20984-6000-454a-9004-053e28ae3f9c.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -389,7 +303,7 @@
               }
             },
             {
-              "-id": "9768881206",
+              "-id": "9770164833",
               "-ft": "20230328210000",
               "-to": "20230328213000",
               "-ftl": "2100",
@@ -400,9 +314,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "動画オーディションを勝ち抜き、見事パーソナリティの座を射止めた３組が火～水曜を日替わりで担当する「個性爆発ラジオ」！ <br />火曜日は八木志芳が担当！",
+              "info": "動画オーディションを勝ち抜き、見事パーソナリティの座を射止めた３組が火～水曜を日替わりで担当する「個性爆発ラジオ」！ <br />火曜日は八木志芳が担当！\n\n<br/>番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=685'><u>こちら</u></a>\n<br/>FAXは 052-263-6800 まで",
               "pfm": "八木志芳",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/eaa20984-6000-454a-9004-053e28ae3f9c.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/fcaecfc4-52a4-4f8d-a2ab-e72a6ec4f435.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -411,7 +325,7 @@
               }
             },
             {
-              "-id": "9768881231",
+              "-id": "9770164839",
               "-ft": "20230328213000",
               "-to": "20230328214000",
               "-ftl": "2130",
@@ -422,7 +336,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "キャラクターと人間の不思議な番組。<br />\n森羅万象、どんな些細なことでも褒める「褒めて癒す」ラジオ！",
+              "info": "キャラクターと人間の不思議な番組。<br />\n森羅万象、どんな些細なことでも褒める「褒めて癒す」ラジオ！\n<br/><br/>番組へのおたよりは<a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=688'><u>こちら</u></a>\n<br/>FAXは 052-263-6800 まで",
               "pfm": "アホロートル　しろくじちゃん",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/af3a5665-280a-4388-8a8f-e5a082a69c61.jpeg",
               "metas": {
@@ -433,7 +347,7 @@
               }
             },
             {
-              "-id": "9768479334",
+              "-id": "9770164840",
               "-ft": "20230328214000",
               "-to": "20230328214500",
               "-ftl": "2140",
@@ -445,16 +359,6 @@
               "ts_out_ng": "0",
               "info": "この時間は、最新のニュースと天気予報をお伝えします。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/70d81ba7-a179-4302-91e8-ad16442c5aae.png",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -463,20 +367,18 @@
               }
             },
             {
-              "-id": "9768936021",
+              "-id": "9770164841",
               "-ft": "20230328214500",
               "-to": "20230328220000",
               "-ftl": "2145",
               "-tol": "2200",
               "-dur": "900",
-              "title": "ココロのオンガク～music for you～",
-              "url": "https://www.joqr.co.jp/qr/program/musicmusic/",
+              "title": "山本衿奈のアゲイン",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "音楽を通じて気持ちが駆け上がる瞬間を感じて下さい。<br />音楽を通じて心和む瞬間を感じて下さい。<br />音楽を通じて明日への力をチャージして下さい。<br /><br />「ココロのオンガク ～music for you～」は、音楽を通じて、\"\"今を生きる\"\"皆さんを応援する番組です。<br />パーソナリティーは、各音楽番組や音楽イベントで司会を担当し、洋邦問わず音楽に造詣が深い井手大介。<br />そんな井手大介が、\"\"今を生きる\"\"皆さんからのリアルなメッセージ、そしてリクエスト曲をもとにお届けします。<br />主役は皆さんのメッセージ、そして音楽です。<br /><br />メッセージ・リクエスト曲は music@joqr.netまたはリクエストフォームからお送りください。",
-              "pfm": "井手大介",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/qq9fz8jly4.png",
+              "pfm": "山本衿奈",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/eaa20984-6000-454a-9004-053e28ae3f9c.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -485,30 +387,20 @@
               }
             },
             {
-              "-id": "9768936039",
+              "-id": "9770164844",
               "-ft": "20230328220000",
               "-to": "20230329000000",
               "-ftl": "2200",
               "-tol": "2400",
               "-dur": "7200",
               "title": "チュウモリ『＃むかいの喋り方』",
-              "url": "https://twitter.com/mukai_syaberi\n",
+              "url": "https://hicbc.com/radio/mukai/\n",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "パンサー・向井は、名古屋熱田区出身。\n<br />中高生のころ、お笑い芸人のラジオにハマり、ＣＢＣラジオで放送していた、海砂利水魚（現くりぃむしちゅー）、ダイノジ、ブラックマヨネーズやココリコなどの番組を聴いて育ちました。\n<br />イケメン芸人ランキングの上位常連、人気芸人となった今でも、移動中は必ずといっていいほどラジオを聴いているヘビリス向井が「ラジオ愛」を持ってアナタに語ります。\n\n\n\n<br /><br />番組記事を読む→<a href=\"https://radichubu.jp/mukai/\"><u>こちら</u></a>\n<br />番組ツイッターは<a href=\"https://twitter.com/mukai_syaberi\"><u>こちら</u></a>\n<br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=501'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで",
+              "info": "パンサー・向井は、名古屋熱田区出身。\n<br />中高生のころ、お笑い芸人のラジオにハマり、ＣＢＣラジオで放送していた、海砂利水魚（現くりぃむしちゅー）、ダイノジ、ブラックマヨネーズやココリコなどの番組を聴いて育ちました。\n<br />イケメン芸人ランキングの上位常連、人気芸人となった今でも、移動中は必ずといっていいほどラジオを聴いているヘビリス向井が「ラジオ愛」を持ってアナタに語ります。\n\n\n<br /><br />番組記事を読む→<a href=\"https://radichubu.jp/mukai/\"><u>こちら</u></a>\n<br />番組ツイッターは<a href=\"https://twitter.com/mukai_syaberi\"><u>こちら</u></a>\n<br />番組へのおたよりは <a href='https://m2.hicbc.com/pc/files/mod-sslform/formWrite.php?id=501'><u>こちら</u></a>\n<br />FAXは 052-263-6800 まで\n\n",
               "pfm": "向井慧（パンサー）",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/ebf8555f-fde5-49f7-9245-031a51379bc9.png",
-              "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/7c5c3387-a63b-42d7-876c-a87f6703a042.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -517,7 +409,7 @@
               }
             },
             {
-              "-id": "9769124503",
+              "-id": "9770164861",
               "-ft": "20230329000000",
               "-to": "20230329010000",
               "-ftl": "2400",
@@ -539,7 +431,7 @@
               }
             },
             {
-              "-id": "9769510674",
+              "-id": "9770164868",
               "-ft": "20230329010000",
               "-to": "20230329030000",
               "-ftl": "2500",
@@ -553,12 +445,6 @@
               "desc": "今夜は星野源のオールナイトニッポン！",
               "pfm": "星野源",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CBC/53a22065-666b-4b9a-b4d6-e104c2917b58.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -567,7 +453,7 @@
               }
             },
             {
-              "-id": "9769510797",
+              "-id": "9770164877",
               "-ft": "20230329030000",
               "-to": "20230329050000",
               "-ftl": "2700",

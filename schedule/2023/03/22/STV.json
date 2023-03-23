@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1679509649",
+    "srvtime": "1679596078",
     "stations": {
       "station": {
         "-id": "STV",
@@ -63,7 +63,7 @@
               }
             },
             {
-              "-id": "9768026222",
+              "-id": "9770071267",
               "-ft": "20230322052000",
               "-to": "20230322053000",
               "-ftl": "0520",
@@ -251,7 +251,7 @@
               }
             },
             {
-              "-id": "9768026301",
+              "-id": "9770071295",
               "-ft": "20230322100000",
               "-to": "20230322130000",
               "-ftl": "1000",
@@ -422,7 +422,7 @@
               }
             },
             {
-              "-id": "9769677556",
+              "-id": "9770179684",
               "-ft": "20230322210500",
               "-to": "20230322220000",
               "-ftl": "2105",
@@ -436,6 +436,16 @@
               "info": "メール：win@stv.jp<br/>Twitterハッシュタグ：#田村みなみのリアルタイム　#stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "田村みなみ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/ba0eaefb-c860-47c4-89b0-0088196515f4.png",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -518,7 +528,7 @@
               }
             },
             {
-              "-id": "9768754687",
+              "-id": "9770071461",
               "-ft": "20230323010000",
               "-to": "20230323030000",
               "-ftl": "2500",
@@ -532,7 +542,21 @@
               "info": "Twitterハッシュタグ：#stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "乃木坂46",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/6a53b581-cc13-4554-9433-22273eca0b62.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "学生におすすめ"
+                  },
+                  {
+                    "name": "坂道グループ出演"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"

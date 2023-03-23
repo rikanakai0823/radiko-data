@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1679423255",
+    "srvtime": "1679596112",
     "stations": {
       "station": {
         "-id": "RAB",
@@ -10,17 +10,18 @@
           "date": "20230327",
           "prog": [
             {
-              "-id": "9768218368",
+              "-id": "9770219481",
               "-ft": "20230327050000",
               "-to": "20230327053000",
               "-ftl": "0500",
               "-tol": "0530",
               "-dur": "1800",
-              "title": "朝から　おとらじ!",
+              "title": "朝から　おとらじ！",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "大友寿郎",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a1829ea1-4b98-4675-8be1-41295a22aec5.png",
               "tag": {
                 "item": [
                   {
@@ -49,7 +50,7 @@
               }
             },
             {
-              "-id": "9768186415",
+              "-id": "9770196408",
               "-ft": "20230327053000",
               "-to": "20230327063000",
               "-ftl": "0530",
@@ -59,7 +60,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "生島ヒロシ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/5476behcdk.png",
               "tag": {
                 "item": {
                   "name": "生島ヒロシ"
@@ -83,7 +85,7 @@
               }
             },
             {
-              "-id": "9768186467",
+              "-id": "9770196416",
               "-ft": "20230327063000",
               "-to": "20230327063700",
               "-ftl": "0630",
@@ -93,7 +95,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "黒木瞳",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/400f6835-58ed-4aed-ae27-d3549acaf9ab.jpeg",
               "tag": {
                 "item": {
                   "name": "黒木瞳"
@@ -117,7 +120,7 @@
               }
             },
             {
-              "-id": "9768186486",
+              "-id": "9770196417",
               "-ft": "20230327063700",
               "-to": "20230327064500",
               "-ftl": "0637",
@@ -133,6 +136,16 @@
                   "name": "民謡"
                 }
               },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -141,17 +154,20 @@
               }
             },
             {
-              "-id": "9768214377",
+              "-id": "9770196422",
               "-ft": "20230327064500",
               "-to": "20230327070000",
               "-ftl": "0645",
               "-tol": "0700",
               "-dur": "900",
               "title": "歌のない歌謡曲",
+              "url": "http://www.rab.co.jp/radio/utanashi/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "desc": "毎朝、さわやかなインストゥルーメンタル曲にのせて、役立つ生活情報をお届けしています。誕生日の“おめでとう”コメントなど、メッセージもリクエスト曲とともに募集しています。",
+              "pfm": "筋野裕子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/blp1p6arc7.png",
               "tag": {
                 "item": [
                   {
@@ -180,17 +196,19 @@
               }
             },
             {
-              "-id": "9768218555",
+              "-id": "9770196428",
               "-ft": "20230327070000",
-              "-to": "20230327090000",
+              "-to": "20230327074500",
               "-ftl": "0700",
-              "-tol": "0900",
-              "-dur": "7200",
+              "-tol": "0745",
+              "-dur": "2700",
               "title": "朝ワイ！－ダッシュ",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "desc": "新鮮な情報をいち早く、全速力で！あなたの朝が変わります・・・メッセージ募集中！あなたの身の回りでおきた出来事、情報を番組までお知らせください。テーマは自由です。メッセージ：asaw@rab.co.jp",
+              "pfm": "境祐貴",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/x5csdremqu.png",
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -209,17 +227,87 @@
               }
             },
             {
-              "-id": "9768218769",
+              "-id": "9770219664",
+              "-ft": "20230327074500",
+              "-to": "20230327075000",
+              "-ftl": "0745",
+              "-tol": "0750",
+              "-dur": "300",
+              "title": "スズキ・ハッピーモーニング　羽田美智子のいってらっしゃい",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "羽田美智子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/c798e7f6-963d-4056-983a-b71fcaf531e3.jpeg",
+              "tag": {
+                "item": {
+                  "name": "羽田美智子"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9770219671",
+              "-ft": "20230327075000",
+              "-to": "20230327090000",
+              "-ftl": "0750",
+              "-tol": "0900",
+              "-dur": "4200",
+              "title": "朝ワイ！－ダッシュ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "新鮮な情報をいち早く、全速力で！あなたの朝が変わります・・・メッセージ募集中！あなたの身の回りでおきた出来事、情報を番組までお知らせください。テーマは自由です。メッセージ：asaw@rab.co.jp",
+              "pfm": "境祐貴",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/x5csdremqu.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9770196466",
               "-ft": "20230327090000",
               "-to": "20230327110000",
               "-ftl": "0900",
               "-tol": "1100",
               "-dur": "7200",
               "title": "今日も！あさぷり",
+              "url": "http://www.rab.co.jp/radio/asapuri/",
               "failed_record": "0",
               "ts_in_ng": "1",
               "ts_out_ng": "1",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "desc": "あなたの朝にラジオのサプリメントをどうぞ！県内の気になる情報をいち早くお届け！ ゲストは個性豊かなラジばたフレンドのみなさん！注目の本や映画の情報、お手軽なオリジナル料理のレシピなどを賑やかに紹介しています。<br/>テーマ「渋谷パパとママの春の園芸相談会！」",
+              "info": "<br /><br/><br /><br/><a href=\"mailto:asap@rab.co.jp\">メールはこちら</a><br/><br /><br/><br /><br/>twitterアカウント「<a href=\"https://twitter.com/twi_asapuri\">@twi_asapuri</a>」<br/><br /><br/>twitterハッシュタグ「<a href=\"https://twitter.com/search?q=%23あさぷり\">#あさぷり</a>」",
+              "pfm": "田村啓美",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/tlhpzj2emf.png",
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -238,7 +326,7 @@
               }
             },
             {
-              "-id": "9767800988",
+              "-id": "9770196487",
               "-ft": "20230327110000",
               "-to": "20230327110500",
               "-ftl": "1100",
@@ -267,32 +355,18 @@
               }
             },
             {
-              "-id": "9768218846",
+              "-id": "9770196490",
               "-ft": "20230327110500",
               "-to": "20230327111500",
               "-ftl": "1105",
               "-tol": "1115",
               "-dur": "600",
-              "title": "氷川きよし　限界突破ＲＡＤＩＯ",
+              "title": "大竹発見伝～ザ・ゴールデンヒストリー",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "pfm": "大竹まこと",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
-              "tag": {
-                "item": {
-                  "name": "氷川きよし"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -301,7 +375,7 @@
               }
             },
             {
-              "-id": "9767800996",
+              "-id": "9770196491",
               "-ft": "20230327111500",
               "-to": "20230327112000",
               "-ftl": "1115",
@@ -311,7 +385,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "杉原テツ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/d349c0be-721f-4dc0-bd06-e4a632a64dc7.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -330,7 +405,7 @@
               }
             },
             {
-              "-id": "9768214692",
+              "-id": "9770196493",
               "-ft": "20230327112000",
               "-to": "20230327112500",
               "-ftl": "1120",
@@ -360,7 +435,7 @@
               }
             },
             {
-              "-id": "9768900112",
+              "-id": "9770196494",
               "-ft": "20230327112500",
               "-to": "20230327113500",
               "-ftl": "1125",
@@ -370,6 +445,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "pfm": "河村通夫",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
               "tag": {
                 "item": {
@@ -394,7 +470,7 @@
               }
             },
             {
-              "-id": "9767801054",
+              "-id": "9770196498",
               "-ft": "20230327113500",
               "-to": "20230327114500",
               "-ftl": "1135",
@@ -404,7 +480,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "八神純子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/0bd57ce7-68c7-4bb9-a473-76f881eb28a3.jpeg",
               "tag": {
                 "item": {
                   "name": "八神純子"
@@ -428,7 +505,7 @@
               }
             },
             {
-              "-id": "9768247115",
+              "-id": "9770196499",
               "-ft": "20230327114500",
               "-to": "20230327115500",
               "-ftl": "1145",
@@ -438,7 +515,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "森野熊八",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/.pj6x8sztl.jpg",
               "tag": {
                 "item": [
                   {
@@ -467,17 +545,21 @@
               }
             },
             {
-              "-id": "9768186765",
+              "-id": "9770196501",
               "-ft": "20230327115500",
-              "-to": "20230327160000",
+              "-to": "20230327140000",
               "-ftl": "1155",
-              "-tol": "1600",
-              "-dur": "14700",
-              "title": "ＧＯ！ＧＯ！らじ丸",
+              "-tol": "1400",
+              "-dur": "7500",
+              "title": "ＧＯ！ＧＯ！らじ丸 (1)",
+              "url": "http://www.rab.co.jp/radio/rajimaru/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "desc": "青森県のしゃべりの達人が集結しました！「GO！GO！らじ丸」<br/>週の初めからスタートダッシュ！月曜日は、身近な話題を軽いノリで取り上げます。夏目浩光と筋野裕子のRABコンビがリスナーと共に情報発信するライトプログラムです。あなたの伝えたい情報をお待ちしています！<br/><br/><br/>「青森県母子寡婦福祉連合会について聞く・生活支援員のやりがいとは？」",
+              "info": "<br/><br /><br/><br /><br/><a href=\"mailto:raji@rab.co.jp\">メールはこちら</a><br/><br /><br/><br /><br/>twitterアカウント「<a href=\"https://twitter.com/tw_rajimaru\">@tw_rajimaru</a>」<br/><br /><br/>twitterハッシュタグ「<a href=\"https://twitter.com/search?q=%23らじ丸\">#らじ丸</a>」<br/><br />",
+              "pfm": "夏目浩光、筋野裕子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/ou44ulintr.png",
               "tag": {
                 "item": [
                   {
@@ -506,7 +588,50 @@
               }
             },
             {
-              "-id": "9767801634",
+              "-id": "9770196502",
+              "-ft": "20230327140000",
+              "-to": "20230327160000",
+              "-ftl": "1400",
+              "-tol": "1600",
+              "-dur": "7200",
+              "title": "ＧＯ！ＧＯ！らじ丸 (2)",
+              "url": "http://www.rab.co.jp/radio/rajimaru/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "青森県のしゃべりの達人が集結しました！「GO！GO！らじ丸」<br/>週の初めからスタートダッシュ！月曜日は、身近な話題を軽いノリで取り上げます。夏目浩光と筋野裕子のRABコンビがリスナーと共に情報発信するライトプログラムです。あなたの伝えたい情報をお待ちしています！<br/><br/><br/>「青森県母子寡婦福祉連合会について聞く・生活支援員のやりがいとは？」",
+              "info": "<br/><br /><br/><br /><br/><a href=\"mailto:raji@rab.co.jp\">メールはこちら</a><br/><br /><br/><br /><br/>twitterアカウント「<a href=\"https://twitter.com/tw_rajimaru\">@tw_rajimaru</a>」<br/><br /><br/>twitterハッシュタグ「<a href=\"https://twitter.com/search?q=%23らじ丸\">#らじ丸</a>」<br/><br />",
+              "pfm": "夏目浩光、筋野裕子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/ou44ulintr.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "夏目浩光"
+                  },
+                  {
+                    "name": "筋野裕子"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9770196557",
               "-ft": "20230327160000",
               "-to": "20230327160500",
               "-ftl": "1600",
@@ -535,7 +660,7 @@
               }
             },
             {
-              "-id": "9767801637",
+              "-id": "9770196560",
               "-ft": "20230327160500",
               "-to": "20230327161000",
               "-ftl": "1605",
@@ -564,17 +689,20 @@
               }
             },
             {
-              "-id": "9768187001",
+              "-id": "9770196561",
               "-ft": "20230327161000",
               "-to": "20230327162500",
               "-ftl": "1610",
               "-tol": "1625",
               "-dur": "900",
               "title": "魅惑のヒット　パレード",
+              "url": "http://www.rab.co.jp/radio/miwaku/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "desc": "演歌・フォーク・J-POP・アイドルなど、ちょっと懐かしい「歌謡曲」をお送りします。また、週変わりで食材を決め、お酒に合う「おつまみレシピ」を募集。",
+              "pfm": "伊東幸子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/cin17wjznr.png",
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -593,7 +721,7 @@
               }
             },
             {
-              "-id": "9768187010",
+              "-id": "9770196563",
               "-ft": "20230327162500",
               "-to": "20230327163500",
               "-ftl": "1625",
@@ -603,7 +731,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/e17940be-8ec1-4869-adcb-456839855274.png",
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -622,7 +750,7 @@
               }
             },
             {
-              "-id": "9768219223",
+              "-id": "9770196566",
               "-ft": "20230327163500",
               "-to": "20230327164500",
               "-ftl": "1635",
@@ -632,7 +760,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/4e4c4d2a-642d-46b5-9e1e-bc5bd082755e.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -651,7 +779,7 @@
               }
             },
             {
-              "-id": "9768219236",
+              "-id": "9770196569",
               "-ft": "20230327164500",
               "-to": "20230327165000",
               "-ftl": "1645",
@@ -670,7 +798,7 @@
               }
             },
             {
-              "-id": "9768219253",
+              "-id": "9770196572",
               "-ft": "20230327165000",
               "-to": "20230327170000",
               "-ftl": "1650",
@@ -680,7 +808,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "桂宮治",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/5ac90eca-d1f8-420b-ab7c-63acdb95bb03.png",
               "tag": {
                 "item": {
                   "name": "桂宮治"
@@ -704,7 +833,7 @@
               }
             },
             {
-              "-id": "9768187082",
+              "-id": "9770196578",
               "-ft": "20230327170000",
               "-to": "20230327171500",
               "-ftl": "1700",
@@ -733,7 +862,7 @@
               }
             },
             {
-              "-id": "9767801803",
+              "-id": "9770196581",
               "-ft": "20230327171500",
               "-to": "20230327172500",
               "-ftl": "1715",
@@ -762,7 +891,7 @@
               }
             },
             {
-              "-id": "9768247602",
+              "-id": "9770196583",
               "-ft": "20230327172500",
               "-to": "20230327173000",
               "-ftl": "1725",
@@ -772,7 +901,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/ac1282ee-865c-4c39-a205-0d547d9784ee.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -791,7 +920,7 @@
               }
             },
             {
-              "-id": "9768215282",
+              "-id": "9770196587",
               "-ft": "20230327173000",
               "-to": "20230327174500",
               "-ftl": "1730",
@@ -820,17 +949,20 @@
               }
             },
             {
-              "-id": "9768219344",
+              "-id": "9770196591",
               "-ft": "20230327174500",
               "-to": "20230327180000",
               "-ftl": "1745",
               "-tol": "1800",
               "-dur": "900",
               "title": "あこもこジョッキー",
+              "url": "http://www.rab.co.jp/radio/akomoko/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "desc": "平日夕方のひととき、ふっと笑える津軽弁ワールドでお楽しみいただきます。“あこもこ”は津軽弁では悪口のことですが“話題を楽しくほじくる精神”と捉え番組を制作します。",
+              "pfm": "青山良平、橋本莉奈",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/90020425-d43f-4f54-9506-f910d4c6b93e.png",
               "tag": {
                 "item": {
                   "name": "津軽弁"
@@ -854,7 +986,7 @@
               }
             },
             {
-              "-id": "9767801935",
+              "-id": "9770196599",
               "-ft": "20230327180000",
               "-to": "20230327181000",
               "-ftl": "1800",
@@ -883,7 +1015,7 @@
               }
             },
             {
-              "-id": "9768247676",
+              "-id": "9770196602",
               "-ft": "20230327181000",
               "-to": "20230327182000",
               "-ftl": "1810",
@@ -893,6 +1025,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "pfm": "森章二",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
               "tag": {
                 "item": {
@@ -917,7 +1050,7 @@
               }
             },
             {
-              "-id": "9768187136",
+              "-id": "9770196603",
               "-ft": "20230327182000",
               "-to": "20230327182500",
               "-ftl": "1820",
@@ -951,7 +1084,7 @@
               }
             },
             {
-              "-id": "9768247679",
+              "-id": "9770196604",
               "-ft": "20230327182500",
               "-to": "20230327184500",
               "-ftl": "1825",
@@ -970,27 +1103,17 @@
               }
             },
             {
-              "-id": "9768219448",
+              "-id": "9770196608",
               "-ft": "20230327184500",
               "-to": "20230327190000",
               "-ftl": "1845",
               "-tol": "1900",
               "-dur": "900",
-              "title": "ココロのオンガク　～ｍｕｓｉｃ　ｆｏｒ　ｙｏｕ～",
+              "title": "Ｃｈｏｏｓｅ　Ｕｐ！ミュージック",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -999,7 +1122,7 @@
               }
             },
             {
-              "-id": "9768215450",
+              "-id": "9770196615",
               "-ft": "20230327190000",
               "-to": "20230327203000",
               "-ftl": "1900",
@@ -1009,7 +1132,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "伊奈かっぺい",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/un9er2j2np.png",
               "tag": {
                 "item": [
                   {
@@ -1038,7 +1162,7 @@
               }
             },
             {
-              "-id": "9767802226",
+              "-id": "9770196634",
               "-ft": "20230327203000",
               "-to": "20230327210000",
               "-ftl": "2030",
@@ -1048,7 +1172,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "加藤浩次、山口一郎",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/88c18e6e-7d0d-4411-bd92-b78969fc704a.jpeg",
               "tag": {
                 "item": [
                   {
@@ -1077,7 +1202,7 @@
               }
             },
             {
-              "-id": "9768219633",
+              "-id": "9770196640",
               "-ft": "20230327210000",
               "-to": "20230327213000",
               "-ftl": "2100",
@@ -1087,7 +1212,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "佐藤竹善",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/51e0f384-e54d-43e5-80ba-ed5ccb5e22c8.jpeg",
               "tag": {
                 "item": {
                   "name": "佐藤竹善"
@@ -1111,7 +1237,7 @@
               }
             },
             {
-              "-id": "9767802362",
+              "-id": "9770196647",
               "-ft": "20230327213000",
               "-to": "20230327214500",
               "-ftl": "2130",
@@ -1121,7 +1247,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "松本英子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/dbabee8f-bd20-4cc5-a941-12619e721aba.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -1140,7 +1267,7 @@
               }
             },
             {
-              "-id": "9768219668",
+              "-id": "9770196648",
               "-ft": "20230327214500",
               "-to": "20230327220000",
               "-ftl": "2145",
@@ -1174,27 +1301,17 @@
               }
             },
             {
-              "-id": "9768880344",
+              "-id": "9770196657",
               "-ft": "20230327220000",
               "-to": "20230328000000",
               "-ftl": "2200",
               "-tol": "2400",
               "-dur": "7200",
-              "title": "オールナイトニッポンＭＵＳＩＣ１０",
+              "title": "配信休止",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1203,7 +1320,7 @@
               }
             },
             {
-              "-id": "9768880402",
+              "-id": "9770196679",
               "-ft": "20230328000000",
               "-to": "20230328010000",
               "-ftl": "2400",
@@ -1213,7 +1330,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "オテンキのり",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/xgi4sksnuc.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1222,7 +1340,7 @@
               }
             },
             {
-              "-id": "9768900948",
+              "-id": "9770196686",
               "-ft": "20230328010000",
               "-to": "20230328030000",
               "-ftl": "2500",
@@ -1232,7 +1350,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "Ｃｒｅｅｐｙ　Ｎｕｔｓ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/c87d6aa5-f0cd-4e67-b097-7cd7602a44e6.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -1251,7 +1370,7 @@
               }
             },
             {
-              "-id": "9768935103",
+              "-id": "9770196696",
               "-ft": "20230328030000",
               "-to": "20230328043000",
               "-ftl": "2700",
@@ -1261,7 +1380,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "フワちゃん",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/f04e6d95-3eef-43d5-b4f0-6ab4265fd413.jpeg",
               "tag": {
                 "item": {
                   "name": "フワちゃん"
@@ -1285,7 +1405,7 @@
               }
             },
             {
-              "-id": "9768880477",
+              "-id": "9770196703",
               "-ft": "20230328043000",
               "-to": "20230328050000",
               "-ftl": "2830",
@@ -1295,7 +1415,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "上柳昌彦",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/ce27cd03-f50b-4710-8dd8-9bbde0b03bf3.jpeg",
               "tag": {
                 "item": {
                   "name": "上柳昌彦"

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1679509685",
+    "srvtime": "1679596117",
     "stations": {
       "station": {
         "-id": "JOAK-FM",
@@ -394,12 +394,32 @@
               }
             },
             {
-              "-id": "9768601209",
+              "-id": "9770272215",
               "-ft": "20230328115000",
-              "-to": "20230328120000",
+              "-to": "20230328115500",
               "-ftl": "1150",
+              "-tol": "1155",
+              "-dur": "300",
+              "title": "天気予報",
+              "url": "https://www.nhk.or.jp/radionews/",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOAK-FM/kvvc6375hd.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9770302351",
+              "-ft": "20230328115500",
+              "-to": "20230328120000",
+              "-ftl": "1155",
               "-tol": "1200",
-              "-dur": "600",
+              "-dur": "300",
               "title": "天気予報・交通情報",
               "url": "https://www.nhk.or.jp/radionews/",
               "failed_record": "0",
@@ -730,17 +750,19 @@
               }
             },
             {
-              "-id": "9768936051",
+              "-id": "9770196922",
               "-ft": "20230328230000",
               "-to": "20230328235000",
               "-ftl": "2300",
               "-tol": "2350",
               "-dur": "3000",
-              "title": "ＧＲｅｅｅｅＮ　ＨＩＤＥの　ミドリの２重スリット",
+              "title": "ＧＲｅｅｅｅＮ　ＨＩＤＥの　ミドリの２重スリット（９６）",
               "url": "https://www4.nhk.or.jp/midori-slit/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
+              "info": "卒業・旅立ちシーズンのいま届ける。ＨＩＤＥ厳選！最高の「わしの旅立ちソング・プレイリスト」を紹介！",
+              "pfm": "ＨＩＤＥ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JOAK-FM/p2yprkpzzj.jpg",
               "metas": {
                 "meta": {
@@ -978,7 +1000,7 @@
               }
             },
             {
-              "-id": "9769510842",
+              "-id": "9770066768",
               "-ft": "20230329040500",
               "-to": "20230329050000",
               "-ftl": "2805",
