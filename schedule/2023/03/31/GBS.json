@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1679768875",
+    "srvtime": "1679855253",
     "stations": {
       "station": {
         "-id": "GBS",
@@ -784,18 +784,40 @@
               }
             },
             {
-              "-id": "9770883888",
+              "-id": "9772201409",
               "-ft": "20230331210000",
               "-to": "20230331213000",
               "-ftl": "2100",
               "-tol": "2130",
               "-dur": "1800",
-              "title": "ミュージックスペース",
+              "title": "水森英夫のチップイン歌謡曲",
+              "url": "http://kayoukai.bizon.jp/chipin/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "（※ナイター延長のとき休止の場合あり）　",
+              "desc": "作曲家・水森英夫がパーソナリティーを務める。時代、世代を超えて歌い継がれる曲、最新のヒット曲や期待曲などジャンルを問わずいい歌とトークで綴る３０分。",
+              "pfm": "水森英夫",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/GBS/8da6a2d4-b5c9-4cf7-8339-9af7dfa2282c.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "水森英夫"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
