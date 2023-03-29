@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1680028046",
+    "srvtime": "1680114458",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -10,7 +10,7 @@
           "date": "20230330",
           "prog": [
             {
-              "-id": "9770193327",
+              "-id": "9774234579",
               "-ft": "20230330050000",
               "-to": "20230330063000",
               "-ftl": "0500",
@@ -61,7 +61,7 @@
               }
             },
             {
-              "-id": "9773383287",
+              "-id": "9774234713",
               "-ft": "20230330063000",
               "-to": "20230330090000",
               "-ftl": "0630",
@@ -75,7 +75,27 @@
               "info": "メールアドレス：<a href=\"mailto:oha@abc1008.com\">oha@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%8A%E3%81%AF%E3%83%91%E3%82%BD\">#おはパソ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/ohapaso\">@ohapaso</a>」<BR><BR><BR>",
               "pfm": "小縣裕介／いがらしあみ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/7b3c5a5d-1a4e-4d36-a278-af92d20de78b.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ABCラジオ"
+                  },
+                  {
+                    "name": "おはパソ"
+                  },
+                  {
+                    "name": "小縣裕介"
+                  },
+                  {
+                    "name": "いがらしあみ"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -95,7 +115,7 @@
               }
             },
             {
-              "-id": "9770134359",
+              "-id": "9774234897",
               "-ft": "20230330090000",
               "-to": "20230330120000",
               "-ftl": "0900",
@@ -143,7 +163,7 @@
               }
             },
             {
-              "-id": "9770165676",
+              "-id": "9774235143",
               "-ft": "20230330120000",
               "-to": "20230330150000",
               "-ftl": "1200",
@@ -157,6 +177,21 @@
               "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_masuda_takeda.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:rh@abc1008.com\">rh@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%B8%E3%83%8F%E3%83%B3\">#ラジハン</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/mmrh1008933\">@mmrh1008933</a>」<BR><BR><BR>",
               "pfm": "増田英彦（ますだおかだ）／武田和歌子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/bb7ffdc8-72ed-43cf-ad14-d2f056262fdb.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ABCラジオ"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -171,7 +206,7 @@
               }
             },
             {
-              "-id": "9770194281",
+              "-id": "9774235425",
               "-ft": "20230330150000",
               "-to": "20230330174500",
               "-ftl": "1500",
@@ -191,10 +226,10 @@
                     "name": "浦川泰幸"
                   },
                   {
-                    "name": "塩田えみ"
+                    "name": "角田龍平"
                   },
                   {
-                    "name": "中西正男"
+                    "name": "みながわ"
                   }
                 ]
               },
@@ -222,7 +257,7 @@
               }
             },
             {
-              "-id": "9769782033",
+              "-id": "9774174098",
               "-ft": "20230330174500",
               "-to": "20230330175500",
               "-ftl": "1745",
@@ -234,11 +269,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -247,7 +277,7 @@
               }
             },
             {
-              "-id": "9769782044",
+              "-id": "9774174122",
               "-ft": "20230330175500",
               "-to": "20230330180000",
               "-ftl": "1755",
@@ -259,11 +289,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -272,7 +297,7 @@
               }
             },
             {
-              "-id": "9770194542",
+              "-id": "9774235708",
               "-ft": "20230330180000",
               "-to": "20230330190000",
               "-ftl": "1800",
@@ -320,7 +345,7 @@
               }
             },
             {
-              "-id": "9770194641",
+              "-id": "9774235792",
               "-ft": "20230330190000",
               "-to": "20230330210000",
               "-ftl": "1900",
@@ -365,7 +390,7 @@
               }
             },
             {
-              "-id": "9769782152",
+              "-id": "9774174409",
               "-ft": "20230330210000",
               "-to": "20230330210500",
               "-ftl": "2100",
@@ -377,11 +402,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -390,7 +410,7 @@
               }
             },
             {
-              "-id": "9773415885",
+              "-id": "9774235970",
               "-ft": "20230330210500",
               "-to": "20230330215000",
               "-ftl": "2105",
@@ -428,7 +448,7 @@
               }
             },
             {
-              "-id": "9770134785",
+              "-id": "9774235999",
               "-ft": "20230330215000",
               "-to": "20230330220000",
               "-ftl": "2150",
@@ -464,7 +484,7 @@
               }
             },
             {
-              "-id": "9770166279",
+              "-id": "9774236079",
               "-ft": "20230330220000",
               "-to": "20230331003000",
               "-ftl": "2200",
@@ -478,6 +498,21 @@
               "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_masuda_saor.jpg\" width=\"100\"><BR><BR><img src=\"https://www.abc1008.com/program/personality/photo/photo_rover.jpg\" width=\"100\"><BR><BR><BR>22時台<BR>▼リリース前の最新曲やバズってるあの曲！<BR>今夜聴くべき楽曲をお届け「ミューパラプレイリスト」<BR>23時台<BR>▼ミニゲームで曜日ごとに対決！<BR>「曜日横断！ミューパラチャンピオンシップ」<BR>24時台<BR>▼てっぺんリクエスト！<BR>　明日のアナタの予定とリクエスト曲を送ってください！<BR><BR>メールアドレス： mp@abc1008.com<BR>twitter 、TikTok、Instagram はぜんぶ「abcmp1008933」<BR>ハッシュタグは「# ミューパラ」<BR><BR><BR>",
               "pfm": "増田紗織／Rover （ベリーグッドマン）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/3fdf2ee6-ca57-4aee-9dd8-05135c12cede.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ABCラジオ"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -486,7 +521,7 @@
               }
             },
             {
-              "-id": "9771572188",
+              "-id": "9774236206",
               "-ft": "20230331003000",
               "-to": "20230331010000",
               "-ftl": "2430",
@@ -514,7 +549,7 @@
               }
             },
             {
-              "-id": "9770892324",
+              "-id": "9774236291",
               "-ft": "20230331010000",
               "-to": "20230331013000",
               "-ftl": "2500",
@@ -557,7 +592,7 @@
               }
             },
             {
-              "-id": "9770883050",
+              "-id": "9774236300",
               "-ft": "20230331013000",
               "-to": "20230331020000",
               "-ftl": "2530",
@@ -585,7 +620,7 @@
               }
             },
             {
-              "-id": "9770892364",
+              "-id": "9774174794",
               "-ft": "20230331020000",
               "-to": "20230331030000",
               "-ftl": "2600",
@@ -598,16 +633,6 @@
               "ts_out_ng": "0",
               "info": "メールアドレス：<a href=\"mailto:r933@abc1008.com\">r933@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23r933\">#r933</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abcr933\">@abcr933</a>」<BR><BR><BR>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/ec6e8dad-0155-4f35-9ce2-9b06dfd440ae.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "r933"
-                  },
-                  {
-                    "name": "ABCラジオ"
-                  }
-                ]
-              },
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -628,7 +653,7 @@
               }
             },
             {
-              "-id": "9770892397",
+              "-id": "9774174812",
               "-ft": "20230331030000",
               "-to": "20230331040000",
               "-ftl": "2700",
@@ -641,16 +666,6 @@
               "ts_out_ng": "0",
               "info": "メールアドレス：<a href=\"mailto:r933@abc1008.com\">r933@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23r933\">#r933</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abcr933\">@abcr933</a>」<BR><BR><BR>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/ec6e8dad-0155-4f35-9ce2-9b06dfd440ae.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "r933"
-                  },
-                  {
-                    "name": "ABCラジオ"
-                  }
-                ]
-              },
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -671,7 +686,7 @@
               }
             },
             {
-              "-id": "9770892458",
+              "-id": "9774174857",
               "-ft": "20230331040000",
               "-to": "20230331041500",
               "-ftl": "2800",
@@ -684,16 +699,6 @@
               "ts_out_ng": "0",
               "info": "メールアドレス：<a href=\"mailto:r933@abc1008.com\">r933@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23r933\">#r933</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abcr933\">@abcr933</a>」<BR><BR><BR>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/ec6e8dad-0155-4f35-9ce2-9b06dfd440ae.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "r933"
-                  },
-                  {
-                    "name": "ABCラジオ"
-                  }
-                ]
-              },
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -714,7 +719,7 @@
               }
             },
             {
-              "-id": "9770878288",
+              "-id": "9774174860",
               "-ft": "20230331041500",
               "-to": "20230331043500",
               "-ftl": "2815",
@@ -726,11 +731,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/zo0jghnv1b.jpg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -739,7 +739,7 @@
               }
             },
             {
-              "-id": "9770455421",
+              "-id": "9774174867",
               "-ft": "20230331043500",
               "-to": "20230331045000",
               "-ftl": "2835",
@@ -751,11 +751,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -770,7 +765,7 @@
               }
             },
             {
-              "-id": "9770455425",
+              "-id": "9774174869",
               "-ft": "20230331045000",
               "-to": "20230331050000",
               "-ftl": "2850",
@@ -782,11 +777,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

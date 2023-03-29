@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1679941615",
+    "srvtime": "1680114450",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -10,7 +10,7 @@
           "date": "20230328",
           "prog": [
             {
-              "-id": "9772758389",
+              "-id": "9774169308",
               "-ft": "20230328050000",
               "-to": "20230328063000",
               "-ftl": "0500",
@@ -37,6 +37,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -51,7 +61,7 @@
               }
             },
             {
-              "-id": "9772948753",
+              "-id": "9774169442",
               "-ft": "20230328063000",
               "-to": "20230328090000",
               "-ftl": "0630",
@@ -105,7 +115,7 @@
               }
             },
             {
-              "-id": "9772758735",
+              "-id": "9774169622",
               "-ft": "20230328090000",
               "-to": "20230328120000",
               "-ftl": "0900",
@@ -135,6 +145,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -143,7 +163,7 @@
               }
             },
             {
-              "-id": "9768904212",
+              "-id": "9774169865",
               "-ft": "20230328120000",
               "-to": "20230328150000",
               "-ftl": "1200",
@@ -197,7 +217,7 @@
               }
             },
             {
-              "-id": "9772759262",
+              "-id": "9774471830",
               "-ft": "20230328150000",
               "-to": "20230328174500",
               "-ftl": "1500",
@@ -217,12 +237,19 @@
                     "name": "浦川泰幸"
                   },
                   {
-                    "name": "塩田えみ"
-                  },
-                  {
-                    "name": "中西正男"
+                    "name": "ナジャ・グランディーバ"
                   }
                 ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
               },
               "metas": {
                 "meta": [
@@ -238,7 +265,7 @@
               }
             },
             {
-              "-id": "9768902005",
+              "-id": "9774170368",
               "-ft": "20230328174500",
               "-to": "20230328175500",
               "-ftl": "1745",
@@ -251,11 +278,6 @@
               "ts_out_ng": "0",
               "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_kuwabara.jpg\" width=\"100\"><BR><BR><BR>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/8fb8c170-14c4-4997-95bd-5580b5d557c8.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -274,7 +296,7 @@
               }
             },
             {
-              "-id": "9768478900",
+              "-id": "9774170392",
               "-ft": "20230328175500",
               "-to": "20230328180000",
               "-ftl": "1755",
@@ -286,11 +308,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -299,7 +316,7 @@
               }
             },
             {
-              "-id": "9768935889",
+              "-id": "9774170420",
               "-ft": "20230328180000",
               "-to": "20230328190000",
               "-ftl": "1800",
@@ -313,22 +330,6 @@
               "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_takano_jun.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR><BR>",
               "pfm": "高野純一／関本賢太郎",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/6e242003-9d34-4bc8-95d2-af1e096b6e61.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ラジオで虎バン"
-                  },
-                  {
-                    "name": "虎バン"
-                  },
-                  {
-                    "name": "#ABCラジオ"
-                  },
-                  {
-                    "name": "阪神タイガース"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C013",
@@ -347,7 +348,7 @@
               }
             },
             {
-              "-id": "9772949787",
+              "-id": "9774170505",
               "-ft": "20230328190000",
               "-to": "20230328210000",
               "-ftl": "1900",
@@ -361,19 +362,6 @@
               "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_ito.jpg\" width=\"100\"><img src=\"https://www.abc1008.com/program/personality/photo/photo_souma.jpg\" width=\"100\"><BR><BR>曽麻綾ラスト！日本に慣れたかな／<BR><BR><BR>メールアドレス：<a href=\"mailto:note@abc1008.com\">note@abc1008.com</a><BR><BR><BR>",
               "pfm": "伊藤史隆／曽麻綾",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/a1618117-41db-49c1-9b19-342f5a8a1aae.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ラジオノオト"
-                  },
-                  {
-                    "name": "伊藤史隆"
-                  },
-                  {
-                    "name": "#ABCラジオ"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -392,7 +380,7 @@
               }
             },
             {
-              "-id": "9768479277",
+              "-id": "9774170674",
               "-ft": "20230328210000",
               "-to": "20230328210500",
               "-ftl": "2100",
@@ -404,11 +392,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -417,7 +400,7 @@
               }
             },
             {
-              "-id": "9768936006",
+              "-id": "9774170682",
               "-ft": "20230328210500",
               "-to": "20230328215000",
               "-ftl": "2105",
@@ -455,7 +438,7 @@
               }
             },
             {
-              "-id": "9768902261",
+              "-id": "9774170709",
               "-ft": "20230328215000",
               "-to": "20230328220000",
               "-ftl": "2150",
@@ -469,11 +452,6 @@
               "info": "アスリートを中心に、スポーツに関わっている人物の感動の物語をご紹介しています。<BR>華やかな舞台の裏側にある挫折や苦悩。それを乗り越えるための原動力とは。記録や記憶に残る伝説の裏側にある、もうひとつの「伝説」をお楽しみください。<BR><BR><BR>",
               "pfm": "滝本沙奈",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/4xhcfovoph.jpg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C013",
@@ -492,7 +470,7 @@
               }
             },
             {
-              "-id": "9772790146",
+              "-id": "9774170788",
               "-ft": "20230328220000",
               "-to": "20230329003000",
               "-ftl": "2200",
@@ -506,16 +484,6 @@
               "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_houjou_e.jpg\" width=\"100\"><BR><BR>11時台オチュニズム生登場▼コボレからメッセージ▼トリコ中嶋イッキュウ＆北條アナ<BR><BR><img src=\"https://www.abc1008.com/program/personality/photo/photo_nakajima.jpg\" width=\"100\"><BR><BR><BR><BR><BR>22時台<BR>▼リリース前の最新曲やバズってるあの曲！<BR>今夜聴くべき楽曲をお届け「ミューパラプレイリスト」<BR>23時台<BR>▼ミニゲームで曜日ごとに対決！<BR>「曜日横断！ミューパラチャンピオンシップ」<BR>24時台<BR>▼てっぺんリクエスト！<BR>明日のアナタの予定とリクエスト曲を送ってください！<BR><BR>メールアドレス： mp@abc1008.com<BR>twitter 、TikTok、Instagram はぜんぶ「abcmp1008933」<BR>ハッシュタグは「# ミューパラ」<BR>  <BR><BR><BR>",
               "pfm": "北條瑛祐／中嶋イッキュウ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/4ce7d222-4faa-48b8-9b1c-61891e0d43d5.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ミューパラ"
-                  },
-                  {
-                    "name": "ABCラジオ"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -534,7 +502,7 @@
               }
             },
             {
-              "-id": "9769520068",
+              "-id": "9774170917",
               "-ft": "20230329003000",
               "-to": "20230329010000",
               "-ftl": "2430",
@@ -548,16 +516,6 @@
               "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_not-equal-me_3.jpg\" width=\"100\"><BR><BR>≠ME全員参加！ＡＢＣラジオで本格トークバラエティに挑戦！<BR>関西初のレギュラー番組がスタート！<BR><BR><BR>番組Twitter アカウント：<a href=\"https://twitter.com/noi_me_station\">@noi_me_station</a><BR>ハッシュタグ「# ノイステ」を付けてツイートしてね！<BR><BR>ABC ラジオ公式Twitter アカウント：<a href=\"https://twitter.com/abc1008khz\">@abc1008khz</a><BR>ハッシュタグ「#ABCラジオ」を付けてツイートしてね！<BR><BR>メールアドレス：<a href=\"mailto:me@abc1008.com\">me@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%8E%E3%82%A4%E3%82%B9%E3%83%86\">#ノイステ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/noi_me_station\">@noi_me_station</a>」<BR><BR><BR>",
               "pfm": "≠ME（ノットイコールミー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/d503955c-4bed-4928-8f1a-bc857be77c1b.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ノイミー"
-                  },
-                  {
-                    "name": "ABCラジオ"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C008",
@@ -582,7 +540,7 @@
               }
             },
             {
-              "-id": "9769510669",
+              "-id": "9774171000",
               "-ft": "20230329010000",
               "-to": "20230329020000",
               "-ftl": "2500",
@@ -596,19 +554,6 @@
               "info": "なにわ男子がパーソナリティを務める、冠レギュラーラジオ番組『  なにわ男子の初心ラジ！  』  は、“初心”を忘れないでいよう！という想いを込めて、デビューシングルの曲名からも連想されるタイトルになっています。明るい笑顔がトレードマークの彼らが、リスナーを笑顔にする楽しい時間をお届けします。<BR><BR>メールアドレス：<a href=\"mailto:naniwa@1242.com\">naniwa@1242.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%88%9D%E5%BF%83%E3%83%A9%E3%82%B8\">#初心ラジ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/naniwadanshiann\">@naniwadanshiann</a>」<BR><BR><BR>",
               "pfm": "なにわ男子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/4d5eb15b-8f0f-48d1-b4ef-223aad206591.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "なにわ男子"
-                  },
-                  {
-                    "name": "初心ラジ"
-                  },
-                  {
-                    "name": "ABCラジオ"
-                  }
-                ]
-              },
               "metas": {
                 "meta": [
                   {
@@ -623,7 +568,7 @@
               }
             },
             {
-              "-id": "9769510748",
+              "-id": "9774171053",
               "-ft": "20230329020000",
               "-to": "20230329030000",
               "-ftl": "2600",
@@ -636,16 +581,6 @@
               "ts_out_ng": "0",
               "info": "～昨日から今日、今日から明日へのクロスロード～<BR><BR>深夜から早朝にかけてノンストップで音楽をお届けしている番組です。<BR><BR><BR>メールアドレス：<a href=\"mailto:r933@abc1008.com\">r933@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23r933\">#r933</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abcr933\">@abcr933</a>」<BR><BR><BR>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/ec6e8dad-0155-4f35-9ce2-9b06dfd440ae.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "r933"
-                  },
-                  {
-                    "name": "ABCラジオ"
-                  }
-                ]
-              },
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -666,7 +601,7 @@
               }
             },
             {
-              "-id": "9769510816",
+              "-id": "9774171073",
               "-ft": "20230329030000",
               "-to": "20230329040000",
               "-ftl": "2700",
@@ -679,16 +614,6 @@
               "ts_out_ng": "0",
               "info": "～昨日から今日、今日から明日へのクロスロード～<BR><BR>深夜から早朝にかけてノンストップで音楽をお届けしている番組です。<BR><BR><BR>メールアドレス：<a href=\"mailto:r933@abc1008.com\">r933@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23r933\">#r933</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abcr933\">@abcr933</a>」<BR><BR><BR>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/ec6e8dad-0155-4f35-9ce2-9b06dfd440ae.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "r933"
-                  },
-                  {
-                    "name": "ABCラジオ"
-                  }
-                ]
-              },
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -709,7 +634,7 @@
               }
             },
             {
-              "-id": "9769510834",
+              "-id": "9774171116",
               "-ft": "20230329040000",
               "-to": "20230329041500",
               "-ftl": "2800",
@@ -722,16 +647,6 @@
               "ts_out_ng": "0",
               "info": "～昨日から今日、今日から明日へのクロスロード～<BR><BR>深夜から早朝にかけてノンストップで音楽をお届けしている番組です。<BR><BR><BR>メールアドレス：<a href=\"mailto:r933@abc1008.com\">r933@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23r933\">#r933</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abcr933\">@abcr933</a>」<BR><BR><BR>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/ec6e8dad-0155-4f35-9ce2-9b06dfd440ae.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "r933"
-                  },
-                  {
-                    "name": "ABCラジオ"
-                  }
-                ]
-              },
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -752,7 +667,7 @@
               }
             },
             {
-              "-id": "9769510846",
+              "-id": "9774171119",
               "-ft": "20230329041500",
               "-to": "20230329043500",
               "-ftl": "2815",
@@ -765,11 +680,6 @@
               "ts_out_ng": "0",
               "pfm": "南かおり",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/zo0jghnv1b.jpg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -778,7 +688,7 @@
               }
             },
             {
-              "-id": "9769124809",
+              "-id": "9774171126",
               "-ft": "20230329043500",
               "-to": "20230329044500",
               "-ftl": "2835",
@@ -798,7 +708,7 @@
               }
             },
             {
-              "-id": "9769124814",
+              "-id": "9774171128",
               "-ft": "20230329044500",
               "-to": "20230329050000",
               "-ftl": "2845",
