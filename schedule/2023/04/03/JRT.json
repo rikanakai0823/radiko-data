@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1680114484",
+    "srvtime": "1680200900",
     "stations": {
       "station": {
         "-id": "JRT",
@@ -73,7 +73,7 @@
               }
             },
             {
-              "-id": "9772899866",
+              "-id": "9774751514",
               "-ft": "20230403051500",
               "-to": "20230403052000",
               "-ftl": "0515",
@@ -84,11 +84,17 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "　　",
-              "pfm": "岩井基雄／板倉邦雄／福井誠／大嶋重徳／関根弘興／山本陽一郎／羽鳥頼和／黒木昭江／菊地百合子／工藤篤子ほか",
+              "pfm": "大嶋重徳",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/6f6fe58a-7d24-411c-a107-be46d75360b6.jpeg",
               "tag": {
                 "item": {
                   "name": "世の光"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P016",
+                  "name": "宗教"
                 }
               },
               "metas": {
@@ -121,7 +127,7 @@
               }
             },
             {
-              "-id": "9774050696",
+              "-id": "9774677721",
               "-ft": "20230403053000",
               "-to": "20230403063000",
               "-ftl": "0530",
@@ -135,21 +141,6 @@
               "info": "番組ではあなたからのメッセージを募集しています。<br />メール：<a href=\"mailto:ohayou@tbs.co.jp\">ohayou@tbs.co.jp</a><br />twitterハッシュタグは「<a href=\"http://twitter.com/#!/search/%23ikushima\">#ikushima</a>」",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/8d6dda88-f261-4316-8760-138551c56e2e.jpeg",
-              "tag": {
-                "item": {
-                  "name": "生島ヒロシ"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -516,12 +507,12 @@
               }
             },
             {
-              "-id": "9772930323",
+              "-id": "9774751760",
               "-ft": "20230403083000",
-              "-to": "20230403115000",
+              "-to": "20230403114000",
               "-ftl": "0830",
-              "-tol": "1150",
-              "-dur": "12000",
+              "-tol": "1140",
+              "-dur": "11400",
               "title": "ラジオ大福",
               "url": "https://www.jrt.co.jp/radio/daifuku",
               "failed_record": "0",
@@ -555,6 +546,78 @@
                 "program": {
                   "-id": "P003",
                   "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9774840522",
+              "-ft": "20230403114000",
+              "-to": "20230403114500",
+              "-ftl": "1140",
+              "-tol": "1145",
+              "-dur": "300",
+              "title": "ラジオなんでも伝言板",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "四国放送アナウンサー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/7e5c28d7-0c85-4a66-8c81-5a0cee890c42.jpeg",
+              "tag": {
+                "item": {
+                  "name": "四国放送アナウンサー"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9774840528",
+              "-ft": "20230403114500",
+              "-to": "20230403115000",
+              "-ftl": "1145",
+              "-tol": "1150",
+              "-dur": "300",
+              "title": "ＬＵＮＣＨリクエスト",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "四国放送アナウンサー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/7e5c28d7-0c85-4a66-8c81-5a0cee890c42.jpeg",
+              "tag": {
+                "item": {
+                  "name": "四国放送アナウンサー"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1057,7 +1120,7 @@
               }
             },
             {
-              "-id": "9774020814",
+              "-id": "9774709403",
               "-ft": "20230403165000",
               "-to": "20230403170000",
               "-ftl": "1650",
