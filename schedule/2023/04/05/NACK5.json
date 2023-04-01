@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1680287281",
+    "srvtime": "1680373652",
     "stations": {
       "station": {
         "-id": "NACK5",
@@ -288,7 +288,7 @@
               }
             },
             {
-              "-id": "9775306028",
+              "-id": "9775980345",
               "-ft": "20230405123000",
               "-to": "20230405124500",
               "-ftl": "1230",
@@ -950,12 +950,12 @@
               }
             },
             {
-              "-id": "9774845717",
+              "-id": "9775802000",
               "-ft": "20230406040000",
-              "-to": "20230406050000",
+              "-to": "20230406044500",
               "-ftl": "2800",
-              "-tol": "2900",
-              "-dur": "3600",
+              "-tol": "2845",
+              "-dur": "2700",
               "title": "ラジオのアナ～ラジアナ Part4",
               "url": "https://www.nack5.co.jp/program/raji795_wed/",
               "failed_record": "0",
@@ -988,6 +988,36 @@
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9775802048",
+              "-ft": "20230406044500",
+              "-to": "20230406050000",
+              "-ftl": "2845",
+              "-tol": "2900",
+              "-dur": "900",
+              "title": "旬！SHUN！ピックアップ",
+              "url": "https://www.nack5.co.jp/program/shun_795_sat/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/NACK5/362xlkxuu8.png",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1680287286",
+    "srvtime": "1680373656",
     "stations": {
       "station": {
         "-id": "NACK5",
@@ -370,7 +370,7 @@
               }
             },
             {
-              "-id": "9775308039",
+              "-id": "9775981019",
               "-ft": "20230406123000",
               "-to": "20230406124500",
               "-ftl": "1230",
@@ -1107,12 +1107,12 @@
               }
             },
             {
-              "-id": "9775463148",
+              "-id": "9775803824",
               "-ft": "20230407040000",
-              "-to": "20230407050000",
+              "-to": "20230407044500",
               "-ftl": "2800",
-              "-tol": "2900",
-              "-dur": "3600",
+              "-tol": "2845",
+              "-dur": "2700",
               "title": "ラジオのアナ～ラジアナ Part4",
               "url": "https://www.nack5.co.jp/program/raji795_thu/",
               "failed_record": "0",
@@ -1135,9 +1135,43 @@
                 ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9775803872",
+              "-ft": "20230407044500",
+              "-to": "20230407050000",
+              "-ftl": "2845",
+              "-tol": "2900",
+              "-dur": "900",
+              "title": "旬！SHUN！ピックアップ",
+              "url": "https://www.nack5.co.jp/program/shun_795_sat/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/NACK5/362xlkxuu8.png",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
