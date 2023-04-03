@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1680460034",
+    "srvtime": "1680546457",
     "stations": {
       "station": {
         "-id": "RN1",
@@ -10,7 +10,7 @@
           "date": "20230406",
           "prog": [
             {
-              "-id": "9776834193",
+              "-id": "9777370517",
               "-ft": "20230406050000",
               "-to": "20230406071000",
               "-ftl": "0500",
@@ -29,7 +29,7 @@
               }
             },
             {
-              "-id": "9776834363",
+              "-id": "9777370689",
               "-ft": "20230406071000",
               "-to": "20230406071500",
               "-ftl": "0710",
@@ -48,7 +48,7 @@
               }
             },
             {
-              "-id": "9776834364",
+              "-id": "9777370690",
               "-ft": "20230406071500",
               "-to": "20230406072500",
               "-ftl": "0715",
@@ -60,6 +60,12 @@
               "ts_out_ng": "0",
               "desc": "モーツァルト「フルートとハープのための協奏曲～第1楽章」",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/d548ca77-a3d3-4df6-a80e-0f071dccf11d.png",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -68,7 +74,7 @@
               }
             },
             {
-              "-id": "9776834366",
+              "-id": "9777370692",
               "-ft": "20230406072500",
               "-to": "20230406074500",
               "-ftl": "0725",
@@ -82,16 +88,7 @@
               "desc": "英語に親しむ「英活」20分。<br>\nビジネスパーソンから英語教師、英語学習者の知的好奇心を刺激する番組です。<br>\n<br>\n「今週のニュース」では、英語と経済を同時に学びます。『NikkeiAsia』（日本経済新聞社）の英字記事で、時事英語やビジネス英語など、生きた英語をお伝えします。",
               "pfm": "Gregory Clark / 奥村茂三郎 / 福田雄大 / 森下薫 / 多田記子 / Jeffrey Swiggum",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/xh8wgo0kzb.png",
-              "tag": {
-                "item": {
-                  "name": "ラジオで英会話レッスン"
-                }
-              },
               "genre": {
-                "personality": {
-                  "-id": "C012",
-                  "name": "文化人"
-                },
                 "program": {
                   "-id": "P012",
                   "name": "趣味/教育"
@@ -105,7 +102,7 @@
               }
             },
             {
-              "-id": "9776834406",
+              "-id": "9777370732",
               "-ft": "20230406074500",
               "-to": "20230406075000",
               "-ftl": "0745",
@@ -118,6 +115,12 @@
               "ts_out_ng": "0",
               "desc": "キリスト教の教えから幸せな生き方の秘訣をお伝えするショートメッセージをお届けします。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/n2ornk8ykq.png",
+              "genre": {
+                "program": {
+                  "-id": "P016",
+                  "name": "宗教"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -126,7 +129,7 @@
               }
             },
             {
-              "-id": "9776834415",
+              "-id": "9777370741",
               "-ft": "20230406075000",
               "-to": "20230406080000",
               "-ftl": "0750",
@@ -139,6 +142,16 @@
               "ts_out_ng": "0",
               "desc": "日経電子版から、平日は朝・昼・夕・夜の4回、土曜日・日曜日・祝日は朝・夕の2回、ホットニュースをピックアップしてお届けします。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/em82074w8o.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -147,7 +160,7 @@
               }
             },
             {
-              "-id": "9776834446",
+              "-id": "9777370773",
               "-ft": "20230406080000",
               "-to": "20230406080800",
               "-ftl": "0800",
@@ -184,7 +197,7 @@
               }
             },
             {
-              "-id": "9776834450",
+              "-id": "9777370777",
               "-ft": "20230406080800",
               "-to": "20230406083800",
               "-ftl": "0808",
@@ -203,7 +216,7 @@
               }
             },
             {
-              "-id": "9776834475",
+              "-id": "9777370802",
               "-ft": "20230406083800",
               "-to": "20230406090000",
               "-ftl": "0838",
@@ -240,7 +253,7 @@
               }
             },
             {
-              "-id": "9776834522",
+              "-id": "9777370849",
               "-ft": "20230406090000",
               "-to": "20230406113500",
               "-ftl": "0900",
@@ -253,6 +266,21 @@
               "ts_out_ng": "0",
               "desc": "東京株式市場の株式情報を中心に、為替・商品の情報や経済ニュースなどを生放送でお送りします。ラジオNIKKEIの記者たちが集めた投資情報をリアルタイムでレポートします。<br>\n<br>\n番組公式ブログ：<a href=\"https://www.radionikkei.jp/marketpress/\">https://www.radionikkei.jp/marketpress/</a><br>\n<br>\ntwitterアカウントは「@market_press」<br>\ntwitterハッシュタグは「#market_press」です。<br>\n皆様からのお声をお待ちしています。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/j1ukn0x1xa.png",
+              "tag": {
+                "item": {
+                  "name": "投資が学べる"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                },
+                "program": {
+                  "-id": "P020",
+                  "name": "株/投資"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -261,7 +289,7 @@
               }
             },
             {
-              "-id": "9776834709",
+              "-id": "9777371036",
               "-ft": "20230406113500",
               "-to": "20230406120000",
               "-ftl": "1135",
@@ -274,6 +302,21 @@
               "ts_out_ng": "0",
               "desc": "エコノミストや大学教授などをコメンテーターに迎え、最近の日経新聞の注目記事をピックアップ。解説と今後の展望をお送りします。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/d0uz1qz7hz.png",
+              "tag": {
+                "item": {
+                  "name": "政治・経済を学べる"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                },
+                "program": {
+                  "-id": "P013",
+                  "name": "経済"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -282,7 +325,7 @@
               }
             },
             {
-              "-id": "9776834775",
+              "-id": "9777371102",
               "-ft": "20230406120000",
               "-to": "20230406123000",
               "-ftl": "1200",
@@ -294,6 +337,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/yxrxjmalui.png",
+              "genre": {
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -302,7 +351,7 @@
               }
             },
             {
-              "-id": "9776834791",
+              "-id": "9777371118",
               "-ft": "20230406123000",
               "-to": "20230406125300",
               "-ftl": "1230",
@@ -315,6 +364,21 @@
               "ts_out_ng": "0",
               "desc": "東京株式市場の株式情報を中心に、為替・商品の情報や経済ニュースなどを生放送でお送りします。ラジオNIKKEIの記者たちが集めた投資情報をリアルタイムでレポートします。<br>\n<br>\n番組公式ブログ： <a href=\"https://www.radionikkei.jp/marketpress/\">https://www.radionikkei.jp/marketpress/</a><br>\n<br>\ntwitterアカウントは「@market_press」<br>\ntwitterハッシュタグは「#market_press」です。<br>\n皆様からのお声をお待ちしています。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/j1ukn0x1xa.png",
+              "tag": {
+                "item": {
+                  "name": "投資が学べる"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                },
+                "program": {
+                  "-id": "P020",
+                  "name": "株/投資"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -323,7 +387,7 @@
               }
             },
             {
-              "-id": "9776834802",
+              "-id": "9777371129",
               "-ft": "20230406125300",
               "-to": "20230406130000",
               "-ftl": "1253",
@@ -336,6 +400,16 @@
               "ts_out_ng": "0",
               "desc": "日経電子版から、平日は朝・昼・夕・夜の4回、土曜日・日曜日・祝日は朝・夕の2回、ホットニュースをピックアップしてお届けします。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/em82074w8o.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -344,7 +418,7 @@
               }
             },
             {
-              "-id": "9776834875",
+              "-id": "9777371202",
               "-ft": "20230406130000",
               "-to": "20230406143000",
               "-ftl": "1300",
@@ -357,6 +431,21 @@
               "ts_out_ng": "0",
               "desc": "東京株式市場の株式情報を中心に、為替・商品の情報や経済ニュースなどを生放送でお送りします。ラジオNIKKEIの記者たちが集めた投資情報をリアルタイムでレポートします。<br>\n<br>\n番組公式ブログ： <a href=\"https://www.radionikkei.jp/marketpress/\">https://www.radionikkei.jp/marketpress/</a><br>\n<br>\ntwitterアカウントは「@market_press」<br>\ntwitterハッシュタグは「#market_press」です。<br>\n皆様からのお声をお待ちしています。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/j1ukn0x1xa.png",
+              "tag": {
+                "item": {
+                  "name": "投資が学べる"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                },
+                "program": {
+                  "-id": "P020",
+                  "name": "株/投資"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -365,7 +454,7 @@
               }
             },
             {
-              "-id": "9776834978",
+              "-id": "9777371305",
               "-ft": "20230406143000",
               "-to": "20230406160000",
               "-ftl": "1430",
@@ -379,6 +468,12 @@
               "desc": "「ザ・マネー」木曜日は、「鎌田伸一のマーケットアドベンチャー」と題して、\n鎌田伸一がホットなマーケット情報などをお届けします。",
               "pfm": "鎌田伸一",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/5vift264oa.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P020",
+                  "name": "株/投資"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -387,7 +482,7 @@
               }
             },
             {
-              "-id": "9776835156",
+              "-id": "9777371482",
               "-ft": "20230406160000",
               "-to": "20230406163000",
               "-ftl": "1600",
@@ -401,6 +496,12 @@
               "desc": "“うっち”こと内田まさみキャスターが、FX・株式などのヴァーチャルトレード「FX／株式ダービー」で、リスナーの皆さんと腕試し！毎週出されるミッションとそのトレードの結果を検証。実践的な投資手法を学びながらスマートなトレーダーになるための、リスナー参加型番組です。<br>\nコメンテーターはおなじみ、IFTA国際検定テクニカルアナリスト福永博之が務めます。<br>\n詳細は番組サイトから。皆さんの参加をお待ちしています。<br>\n<br>\ntwitterアカウントは「@smatrader」<br>\ntwitterハッシュタグは「#smatre」です。",
               "pfm": "福永博之 / 内田まさみ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/bfvc2k01js.png",
+              "genre": {
+                "program": {
+                  "-id": "P020",
+                  "name": "株/投資"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -409,7 +510,7 @@
               }
             },
             {
-              "-id": "9776835179",
+              "-id": "9777371505",
               "-ft": "20230406163000",
               "-to": "20230406172000",
               "-ftl": "1630",
@@ -437,7 +538,7 @@
               }
             },
             {
-              "-id": "9776835272",
+              "-id": "9777371597",
               "-ft": "20230406172000",
               "-to": "20230406174500",
               "-ftl": "1720",
@@ -450,6 +551,12 @@
               "ts_out_ng": "0",
               "desc": "『日経トレンディ』に掲載される旬な話題やキーワードをテンポよく解説する。これを聴けば１週間分のネタが仕込めるという、ネタ本ならぬ“ネタラジオ”。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/xdrit46c7a.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -458,7 +565,7 @@
               }
             },
             {
-              "-id": "9776835304",
+              "-id": "9777371629",
               "-ft": "20230406174500",
               "-to": "20230406175000",
               "-ftl": "1745",
@@ -469,6 +576,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/1zayk1r8no.png",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -477,7 +590,7 @@
               }
             },
             {
-              "-id": "9776835322",
+              "-id": "9777371647",
               "-ft": "20230406175000",
               "-to": "20230406180000",
               "-ftl": "1750",
@@ -490,6 +603,16 @@
               "ts_out_ng": "0",
               "desc": "日経電子版から、平日は朝・昼・夕・夜の4回、土曜日・日曜日・祝日は朝・夕の2回、ホットニュースをピックアップしてお届けします。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/em82074w8o.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -498,7 +621,7 @@
               }
             },
             {
-              "-id": "9776835359",
+              "-id": "9777371685",
               "-ft": "20230406180000",
               "-to": "20230406190000",
               "-ftl": "1800",
@@ -512,6 +635,12 @@
               "desc": "「旬な有名人×旬なニュース」をコンセプトにお送りするニュースバラエティ番組です。<br>\nいまをときめく旬なアイドルが、1ヵ月ぶっ通しでメインパーソナリティを務めます。\n毎回、ニュースを読んだり、ニュースに関するクイズに挑戦したり、盛りだくさんの企画を、日経新聞の編集委員とともにお送りします。",
               "pfm": "鈴木亮（日本経済新聞編集委員） / 栗林さみ（フリーアナウンサー）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/fgf2h29d6r.png",
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -520,7 +649,7 @@
               }
             },
             {
-              "-id": "9776835445",
+              "-id": "9777371772",
               "-ft": "20230406190000",
               "-to": "20230406193000",
               "-ftl": "1900",
@@ -535,10 +664,6 @@
               "pfm": "藤江れいな / 小塚歩 / 大関隼 / 米田元気 / 山本直",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/z4d25x3nyn.png",
               "genre": {
-                "personality": {
-                  "-id": "C008",
-                  "name": "女性アイドル"
-                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
@@ -552,7 +677,7 @@
               }
             },
             {
-              "-id": "9776835455",
+              "-id": "9777371782",
               "-ft": "20230406193000",
               "-to": "20230406195000",
               "-ftl": "1930",
@@ -565,6 +690,22 @@
               "ts_out_ng": "0",
               "desc": "▼プレイリスト▼<br />19:30 DOWN TOWN/シュガー・ベイブ<br />19:34 Daydream/The Aces<br />19:36 赤い電車/くるり<br />19:42 Jump/Van Halen<br />19:45 魔法の言葉 ～Would You Marry Me?～/Do As Infinity<br /><br /><a href='https://rn2service.radionikkei.jp/rn1af.php?n=20230406193000'><img src='https://rn2service.radionikkei.jp/noa/radikoimg/playprevb.jpg' /> <em>前回のRaNi Music♪ AfterDinnerへ</em></a><br /><br /><a href='https://rn2service.radionikkei.jp/rn1af.php?n=20230406193000&rf=ff'><img src='https://rn2service.radionikkei.jp/noa/radikoimg/playnextb.jpg' /> <em>次回のRaNi Music♪ AfterDinnerへ</em></a><br />",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/v7l11tbn6a.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "作業がはかどる"
+                  },
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -573,7 +714,7 @@
               }
             },
             {
-              "-id": "9776835457",
+              "-id": "9777371784",
               "-ft": "20230406195000",
               "-to": "20230406200000",
               "-ftl": "1950",
@@ -586,6 +727,16 @@
               "ts_out_ng": "0",
               "desc": "日経電子版から、平日は朝・昼・夕・夜の4回、土曜日・日曜日・祝日は朝・夕の2回、ホットニュースをピックアップしてお届けします。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/em82074w8o.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -594,7 +745,7 @@
               }
             },
             {
-              "-id": "9776835517",
+              "-id": "9777371844",
               "-ft": "20230406200000",
               "-to": "20230406201500",
               "-ftl": "2000",
@@ -608,10 +759,6 @@
               "pfm": "稲村亜美",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/icmils7s4c.png",
               "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
                 "program": {
                   "-id": "P015",
                   "name": "教養"
@@ -625,7 +772,7 @@
               }
             },
             {
-              "-id": "9776835522",
+              "-id": "9777371849",
               "-ft": "20230406201500",
               "-to": "20230406202000",
               "-ftl": "2015",
@@ -636,6 +783,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/1zayk1r8no.png",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -644,7 +797,7 @@
               }
             },
             {
-              "-id": "9776835523",
+              "-id": "9777371850",
               "-ft": "20230406202000",
               "-to": "20230406205000",
               "-ftl": "2020",
@@ -659,10 +812,6 @@
               "pfm": "石川温 / 松代有生",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/j1ia0r9hno.png",
               "genre": {
-                "personality": {
-                  "-id": "C014",
-                  "name": "評論家"
-                },
                 "program": {
                   "-id": "P015",
                   "name": "教養"
@@ -676,7 +825,7 @@
               }
             },
             {
-              "-id": "9776835541",
+              "-id": "9777371868",
               "-ft": "20230406205000",
               "-to": "20230406210000",
               "-ftl": "2050",
@@ -689,6 +838,26 @@
               "ts_out_ng": "0",
               "desc": "ラジオNIKKEIの競馬実況アナウンサーが日替わりで登場。競馬のデイリーニュースから競馬関係者の声まで、競馬情報と愛情たっぷりの番組です。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/w2l21hrk8w.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "アナウンサー"
+                  },
+                  {
+                    "name": "競馬"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P019",
+                  "name": "公営競技"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -697,7 +866,7 @@
               }
             },
             {
-              "-id": "9776835617",
+              "-id": "9777371944",
               "-ft": "20230406210000",
               "-to": "20230406213000",
               "-ftl": "2100",
@@ -710,6 +879,12 @@
               "ts_out_ng": "0",
               "desc": "▼プレイリスト▼<br />21:00 Englishman in New York/Sting<br />21:04 PRIDE/今井美樹<br />21:10 Roots (The Fruit Of Many)/LSK<br />21:15 空と青/家入レオ<br />21:20 Because I Love You/Stevie B<br />21:24 5年後のアイラブユー/TEE<br /><br /><a href='https://rn2service.radionikkei.jp/rn1nt.php?n=20230406210000'><img src='https://rn2service.radionikkei.jp/noa/radikoimg/playprevb.jpg' /> <em>前回のRaNi Music♪ Nightへ</em></a><br /><br /><a href='https://rn2service.radionikkei.jp/rn1nt.php?n=20230406210000&rf=ff'><img src='https://rn2service.radionikkei.jp/noa/radikoimg/playnextb.jpg' /> <em>次回のRaNi Music♪ Nightへ</em></a><br />",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/v7l11tbn6a.png",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -718,7 +893,7 @@
               }
             },
             {
-              "-id": "9776835643",
+              "-id": "9777371970",
               "-ft": "20230406213000",
               "-to": "20230406223000",
               "-ftl": "2130",
@@ -731,12 +906,8 @@
               "ts_out_ng": "0",
               "desc": "毎回ゲストを招いて楽しいトークを繰り広げます。アウトドアに役立つ情報も満載。ぜひお楽しみに。",
               "pfm": "鈴木康介",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/d548ca77-a3d3-4df6-a80e-0f071dccf11d.png",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/qo6jyrdmfa.png",
               "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
                 "program": {
                   "-id": "P012",
                   "name": "趣味/教育"
@@ -750,7 +921,7 @@
               }
             },
             {
-              "-id": "9776835738",
+              "-id": "9777372064",
               "-ft": "20230406223000",
               "-to": "20230406230000",
               "-ftl": "2230",
@@ -763,6 +934,12 @@
               "ts_out_ng": "0",
               "pfm": "DJ KOO",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/tbiy3v9ziq.png",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -771,7 +948,7 @@
               }
             },
             {
-              "-id": "9776835754",
+              "-id": "9777372080",
               "-ft": "20230406230000",
               "-to": "20230406231500",
               "-ftl": "2300",
@@ -792,7 +969,7 @@
               }
             },
             {
-              "-id": "9776835757",
+              "-id": "9777372083",
               "-ft": "20230406231500",
               "-to": "20230406233000",
               "-ftl": "2315",
@@ -813,7 +990,7 @@
               }
             },
             {
-              "-id": "9776835762",
+              "-id": "9777372088",
               "-ft": "20230406233000",
               "-to": "20230406234500",
               "-ftl": "2330",
@@ -834,7 +1011,7 @@
               }
             },
             {
-              "-id": "9776835763",
+              "-id": "9777372089",
               "-ft": "20230406234500",
               "-to": "20230406235000",
               "-ftl": "2345",
@@ -845,6 +1022,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/1zayk1r8no.png",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -853,7 +1036,7 @@
               }
             },
             {
-              "-id": "9776835765",
+              "-id": "9777372091",
               "-ft": "20230406235000",
               "-to": "20230407000000",
               "-ftl": "2350",
@@ -865,6 +1048,16 @@
               "ts_out_ng": "0",
               "desc": "こんばんは、ラジオNIKKEI公式マスコットのラニィです。今日もラジオNIKKEIをお聴きいただき、ありがとうございました。おやすみ前のひとときに音楽をどうぞ。",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RN1/bzm7n9wgne.png",
+              "genre": {
+                "personality": {
+                  "-id": "C006",
+                  "name": "女性声優"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -873,7 +1066,7 @@
               }
             },
             {
-              "-id": "9776835853",
+              "-id": "9777372179",
               "-ft": "20230407000000",
               "-to": "20230407045900",
               "-ftl": "2400",
