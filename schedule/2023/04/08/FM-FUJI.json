@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1680546467",
+    "srvtime": "1680632844",
     "stations": {
       "station": {
         "-id": "FM-FUJI",
@@ -10,7 +10,7 @@
           "date": "20230408",
           "prog": [
             {
-              "-id": "9777009670",
+              "-id": "9777619759",
               "-ft": "20230408050000",
               "-to": "20230408060000",
               "-ftl": "0500",
@@ -49,7 +49,7 @@
               }
             },
             {
-              "-id": "9777022898",
+              "-id": "9777619871",
               "-ft": "20230408060000",
               "-to": "20230408090000",
               "-ftl": "0600",
@@ -74,10 +74,41 @@
                   },
                   {
                     "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "車"
+                  },
+                  {
+                    "name": "情報番組"
+                  },
+                  {
+                    "name": "交通"
+                  },
+                  {
+                    "name": "天気"
+                  },
+                  {
+                    "name": "スポーツニュース"
+                  },
+                  {
+                    "name": "サービスエリア"
+                  },
+                  {
+                    "name": "ラーメン"
+                  },
+                  {
+                    "name": "キガワ"
+                  },
+                  {
+                    "name": "AI"
                   }
                 ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -91,7 +122,7 @@
               }
             },
             {
-              "-id": "9777023018",
+              "-id": "9777620128",
               "-ft": "20230408090000",
               "-to": "20230408104300",
               "-ftl": "0900",
@@ -116,10 +147,41 @@
                   },
                   {
                     "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "車"
+                  },
+                  {
+                    "name": "情報番組"
+                  },
+                  {
+                    "name": "交通"
+                  },
+                  {
+                    "name": "天気"
+                  },
+                  {
+                    "name": "スポーツニュース"
+                  },
+                  {
+                    "name": "サービスエリア"
+                  },
+                  {
+                    "name": "ラーメン"
+                  },
+                  {
+                    "name": "キガワ"
+                  },
+                  {
+                    "name": "AI"
                   }
                 ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -133,7 +195,7 @@
               }
             },
             {
-              "-id": "9777023073",
+              "-id": "9777620272",
               "-ft": "20230408104300",
               "-to": "20230408110000",
               "-ftl": "1043",
@@ -148,7 +210,16 @@
               "info": "twitterアカウントは「<a href=\"http://twitter.com/jocvfm\">@jocvfm</a>」",
               "pfm": "みやしたまさる / マリナ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/79356b0d-16fb-4564-bd0f-f2a45ac32df3.jpeg",
+              "tag": {
+                "item": {
+                  "name": "グルメ"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -162,7 +233,7 @@
               }
             },
             {
-              "-id": "9777023104",
+              "-id": "9777620383",
               "-ft": "20230408110000",
               "-to": "20230408130000",
               "-ftl": "1100",
@@ -177,7 +248,27 @@
               "info": "<a href=\"http://www.fmfuji.jp/mail.php?cd=514\" title=\"landscape\" target=\"_blank\">ls@fmfuji.jp</a><br />twitterアカウントは「<a href=\"http://twitter.com/jocvfm\">@jocvfm</a>」",
               "pfm": "高杉’Jay’二郎",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/a158ae05-4467-4d1c-81be-2fb56885e076.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "アウトドア"
+                  },
+                  {
+                    "name": "キャンプ"
+                  },
+                  {
+                    "name": "キャンプ場"
+                  },
+                  {
+                    "name": "高杉’Jay’二郎"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -191,7 +282,7 @@
               }
             },
             {
-              "-id": "9777023204",
+              "-id": "9777620618",
               "-ft": "20230408130000",
               "-to": "20230408160000",
               "-ftl": "1300",
@@ -206,11 +297,32 @@
               "pfm": "山川牧",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/495ae07e-6640-491d-b3cb-53e1d92b6f74.jpeg",
               "tag": {
-                "item": {
-                  "name": "音楽との出会いが楽しめる"
-                }
+                "item": [
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "ランキング"
+                  },
+                  {
+                    "name": "邦楽"
+                  },
+                  {
+                    "name": "洋楽"
+                  },
+                  {
+                    "name": "山川牧"
+                  },
+                  {
+                    "name": "ヤママキ"
+                  }
+                ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
@@ -224,7 +336,7 @@
               }
             },
             {
-              "-id": "9777023330",
+              "-id": "9777620997",
               "-ft": "20230408160000",
               "-to": "20230408170000",
               "-ftl": "1600",
@@ -239,7 +351,24 @@
               "info": "<a href=\"http://www.fmfuji.jp/mail.php?cd=518\" title=\"エンタメ楽院\" target=\"_blank\">en@fmfuji.jp</a><br />twitterアカウントは「<a href=\"http://twitter.com/entamegakuin\">@entamegakuin</a>」",
               "pfm": "伸太郎 / 市瀬秀和",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/42fecc1a-a81a-438b-a9b3-7f79efcd26e6.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "山梨県"
+                  },
+                  {
+                    "name": "伸太郎"
+                  },
+                  {
+                    "name": "市瀬秀和"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
@@ -253,7 +382,7 @@
               }
             },
             {
-              "-id": "9777104176",
+              "-id": "9777621095",
               "-ft": "20230408170000",
               "-to": "20230408173000",
               "-ftl": "1700",
@@ -295,7 +424,7 @@
               }
             },
             {
-              "-id": "9777023389",
+              "-id": "9777621120",
               "-ft": "20230408173000",
               "-to": "20230408180000",
               "-ftl": "1730",
@@ -310,11 +439,29 @@
               "pfm": "東城佑香",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/6cef118d-062c-40b6-aacc-bb09ea7c23f3.jpeg",
               "tag": {
-                "item": {
-                  "name": "学生におすすめ"
-                }
+                "item": [
+                  {
+                    "name": "学生におすすめ"
+                  },
+                  {
+                    "name": "水族館"
+                  },
+                  {
+                    "name": "海"
+                  },
+                  {
+                    "name": "魚"
+                  },
+                  {
+                    "name": "aquarium"
+                  }
+                ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P012",
                   "name": "趣味/教育"
@@ -328,7 +475,7 @@
               }
             },
             {
-              "-id": "9777023429",
+              "-id": "9777621220",
               "-ft": "20230408180000",
               "-to": "20230408190000",
               "-ftl": "1800",
@@ -343,11 +490,23 @@
               "pfm": "ARCANA PROJECT",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/f9c98384-67b1-497c-b925-1328379581fc.jpeg",
               "tag": {
-                "item": {
-                  "name": "学生におすすめ"
-                }
+                "item": [
+                  {
+                    "name": "学生におすすめ"
+                  },
+                  {
+                    "name": "アニソン"
+                  },
+                  {
+                    "name": "ARCANA PROJECT"
+                  }
+                ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
@@ -361,7 +520,7 @@
               }
             },
             {
-              "-id": "9777023483",
+              "-id": "9777621342",
               "-ft": "20230408190000",
               "-to": "20230408193000",
               "-ftl": "1900",
@@ -377,11 +536,20 @@
               "pfm": "やべきょうすけ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/b4350509-0992-4deb-b67c-b06dcdba68cf.jpeg",
               "tag": {
-                "item": {
-                  "name": "人気俳優トーク"
-                }
+                "item": [
+                  {
+                    "name": "人気俳優トーク"
+                  },
+                  {
+                    "name": "やべきょうすけ"
+                  }
+                ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C002",
+                  "name": "俳優"
+                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
@@ -395,7 +563,7 @@
               }
             },
             {
-              "-id": "9777023507",
+              "-id": "9777621391",
               "-ft": "20230408193000",
               "-to": "20230408200000",
               "-ftl": "1930",
@@ -411,11 +579,29 @@
               "pfm": "冠徹弥",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/7e57782d-63a8-45c8-a89c-c59301bc5fbe.jpeg",
               "tag": {
-                "item": {
-                  "name": "音楽との出会いが楽しめる"
-                }
+                "item": [
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "音楽ゲスト"
+                  },
+                  {
+                    "name": "THE冠"
+                  },
+                  {
+                    "name": "冠徹弥"
+                  },
+                  {
+                    "name": "メタル"
+                  }
+                ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
@@ -429,7 +615,7 @@
               }
             },
             {
-              "-id": "9777023530",
+              "-id": "9777621463",
               "-ft": "20230408200000",
               "-to": "20230408220000",
               "-ftl": "2000",
@@ -460,10 +646,32 @@
                   },
                   {
                     "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "劇団ひとり"
+                  },
+                  {
+                    "name": "森みはる"
+                  },
+                  {
+                    "name": "志田音々"
+                  },
+                  {
+                    "name": "内藤正樹"
+                  },
+                  {
+                    "name": "音楽ゲスト"
+                  },
+                  {
+                    "name": "劇サン"
                   }
                 ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
@@ -477,7 +685,7 @@
               }
             },
             {
-              "-id": "9777023616",
+              "-id": "9777621675",
               "-ft": "20230408220000",
               "-to": "20230408223000",
               "-ftl": "2200",
@@ -493,11 +701,23 @@
               "pfm": "藤井アユ美",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/1byoy0cjkh.jpg",
               "tag": {
-                "item": {
-                  "name": "人気声優出演"
-                }
+                "item": [
+                  {
+                    "name": "人気声優出演"
+                  },
+                  {
+                    "name": "藤井アユ美"
+                  },
+                  {
+                    "name": "声優"
+                  }
+                ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C006",
+                  "name": "女性声優"
+                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
@@ -511,7 +731,7 @@
               }
             },
             {
-              "-id": "9777010418",
+              "-id": "9777621724",
               "-ft": "20230408223000",
               "-to": "20230408230000",
               "-ftl": "2230",
@@ -556,7 +776,7 @@
               }
             },
             {
-              "-id": "9777345804",
+              "-id": "9777899375",
               "-ft": "20230408230000",
               "-to": "20230408233000",
               "-ftl": "2300",
@@ -570,7 +790,7 @@
               "desc": "「サンケイスポーツ レースクイーンAWARD2022」でグランプリに輝いた上運天美聖がメインナビゲーターを務めるトーク＆ミュージックプログラム。アシスタントに鈴付みけ、早乙女麗那を迎えて音楽と共に心地よい時間をお届けします。",
               "info": "<a href=\"http://www.fmfuji.jp/mail.php?cd=577\" title=\"上運天美聖のheavenly Night\" target=\"_blank\">hn@fmfuji.jp</a><br />twitterアカウントは「<a href=\"http://twitter.com/jocvfm\">@jocvfm</a>」",
               "pfm": "上運天美聖 / 鈴付みけ / 早乙女麗那",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/18692ced-9193-466b-8b4b-915f142bbfa7.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/305b0b53-e49e-4742-b191-3ca024261512.jpeg",
               "tag": {
                 "item": [
                   {
@@ -605,7 +825,7 @@
               }
             },
             {
-              "-id": "9777010452",
+              "-id": "9777621818",
               "-ft": "20230408233000",
               "-to": "20230409000000",
               "-ftl": "2330",
@@ -647,7 +867,7 @@
               }
             },
             {
-              "-id": "9777023699",
+              "-id": "9777621899",
               "-ft": "20230409000000",
               "-to": "20230409003000",
               "-ftl": "2400",
@@ -662,11 +882,26 @@
               "pfm": "齊藤友亮(株式会社Colors代表取締役) / 河路由希子(アイドルユニットsherbet)",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/f1778c69-3542-4b14-9142-973b1d12dfa0.jpeg",
               "tag": {
-                "item": {
-                  "name": "学生におすすめ"
-                }
+                "item": [
+                  {
+                    "name": "学生におすすめ"
+                  },
+                  {
+                    "name": "ライバー"
+                  },
+                  {
+                    "name": "sharbet"
+                  },
+                  {
+                    "name": "河路由希子"
+                  }
+                ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
@@ -680,7 +915,7 @@
               }
             },
             {
-              "-id": "9777023722",
+              "-id": "9777621924",
               "-ft": "20230409003000",
               "-to": "20230409010000",
               "-ftl": "2430",
@@ -695,11 +930,23 @@
               "pfm": "徳タケ喜一",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/ecae57f5-b9b2-45b3-87ef-af1e41ddb596.jpeg",
               "tag": {
-                "item": {
-                  "name": "学生におすすめ"
-                }
+                "item": [
+                  {
+                    "name": "学生におすすめ"
+                  },
+                  {
+                    "name": "妖怪"
+                  },
+                  {
+                    "name": "妖怪TALK"
+                  }
+                ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
@@ -713,7 +960,7 @@
               }
             },
             {
-              "-id": "9777010512",
+              "-id": "9777621984",
               "-ft": "20230409010000",
               "-to": "20230409020000",
               "-ftl": "2500",

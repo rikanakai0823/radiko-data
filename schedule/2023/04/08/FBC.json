@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1680546466",
+    "srvtime": "1680632843",
     "stations": {
       "station": {
         "-id": "FBC",
@@ -775,7 +775,7 @@
               }
             },
             {
-              "-id": "9777023489",
+              "-id": "9777571903",
               "-ft": "20230408190000",
               "-to": "20230408193000",
               "-ftl": "1900",
@@ -789,7 +789,16 @@
               "info": "<br/>２ヵ月限定でパーソナリティが入れ替わる、「お試し」で「レギュラー」なお笑いラジオ番組。<br/>ＴＶで活躍するお笑い芸人が、まだ見ぬ新たな一面を出したり、<br/>これから飛躍していく芸人達の新たな\"出どころ\"となる番組です。<br/><br/>メール：<a href='mailto:dedokoro@radio.or.jp'>dedokoro@radio.or.jp</a><br/>番組Twitter：<a href='https://twitter.com/dedokoro_radio'>@dedokoro_radio</a><br/>番組note：<a href='https://note.com/dedokoro/'>https://note.com/dedokoro/</a><br/><br/>＊twitterハッシュタグ　<a href='https://twitter.com/search?q=%23デドコロ'>#デドコロ</a>　でつぶやいてください！",
               "pfm": "永野",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/d5a160ce-6380-4704-9c38-d533ee994226.jpeg",
+              "tag": {
+                "item": {
+                  "name": "永野"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
@@ -803,7 +812,7 @@
               }
             },
             {
-              "-id": "9775886821",
+              "-id": "9777677055",
               "-ft": "20230408193000",
               "-to": "20230408200000",
               "-ftl": "1930",
@@ -815,16 +824,6 @@
               "ts_out_ng": "0",
               "pfm": "ＡＫＢ４８",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FBC/2f4007ea-ad95-4575-9b1d-168a96296d8c.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "AKB48"
-                  },
-                  {
-                    "name": "48グループ出演"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
                   "-id": "C008",
@@ -1125,7 +1124,7 @@
               }
             },
             {
-              "-id": "9777346110",
+              "-id": "9777899681",
               "-ft": "20230409030000",
               "-to": "20230409050000",
               "-ftl": "2700",
