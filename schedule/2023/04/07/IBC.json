@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1680632839",
+    "srvtime": "1680892007",
     "stations": {
       "station": {
         "-id": "IBC",
@@ -93,7 +93,7 @@
               }
             },
             {
-              "-id": "9777635268",
+              "-id": "9778914124",
               "-ft": "20230407053000",
               "-to": "20230407063000",
               "-ftl": "0530",
@@ -323,7 +323,7 @@
               }
             },
             {
-              "-id": "9777895901",
+              "-id": "9779367482",
               "-ft": "20230407114000",
               "-to": "20230407115000",
               "-ftl": "1140",
@@ -414,7 +414,7 @@
               }
             },
             {
-              "-id": "9777635469",
+              "-id": "9778966977",
               "-ft": "20230407121000",
               "-to": "20230407121500",
               "-ftl": "1210",
@@ -574,7 +574,7 @@
               }
             },
             {
-              "-id": "9775464059",
+              "-id": "9778966997",
               "-ft": "20230407130000",
               "-to": "20230407150000",
               "-ftl": "1300",
@@ -589,31 +589,6 @@
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
               "pfm": "長谷川拳杜 / 今井日奈子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/5bbbfe11-a297-4437-8131-523caafc12ef.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "気分転換におすすめ"
-                  },
-                  {
-                    "name": "午後"
-                  },
-                  {
-                    "name": "コンビ"
-                  },
-                  {
-                    "name": "ニュース"
-                  },
-                  {
-                    "name": "天気"
-                  },
-                  {
-                    "name": "お便り"
-                  },
-                  {
-                    "name": "岩手"
-                  }
-                ]
-              },
               "genre": {
                 "program": {
                   "-id": "P007",
@@ -628,7 +603,7 @@
               }
             },
             {
-              "-id": "9775464202",
+              "-id": "9778967034",
               "-ft": "20230407150000",
               "-to": "20230407165000",
               "-ftl": "1500",
@@ -643,31 +618,6 @@
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
               "pfm": "長谷川拳杜 / 今井日奈子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/5bbbfe11-a297-4437-8131-523caafc12ef.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "気分転換におすすめ"
-                  },
-                  {
-                    "name": "午後"
-                  },
-                  {
-                    "name": "コンビ"
-                  },
-                  {
-                    "name": "ニュース"
-                  },
-                  {
-                    "name": "天気"
-                  },
-                  {
-                    "name": "お便り"
-                  },
-                  {
-                    "name": "岩手"
-                  }
-                ]
-              },
               "genre": {
                 "program": {
                   "-id": "P007",
@@ -682,7 +632,7 @@
               }
             },
             {
-              "-id": "9777635590",
+              "-id": "9778914341",
               "-ft": "20230407165000",
               "-to": "20230407170000",
               "-ftl": "1650",
@@ -827,7 +777,7 @@
               }
             },
             {
-              "-id": "9777896445",
+              "-id": "9779368001",
               "-ft": "20230407174500",
               "-to": "20230407180000",
               "-ftl": "1745",
@@ -838,7 +788,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "新番組　E-mail　<a href=\"mailto:8radi@ibc.co.jp\">8radi@ibc.co.jp</a>",
-              "info": "番組アカウントは「@ibc_8radi」<br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "info": "番組twitterアカウントは「<a href=\"http://twitter.com/ibc_8radi\">@ibc_8radi</a>」<br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
               "pfm": "忠犬立ハチ高",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/108ca06f-b126-4392-8140-62f3263c80cc.png",
               "genre": {
@@ -852,10 +802,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#IBCradio"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#IBCradio"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:ibc_8radi"
+                  }
+                ]
               }
             },
             {
@@ -947,7 +903,7 @@
               }
             },
             {
-              "-id": "9777896889",
+              "-id": "9779368410",
               "-ft": "20230407220000",
               "-to": "20230408000000",
               "-ftl": "2200",
@@ -979,7 +935,7 @@
               }
             },
             {
-              "-id": "9777590276",
+              "-id": "9778967186",
               "-ft": "20230408000000",
               "-to": "20230408010000",
               "-ftl": "2400",
@@ -995,10 +951,6 @@
               "pfm": "相葉雅紀",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/unyxwqbj65.png",
               "genre": {
-                "personality": {
-                  "-id": "C007",
-                  "name": "男性アイドル"
-                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
@@ -1051,7 +1003,7 @@
               }
             },
             {
-              "-id": "9777590443",
+              "-id": "9778932239",
               "-ft": "20230408030000",
               "-to": "20230408050000",
               "-ftl": "2700",

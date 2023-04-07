@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1680632851",
+    "srvtime": "1680892026",
     "stations": {
       "station": {
         "-id": "IBC",
@@ -125,7 +125,7 @@
               }
             },
             {
-              "-id": "9777637669",
+              "-id": "9778914661",
               "-ft": "20230410053000",
               "-to": "20230410063000",
               "-ftl": "0530",
@@ -506,7 +506,7 @@
               }
             },
             {
-              "-id": "9777680087",
+              "-id": "9778967607",
               "-ft": "20230410121000",
               "-to": "20230410121500",
               "-ftl": "1210",
@@ -783,7 +783,7 @@
               }
             },
             {
-              "-id": "9777637963",
+              "-id": "9778914849",
               "-ft": "20230410165000",
               "-to": "20230410170000",
               "-ftl": "1650",
@@ -815,7 +815,7 @@
               }
             },
             {
-              "-id": "9777573605",
+              "-id": "9778336257",
               "-ft": "20230410170000",
               "-to": "20230410171500",
               "-ftl": "1700",
@@ -1033,7 +1033,7 @@
               }
             },
             {
-              "-id": "9777680483",
+              "-id": "9778914864",
               "-ft": "20230410181500",
               "-to": "20230410190000",
               "-ftl": "1815",
@@ -1045,7 +1045,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "E-mail　<a href=\"mailto:z-radio@ibc.co.jp\">z-radio@ibc.co.jp</a>",
-              "info": "番組アカウントは「@IBC_yokop」<br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "info": "番組twitterアカウントは「<a href=\"http://twitter.com/IBC_yokop\">@IBC_yokop</a>」<br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
               "pfm": "よこっちピーマン",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/b237633b-80d7-48cd-b9dc-f73db834469b.png",
               "genre": {
@@ -1059,10 +1059,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#IBCradio"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#IBCradio"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:IBC_yokop"
+                  }
+                ]
               }
             },
             {
@@ -1154,7 +1160,7 @@
               }
             },
             {
-              "-id": "9777573816",
+              "-id": "9778961531",
               "-ft": "20230410220000",
               "-to": "20230411000000",
               "-ftl": "2200",
@@ -1193,7 +1199,7 @@
               }
             },
             {
-              "-id": "9777680930",
+              "-id": "9778938330",
               "-ft": "20230411000000",
               "-to": "20230411010000",
               "-ftl": "2400",
