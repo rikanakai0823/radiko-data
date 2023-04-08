@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1680892005",
+    "srvtime": "1680978422",
     "stations": {
       "station": {
         "-id": "INT",
@@ -618,7 +618,7 @@
               }
             },
             {
-              "-id": "9778967032",
+              "-id": "9779583646",
               "-ft": "20230407150000",
               "-to": "20230407160000",
               "-ftl": "1500",
@@ -633,6 +633,10 @@
               "pfm": "永野 / Mickey",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/3db76c07-fd93-47a3-827f-613a4c0834c4.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
@@ -857,7 +861,7 @@
               }
             },
             {
-              "-id": "9778967182",
+              "-id": "9779583738",
               "-ft": "20230408000000",
               "-to": "20230408010000",
               "-ftl": "2400",
@@ -872,7 +876,24 @@
               "info": "\n",
               "pfm": "大貫憲章 / MARTIN-KINOO / はせはじむ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/692fe442-0a46-4436-8df9-b9990f4f3a43.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "大貫憲章"
+                  },
+                  {
+                    "name": "MARTINーKINOO"
+                  },
+                  {
+                    "name": "はせはじむ"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
@@ -912,7 +933,7 @@
               }
             },
             {
-              "-id": "9776592295",
+              "-id": "9779583752",
               "-ft": "20230408013000",
               "-to": "20230408020000",
               "-ftl": "2530",
