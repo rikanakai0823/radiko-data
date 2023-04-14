@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1681410435",
+    "srvtime": "1681496828",
     "stations": {
       "station": {
         "-id": "YBC",
@@ -155,7 +155,7 @@
               }
             },
             {
-              "-id": "9782675496",
+              "-id": "9783204970",
               "-ft": "20230418053000",
               "-to": "20230418063000",
               "-ftl": "0530",
@@ -169,33 +169,14 @@
               "desc": "<img src=\"https://ssl.ybc.co.jp/k2/RA/radikoimg/img509.jpg\">　<img src=\"https://ssl.ybc.co.jp/k2/RA/radikoimg/img909.jpg\"><br/><br/>最新ニュースから健康情報まで、幅広さは「聴くスポーツ紙」！1日の始まりは、元気いっぱいの生島ヒロシと共に！",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YBC/tsilegfhlu.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "SPITZ"
-                  },
-                  {
-                    "name": "草野マサムネ"
-                  },
-                  {
-                    "name": "音楽との出会いが楽しめる"
-                  },
-                  {
-                    "name": "人気アーティストトーク"
-                  },
-                  {
-                    "name": "気分転換におすすめ"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -239,7 +220,7 @@
               }
             },
             {
-              "-id": "9782675711",
+              "-id": "9783205020",
               "-ft": "20230418064500",
               "-to": "20230418070000",
               "-ftl": "0645",
@@ -255,17 +236,17 @@
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YBC/139ffrsp09.jpg",
               "tag": {
                 "item": {
-                  "name": "人気アーティストトーク"
+                  "name": "音楽との出会いが楽しめる"
                 }
               },
               "genre": {
                 "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -802,7 +783,7 @@
               }
             },
             {
-              "-id": "9782676673",
+              "-id": "9783156792",
               "-ft": "20230418125500",
               "-to": "20230418130000",
               "-ftl": "1255",
@@ -814,12 +795,6 @@
               "ts_out_ng": "0",
               "pfm": "伊集院光",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YBC/0bab1103-5b0c-4485-bd5f-245a65e997a5.png",
-              "genre": {
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1387,7 +1362,7 @@
               }
             },
             {
-              "-id": "9782678264",
+              "-id": "9783205679",
               "-ft": "20230419000000",
               "-to": "20230419010000",
               "-ftl": "2400",
@@ -1401,41 +1376,6 @@
               "desc": "月～木曜の深夜0時台は関西ジャニーズJr.出身の今江大地がお届けします！\nZ世代の「好き」にもっと寄り添い、「好き」を拡げるレコメンド番組です！\n\nメールもたくさんお待ちしています。　感想は #レコメン をつけてつぶやいてください！",
               "pfm": "今江大地",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YBC/.x5ne44de3.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "山下達郎"
-                  },
-                  {
-                    "name": "音楽との出会いが楽しめる"
-                  },
-                  {
-                    "name": "人気アーティストトーク"
-                  },
-                  {
-                    "name": "音楽プロデューサー出演"
-                  },
-                  {
-                    "name": "作業がはかどる"
-                  },
-                  {
-                    "name": "ドライブ中におすすめ"
-                  },
-                  {
-                    "name": "気分転換におすすめ"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1444,7 +1384,7 @@
               }
             },
             {
-              "-id": "9782678379",
+              "-id": "9783205748",
               "-ft": "20230419010000",
               "-to": "20230419030000",
               "-ftl": "2500",
@@ -1460,9 +1400,13 @@
               "pfm": "星野源",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/YBC/i6yp5nhzrg.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {

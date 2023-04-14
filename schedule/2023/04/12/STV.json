@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1681410401",
+    "srvtime": "1681496797",
     "stations": {
       "station": {
         "-id": "STV",
@@ -306,7 +306,7 @@
               }
             },
             {
-              "-id": "9782865637",
+              "-id": "9783213348",
               "-ft": "20230412160000",
               "-to": "20230412175500",
               "-ftl": "1600",
@@ -410,13 +410,14 @@
               }
             },
             {
-              "-id": "9782671531",
+              "-id": "9783122561",
               "-ft": "20230412212000",
               "-to": "20230412220000",
               "-ftl": "2120",
               "-tol": "2200",
               "-dur": "2400",
               "title": "リアルタイム！",
+              "url": "https://www.stv.jp/radio/realtime/index.html",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -424,18 +425,15 @@
               "info": "メール：win@stv.jp<br/>Twitterハッシュタグ：#田村みなみのリアルタイム　#stvradio<br/>Twitterアカウント：@stvradio",
               "pfm": "田村みなみ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/STV/ba0eaefb-c860-47c4-89b0-0088196515f4.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "政治・経済を学べる"
-                  },
-                  {
-                    "name": "作業がはかどる"
-                  },
-                  {
-                    "name": "ドライブ中におすすめ"
-                  }
-                ]
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
               },
               "metas": {
                 "meta": {
@@ -519,7 +517,7 @@
               }
             },
             {
-              "-id": "9782865835",
+              "-id": "9783182294",
               "-ft": "20230413010000",
               "-to": "20230413030000",
               "-ftl": "2500",
