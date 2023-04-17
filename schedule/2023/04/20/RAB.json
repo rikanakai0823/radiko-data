@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1681496834",
+    "srvtime": "1681756055",
     "stations": {
       "station": {
         "-id": "RAB",
@@ -10,17 +10,38 @@
           "date": "20230420",
           "prog": [
             {
-              "-id": "9783472388",
+              "-id": "9785063403",
               "-ft": "20230420050000",
               "-to": "20230420053000",
               "-ftl": "0500",
               "-tol": "0530",
               "-dur": "1800",
-              "title": "朝から　おとらじ!",
+              "title": "朝から　おとらじ！",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "大友寿郎",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a1829ea1-4b98-4675-8be1-41295a22aec5.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "大友寿郎"
+                  },
+                  {
+                    "name": "GG"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -29,7 +50,7 @@
               }
             },
             {
-              "-id": "9783472424",
+              "-id": "9785063442",
               "-ft": "20230420053000",
               "-to": "20230420063000",
               "-ftl": "0530",
@@ -39,7 +60,23 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "生島ヒロシ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/5476behcdk.png",
+              "tag": {
+                "item": {
+                  "name": "生島ヒロシ"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -48,17 +85,19 @@
               }
             },
             {
-              "-id": "9783472461",
+              "-id": "9785063484",
               "-ft": "20230420063000",
               "-to": "20230420063700",
               "-ftl": "0630",
               "-tol": "0637",
               "-dur": "420",
               "title": "ＥＮＥＯＳプレゼンツ　あさナビ",
+              "url": "https://www.1242.com/hada/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "黒木瞳",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/6b30fbd2-a526-47c6-b281-d54dd069b13a.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -67,7 +106,7 @@
               }
             },
             {
-              "-id": "9783472467",
+              "-id": "9783666306",
               "-ft": "20230420063700",
               "-to": "20230420064500",
               "-ftl": "0637",
@@ -86,17 +125,40 @@
               }
             },
             {
-              "-id": "9783472472",
+              "-id": "9785063499",
               "-ft": "20230420064500",
               "-to": "20230420070000",
               "-ftl": "0645",
               "-tol": "0700",
               "-dur": "900",
               "title": "歌のない歌謡曲",
+              "url": "http://www.rab.co.jp/radio/utanashi/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "desc": "毎朝、さわやかなインストゥルーメンタル曲にのせて、役立つ生活情報をお届けしています。誕生日の“おめでとう”コメントなど、メッセージもリクエスト曲とともに募集しています。",
+              "pfm": "筋野裕子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/blp1p6arc7.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "歌なし"
+                  },
+                  {
+                    "name": "歌謡曲"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -105,17 +167,20 @@
               }
             },
             {
-              "-id": "9783472481",
+              "-id": "9785063507",
               "-ft": "20230420070000",
-              "-to": "20230420110000",
+              "-to": "20230420074500",
               "-ftl": "0700",
-              "-tol": "1100",
-              "-dur": "14400",
+              "-tol": "0745",
+              "-dur": "2700",
               "title": "朝わい！くりっぷ",
               "failed_record": "0",
-              "ts_in_ng": "1",
-              "ts_out_ng": "1",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "朝の情報はラジオから・・・。忙しい時間も、最新のニュースと生活情報をラジオでクリップ！そして９時からは、音楽とメッセージでにぎわいのひとときへ。テーマ「もうこりごり…グッバイ腰痛！」",
+              "info": "<br /><br/><br /><br/><a href=\"mailto:asac@rab.co.jp\">メールはこちら</a><br/><br /><br/><br /><br/>twitterアカウント「<a href=\"https://twitter.com/twi_asaclip\">@twi_asaclip</a>」<br/><br /><br/>twitterハッシュタグ「<a href=\"https://twitter.com/search?q=%23朝くり\">#朝くり</a>」<br/><br /><br/><br /><br/><br /><br/><br /><br/><br />",
+              "pfm": "田村啓美",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/d0d54ff8-b5c4-46c6-ae9b-0faaa3a32cb1.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -124,7 +189,7 @@
               }
             },
             {
-              "-id": "9783472502",
+              "-id": "9785063533",
               "-ft": "20230420074500",
               "-to": "20230420075000",
               "-ftl": "0745",
@@ -159,7 +224,7 @@
               }
             },
             {
-              "-id": "9783472505",
+              "-id": "9785063538",
               "-ft": "20230420075000",
               "-to": "20230420090000",
               "-ftl": "0750",
@@ -181,7 +246,7 @@
               }
             },
             {
-              "-id": "9783472506",
+              "-id": "9785063539",
               "-ft": "20230420090000",
               "-to": "20230420110000",
               "-ftl": "0900",
@@ -203,7 +268,7 @@
               }
             },
             {
-              "-id": "9783472592",
+              "-id": "9783666496",
               "-ft": "20230420110000",
               "-to": "20230420110500",
               "-ftl": "1100",
@@ -222,7 +287,7 @@
               }
             },
             {
-              "-id": "9783472601",
+              "-id": "9785063701",
               "-ft": "20230420110500",
               "-to": "20230420111500",
               "-ftl": "1105",
@@ -232,7 +297,18 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "大竹まこと",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/381e8b68-9f2b-41e1-97ff-1fabec20a0b3.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -241,7 +317,7 @@
               }
             },
             {
-              "-id": "9783472603",
+              "-id": "9785063703",
               "-ft": "20230420111500",
               "-to": "20230420112500",
               "-ftl": "1115",
@@ -251,7 +327,18 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "杉原テツ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/d349c0be-721f-4dc0-bd06-e4a632a64dc7.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -260,17 +347,19 @@
               }
             },
             {
-              "-id": "9783472607",
+              "-id": "9785063705",
               "-ft": "20230420112500",
               "-to": "20230420113500",
               "-ftl": "1125",
               "-tol": "1135",
               "-dur": "600",
               "title": "大自然まるかじりライフ",
+              "url": "https://blogs.mbc.co.jp/popo/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "河村通夫",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/iffvx2gsjk.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -279,7 +368,7 @@
               }
             },
             {
-              "-id": "9783472617",
+              "-id": "9783666529",
               "-ft": "20230420113500",
               "-to": "20230420114500",
               "-ftl": "1135",
@@ -298,7 +387,7 @@
               }
             },
             {
-              "-id": "9783472623",
+              "-id": "9785063728",
               "-ft": "20230420114500",
               "-to": "20230420115500",
               "-ftl": "1145",
@@ -317,7 +406,7 @@
               }
             },
             {
-              "-id": "9783472631",
+              "-id": "9783666548",
               "-ft": "20230420115500",
               "-to": "20230420160000",
               "-ftl": "1155",
@@ -336,7 +425,7 @@
               }
             },
             {
-              "-id": "9783472769",
+              "-id": "9783666738",
               "-ft": "20230420160000",
               "-to": "20230420160500",
               "-ftl": "1600",
@@ -355,7 +444,7 @@
               }
             },
             {
-              "-id": "9783472779",
+              "-id": "9783666749",
               "-ft": "20230420160500",
               "-to": "20230420161000",
               "-ftl": "1605",
@@ -374,7 +463,7 @@
               }
             },
             {
-              "-id": "9783472781",
+              "-id": "9785063931",
               "-ft": "20230420161000",
               "-to": "20230420162500",
               "-ftl": "1610",
@@ -384,7 +473,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "desc": "演歌・フォーク・J-POP・アイドルなど、ちょっと懐かしい「歌謡曲」をお送りします。また、週変わりで食材を決め、お酒に合う「おつまみレシピ」を募集。",
+              "pfm": "伊東幸子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/clkhwgns4h.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -393,17 +484,27 @@
               }
             },
             {
-              "-id": "9783472785",
+              "-id": "9785063934",
               "-ft": "20230420162500",
               "-to": "20230420163500",
               "-ftl": "1625",
               "-tol": "1635",
               "-dur": "600",
-              "title": "ラジカセメモリーズ",
+              "title": "ミュージック・ジグソーパズル",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/5d73c72c-fb52-423b-831d-e20deac575eb.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -412,7 +513,7 @@
               }
             },
             {
-              "-id": "9783472793",
+              "-id": "9785063945",
               "-ft": "20230420163500",
               "-to": "20230420164500",
               "-ftl": "1635",
@@ -422,7 +523,17 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/4e4c4d2a-642d-46b5-9e1e-bc5bd082755e.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -431,7 +542,7 @@
               }
             },
             {
-              "-id": "9783472796",
+              "-id": "9783666769",
               "-ft": "20230420164500",
               "-to": "20230420165000",
               "-ftl": "1645",
@@ -450,7 +561,7 @@
               }
             },
             {
-              "-id": "9783472801",
+              "-id": "9785063963",
               "-ft": "20230420165000",
               "-to": "20230420170000",
               "-ftl": "1650",
@@ -460,7 +571,23 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "桂宮治",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/5ac90eca-d1f8-420b-ab7c-63acdb95bb03.png",
+              "tag": {
+                "item": {
+                  "name": "桂宮治"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -469,7 +596,7 @@
               }
             },
             {
-              "-id": "9783472814",
+              "-id": "9785063984",
               "-ft": "20230420170000",
               "-to": "20230420171500",
               "-ftl": "1700",
@@ -498,7 +625,7 @@
               }
             },
             {
-              "-id": "9783472830",
+              "-id": "9783666809",
               "-ft": "20230420171500",
               "-to": "20230420172500",
               "-ftl": "1715",
@@ -517,7 +644,7 @@
               }
             },
             {
-              "-id": "9783472837",
+              "-id": "9785064005",
               "-ft": "20230420172500",
               "-to": "20230420173000",
               "-ftl": "1725",
@@ -527,7 +654,17 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/ac1282ee-865c-4c39-a205-0d547d9784ee.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -536,7 +673,7 @@
               }
             },
             {
-              "-id": "9783472844",
+              "-id": "9785064015",
               "-ft": "20230420173000",
               "-to": "20230420174500",
               "-ftl": "1730",
@@ -547,6 +684,16 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -555,17 +702,21 @@
               }
             },
             {
-              "-id": "9783472850",
+              "-id": "9785064023",
               "-ft": "20230420174500",
               "-to": "20230420180000",
               "-ftl": "1745",
               "-tol": "1800",
               "-dur": "900",
               "title": "ドライバーズＪ",
+              "url": "https://blogs.mbc.co.jp/suzume/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "desc": "ヘッドライトが行き交う黄昏のひととき・・・。 一日の仕事の終わりに、そして、プライべートタイムの始まりに、 ドライバーズ・シートで聴きたい音楽をカーラジオからナビゲートします。",
+              "info": "<br /><br/><br /><br/><a href=\"\"mailto:dr-j@rab.co.jp\"\">メールはこちら</a><br/><br /><br/><br /><br/>twitterアカウント「<a href=\"\"https://twitter.com/tw_driversj\"\">@tw_driversj</a>」<br/><br /><br/>twitterハッシュタグ「<a href=\"\"https://twitter.com/search?q=%23ドラJ\"\">#ドラJ</a>」<br/><br /><br/><br /><br/><br />",
+              "pfm": "成田洋明",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/ol5at0i8en.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -574,7 +725,7 @@
               }
             },
             {
-              "-id": "9783472870",
+              "-id": "9783666867",
               "-ft": "20230420180000",
               "-to": "20230420181000",
               "-ftl": "1800",
@@ -593,7 +744,7 @@
               }
             },
             {
-              "-id": "9783472877",
+              "-id": "9785064061",
               "-ft": "20230420181000",
               "-to": "20230420182000",
               "-ftl": "1810",
@@ -628,7 +779,7 @@
               }
             },
             {
-              "-id": "9783472881",
+              "-id": "9785064066",
               "-ft": "20230420182000",
               "-to": "20230420182500",
               "-ftl": "1820",
@@ -662,7 +813,7 @@
               }
             },
             {
-              "-id": "9783472882",
+              "-id": "9785064067",
               "-ft": "20230420182500",
               "-to": "20230420210000",
               "-ftl": "1825",
@@ -681,7 +832,7 @@
               }
             },
             {
-              "-id": "9783472969",
+              "-id": "9785064168",
               "-ft": "20230420210000",
               "-to": "20230420220000",
               "-ftl": "2100",
@@ -700,7 +851,7 @@
               }
             },
             {
-              "-id": "9783473018",
+              "-id": "9785064225",
               "-ft": "20230420220000",
               "-to": "20230421000000",
               "-ftl": "2200",
@@ -710,7 +861,18 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "渡辺満里奈",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/3hnvhj9dlg.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -719,7 +881,7 @@
               }
             },
             {
-              "-id": "9783473081",
+              "-id": "9785064315",
               "-ft": "20230421000000",
               "-to": "20230421010000",
               "-ftl": "2400",
@@ -729,7 +891,23 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "今江大地",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/xgi4sksnuc.png",
+              "tag": {
+                "item": {
+                  "name": "今江大地"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -738,7 +916,7 @@
               }
             },
             {
-              "-id": "9783473121",
+              "-id": "9785064360",
               "-ft": "20230421010000",
               "-to": "20230421030000",
               "-ftl": "2500",
@@ -748,7 +926,23 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "ナインティナイン",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/c9b9e045-f606-4602-8839-0358689f88d1.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ナインティナイン"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -757,7 +951,7 @@
               }
             },
             {
-              "-id": "9783473163",
+              "-id": "9785064400",
               "-ft": "20230421030000",
               "-to": "20230421043000",
               "-ftl": "2700",
@@ -767,7 +961,23 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "マヂカルラブリー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/0f23bd0a-aed4-49fb-8c2f-72d761103206.jpeg",
+              "tag": {
+                "item": {
+                  "name": "マヂカルラブリー"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -776,7 +986,7 @@
               }
             },
             {
-              "-id": "9783473189",
+              "-id": "9785064431",
               "-ft": "20230421043000",
               "-to": "20230421050000",
               "-ftl": "2830",
@@ -786,7 +996,23 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a2438e53-b75f-411d-bbe1-943aeadf81f8.png",
+              "pfm": "上柳昌彦",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/ce27cd03-f50b-4710-8dd8-9bbde0b03bf3.jpeg",
+              "tag": {
+                "item": {
+                  "name": "上柳昌彦"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
