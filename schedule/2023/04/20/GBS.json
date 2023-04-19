@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1681496833",
+    "srvtime": "1681928834",
     "stations": {
       "station": {
         "-id": "GBS",
@@ -10,7 +10,7 @@
           "date": "20230420",
           "prog": [
             {
-              "-id": "9782681635",
+              "-id": "9786793161",
               "-ft": "20230420050000",
               "-to": "20230420060000",
               "-ftl": "0500",
@@ -69,7 +69,7 @@
               }
             },
             {
-              "-id": "9782682014",
+              "-id": "9786793357",
               "-ft": "20230420061000",
               "-to": "20230420061500",
               "-ftl": "0610",
@@ -81,6 +81,12 @@
               "ts_out_ng": "0",
               "desc": "　",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/GBS/8da6a2d4-b5c9-4cf7-8339-9af7dfa2282c.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P016",
+                  "name": "宗教"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -120,7 +126,7 @@
               }
             },
             {
-              "-id": "9782682028",
+              "-id": "9786793360",
               "-ft": "20230420062000",
               "-to": "20230420063000",
               "-ftl": "0620",
@@ -134,10 +140,27 @@
               "info": "<br>番組へのメッセージはこちら<br><a href=\"mailto:takako@24.am\">takako@24.am</a><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%B2%A1%E6%9D%91%E5%AD%9D%E5%AD%90\">#岡村孝子</a>」「#あの頃ミュージック」<br>twitterアカウントは「<a href=\"http://twitter.com/anokoromusic\">@anokoromusic</a>」",
               "pfm": "岡村孝子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/GBS/b7e1c6d3-9310-48b1-a273-7e9fb63fc2a5.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "岡村孝子"
+                  },
+                  {
+                    "name": "あの頃ミュージック"
+                  },
+                  {
+                    "name": "人気アーティストトーク"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
