@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1681928834",
+    "srvtime": "1682015225",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -10,7 +10,7 @@
           "date": "20230420",
           "prog": [
             {
-              "-id": "9786656866",
+              "-id": "9787423796",
               "-ft": "20230420050000",
               "-to": "20230420063000",
               "-ftl": "0500",
@@ -61,7 +61,7 @@
               }
             },
             {
-              "-id": "9786487136",
+              "-id": "9787423819",
               "-ft": "20230420063000",
               "-to": "20230420090000",
               "-ftl": "0630",
@@ -115,7 +115,7 @@
               }
             },
             {
-              "-id": "9786657198",
+              "-id": "9787423847",
               "-ft": "20230420090000",
               "-to": "20230420120000",
               "-ftl": "0900",
@@ -126,7 +126,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_miyosawa.jpg\" width=\"100\"><img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_katsura_n.jpg\" width=\"100\"><BR><BR>おじさんが卵かけごはんを食べます！他／<BR><BR>メールアドレス：miyo@abc1008.com<BR><BR>twitter ハッシュタグ：ドキハキ<BR><BR>twitter アカウント：@dokihaki_abc<BR><BR>facebookページ：「https://www.facebook.com/dokihaki 」<BR><BR><BR>",
+              "info": "<img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_miyosawa.jpg\" width=\"100\"><img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_katsura_n.jpg\" width=\"100\"><BR><BR>おじさんが卵かけごはんを食べます！他／<BR><BR>メールアドレス：miyo@abc1008.com<BR><BR>twitter ハッシュタグ：ドキハキ<BR><BR>twitter アカウント：@dokihaki_abc<BR><BR>facebookページ：「https://www.facebook.com/dokihaki 」<BR><BR>メールアドレス：<a href=\"mailto:miyo@abc1008.com\">miyo@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%89%E3%82%AD%E3%83%8F%E3%82%AD\">#ドキハキ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/dokihaki_abc\">@dokihaki_abc</a>」<BR><BR>facebookページは「<a href='http://www.facebook.com/https://www.facebook.com/dokihaki'>http://www.facebook.com/https://www.facebook.com/dokihaki</a>」<BR><BR><BR>",
               "pfm": "三代澤康司／桂南天",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/9b4f00af-6308-4ef4-a7a6-9936619b2dc2.jpeg",
               "tag": {
@@ -156,14 +156,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ドキハキ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:dokihaki_abc"
+                  }
+                ]
               }
             },
             {
-              "-id": "9786487584",
+              "-id": "9787423871",
               "-ft": "20230420120000",
               "-to": "20230420150000",
               "-ftl": "1200",
@@ -206,7 +212,7 @@
               }
             },
             {
-              "-id": "9786487882",
+              "-id": "9787598282",
               "-ft": "20230420150000",
               "-to": "20230420174500",
               "-ftl": "1500",
@@ -226,13 +232,10 @@
                     "name": "浦川泰幸"
                   },
                   {
-                    "name": "角田龍平"
+                    "name": "中西正男"
                   },
                   {
-                    "name": "浜田順平"
-                  },
-                  {
-                    "name": "みながわ"
+                    "name": "塩田えみ"
                   }
                 ]
               },
@@ -260,7 +263,7 @@
               }
             },
             {
-              "-id": "9786488137",
+              "-id": "9787403609",
               "-ft": "20230420174500",
               "-to": "20230420175500",
               "-ftl": "1745",
@@ -285,7 +288,7 @@
               }
             },
             {
-              "-id": "9786658024",
+              "-id": "9787403632",
               "-ft": "20230420175500",
               "-to": "20230420200000",
               "-ftl": "1755",
@@ -335,12 +338,12 @@
               }
             },
             {
-              "-id": "9786658204",
+              "-id": "9787439419",
               "-ft": "20230420200000",
-              "-to": "20230420210000",
+              "-to": "20230420221500",
               "-ftl": "2000",
-              "-tol": "2100",
-              "-dur": "3600",
+              "-tol": "2215",
+              "-dur": "8100",
               "title": "ＡＢＣフレッシュアップベースボール(2)",
               "url": "https://abcradio.asahi.co.jp/baseball/",
               "failed_record": "0",
@@ -385,111 +388,12 @@
               }
             },
             {
-              "-id": "9786488442",
-              "-ft": "20230420210000",
-              "-to": "20230420210500",
-              "-ftl": "2100",
-              "-tol": "2105",
-              "-dur": "300",
-              "title": "ＡＢＣニュース＆天気予報",
-              "url": "https://www.abc1008.com/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9786488455",
-              "-ft": "20230420210500",
-              "-to": "20230420215000",
-              "-ftl": "2105",
-              "-tol": "2150",
-              "-dur": "2700",
-              "title": "田淵麻里奈の夜あそびはココから",
-              "url": "https://abcradio.asahi.co.jp/yoasobi/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<img src=\"https://abcradio.asahi.co.jp/img/program/yoasobi.jpg\" width=\"100\"><BR><BR>番組Twitter アカウント：<a href=\"https://twitter.com/yorukoko1008\">@yorukoko1008</a><BR>ハッシュタグ「# 夜ココ」を付けてツイートしてね！<BR><BR>ABC ラジオ公式Twitter アカウント：<a href=\"https://twitter.com/abc1008khz\">@abc1008khz</a><BR>ハッシュタグ「#ABCラジオ」を付けてツイートしてね！<BR><BR>メールアドレス：<a href=\"mailto:tm@abc1008.com\">tm@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%A4%9C%E3%82%B3%E3%82%B3\">#夜ココ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/yorukoko1008\">@yorukoko1008</a>」<BR><BR><BR>",
-              "pfm": "田淵麻里奈",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/fb072740-8f7d-4782-82df-46d5d9c50e55.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#夜ココ"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:yorukoko1008"
-                  }
-                ]
-              }
-            },
-            {
-              "-id": "9786488483",
-              "-ft": "20230420215000",
-              "-to": "20230420220000",
-              "-ftl": "2150",
-              "-tol": "2200",
-              "-dur": "600",
-              "title": "スポーツ伝説",
-              "url": "https://abcradio.asahi.co.jp",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "pfm": "滝本沙奈",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/4xhcfovoph.jpg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C013",
-                  "name": "アスリート"
-                },
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9786658418",
-              "-ft": "20230420220000",
+              "-id": "9787444454",
+              "-ft": "20230420221500",
               "-to": "20230421003000",
-              "-ftl": "2200",
+              "-ftl": "2215",
               "-tol": "2430",
-              "-dur": "9000",
+              "-dur": "8100",
               "title": "ＡＢＣミュージックパラダイス",
               "url": "https://abcradio.asahi.co.jp/abcmp/",
               "failed_record": "0",
@@ -498,21 +402,6 @@
               "info": "<img src=\"https://www.abc1008.com/program/personality/photo/photo_masuda_saor.jpg\" width=\"100\"><BR><BR>１１時台トモオ＆１２時台にはヨネダ２０００生登場！▼ベリーグッドマン・ロバー＆増田アナ　<BR><BR><BR><img src=\"https://www.abc1008.com/program/personality/photo/photo_rover.jpg\" width=\"100\"><BR><BR>★「ソロ活女子のススメ３」オープニング曲を歌う<BR>ＴＯＭＯＯがスタジオ生登場！<BR>★ベリーグッドマンのがちファン！ヨネダ２０００も生登場！<BR><BR>２２時台<BR>▼リリース前の最新曲やバズってるあの曲！<BR>今夜聴くべき楽曲をお届け「ミューパラプレイリスト」<BR><BR>２３時台<BR>▼様々なアーティストをゲストにお迎えします！<BR><BR>２４時台<BR>▼てっぺんリクエスト！<BR>　明日のアナタの予定とリクエスト曲を送ってください！<BR><BR>メールアドレス：mp@abc1008.com<BR><BR>twitter 、TikTok、Instagram はぜんぶ「abcmp1008933」<BR><BR>ハッシュタグは「# ミューパラ」<BR><BR><BR><BR>",
               "pfm": "増田紗織／Rover （ベリーグッドマン）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/3fdf2ee6-ca57-4aee-9dd8-05135c12cede.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -521,7 +410,7 @@
               }
             },
             {
-              "-id": "9786488695",
+              "-id": "9787424025",
               "-ft": "20230421003000",
               "-to": "20230421010000",
               "-ftl": "2430",
@@ -549,7 +438,7 @@
               }
             },
             {
-              "-id": "9786488777",
+              "-id": "9787424032",
               "-ft": "20230421010000",
               "-to": "20230421013000",
               "-ftl": "2500",
@@ -592,7 +481,7 @@
               }
             },
             {
-              "-id": "9786488791",
+              "-id": "9787424038",
               "-ft": "20230421013000",
               "-to": "20230421020000",
               "-ftl": "2530",
@@ -620,7 +509,7 @@
               }
             },
             {
-              "-id": "9786488831",
+              "-id": "9787404278",
               "-ft": "20230421020000",
               "-to": "20230421030000",
               "-ftl": "2600",
@@ -663,7 +552,7 @@
               }
             },
             {
-              "-id": "9786488849",
+              "-id": "9787404293",
               "-ft": "20230421030000",
               "-to": "20230421040000",
               "-ftl": "2700",
@@ -706,7 +595,7 @@
               }
             },
             {
-              "-id": "9786488896",
+              "-id": "9787404339",
               "-ft": "20230421040000",
               "-to": "20230421041500",
               "-ftl": "2800",
@@ -749,7 +638,7 @@
               }
             },
             {
-              "-id": "9786488901",
+              "-id": "9787404344",
               "-ft": "20230421041500",
               "-to": "20230421043500",
               "-ftl": "2815",
@@ -774,7 +663,7 @@
               }
             },
             {
-              "-id": "9786488909",
+              "-id": "9787404351",
               "-ft": "20230421043500",
               "-to": "20230421045000",
               "-ftl": "2835",
@@ -805,7 +694,7 @@
               }
             },
             {
-              "-id": "9786488912",
+              "-id": "9787404354",
               "-ft": "20230421045000",
               "-to": "20230421050000",
               "-ftl": "2850",
