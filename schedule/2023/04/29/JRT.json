@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1682274431",
+    "srvtime": "1682360845",
     "stations": {
       "station": {
         "-id": "JRT",
@@ -1608,12 +1608,12 @@
               }
             },
             {
-              "-id": "9789691001",
+              "-id": "9790639186",
               "-ft": "20230430010000",
-              "-to": "20230430050000",
+              "-to": "20230430030000",
               "-ftl": "2500",
-              "-tol": "2900",
-              "-dur": "14400",
+              "-tol": "2700",
+              "-dur": "7200",
               "title": "ニチレイプレゼンツオードリーのオールナイトニッポン",
               "url": "https://www.allnightnippon.com/kw/",
               "failed_record": "0",
@@ -1637,6 +1637,43 @@
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9790720324",
+              "-ft": "20230430030000",
+              "-to": "20230430050000",
+              "-ftl": "2700",
+              "-tol": "2900",
+              "-dur": "7200",
+              "title": "オールナイトニッポン０（ＺＥＲＯ）",
+              "url": "https://www.allnightnippon.com/zero-sat/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "NEE",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JRT/b099722b-91df-410c-9968-d6bea28845cf.jpeg",
+              "tag": {
+                "item": {
+                  "name": "オールナイトニッポンニッポン0(ZERO)"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
                 },
                 "program": {
                   "-id": "P007",
