@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1683052066",
+    "srvtime": "1683397609",
     "stations": {
       "station": {
         "-id": "JORF",
@@ -696,7 +696,7 @@
               }
             },
             {
-              "-id": "9797811676",
+              "-id": "9801484950",
               "-ft": "20230506213000",
               "-to": "20230506220000",
               "-ftl": "2130",
@@ -711,7 +711,16 @@
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23arashi1422\">#arashi1422</a>」",
               "pfm": "森友嵐士",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JORF/61b1a620-7d47-4889-87bb-e9ecbfe59815.png",
+              "tag": {
+                "item": {
+                  "name": "人気アーティストトーク"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -780,7 +789,7 @@
               }
             },
             {
-              "-id": "9797811694",
+              "-id": "9801484992",
               "-ft": "20230506230000",
               "-to": "20230507000000",
               "-ftl": "2300",
@@ -795,7 +804,21 @@
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23otojazz\">#otojazz</a>」",
               "pfm": "紗理",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JORF/e498d12c-f47b-4df3-9ad5-321f75e7fc3d.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ジャズの魅力を楽しめる"
+                  },
+                  {
+                    "name": "寝る前に聴きたい"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
