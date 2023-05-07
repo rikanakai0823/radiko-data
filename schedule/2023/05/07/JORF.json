@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1683052073",
+    "srvtime": "1683484007",
     "stations": {
       "station": {
         "-id": "JORF",
@@ -144,7 +144,7 @@
               }
             },
             {
-              "-id": "9797811778",
+              "-id": "9802357784",
               "-ft": "20230507061500",
               "-to": "20230507063000",
               "-ftl": "0615",
@@ -340,7 +340,7 @@
               }
             },
             {
-              "-id": "9797811810",
+              "-id": "9802375164",
               "-ft": "20230507083000",
               "-to": "20230507084500",
               "-ftl": "0830",
@@ -355,6 +355,10 @@
               "pfm": "解説：佐藤直文（優馬）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JORF/2a3d6b87-cd38-49ef-bcc2-4dfd3cbf36c6.png",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P019",
                   "name": "公営競技"
@@ -895,7 +899,7 @@
               }
             },
             {
-              "-id": "9797811976",
+              "-id": "9802459918",
               "-ft": "20230507223000",
               "-to": "20230507230000",
               "-ftl": "2230",
@@ -910,7 +914,21 @@
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
               "pfm": "高田秋",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JORF/cc8920bc-2056-493b-8008-d82b56fabf79.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "人気モデル出演"
+                  },
+                  {
+                    "name": "気分転換におすすめ"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -924,7 +942,7 @@
               }
             },
             {
-              "-id": "9797811980",
+              "-id": "9802459928",
               "-ft": "20230507230000",
               "-to": "20230507233000",
               "-ftl": "2300",
@@ -939,7 +957,16 @@
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23tr924\">#tr924</a>」",
               "pfm": "大倉空人　長野凌大（原因は自分にある。）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/JORF/23f7f429-2962-41f0-b680-f5f854d0fb5e.jpeg",
+              "tag": {
+                "item": {
+                  "name": "学生におすすめ"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
