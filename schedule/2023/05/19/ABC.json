@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1684434387",
+    "srvtime": "1684520820",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -750,7 +750,7 @@
               }
             },
             {
-              "-id": "9811960330",
+              "-id": "9813265027",
               "-ft": "20230519200000",
               "-to": "20230519210000",
               "-ftl": "2000",
@@ -764,6 +764,19 @@
               "info": "阪神―広島（甲子園）<BR>※試合終了までお届けします。<BR>解説：矢野燿大<BR>実況：小縣裕介<BR><BR>（第１予備）<BR>ＤｅＮＡ―ヤクルト（横浜）<BR>解説：真中満<BR>実況：胡口和雄<BR><BR>（第２予備）<BR>楽天―ロッテ（楽天モバイル）<BR>解説：草野大輔<BR>実況：林田悟志<BR><BR>（第３予備）<BR>オリックス―日本ハム（京セラ）<BR>解説：中田良弘<BR>実況：寺田健人<BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc_toraban\">@abc_toraban</a>」<BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23toraban1008\">#toraban1008</a>」<BR><BR><BR>",
               "pfm": "阪神―広島（甲子園）　  ※試合終了までお届けします。　  解説：矢野燿大　  実況：小縣裕介　  　  （第１予備）　  ＤｅＮＡ―ヤクルト（横浜）　  解説：真中満　  実況：胡口和雄　  　  （第２予備）　  楽天―ロッテ（楽天モバイル）　  解説：草野大輔　  実況：林田悟志　  　  （第３予備）　  オリックス―日本ハム（京セラ）　  解説：中田良弘　  実況：寺田健人",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "#toraban1008"
+                  },
+                  {
+                    "name": "#ABCフレッシュアップベースボール"
+                  },
+                  {
+                    "name": "ABCラジオ"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C013",
@@ -788,11 +801,39 @@
               }
             },
             {
-              "-id": "9806681133",
+              "-id": "9813304157",
               "-ft": "20230519210000",
-              "-to": "20230519210500",
+              "-to": "20230519214500",
               "-ftl": "2100",
-              "-tol": "2105",
+              "-tol": "2145",
+              "-dur": "2700",
+              "title": "ＡＢＣフレッシュアップベースボール(4)",
+              "url": "https://abcradio.asahi.co.jp/baseball/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "阪神―広島（甲子園）<BR>※試合終了までお届けします。<BR>解説：矢野燿大<BR>実況：小縣裕介<BR><BR>（第１予備）<BR>ＤｅＮＡ―ヤクルト（横浜）<BR>解説：真中満<BR>実況：胡口和雄<BR><BR>（第２予備）<BR>楽天―ロッテ（楽天モバイル）<BR>解説：草野大輔<BR>実況：林田悟志<BR><BR>（第３予備）<BR>オリックス―日本ハム（京セラ）<BR>解説：中田良弘<BR>実況：寺田健人<BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc_toraban\">@abc_toraban</a>」<BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23toraban1008\">#toraban1008</a>」<BR><BR><BR>",
+              "pfm": "阪神―広島（甲子園）　  ※試合終了までお届けします。　  解説：矢野燿大　  実況：小縣裕介　  　  （第１予備）　  ＤｅＮＡ―ヤクルト（横浜）　  解説：真中満　  実況：胡口和雄　  　  （第２予備）　  楽天―ロッテ（楽天モバイル）　  解説：草野大輔　  実況：林田悟志　  　  （第３予備）　  オリックス―日本ハム（京セラ）　  解説：中田良弘　  実況：寺田健人",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#toraban1008"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:abc_toraban"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9813265048",
+              "-ft": "20230519214500",
+              "-to": "20230519215000",
+              "-ftl": "2145",
+              "-tol": "2150",
               "-dur": "300",
               "title": "ＡＢＣニュース＆天気予報",
               "url": "https://www.abc1008.com/",
@@ -800,67 +841,11 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
                   "-value": "#radiko"
                 }
-              }
-            },
-            {
-              "-id": "9806974866",
-              "-ft": "20230519210500",
-              "-to": "20230519215000",
-              "-ftl": "2105",
-              "-tol": "2150",
-              "-dur": "2700",
-              "title": "小早川秀樹のオシマシ！",
-              "url": "https://abcradio.asahi.co.jp/oshimashi/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_kobayakawa_h.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:om@abc1008.com\">om@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%AA%E3%82%B7%E3%83%9E%E3%82%B7\">#オシマシ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/oshimashi933\">@oshimashi933</a>」<BR><BR><BR>",
-              "pfm": "小早川秀樹",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/fc1e666f-0791-4689-8cbe-0860463101d7.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "#ABCラジオ"
-                  },
-                  {
-                    "name": "こばやん"
-                  },
-                  {
-                    "name": "オシマシ"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#オシマシ"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:oshimashi933"
-                  }
-                ]
               }
             },
             {
