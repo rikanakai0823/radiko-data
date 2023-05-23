@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1684779995",
+    "srvtime": "1684866348",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -898,7 +898,7 @@
               }
             },
             {
-              "-id": "9810383940",
+              "-id": "9816828789",
               "-ft": "20230523200000",
               "-to": "20230523210000",
               "-ftl": "2000",
@@ -949,11 +949,39 @@
               }
             },
             {
-              "-id": "9810141255",
+              "-id": "9816867523",
               "-ft": "20230523210000",
-              "-to": "20230523210500",
+              "-to": "20230523213500",
               "-ftl": "2100",
-              "-tol": "2105",
+              "-tol": "2135",
+              "-dur": "2100",
+              "title": "ＡＢＣフレッシュアップベースボール(4)",
+              "url": "https://abcradio.asahi.co.jp/baseball/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "ヤクルト―阪神（神宮）<BR>※試合終了までお届けします。<BR>解説：辻発彦<BR>実況：寺島啓太<BR><BR>（第１予備）<BR>巨人―ＤｅＮＡ（東京Ｄ）<BR>解説：篠塚和典<BR>実況：細渕武揚<BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc_toraban\">@abc_toraban</a>」<BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23toraban1008\">#toraban1008</a>」<BR><BR><BR>",
+              "pfm": "ヤクルト―阪神（神宮）　  ※試合終了までお届けします。　  解説：辻発彦　  実況：寺島啓太　  　  （第１予備）　  巨人―ＤｅＮＡ（東京Ｄ）　  解説：篠塚和典　  実況：細渕武揚",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#toraban1008"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:abc_toraban"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9816828811",
+              "-ft": "20230523213500",
+              "-to": "20230523214000",
+              "-ftl": "2135",
+              "-tol": "2140",
               "-dur": "300",
               "title": "ＡＢＣニュース＆天気予報",
               "url": "https://www.abc1008.com/",
@@ -961,11 +989,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -974,12 +997,12 @@
               }
             },
             {
-              "-id": "9812824623",
-              "-ft": "20230523210500",
+              "-id": "9816867527",
+              "-ft": "20230523214000",
               "-to": "20230523215000",
-              "-ftl": "2105",
+              "-ftl": "2140",
               "-tol": "2150",
-              "-dur": "2700",
+              "-dur": "600",
               "title": "田淵麻里奈の夜あそびはココから",
               "url": "https://abcradio.asahi.co.jp/yoasobi/",
               "failed_record": "0",
@@ -988,16 +1011,6 @@
               "info": "<img src=\"https://abcradio.asahi.co.jp/img/program/yoasobi.jpg\" width=\"100\"><BR><BR>番組Twitter アカウント：<a href=\"https://twitter.com/yorukoko1008\">@yorukoko1008</a><BR>ハッシュタグ「# 夜ココ」を付けてツイートしてね！<BR><BR>ABC ラジオ公式Twitter アカウント：<a href=\"https://twitter.com/abc1008khz\">@abc1008khz</a><BR>ハッシュタグ「#ABCラジオ」を付けてツイートしてね！<BR><BR>メールアドレス：<a href=\"mailto:tm@abc1008.com\">tm@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%A4%9C%E3%82%B3%E3%82%B3\">#夜ココ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/yorukoko1008\">@yorukoko1008</a>」<BR><BR><BR>",
               "pfm": "田淵麻里奈",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/fb072740-8f7d-4782-82df-46d5d9c50e55.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": [
                   {
@@ -1049,7 +1062,7 @@
               }
             },
             {
-              "-id": "9815791581",
+              "-id": "9816426457",
               "-ft": "20230523220000",
               "-to": "20230523230000",
               "-ftl": "2200",
@@ -1091,7 +1104,7 @@
               }
             },
             {
-              "-id": "9815791594",
+              "-id": "9816426478",
               "-ft": "20230523230000",
               "-to": "20230524000000",
               "-ftl": "2300",
@@ -1133,7 +1146,7 @@
               }
             },
             {
-              "-id": "9815791610",
+              "-id": "9816426571",
               "-ft": "20230524000000",
               "-to": "20230524003000",
               "-ftl": "2400",
@@ -1393,7 +1406,7 @@
               }
             },
             {
-              "-id": "9811242855",
+              "-id": "9816471350",
               "-ft": "20230524041500",
               "-to": "20230524043500",
               "-ftl": "2815",
