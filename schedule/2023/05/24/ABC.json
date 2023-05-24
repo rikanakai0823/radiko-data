@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1684866351",
+    "srvtime": "1684952889",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -888,7 +888,7 @@
               }
             },
             {
-              "-id": "9811271166",
+              "-id": "9817750892",
               "-ft": "20230524200000",
               "-to": "20230524210000",
               "-ftl": "2000",
@@ -939,103 +939,31 @@
               }
             },
             {
-              "-id": "9810995820",
+              "-id": "9817790105",
               "-ft": "20230524210000",
-              "-to": "20230524210500",
+              "-to": "20230524220000",
               "-ftl": "2100",
-              "-tol": "2105",
-              "-dur": "300",
-              "title": "ＡＢＣニュース＆天気予報",
-              "url": "https://www.abc1008.com/",
+              "-tol": "2200",
+              "-dur": "3600",
+              "title": "ＡＢＣフレッシュアップベースボール(4)",
+              "url": "https://abcradio.asahi.co.jp/baseball/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9816487915",
-              "-ft": "20230524210500",
-              "-to": "20230524215000",
-              "-ftl": "2105",
-              "-tol": "2150",
-              "-dur": "2700",
-              "title": "田淵麻里奈の夜あそびはココから",
-              "url": "https://abcradio.asahi.co.jp/yoasobi/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<img src=\"https://abcradio.asahi.co.jp/img/program/yoasobi.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:tm@abc1008.com\">tm@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%A4%9C%E3%82%B3%E3%82%B3\">#夜ココ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/yorukoko1008\">@yorukoko1008</a>」<BR><BR><BR>",
-              "pfm": "田淵麻里奈",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/fb072740-8f7d-4782-82df-46d5d9c50e55.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
+              "info": "ヤクルト―阪神（神宮）<BR>※試合終了までお届けします。<BR>解説：笘篠賢治<BR>実況：槇嶋範彦<BR><BR>（第１予備）<BR>巨人―ＤｅＮＡ（東京Ｄ）<BR>解説：中畑清<BR>実況：矢田雄二郎<BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc_toraban\">@abc_toraban</a>」<BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23toraban1008\">#toraban1008</a>」<BR><BR><BR>",
+              "pfm": "ヤクルト―阪神（神宮）　  ※試合終了までお届けします。　  解説：笘篠賢治　  実況：槇嶋範彦　  　  （第１予備）　  巨人―ＤｅＮＡ（東京Ｄ）　  解説：中畑清　  実況：矢田雄二郎",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
               "metas": {
                 "meta": [
                   {
                     "-name": "twitter",
-                    "-value": "#夜ココ"
+                    "-value": "#toraban1008"
                   },
                   {
                     "-name": "twitter",
-                    "-value": "from:yorukoko1008"
+                    "-value": "from:abc_toraban"
                   }
                 ]
-              }
-            },
-            {
-              "-id": "9811243488",
-              "-ft": "20230524215000",
-              "-to": "20230524220000",
-              "-ftl": "2150",
-              "-tol": "2200",
-              "-dur": "600",
-              "title": "スポーツ伝説",
-              "url": "https://abcradio.asahi.co.jp",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "アスリートを中心に、スポーツに関わっている人物の感動の物語をご紹介しています。<BR>華やかな舞台の裏側にある挫折や苦悩。それを乗り越えるための原動力とは。記録や記憶に残る伝説の裏側にある、もうひとつの「伝説」をお楽しみください。<BR><BR><BR><BR>",
-              "pfm": "滝本沙奈",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/4xhcfovoph.jpg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C013",
-                  "name": "アスリート"
-                },
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
               }
             },
             {
