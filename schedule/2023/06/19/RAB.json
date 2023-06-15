@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1686767214",
+    "srvtime": "1686853656",
     "stations": {
       "station": {
         "-id": "RAB",
@@ -10,7 +10,7 @@
           "date": "20230619",
           "prog": [
             {
-              "-id": "9834117957",
+              "-id": "9834794335",
               "-ft": "20230619050000",
               "-to": "20230619053000",
               "-ftl": "0500",
@@ -22,6 +22,26 @@
               "ts_out_ng": "0",
               "pfm": "大友寿郎",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/a1829ea1-4b98-4675-8be1-41295a22aec5.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "大友寿郎"
+                  },
+                  {
+                    "name": "GG"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -30,7 +50,7 @@
               }
             },
             {
-              "-id": "9834117965",
+              "-id": "9834828056",
               "-ft": "20230619053000",
               "-to": "20230619063000",
               "-ftl": "0530",
@@ -42,7 +62,16 @@
               "ts_out_ng": "0",
               "pfm": "生島ヒロシ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/5476behcdk.png",
+              "tag": {
+                "item": {
+                  "name": "生島ヒロシ"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -172,7 +201,7 @@
               }
             },
             {
-              "-id": "9834117989",
+              "-id": "9834803085",
               "-ft": "20230619074500",
               "-to": "20230619075000",
               "-ftl": "0745",
@@ -184,6 +213,21 @@
               "ts_out_ng": "0",
               "pfm": "羽田美智子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/c798e7f6-963d-4056-983a-b71fcaf531e3.jpeg",
+              "tag": {
+                "item": {
+                  "name": "羽田美智子"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -265,7 +309,7 @@
               }
             },
             {
-              "-id": "9834118026",
+              "-id": "9834828462",
               "-ft": "20230619110500",
               "-to": "20230619111500",
               "-ftl": "1105",
@@ -278,6 +322,10 @@
               "pfm": "大竹まこと",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/381e8b68-9f2b-41e1-97ff-1fabec20a0b3.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -291,7 +339,7 @@
               }
             },
             {
-              "-id": "9834118027",
+              "-id": "9834794416",
               "-ft": "20230619111500",
               "-to": "20230619112000",
               "-ftl": "1115",
@@ -304,6 +352,10 @@
               "pfm": "杉原テツ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/d349c0be-721f-4dc0-bd06-e4a632a64dc7.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
@@ -1095,7 +1147,7 @@
               }
             },
             {
-              "-id": "9834118176",
+              "-id": "9834794612",
               "-ft": "20230619220000",
               "-to": "20230620000000",
               "-ftl": "2200",
@@ -1108,6 +1160,10 @@
               "pfm": "森山良子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/0p6to1s464.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
@@ -1121,7 +1177,7 @@
               }
             },
             {
-              "-id": "9834118204",
+              "-id": "9834803341",
               "-ft": "20230620000000",
               "-to": "20230620010000",
               "-ftl": "2400",
@@ -1133,7 +1189,16 @@
               "ts_out_ng": "0",
               "pfm": "今江大地",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/RAB/3cdcf377-a6bd-4da4-85a3-82aef9426dc9.png",
+              "tag": {
+                "item": {
+                  "name": "今江大地"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
