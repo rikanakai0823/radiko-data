@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1689013680",
+    "srvtime": "1689186470",
     "stations": {
       "station": {
         "-id": "WBS",
@@ -10,7 +10,7 @@
           "date": "20230714",
           "prog": [
             {
-              "-id": "9854913871",
+              "-id": "9861335237",
               "-ft": "20230714050000",
               "-to": "20230714051000",
               "-ftl": "0500",
@@ -29,7 +29,7 @@
               }
             },
             {
-              "-id": "9854913901",
+              "-id": "9861338203",
               "-ft": "20230714051000",
               "-to": "20230714052000",
               "-ftl": "0510",
@@ -56,7 +56,7 @@
               }
             },
             {
-              "-id": "9854913925",
+              "-id": "9861338206",
               "-ft": "20230714052000",
               "-to": "20230714053000",
               "-ftl": "0520",
@@ -89,7 +89,7 @@
               }
             },
             {
-              "-id": "9859059336",
+              "-id": "9861338212",
               "-ft": "20230714053000",
               "-to": "20230714063000",
               "-ftl": "0530",
@@ -122,7 +122,7 @@
               }
             },
             {
-              "-id": "9854914127",
+              "-id": "9861335256",
               "-ft": "20230714063000",
               "-to": "20230714063500",
               "-ftl": "0630",
@@ -141,7 +141,7 @@
               }
             },
             {
-              "-id": "9859002930",
+              "-id": "9861338222",
               "-ft": "20230714063500",
               "-to": "20230714064000",
               "-ftl": "0635",
@@ -168,7 +168,7 @@
               }
             },
             {
-              "-id": "9854914157",
+              "-id": "9861335259",
               "-ft": "20230714064000",
               "-to": "20230714064700",
               "-ftl": "0640",
@@ -187,7 +187,7 @@
               }
             },
             {
-              "-id": "9859002958",
+              "-id": "9861338225",
               "-ft": "20230714064700",
               "-to": "20230714065400",
               "-ftl": "0647",
@@ -219,7 +219,7 @@
               }
             },
             {
-              "-id": "9854914191",
+              "-id": "9861335263",
               "-ft": "20230714065400",
               "-to": "20230714070000",
               "-ftl": "0654",
@@ -245,7 +245,7 @@
               }
             },
             {
-              "-id": "9855566483",
+              "-id": "9861338231",
               "-ft": "20230714070000",
               "-to": "20230714072500",
               "-ftl": "0700",
@@ -260,6 +260,10 @@
               "pfm": "北尾博伸",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/8ca5f0bb-72dd-47ae-aca2-115b35222a57.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -273,7 +277,7 @@
               }
             },
             {
-              "-id": "9854914255",
+              "-id": "9861338239",
               "-ft": "20230714072500",
               "-to": "20230714073000",
               "-ftl": "0725",
@@ -306,7 +310,7 @@
               }
             },
             {
-              "-id": "9855570194",
+              "-id": "9861338243",
               "-ft": "20230714073000",
               "-to": "20230714074500",
               "-ftl": "0730",
@@ -321,6 +325,16 @@
               "info": "朝のひとときにふさわしい、生活情報やバラエティにとんだ話題を取り上げるほか、懐メロから最近のヒット曲まで幅広い音楽を、「歌のない～」の番組名の通り、メロディだけの歌のない音楽としてお届けしています。\n\n<a href=\"https://www.utanashi.com/\">歌のない歌謡曲の番組内容はこちらから</a>",
               "pfm": "笠野衣美",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/4tw05wku6i.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -329,7 +343,7 @@
               }
             },
             {
-              "-id": "9859102520",
+              "-id": "9861338245",
               "-ft": "20230714074500",
               "-to": "20230714075000",
               "-ftl": "0745",
@@ -361,12 +375,43 @@
               }
             },
             {
-              "-id": "9855566501",
+              "-id": "9861380389",
               "-ft": "20230714075000",
-              "-to": "20230714084000",
+              "-to": "20230714075500",
               "-ftl": "0750",
+              "-tol": "0755",
+              "-dur": "300",
+              "title": "マエオカテツヤの千客万来！",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "漫画家のマエオカテツヤが素敵なお店や会社を訪問。スタッフとの楽しいやり取りでお得な情報をお届けします。",
+              "pfm": "マエオカテツヤ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/467e78f5-8395-44d1-9e31-96318be2bf1c.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9861380395",
+              "-ft": "20230714075500",
+              "-to": "20230714084000",
+              "-ftl": "0755",
               "-tol": "0840",
-              "-dur": "3000",
+              "-dur": "2700",
               "title": "グッデイ！",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -376,6 +421,10 @@
               "pfm": "北尾博伸",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/8ca5f0bb-72dd-47ae-aca2-115b35222a57.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -389,7 +438,7 @@
               }
             },
             {
-              "-id": "9859003157",
+              "-id": "9861338262",
               "-ft": "20230714084000",
               "-to": "20230714085000",
               "-ftl": "0840",
@@ -420,180 +469,17 @@
               }
             },
             {
-              "-id": "9854914413",
+              "-id": "9861348236",
               "-ft": "20230714085000",
-              "-to": "20230714085500",
-              "-ftl": "0850",
-              "-tol": "0855",
-              "-dur": "300",
-              "title": "マエオカテツヤの千客万来！",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "漫画家のマエオカテツヤが素敵なお店や会社を訪問。スタッフとの楽しいやり取りでお得な情報をお届けします。",
-              "pfm": "マエオカテツヤ",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/467e78f5-8395-44d1-9e31-96318be2bf1c.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9854914418",
-              "-ft": "20230714085500",
-              "-to": "20230714104900",
-              "-ftl": "0855",
-              "-tol": "1049",
-              "-dur": "6840",
-              "title": "ボックス",
-              "url": "http://wbs-radio.com/box/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "和歌山放送の朝は、いろんな話題がボックスから飛び出す！金曜日は赤井ゆかりが担当。コメンテーターは信愛女子短期大学教授の伊藤宏さんです。<br/><br>\n\n9時台<br/>\n▽ニュース・天気・交通情報<br>\n▽快適生活ラジオショッピング<br>\n▽話の広場<br>\n県警のコーナー<br>\n脳にきくニュース<br>\n<br/>\n10時台<br/>\n▽ニュース・引本孝之のお天気ダイヤル・交通情報<br>\n▽快適生活ラジオショッピング<br>\n▽コープでつながる<br>",
-              "info": "<br/><br/>\n<a href=\"mailto:am@wbs.co.jp\">リクエスト・メールはこちらから</a>\n<br/><br/>\n<a href=\"http://wbs-radio.com/box/\">番組ブログはこちらから</a>\n<br/><br/>\ntwitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23wbsradio\">#wbsradio</a>」「#wbsボックス」\n<br/>\ntwitterアカウントは「<a href=\"http://twitter.com/wbsradio\">@wbsradio</a>」",
-              "pfm": "赤井ゆかり、伊藤宏",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/fe10e564-f3cc-4167-95fc-2bf8dd62fc81.jpeg",
-              "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#wbsradio"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:wbsradio"
-                  }
-                ]
-              }
-            },
-            {
-              "-id": "9854914554",
-              "-ft": "20230714104900",
-              "-to": "20230714105400",
-              "-ftl": "1049",
-              "-tol": "1054",
-              "-dur": "300",
-              "title": "早苗の耳よりラジオ",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "朝のひととき、音楽に乗せて生活情報をお届けする番組です。",
-              "pfm": "鶴岡早苗",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/4tw05wku6i.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9854914564",
-              "-ft": "20230714105400",
-              "-to": "20230714110000",
-              "-ftl": "1054",
-              "-tol": "1100",
-              "-dur": "360",
-              "title": "桂文福のあの店この店",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "和歌山出身の落語家、桂文福が紀北エリアを中心に“おもしゃいお店”をご紹介。お店の方との楽しいおしゃべりでお得な情報をお届けします。",
-              "pfm": "桂文福",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/4tw05wku6i.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9854914636",
-              "-ft": "20230714110000",
               "-to": "20230714111000",
-              "-ftl": "1100",
+              "-ftl": "0850",
               "-tol": "1110",
-              "-dur": "600",
-              "title": "ボックス",
-              "url": "http://wbs-radio.com/box/",
+              "-dur": "8400",
+              "title": "第105回全国高校野球選手権記念和歌山大会実況中継 第1試合 那賀 VS 和歌山工",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "▽南海電鉄インフォメーション（最終週）<br>\nもうちょっとだけ・・・ボックス",
-              "info": "<br/><br/>\n<a href=\"mailto:am@wbs.co.jp\">リクエスト・メールはこちらから</a>\n<br/><br/>\n<a href=\"http://wbs-radio.com/box/\">番組ブログはこちらから</a>\n<br/><br/>\ntwitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23wbsradio\">#wbsradio</a>」「#wbsボックス」\n<br/>\ntwitterアカウントは「<a href=\"http://twitter.com/wbsradio\">@wbsradio</a>」",
-              "pfm": "赤井ゆかり",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/fe10e564-f3cc-4167-95fc-2bf8dd62fc81.jpeg",
-              "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#wbsradio"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:wbsradio"
-                  }
-                ]
-              }
-            },
-            {
-              "-id": "9859049685",
-              "-ft": "20230714111000",
-              "-to": "20230714113000",
-              "-ftl": "1110",
-              "-tol": "1130",
-              "-dur": "1200",
-              "title": "テレフォン人生相談",
-              "url": "http://www.1242.com/radio/jinseisoudan/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "色々な悩みを抱えた人を専門家が電話でアドバイスします。\n\n",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/rkhrtuen4c.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C012",
-                  "name": "文化人"
-                },
-                "program": {
-                  "-id": "P009",
-                  "name": "ドキュメンタリー"
-                }
-              },
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/b75cf142-51c6-4844-b0eb-38a8dce99633.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -602,11 +488,71 @@
               }
             },
             {
-              "-id": "9854914692",
-              "-ft": "20230714113000",
-              "-to": "20230714114000",
-              "-ftl": "1130",
-              "-tol": "1140",
+              "-id": "9861361891",
+              "-ft": "20230714111000",
+              "-to": "20230714112000",
+              "-ftl": "1110",
+              "-tol": "1120",
+              "-dur": "600",
+              "title": "県庁だより",
+              "url": "https://www.pref.wakayama.lg.jp/prefg/000200/kouhou.html#tv",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "和歌山県の広報による情報を発信しています。<a href=\"https://www.pref.wakayama.lg.jp/prefg/000200/kouhou.html#tv\">和歌山県のラジオ番組紹介ホームページはこちらから</a>\n<br/>",
+              "pfm": "税所ひかる、覚道沙恵子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/4tw05wku6i.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9861348284",
+              "-ft": "20230714112000",
+              "-to": "20230714112500",
+              "-ftl": "1120",
+              "-tol": "1125",
+              "-dur": "300",
+              "title": "和歌山放送ニュース・天気予報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/4tw05wku6i.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9861348285",
+              "-ft": "20230714112500",
+              "-to": "20230714134000",
+              "-ftl": "1125",
+              "-tol": "1340",
+              "-dur": "8100",
+              "title": "第105回全国高校野球選手権記念和歌山大会実況中継 第2試合 紀北工 VS 市和歌山",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/b75cf142-51c6-4844-b0eb-38a8dce99633.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9861380890",
+              "-ft": "20230714134000",
+              "-to": "20230714135000",
+              "-ftl": "1340",
+              "-tol": "1350",
               "-dur": "600",
               "title": "JAグループアワー",
               "url": "http://www.ja-gp-wakayama.or.jp/information/",
@@ -631,184 +577,11 @@
               }
             },
             {
-              "-id": "9856854556",
-              "-ft": "20230714114000",
-              "-to": "20230714115000",
-              "-ftl": "1140",
-              "-tol": "1150",
-              "-dur": "600",
-              "title": "県庁だより",
-              "url": "https://www.pref.wakayama.lg.jp/prefg/000200/kouhou.html#tv",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "和歌山県の広報による情報を発信しています。<a href=\"https://www.pref.wakayama.lg.jp/prefg/000200/kouhou.html#tv\">和歌山県のラジオ番組紹介ホームページはこちらから</a>\n<br/>",
-              "pfm": "税所ひかる、覚道沙恵子",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/4tw05wku6i.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9854914724",
-              "-ft": "20230714115000",
-              "-to": "20230714115500",
-              "-ftl": "1150",
-              "-tol": "1155",
-              "-dur": "300",
-              "title": "ラジオショッピング",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/4tw05wku6i.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9855142110",
-              "-ft": "20230714115500",
-              "-to": "20230714120000",
-              "-ftl": "1155",
-              "-tol": "1200",
-              "-dur": "300",
-              "title": "wbsインフォメーション",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/4tw05wku6i.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9855142143",
-              "-ft": "20230714120000",
-              "-to": "20230714121000",
-              "-ftl": "1200",
-              "-tol": "1210",
-              "-dur": "600",
-              "title": "和歌山放送ニュース・天気予報",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/4tw05wku6i.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9854914785",
-              "-ft": "20230714121000",
-              "-to": "20230714122000",
-              "-ftl": "1210",
-              "-tol": "1220",
-              "-dur": "600",
-              "title": "ラジオ健康相談",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "気になる健康の話題や病気の症例や治療法について、専門医が月曜日から金曜日の５回にわたってわかりやすく解説します",
-              "pfm": "赤井ゆかり　他",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/4tw05wku6i.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P010",
-                  "name": "医療"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9854914794",
-              "-ft": "20230714122000",
-              "-to": "20230714122700",
-              "-ftl": "1220",
-              "-tol": "1227",
-              "-dur": "420",
-              "title": "桂三歩のきてみて！！この店ええお店",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "和歌山出身の落語家・桂三歩が、紀中エリアを「さんぽ」しながら素敵なお店を紹介します。<br>",
-              "pfm": "桂三歩",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/4tw05wku6i.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9854914803",
-              "-ft": "20230714122700",
-              "-to": "20230714123000",
-              "-ftl": "1227",
-              "-tol": "1230",
-              "-dur": "180",
-              "title": "こちら119番",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "県内各消防署に出動状況などを聞く番組です。",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/4tw05wku6i.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9859003519",
-              "-ft": "20230714123000",
-              "-to": "20230714124000",
-              "-ftl": "1230",
-              "-tol": "1240",
+              "-id": "9861357039",
+              "-ft": "20230714135000",
+              "-to": "20230714140000",
+              "-ftl": "1350",
+              "-tol": "1400",
               "-dur": "600",
               "title": "三井ダイレクト損保 presents 『強くてやさしい金曜日』",
               "failed_record": "0",
@@ -823,45 +596,12 @@
               }
             },
             {
-              "-id": "9854914823",
-              "-ft": "20230714124000",
-              "-to": "20230714125000",
-              "-ftl": "1240",
-              "-tol": "1250",
-              "-dur": "600",
-              "title": "わたくしの作文",
-              "url": "http://wbs.co.jp/wp/images/sakubun.pdf",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "県内小中学生の作文を紹介します。",
-              "info": "和歌山放送が開局して間もないころから放送している長寿番組。毎月、県内の小中学校から応募のあった作文を審査し、入選者の作品をアナウンサーが朗読します。毎年３月に年間表彰を行い、各賞をお贈りしています。受賞作品は本人の朗読で４月に放送しています。\n\n<a href=\"http://www.wbs.co.jp/2013/06/21/1016.html\">作文の実施要領・応募はこちらから</a>",
-              "pfm": "北尾博伸、税所ひかる",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/4tw05wku6i.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P012",
-                  "name": "趣味/教育"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9854914842",
-              "-ft": "20230714125000",
+              "-id": "9861361920",
+              "-ft": "20230714140000",
               "-to": "20230714150000",
-              "-ftl": "1250",
+              "-ftl": "1400",
               "-tol": "1500",
-              "-dur": "7800",
+              "-dur": "3600",
               "title": "しそまるの全開！金曜日",
               "url": "http://tsunagaru.sblo.jp/",
               "failed_record": "0",
@@ -885,7 +625,7 @@
               }
             },
             {
-              "-id": "9854915094",
+              "-id": "9861338346",
               "-ft": "20230714150000",
               "-to": "20230714163500",
               "-ftl": "1500",
@@ -914,7 +654,7 @@
               }
             },
             {
-              "-id": "9854915202",
+              "-id": "9861335362",
               "-ft": "20230714163500",
               "-to": "20230714164000",
               "-ftl": "1635",
@@ -939,7 +679,7 @@
               }
             },
             {
-              "-id": "9855543777",
+              "-id": "9861338362",
               "-ft": "20230714164000",
               "-to": "20230714165000",
               "-ftl": "1640",
@@ -959,7 +699,7 @@
               }
             },
             {
-              "-id": "9859003897",
+              "-id": "9861338365",
               "-ft": "20230714165000",
               "-to": "20230714170000",
               "-ftl": "1650",
@@ -990,7 +730,7 @@
               }
             },
             {
-              "-id": "9855409243",
+              "-id": "9861338371",
               "-ft": "20230714170000",
               "-to": "20230714175500",
               "-ftl": "1700",
@@ -1022,7 +762,7 @@
               }
             },
             {
-              "-id": "9854915377",
+              "-id": "9861338388",
               "-ft": "20230714175500",
               "-to": "20230714180000",
               "-ftl": "1755",
@@ -1045,7 +785,7 @@
               }
             },
             {
-              "-id": "9856854620",
+              "-id": "9861338392",
               "-ft": "20230714180000",
               "-to": "20230714181000",
               "-ftl": "1800",
@@ -1073,7 +813,7 @@
               }
             },
             {
-              "-id": "9855409412",
+              "-id": "9861338396",
               "-ft": "20230714181000",
               "-to": "20230714182400",
               "-ftl": "1810",
@@ -1105,7 +845,7 @@
               }
             },
             {
-              "-id": "9854915432",
+              "-id": "9861335391",
               "-ft": "20230714182400",
               "-to": "20230714183000",
               "-ftl": "1824",
@@ -1124,17 +864,18 @@
               }
             },
             {
-              "-id": "9855457863",
+              "-id": "9861361965",
               "-ft": "20230714183000",
-              "-to": "20230714210000",
+              "-to": "20230714200000",
               "-ftl": "1830",
-              "-tol": "2100",
-              "-dur": "9000",
-              "title": "wbsゴールデンナイター",
+              "-tol": "2000",
+              "-dur": "5400",
+              "title": "ナイタースペシャル　ラジオペナントレース",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/160ae7ca-687e-4d1c-a9d1-08c755283364.jpeg",
+              "pfm": "煙山光紀　ゲスト：井森美幸、イジリー岡田、宮崎瑠依、松村邦洋、堀尾正明、増田英彦 (ますだおかだ)",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/c96c68f2-0829-40aa-bfbf-db160bfeb511.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1143,7 +884,27 @@
               }
             },
             {
-              "-id": "9855457910",
+              "-id": "9861361982",
+              "-ft": "20230714200000",
+              "-to": "20230714210000",
+              "-ftl": "2000",
+              "-tol": "2100",
+              "-dur": "3600",
+              "title": "ナイタースペシャル　熊谷実帆のサウンドコレクション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "熊谷実帆",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/693008e1-1a30-4f52-8731-eec65145d5d2.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9861335411",
               "-ft": "20230714210000",
               "-to": "20230714220000",
               "-ftl": "2100",
@@ -1162,21 +923,21 @@
               }
             },
             {
-              "-id": "9859004493",
+              "-id": "9861361995",
               "-ft": "20230714220000",
               "-to": "20230715000000",
               "-ftl": "2200",
               "-tol": "2400",
               "-dur": "7200",
-              "title": "オールナイトニッポン GOLD",
+              "title": "劇団ひとりのオールナイトニッポンGOLD～太田プロ大集合スペシャル～",
               "url": "https://www.allnightnippon.com/gold/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "金曜日の オールナイトニッポンGOLDはバラエティに富んだパーソナリティが週替わりでお届け！<br> 過去の名パーソナリティや話題のあの人が続々と登場！<br>金曜夜のニッポン放送を盛り上げます。",
               "info": "<br/><br/>\n<a href=\"mailto:10@1242.com\">リクエスト・メールはこちらから</a>\n<br/><br/>",
-              "pfm": "週替わりパーソナリティー",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/u6bumk5tfk.jpg",
+              "pfm": "劇団ひとり、パートナー：指原莉乃（22時台）、柳原可奈子（23時台）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/WBS/e0bf1f54-74f1-46cc-b72d-dbd08b2ae253.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1185,7 +946,7 @@
               }
             },
             {
-              "-id": "9859102811",
+              "-id": "9861338464",
               "-ft": "20230715000000",
               "-to": "20230715010000",
               "-ftl": "2400",
@@ -1218,7 +979,7 @@
               }
             },
             {
-              "-id": "9859004884",
+              "-id": "9861338509",
               "-ft": "20230715010000",
               "-to": "20230715030000",
               "-ftl": "2500",
@@ -1249,7 +1010,7 @@
               }
             },
             {
-              "-id": "9859004987",
+              "-id": "9861335449",
               "-ft": "20230715030000",
               "-to": "20230715050000",
               "-ftl": "2700",

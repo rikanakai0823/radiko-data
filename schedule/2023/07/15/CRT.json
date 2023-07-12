@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1689100116",
+    "srvtime": "1689186480",
     "stations": {
       "station": {
         "-id": "CRT",
@@ -403,7 +403,7 @@
               }
             },
             {
-              "-id": "9860029218",
+              "-id": "9860863300",
               "-ft": "20230715210000",
               "-to": "20230715220000",
               "-ftl": "2100",
@@ -421,6 +421,16 @@
               "tag": {
                 "item": {
                   "name": "クラシック音楽"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -586,7 +596,7 @@
               }
             },
             {
-              "-id": "9860029259",
+              "-id": "9860863396",
               "-ft": "20230716010000",
               "-to": "20230716030000",
               "-ftl": "2500",
@@ -598,6 +608,16 @@
               "ts_out_ng": "0",
               "pfm": "オードリー",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/CRT/e0b8456d-831d-447a-a0e9-afc6116ad198.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
