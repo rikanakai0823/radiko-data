@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1689186481",
+    "srvtime": "1689272856",
     "stations": {
       "station": {
         "-id": "MYUFM",
@@ -10,7 +10,7 @@
           "date": "20230715",
           "prog": [
             {
-              "-id": "9861421410",
+              "-id": "9862296033",
               "-ft": "20230715050000",
               "-to": "20230715053000",
               "-ftl": "0500",
@@ -41,7 +41,7 @@
               }
             },
             {
-              "-id": "9861421456",
+              "-id": "9862296079",
               "-ft": "20230715053000",
               "-to": "20230715060000",
               "-ftl": "0530",
@@ -79,7 +79,7 @@
               }
             },
             {
-              "-id": "9861421510",
+              "-id": "9862296143",
               "-ft": "20230715060000",
               "-to": "20230715085500",
               "-ftl": "0600",
@@ -116,7 +116,7 @@
               }
             },
             {
-              "-id": "9856430403",
+              "-id": "9861657240",
               "-ft": "20230715085500",
               "-to": "20230715090000",
               "-ftl": "0855",
@@ -151,7 +151,7 @@
               }
             },
             {
-              "-id": "9861421745",
+              "-id": "9862296413",
               "-ft": "20230715090000",
               "-to": "20230715095500",
               "-ftl": "0900",
@@ -199,7 +199,7 @@
               }
             },
             {
-              "-id": "9861421838",
+              "-id": "9862296506",
               "-ft": "20230715095500",
               "-to": "20230715100000",
               "-ftl": "0955",
@@ -231,7 +231,7 @@
               }
             },
             {
-              "-id": "9861421876",
+              "-id": "9862296544",
               "-ft": "20230715100000",
               "-to": "20230715105000",
               "-ftl": "1000",
@@ -279,7 +279,7 @@
               }
             },
             {
-              "-id": "9861421919",
+              "-id": "9862296588",
               "-ft": "20230715105000",
               "-to": "20230715105500",
               "-ftl": "1050",
@@ -305,7 +305,7 @@
               }
             },
             {
-              "-id": "9861421954",
+              "-id": "9862296624",
               "-ft": "20230715105500",
               "-to": "20230715110000",
               "-ftl": "1055",
@@ -337,7 +337,7 @@
               }
             },
             {
-              "-id": "9861421998",
+              "-id": "9862296668",
               "-ft": "20230715110000",
               "-to": "20230715113000",
               "-ftl": "1100",
@@ -374,7 +374,7 @@
               }
             },
             {
-              "-id": "9861422037",
+              "-id": "9862296707",
               "-ft": "20230715113000",
               "-to": "20230715123000",
               "-ftl": "1130",
@@ -416,7 +416,7 @@
               }
             },
             {
-              "-id": "9861422147",
+              "-id": "9862296817",
               "-ft": "20230715123000",
               "-to": "20230715130000",
               "-ftl": "1230",
@@ -461,7 +461,7 @@
               }
             },
             {
-              "-id": "9861422217",
+              "-id": "9862296887",
               "-ft": "20230715130000",
               "-to": "20230715135300",
               "-ftl": "1300",
@@ -515,7 +515,7 @@
               }
             },
             {
-              "-id": "9861422260",
+              "-id": "9862296931",
               "-ft": "20230715135300",
               "-to": "20230715135500",
               "-ftl": "1353",
@@ -542,32 +542,40 @@
               }
             },
             {
-              "-id": "9861422275",
+              "-id": "9862296979",
               "-ft": "20230715135500",
               "-to": "20230715140000",
               "-ftl": "1355",
               "-tol": "1400",
               "-dur": "300",
-              "title": "AuDee STAR",
-              "url": "https://audee.jp/program/show/300003544",
+              "title": "Cheer up station ～BELIEVE IN YOUR STRENGTH",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\tAuDeeと連携したオススメコンテンツをピックアップしてご紹介！ <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/300003544\">https://audee.jp/program/show/300003544</a><br /><br /></div>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/2oy3d8zpik.jpg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/c0894cd9-d281-4e1f-ad96-8cf53904e83f_sq.jpg\" height=\"60\" width=\"60\" alt=\"田中雅美（スポーツコメンテーター）\"></td>  </tr></table><br /><br />\t--- <br /><br /><br /></div>",
+              "pfm": "田中雅美（スポーツコメンテーター）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/v4tzlvqmdc.jpg",
               "tag": {
-                "item": {
-                  "name": "AuDee"
-                }
+                "item": [
+                  {
+                    "name": "田中雅美"
+                  },
+                  {
+                    "name": "水泳"
+                  },
+                  {
+                    "name": "世界水泳"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C013",
+                  "name": "アスリート"
                 },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P002",
+                  "name": "スポーツ"
                 }
               },
               "metas": {
@@ -578,7 +586,7 @@
               }
             },
             {
-              "-id": "9861422331",
+              "-id": "9862297002",
               "-ft": "20230715140000",
               "-to": "20230715145500",
               "-ftl": "1400",
@@ -632,7 +640,7 @@
               }
             },
             {
-              "-id": "9856431030",
+              "-id": "9861657332",
               "-ft": "20230715145500",
               "-to": "20230715150000",
               "-ftl": "1455",
@@ -667,7 +675,7 @@
               }
             },
             {
-              "-id": "9861422422",
+              "-id": "9862297093",
               "-ft": "20230715150000",
               "-to": "20230715152500",
               "-ftl": "1500",
@@ -730,7 +738,7 @@
               }
             },
             {
-              "-id": "9861422466",
+              "-id": "9862297138",
               "-ft": "20230715152500",
               "-to": "20230715153000",
               "-ftl": "1525",
@@ -767,7 +775,7 @@
               }
             },
             {
-              "-id": "9861422508",
+              "-id": "9862297181",
               "-ft": "20230715153000",
               "-to": "20230715155500",
               "-ftl": "1530",
@@ -812,7 +820,7 @@
               }
             },
             {
-              "-id": "9861422548",
+              "-id": "9862297222",
               "-ft": "20230715155500",
               "-to": "20230715160000",
               "-ftl": "1555",
@@ -851,7 +859,7 @@
               }
             },
             {
-              "-id": "9861422591",
+              "-id": "9862297264",
               "-ft": "20230715160000",
               "-to": "20230715165500",
               "-ftl": "1600",
@@ -893,7 +901,7 @@
               }
             },
             {
-              "-id": "9861422643",
+              "-id": "9862297317",
               "-ft": "20230715165500",
               "-to": "20230715170000",
               "-ftl": "1655",
@@ -933,7 +941,7 @@
               }
             },
             {
-              "-id": "9861422683",
+              "-id": "9862297356",
               "-ft": "20230715170000",
               "-to": "20230715175500",
               "-ftl": "1700",
@@ -944,7 +952,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/3061b1de-5499-4d14-8997-59899af8b09a_sq.jpg\" height=\"60\" width=\"60\" alt=\"川島明（麒麟）\"></td>  </tr></table><br /><br />\t土曜日に55分間だけラジオの中にオープンする旅行会社<br />「Eureka Drive Corporation」…通称・EDC。<br /><br />「お客様の心を、ここではないどこかへ」をテーマに、<br />毎回多彩なジャンルのゲストを招き、日本全国、世界各地、時空も超えた<br />「ココロが動く（＝エウレカ）思い入れのある場所」へと案内していきます。<br />ドライバーは、麒麟・川島明が務めます。<br /><br />今週のお客様は、大林素子さん！ <br /><br />\t本日のゲスト：\t\t大林素子\t<br />\t<br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/wonderfuljourney/\">https://www.tfm.co.jp/wonderfuljourney/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%9C%9F%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%A8%E3%82%A6%E3%83%AC%E3%82%AB\">#土曜日のエウレカ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/DriveEureka\">@DriveEureka</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/3061b1de-5499-4d14-8997-59899af8b09a_sq.jpg\" height=\"60\" width=\"60\" alt=\"川島明（麒麟）\"></td>  </tr></table><br /><br />\t土曜日に55分間だけラジオの中にオープンする旅行会社<br />「Eureka Drive Corporation」…通称・EDC。<br /><br />「お客様の心を、ここではないどこかへ」をテーマに、<br />毎回多彩なジャンルのゲストを招き、日本全国、世界各地、時空も超えた<br />「ココロが動く（＝エウレカ）思い入れのある場所」へと案内していきます。<br />ドライバーは、麒麟・川島明が務めます。<br /><br />今週のお客様は、大林素子さん！<br />バレーボール界のレジェンドでありつつ、大のお笑い好きとしてもおなじみ！<br />バレーボール人生のお話から、これから売れてほしい芸人のことまで…<br />川島ドライバーがたっぷりとお話を伺います！ <br /><br />\t本日のゲスト：\t\t大林素子\t<br />\t<br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/wonderfuljourney/\">https://www.tfm.co.jp/wonderfuljourney/</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%9C%9F%E6%9B%9C%E6%97%A5%E3%81%AE%E3%82%A8%E3%82%A6%E3%83%AC%E3%82%AB\">#土曜日のエウレカ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/DriveEureka\">@DriveEureka</a>」<br /><br /></div>",
               "pfm": "川島明（麒麟） ゲスト: 大林素子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/sned4ti8br.jpg",
               "tag": {
@@ -990,7 +998,7 @@
               }
             },
             {
-              "-id": "9861422752",
+              "-id": "9862297452",
               "-ft": "20230715175500",
               "-to": "20230715180000",
               "-ftl": "1755",
@@ -1030,7 +1038,7 @@
               }
             },
             {
-              "-id": "9861422794",
+              "-id": "9862297493",
               "-ft": "20230715180000",
               "-to": "20230715185500",
               "-ftl": "1800",
@@ -1078,7 +1086,7 @@
               }
             },
             {
-              "-id": "9856431521",
+              "-id": "9861657441",
               "-ft": "20230715185500",
               "-to": "20230715190000",
               "-ftl": "1855",
@@ -1113,7 +1121,7 @@
               }
             },
             {
-              "-id": "9861422908",
+              "-id": "9862297615",
               "-ft": "20230715190000",
               "-to": "20230715193000",
               "-ftl": "1900",
@@ -1124,7 +1132,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/5118307a-f204-4375-aba9-4d634b038afb_sq.jpg\" height=\"60\" width=\"60\" alt=\"池田佳代\"></td>  </tr></table><br /><br />\tOPSIA misumiに行けばあなたの毎日がキラッキラに輝く！そんな情報をOPSIA misumiの方々をゲストに迎えて、楽しくお届けします！リクエストも受付中！週替りプレゼントもお楽しみに！ <br /><br />\t番組Webサイト：<a href=\"https://www.myufm.jp/program/kirakayo/archive/\">https://www.myufm.jp/program/kirakayo/archive/</a><br />\tメールアドレス：<a href=\"mailto:misumi@myufm.jp\">misumi@myufm.jp</a><br />\tメッセージフォーム：<a href=\"https://www.myufm.jp/message/?program_id=456\">https://www.myufm.jp/message/?program_id=456</a><br />\tFAX：099-239-1130<br /> <br /> twitterアカウントは「<a href=\"http://twitter.com/fm_kagoshima\">@fm_kagoshima</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/5118307a-f204-4375-aba9-4d634b038afb_sq.jpg\" height=\"60\" width=\"60\" alt=\"池田佳代\"></td>  </tr></table><br /><br />\tアニソンづくしの３０分！<br /><br />７月は「キラカヨ的★あなたのテーマ曲・登場曲にしたいアニソン特集」<br />詳しくは、HPをチェックしてください♡<br /><br />オプシアミスミのイチオシな情報満載♪<br />リスナープレゼントのエントリーもお忘れなく！ <br /><br />\t番組Webサイト：<a href=\"https://www.myufm.jp/program/kirakayo/archive/\">https://www.myufm.jp/program/kirakayo/archive/</a><br />\tメールアドレス：<a href=\"mailto:misumi@myufm.jp\">misumi@myufm.jp</a><br />\tメッセージフォーム：<a href=\"https://www.myufm.jp/message/?program_id=456\">https://www.myufm.jp/message/?program_id=456</a><br />\tFAX：099-239-1130<br /> <br /> twitterアカウントは「<a href=\"http://twitter.com/fm_kagoshima\">@fm_kagoshima</a>」<br /><br /></div>",
               "pfm": "池田佳代",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/i5eht85h2k.jpg",
               "tag": {
@@ -1158,7 +1166,7 @@
               }
             },
             {
-              "-id": "9861422957",
+              "-id": "9862297667",
               "-ft": "20230715193000",
               "-to": "20230715195500",
               "-ftl": "1930",
@@ -1200,7 +1208,7 @@
               }
             },
             {
-              "-id": "9861422985",
+              "-id": "9862297695",
               "-ft": "20230715195500",
               "-to": "20230715200000",
               "-ftl": "1955",
@@ -1239,7 +1247,7 @@
               }
             },
             {
-              "-id": "9861423022",
+              "-id": "9862297732",
               "-ft": "20230715200000",
               "-to": "20230715201500",
               "-ftl": "2000",
@@ -1286,7 +1294,7 @@
               }
             },
             {
-              "-id": "9861423045",
+              "-id": "9862297755",
               "-ft": "20230715201500",
               "-to": "20230715203000",
               "-ftl": "2015",
@@ -1318,7 +1326,7 @@
               }
             },
             {
-              "-id": "9861423061",
+              "-id": "9862297771",
               "-ft": "20230715203000",
               "-to": "20230715205500",
               "-ftl": "2030",
@@ -1361,7 +1369,7 @@
               }
             },
             {
-              "-id": "9856431688",
+              "-id": "9861657472",
               "-ft": "20230715205500",
               "-to": "20230715210000",
               "-ftl": "2055",
@@ -1396,7 +1404,7 @@
               }
             },
             {
-              "-id": "9861423124",
+              "-id": "9862297834",
               "-ft": "20230715210000",
               "-to": "20230715215500",
               "-ftl": "2100",
@@ -1433,7 +1441,7 @@
               }
             },
             {
-              "-id": "9856431777",
+              "-id": "9861657487",
               "-ft": "20230715215500",
               "-to": "20230715220000",
               "-ftl": "2155",
@@ -1468,7 +1476,7 @@
               }
             },
             {
-              "-id": "9861423226",
+              "-id": "9862297936",
               "-ft": "20230715220000",
               "-to": "20230715223000",
               "-ftl": "2200",
@@ -1510,7 +1518,7 @@
               }
             },
             {
-              "-id": "9861423272",
+              "-id": "9862297983",
               "-ft": "20230715223000",
               "-to": "20230715225500",
               "-ftl": "2230",
@@ -1561,7 +1569,7 @@
               }
             },
             {
-              "-id": "9856431863",
+              "-id": "9861657501",
               "-ft": "20230715225500",
               "-to": "20230715230000",
               "-ftl": "2255",
@@ -1596,7 +1604,7 @@
               }
             },
             {
-              "-id": "9861423351",
+              "-id": "9862298063",
               "-ft": "20230715230000",
               "-to": "20230715235500",
               "-ftl": "2300",
@@ -1650,7 +1658,7 @@
               }
             },
             {
-              "-id": "9861423403",
+              "-id": "9862298144",
               "-ft": "20230715235500",
               "-to": "20230716000000",
               "-ftl": "2355",
@@ -1689,7 +1697,7 @@
               }
             },
             {
-              "-id": "9861423440",
+              "-id": "9862298181",
               "-ft": "20230716000000",
               "-to": "20230716005500",
               "-ftl": "2400",
@@ -1731,7 +1739,7 @@
               }
             },
             {
-              "-id": "9861423486",
+              "-id": "9862298228",
               "-ft": "20230716005500",
               "-to": "20230716010000",
               "-ftl": "2455",
@@ -1763,7 +1771,7 @@
               }
             },
             {
-              "-id": "9861423520",
+              "-id": "9862298274",
               "-ft": "20230716010000",
               "-to": "20230716020000",
               "-ftl": "2500",
@@ -1805,7 +1813,7 @@
               }
             },
             {
-              "-id": "9861423576",
+              "-id": "9862298349",
               "-ft": "20230716020000",
               "-to": "20230716030000",
               "-ftl": "2600",
@@ -1837,7 +1845,7 @@
               }
             },
             {
-              "-id": "9861423639",
+              "-id": "9862298420",
               "-ft": "20230716030000",
               "-to": "20230716033000",
               "-ftl": "2700",
@@ -1848,7 +1856,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/79262776-2642-4c96-a10d-cba4cbbe255f_sq.jpg\" height=\"60\" width=\"60\" alt=\"箭内道彦\"></td>  </tr></table><br /><br />\t日々の気づきにハッとさせられたり、新しい音楽に出会えたり。<br />クリエイター 箭内道彦が、リスナーとスタッフと一緒になって、<br />聴いて喋って楽しんで放送してるのが「ラジオ風とロック」です。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/1936\">https://audee.jp/program/show/1936</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/285\">https://ssl2.jfn.co.jp/mailbox/index/285</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%B8%E3%82%AA%E9%A2%A8%E3%81%A8%E3%83%AD%E3%83%83%E3%82%AF\">#ラジオ風とロック</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/radiokazetorock\">@radiokazetorock</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/79262776-2642-4c96-a10d-cba4cbbe255f_sq.jpg\" height=\"60\" width=\"60\" alt=\"箭内道彦\"></td>  </tr></table><br /><br />\t世界最大の広告賞「カンヌライオンズ 国際クリエイティビティ・フェスティバル」の2023年 受賞作について、分析せず、ただ心のままに語っていきます。<br /><br />この広告賞は、毎年6月末にフランスのカンヌで開催されています。<br />過去には広告賞の現地を訪れたこともある、箭内道彦。<br /><br />今回のラジオ風とロックは、番組の構成作家：長嶋太陽がセレクトした、2023年の受賞作について、ただただ語ります。<br />分析はせず(笑)、解説や分析の手前にある、驚きや発見をリスナーの皆さんとシェアします！ <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/1936\">https://audee.jp/program/show/1936</a><br />\tメッセージフォーム：<a href=\"https://ssl2.jfn.co.jp/mailbox/index/285\">https://ssl2.jfn.co.jp/mailbox/index/285</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%B8%E3%82%AA%E9%A2%A8%E3%81%A8%E3%83%AD%E3%83%83%E3%82%AF\">#ラジオ風とロック</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/radiokazetorock\">@radiokazetorock</a>」<br /><br /></div>",
               "pfm": "箭内道彦",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/MYUFM/l8j0xkg25r.jpg",
               "genre": {
@@ -1875,7 +1883,7 @@
               }
             },
             {
-              "-id": "9861423684",
+              "-id": "9862298476",
               "-ft": "20230716033000",
               "-to": "20230716040000",
               "-ftl": "2730",
@@ -1907,7 +1915,7 @@
               }
             },
             {
-              "-id": "9861423729",
+              "-id": "9862298521",
               "-ft": "20230716040000",
               "-to": "20230716050000",
               "-ftl": "2800",
