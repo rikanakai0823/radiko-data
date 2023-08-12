@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1691692060",
+    "srvtime": "1691864851",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -10,7 +10,7 @@
           "date": "20230812",
           "prog": [
             {
-              "-id": "9896122548",
+              "-id": "9898520685",
               "-ft": "20230812050000",
               "-to": "20230812050500",
               "-ftl": "0500",
@@ -30,7 +30,7 @@
               }
             },
             {
-              "-id": "9896149984",
+              "-id": "9898520701",
               "-ft": "20230812050500",
               "-to": "20230812051500",
               "-ftl": "0505",
@@ -73,7 +73,7 @@
               }
             },
             {
-              "-id": "9896150041",
+              "-id": "9898520760",
               "-ft": "20230812053000",
               "-to": "20230812054500",
               "-ftl": "0530",
@@ -104,7 +104,7 @@
               }
             },
             {
-              "-id": "9896122574",
+              "-id": "9898520780",
               "-ft": "20230812054500",
               "-to": "20230812060000",
               "-ftl": "0545",
@@ -125,7 +125,7 @@
               }
             },
             {
-              "-id": "9896150132",
+              "-id": "9898520854",
               "-ft": "20230812060000",
               "-to": "20230812061500",
               "-ftl": "0600",
@@ -150,7 +150,7 @@
               }
             },
             {
-              "-id": "9893348496",
+              "-id": "9897730861",
               "-ft": "20230812061500",
               "-to": "20230812062000",
               "-ftl": "0615",
@@ -224,7 +224,7 @@
               }
             },
             {
-              "-id": "9889343247",
+              "-id": "9897730875",
               "-ft": "20230812063000",
               "-to": "20230812064500",
               "-ftl": "0630",
@@ -256,7 +256,7 @@
               }
             },
             {
-              "-id": "9889343260",
+              "-id": "9897730891",
               "-ft": "20230812064500",
               "-to": "20230812070000",
               "-ftl": "0645",
@@ -734,7 +734,7 @@
               }
             },
             {
-              "-id": "9893270422",
+              "-id": "9898268494",
               "-ft": "20230812200000",
               "-to": "20230812210000",
               "-ftl": "2000",
@@ -748,7 +748,24 @@
               "info": "阪神―ヤクルト（京セラＤ）<BR>※試合終了までお届けします。<BR>解説：桧山進次郎／実況：伊藤史隆<BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23toraban1008\">#toraban1008</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc_toraban\">@abc_toraban</a>」<BR><BR><BR>",
               "pfm": "阪神―ヤクルト（京セラＤ）　  ※試合終了までお届けします。　  解説：桧山進次郎／実況：伊藤史隆",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "#toraban1008"
+                  },
+                  {
+                    "name": "#ABCフレッシュアップベースボール"
+                  },
+                  {
+                    "name": "ABCラジオ"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C013",
+                  "name": "アスリート"
+                },
                 "program": {
                   "-id": "P002",
                   "name": "スポーツ"
@@ -768,234 +785,96 @@
               }
             },
             {
-              "-id": "9889185052",
+              "-id": "9898327034",
               "-ft": "20230812210000",
-              "-to": "20230812210500",
-              "-ftl": "2100",
-              "-tol": "2105",
-              "-dur": "300",
-              "title": "ＡＢＣニュース＆天気予報",
-              "url": "https://abcradio.asahi.co.jp/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9889345167",
-              "-ft": "20230812210500",
-              "-to": "20230812213000",
-              "-ftl": "2105",
-              "-tol": "2130",
-              "-dur": "1500",
-              "title": "小早川秀樹のマシマシ！ベースボール",
-              "url": "https://www.abc1008.com/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "pfm": "小早川秀樹",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9889349828",
-              "-ft": "20230812213000",
               "-to": "20230812220000",
-              "-ftl": "2130",
+              "-ftl": "2100",
               "-tol": "2200",
-              "-dur": "1800",
-              "title": "ＳＡＬＬＹ’Ｓ　ＣＯＦＦＥＥ",
-              "url": "https://abcradio.asahi.co.jp/coffee/",
+              "-dur": "3600",
+              "title": "ＡＢＣフレッシュアップベースボール(4)",
+              "url": "https://abcradio.asahi.co.jp/baseball/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_masuda_s.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:sally@abc1008.com\">sally@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%B5%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC\">#サリーズコーヒー</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/saorimasuda_abc\">@saorimasuda_abc</a>」<BR><BR><BR>",
-              "pfm": "増田紗織",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/cbf15dcc-3f39-4e79-9b79-0ea6182c2425.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "サリ活"
-                  },
-                  {
-                    "name": "サリーズコーヒー"
-                  },
-                  {
-                    "name": "#ABCラジオ"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
+              "info": "阪神―ヤクルト（京セラＤ）<BR>※試合終了までお届けします。<BR>解説：桧山進次郎／実況：伊藤史隆<BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23toraban1008\">#toraban1008</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc_toraban\">@abc_toraban</a>」<BR><BR><BR>",
+              "pfm": "阪神―ヤクルト（京セラＤ）　  ※試合終了までお届けします。　  解説：桧山進次郎／実況：伊藤史隆",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
               "metas": {
                 "meta": [
                   {
                     "-name": "twitter",
-                    "-value": "#サリーズコーヒー"
+                    "-value": "#toraban1008"
                   },
                   {
                     "-name": "twitter",
-                    "-value": "from:saorimasuda_abc"
+                    "-value": "from:abc_toraban"
                   }
                 ]
               }
             },
             {
-              "-id": "9894416362",
+              "-id": "9898327102",
               "-ft": "20230812220000",
-              "-to": "20230812223000",
-              "-ftl": "2200",
-              "-tol": "2230",
-              "-dur": "1800",
-              "title": "ＡＢＣミュージックパラダイス＋　やましたえいきちエディション",
-              "url": "https://abcradio.asahi.co.jp/abcmp/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "今夜お送りするのは元お笑いコンビ・プードルのやましたえいきち。<BR>今年２月のコンビ解散後、初となるメディア出演はまさかの音楽番組！<BR>ＳＮＳに投稿していた豊富な音楽知識でにわかに注目を集めていた彼が、<BR>「２０１５年以降の音楽史」をテーマに選曲＆トークを繰り広げる。<BR><BR>平日よる１０時からＯＡしているミューパラが、<BR>土曜にも「ちょっとだけ」進出！<BR>毎週週替わりのアーティストがパーソナリティを務め、<BR>一夜限りのスペシャルプログラムをお送りする、<BR>「ミューパラ＋」<BR><BR>メールアドレス：<a href=\"mailto:mp@abc1008.com\">mp@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%91%E3%83%A9\">#ミューパラ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abcmp1008933\">@abcmp1008933</a>」<BR><BR><BR>",
-              "pfm": "山下英吉",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/a481bd5d-bc24-4327-ae80-3326e1b087e5.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ミューパラ+"
-                  },
-                  {
-                    "name": "ミューパラ"
-                  },
-                  {
-                    "name": "ABCラジオ"
-                  }
-                ]
-              },
-              "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#ミューパラ"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:abcmp1008933"
-                  }
-                ]
-              }
-            },
-            {
-              "-id": "9889349837",
-              "-ft": "20230812223000",
               "-to": "20230812230000",
-              "-ftl": "2230",
+              "-ftl": "2200",
               "-tol": "2300",
-              "-dur": "1800",
-              "title": "ミュータマ",
-              "url": "https://www.abc1008.com/",
+              "-dur": "3600",
+              "title": "ＡＢＣフレッシュアップベースボール(5)",
+              "url": "https://abcradio.asahi.co.jp/baseball/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "鈴木淳史／斎藤真美",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/99768733-9598-4ef2-836b-7bbd771780a9.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9889349843",
-              "-ft": "20230812230000",
-              "-to": "20230812233000",
-              "-ftl": "2300",
-              "-tol": "2330",
-              "-dur": "1800",
-              "title": "Ｓｋｙ　ｐｒｅｓｅｎｔｓ中村七之助のラジのすけ",
-              "url": "https://abcradio.asahi.co.jp/radinosuke/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "歌舞伎に留まらず、様々な分野で活躍中の中村七之助が、<BR>自身初のパーソナリティを務める番組です。<BR>普段聞くことのできないプライベートや交友関係、趣味に至るまで、<BR>貴重な話が聞けるのはこの番組だけ。中村七之助がホンネで語ります。<BR>アシスタント：ヒロド歩美（ABC アナウンサー）<BR><BR><BR>番組Twitter アカウント：<a href=\"https://twitter.com/radinosuke\">@radinosuke</a><BR>ハッシュタグ「# ラジのすけ」を付けてツイートしてね！<BR><BR>ABC ラジオ公式Twitter アカウント：<a href=\"https://twitter.com/abc1008khz\">@abc1008khz</a><BR>ハッシュタグ「#ABCラジオ」を付けてツイートしてね！<BR><BR>番組のFacebookページは<a href=\"https://www.facebook.com/radinosuke/\"> こちら</a>から！<BR><BR>メールアドレス：<a href=\"mailto:radinosuke@abc1008.com\">radinosuke@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%B8%E3%81%AE%E3%81%99%E3%81%91\">#ラジのすけ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/radinosuke\">@radinosuke</a>」<BR><BR><BR>",
-              "pfm": "中村七之助／ヒロド歩美",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/d4389632-7b16-49ab-bd53-61a1c7e5c951.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "#ラジのすけ"
-                  },
-                  {
-                    "name": "#ABCラジオ"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C012",
-                  "name": "文化人"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
+              "info": "阪神―ヤクルト（京セラＤ）<BR>※試合終了までお届けします。<BR>解説：桧山進次郎／実況：伊藤史隆<BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23toraban1008\">#toraban1008</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc_toraban\">@abc_toraban</a>」<BR><BR><BR>",
+              "pfm": "阪神―ヤクルト（京セラＤ）　  ※試合終了までお届けします。　  解説：桧山進次郎／実況：伊藤史隆",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
               "metas": {
                 "meta": [
                   {
                     "-name": "twitter",
-                    "-value": "#ラジのすけ"
+                    "-value": "#toraban1008"
                   },
                   {
                     "-name": "twitter",
-                    "-value": "from:radinosuke"
+                    "-value": "from:abc_toraban"
                   }
                 ]
               }
             },
             {
-              "-id": "9896152230",
-              "-ft": "20230812233000",
+              "-id": "9898392427",
+              "-ft": "20230812230000",
+              "-to": "20230812234000",
+              "-ftl": "2300",
+              "-tol": "2340",
+              "-dur": "2400",
+              "title": "ＡＢＣフレッシュアップベースボール(6)",
+              "url": "https://abcradio.asahi.co.jp/baseball/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "阪神―ヤクルト（京セラＤ）<BR>※試合終了までお届けします。<BR>解説：桧山進次郎／実況：伊藤史隆<BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23toraban1008\">#toraban1008</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc_toraban\">@abc_toraban</a>」<BR><BR><BR>",
+              "pfm": "阪神―ヤクルト（京セラＤ）　  ※試合終了までお届けします。　  解説：桧山進次郎／実況：伊藤史隆",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#toraban1008"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:abc_toraban"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9898392463",
+              "-ft": "20230812234000",
               "-to": "20230813000000",
-              "-ftl": "2330",
+              "-ftl": "2340",
               "-tol": "2400",
-              "-dur": "1800",
+              "-dur": "1200",
               "title": "ＳｉｘＴＯＮＥＳのオールナイトニッポンサタデースペシャル",
               "url": "https://abcradio.asahi.co.jp",
               "failed_record": "0",
@@ -1003,16 +882,6 @@
               "ts_out_ng": "0",
               "pfm": "ＳｉｘＴＯＮＥＳ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/765f1501-0767-46bc-810f-c3ce077d5dfd.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C007",
-                  "name": "男性アイドル"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1021,7 +890,7 @@
               }
             },
             {
-              "-id": "9896152325",
+              "-id": "9898523212",
               "-ft": "20230813000000",
               "-to": "20230813010000",
               "-ftl": "2400",
@@ -1253,7 +1122,7 @@
               }
             },
             {
-              "-id": "9896152672",
+              "-id": "9898523579",
               "-ft": "20230813041500",
               "-to": "20230813043000",
               "-ftl": "2815",
