@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1692901646",
+    "srvtime": "1692988059",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -10,7 +10,7 @@
           "date": "20230825",
           "prog": [
             {
-              "-id": "9912984242",
+              "-id": "9913788839",
               "-ft": "20230825050000",
               "-to": "20230825060000",
               "-ftl": "0500",
@@ -64,7 +64,7 @@
               }
             },
             {
-              "-id": "9912984405",
+              "-id": "9913789013",
               "-ft": "20230825060000",
               "-to": "20230825063000",
               "-ftl": "0600",
@@ -250,7 +250,7 @@
               }
             },
             {
-              "-id": "9912589818",
+              "-id": "9913789310",
               "-ft": "20230825090000",
               "-to": "20230825100000",
               "-ftl": "0900",
@@ -272,7 +272,7 @@
               }
             },
             {
-              "-id": "9912589846",
+              "-id": "9913789358",
               "-ft": "20230825100000",
               "-to": "20230825110000",
               "-ftl": "1000",
@@ -294,7 +294,7 @@
               }
             },
             {
-              "-id": "9912589905",
+              "-id": "9913789459",
               "-ft": "20230825110000",
               "-to": "20230825120000",
               "-ftl": "1100",
@@ -316,7 +316,7 @@
               }
             },
             {
-              "-id": "9912589947",
+              "-id": "9913789590",
               "-ft": "20230825120000",
               "-to": "20230825130000",
               "-ftl": "1200",
@@ -370,7 +370,7 @@
               }
             },
             {
-              "-id": "9912590010",
+              "-id": "9913789714",
               "-ft": "20230825130000",
               "-to": "20230825140000",
               "-ftl": "1300",
@@ -424,7 +424,7 @@
               }
             },
             {
-              "-id": "9912590034",
+              "-id": "9913789794",
               "-ft": "20230825140000",
               "-to": "20230825150000",
               "-ftl": "1400",
@@ -750,7 +750,7 @@
               }
             },
             {
-              "-id": "9905083532",
+              "-id": "9914372503",
               "-ft": "20230825200000",
               "-to": "20230825210000",
               "-ftl": "2000",
@@ -764,6 +764,19 @@
               "info": "巨人―阪神（東京Ｄ）<BR>※試合終了までお届けします。<BR>解説：宮本和知／実況：山内宏明<BR><BR><BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc_toraban\">@abc_toraban</a>」<BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23toraban1008\">#toraban1008</a>」<BR><BR><BR>",
               "pfm": "巨人―阪神（東京Ｄ）　  ※試合終了までお届けします。　  解説：宮本和知／実況：山内宏明　  　  ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "#toraban1008"
+                  },
+                  {
+                    "name": "#ABCフレッシュアップベースボール"
+                  },
+                  {
+                    "name": "ABCラジオ"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C013",
@@ -788,11 +801,39 @@
               }
             },
             {
-              "-id": "9904859278",
+              "-id": "9914372515",
               "-ft": "20230825210000",
-              "-to": "20230825210500",
+              "-to": "20230825214000",
               "-ftl": "2100",
-              "-tol": "2105",
+              "-tol": "2140",
+              "-dur": "2400",
+              "title": "ＡＢＣフレッシュアップベースボール(4)",
+              "url": "https://abcradio.asahi.co.jp/baseball/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "巨人―阪神（東京Ｄ）<BR>※試合終了までお届けします。<BR>解説：宮本和知／実況：山内宏明<BR><BR><BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc_toraban\">@abc_toraban</a>」<BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23toraban1008\">#toraban1008</a>」<BR><BR><BR>",
+              "pfm": "巨人―阪神（東京Ｄ）　  ※試合終了までお届けします。　  解説：宮本和知／実況：山内宏明　  　  ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#toraban1008"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:abc_toraban"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9914372519",
+              "-ft": "20230825214000",
+              "-to": "20230825214500",
+              "-ftl": "2140",
+              "-tol": "2145",
               "-dur": "300",
               "title": "ＡＢＣニュース＆天気予報",
               "url": "https://www.abc1008.com/",
@@ -800,11 +841,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -813,12 +849,12 @@
               }
             },
             {
-              "-id": "9904567649",
-              "-ft": "20230825210500",
+              "-id": "9914372521",
+              "-ft": "20230825214500",
               "-to": "20230825215000",
-              "-ftl": "2105",
+              "-ftl": "2145",
               "-tol": "2150",
-              "-dur": "2700",
+              "-dur": "300",
               "title": "小早川秀樹のオシマシ！",
               "url": "https://abcradio.asahi.co.jp/oshimashi/",
               "failed_record": "0",
@@ -827,29 +863,6 @@
               "info": "<img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_kobayakawa_h.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:om@abc1008.com\">om@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%AA%E3%82%B7%E3%83%9E%E3%82%B7\">#オシマシ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/oshimashi933\">@oshimashi933</a>」<BR><BR><BR>",
               "pfm": "小早川秀樹",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/fc1e666f-0791-4689-8cbe-0860463101d7.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "#ABCラジオ"
-                  },
-                  {
-                    "name": "こばやん"
-                  },
-                  {
-                    "name": "オシマシ"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": [
                   {
@@ -864,7 +877,7 @@
               }
             },
             {
-              "-id": "9913411565",
+              "-id": "9914581880",
               "-ft": "20230825215000",
               "-to": "20230825220000",
               "-ftl": "2150",
@@ -1128,7 +1141,7 @@
               }
             },
             {
-              "-id": "9912851544",
+              "-id": "9913790974",
               "-ft": "20230826020000",
               "-to": "20230826030000",
               "-ftl": "2600",
@@ -1268,7 +1281,7 @@
               }
             },
             {
-              "-id": "9913432204",
+              "-id": "9914607597",
               "-ft": "20230826041500",
               "-to": "20230826043000",
               "-ftl": "2815",
