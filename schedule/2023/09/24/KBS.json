@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1695061704",
+    "srvtime": "1695234506",
     "stations": {
       "station": {
         "-id": "KBS",
@@ -10,28 +10,17 @@
           "date": "20230924",
           "prog": [
             {
-              "-id": "9940075895",
+              "-id": "9944659928",
               "-ft": "20230924050000",
-              "-to": "20230924052000",
+              "-to": "20230924052500",
               "-ftl": "0500",
-              "-tol": "0520",
-              "-dur": "1200",
-              "title": "おはよう歳時記",
+              "-tol": "0525",
+              "-dur": "1500",
+              "title": "健康なんでも相談",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "<a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/saiji.htm\">★番組へのメッセージ</a>",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/7lwqx5lge4.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/w37axx28qc.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -40,21 +29,45 @@
               }
             },
             {
-              "-id": "9940075917",
-              "-ft": "20230924052000",
-              "-to": "20230924052500",
-              "-ftl": "0520",
-              "-tol": "0525",
-              "-dur": "300",
-              "title": "京都フォークデイズ",
+              "-id": "9944659945",
+              "-ft": "20230924052500",
+              "-to": "20230924054000",
+              "-ftl": "0525",
+              "-tol": "0540",
+              "-dur": "900",
+              "title": "毎日元気！毎日笑顔！の「健康劇場」",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/exs35qbdln.jpg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/aho2js149j.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9944659966",
+              "-ft": "20230924054000",
+              "-to": "20230924055500",
+              "-ftl": "0540",
+              "-tol": "0555",
+              "-dur": "900",
+              "title": "三山ひろしの演歌の夜明け",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/wc8pcpeaui.jpg",
+              "tag": {
+                "item": {
+                  "name": "三山ひろし"
+                }
+              },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C004",
+                  "name": "ミュージシャン"
                 },
                 "program": {
                   "-id": "P005",
@@ -69,18 +82,32 @@
               }
             },
             {
-              "-id": "9942154831",
-              "-ft": "20230924052500",
-              "-to": "20230924054000",
-              "-ftl": "0525",
-              "-tol": "0540",
+              "-id": "9945308983",
+              "-ft": "20230924055500",
+              "-to": "20230924061000",
+              "-ftl": "0555",
+              "-tol": "0610",
               "-dur": "900",
-              "title": "松永ひろきの毎日笑顔！元気塾",
+              "title": "小倉・IMALUの◯◯玉手箱",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/o13hebya9a.jpg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/ttxz23st4p.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "IMALU"
+                  },
+                  {
+                    "name": "小倉淳"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P018",
                   "name": "ショッピング"
@@ -94,67 +121,7 @@
               }
             },
             {
-              "-id": "9940410302",
-              "-ft": "20230924054000",
-              "-to": "20230924055500",
-              "-ftl": "0540",
-              "-tol": "0555",
-              "-dur": "900",
-              "title": "天理教の時間",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/z304bu99kc.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P016",
-                  "name": "宗教"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9942801390",
-              "-ft": "20230924055500",
-              "-to": "20230924061000",
-              "-ftl": "0555",
-              "-tol": "0610",
-              "-dur": "900",
-              "title": "旬！SHUN！ピックアップ",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/lfkkzn2e3t.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ねづっち"
-                  },
-                  {
-                    "name": "竹内都子"
-                  }
-                ]
-              },
-              "genre": {
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9942801444",
+              "-id": "9945309054",
               "-ft": "20230924061000",
               "-to": "20230924062000",
               "-ftl": "0610",
@@ -179,21 +146,21 @@
               }
             },
             {
-              "-id": "9942801464",
+              "-id": "9945309082",
               "-ft": "20230924062000",
               "-to": "20230924063500",
               "-ftl": "0620",
               "-tol": "0635",
               "-dur": "900",
-              "title": "納得健康15分",
+              "title": "元気スイッチ",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/sx8w4ss7sj.jpg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/p46bj80zyi.jpg",
               "genre": {
                 "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -204,7 +171,7 @@
               }
             },
             {
-              "-id": "9940564419",
+              "-id": "9944660132",
               "-ft": "20230924063500",
               "-to": "20230924064000",
               "-ftl": "0635",
@@ -239,23 +206,17 @@
               }
             },
             {
-              "-id": "9942781851",
+              "-id": "9945276405",
               "-ft": "20230924064000",
               "-to": "20230924065500",
               "-ftl": "0640",
               "-tol": "0655",
               "-dur": "900",
-              "title": "ヒヨコで踊るラジオ",
+              "title": "健やかインフォメーション",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/2nwl4khujb.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
-                }
-              },
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/xttlwoge1x.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -264,23 +225,17 @@
               }
             },
             {
-              "-id": "9940391695",
+              "-id": "9944660169",
               "-ft": "20230924065500",
               "-to": "20230924070000",
               "-ftl": "0655",
               "-tol": "0700",
               "-dur": "300",
-              "title": "天気予報",
+              "title": "近江の神様・ご利益めぐり",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/kgvuoopudo.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/pmd7619qwv.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -289,34 +244,17 @@
               }
             },
             {
-              "-id": "9940076130",
+              "-id": "9944660216",
               "-ft": "20230924070000",
-              "-to": "20230924080000",
+              "-to": "20230924071500",
               "-ftl": "0700",
-              "-tol": "0800",
-              "-dur": "3600",
-              "title": "武部宏の日曜とーく",
+              "-tol": "0715",
+              "-dur": "900",
+              "title": "ピックアップラジオショッピング",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "武部宏 / 小森弥生",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/jcut3bnyuw.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "武部宏"
-                  },
-                  {
-                    "name": "小森弥生"
-                  }
-                ]
-              },
-              "genre": {
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/uuohgb9dks.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -325,32 +263,39 @@
               }
             },
             {
-              "-id": "9942801682",
-              "-ft": "20230924080000",
-              "-to": "20230924081500",
-              "-ftl": "0800",
-              "-tol": "0815",
+              "-id": "9944660237",
+              "-ft": "20230924071500",
+              "-to": "20230924073000",
+              "-ftl": "0715",
+              "-tol": "0730",
               "-dur": "900",
-              "title": "小倉・IMALUの〇〇玉手箱",
+              "title": "レコ室からこんにちは(再)",
+              "url": "https://www.kbs-kyoto.co.jp/radio/rec/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/ttxz23st4p.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "IMALU"
-                  },
-                  {
-                    "name": "小倉淳"
-                  }
-                ]
-              },
+              "desc": "KBS京都のレコード室には沢山の貴重なレコード音源があります。普段なかなかかからない様な音楽や、懐かしい曲をミュージックセレクターにKBS音源所蔵室(レコ室)から自由に選びレコードや音楽との思いでなどを 自由にトークしていただく夕暮れ時のラジオプログラムです。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/ii1elrfkj7.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9945309284",
+              "-ft": "20230924073000",
+              "-to": "20230924074500",
+              "-ftl": "0730",
+              "-tol": "0745",
+              "-dur": "900",
+              "title": "納得健康15分",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/sx8w4ss7sj.jpg",
               "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
                 "program": {
                   "-id": "P018",
                   "name": "ショッピング"
@@ -364,36 +309,40 @@
               }
             },
             {
-              "-id": "9940827801",
-              "-ft": "20230924081500",
-              "-to": "20230924083000",
-              "-ftl": "0815",
-              "-tol": "0830",
+              "-id": "9944660319",
+              "-ft": "20230924074500",
+              "-to": "20230924080000",
+              "-ftl": "0745",
+              "-tol": "0800",
               "-dur": "900",
-              "title": "鈴木康博 フォークソング・メモリーズ",
+              "title": "ミュージックヒストリー",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "鈴木康博",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/0d6zhbu3ls.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "鈴木康博"
-                  },
-                  {
-                    "name": "オフコース"
-                  }
-                ]
-              },
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/aloc7iogg5.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9945309394",
+              "-ft": "20230924080000",
+              "-to": "20230924081500",
+              "-ftl": "0800",
+              "-tol": "0815",
+              "-dur": "900",
+              "title": "健康生活インフォメーション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/0q0c76xl4l.jpg",
               "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -404,13 +353,33 @@
               }
             },
             {
-              "-id": "9940076288",
+              "-id": "9944660421",
+              "-ft": "20230924081500",
+              "-to": "20230924083000",
+              "-ftl": "0815",
+              "-tol": "0830",
+              "-dur": "900",
+              "title": "岡村孝子あの頃ミュージック！",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "岡村孝子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/33i64ci429.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9944660466",
               "-ft": "20230924083000",
-              "-to": "20230924120000",
+              "-to": "20230924103000",
               "-ftl": "0830",
-              "-tol": "1200",
-              "-dur": "12600",
-              "title": "日曜ワイド われら夢の途中",
+              "-tol": "1030",
+              "-dur": "7200",
+              "title": "日曜ワイド われら夢の途中 パート1",
               "url": "https://www.kbs-kyoto.co.jp/radio/yume/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -441,36 +410,33 @@
               }
             },
             {
-              "-id": "9942802079",
-              "-ft": "20230924120000",
-              "-to": "20230924130000",
-              "-ftl": "1200",
-              "-tol": "1300",
-              "-dur": "3600",
-              "title": "三宅裕司のサンデーヒットパラダイス",
+              "-id": "9944660765",
+              "-ft": "20230924103000",
+              "-to": "20230924120000",
+              "-ftl": "1030",
+              "-tol": "1200",
+              "-dur": "5400",
+              "title": "日曜ワイド われら夢の途中 パート2",
+              "url": "https://www.kbs-kyoto.co.jp/radio/yume/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "三宅裕司",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/nhs6p00zkc.jpg",
+              "desc": "ノスタルジーと明日への好奇心。ときに旺盛な知的好奇心・探求心で明日を切り拓く団塊の世代に向けた「昔」と「今」をほどよくブレンドしたラジオ。やわらかなパーソナリティの声にのせて綴る、懐かしい話題と時代をとらえた情報。知識欲をくすぐる雑学や、レジャーシーンを盛り立てる旅・グルメ情報満載の番組です。<br /><br />メール:<a href=\"mailto:yume@kbs.kyoto\">yume@kbs.kyoto</a>",
+              "pfm": "塩見祐子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/fmnbai71z8.jpg",
               "tag": {
-                "item": [
-                  {
-                    "name": "三宅裕司"
-                  },
-                  {
-                    "name": "江口ともみ"
-                  }
-                ]
+                "item": {
+                  "name": "塩見祐子"
+                }
               },
               "genre": {
                 "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -481,7 +447,26 @@
               }
             },
             {
-              "-id": "9940564726",
+              "-id": "9945276823",
+              "-ft": "20230924120000",
+              "-to": "20230924130000",
+              "-ftl": "1200",
+              "-tol": "1300",
+              "-dur": "3600",
+              "title": "知っていますか?ロービジョン～0と1の間　Vol.3",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/m3onfgn7za.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9944661194",
               "-ft": "20230924130000",
               "-to": "20230924140000",
               "-ftl": "1300",
@@ -526,7 +511,7 @@
               }
             },
             {
-              "-id": "9940076996",
+              "-id": "9944661280",
               "-ft": "20230924140000",
               "-to": "20230924170000",
               "-ftl": "1400",
@@ -563,17 +548,17 @@
               }
             },
             {
-              "-id": "9942802505",
+              "-id": "9945310616",
               "-ft": "20230924170000",
               "-to": "20230924171500",
               "-ftl": "1700",
               "-tol": "1715",
               "-dur": "900",
-              "title": "健康生活インフォメーション",
+              "title": "今旬インフォメーション",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/0q0c76xl4l.jpg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/colm45jfte.jpg",
               "genre": {
                 "program": {
                   "-id": "P018",
@@ -588,33 +573,18 @@
               }
             },
             {
-              "-id": "9940564854",
+              "-id": "9944661638",
               "-ft": "20230924171500",
               "-to": "20230924172000",
               "-ftl": "1715",
               "-tol": "1720",
               "-dur": "300",
-              "title": "なごみのはんなり京めぐり",
+              "title": "オサムのちょっとひとり言",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "海平和",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/54z57flp7k.jpg",
-              "tag": {
-                "item": {
-                  "name": "海平和"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
+              "pfm": "奥村治",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/lt9lzw5bmc.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -623,7 +593,7 @@
               }
             },
             {
-              "-id": "9940058043",
+              "-id": "9944661641",
               "-ft": "20230924172000",
               "-to": "20230924173000",
               "-ftl": "1720",
@@ -657,38 +627,18 @@
               }
             },
             {
-              "-id": "9942782660",
+              "-id": "9945277236",
               "-ft": "20230924173000",
               "-to": "20230924180000",
               "-ftl": "1730",
               "-tol": "1800",
               "-dur": "1800",
-              "title": "プチ鹿島のラジオ19xx",
+              "title": "A&Gメディアステーション FUN MORE TUNE",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "プチ鹿島 / 海野紀恵",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/eo7vbvv6ue.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "プチ鹿島"
-                  },
-                  {
-                    "name": "海野紀恵"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
+              "pfm": "安元洋貴 / 白石晴香",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/zmx7dqg54f.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -697,7 +647,7 @@
               }
             },
             {
-              "-id": "9940077426",
+              "-id": "9944661755",
               "-ft": "20230924180000",
               "-to": "20230924181500",
               "-ftl": "1800",
@@ -732,35 +682,30 @@
               }
             },
             {
-              "-id": "9942802555",
+              "-id": "9944661765",
               "-ft": "20230924181500",
               "-to": "20230924183000",
               "-ftl": "1815",
               "-tol": "1830",
               "-dur": "900",
-              "title": "小倉・IMALUの〇〇玉手箱",
+              "title": "歌謡喫茶・昭和",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/ttxz23st4p.jpg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/r9j83l4s3f.jpg",
               "tag": {
-                "item": [
-                  {
-                    "name": "IMALU"
-                  },
-                  {
-                    "name": "小倉淳"
-                  }
-                ]
+                "item": {
+                  "name": "杉原徹"
+                }
               },
               "genre": {
                 "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 },
                 "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -771,7 +716,7 @@
               }
             },
             {
-              "-id": "9942802565",
+              "-id": "9945310787",
               "-ft": "20230924183000",
               "-to": "20230924190000",
               "-ftl": "1830",
@@ -800,7 +745,7 @@
               }
             },
             {
-              "-id": "9942782722",
+              "-id": "9945277300",
               "-ft": "20230924190000",
               "-to": "20230924200000",
               "-ftl": "1900",
@@ -810,7 +755,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "西畑大吾 (なにわ男子) / 大西流星 (なにわ男子) / 道枝駿佑 (なにわ男子) / 高橋恭平 (なにわ男子) / 長尾謙杜 (なにわ男子) / 藤原丈一郎 (なにわ男子) / 大橋和也 (なにわ男子)",
+              "pfm": "なにわ男子",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/61ba311a-631c-4ace-90cc-5e7e0fd8fe5c.jpeg",
               "tag": {
                 "item": [
@@ -858,7 +803,7 @@
               }
             },
             {
-              "-id": "9940077598",
+              "-id": "9944661979",
               "-ft": "20230924200000",
               "-to": "20230924203000",
               "-ftl": "2000",
@@ -877,31 +822,44 @@
               }
             },
             {
-              "-id": "9940564992",
+              "-id": "9945310989",
               "-ft": "20230924203000",
-              "-to": "20230924210000",
+              "-to": "20230924205500",
               "-ftl": "2030",
-              "-tol": "2100",
-              "-dur": "1800",
-              "title": "よしもと祇園花月Presents GIONラジオ",
+              "-tol": "2055",
+              "-dur": "1500",
+              "title": "ボートレースライブ　プレミアムG1第10回ヤングダービー優勝戦実況中継",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "木崎太郎 (祗園) / 櫻井健一朗 (祗園) / 河野菜摘 (ねこ屋敷) / 山崎愛子 (ねこ屋敷)",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/8s8wemcb4n.jpg",
-              "tag": {
-                "item": {
-                  "name": "祗園"
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/ln8kvd2r39.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
                 }
-              },
+              }
+            },
+            {
+              "-id": "9944662031",
+              "-ft": "20230924205500",
+              "-to": "20230924210000",
+              "-ftl": "2055",
+              "-tol": "2100",
+              "-dur": "300",
+              "title": "京都フォークデイズ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/exs35qbdln.jpg",
               "genre": {
                 "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -912,7 +870,7 @@
               }
             },
             {
-              "-id": "9940109555",
+              "-id": "9944662073",
               "-ft": "20230924210000",
               "-to": "20230924212000",
               "-ftl": "2100",
@@ -943,7 +901,7 @@
               }
             },
             {
-              "-id": "9940393424",
+              "-id": "9944662079",
               "-ft": "20230924212000",
               "-to": "20230924213000",
               "-ftl": "2120",
@@ -968,27 +926,36 @@
               }
             },
             {
-              "-id": "9940775127",
+              "-id": "9945311079",
               "-ft": "20230924213000",
               "-to": "20230924220000",
               "-ftl": "2130",
               "-tol": "2200",
               "-dur": "1800",
-              "title": "ヨーロッパ企画のブロードウェイラジオ!",
+              "title": "志の輔＆雷鳥のなんでか？ニッポン",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "永野宗典 / 藤谷理子",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/va71ttl3ke.jpg",
+              "pfm": "立川志の輔 / 雷鳥",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/yhhcv0wc81.jpg",
               "tag": {
-                "item": {
-                  "name": "ヨーロッパ企画"
-                }
+                "item": [
+                  {
+                    "name": "立川志の輔"
+                  },
+                  {
+                    "name": "雷鳥"
+                  }
+                ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -999,7 +966,7 @@
               }
             },
             {
-              "-id": "9940565039",
+              "-id": "9944662185",
               "-ft": "20230924220000",
               "-to": "20230924223000",
               "-ftl": "2200",
@@ -1009,7 +976,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "アルミカン",
+              "pfm": "赤阪侑子(アルミカン) / 高橋沙織(アルミカン)",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/8bw7j91g3i.jpg",
               "tag": {
                 "item": [
@@ -1042,7 +1009,7 @@
               }
             },
             {
-              "-id": "9940077842",
+              "-id": "9944662215",
               "-ft": "20230924223000",
               "-to": "20230924230000",
               "-ftl": "2230",
@@ -1073,26 +1040,31 @@
               }
             },
             {
-              "-id": "9940771472",
+              "-id": "9944662300",
               "-ft": "20230924230000",
               "-to": "20230924233000",
               "-ftl": "2300",
               "-tol": "2330",
               "-dur": "1800",
-              "title": "A&G　メディアステーション こむちゃっとカウントダウン",
+              "title": "よしもと祇園花月Presents　GIONラジオ",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "櫻井孝宏 / 白石晴香",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/aznqty1ok5.jpg",
+              "pfm": "木崎太郎 (祇園) / 櫻井健一朗 (祇園) /  一石達也 (うただ) / 宮本 (うただ)",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/8s8wemcb4n.jpg",
+              "tag": {
+                "item": {
+                  "name": "祗園"
+                }
+              },
               "genre": {
                 "personality": {
-                  "-id": "C005",
-                  "name": "男性声優"
+                  "-id": "C009",
+                  "name": "芸人"
                 },
                 "program": {
-                  "-id": "P008",
-                  "name": "アニラジ"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -1103,39 +1075,44 @@
               }
             },
             {
-              "-id": "9942782996",
+              "-id": "9944662352",
               "-ft": "20230924233000",
               "-to": "20230925000000",
               "-ftl": "2330",
               "-tol": "2400",
               "-dur": "1800",
-              "title": "佐藤竹善 from Sing Like Talking 「レコード部屋」",
+              "title": "コドモゴコロ研究所",
+              "url": "https://www.kbs-kyoto.co.jp/radio/kodomo/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "佐藤竹善",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/jvwt8hag9f.jpg",
+              "desc": "「UUUM」の代表取締役会長・鎌田和樹がラジオパーソナリティとして、毎週素敵なゲストをお迎えし、その方の人となりや活動の中から、「コドモゴコロ」を探り出していく番組。リスナーの皆さんと一緒に、人生を楽しむヒントや新しい体験へのきっかけを見つけていきます！<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/kodomo/\">★番組サイト</a><br /><a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/kodomo.htm\">★番組へのメッセージ</a>",
+              "pfm": "鎌田和樹",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBS/8nxhikfg9l.jpg",
               "tag": {
                 "item": [
                   {
-                    "name": "佐藤竹善"
+                    "name": "鎌田和樹"
                   },
                   {
-                    "name": "小川けいこ"
+                    "name": "UUUM"
                   },
                   {
-                    "name": "佐藤竹善の音楽トーク"
+                    "name": "曽田茉莉江"
+                  },
+                  {
+                    "name": "美馬沙亜弥"
                   }
                 ]
               },
               "genre": {
                 "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
+                  "-id": "C012",
+                  "name": "文化人"
                 },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -1146,7 +1123,7 @@
               }
             },
             {
-              "-id": "9941460859",
+              "-id": "9944662450",
               "-ft": "20230925000000",
               "-to": "20230925010000",
               "-ftl": "2400",
@@ -1188,7 +1165,7 @@
               }
             },
             {
-              "-id": "9942802974",
+              "-id": "9945311538",
               "-ft": "20230925010000",
               "-to": "20230925050000",
               "-ftl": "2500",
