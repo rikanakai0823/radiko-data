@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1695407255",
+    "srvtime": "1695493674",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -10,7 +10,7 @@
           "date": "20230923",
           "prog": [
             {
-              "-id": "9948024033",
+              "-id": "9949381853",
               "-ft": "20230923050000",
               "-to": "20230923050500",
               "-ftl": "0500",
@@ -30,7 +30,7 @@
               }
             },
             {
-              "-id": "9948024043",
+              "-id": "9949402684",
               "-ft": "20230923050500",
               "-to": "20230923051500",
               "-ftl": "0505",
@@ -73,7 +73,7 @@
               }
             },
             {
-              "-id": "9947994743",
+              "-id": "9949402728",
               "-ft": "20230923053000",
               "-to": "20230923054500",
               "-ftl": "0530",
@@ -104,7 +104,7 @@
               }
             },
             {
-              "-id": "9948024059",
+              "-id": "9949381890",
               "-ft": "20230923054500",
               "-to": "20230923060000",
               "-ftl": "0545",
@@ -125,7 +125,7 @@
               }
             },
             {
-              "-id": "9947994828",
+              "-id": "9949402798",
               "-ft": "20230923060000",
               "-to": "20230923061500",
               "-ftl": "0600",
@@ -648,7 +648,7 @@
               }
             },
             {
-              "-id": "9948024256",
+              "-id": "9949382233",
               "-ft": "20230923121500",
               "-to": "20230923123000",
               "-ftl": "1215",
@@ -938,7 +938,7 @@
               }
             },
             {
-              "-id": "9947568335",
+              "-id": "9949144103",
               "-ft": "20230923200000",
               "-to": "20230923210000",
               "-ftl": "2000",
@@ -989,100 +989,51 @@
               }
             },
             {
-              "-id": "9946038167",
+              "-id": "9949144113",
               "-ft": "20230923210000",
-              "-to": "20230923210500",
+              "-to": "20230923213000",
               "-ftl": "2100",
-              "-tol": "2105",
-              "-dur": "300",
+              "-tol": "2130",
+              "-dur": "1800",
+              "title": "ＡＢＣフレッシュアップベースボール(4)",
+              "url": "https://abcradio.asahi.co.jp/baseball/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "ヤクルト―阪神（神宮）<BR>※試合終了までお届けします。<BR>解説：濱中治／実況：山下剛<BR><BR>※上記試合が中止の場合は「砂山圭大郎のＳＥＴ　ＵＰ！」をお届けします。<BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23toraban1008\">#toraban1008</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc_toraban\">@abc_toraban</a>」<BR><BR><BR>",
+              "pfm": "ヤクルト―阪神（神宮）　  ※試合終了までお届けします。　  解説：濱中治／実況：山下剛　  　  ※上記試合が中止の場合は「砂山圭大郎のＳＥＴ　ＵＰ！」をお届けします。",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#toraban1008"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:abc_toraban"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9949114589",
+              "-ft": "20230923213000",
+              "-to": "20230923220000",
+              "-ftl": "2130",
+              "-tol": "2200",
+              "-dur": "1800",
               "title": "ＡＢＣニュース＆天気予報",
               "url": "https://abcradio.asahi.co.jp/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
                   "-value": "#radiko"
                 }
-              }
-            },
-            {
-              "-id": "9947568499",
-              "-ft": "20230923210500",
-              "-to": "20230923213000",
-              "-ftl": "2105",
-              "-tol": "2130",
-              "-dur": "1500",
-              "title": "小早川秀樹のマシマシ！ベースボール",
-              "url": "https://www.abc1008.com/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "pfm": "小早川秀樹",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9947568530",
-              "-ft": "20230923213000",
-              "-to": "20230923220000",
-              "-ftl": "2130",
-              "-tol": "2200",
-              "-dur": "1800",
-              "title": "ＳＡＬＬＹ’Ｓ　ＣＯＦＦＥＥ",
-              "url": "https://abcradio.asahi.co.jp/coffee/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_masuda_s.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:sally@abc1008.com\">sally@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%B5%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC\">#サリーズコーヒー</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/saorimasuda_abc\">@saorimasuda_abc</a>」<BR><BR><BR>",
-              "pfm": "増田紗織",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/ABC/cbf15dcc-3f39-4e79-9b79-0ea6182c2425.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "サリ活"
-                  },
-                  {
-                    "name": "サリーズコーヒー"
-                  },
-                  {
-                    "name": "#ABCラジオ"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#サリーズコーヒー"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:saorimasuda_abc"
-                  }
-                ]
               }
             },
             {
@@ -1211,7 +1162,7 @@
               }
             },
             {
-              "-id": "9948025007",
+              "-id": "9949403859",
               "-ft": "20230923233000",
               "-to": "20230924000000",
               "-ftl": "2330",
@@ -1242,7 +1193,7 @@
               }
             },
             {
-              "-id": "9948025028",
+              "-id": "9949403919",
               "-ft": "20230924000000",
               "-to": "20230924010000",
               "-ftl": "2400",
@@ -1474,7 +1425,7 @@
               }
             },
             {
-              "-id": "9947996933",
+              "-id": "9949404143",
               "-ft": "20230924041500",
               "-to": "20230924043000",
               "-ftl": "2815",
