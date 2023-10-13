@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1696703314",
+    "srvtime": "1697221694",
     "stations": {
       "station": {
         "-id": "INT",
@@ -10,19 +10,19 @@
           "date": "20231013",
           "prog": [
             {
-              "-id": "9963301814",
+              "-id": "9972471710",
               "-ft": "20231013050000",
               "-to": "20231013050900",
               "-ftl": "0500",
               "-tol": "0509",
               "-dur": "540",
-              "title": "Public Service Announcement (Portuguese)",
+              "title": "Anúncio de serviços públicos - Public Service Announcement (Portuguese)",
               "url": "https://www.interfm.co.jp/psa_pt",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "interfmが開局以来続けている「P.S.A.」(Public Service Announcement)は、在日外国人に向け、生活情報や災害時の避難場所などの案内を含め、日本での生活に役立つ情報を中心に、各言語でお届けしています。",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/7df3ff5f-4dd1-4d56-abc8-d2c760b813fa.jpeg",
+              "info": "<div class=\"station_content_description \">\tInterFM897が開局以来続けている「P.S.A.」(Public Service Announcement)は、在日外国人に向け、生活情報や災害時の避難場所などの案内を含め、日本での生活に役立つ情報を中心に、各言語でお届けしています。<br /><br />Mon-Fri. 05:00～05:09<br /><br />Mon. - Chinese<br />Tue. - Korean<br />Wed. - Tagalog<br />Thu. - Spanish<br />Fri. - Portuguese <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/psa_pt\">https://www.interfm.co.jp/psa_pt</a><br />\tメールアドレス：<a href=\"mailto:voice@interfm.co.jp\">voice@interfm.co.jp</a><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/llgcgdu11l.jpg",
               "tag": {
                 "item": [
                   {
@@ -30,10 +30,17 @@
                   },
                   {
                     "name": "PSA"
+                  },
+                  {
+                    "name": "ポルトガル語"
                   }
                 ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -47,18 +54,19 @@
               }
             },
             {
-              "-id": "9963705897",
+              "-id": "9972471716",
               "-ft": "20231013050900",
               "-to": "20231013052400",
               "-ftl": "0509",
               "-tol": "0524",
               "-dur": "900",
               "title": "interfm Hotpicks Playlist",
-              "url": "https://www.interfm.co.jp/",
+              "url": "https://www.interfm.co.jp/hotpicks",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/57879ca5-bf3b-4ef7-9be3-fbc15c1006a9.jpeg",
+              "info": "<div class=\"station_content_description \">\tインターエフエム・ホットピックスプレイリスト <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/hotpicks\">https://www.interfm.co.jp/hotpicks</a><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/iqjiw3rq5w.jpg",
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -73,19 +81,19 @@
               }
             },
             {
-              "-id": "9963239603",
+              "-id": "9972471723",
               "-ft": "20231013052400",
               "-to": "20231013053000",
               "-ftl": "0524",
               "-tol": "0530",
               "-dur": "360",
-              "title": "News and Info for Ukrainians",
+              "title": "Новини та інформація для українців ~News and Info for Ukrainians~",
               "url": "https://www.interfm.co.jp/newsinukr",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "ウクライナからの避難民の方へ、ニュースと日本での生活に役立つ情報をウクライナ語でお届けします。<br><br>\n\n番組では、リスナーの皆さんからの感想や、取り上げて欲しい話題などメッセージをお待ちしています。<br><br>\n\nメッセージは、<a href=mailto:voice@interfm.co.jp><u>voice@interfm.co.jp</u></a>までお送りください。",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/d3d74f4d-58c9-4ebb-957d-c0e68293209f.jpeg",
+              "info": "<div class=\"station_content_description \">\tウクライナからの避難民の方へ、ニュースと日本での生活に役立つ情報をウクライナ語でお届けします。<br /><br />番組では、リスナーの皆さんからの感想や、取り上げて欲しい話題などメッセージをお待ちしています。 <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/newsinukr\">https://www.interfm.co.jp/newsinukr</a><br />\tメールアドレス：<a href=\"mailto:voice@interfm.co.jp\">voice@interfm.co.jp</a><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/fayblb656p.jpg",
               "tag": {
                 "item": [
                   {
@@ -128,18 +136,19 @@
               }
             },
             {
-              "-id": "9963705910",
+              "-id": "9972471732",
               "-ft": "20231013053000",
               "-to": "20231013060000",
               "-ftl": "0530",
               "-tol": "0600",
               "-dur": "1800",
               "title": "interfm Hotpicks Playlist",
-              "url": "https://www.interfm.co.jp/",
+              "url": "https://www.interfm.co.jp/hotpicks",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/57879ca5-bf3b-4ef7-9be3-fbc15c1006a9.jpeg",
+              "info": "<div class=\"station_content_description \">\tインターエフエム・ホットピックスプレイリスト <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/hotpicks\">https://www.interfm.co.jp/hotpicks</a><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/iqjiw3rq5w.jpg",
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -154,7 +163,7 @@
               }
             },
             {
-              "-id": "9963239675",
+              "-id": "9972471779",
               "-ft": "20231013060000",
               "-to": "20231013061200",
               "-ftl": "0600",
@@ -165,9 +174,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "THE GUY PERRYMAN MIX - non-stop selection of all music genres including pop, rock, soul, jazz, electro, soundtracks and more to start your day with a smooth sunrise flight.<br><br>\n \nGuy has interviewed rock royalty including Paul McCartney, DJ’d for royalty including Prince William, was the world’s first person to DJ live on board airline flights between Tokyo and London and in 2017 was appointed MBE by Queen Elizabeth II. Welcome on board.<br><br>\n \nGuy Perrymanがお届けするモーニングミュージックミックス。ポップ、ロック、ソウル、ジャズ、エレクトロ、サウンドトラックなど、あらゆる音楽ジャンルを網羅したノンストップの選曲で、心地よいサンライズフライトを始めましょう。<br><br>\n\nDJのGuyはこれまでにポール・マッカートニーへのインタビューや、ウィリアム王子来日時のDJ、世界で初めて東京-ロンドン間の飛行機内でライブDJを成功させるなどし、2017年に英国王室エリザベス女王より大英帝国勲章を授与されました。",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/065bf3c3-3b43-4b49-af14-102592210709_sq.jpg\" height=\"60\" width=\"60\" alt=\"Guy Perryman\"></td>  </tr></table><br /><br />\tTHE GUY PERRYMAN MIX - non-stop selection of all music genres including pop, rock, soul, jazz, electro, soundtracks and more to start your day with a smooth sunrise flight.<br /><br />Guy has interviewed rock royalty including Paul McCartney, DJ’d for royalty including Prince William, was the world’s first person to DJ live on board airline flights between Tokyo and London and in 2017 was appointed MBE by Queen Elizabeth II. Welcome on board.<br /><br />Guy Perrymanがお届けするモーニングミュージックミックス。ポップ、ロック、ソウル、ジャズ、エレクトロ、サウンドトラックなど、あらゆる音楽ジャンルを網羅したノンストップの選曲で、心地よいサンライズフライトを始めましょう。<br /><br />DJのGuyはこれまでにポール・マッカートニーへのインタビューや、ウィリアム王子来日時のDJ、世界で初めて東京-ロンドン間の飛行機内でライブDJを成功させるなどし、2017年に英国王室エリザベス女王より大英帝国勲章を授与されました。 <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/gpm\">https://www.interfm.co.jp/gpm</a><br /> <br /> twitterアカウントは「<a href=\"http://twitter.com/guyperryman\">@guyperryman</a>」<br /><br /></div>",
               "pfm": "Guy Perryman",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/c3fbba67-06f5-4320-a11b-11ee1fa1bdc7.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/sf7pi9gl13.jpg",
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -181,24 +190,24 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "from:guyperryman"
                 }
               }
             },
             {
-              "-id": "9963301884",
+              "-id": "9972471784",
               "-ft": "20231013061200",
               "-to": "20231013061500",
               "-ftl": "0612",
               "-tol": "0615",
               "-dur": "180",
-              "title": "Public Service Announcement - 横浜市 (Portuguese)",
+              "title": "Public Service Announcement -Cidade de Yokohama (Português)",
               "url": "https://www.interfm.co.jp/yokohama_pt",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "interfmが開局以来続けている「P.S.A.」(Public Service Announcement)は、在日外国人に向け、生活情報や災害時の避難場所などの案内を含め、日本での生活に役立つ情報を中心に、各言語でお届けしています。<br><br>\n国際都市「横浜」にふさわしい、多彩な言語での放送が好評です。",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/dfc2c248-c4d4-4300-9453-f4b8e111029c.jpeg",
+              "info": "<div class=\"station_content_description \">\tInterFM897が開局以来続けている「P.S.A.」(Public Service Announcement)は、在日外国人に向け、生活情報や災害時の避難場所などの案内を含め、日本での生活に役立つ情報を中心に、各言語でお届けしています。<br /><br />国際都市「横浜」にふさわしい、多彩な言語での放送が好評です。 <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/yokohama_pt\">https://www.interfm.co.jp/yokohama_pt</a><br />\tメールアドレス：<a href=\"mailto:voice@interfm.co.jp\">voice@interfm.co.jp</a><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/0bnr2gr77e.jpg",
               "tag": {
                 "item": [
                   {
@@ -216,6 +225,10 @@
                 ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -229,7 +242,7 @@
               }
             },
             {
-              "-id": "9963239683",
+              "-id": "9972471785",
               "-ft": "20231013061500",
               "-to": "20231013065200",
               "-ftl": "0615",
@@ -240,9 +253,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "THE GUY PERRYMAN MIX - non-stop selection of all music genres including pop, rock, soul, jazz, electro, soundtracks and more to start your day with a smooth sunrise flight.<br><br>\n \nGuy has interviewed rock royalty including Paul McCartney, DJ’d for royalty including Prince William, was the world’s first person to DJ live on board airline flights between Tokyo and London and in 2017 was appointed MBE by Queen Elizabeth II. Welcome on board.<br><br>\n \nGuy Perrymanがお届けするモーニングミュージックミックス。ポップ、ロック、ソウル、ジャズ、エレクトロ、サウンドトラックなど、あらゆる音楽ジャンルを網羅したノンストップの選曲で、心地よいサンライズフライトを始めましょう。<br><br>\n\nDJのGuyはこれまでにポール・マッカートニーへのインタビューや、ウィリアム王子来日時のDJ、世界で初めて東京-ロンドン間の飛行機内でライブDJを成功させるなどし、2017年に英国王室エリザベス女王より大英帝国勲章を授与されました。",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/065bf3c3-3b43-4b49-af14-102592210709_sq.jpg\" height=\"60\" width=\"60\" alt=\"Guy Perryman\"></td>  </tr></table><br /><br />\tTHE GUY PERRYMAN MIX - non-stop selection of all music genres including pop, rock, soul, jazz, electro, soundtracks and more to start your day with a smooth sunrise flight.<br /><br />Guy has interviewed rock royalty including Paul McCartney, DJ’d for royalty including Prince William, was the world’s first person to DJ live on board airline flights between Tokyo and London and in 2017 was appointed MBE by Queen Elizabeth II. Welcome on board.<br /><br />Guy Perrymanがお届けするモーニングミュージックミックス。ポップ、ロック、ソウル、ジャズ、エレクトロ、サウンドトラックなど、あらゆる音楽ジャンルを網羅したノンストップの選曲で、心地よいサンライズフライトを始めましょう。<br /><br />DJのGuyはこれまでにポール・マッカートニーへのインタビューや、ウィリアム王子来日時のDJ、世界で初めて東京-ロンドン間の飛行機内でライブDJを成功させるなどし、2017年に英国王室エリザベス女王より大英帝国勲章を授与されました。 <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/gpm\">https://www.interfm.co.jp/gpm</a><br /> <br /> twitterアカウントは「<a href=\"http://twitter.com/guyperryman\">@guyperryman</a>」<br /><br /></div>",
               "pfm": "Guy Perryman",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/c3fbba67-06f5-4320-a11b-11ee1fa1bdc7.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/sf7pi9gl13.jpg",
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -256,12 +269,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "from:guyperryman"
                 }
               }
             },
             {
-              "-id": "9965072440",
+              "-id": "9972471812",
               "-ft": "20231013065200",
               "-to": "20231013065600",
               "-ftl": "0652",
@@ -272,9 +285,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "ダ・ヴィンチ、ヘミングウェイ、ゴーギャン、サン・テグジュペリ、ジョブズ・・・<br><br>\n\n歴史をつくった様々な人物たちの光と影。<br><br>\n\nそして今なお色あせない、その生きざまを言葉で旅する4分の物語「Voyage」。<br><br>\n\n少し乾きかけたあなたの心に、好奇心という名の水分補給。今日のあなたへinterfmから言葉の贈り物です。",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/69f76082-bef5-4192-bc1a-54530664ce7d_sq.jpg\" height=\"60\" width=\"60\" alt=\"辻しのぶ\"></td>  </tr></table><br /><br />\tダ・ヴィンチ、ヘミングウェイ、ゴーギャン、サン・テグジュペリ、ジョブズ・・・<br /><br />歴史をつくった様々な人物たちの光と影。<br /><br />そして今なお色あせない、その生きざまを言葉で旅する4分の物語「Voyage」。<br /><br />少し乾きかけたあなたの心に、好奇心という名の水分補給。今日のあなたへinterfmから言葉の贈り物です。 <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/voyage\">https://www.interfm.co.jp/voyage</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23voyage897\">#voyage897</a>」<br /><br /></div>",
               "pfm": "辻しのぶ",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/3eb48e3a-c380-45a3-9482-71457e8b8535.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/ljvi7rld0a.jpg",
               "genre": {
                 "personality": {
                   "-id": "C003",
@@ -288,24 +301,24 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#voyage897"
                 }
               }
             },
             {
-              "-id": "9963239757",
+              "-id": "9972471817",
               "-ft": "20231013065600",
               "-to": "20231013070000",
               "-ftl": "0656",
               "-tol": "0700",
               "-dur": "240",
-              "title": "Shinagawa Info. (English)",
-              "url": "https://www.interfm.co.jp/shinagawa_pt",
+              "title": "Shinagawa Info - English for Friday",
+              "url": "https://www.interfm.co.jp/shinagawa_en_fri",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "interfmが開局以来続けている「P.S.A.」(Public Service Announcement)は、在日外国人に向け、生活情報や災害時の避難場所などの案内を含め、日本での生活に役立つ情報を中心に、各言語でお届けしています。<br><br>\n都内で最初に外国人向けに放送を開始したのが品川区です。",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/59921f1f-dae7-47d1-bbd3-3a22e68710ae.jpeg",
+              "info": "<div class=\"station_content_description \">\tInterFM897が開局以来続けている「P.S.A.」(Public Service Announcement)は、在日外国人に向け、生活情報や災害時の避難場所などの案内を含め、日本での生活に役立つ情報を中心に、各言語でお届けしています。<br /><br />都内で最初に外国人向けに放送を開始したのが品川区です。<br /><br />[言語 - Languages]<br />Mon. - Chinese<br />Tue. - Korean<br />Wed. - Tagalog<br />Thu. & Fri. - English<br /><br />[放送時間 - Schedule]<br />Weekdays - 6:56am <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/shinagawa_en_fri\">https://www.interfm.co.jp/shinagawa_en_fri</a><br />\tメールアドレス：<a href=\"mailto:voice@interfm.co.jp\">voice@interfm.co.jp</a><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/vfyja62hbl.jpg",
               "tag": {
                 "item": [
                   {
@@ -323,6 +336,10 @@
                 ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -336,7 +353,7 @@
               }
             },
             {
-              "-id": "9963239780",
+              "-id": "9972471824",
               "-ft": "20231013070000",
               "-to": "20231013085000",
               "-ftl": "0700",
@@ -347,10 +364,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "THE GUY PERRYMAN SHOW (通称 \"GPS\") は「Positive People and The Power of Music」をコンセプトに、厳選された音楽やニュース、ゲストインタビューなどをお届けします。radikoのタイムフリーを使えば、時間帯にとらわれない \"インターナショナル・タイムゾーン\" な番組としてお楽しみいただけます。DJのGuyはこれまでにポール・マッカートニーへのインタビューや、ウィリアム王子来日時のDJ、世界で初めて東京-ロンドン間の飛行機内でライブDJを成功させるなどし、2017年に英国王室エリザベス女王より大英帝国勲章を授与されました。<br><br>THE GUY PERRYMAN SHOW \"GPS\" is the international time zone for radio listeners in Tokyo and across Japan with the concept “Positive People and The Power of Music” - a mix of good music, good news and inspiring interviews you can listen to anytime on radiko. Guy has interviewed rock royalty including Paul McCartney, DJ’d for royalty including Prince William, was the world’s first person to DJ live on board airline flights between Tokyo and London and in 2017 was appointed MBE by Queen Elizabeth II. Welcome on board.",
-              "info": "<br>----------<br><br >\n番組へのメッセージやリクエストは、<a href=mailto:guy@interfm.jp>guy@interfm.jp</a>まで。またはTwitterで「<a href=https://twitter.com/intent/tweet?hashtags=guyperryman target=_blank>#guyperryman</a>」を付けてつぶやいてください。",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/065bf3c3-3b43-4b49-af14-102592210709_sq.jpg\" height=\"60\" width=\"60\" alt=\"Guy Perryman\"></td>  </tr></table><br /><br />\tTHE GUY PERRYMAN SHOW \"GPS\" - broadcast from Tokyo, takes you on a journey around the world with “Positive People and The Power of Music” - a mix of international music, entertainment news and inspiring interviews you can listen to anywhere anytime.<br /><br />Guy has interviewed rock royalty including Paul McCartney, DJ’d for royalty including Prince William, was the world’s first person to DJ live on board airline flights between Tokyo and London and in 2017 was appointed MBE by Queen Elizabeth II. Welcome on board.<br /><br />THE GUY PERRYMAN SHOW (通称 \"GPS\") は「Positive People and The Power of Music」をコンセプトに、厳選された音楽やニュース、ゲストインタビューなどをお届け。国際都市・TOKYOから、あなたを世界旅行へとお連れします。<br /><br />DJのGuyはこれまでにポール・マッカートニーへのインタビューや、ウィリアム王子来日時のDJ、世界で初めて東京-ロンドン間の飛行機内でライブDJを成功させるなどし、2017年に英国王室エリザベス女王より大英帝国勲章を授与されました。 <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/gps\">https://www.interfm.co.jp/gps</a><br />\tメールアドレス：<a href=\"mailto:guy@interfm.jp\">guy@interfm.jp</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23guyperryman\">#guyperryman</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/guyperryman\">@guyperryman</a>」<br /><br /></div>",
               "pfm": "Guy Perryman",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/05bf86e5-2cb2-44ee-a760-2f78819de2de.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/3n4kdgkj5b.jpg",
               "tag": {
                 "item": {
                   "name": "Guy Perryman"
@@ -367,14 +383,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#guyperryman"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:guyperryman"
+                  }
+                ]
               }
             },
             {
-              "-id": "9965072569",
+              "-id": "9972471905",
               "-ft": "20231013085000",
               "-to": "20231013085500",
               "-ftl": "0850",
@@ -385,9 +407,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "ダ・ヴィンチ、ヘミングウェイ、ゴーギャン、サン・テグジュペリ、ジョブズ・・・<br><br>\n\n歴史をつくった様々な人物たちの光と影。<br><br>\n\nそして今なお色あせない、その生きざまを言葉で旅する4分の物語「Voyage」。<br><br>\n\n少し乾きかけたあなたの心に、好奇心という名の水分補給。今日のあなたへinterfmから言葉の贈り物です。",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/69f76082-bef5-4192-bc1a-54530664ce7d_sq.jpg\" height=\"60\" width=\"60\" alt=\"辻しのぶ\"></td>  </tr></table><br /><br />\tダ・ヴィンチ、ヘミングウェイ、ゴーギャン、サン・テグジュペリ、ジョブズ・・・<br /><br />歴史をつくった様々な人物たちの光と影。<br /><br />そして今なお色あせない、その生きざまを言葉で旅する4分の物語「Voyage」。<br /><br />少し乾きかけたあなたの心に、好奇心という名の水分補給。今日のあなたへinterfmから言葉の贈り物です。 <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/voyage\">https://www.interfm.co.jp/voyage</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23voyage897\">#voyage897</a>」<br /><br /></div>",
               "pfm": "辻しのぶ",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/3eb48e3a-c380-45a3-9482-71457e8b8535.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/ljvi7rld0a.jpg",
               "genre": {
                 "personality": {
                   "-id": "C003",
@@ -401,24 +423,28 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#voyage897"
                 }
               }
             },
             {
-              "-id": "9963519954",
+              "-id": "9972471909",
               "-ft": "20231013085500",
               "-to": "20231013090000",
               "-ftl": "0855",
               "-tol": "0900",
               "-dur": "300",
               "title": "interfm Headline News",
-              "url": "https://www.interfm.co.jp/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/c73cd33d-5256-4f5f-a3fd-927f220bb1da.jpeg",
+              "info": "<div class=\"station_content_description \">\tニュース <br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/yjynnldy4t.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -432,7 +458,7 @@
               }
             },
             {
-              "-id": "9963240002",
+              "-id": "9972471920",
               "-ft": "20231013090000",
               "-to": "20231013103500",
               "-ftl": "0900",
@@ -443,10 +469,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "THE GUY PERRYMAN SHOW (通称 \"GPS\") は「Positive People and The Power of Music」をコンセプトに、厳選された音楽やニュース、ゲストインタビューなどをお届けします。radikoのタイムフリーを使えば、時間帯にとらわれない \"インターナショナル・タイムゾーン\" な番組としてお楽しみいただけます。DJのGuyはこれまでにポール・マッカートニーへのインタビューや、ウィリアム王子来日時のDJ、世界で初めて東京-ロンドン間の飛行機内でライブDJを成功させるなどし、2017年に英国王室エリザベス女王より大英帝国勲章を授与されました。<br><br>THE GUY PERRYMAN SHOW \"GPS\" is the international time zone for radio listeners in Tokyo and across Japan with the concept “Positive People and The Power of Music” - a mix of good music, good news and inspiring interviews you can listen to anytime on radiko. Guy has interviewed rock royalty including Paul McCartney, DJ’d for royalty including Prince William, was the world’s first person to DJ live on board airline flights between Tokyo and London and in 2017 was appointed MBE by Queen Elizabeth II. Welcome on board.",
-              "info": "<br>----------<br><br >\n番組へのメッセージやリクエストは、<a href=mailto:guy@interfm.jp>guy@interfm.jp</a>まで。またはTwitterで「<a href=https://twitter.com/intent/tweet?hashtags=guyperryman target=_blank>#guyperryman</a>」を付けてつぶやいてください。",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/065bf3c3-3b43-4b49-af14-102592210709_sq.jpg\" height=\"60\" width=\"60\" alt=\"Guy Perryman\"></td>  </tr></table><br /><br />\tTHE GUY PERRYMAN SHOW \"GPS\" - broadcast from Tokyo, takes you on a journey around the world with “Positive People and The Power of Music” - a mix of international music, entertainment news and inspiring interviews you can listen to anywhere anytime.<br /><br />Guy has interviewed rock royalty including Paul McCartney, DJ’d for royalty including Prince William, was the world’s first person to DJ live on board airline flights between Tokyo and London and in 2017 was appointed MBE by Queen Elizabeth II. Welcome on board.<br /><br />THE GUY PERRYMAN SHOW (通称 \"GPS\") は「Positive People and The Power of Music」をコンセプトに、厳選された音楽やニュース、ゲストインタビューなどをお届け。国際都市・TOKYOから、あなたを世界旅行へとお連れします。<br /><br />DJのGuyはこれまでにポール・マッカートニーへのインタビューや、ウィリアム王子来日時のDJ、世界で初めて東京-ロンドン間の飛行機内でライブDJを成功させるなどし、2017年に英国王室エリザベス女王より大英帝国勲章を授与されました。 <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/gps\">https://www.interfm.co.jp/gps</a><br />\tメールアドレス：<a href=\"mailto:guy@interfm.jp\">guy@interfm.jp</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23guyperryman\">#guyperryman</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/guyperryman\">@guyperryman</a>」<br /><br /></div>",
               "pfm": "Guy Perryman",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/05bf86e5-2cb2-44ee-a760-2f78819de2de.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/3n4kdgkj5b.jpg",
               "tag": {
                 "item": {
                   "name": "Guy Perryman"
@@ -463,14 +488,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#guyperryman"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:guyperryman"
+                  }
+                ]
               }
             },
             {
-              "-id": "9965072665",
+              "-id": "9972471938",
               "-ft": "20231013103500",
               "-to": "20231013104000",
               "-ftl": "1035",
@@ -481,9 +512,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "ダ・ヴィンチ、ヘミングウェイ、ゴーギャン、サン・テグジュペリ、ジョブズ・・・<br><br>\n\n歴史をつくった様々な人物たちの光と影。<br><br>\n\nそして今なお色あせない、その生きざまを言葉で旅する4分の物語「Voyage」。<br><br>\n\n少し乾きかけたあなたの心に、好奇心という名の水分補給。今日のあなたへinterfmから言葉の贈り物です。",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/69f76082-bef5-4192-bc1a-54530664ce7d_sq.jpg\" height=\"60\" width=\"60\" alt=\"辻しのぶ\"></td>  </tr></table><br /><br />\tダ・ヴィンチ、ヘミングウェイ、ゴーギャン、サン・テグジュペリ、ジョブズ・・・<br /><br />歴史をつくった様々な人物たちの光と影。<br /><br />そして今なお色あせない、その生きざまを言葉で旅する4分の物語「Voyage」。<br /><br />少し乾きかけたあなたの心に、好奇心という名の水分補給。今日のあなたへinterfmから言葉の贈り物です。 <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/voyage\">https://www.interfm.co.jp/voyage</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23voyage897\">#voyage897</a>」<br /><br /></div>",
               "pfm": "辻しのぶ",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/3eb48e3a-c380-45a3-9482-71457e8b8535.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/ljvi7rld0a.jpg",
               "genre": {
                 "personality": {
                   "-id": "C003",
@@ -497,25 +528,35 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#voyage897"
                 }
               }
             },
             {
-              "-id": "9963691411",
+              "-id": "9972471940",
               "-ft": "20231013104000",
               "-to": "20231013104400",
               "-ftl": "1040",
               "-tol": "1044",
               "-dur": "240",
-              "title": "My Style, Camp Life～自分と向き合うくらし～",
+              "title": "My Style,Camp Life～自分と向き合うくらし～",
               "url": "https://audee.jp/program/show/57666",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "生活の究極の形であるアウトドアを、最前線トレンド情報、蘊蓄なども交えながら、楽しく伝えていきます。<br><br>\n一方で、ニューノーマルな生き方として、さらには自然災害と共に生きる知恵としても、お役立てていただければと思います。",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/d4b60043-25b2-40ab-ac81-8f4007c67bb3_sq.jpg\" height=\"60\" width=\"60\" alt=\"西村瑞樹\"></td>  </tr></table><br /><br />\tキャンプ大好きなバイきんぐ西村瑞樹がお送りするラジオの中のソロキャンプ<br />「My Style, Camp Life〜自分と向き合うくらし〜」<br /><br />アウトドアの基礎知識から、知っておくと便利な最新グッズ、そしていざという時に役立つ防災まで…幅広くお送りします。<br />今回はキャンプ飯で大活躍のバカシリーズの新商品！「バカつぶら」の開発秘話をピックアップ！AuDeeでも配信中！是非、聴いてください。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/57666\">https://audee.jp/program/show/57666</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/camp/message\">https://form.audee.jp/camp/message</a><br /><br /></div>",
               "pfm": "西村瑞樹",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/7cc36dfc-327d-427f-9836-740e687d1619.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/326jey7b8s.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -524,17 +565,17 @@
               }
             },
             {
-              "-id": "9963691412",
+              "-id": "9972471941",
               "-ft": "20231013104400",
               "-to": "20231013110000",
               "-ftl": "1044",
               "-tol": "1100",
               "-dur": "960",
               "title": "SHUN！SHUN！PICK UP",
-              "url": "https://www.interfm.co.jp/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t通販番組 <br /><br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/3673f318-6796-495b-974d-66d8572badef.jpeg",
               "genre": {
                 "program": {
@@ -550,51 +591,38 @@
               }
             },
             {
-              "-id": "9965488580",
+              "-id": "9972471988",
               "-ft": "20231013110000",
               "-to": "20231013125500",
               "-ftl": "1100",
               "-tol": "1255",
               "-dur": "6900",
               "title": "Otona no Radio Alexandria",
-              "url": "https://www.interfm.co.jp/alex",
+              "url": "https://audee.jp/program/show/57661",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "ロバート・ハリスが送る、プレミアム世代へ向けた文化情報発信番組。<br><br>\n深夜放送でラジオを知り、聴こえてくる人声に笑い、泣き、怒ったプレミアム世代。\n聴こえてきた音楽から“新しいライフスタイル”も知りました。<br><br>\nラジオとともに時代を駆け抜けたプレミアム世代にとっての新たな”サード・プレイス”として、心躍る懐かしの音楽とともに、好奇心をくすぐる雑談を添えて、”様々な生き方”のヒントを共有していきます。",
-              "info": "<br>----------<br><br>\n11:01 Topics From REUTERS<br>\n11:09 MUSEION<br>\n11:40 生き物の物語<br>\n12:05 SELF PORTRAIT<br><br>\n\nメッセージ宛先：<a href=https://form.audee.jp/alexandria/messeage target=_blank>https://form.audee.jp/alexandria/messeage</a><br>\n番組ハッシュタグ：<a href=https://twitter.com/intent/tweet?hashtags=alexjfn target=_blank>#alexjfn</a>",
-              "pfm": "Robert Harris",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/4ad50d14-61ef-4af7-ba39-c07560e472a4.jpeg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/aa3f5cb4-9f1b-4570-836f-500a727e142f_sq.jpg\" height=\"60\" width=\"60\" alt=\"ロバート・ハリス\"></td>  </tr></table><br /><br />\tOtonaの文化、Otonaの音楽がたっぷり聴こえるラジオ番組「Otona no Radio Alexandria」。<br /><br /><br /><br />【生き物の物語】11時40分ごろ<br />生き物が秘めている神秘や知恵について、専門家に話して頂く生き物の物語。 <br />今週はDJ で、音楽レーベル「Key Of Life」を主宰する大塚広子さん。<br /><br /><br /><br />【SELF PORTRAIT】12時05分ごろ<br />ハリスさんの自遊時間！想像旅行へでかけましょう！<br /><br /><br /><br />【大人のサード・プレイス】12時35分ごろ<br />プレミアム世代のサード・プレイスを、音楽で巡っていくこの時間。<br />毎週金曜日は、写真家でエッセイストのハービー・山口さんがファインダーでとらえた、”サード・プレイス”のお話。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/57661\">https://audee.jp/program/show/57661</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/alexandria/message\">https://form.audee.jp/alexandria/message</a><br /><br /></div>",
+              "pfm": "ロバート・ハリス",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/9rga0wfjft.jpg",
               "tag": {
                 "item": [
                   {
-                    "name": "ロバート・ハリス"
+                    "name": "音楽との出会いが楽しめる"
                   },
                   {
-                    "name": "プレミアム世代"
-                  },
-                  {
-                    "name": "MUSEION"
-                  },
-                  {
-                    "name": "生き物の物語"
-                  },
-                  {
-                    "name": "SELF PORTRAIT"
-                  },
-                  {
-                    "name": "大人のサード・プレイス"
+                    "name": "気分転換におすすめ"
                   }
                 ]
               },
               "genre": {
                 "personality": {
-                  "-id": "C012",
-                  "name": "文化人"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -605,19 +633,19 @@
               }
             },
             {
-              "-id": "9963302186",
+              "-id": "9972472060",
               "-ft": "20231013125500",
               "-to": "20231013130000",
               "-ftl": "1255",
               "-tol": "1300",
               "-dur": "300",
-              "title": "Public Service Announcement - 横浜市 (Portuguese)",
+              "title": "Public Service Announcement -Cidade de Yokohama (Português)",
               "url": "https://www.interfm.co.jp/yokohama_pt",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "interfmが開局以来続けている「P.S.A.」(Public Service Announcement)は、在日外国人に向け、生活情報や災害時の避難場所などの案内を含め、日本での生活に役立つ情報を中心に、各言語でお届けしています。<br><br>\n国際都市「横浜」にふさわしい、多彩な言語での放送が好評です。",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/dfc2c248-c4d4-4300-9453-f4b8e111029c.jpeg",
+              "info": "<div class=\"station_content_description \">\tInterFM897が開局以来続けている「P.S.A.」(Public Service Announcement)は、在日外国人に向け、生活情報や災害時の避難場所などの案内を含め、日本での生活に役立つ情報を中心に、各言語でお届けしています。<br /><br />国際都市「横浜」にふさわしい、多彩な言語での放送が好評です。 <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/yokohama_pt\">https://www.interfm.co.jp/yokohama_pt</a><br />\tメールアドレス：<a href=\"mailto:voice@interfm.co.jp\">voice@interfm.co.jp</a><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/0bnr2gr77e.jpg",
               "tag": {
                 "item": [
                   {
@@ -635,6 +663,10 @@
                 ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -648,20 +680,20 @@
               }
             },
             {
-              "-id": "9965488820",
+              "-id": "9972472072",
               "-ft": "20231013130000",
               "-to": "20231013133000",
               "-ftl": "1300",
               "-tol": "1330",
               "-dur": "1800",
               "title": "デイリーフライヤー",
-              "url": "https://audee.jp/program/show/1875",
+              "url": "http://www.jfn.jp/daily/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "毎週月曜日から金曜まで！その日、その時の“気になる情報”をお届けする「デイリーフライヤー」略して「デリフラ」！あらゆるジャンルのリアルタイムなニュースをピックアップ！今すぐ使える、誰かに話したくなる情報を、30分にギュッと凝縮してお送りします。",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/55f658cb-c95d-4000-b7a8-2c92935157ee_sq.jpg\" height=\"60\" width=\"60\" alt=\"井門宗之\"></td>  </tr></table><br /><br />\t～「見た? 聞いた? 知ってる? さわった? 行ってみた? 食べた?」<br />をキーワードにあらゆる分野からピックアップしたコンパクトサイズの旬な情報満載！～<br />◇特集： 食のテーマパーク<br />◇ジャパネットたかたラジオショッピング <br /><br />\t▽13:08〜 【 ジャパネットたかたラジオショッピング 】<br/>ラジオショッピング<br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/daily/\">http://www.jfn.jp/daily/</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/dailyflyer/message\">https://form.audee.jp/dailyflyer/message</a><br /><br /></div>",
               "pfm": "井門宗之",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/6ef89e9e-1c9b-444c-91d8-6610ae874316.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/52kv23slor.jpg",
               "tag": {
                 "item": {
                   "name": "気分転換におすすめ"
@@ -685,7 +717,7 @@
               }
             },
             {
-              "-id": "9963672284",
+              "-id": "9972472081",
               "-ft": "20231013133000",
               "-to": "20231013140000",
               "-ftl": "1330",
@@ -696,18 +728,12 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "常にエネルギッシュで、常に未来に向かう。<br><br>\nそんな西川貴教がお届けするラジオ番組【イナズマロック　レディオ】<br><br>\n主催する「イナズマロックフェス」をキーワードに、番組では、全国各地の若手ミュージシャンや、リスナーたちを応援・バックアップしていきます。<br><br>\nこんな時代だからこそ、元気と 活力を与える「メンタルメイク」プログラムを！",
-              "pfm": "西川貴教",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/660f3a2b-5c5a-43e0-b6fd-227c8bbf2bdf.jpeg",
+              "info": "<div class=\"station_content_description \">\t西川貴教が毎年、秋に主催している野外音楽イベント、「イナズマロックフェス」の情報をお届けするラジオ番組、【イナズマロック　レディオ】。<br />音楽をはじめ、様々なことで地元を盛り上げる西川貴教が、全国ともつながり、みなさんと一緒に日本を盛り上げていきます！<br />あなたの街のご当地自慢・名物・名所・地元でバズっている情報などをぜひ教えてください！　西川貴教にまつわる曲のリクエストや質問もお待ちしています。<br /><br />【期間限定企画　：　イナズマロック フェスの思い出・ウワサ話を大募集！】<br />これまでのイナズマロックフェスでのあなたの思い出や、「まだ現場には行ったことがないけど、こんな話を聴いた！」というウワサを大募集！<br />ライブの思い出だけでなく、会場でこんなことがあった、イナズマきっかけでこんな交流があったなど、イナズマロックフェスにまつわることならなんでもOK。<br />ウワサには、西川さん本人が答えてくれます。<br />短いメッセージでもOK、気軽に送ってくださいね！<br />曲のリクエストもお待ちしています！<br />※いただいたメッセージの一部は、10月7日～10月13日放送回のイナズマロックレディオで紹介予定！投稿はお早めに！ <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/300003456\">https://audee.jp/program/show/300003456</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/inazuma/message\">https://form.audee.jp/inazuma/message</a><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/pchtx83l0c.jpg",
               "tag": {
-                "item": [
-                  {
-                    "name": "人気アーティストトーク"
-                  },
-                  {
-                    "name": "西川貴教"
-                  }
-                ]
+                "item": {
+                  "name": "人気アーティストトーク"
+                }
               },
               "genre": {
                 "personality": {
@@ -727,7 +753,7 @@
               }
             },
             {
-              "-id": "9963240455",
+              "-id": "9972472095",
               "-ft": "20231013140000",
               "-to": "20231013144400",
               "-ftl": "1400",
@@ -738,9 +764,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "芸人のアントニーをメインパーソナリティに、この2023年4月からラジオとしては初のポーカー番組をスタート。<br><br>\n\n番組は毎週金曜日14時から生放送でお届けし、国内外のポーカーのトレンドニュースや大会情報、注目の選手、ホットな店舗情報など、ポーカーの様々な情報を届けていきます。毎週、ポーカーのトッププレイヤーやインフルエンサー、大会主催者、ディーラー、店舗オーナーなど、様々なポーカー界隈のゲストをお招きし、色々な視点からポーカーを掘り下げ、ポーカーの魅力をお届けします。<br><br>\n\nポーカーに関する様々なコーナー企画も放送中。放送した内容は、radiko・podcastでもお聴き頂けます。",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/1cd0982e-3bb6-4c55-94c9-8f046396cde5_sq.jpg\" height=\"60\" width=\"60\" alt=\"アントニー\"></td>  </tr></table><br /><br />\t芸人のアントニーをメインパーソナリティに、この2023年4月からラジオとしては初のポーカー番組をスタート。<br /><br />番組は毎週金曜日14時から生放送でお届けし、国内外のポーカーのトレンドニュースや大会情報、注目の選手、ホットな店舗情報など、ポーカーの様々な情報を届けていきます。毎週、ポーカーのトッププレイヤーやインフルエンサー、大会主催者、ディーラー、店舗オーナーなど、様々なポーカー界隈のゲストをお招きし、色々な視点からポーカーを掘り下げ、ポーカーの魅力をお届けします。<br /><br />ポーカーに関する様々なコーナー企画も放送中。放送した内容は、radiko・podcastでもお聴き頂けます。 <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/allin\">https://www.interfm.co.jp/allin</a><br />\tメールアドレス：<a href=\"mailto:poker@interfm.jp\">poker@interfm.jp</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%83%BCALLIN\">#アントニーALLIN</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/allin_interfm\">@allin_interfm</a>」<br /><br /></div>",
               "pfm": "アントニー",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/15f88adf-a92c-41c4-93f0-f8399b7f0932.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/yw9b6lc4kd.jpg",
               "tag": {
                 "item": [
                   {
@@ -757,29 +783,35 @@
                   "name": "芸人"
                 },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P012",
+                  "name": "趣味/教育"
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#アントニーALLIN"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:allin_interfm"
+                  }
+                ]
               }
             },
             {
-              "-id": "9963691591",
+              "-id": "9972472101",
               "-ft": "20231013144400",
               "-to": "20231013150000",
               "-ftl": "1444",
               "-tol": "1500",
               "-dur": "960",
               "title": "イマドキショッピング",
-              "url": "https://www.interfm.co.jp/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t通販番組 <br /><br /><br /></div>",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/3673f318-6796-495b-974d-66d8572badef.jpeg",
               "genre": {
                 "program": {
@@ -795,7 +827,7 @@
               }
             },
             {
-              "-id": "9963691611",
+              "-id": "9972472137",
               "-ft": "20231013150000",
               "-to": "20231013160000",
               "-ftl": "1500",
@@ -806,9 +838,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "洋楽ロックをこよなく偏愛する芸人永野と、洋楽情報をディープに掘るバイリンDJフォーンクルック幹治がお送りする洋楽復興バラエティ。\n洋楽でリスナーと好き勝手にじゃれあって遊ぶ1時間！<br><br>\n\nコロナ禍を経て、いよいよ盛り上がりを見せる洋楽ライブシーン。\nこの番組では、洋楽LIVEの楽しいざわめき（BUZZ）をどんどんBUZZらせるべく、熱く楽しく発信中。<br><br>\n\n番組厳選のライブ情報はもちろん、この番組を聴けば話題のライブのチケット予約もできちゃいます。<br><br>\n\n昔から洋楽が好きな往年のロックファンはもちろん、洋楽をあまり聴いたことのない世代へも、笑いとともに洋楽の奥深い世界に誘います。<br><br>\n\nみなさんからのライブレポート、コーナー企画もお待ちしています！<br><br>\n\nツィッターからは、「<a href=https://twitter.com/intent/tweet?hashtags=ライブバズ target=_blank>#ライブバズ</a>」をつけてツィートしてください。<br><br>\n\n番組公式Twitter：<a href=https://twitter.com/LIVEBUZZ897 target=_blank>https://twitter.com/LIVEBUZZ897</a><br>\nハッシュタグ：<a href=https://twitter.com/intent/tweet?hashtags=ライブバズ target=_blank>#ライブバズ</a><br>\nメール：<a href=mailto:lb@interfm.jp>lb@interfm.jp</a>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/d9099d45-19ff-4052-89dc-47e95948fcd3_sq.jpg\" height=\"60\" width=\"60\" alt=\"永野\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/f102ac4c-7d8b-4bcf-9176-5a7c18ff740c_sq.jpg\" height=\"60\" width=\"60\" alt=\"フォーンクルック幹治\"></td>  </tr></table><br /><br />\tお昼3時からはライブバズ?<br /><br />今回は、来年2月に来日公演を開催する The Chemical Brothers を大特集します✨<br /><br />そして、リフの惑星から緒方良が登場です！<br /><br />お聞き逃しなく? <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/livebuzz\">https://www.interfm.co.jp/livebuzz</a><br />\tメールアドレス：<a href=\"mailto:lb@interfm.jp\">lb@interfm.jp</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%A4%E3%83%96%E3%83%90%E3%82%BA\">#ライブバズ</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/LIVEBUZZ897\">@LIVEBUZZ897</a>」<br /><br /></div>",
               "pfm": "永野 / フォーンクルック幹治",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/3db76c07-fd93-47a3-827f-613a4c0834c4.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/8j4pfo10jh.jpg",
               "tag": {
                 "item": [
                   {
@@ -839,40 +871,46 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ライブバズ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:LIVEBUZZ897"
+                  }
+                ]
               }
             },
             {
-              "-id": "9963240613",
+              "-id": "9972472161",
               "-ft": "20231013160000",
               "-to": "20231013185500",
               "-ftl": "1600",
               "-tol": "1855",
               "-dur": "10500",
-              "title": "The Dave Fromm Show Supported by 嘉衛門",
-              "url": "https://www.interfm.co.jp/dfs/",
+              "title": "The Dave Fromm Show supported by 嘉衛門",
+              "url": "https://www.interfm.co.jp/dfs",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "リスナーから寄せられる様々なトピックを元に展開していくミュージック&トークショー。リスナーの民意を問う世論調査や心の声を代弁するAbarenboのコーナーをはじめ様々な角度からメッセージを取り上げて展開していきます。<br><br>\n\nまた、好奇心をくすぐる\"パンドラの箱\"のコーナーはもちろんDaveも段階的に皆様へ声を届けて参りますのでお楽しみに。<br><br>\n\nメッセージやリクエストは以下からどなたでも参加可能です。<br>\n・mail <a href=mailto:dave@interfm.jp>dave@interfm.jp</a><br>\n・twitter <a href=https://twitter.com/DFS897 target=_blank>@DFS897</a> <a href=https://twitter.com/intent/tweet?hashtags=dfs897 target=_blank>#dfs897</a><br><br>\n\n夕方から夜へと1日の流れが変わる時間帯、ロック中心のプレイリストと共にお過ごしください。<br><br>\n\n※当番組は広い世代に愛されることを意識しておりますが、テーマや企画により刺激的な方向へ展開する場合がございます。あらかじめご了承ください。<br><br>\n\n・ DJs: Dave Fromm & ジョー横溝、古川タロヲ、アリモリズミ<br>\n※現在病気療養中のDaveに変わりTeam Dave特別編成でお届けしています。",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/252d26dd-70a8-4b56-9c46-e5b607fe0f35_sq.jpg\" height=\"60\" width=\"60\" alt=\"Dave Fromm\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/f3ab1437-4d4e-4ffb-8c8a-36aeff3e541d_sq.jpg\" height=\"60\" width=\"60\" alt=\"ジョー横溝\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/ec71e0ca-4c9e-4e25-9572-e889cead7ae7_sq.jpg\" height=\"60\" width=\"60\" alt=\"古川タロヲ\"></td>      </tr><tr valign=\"top\">       <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/53b280d8-5364-48c3-81ff-1f5d57cb15cc_sq.jpg\" height=\"60\" width=\"60\" alt=\"Ali Morizumi\"></td>  </tr></table><br /><br />\tリスナーから寄せられる様々なトピックを元に展開していくミュージック&トークショー。リスナーの民意を問う世論調査や心の声を代弁するAbarenboのコーナーをはじめ様々な角度からメッセージを取り上げて展開していきます。<br /><br />また、好奇心をくすぐる\"パンドラの箱\"のコーナーはもちろんDaveも段階的に皆様へ声を届けて参りますのでお楽しみに。<br /><br />メッセージやリクエストは以下からどなたでも参加可能です。<br />・mail dave@interfm.jp<br />・twitter @DFS897 #dfs897<br /><br />夕方から夜へと1日の流れが変わる時間帯、ロック中心のプレイリストと共にお過ごしください。<br /><br />※当番組は広い世代に愛されることを意識しておりますが、テーマや企画により刺激的な方向へ展開する場合がございます。あらかじめご了承ください。 <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/dfs\">https://www.interfm.co.jp/dfs</a><br />\tメールアドレス：<a href=\"mailto:dave@interfm.jp\">dave@interfm.jp</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23dfs897\">#dfs897</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/DFS897\">@DFS897</a>」<br /><br /></div>",
               "pfm": "Dave Fromm / ジョー横溝 / 古川タロヲ / Ali Morizumi",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/effe807f-6dbd-4fda-8780-28a69b6efba7.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/qrtxttjmsi.jpg",
               "tag": {
                 "item": [
                   {
-                    "name": "#気分転換におすすめ"
+                    "name": "気分転換におすすめ"
                   },
                   {
-                    "name": "#学生におすすめ"
+                    "name": "学生におすすめ"
                   },
                   {
-                    "name": "#音楽との出会いが楽しめる"
+                    "name": "音楽との出会いが楽しめる"
                   },
                   {
-                    "name": "#誰にも言えないお悩み相談"
+                    "name": "誰にも言えないお悩み相談"
                   },
                   {
                     "name": "#dfs897"
@@ -881,7 +919,7 @@
                     "name": "#interfm"
                   },
                   {
-                    "name": "#嘉衛門"
+                    "name": "嘉衛門"
                   },
                   {
                     "name": "ロック番組"
@@ -902,26 +940,36 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#dfs897"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:DFS897"
+                  }
+                ]
               }
             },
             {
-              "-id": "9963520834",
+              "-id": "9972472314",
               "-ft": "20231013185500",
               "-to": "20231013190000",
               "-ftl": "1855",
               "-tol": "1900",
               "-dur": "300",
               "title": "interfm Headline News",
-              "url": "https://www.interfm.co.jp/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/c73cd33d-5256-4f5f-a3fd-927f220bb1da.jpeg",
+              "info": "<div class=\"station_content_description \">\tニュース <br /><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/yjynnldy4t.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -935,7 +983,7 @@
               }
             },
             {
-              "-id": "9963240963",
+              "-id": "9972472344",
               "-ft": "20231013190000",
               "-to": "20231013215500",
               "-ftl": "1900",
@@ -946,9 +994,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "番組タイトルは“sensor”。<br>\n日本と世界の最先端カルチャーをセンサー（探し）し、キュレーションするプログラムです。<br><br>\n\nコンセプトは「NightOut」。<br>\n“夜を楽しむ”。“夜を遊ぶ”。しかし、外に出て遊ぶ事だけを推奨していく番組ではありません。<br><br>\n\nコロナ禍、国際情勢不安、気候変動、景気後退など様々な不安要素があるこの時代だからこそ、ナイトタイムエコノミーである\nこの時間に、クリエイティブコンテンツ（音楽、デジタルアート）を中心にリスナーの夜の時間を刺激します。<br><br>\n\nMessages & Requests : <a href=mailto:ss@interfm.jp><u>ss@interfm.jp</u></a><br>\nTwitter : <a href=https://twitter.com/sensor897 target=_blank><u>https://twitter.com/sensor897</u></a>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/22b82dd4-1bd8-4324-a136-54c582cdf8d8_sq.jpg\" height=\"60\" width=\"60\" alt=\"Cartoon\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/6aea4f3d-a830-409a-b5a0-9a6153cc9162_sq.jpg\" height=\"60\" width=\"60\" alt=\"Ren Yokoi\"></td>  </tr></table><br /><br />\t番組タイトルは“sensor”。<br />日本と世界の最先端カルチャーをセンサー（探し）し、キュレーションするプログラムです。<br /><br />コンセプトは「NightOut」。<br />“夜を楽しむ”。“夜を遊ぶ”。しかし、外に出て遊ぶ事だけを推奨していく番組ではありません。<br /><br />コロナ禍、国際情勢不安、気候変動、景気後退など様々な不安要素があるこの時代だからこそ、ナイトタイムエコノミーであるこの時間に、クリエイティブコンテンツ（音楽、デジタルアート）を中心にリスナーの夜の時間を刺激します。<br /><br />Messages & Requests : ss@interfm.jp<br />X : https://twitter.com/sensor897 <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/sensor\">https://www.interfm.co.jp/sensor</a><br />\tメールアドレス：<a href=\"mailto:ss@interfm.jp\">ss@interfm.jp</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23ss897\">#ss897</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/sensor897\">@sensor897</a>」<br /><br /></div>",
               "pfm": "Cartoon / Ren Yokoi",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/bb0b8eb1-2c31-49c5-b81a-058afd3b4144.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/b7foaqus28.jpg",
               "tag": {
                 "item": [
                   {
@@ -979,7 +1027,7 @@
                     "name": "アーティストインタビュー"
                   },
                   {
-                    "name": "#人気アーティストトーク"
+                    "name": "人気アーティストトーク"
                   }
                 ]
               },
@@ -994,14 +1042,20 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ss897"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:sensor897"
+                  }
+                ]
               }
             },
             {
-              "-id": "9965073668",
+              "-id": "9972472475",
               "-ft": "20231013215500",
               "-to": "20231013220000",
               "-ftl": "2155",
@@ -1012,9 +1066,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "ダ・ヴィンチ、ヘミングウェイ、ゴーギャン、サン・テグジュペリ、ジョブズ・・・<br><br>\n\n歴史をつくった様々な人物たちの光と影。<br><br>\n\nそして今なお色あせない、その生きざまを言葉で旅する4分の物語「Voyage」。<br><br>\n\n少し乾きかけたあなたの心に、好奇心という名の水分補給。今日のあなたへinterfmから言葉の贈り物です。",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/69f76082-bef5-4192-bc1a-54530664ce7d_sq.jpg\" height=\"60\" width=\"60\" alt=\"辻しのぶ\"></td>  </tr></table><br /><br />\tダ・ヴィンチ、ヘミングウェイ、ゴーギャン、サン・テグジュペリ、ジョブズ・・・<br /><br />歴史をつくった様々な人物たちの光と影。<br /><br />そして今なお色あせない、その生きざまを言葉で旅する4分の物語「Voyage」。<br /><br />少し乾きかけたあなたの心に、好奇心という名の水分補給。今日のあなたへinterfmから言葉の贈り物です。 <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/voyage\">https://www.interfm.co.jp/voyage</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23voyage897\">#voyage897</a>」<br /><br /></div>",
               "pfm": "辻しのぶ",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/3eb48e3a-c380-45a3-9482-71457e8b8535.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/ljvi7rld0a.jpg",
               "genre": {
                 "personality": {
                   "-id": "C003",
@@ -1028,12 +1082,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#voyage897"
                 }
               }
             },
             {
-              "-id": "9963241178",
+              "-id": "9972472530",
               "-ft": "20231013220000",
               "-to": "20231013230000",
               "-ftl": "2200",
@@ -1044,9 +1098,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "日本が世界に誇るテイストメイカー沖野修也が、時代と世代と国境を超えてクロスオーバーする音楽を紹介する番組。<br><br>\n\nまた、日本と海外を行き来する中で出会った人々にまつわるエピソードを交えつつ、国内外のおススメのショップやイベント情報も取り上げてライフスタイルを豊かにするリスニング体験をお届けします。",
-              "pfm": "沖野修也 (Kyoto Jazz Massive / Kyoto Jazz Sextet)",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/4f622e88-4e38-4b61-bfa0-84283526f564.jpeg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/74eac6e2-307f-491d-9c13-a994f1458771_sq.jpg\" height=\"60\" width=\"60\" alt=\"沖野修也（Kyoto Jazz Massive / Kyoto Jazz Sextet）\"></td>  </tr></table><br /><br />\t日本が世界に誇るテイストメイカー沖野修也が、時代と世代と国境を超えてクロスオーバーする音楽を紹介する番組。<br /><br />また、日本と海外を行き来する中で出会った人々にまつわるエピソードを交えつつ、国内外のおススメのショップやイベント情報も取り上げてライフスタイルを豊かにするリスニング体験をお届けします。 <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/tcr\">https://www.interfm.co.jp/tcr</a><br /><br /></div>",
+              "pfm": "沖野修也（Kyoto Jazz Massive / Kyoto Jazz Sextet）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/g5ujw26m0c.jpg",
               "tag": {
                 "item": [
                   {
@@ -1075,21 +1129,20 @@
               }
             },
             {
-              "-id": "9963241296",
+              "-id": "9972472608",
               "-ft": "20231013230000",
               "-to": "20231014000000",
               "-ftl": "2300",
               "-tol": "2400",
               "-dur": "3600",
               "title": "TOKYO MOON",
-              "url": "https://www.interfm.co.jp/moon/",
+              "url": "https://www.interfm.co.jp/moon",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "「時代とジャンルを超えここではない何処かへいざなう1時間のサウンドジャーニー」<br><br>\n\n日本のクラブカルチャー創世記の礎を築き、今もなお変わらない速さで音楽シーンを揺さぶるDJ・ブロードキャスター、松浦俊夫。日本発でありながら、世界水準で瞬間瞬間を切り取る、類まれなる才能に恵まれた彼が、interFMから送るプログラム。",
-              "info": "<br>\nメール: <a href=mailto:moon@interfm.jp>moon@interfm.jp</a><br><br>\nハッシュタグ: <a href=https://twitter.com/intent/tweet?hashtags=tokyomoon target=_blank>#tokyomoon</a>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/57bf5407-56f7-413e-a031-1fe7f7145060_sq.jpg\" height=\"60\" width=\"60\" alt=\"松浦俊夫\"></td>  </tr></table><br /><br />\t「時代とジャンルを超えここではない何処かへいざなう1時間のサウンドジャーニー」<br /><br />日本のクラブカルチャー創世記の礎を築き、今もなお変わらない速さで音楽シーンを揺さぶるDJ・ブロードキャスター、松浦俊夫。日本発でありながら、世界水準で瞬間瞬間を切り取る、類まれなる才能に恵まれた彼が、interFMから送るプログラム。 <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/moon\">https://www.interfm.co.jp/moon</a><br />\tメールアドレス：<a href=\"mailto:moon@interfm.jp\">moon@interfm.jp</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23tokyomoon\">#tokyomoon</a>」<br /><br /></div>",
               "pfm": "松浦俊夫",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/72b3a65f-c3ee-4892-a327-adec52076d51.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/ehwtw6mcvy.jpg",
               "tag": {
                 "item": {
                   "name": "松浦俊夫"
@@ -1104,26 +1157,25 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#tokyomoon"
                 }
               }
             },
             {
-              "-id": "9965109528",
+              "-id": "9972472694",
               "-ft": "20231014000000",
               "-to": "20231014010000",
               "-ftl": "2400",
               "-tol": "2500",
               "-dur": "3600",
               "title": "Kenrocks Nite - Ver. 2",
-              "url": "https://www.interfm.co.jp/kenrocks/",
+              "url": "https://www.interfm.co.jp/kenrocks",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "ロック評論家＆ DJとして絶大なキャリアの大貫憲章 (KENSHO ONUKI)と、クラブで活躍する、はせはじむ、MARTIN-KINOO (マーティン・キヌ)が、それぞれ週替わりで登場。<br><br>\n\nはじけるトークの数々（アーティスト秘話、音楽に対する思いや叫び、音楽との出会いと、そのルーツ、主催イベント“ロンドンナイト”の歴史、さらには音楽業界全体に対する苦言などなど）、選曲、そして、サウンドアプローチは他の誰にも真似できないOne & Onlyな世界を紹介します。<br><br>\n\n加えて、この番組ならではのゲストも続々登場。強力なVibrationでリスナーをHappyでSpiritualなZONEへと誘う1時間。音楽で日本に元気を!まさに、JOHN LENNONが叫んだPower To The Peopleをラジオから発信します!Let's Join Us!",
-              "info": "\n",
-              "pfm": "大貫憲章 / MARTIN-KINOO / はせはじむ",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/692fe442-0a46-4436-8df9-b9990f4f3a43.jpeg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/91c8e6ad-5629-42a8-946d-aebb7c633c99_sq.jpg\" height=\"60\" width=\"60\" alt=\"大貫憲章\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/cece4663-47e3-4df3-a27e-1d627af593b2_sq.jpg\" height=\"60\" width=\"60\" alt=\"MARTIN-KINOO（CHELSEA MOVEMENT）\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/6b5acfbd-c192-42e5-a308-979a53df355c_sq.jpg\" height=\"60\" width=\"60\" alt=\"はせはじむ\"></td>  </tr></table><br /><br />\t”MAD3”の\"Eddie”くんをゲストにお迎えしてお届けします。新曲を聴かせてもらうのでご期待ください！<br /><br />〈KINGSTON TIME!!〉<br />”MARTIN-KINOO” FEATURING特集！ <br /><br />\t本日のゲスト：\t\tMAD3\t<br />\t<br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/kenrocks\">https://www.interfm.co.jp/kenrocks</a><br />\tメールアドレス：<a href=\"mailto:rocks@interfm.jp\">rocks@interfm.jp</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23kenrocks\">#kenrocks</a>」<br /><br /></div>",
+              "pfm": "大貫憲章 / MARTIN-KINOO（CHELSEA MOVEMENT） / はせはじむ ゲスト: MAD3",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/e37j4w8fna.jpg",
               "tag": {
                 "item": [
                   {
@@ -1150,12 +1202,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#kenrocks"
                 }
               }
             },
             {
-              "-id": "9965109623",
+              "-id": "9972472766",
               "-ft": "20231014010000",
               "-to": "20231014013000",
               "-ftl": "2500",
@@ -1166,9 +1218,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "CASA(カーサ)とは、スペイン語で「家」という意味。<br><br>\n\n誰もが戻れる場所、落ち着く場所、それが家。<br>\n日常を取り戻しつつある2023年。<br>\n改めて、見知らぬ場所へ行ってみたい、知らない誰かと語り合いたい・・・とワクワクしている人も多いのではないでしょうか？<br>\nそんな人達も出会いを終えて戻る場所が家です。<br>\nそんな「いつもある場所」の存在のように「いつもある音楽」「ずっとそばにいる音楽」も、みんなの中にあるのではないでしょうか？<br><br>\n\nラジオは音の家。<br>\n多種多様いろんな意見、情報、十人十色の人生が音楽と共にシェアされると、自宅でも、オフィスでも、車の中でも、何だかちょっと旅しているよう。<br><br>\n\nMUSIC CASA（ミュージック　カーサ）。<br><br>\n\n英語とスペイン語を組み合わせたのも、これから更に多様化する世の中に対応していきたいという気持ちです。<br>\nヒトは知ることで豊かになります。実際に触れること、直接会うことで優しくなれます。<br>\nダイバーシティ＆インクルージョンを推進していくことが大切になる現代。<br>\nもっと寄り道して、違いを肌で理解して、やさしくて楽しい未来へ進みたい。<br><br>\n\nでも、あなたには帰る家があります。MUSIC CASA（ミュージックカーサ）♪<br><br>\n\nハッシュタグは → <a href=https://twitter.com/intent/tweet?hashtags=CASA target=_blank><u>#CASA</u></a>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/fe45a2bd-ce8c-4522-995c-6871f43a06d3_sq.jpg\" height=\"60\" width=\"60\" alt=\"長野寛史\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/68a5704b-acf2-426e-aa78-66f5b604ca43_sq.jpg\" height=\"60\" width=\"60\" alt=\"ユージ\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/5c7163c5-9fd0-452b-8fc4-d27ae25f0100_sq.jpg\" height=\"60\" width=\"60\" alt=\"月山京香\"></td>  </tr></table><br /><br />\tCASA(カーサ)とは、スペイン語で「家」という意味。<br /><br />誰もが戻れる場所、落ち着く場所、それが家。<br />日常を取り戻しつつある2023年。<br />改めて、見知らぬ場所へ行ってみたい、知らない誰かと語り合いたい・・・とワクワクしている人も多いのではないでしょうか？<br />そんな人達も出会いを終えて戻る場所が家です。<br />そんな「いつもある場所」の存在のように「いつもある音楽」「ずっとそばにいる音楽」も、みんなの中にあるのではないでしょうか？<br /><br />ラジオは音の家。<br />多種多様いろんな意見、情報、十人十色の人生が音楽と共にシェアされると、自宅でも、オフィスでも、車の中でも、何だかちょっと旅しているよう。<br /><br />MUSIC CASA（ミュージック　カーサ）。<br /><br />英語とスペイン語を組み合わせたのも、これから更に多様化する世の中に対応していきたいという気持ちです。<br />ヒトは知ることで豊かになります。実際に触れること、直接会うことで優しくなれます。<br />ダイバーシティ＆インクルージョンを推進していくことが大切になる現代。<br />もっと寄り道して、違いを肌で理解して、やさしくて楽しい未来へ進みたい。<br /><br />でも、あなたには帰る家があります。MUSIC CASA（ミュージックカーサ）♪<br /><br />ハッシュタグは → #CASA <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/musiccasa\">https://www.interfm.co.jp/musiccasa</a><br />\tメールアドレス：<a href=\"mailto:musiccasa897@ifm.jp\">musiccasa897@ifm.jp</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23CASA\">#CASA</a>」<br /><br /></div>",
               "pfm": "長野寛史 / ユージ / 月山京香",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/4da404d5-9bbd-4024-9b5d-2395fb8a66c9.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/8xwbrri5y3.jpg",
               "tag": {
                 "item": [
                   {
@@ -1195,12 +1247,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#CASA"
                 }
               }
             },
             {
-              "-id": "9965109645",
+              "-id": "9972472789",
               "-ft": "20231014013000",
               "-to": "20231014020000",
               "-ftl": "2530",
@@ -1211,17 +1263,16 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "幼少期から幅広い音楽に触れ、現在はダンサー、DJ、トラックメイカーとして活動する島田翼による番組。<br><br>\n\nヴァイナル・ジャンキーとしても知られる彼がかねてより掘り起こしてきたレコードの音源を交えて、タイムレス、ジャンルレスな音楽をお届け。<br><br>\n\n日々のときめきに少しばかりのファンクネスを添え、爽やかで心弾むような揺らぎをお送りする30分間。",
-              "info": "<br>\n『Mint Juice Radio』では、島田翼への質問・メッセージ・曲のリクエストを受付中。<br><br>\n\nメール: <a href=mailto:mint@interfm.jp>mint@interfm.jp</a><br><br>\nハッシュタグ: <a href=https://twitter.com/intent/tweet?hashtags=mint897 target=_blank>#mint897</a>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/492e70e7-c850-4e1a-8527-1524aa022022_sq.jpg\" height=\"60\" width=\"60\" alt=\"島田翼\"></td>  </tr></table><br /><br />\t幼少期から幅広い音楽に触れ、現在はダンサー、DJ、トラックメイカーとして活動する島田翼による番組。<br /><br />ヴァイナル・ジャンキーとしても知られる彼がかねてより掘り起こしてきたレコードの音源を交えて、タイムレス、ジャンルレスな音楽をお届け。<br /><br />日々のときめきに少しばかりのファンクネスを添え、爽やかで心弾むような揺らぎをお送りする30分間。 <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/mintjuiceradio\">https://www.interfm.co.jp/mintjuiceradio</a><br />\tメールアドレス：<a href=\"mailto:mint@interfm.jp\">mint@interfm.jp</a><br /> <br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23mint897\">#mint897</a>」<br /><br /></div>",
               "pfm": "島田翼",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/49df005b-7dee-4b9b-ba1a-9f97af758e55.jpeg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/4rv9fkoo44.jpg",
               "tag": {
                 "item": [
                   {
-                    "name": "DJ"
+                    "name": "島田翼"
                   },
                   {
-                    "name": "島田翼"
+                    "name": "DJ"
                   },
                   {
                     "name": "トラックメイカー"
@@ -1241,34 +1292,29 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#mint897"
                 }
               }
             },
             {
-              "-id": "9965490150",
+              "-id": "9972472798",
               "-ft": "20231014020000",
               "-to": "20231014025400",
               "-ftl": "2600",
               "-tol": "2654",
               "-dur": "3240",
               "title": "国分太一 Radio Box",
-              "url": "https://audee.jp/program/show/2011",
+              "url": "http://www.jfn.jp/radiobox/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "歌にバラエティ番組に大活躍の国分太一がリスナーとの2WAYコミュニケーションを軸に展開するトーク・バラエティ。",
-              "pfm": "国分太一",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/09608915-8c75-4aec-93c1-fbe601cf440d.jpeg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/320efbb0-c0c1-424b-9200-653c0f2b8258_sq.jpg\" height=\"60\" width=\"60\" alt=\"国分太一（TOKIO）\"></td>  </tr></table><br /><br />\t中学生が思うこの番組の面白ろポイントとは？ / 50代の新星リスナーが登場！？ <br /><br />▽世界からの普通のお便り<br />▽We are ロックだぜ!<br />▽キングオブ恥ずかしい<br />▽新アメとムチ<br /><br />「どうにもならんわ」 moon drop<br />「Black Dog」Led Zeppelin　ほか <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/radiobox/\">http://www.jfn.jp/radiobox/</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/radiobox/message\">https://form.audee.jp/radiobox/message</a><br /><br /></div>",
+              "pfm": "国分太一（TOKIO）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/cnchssmv5e.jpg",
               "tag": {
-                "item": [
-                  {
-                    "name": "国分太一"
-                  },
-                  {
-                    "name": "ジャニーズ出演"
-                  }
-                ]
+                "item": {
+                  "name": "ジャニーズ出演"
+                }
               },
               "genre": {
                 "personality": {
@@ -1288,18 +1334,19 @@
               }
             },
             {
-              "-id": "9964903952",
+              "-id": "9972472806",
               "-ft": "20231014025400",
               "-to": "20231014030000",
               "-ftl": "2654",
               "-tol": "2700",
               "-dur": "360",
               "title": "interfm Hotpicks Playlist",
-              "url": "https://www.interfm.co.jp/",
+              "url": "https://www.interfm.co.jp/hotpicks",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/57879ca5-bf3b-4ef7-9be3-fbc15c1006a9.jpeg",
+              "info": "<div class=\"station_content_description \">\tインターエフエム・ホットピックスプレイリスト <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/hotpicks\">https://www.interfm.co.jp/hotpicks</a><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/iqjiw3rq5w.jpg",
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -1314,7 +1361,7 @@
               }
             },
             {
-              "-id": "9964397331",
+              "-id": "9972472841",
               "-ft": "20231014030000",
               "-to": "20231014050000",
               "-ftl": "2700",
@@ -1325,8 +1372,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "最新の邦楽・洋楽のヒット曲を中心に、各年代のヒット曲もバランス良くミックス。「まだまだ、眠りたくない！・・・寝てられない！」そんな人は、このミックスをBGMに朝を迎えよう！",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/2f009a2a-8c07-4340-9832-05c76b7947ec.jpeg",
+              "info": "<div class=\"station_content_description \">\t最新の邦楽・洋楽のヒット曲を中心に、各年代のヒット曲もバランス良くミックス。「まだまだ、眠りたくない！・・・寝てられない！」そんな人は、このミックスをBGMに朝を迎えよう！ <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/mixer\">https://www.interfm.co.jp/mixer</a><br /><br /></div>",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/INT/8jx00ue26w.jpg",
               "tag": {
                 "item": {
                   "name": "MUSIC MIX"
