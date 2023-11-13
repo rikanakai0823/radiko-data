@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1699813673",
+    "srvtime": "1699900066",
     "stations": {
       "station": {
         "-id": "IBC",
@@ -10,19 +10,30 @@
           "date": "20231118",
           "prog": [
             {
-              "-id": "10004610995",
+              "-id": "10006587398",
               "-ft": "20231118050000",
               "-to": "20231118051500",
               "-ftl": "0500",
               "-tol": "0515",
               "-dur": "900",
-              "title": "大島花子　しあわせの花",
+              "title": "気象予報士　伊藤香　季節の足音",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "desc": "異常気象に対する備えや対策、二十四節気、四季折々の天気や植物、その時期にしか味わえない旬の食べ物などの情報をお送りする。",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
-              "pfm": "大島花子",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/050b6b7c-fda9-4716-8ed5-b78273dc3264.jpeg",
+              "pfm": "伊藤香",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/52b9938f-8e8f-4ff5-92cb-976eea5b4d6a.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -31,7 +42,7 @@
               }
             },
             {
-              "-id": "10004109841",
+              "-id": "10006555244",
               "-ft": "20231118051500",
               "-to": "20231118052000",
               "-ftl": "0515",
@@ -43,6 +54,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/165a6d03-cc29-4056-b723-a57e18022562.png",
               "genre": {
                 "program": {
                   "-id": "P016",
@@ -57,7 +69,7 @@
               }
             },
             {
-              "-id": "10006290825",
+              "-id": "10007371887",
               "-ft": "20231118052000",
               "-to": "20231118052500",
               "-ftl": "0520",
@@ -84,22 +96,22 @@
               }
             },
             {
-              "-id": "10005367178",
+              "-id": "10006587409",
               "-ft": "20231118052500",
               "-to": "20231118054000",
               "-ftl": "0525",
               "-tol": "0540",
               "-dur": "900",
-              "title": "天理教の時間",
-              "url": "http://www.tenrikyo.or.jp/yoboku/radio/",
+              "title": "イマドキショッピング！",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/165a6d03-cc29-4056-b723-a57e18022562.png",
               "genre": {
                 "program": {
-                  "-id": "P016",
-                  "name": "宗教"
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -110,88 +122,17 @@
               }
             },
             {
-              "-id": "10004109896",
+              "-id": "10006587443",
               "-ft": "20231118054000",
               "-to": "20231118055500",
               "-ftl": "0540",
               "-tol": "0555",
               "-dur": "900",
-              "title": "１万年堂出版の時間",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
-              "genre": {
-                "program": {
-                  "-id": "P016",
-                  "name": "宗教"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#IBCradio"
-                }
-              }
-            },
-            {
-              "-id": "10004513131",
-              "-ft": "20231118055500",
-              "-to": "20231118060000",
-              "-ftl": "0555",
-              "-tol": "0600",
-              "-dur": "300",
-              "title": "農作業メモ",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
-              "pfm": "今井日奈子",
-              "tag": {
-                "item": [
-                  {
-                    "name": "農業"
-                  },
-                  {
-                    "name": "季節"
-                  },
-                  {
-                    "name": "ヒント"
-                  },
-                  {
-                    "name": "岩手"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P015",
-                  "name": "教養"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#IBCradio"
-                }
-              }
-            },
-            {
-              "-id": "10004650679",
-              "-ft": "20231118060000",
-              "-to": "20231118061500",
-              "-ftl": "0600",
-              "-tol": "0615",
-              "-dur": "900",
               "title": "いわて想い出の名馬館",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "E-mail　<a href=\"mailto:keiba@ibc.co.jp\">keiba@ibc.co.jp</a>",
+              "desc": "ラジオライブラリーに眠る過去の競馬実況音源から、名馬・名手にスポットを当てて、往時の熱気とともに岩手競馬を振り返る。　E-mail　<a href=\"mailto:keiba@ibc.co.jp\">keiba@ibc.co.jp</a>",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
               "pfm": "加藤久智",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/dmcq5dezch.png",
@@ -226,7 +167,76 @@
               }
             },
             {
-              "-id": "10006290874",
+              "-id": "10006555285",
+              "-ft": "20231118055500",
+              "-to": "20231118060000",
+              "-ftl": "0555",
+              "-tol": "0600",
+              "-dur": "300",
+              "title": "農作業メモ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "季節など状況に応じた農作業のヒントになる情報や役立つ商品情報をお送りします。",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "pfm": "今井日奈子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/850db7f9-4a87-42ca-85d4-758c775f4039.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "農業"
+                  },
+                  {
+                    "name": "季節"
+                  },
+                  {
+                    "name": "ヒント"
+                  },
+                  {
+                    "name": "岩手"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#IBCradio"
+                }
+              }
+            },
+            {
+              "-id": "10006555295",
+              "-ft": "20231118060000",
+              "-to": "20231118061500",
+              "-ftl": "0600",
+              "-tol": "0615",
+              "-dur": "900",
+              "title": "由紀さおりのハッピーモーニング",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "童謡唱歌、叙情歌など魅力ある歌の数々を、親から子へ～子から孫へ伝えることが大切と考える由紀さおりの解説とともにお送りする",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "pfm": "由紀さおり",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#IBCradio"
+                }
+              }
+            },
+            {
+              "-id": "10007372013",
               "-ft": "20231118061500",
               "-to": "20231118063000",
               "-ftl": "0615",
@@ -237,6 +247,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/165a6d03-cc29-4056-b723-a57e18022562.png",
               "genre": {
                 "program": {
                   "-id": "P018",
@@ -251,26 +262,22 @@
               }
             },
             {
-              "-id": "10004110006",
+              "-id": "10007372021",
               "-ft": "20231118063000",
               "-to": "20231118064500",
               "-ftl": "0630",
               "-tol": "0645",
               "-dur": "900",
-              "title": "気象予報士　伊藤香　季節の足音",
+              "title": "わくわくお届け便",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
-              "pfm": "伊藤香",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/165a6d03-cc29-4056-b723-a57e18022562.png",
               "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
                 "program": {
-                  "-id": "P012",
-                  "name": "趣味/教育"
+                  "-id": "P021",
+                  "name": "ライフスタイル"
                 }
               },
               "metas": {
@@ -281,20 +288,20 @@
               }
             },
             {
-              "-id": "10004110012",
+              "-id": "10006555318",
               "-ft": "20231118064500",
               "-to": "20231118070000",
               "-ftl": "0645",
               "-tol": "0700",
               "-dur": "900",
               "title": "いわての山　トレッキングガイド",
-              "url": "https://www.ibc.co.jp/radio/trekking_guide/",
+              "url": "https://www.ibc.co.jp/radio/trekkingguide/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "E-mail　<a href=\"mailto:tozan@ibc.co.jp\">tozan@ibc.co.jp</a>",
+              "desc": "岩手の山の魅力を紹介する番組。季節に応じた山の上り方や注意点、自然の楽しみ方などを日本山岳会岩手支部・阿部陽子さんに聞く　E-mail　<a href=\"mailto:tozan@ibc.co.jp\">tozan@ibc.co.jp</a>",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
-              "pfm": "阿部陽子（日本山岳会岩手支部）　浅見智",
+              "pfm": "阿部陽子（日本山岳会岩手支部） / 浅見智",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/fd6ec3a9-c772-40cf-8092-da062ea81c13.png",
               "tag": {
                 "item": [
@@ -333,7 +340,7 @@
               }
             },
             {
-              "-id": "10004332077",
+              "-id": "10006555332",
               "-ft": "20231118070000",
               "-to": "20231118071000",
               "-ftl": "0700",
@@ -363,21 +370,22 @@
               }
             },
             {
-              "-id": "10006279661",
+              "-id": "10006587582",
               "-ft": "20231118071000",
               "-to": "20231118072500",
               "-ftl": "0710",
               "-tol": "0725",
               "-dur": "900",
-              "title": "ヒヨコで踊るラジオ",
+              "title": "気になる土曜日",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/165a6d03-cc29-4056-b723-a57e18022562.png",
               "genre": {
                 "program": {
-                  "-id": "P021",
-                  "name": "ライフスタイル"
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -388,168 +396,20 @@
               }
             },
             {
-              "-id": "10004650770",
+              "-id": "10006587591",
               "-ft": "20231118072500",
-              "-to": "20231118074000",
+              "-to": "20231118073500",
               "-ftl": "0725",
-              "-tol": "0740",
-              "-dur": "900",
-              "title": "村松文代のフォア～♪",
-              "url": "https://www.ibc.co.jp/radio/fore/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "E-mail　<a href=\"mailto:golf@ibc.co.jp\">golf@ibc.co.jp</a>",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
-              "pfm": "村松文代",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/lkqeykz9e8.png",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#IBCradio"
-                }
-              }
-            },
-            {
-              "-id": "10004650792",
-              "-ft": "20231118074000",
-              "-to": "20231118074500",
-              "-ftl": "0740",
-              "-tol": "0745",
-              "-dur": "300",
-              "title": "名字の言",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
-              "genre": {
-                "program": {
-                  "-id": "P015",
-                  "name": "教養"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#IBCradio"
-                }
-              }
-            },
-            {
-              "-id": "10006290922",
-              "-ft": "20231118074500",
-              "-to": "20231118080000",
-              "-ftl": "0745",
-              "-tol": "0800",
-              "-dur": "900",
-              "title": "旬！ＳＨＵＮ！ピックアップＡ",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
-              "genre": {
-                "program": {
-                  "-id": "P021",
-                  "name": "ライフスタイル"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#IBCradio"
-                }
-              }
-            },
-            {
-              "-id": "10006290948",
-              "-ft": "20231118080000",
-              "-to": "20231118081400",
-              "-ftl": "0800",
-              "-tol": "0814",
-              "-dur": "840",
-              "title": "日本全国８時です（土）",
-              "url": "https://www.tbsradio.jp/matomete/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "E-mail　<a href=\"mailto:matomete@tbs.co.jp\">matomete@tbs.co.jp</a>",
-              "info": "公式twitterアカウントは「<a href=\"http://twitter.com/matomete954905\">@matomete954905</a>」<br/>　twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23hasumi954\">#hasumi954</a>」",
-              "pfm": "蓮見孝之　北村まあさ",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
-              "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#hasumi954"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:matomete954905"
-                  }
-                ]
-              }
-            },
-            {
-              "-id": "10004332153",
-              "-ft": "20231118081400",
-              "-to": "20231118082000",
-              "-ftl": "0814",
-              "-tol": "0820",
-              "-dur": "360",
-              "title": "岩手日報ＩＢＣニュース交通情報",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#IBCradio"
-                }
-              }
-            },
-            {
-              "-id": "10004650885",
-              "-ft": "20231118082000",
-              "-to": "20231118083000",
-              "-ftl": "0820",
-              "-tol": "0830",
+              "-tol": "0735",
               "-dur": "600",
               "title": "三浦わたると歌仲間",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "desc": "盛岡市出身の演歌歌手・三浦わたるの歌手活動からプライベートまで、わたるのすべてを知り尽くす。",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
               "pfm": "三浦わたる",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/37cd9e14-dfa4-4337-a624-79df17c8437d.png",
               "tag": {
                 "item": [
                   {
@@ -581,17 +441,48 @@
               }
             },
             {
-              "-id": "10006290965",
-              "-ft": "20231118083000",
-              "-to": "20231118084500",
-              "-ftl": "0830",
-              "-tol": "0845",
-              "-dur": "900",
-              "title": "まいどあり～",
+              "-id": "10006587608",
+              "-ft": "20231118073500",
+              "-to": "20231118074500",
+              "-ftl": "0735",
+              "-tol": "0745",
+              "-dur": "600",
+              "title": "サウンドスクエア",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/5c7a4456-207f-41a0-8b67-76aabd5a72ec.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#IBCradio"
+                }
+              }
+            },
+            {
+              "-id": "10006587615",
+              "-ft": "20231118074500",
+              "-to": "20231118080000",
+              "-ftl": "0745",
+              "-tol": "0800",
+              "-dur": "900",
+              "title": "耳より健康便り",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/165a6d03-cc29-4056-b723-a57e18022562.png",
               "genre": {
                 "program": {
                   "-id": "P021",
@@ -606,28 +497,61 @@
               }
             },
             {
-              "-id": "10005560332",
-              "-ft": "20231118084500",
-              "-to": "20231118090000",
-              "-ftl": "0845",
-              "-tol": "0900",
+              "-id": "10007372115",
+              "-ft": "20231118080000",
+              "-to": "20231118081500",
+              "-ftl": "0800",
+              "-tol": "0815",
               "-dur": "900",
-              "title": "ラジオ文庫（再）",
-              "url": "http://www.ibc.co.jp/radio/radiobunko/audio/",
+              "title": "日本全国８時です（土）",
+              "url": "https://www.tbsradio.jp/matomete/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
-              "pfm": "大塚富夫　後藤のりこ",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/oudp38y3ye.png",
+              "desc": "E-mail　<a href=\"mailto:matomete@tbs.co.jp\">matomete@tbs.co.jp</a>",
+              "info": "公式twitterアカウントは「<a href=\"http://twitter.com/matomete954905\">@matomete954905</a>」<br/>　twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23hasumi954\">#hasumi954</a>」",
+              "pfm": "藤森祥平 / 北村まあさ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/165a6d03-cc29-4056-b723-a57e18022562.png",
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P012",
-                  "name": "趣味/教育"
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#hasumi954"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:matomete954905"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "10007372128",
+              "-ft": "20231118081500",
+              "-to": "20231118083000",
+              "-ftl": "0815",
+              "-tol": "0830",
+              "-dur": "900",
+              "title": "まいどあり～",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/165a6d03-cc29-4056-b723-a57e18022562.png",
+              "genre": {
+                "program": {
+                  "-id": "P021",
+                  "name": "ライフスタイル"
                 }
               },
               "metas": {
@@ -638,34 +562,34 @@
               }
             },
             {
-              "-id": "10004651019",
-              "-ft": "20231118090000",
+              "-id": "10006587699",
+              "-ft": "20231118083000",
               "-to": "20231118110000",
-              "-ftl": "0900",
+              "-ftl": "0830",
               "-tol": "1100",
-              "-dur": "7200",
-              "title": "水越かおるのすっぴん土曜日",
+              "-dur": "9000",
+              "title": "すっぴん土曜日",
               "url": "https://www.ibc.co.jp/radio/suppin/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "FAX 019-624-2894　E-mail　<a href=\"mailto:suppin@ibc.co.jp\">suppin@ibc.co.jp</a>",
+              "desc": "ＦＡＸ：019-624-2894　E-mail　<a href=\"mailto:suppin@ibc.co.jp\">suppin@ibc.co.jp</a>",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
               "pfm": "水越かおる",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/izrlq6xadr.png",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/297f80aa-fffb-45e4-b758-ad14a38db1f2.png",
               "tag": {
                 "item": [
+                  {
+                    "name": "水越かおる"
+                  },
+                  {
+                    "name": "すっぴん"
+                  },
                   {
                     "name": "お便り"
                   },
                   {
-                    "name": "ニュース"
-                  },
-                  {
-                    "name": "天気"
-                  },
-                  {
-                    "name": "交通情報"
+                    "name": "岩手"
                   }
                 ]
               },
@@ -687,7 +611,7 @@
               }
             },
             {
-              "-id": "10004332473",
+              "-id": "10006555471",
               "-ft": "20231118110000",
               "-to": "20231118110500",
               "-ftl": "1100",
@@ -717,7 +641,7 @@
               }
             },
             {
-              "-id": "10006280132",
+              "-id": "10007419697",
               "-ft": "20231118110500",
               "-to": "20231118112500",
               "-ftl": "1105",
@@ -748,17 +672,18 @@
               }
             },
             {
-              "-id": "10006291018",
+              "-id": "10007372323",
               "-ft": "20231118112500",
               "-to": "20231118114000",
               "-ftl": "1125",
               "-tol": "1140",
               "-dur": "900",
-              "title": "旬！ＳＨＵＮ！ピックアップＢ",
+              "title": "旬！ＳＨＵＮ！ピックアップ",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/165a6d03-cc29-4056-b723-a57e18022562.png",
               "genre": {
                 "program": {
                   "-id": "P021",
@@ -773,21 +698,21 @@
               }
             },
             {
-              "-id": "10004651335",
+              "-id": "10006555482",
               "-ft": "20231118114000",
               "-to": "20231118130000",
               "-ftl": "1140",
               "-tol": "1300",
               "-dur": "4800",
-              "title": "水越かおるのすっぴん土曜日",
+              "title": "すっぴん土曜日",
               "url": "https://www.ibc.co.jp/radio/suppin/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "FAX 019-624-2894　E-mail　<a href=\"mailto:suppin@ibc.co.jp\">suppin@ibc.co.jp</a>",
+              "desc": "ＦＡＸ：019-624-2894　E-mail　<a href=\"mailto:suppin@ibc.co.jp\">suppin@ibc.co.jp</a>",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
               "pfm": "水越かおる",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/izrlq6xadr.png",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/297f80aa-fffb-45e4-b758-ad14a38db1f2.png",
               "tag": {
                 "item": [
                   {
@@ -822,7 +747,7 @@
               }
             },
             {
-              "-id": "10004110677",
+              "-id": "10006555504",
               "-ft": "20231118130000",
               "-to": "20231118150000",
               "-ftl": "1300",
@@ -833,10 +758,10 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "FAX 019-624-2894　E-mail　<a href=\"mailto:nobi@ibc.co.jp\">nobi@ibc.co.jp</a>",
+              "desc": "江釣子ショッピングセンターパルから生放送　FAX 019-624-2894　E-mail　<a href=\"mailto:nobi@ibc.co.jp\">nobi@ibc.co.jp</a>",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
               "pfm": "神山浩樹",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/k7lv5tid6j.png",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/065621c0-fe3b-49ba-a1d7-9ce2b08673e4.png",
               "tag": {
                 "item": [
                   {
@@ -877,7 +802,7 @@
               }
             },
             {
-              "-id": "10005603640",
+              "-id": "10006634037",
               "-ft": "20231118150000",
               "-to": "20231118170000",
               "-ftl": "1500",
@@ -891,7 +816,7 @@
               "desc": "FAX 019-624-2894　E-mail　<a href=\"mailto:town@ibc.co.jp\">town@ibc.co.jp</a>",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
               "pfm": "大塚富夫",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/pxre7lsof1.png",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/ea8057ac-271e-4bab-aee5-2bbd785b04fc.png",
               "tag": {
                 "item": [
                   {
@@ -932,7 +857,7 @@
               }
             },
             {
-              "-id": "10004514399",
+              "-id": "10006555574",
               "-ft": "20231118170000",
               "-to": "20231118172000",
               "-ftl": "1700",
@@ -942,9 +867,10 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "E-mail　<a href=\"mailto:fish@ibc.co.jp\">fish@ibc.co.jp</a>",
+              "desc": "ＩＢＣきっての釣り好き加藤久智アナウンサーが季節のネタを盛り込みながら各地のポイント、リスナーの釣果報告などを紹介する。　E-mail　<a href=\"mailto:fish@ibc.co.jp\">fish@ibc.co.jp</a>",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
               "pfm": "加藤久智",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/e7668f56-3597-4841-95ad-dddce286beaf.png",
               "tag": {
                 "item": [
                   {
@@ -985,7 +911,7 @@
               }
             },
             {
-              "-id": "10004514411",
+              "-id": "10006555588",
               "-ft": "20231118172000",
               "-to": "20231118173000",
               "-ftl": "1720",
@@ -995,8 +921,10 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "desc": "岩手の農業のホットな情報をお伝えします。",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
               "pfm": "菊池幸見",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/165a6d03-cc29-4056-b723-a57e18022562.png",
               "tag": {
                 "item": [
                   {
@@ -1037,7 +965,7 @@
               }
             },
             {
-              "-id": "10004652076",
+              "-id": "10006555596",
               "-ft": "20231118173000",
               "-to": "20231118174500",
               "-ftl": "1730",
@@ -1047,8 +975,10 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "desc": "赤坂病院・赤坂俊幸院長が、身近な医学、季節性の病気や流行の病気など、月ごとに変わるテーマに沿ってわかりやすく解説。",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
-              "pfm": "赤坂俊幸（赤坂病院院長）　山崎博子",
+              "pfm": "赤坂俊幸（赤坂病院院長） / 山崎博子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/165a6d03-cc29-4056-b723-a57e18022562.png",
               "tag": {
                 "item": [
                   {
@@ -1079,7 +1009,7 @@
               }
             },
             {
-              "-id": "10006280927",
+              "-id": "10007420121",
               "-ft": "20231118174500",
               "-to": "20231118175000",
               "-ftl": "1745",
@@ -1090,6 +1020,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/0f25146a-d71d-4c70-90d4-18305a9fd9c8.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -1108,43 +1039,21 @@
               }
             },
             {
-              "-id": "10004652125",
+              "-id": "10006588865",
               "-ft": "20231118175000",
               "-to": "20231118175500",
               "-ftl": "1750",
               "-tol": "1755",
               "-dur": "300",
-              "title": "気象と防災　マメ知識！",
-              "url": "https://www.ibc.co.jp/radio/684/kisyobosai/",
+              "title": "気象と防災　ラジオメモ",
+              "url": "https://www.ibc.co.jp/radio/memo/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "E-mail　<a href=\"mailto:mame@ibc.co.jp\">mame@ibc.co.jp</a>",
+              "desc": "気象予報士・防災士の神山浩樹アナが、天気にまつわる様々な考察・分析や地震の教訓、命を守るための行動などを簡潔に伝える。　E-mail　<a href=\"mailto:memo@ibc.co.jp\">memo@ibc.co.jp</a>",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
               "pfm": "神山浩樹",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/v0qxp2bwvw.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "神山浩樹"
-                  },
-                  {
-                    "name": "気象予報士"
-                  },
-                  {
-                    "name": "防災士"
-                  },
-                  {
-                    "name": "天気"
-                  },
-                  {
-                    "name": "防災"
-                  },
-                  {
-                    "name": "岩手"
-                  }
-                ]
-              },
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/44a2c262-8fa1-4ed1-9c12-e5830d0ac67b.png",
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -1163,7 +1072,7 @@
               }
             },
             {
-              "-id": "10004333315",
+              "-id": "10006555613",
               "-ft": "20231118175500",
               "-to": "20231118180000",
               "-ftl": "1755",
@@ -1193,7 +1102,7 @@
               }
             },
             {
-              "-id": "10004111284",
+              "-id": "10006555621",
               "-ft": "20231118180000",
               "-to": "20231118183000",
               "-ftl": "1800",
@@ -1207,6 +1116,7 @@
               "desc": "E-mail　<a href=\"mailto:emi@p-mar.co.jp\">emi@p-mar.co.jp</a>",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
               "pfm": "藤田恵美",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/165a6d03-cc29-4056-b723-a57e18022562.png",
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -1225,25 +1135,24 @@
               }
             },
             {
-              "-id": "10004652270",
+              "-id": "10006589010",
               "-ft": "20231118183000",
               "-to": "20231118190000",
               "-ftl": "1830",
               "-tol": "1900",
               "-dur": "1800",
-              "title": "川嶋あいＯｎＴｈｅＳｔｒｅｅｔ",
-              "url": "http://kawashimaai.com/media",
+              "title": "ｕｋｋａり娘の浮かれでぃお",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "E-mail　<a href=\"mailto:aionthestreet@hotmail.com\">aionthestreet@hotmail.com</a>",
-              "info": "公式twitterアカウントは「<a href=\"http://twitter.com/aionthestreet\">@aionthestreet</a>」",
-              "pfm": "川嶋あい",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/ae79d902-fc8c-44b1-89eb-2e843b12c678.jpeg",
+              "desc": "STARDUST PLANET発の期待のアイドルグループｕｋｋａがお送りする等身大ラジオ。",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "pfm": "ｕｋｋａ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/38bada3b-59e7-4976-87fa-abce6a015362.jpeg",
               "genre": {
                 "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
+                  "-id": "C008",
+                  "name": "女性アイドル"
                 },
                 "program": {
                   "-id": "P007",
@@ -1253,12 +1162,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "from:aionthestreet"
+                  "-value": "#IBCradio"
                 }
               }
             },
             {
-              "-id": "10004514682",
+              "-id": "10006555644",
               "-ft": "20231118190000",
               "-to": "20231118193000",
               "-ftl": "1900",
@@ -1269,10 +1178,10 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "E-mail　<a href=\"mailto:kimikata@ibc.co.jp\">kimikata@ibc.co.jp</a>",
+              "desc": "アニメ、まんが、特撮、ゲーム・・・好きなものを好きと言える居心地のいい番組にしたい！あなたの“大好き”“ハマり中”大募集　E-mail　<a href=\"mailto:kimikata@ibc.co.jp\">kimikata@ibc.co.jp</a>",
               "info": "公式twitterアカウントは「<a href=\"http://twitter.com/IBC_Kimikata\">@IBC_Kimikata</a>」<br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a> <a href=\"http://twitter.com/search?q=%23%E3%82%AD%E3%83%9F%E3%81%8B%E3%81%9F\">#キミかた</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
               "pfm": "川島有貴",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/4b817a81-f895-4d83-9e2f-ec20998099c9.png",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/0440b74e-21a5-4bff-9b4b-d41255b04c10.png",
               "tag": {
                 "item": [
                   {
@@ -1326,7 +1235,7 @@
               }
             },
             {
-              "-id": "10005604031",
+              "-id": "10006634675",
               "-ft": "20231118193000",
               "-to": "20231118200000",
               "-ftl": "1930",
@@ -1338,6 +1247,7 @@
               "ts_out_ng": "0",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
               "pfm": "六華亭遊花",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/165a6d03-cc29-4056-b723-a57e18022562.png",
               "genre": {
                 "personality": {
                   "-id": "C009",
@@ -1356,43 +1266,11 @@
               }
             },
             {
-              "-id": "10006281324",
+              "-id": "10007420254",
               "-ft": "20231118200000",
               "-to": "20231118203000",
               "-ftl": "2000",
               "-tol": "2030",
-              "-dur": "1800",
-              "title": "松村邦洋のＯＨ―！邦自慢",
-              "url": "http://kry.co.jp/radio/kuni/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "E-mail　<a href=\"mailto:kuni@kry.co.jp\">kuni@kry.co.jp</a>",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
-              "pfm": "松村邦洋",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#IBCradio"
-                }
-              }
-            },
-            {
-              "-id": "10006281363",
-              "-ft": "20231118203000",
-              "-to": "20231118210000",
-              "-ftl": "2030",
-              "-tol": "2100",
               "-dur": "1800",
               "title": "問わず語りの神田伯山",
               "url": "https://www.tbsradio.jp/edo/",
@@ -1427,11 +1305,11 @@
               }
             },
             {
-              "-id": "10006281458",
-              "-ft": "20231118210000",
-              "-to": "20231118220000",
-              "-ftl": "2100",
-              "-tol": "2200",
+              "-id": "10007420270",
+              "-ft": "20231118203000",
+              "-to": "20231118213000",
+              "-ftl": "2030",
+              "-tol": "2130",
               "-dur": "3600",
               "title": "東京ポッド許可局",
               "url": "http://www.tbsradio.jp/tokyopod/",
@@ -1440,7 +1318,7 @@
               "ts_out_ng": "0",
               "desc": "E-mail　<a href=\"mailto:tokyopod@tbs.co.jp\">tokyopod@tbs.co.jp</a>",
               "info": "公式twitterアカウントは「<a href=\"http://twitter.com/tokyopod954\">@tokyopod954</a>」<br/>　twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23tokyopod\">#tokyopod</a>」",
-              "pfm": "マキタスポーツ　プチ鹿島　サンキュータツオ",
+              "pfm": "マキタスポーツ / プチ鹿島 / サンキュータツオ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/ygmpo0nmmp.png",
               "genre": {
                 "personality": {
@@ -1466,49 +1344,46 @@
               }
             },
             {
-              "-id": "10004652795",
-              "-ft": "20231118220000",
+              "-id": "10007420301",
+              "-ft": "20231118213000",
               "-to": "20231118223000",
-              "-ftl": "2200",
+              "-ftl": "2130",
               "-tol": "2230",
-              "-dur": "1800",
-              "title": "アンダーエイジの気分は爽快！シャキッとラジオＤＸ",
-              "url": "https://www.ibc.co.jp/radio/kibun/",
+              "-dur": "3600",
+              "title": "空気階段の踊り場",
+              "url": "https://www.tbsradio.jp/odoriba/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "公式twitterアカウントは「<a href=\"http://twitter.com/IBC_shakiradi\">@IBC_shakiradi</a>」<br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a> <a href=\"http://twitter.com/search?q=%23%E3%82%B7%E3%83%A3%E3%82%AD%E3%83%A9%E3%82%B8\">#シャキラジ</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
-              "pfm": "アンダーエイジ　ＤＪのり",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/16fd4693-4b22-487d-b23f-5f01a82e5e84.jpeg",
+              "desc": "E-mail　<a href=\"mailto:odoriba@tbs.co.jp\">odoriba@tbs.co.jp</a>",
+              "info": "番組twitterアカウントは「<a href=\"http://twitter.com/kuki_odoriba\">@kuki_odoriba</a>」<br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23odoriba954\">#odoriba954</a>」",
+              "pfm": "空気階段",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/3a840ee9-4881-4bfa-8717-1fe7747ee41c.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
                 },
                 "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
                 "meta": [
                   {
                     "-name": "twitter",
-                    "-value": "#IBCradio"
+                    "-value": "#odoriba954"
                   },
                   {
                     "-name": "twitter",
-                    "-value": "#シャキラジ"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:IBC_shakiradi"
+                    "-value": "from:kuki_odoriba"
                   }
                 ]
               }
             },
             {
-              "-id": "10006281629",
+              "-id": "10007420399",
               "-ft": "20231118223000",
               "-to": "20231118233000",
               "-ftl": "2230",
@@ -1541,7 +1416,7 @@
               }
             },
             {
-              "-id": "10006281759",
+              "-id": "10007420484",
               "-ft": "20231118233000",
               "-to": "20231119010000",
               "-ftl": "2330",
@@ -1553,7 +1428,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "E-mail　<a href=\"mailto:st@allnightnippon.com\">st@allnightnippon.com</a>",
-              "info": "公式twitterアカウントは「<a href=\"http://twitter.com/SixTONESANNSat\">@SixTONESANNSat</a>」<br/>　twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23SixTONESANN\">#SixTONESANN</a>」",
+              "info": "公式twitterアカウントは「<a href=\"http://twitter.com/SixTONESANNSat\">@SixTONESANNSat</a>」<br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23SixTONESANN\">#SixTONESANN</a>」",
               "pfm": "ＳｉｘＴＯＮＥＳ",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/d25d5dde-d0a1-49b4-bada-6a3c61cbdb9e.jpeg",
               "genre": {
@@ -1580,7 +1455,7 @@
               }
             },
             {
-              "-id": "10006281958",
+              "-id": "10007420544",
               "-ft": "20231119010000",
               "-to": "20231119030000",
               "-ftl": "2500",
@@ -1592,9 +1467,9 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "E-mail　<a href=\"mailto:kw@allnightnippon.com\">kw@allnightnippon.com</a>",
-              "info": "公式twitterアカウントは「<a href=\"http://twitter.com/annkw5tyb\">@annkw5tyb</a>」<br/>　twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23annkw\">#annkw</a>」",
+              "info": "公式twitterアカウントは「<a href=\"http://twitter.com/annkw5tyb\">@annkw5tyb</a>」<br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23annkw\">#annkw</a>」",
               "pfm": "オードリー",
-              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/z1csvc8bfu.jpg",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/a4c4b09f-14de-4e92-824e-0b909fc18331.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C009",
@@ -1619,7 +1494,7 @@
               }
             },
             {
-              "-id": "10006282116",
+              "-id": "10007420593",
               "-ft": "20231119030000",
               "-to": "20231119040000",
               "-ftl": "2700",
@@ -1630,7 +1505,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "info": "番組twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」",
+              "pfm": "ヤバイＴシャツ屋さん",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/887e0484-baef-4bd2-a006-9ccdf16c61fa.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -1644,12 +1521,12 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#IBCradio"
+                  "-value": "from:Ann_Since1967"
                 }
               }
             },
             {
-              "-id": "10006282212",
+              "-id": "10007420610",
               "-ft": "20231119040000",
               "-to": "20231119050000",
               "-ftl": "2800",
@@ -1661,7 +1538,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "E-mail　<a href=\"mailto:mp@tbs.co.jp\">mp@tbs.co.jp</a>",
-              "info": "公式twitterアカウントは「<a href=\"http://twitter.com/PaletteTbs\">@PaletteTbs</a>」<br/>　twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23m%E3%83%91%E3%83%AC%E3%83%83%E3%83%88\">#mパレット</a>」",
+              "info": "公式twitterアカウントは「<a href=\"http://twitter.com/PaletteTbs\">@PaletteTbs</a>」<br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23m%E3%83%91%E3%83%AC%E3%83%83%E3%83%88\">#mパレット</a>」",
               "pfm": "宮崎由加",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/IBC/9057bef2-0aa8-4060-a592-0c2eb7e563bd.jpeg",
               "genre": {
