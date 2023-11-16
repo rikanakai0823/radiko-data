@@ -1,0 +1,926 @@
+{
+  "radiko": {
+    "ttl": "1800",
+    "srvtime": "1700159339",
+    "stations": {
+      "station": {
+        "-id": "KBC",
+        "name": "KBCラジオ",
+        "progs": {
+          "date": "20231122",
+          "prog": [
+            {
+              "-id": "10008646518",
+              "-ft": "20231122050000",
+              "-to": "20231122051500",
+              "-ftl": "0500",
+              "-tol": "0515",
+              "-dur": "900",
+              "title": "わくわくお届け便",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/19d8fa63-0656-401c-b363-ea37daff1905.png",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10008646557",
+              "-ft": "20231122051500",
+              "-to": "20231122053000",
+              "-ftl": "0515",
+              "-tol": "0530",
+              "-dur": "900",
+              "title": "Music Selection （再）",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/9c89f960-1a0f-41f3-9638-3eb8ab5df3ee.png",
+              "tag": {
+                "item": {
+                  "name": "気分転換におすすめ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10009090136",
+              "-ft": "20231122053000",
+              "-to": "20231122062500",
+              "-ftl": "0530",
+              "-tol": "0625",
+              "-dur": "3300",
+              "title": "あさモニ",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:asamoni@kbc.co.jp\">asamoni@kbc.co.jp</a><br/>",
+              "pfm": "小鹿潤",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/83fa2f29-a9f6-447b-bf80-6c074797ca77.png",
+              "tag": {
+                "item": {
+                  "name": "気分転換におすすめ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10008910075",
+              "-ft": "20231122062500",
+              "-to": "20231122063000",
+              "-ftl": "0625",
+              "-tol": "0630",
+              "-dur": "300",
+              "title": "ＫＢＣニュース＆天気予報",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/ac26946b-5ccd-4113-a88a-465294229d10.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ニュース"
+                  },
+                  {
+                    "name": "天気"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10009097929",
+              "-ft": "20231122063000",
+              "-to": "20231122070000",
+              "-ftl": "0630",
+              "-tol": "0700",
+              "-dur": "1800",
+              "title": "アサデス。ラジオ(1)",
+              "url": "https://kbc.co.jp/asadesu_radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:asa@kbc.co.jp\">asa@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_asaradio\">@kbc_asaradio</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/asa_kbcradio/\">@asa_kbcradio</a>」",
+              "pfm": "近藤鉄太郎、加藤恭子、臼井賢一郎（KBC解説委員）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/38484b3e-9d60-42e6-9d6e-2397fb074df2.png",
+              "tag": {
+                "item": {
+                  "name": "朝のニュースを効率良く"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10009097960",
+              "-ft": "20231122070000",
+              "-to": "20231122075400",
+              "-ftl": "0700",
+              "-tol": "0754",
+              "-dur": "3240",
+              "title": "アサデス。ラジオ(2)",
+              "url": "https://kbc.co.jp/asadesu_radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:asa@kbc.co.jp\">asa@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_asaradio\">@kbc_asaradio</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/asa_kbcradio/\">@asa_kbcradio</a>」",
+              "pfm": "近藤鉄太郎、加藤恭子、臼井賢一郎（KBC解説委員）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/38484b3e-9d60-42e6-9d6e-2397fb074df2.png",
+              "tag": {
+                "item": {
+                  "name": "朝のニュースを効率良く"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10008646893",
+              "-ft": "20231122075400",
+              "-to": "20231122080000",
+              "-ftl": "0754",
+              "-tol": "0800",
+              "-dur": "360",
+              "title": "島田洋七の朝から言わせろ！！",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "ニッポンに「お笑い」と「がばいばあちゃん」という２つの社会現象を巻き起こした島田洋七が、第２の故郷、九州でラジオ番組放送中！！しゃべくりの真髄、お笑いの真髄、ばあちゃんの真髄がこの番組で明らかになる！！",
+              "pfm": "島田洋七、武内裕之、小柳有紀",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/a05effad-8f2c-4744-ae3f-42a401e16689.png",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10009097999",
+              "-ft": "20231122080000",
+              "-to": "20231122083500",
+              "-ftl": "0800",
+              "-tol": "0835",
+              "-dur": "2100",
+              "title": "アサデス。ラジオ",
+              "url": "https://kbc.co.jp/asadesu_radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:asa@kbc.co.jp\">asa@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_asaradio\">@kbc_asaradio</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/asa_kbcradio/\">@asa_kbcradio</a>」",
+              "pfm": "近藤鉄太郎、加藤恭子、臼井賢一郎（KBC解説委員）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/38484b3e-9d60-42e6-9d6e-2397fb074df2.png",
+              "tag": {
+                "item": {
+                  "name": "朝のニュースを効率良く"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10009657695",
+              "-ft": "20231122083500",
+              "-to": "20231122084000",
+              "-ftl": "0835",
+              "-tol": "0840",
+              "-dur": "300",
+              "title": "スズキ・ハッピーモーニング　羽田美智子のいってらっしゃい",
+              "url": "https://www.1242.com/hada/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "晴れの日や雨の日、気分が明るい時、ちょっと暗い時、そんなあなたの朝に『いってらっしゃい』の言葉を届けます。あなたの朝がいつもイイ朝でありますように…<br/><br/>メールアドレス：<br/>mail：<a href=\"mailto:hada@1242.com\">hada@1242.com",
+              "pfm": "羽田美智子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/4f427987-d0d7-4a71-81a2-88e76e8d569a.jpeg",
+              "tag": {
+                "item": {
+                  "name": "朝のニュースを効率良く"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10009098033",
+              "-ft": "20231122084000",
+              "-to": "20231122090000",
+              "-ftl": "0840",
+              "-tol": "0900",
+              "-dur": "1200",
+              "title": "アサデス。ラジオ(1)",
+              "url": "https://kbc.co.jp/asadesu_radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:asa@kbc.co.jp\">asa@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_asaradio\">@kbc_asaradio</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/asa_kbcradio/\">@asa_kbcradio</a>」",
+              "pfm": "近藤鉄太郎、加藤恭子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/38484b3e-9d60-42e6-9d6e-2397fb074df2.png",
+              "tag": {
+                "item": {
+                  "name": "朝のニュースを効率良く"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10009098053",
+              "-ft": "20231122090000",
+              "-to": "20231122100000",
+              "-ftl": "0900",
+              "-tol": "1000",
+              "-dur": "3600",
+              "title": "アサデス。ラジオ(2)",
+              "url": "https://kbc.co.jp/asadesu_radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:asa@kbc.co.jp\">asa@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_asaradio\">@kbc_asaradio</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/asa_kbcradio/\">@asa_kbcradio</a>」",
+              "pfm": "近藤鉄太郎、加藤恭子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/38484b3e-9d60-42e6-9d6e-2397fb074df2.png",
+              "tag": {
+                "item": {
+                  "name": "朝のニュースを効率良く"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10009098078",
+              "-ft": "20231122100000",
+              "-to": "20231122110000",
+              "-ftl": "1000",
+              "-tol": "1100",
+              "-dur": "3600",
+              "title": "アサデス。ラジオ(3)",
+              "url": "https://kbc.co.jp/asadesu_radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:asa@kbc.co.jp\">asa@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_asaradio\">@kbc_asaradio</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/asa_kbcradio/\">@asa_kbcradio</a>」",
+              "pfm": "近藤鉄太郎、加藤恭子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/38484b3e-9d60-42e6-9d6e-2397fb074df2.png",
+              "tag": {
+                "item": {
+                  "name": "朝のニュースを効率良く"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10009098106",
+              "-ft": "20231122110000",
+              "-to": "20231122120000",
+              "-ftl": "1100",
+              "-tol": "1200",
+              "-dur": "3600",
+              "title": "アサデス。ラジオ(4)",
+              "url": "https://kbc.co.jp/asadesu_radio/",
+              "failed_record": "0",
+              "ts_in_ng": "1",
+              "ts_out_ng": "1",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:asa@kbc.co.jp\">asa@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/kbc_asaradio\">@kbc_asaradio</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/asa_kbcradio/\">@asa_kbcradio</a>」",
+              "pfm": "近藤鉄太郎、加藤恭子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/38484b3e-9d60-42e6-9d6e-2397fb074df2.png",
+              "tag": {
+                "item": {
+                  "name": "朝のニュースを効率良く"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10009090681",
+              "-ft": "20231122120000",
+              "-to": "20231122124000",
+              "-ftl": "1200",
+              "-tol": "1240",
+              "-dur": "2400",
+              "title": "ヒルマニ",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:hirumani@kbc.co.jp\">hirumani@kbc.co.jp</a><br/>",
+              "pfm": "三澤澄也",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/349e1f21-c03d-4620-b16c-456eb8291f70.png",
+              "tag": {
+                "item": {
+                  "name": "気分転換におすすめ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10009053521",
+              "-ft": "20231122124000",
+              "-to": "20231122125500",
+              "-ftl": "1240",
+              "-tol": "1255",
+              "-dur": "900",
+              "title": "パックンマックンのワールドで行こう！",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/19d8fa63-0656-401c-b363-ea37daff1905.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10008910581",
+              "-ft": "20231122125500",
+              "-to": "20231122130000",
+              "-ftl": "1255",
+              "-tol": "1300",
+              "-dur": "300",
+              "title": "ＫＢＣニュース＆天気予報",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/ac26946b-5ccd-4113-a88a-465294229d10.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ニュース"
+                  },
+                  {
+                    "name": "天気"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10009090785",
+              "-ft": "20231122130000",
+              "-to": "20231122140000",
+              "-ftl": "1300",
+              "-tol": "1400",
+              "-dur": "3600",
+              "title": "ＰＡＯ～Ｎ(1)",
+              "url": "https://kbc.co.jp/pao-n/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "言わずと知れたKBCの人気番組。ラジオの魅力が盛り沢山！",
+              "info": "<br/><br/>PAO～Nメニューのご紹介！！<br/><br/><br/>オープニング　PAO～N恒例の沢田エグアナの芸能メニュー紹介<br/><br/><br/><br/>13:20ごろ　日刊ニュースπ<br/><br/><br/>14:00ごろ　シン・クイズ秘密の箱！！<br/><br/><br/>14:05ごろ　金の卵<br/><br/><br/>14:40ごろ　コウジの部屋<br/><br/><br/>15:00ごろ　カンパニー漫遊記<br/><br/><br/>15:33ごろ　PAO～Nファイル<br/><br/>",
+              "pfm": "沢田幸二　ルーシー　居内陽平/和田侑也",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/7z1gwly9z4.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10009090868",
+              "-ft": "20231122140000",
+              "-to": "20231122150000",
+              "-ftl": "1400",
+              "-tol": "1500",
+              "-dur": "3600",
+              "title": "ＰＡＯ～Ｎ(2)",
+              "url": "https://kbc.co.jp/pao-n/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "言わずと知れたKBCの人気番組。ラジオの魅力が盛り沢山！",
+              "info": "<br/><br/>PAO～Nメニューのご紹介！！<br/><br/><br/>オープニング　PAO～N恒例の沢田エグアナの芸能メニュー紹介<br/><br/><br/><br/>13:20ごろ　日刊ニュースπ<br/><br/><br/>14:00ごろ　シン・クイズ秘密の箱！！<br/><br/><br/>14:05ごろ　金の卵<br/><br/><br/>14:40ごろ　コウジの部屋<br/><br/><br/>15:00ごろ　カンパニー漫遊記<br/><br/><br/>15:33ごろ　PAO～Nファイル<br/><br/>",
+              "pfm": "沢田幸二　ルーシー　居内陽平/和田侑也",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/7z1gwly9z4.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10009090963",
+              "-ft": "20231122150000",
+              "-to": "20231122160000",
+              "-ftl": "1500",
+              "-tol": "1600",
+              "-dur": "3600",
+              "title": "ＰＡＯ～Ｎ(3)",
+              "url": "https://kbc.co.jp/pao-n/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "言わずと知れたKBCの人気番組。ラジオの魅力が盛り沢山！",
+              "info": "<br/><br/>PAO～Nメニューのご紹介！！<br/><br/><br/>オープニング　PAO～N恒例の沢田エグアナの芸能メニュー紹介<br/><br/><br/><br/>13:20ごろ　日刊ニュースπ<br/><br/><br/>14:00ごろ　シン・クイズ秘密の箱！！<br/><br/><br/>14:05ごろ　金の卵<br/><br/><br/>14:40ごろ　コウジの部屋<br/><br/><br/>15:00ごろ　カンパニー漫遊記<br/><br/><br/>15:33ごろ　PAO～Nファイル<br/><br/>",
+              "pfm": "沢田幸二　ルーシー　居内陽平/和田侑也",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/7z1gwly9z4.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10010157266",
+              "-ft": "20231122160000",
+              "-to": "20231122170000",
+              "-ftl": "1600",
+              "-tol": "1700",
+              "-dur": "3600",
+              "title": "ハッピーアワー",
+              "url": "https://kbc.co.jp/happy-hour/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "平日限定！夕暮れ時のサービスタイム！<br/><br/>ちょっとお得でちょっとハッピー！<br/><br/>お笑い芸人たちがお送りするニュースあり！<br/>クイズあり！<br/><br/>大喜利あり！ホークス情報あり！<br/><br/>聞いてい楽しい「超」バラエティプログラム！<br/><br/>",
+              "pfm": "ノボせもん なべ/百市なるみ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/20b3f8e1-4946-48fd-a95c-907a5a3591cb.jpeg",
+              "tag": {
+                "item": {
+                  "name": "気分転換におすすめ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10009658124",
+              "-ft": "20231122170000",
+              "-to": "20231122171500",
+              "-ftl": "1700",
+              "-tol": "1715",
+              "-dur": "900",
+              "title": "ニュースパレード",
+              "url": "http://www.joqr.co.jp/programs/detail/newsparade.php",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/a0bac31c-fa19-4545-b6eb-31ca20fec9a8.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10010157296",
+              "-ft": "20231122171500",
+              "-to": "20231122175500",
+              "-ftl": "1715",
+              "-tol": "1755",
+              "-dur": "2400",
+              "title": "ハッピーアワー",
+              "url": "https://kbc.co.jp/happy-hour/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "平日限定！夕暮れ時のサービスタイム！<br/><br/>ちょっとお得でちょっとハッピー！<br/><br/>お笑い芸人たちがお送りするニュースあり！<br/>クイズあり！<br/><br/>大喜利あり！ホークス情報あり！<br/><br/>聞いてい楽しい「超」バラエティプログラム！<br/><br/>",
+              "pfm": "ノボせもん なべ/百市なるみ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/20b3f8e1-4946-48fd-a95c-907a5a3591cb.jpeg",
+              "tag": {
+                "item": {
+                  "name": "気分転換におすすめ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10009091236",
+              "-ft": "20231122175500",
+              "-to": "20231122184500",
+              "-ftl": "1755",
+              "-tol": "1845",
+              "-dur": "3000",
+              "title": "ＬＢレコード",
+              "url": "https://kbc.co.jp/lbrecord/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "Xの「福岡のトレンド」で上位入りを繰り返したことでおなじみの「LBレコード」<br/>番組中は#LBレコードでつぶやいてください！<br/>mail：<a href=\"mailto:lb@kbc.co.jp\">lb@kbc.co.jp</a><br/>",
+              "pfm": "カーネギー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/226e5b32-0914-484f-ac56-082b62d3fe0f.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10010157323",
+              "-ft": "20231122184500",
+              "-to": "20231122190000",
+              "-ftl": "1845",
+              "-tol": "1900",
+              "-dur": "900",
+              "title": "ココロのオンガク  ～music for you ～",
+              "url": "http://www.joqr.co.jp/musicmusic/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "パーソナリティ：井手大介",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/3f5531b4-3947-4edc-9c15-e880957f6ad6.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10009091402",
+              "-ft": "20231122190000",
+              "-to": "20231122215500",
+              "-ftl": "1900",
+              "-tol": "2155",
+              "-dur": "10500",
+              "title": "ＬＢレコード",
+              "url": "https://kbc.co.jp/lbrecord/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "Xの「福岡のトレンド」で上位入りを繰り返したことでおなじみの「LBレコード」<br/>番組中は#LBレコードでつぶやいてください！<br/>mail：<a href=\"mailto:lb@kbc.co.jp\">lb@kbc.co.jp</a><br/>",
+              "pfm": "カーネギー",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/226e5b32-0914-484f-ac56-082b62d3fe0f.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10008911470",
+              "-ft": "20231122215500",
+              "-to": "20231122220000",
+              "-ftl": "2155",
+              "-tol": "2200",
+              "-dur": "300",
+              "title": "ＫＢＣニュース＆天気予報",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/ac26946b-5ccd-4113-a88a-465294229d10.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ニュース"
+                  },
+                  {
+                    "name": "天気"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10010157434",
+              "-ft": "20231122220000",
+              "-to": "20231123000000",
+              "-ftl": "2200",
+              "-tol": "2400",
+              "-dur": "7200",
+              "title": "オールナイトニッポン　ＭＵＳＩＣ　１０",
+              "url": "https://www.allnightnippon.com/music10/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "【あなたの夜に、音楽を。】オールナイトニッポン Music10 では、毎晩10時から、あなたの音楽リクエストに「フルコーラス」でお応えしています。<br/>洋邦を問わず、古今東西の名曲、ヒット曲、様々な音楽を、2時間たっぷりお届けします。音楽のリクエストには、その曲の想い出・エピソードを添えて下さい。リクエストはメールフォームか、mail：<a href=\"mailto:10@1242.com\">10@1242.com</a>まで、お寄せください。",
+              "pfm": "岸谷香",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/f86b7970-ca69-493b-81ef-abaf8d8135c2.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10009770849",
+              "-ft": "20231123000000",
+              "-to": "20231123003000",
+              "-ftl": "2400",
+              "-tol": "2430",
+              "-dur": "1800",
+              "title": "Ｂｕｚｚ！！ＬｉｎＱ",
+              "url": "https://twitter.com/linq_up",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:linq@kbc.co.jp\">linq@kbc.co.jp</a><br/>★twitterアカントは「<a href=\"https://twitter.com/LinQ UP\">@LinQ UP</a>」",
+              "pfm": "海月らな",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/6mtiix7bpu.jpg",
+              "tag": {
+                "item": {
+                  "name": "寝る前に聴きたい"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10010157513",
+              "-ft": "20231123003000",
+              "-to": "20231123010000",
+              "-ftl": "2430",
+              "-tol": "2500",
+              "-dur": "1800",
+              "title": "ムサシハジメました。",
+              "url": "https://kbc.co.jp/r-radio/musahaji/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "2人が体験する様々な「はじめて」をそのままリアルにお伝えします。みなさんからの体験リクエストも大募集。あらたなラジオ番組をはじめます。",
+              "pfm": "はじめちゃん/ムサシ",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/37e3c301-6935-4cdf-af40-6d475ba893e3.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "お笑い芸人の最強トーク"
+                  },
+                  {
+                    "name": "寝る前に聴きたい"
+                  }
+                ]
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10010157542",
+              "-ft": "20231123010000",
+              "-to": "20231123030000",
+              "-ftl": "2500",
+              "-tol": "2700",
+              "-dur": "7200",
+              "title": "オールナイトニッポン",
+              "url": "https://www.allnightnippon.com/nogizaka46/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "アイドルグループ乃木坂46が毎週水曜日の「オールナイトニッポン」を担当。 レギュラーパーソナリティの久保史緒里と週替わりパーソナリティ二人で毎週お届けします！ どうぞラジオ・radikoでお聴きください！<br/><br/>メッセージはmail：<a href=\"mailto:nogizaka@allnightnippon.com\">nogizaka@allnightnippon.com</a>まで",
+              "pfm": "乃木坂４６",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/d1d597ab-d1fd-4207-8b23-2d955112113f.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10010110973",
+              "-ft": "20231123030000",
+              "-to": "20231123043000",
+              "-ftl": "2700",
+              "-tol": "2830",
+              "-dur": "5400",
+              "title": "オールナイトニッポン０（ＺＥＲＯ）",
+              "url": "https://www.allnightnippon.com/sakuma/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "テレビ東京のプロデューサー佐久間宣行が、ニッポン放送の「オールナイトニッポン0」に挑戦！ 会社員のテレビマン、43歳で既婚者、中1の娘がいる普通のおじさんが、一生懸命しゃべります。最年長パーソナリティがお送りする「テレビ東京×ニッポン放送・メディアミックス ラジオ番組」です。",
+              "pfm": "佐久間宣行",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/3064809e-fe23-40e2-b897-0b9c90e9244e.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10009737154",
+              "-ft": "20231123043000",
+              "-to": "20231123050000",
+              "-ftl": "2830",
+              "-tol": "2900",
+              "-dur": "1800",
+              "title": "上柳昌彦　あさぼらけ",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "上柳昌彦",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/a406d36e-a542-4a1b-89d6-d97726976025.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
