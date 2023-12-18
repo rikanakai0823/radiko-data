@@ -1,0 +1,806 @@
+{
+  "radiko": {
+    "ttl": "1800",
+    "srvtime": "1702924125",
+    "stations": {
+      "station": {
+        "-id": "KBC",
+        "name": "KBCラジオ",
+        "progs": {
+          "date": "20231224",
+          "prog": [
+            {
+              "-id": "10044418956",
+              "-ft": "20231224050000",
+              "-to": "20231224052000",
+              "-ftl": "0500",
+              "-tol": "0520",
+              "-dur": "1200",
+              "title": "おはようラジオ早朝便",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "パーソナリティ：宮島明子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/19d8fa63-0656-401c-b363-ea37daff1905.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "宮島明子"
+                  },
+                  {
+                    "name": "早朝"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10046603027",
+              "-ft": "20231224052000",
+              "-to": "20231224053500",
+              "-ftl": "0520",
+              "-tol": "0535",
+              "-dur": "900",
+              "title": "旬！ＳＨＵＮ！ピックアップ",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "ねづっち　竹内都子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/19d8fa63-0656-401c-b363-ea37daff1905.png",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10044419022",
+              "-ft": "20231224053500",
+              "-to": "20231224054500",
+              "-ftl": "0535",
+              "-tol": "0545",
+              "-dur": "600",
+              "title": "信仰の時間",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/19d8fa63-0656-401c-b363-ea37daff1905.png",
+              "genre": {
+                "program": {
+                  "-id": "P016",
+                  "name": "宗教"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10044419034",
+              "-ft": "20231224054500",
+              "-to": "20231224060000",
+              "-ftl": "0545",
+              "-tol": "0600",
+              "-dur": "900",
+              "title": "ＡＩシャッフルミュージック",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/bcc82ac0-43a5-4263-b86a-fac8945f460c.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10044376719",
+              "-ft": "20231224060000",
+              "-to": "20231224061500",
+              "-ftl": "0600",
+              "-tol": "0615",
+              "-dur": "900",
+              "title": "いいもの生活便（6:00）",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/19d8fa63-0656-401c-b363-ea37daff1905.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10046592654",
+              "-ft": "20231224061500",
+              "-to": "20231224062500",
+              "-ftl": "0615",
+              "-tol": "0625",
+              "-dur": "600",
+              "title": "おはよう！ニッポン全国消防団",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/19d8fa63-0656-401c-b363-ea37daff1905.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10044419150",
+              "-ft": "20231224062500",
+              "-to": "20231224064000",
+              "-ftl": "0625",
+              "-tol": "0640",
+              "-dur": "900",
+              "title": "Music Selection （再）",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/9c89f960-1a0f-41f3-9638-3eb8ab5df3ee.png",
+              "tag": {
+                "item": {
+                  "name": "気分転換におすすめ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10044874700",
+              "-ft": "20231224064000",
+              "-to": "20231224064500",
+              "-ftl": "0640",
+              "-tol": "0645",
+              "-dur": "300",
+              "title": "えがおの教室",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "『えがおの教室』は笑顔のアドバイザー天宮玲桜さんがモヤモヤ気分を笑顔に変換していく番組です。",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"egao@kbc.co.jp\">egao@kbc.co.jp</a>",
+              "pfm": "天宮玲桜、加藤恭子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/6e5ec0df-f144-47fd-9d32-2c6cc53fd05c.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10044376873",
+              "-ft": "20231224064500",
+              "-to": "20231224070000",
+              "-ftl": "0645",
+              "-tol": "0700",
+              "-dur": "900",
+              "title": "健康生活だより",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/19d8fa63-0656-401c-b363-ea37daff1905.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10044376941",
+              "-ft": "20231224070000",
+              "-to": "20231224071500",
+              "-ftl": "0700",
+              "-tol": "0715",
+              "-dur": "900",
+              "title": "いいもの生活便（7:00）",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/19d8fa63-0656-401c-b363-ea37daff1905.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10044874760",
+              "-ft": "20231224071500",
+              "-to": "20231224073000",
+              "-ftl": "0715",
+              "-tol": "0730",
+              "-dur": "900",
+              "title": "大徳寺昭輝の天の夢",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "FAX 092-722-4242<br/>mail：<a href=\"mailto:daitokuji@kbc.co.jp\">daitokuji@kbc.co.jp</a>",
+              "pfm": "パーソナリティ：大徳寺昭輝",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/19d8fa63-0656-401c-b363-ea37daff1905.png",
+              "genre": {
+                "program": {
+                  "-id": "P016",
+                  "name": "宗教"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10046603140",
+              "-ft": "20231224073000",
+              "-to": "20231224074500",
+              "-ftl": "0730",
+              "-tol": "0745",
+              "-dur": "900",
+              "title": "健やかインフォメーション（7:30）",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/19d8fa63-0656-401c-b363-ea37daff1905.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10044419402",
+              "-ft": "20231224074500",
+              "-to": "20231224075500",
+              "-ftl": "0745",
+              "-tol": "0755",
+              "-dur": "600",
+              "title": "おはようクラシック",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "FAX 092-722-4242<br/>mail：<a href=\"\"\"\"mailto:ohayou@kbc.co.jp\"\"\"\">ohayou@kbc.co.jp</a>",
+              "pfm": "パーソナリティ：古賀久美子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/2551fd82-0343-4efe-9f36-60850eda419c.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10044689948",
+              "-ft": "20231224075500",
+              "-to": "20231224080000",
+              "-ftl": "0755",
+              "-tol": "0800",
+              "-dur": "300",
+              "title": "KBC ニュース＆天気",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/ac26946b-5ccd-4113-a88a-465294229d10.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ニュース"
+                  },
+                  {
+                    "name": "天気"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10044419450",
+              "-ft": "20231224080000",
+              "-to": "20231224083000",
+              "-ftl": "0800",
+              "-tol": "0830",
+              "-dur": "1800",
+              "title": "サトコノヘヤ",
+              "url": "https://kbc.co.jp/r-radio/satoko/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "ゲスト：加藤和樹（俳優・歌手）",
+              "info": "<br/>1人暮らしが長～いオクダサトコ。週末は1人、部屋で寛ぐのがサトコの楽しみ…。<br/>日曜日のモーニングタイムにサトコがコーヒーを注ぐと…なぜか、必ず、誰かが“サトコの部屋”を訪ねてくるのです…。<br/>FAX 092-722-4242<br/>mail：<a href=\"mailto:satoko@kbc.co.jp\">satoko@kbc.co.jp</a>",
+              "pfm": "パーソナリティ：奥田智子",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/ab1jvfqmj8.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "サクッと短時間で聴ける"
+                  },
+                  {
+                    "name": "気分転換におすすめ"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10044419503",
+              "-ft": "20231224083000",
+              "-to": "20231224090000",
+              "-ftl": "0830",
+              "-tol": "0900",
+              "-dur": "1800",
+              "title": "ＫＢＣ  Ｓｕｎｄａｙ  Ｍｕｓｉｃ  Ｈｏｕｒ",
+              "url": "https://kbc.co.jp/smh/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "70年代から80年代の洋・邦楽の音楽リクエスト番組。 ",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:smh@kbc.co.jp\">smh@kbc.co.jp</a>",
+              "pfm": "小柳有紀",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/751bba8e-f495-49ef-8dd4-83803c10c6a6.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "気分転換におすすめ"
+                  },
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "ドライブ中におすすめ"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10046603178",
+              "-ft": "20231224090000",
+              "-to": "20231224091500",
+              "-ftl": "0900",
+              "-tol": "0915",
+              "-dur": "900",
+              "title": "小倉・IMALU の○○玉手箱",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "MC：小倉淳　IMALU",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/b3276d2c-4c2b-4d15-af4a-7c971fe992ba.png",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10044690129",
+              "-ft": "20231224091500",
+              "-to": "20231224092000",
+              "-ftl": "0915",
+              "-tol": "0920",
+              "-dur": "300",
+              "title": "KBC ニュース＆天気",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/ac26946b-5ccd-4113-a88a-465294229d10.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ニュース"
+                  },
+                  {
+                    "name": "天気"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10046603184",
+              "-ft": "20231224092000",
+              "-to": "20231224093500",
+              "-ftl": "0920",
+              "-tol": "0935",
+              "-dur": "900",
+              "title": "健やかインフォメーション（9:20）",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/19d8fa63-0656-401c-b363-ea37daff1905.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10044419627",
+              "-ft": "20231224093500",
+              "-to": "20231224115000",
+              "-ftl": "0935",
+              "-tol": "1150",
+              "-dur": "8100",
+              "title": "ＫＢＣ  Ｓｕｎｄａｙ  Ｍｕｓｉｃ  Ｈｏｕｒ",
+              "url": "https://kbc.co.jp/smh/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "70年代から80年代の洋・邦楽の音楽リクエスト番組。 ",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:smh@kbc.co.jp\">smh@kbc.co.jp</a>",
+              "pfm": "小柳有紀、富田薫",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/751bba8e-f495-49ef-8dd4-83803c10c6a6.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "気分転換におすすめ"
+                  },
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "ドライブ中におすすめ"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10044419952",
+              "-ft": "20231224115000",
+              "-to": "20231224120000",
+              "-ftl": "1150",
+              "-tol": "1200",
+              "-dur": "600",
+              "title": "風雲ラジオショッピング",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/19d8fa63-0656-401c-b363-ea37daff1905.png",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10045939992",
+              "-ft": "20231224120000",
+              "-to": "20231224140000",
+              "-ftl": "1200",
+              "-tol": "1400",
+              "-dur": "7200",
+              "title": "ＫＢＣラジオ・チャリティ・ミュージックソン(1)",
+              "url": "https://kbc.co.jp/r-radio/mson2023/index.php",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "「ミュージックソン」は「ミュージック」と「マラソン」を掛け合わせた造語であることから、<br/> ミュージックソンのMCは「メインランナー」と呼びます。<br/> 今年は、岡田理沙アナと和田侑也アナが挑戦します。<br/><br/> 「～未来つむいで～」。<br/><br/>  今年で49回を迎える KBC ラジオ・チャリティ・ミュージックソン。<br/><br/>  「目の不自由な方に音の出る信号機を」を合言葉に、<br/> 様々な人たちの“想い”や“時間”、<br/> “縁”を紡ぎながら回を重ねてきました。<br/> これからもラジオを通じて、思いやりと善意の輪が広がるよう、<br/> 時代の変化に寄り添いながら助け合える社会を目指して言葉を紡ぎ続けます。<br/>  今年の特別番組では、<br/> これからの未来へ“紡いでいきたいもの”、<br/> “紡いでいかなければならないもの”は<br/> 何なのか番組を通して考えていきます。<br/>",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:mson@kbc.co.jp\">mson@kbc.co.jp</a><br/>★Xアカントは「<a href=\"https://twitter.com/kbc_radio\">@kbc_radio</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/kbcradio_official/?hl=ja\">@kbcradio_official</a>」<br/><br/>",
+              "pfm": "メインランナー：岡田理沙・和田侑也（ＫＢＣアナウンサー）ほか",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/cec80624-84e0-4fa1-92d2-6f65a24a3879.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10045940044",
+              "-ft": "20231224140000",
+              "-to": "20231224160000",
+              "-ftl": "1400",
+              "-tol": "1600",
+              "-dur": "7200",
+              "title": "ＫＢＣラジオ・チャリティ・ミュージックソン(2)",
+              "url": "https://kbc.co.jp/r-radio/mson2023/index.php",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "「ミュージックソン」は「ミュージック」と「マラソン」を掛け合わせた造語であることから、<br/> ミュージックソンのMCは「メインランナー」と呼びます。<br/> 今年は、岡田理沙アナと和田侑也アナが挑戦します。<br/><br/> 「～未来つむいで～」。<br/><br/>  今年で49回を迎える KBC ラジオ・チャリティ・ミュージックソン。<br/><br/>  「目の不自由な方に音の出る信号機を」を合言葉に、<br/> 様々な人たちの“想い”や“時間”、<br/> “縁”を紡ぎながら回を重ねてきました。<br/> これからもラジオを通じて、思いやりと善意の輪が広がるよう、<br/> 時代の変化に寄り添いながら助け合える社会を目指して言葉を紡ぎ続けます。<br/>  今年の特別番組では、<br/> これからの未来へ“紡いでいきたいもの”、<br/> “紡いでいかなければならないもの”は<br/> 何なのか番組を通して考えていきます。<br/>",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:mson@kbc.co.jp\">mson@kbc.co.jp</a><br/>★Xアカントは「<a href=\"https://twitter.com/kbc_radio\">@kbc_radio</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/kbcradio_official/?hl=ja\">@kbcradio_official</a>」<br/><br/>",
+              "pfm": "メインランナー：岡田理沙・和田侑也（ＫＢＣアナウンサー）ほか",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/cec80624-84e0-4fa1-92d2-6f65a24a3879.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10045940087",
+              "-ft": "20231224160000",
+              "-to": "20231224180000",
+              "-ftl": "1600",
+              "-tol": "1800",
+              "-dur": "7200",
+              "title": "ＫＢＣラジオ・チャリティ・ミュージックソン(3)",
+              "url": "https://kbc.co.jp/r-radio/mson2023/index.php",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "「ミュージックソン」は「ミュージック」と「マラソン」を掛け合わせた造語であることから、<br/> ミュージックソンのMCは「メインランナー」と呼びます。<br/> 今年は、岡田理沙アナと和田侑也アナが挑戦します。<br/><br/> 「～未来つむいで～」。<br/><br/>  今年で49回を迎える KBC ラジオ・チャリティ・ミュージックソン。<br/><br/>  「目の不自由な方に音の出る信号機を」を合言葉に、<br/> 様々な人たちの“想い”や“時間”、<br/> “縁”を紡ぎながら回を重ねてきました。<br/> これからもラジオを通じて、思いやりと善意の輪が広がるよう、<br/> 時代の変化に寄り添いながら助け合える社会を目指して言葉を紡ぎ続けます。<br/>  今年の特別番組では、<br/> これからの未来へ“紡いでいきたいもの”、<br/> “紡いでいかなければならないもの”は<br/> 何なのか番組を通して考えていきます。<br/>",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:mson@kbc.co.jp\">mson@kbc.co.jp</a><br/>★Xアカントは「<a href=\"https://twitter.com/kbc_radio\">@kbc_radio</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/kbcradio_official/?hl=ja\">@kbcradio_official</a>」<br/><br/>",
+              "pfm": "メインランナー：岡田理沙・和田侑也（ＫＢＣアナウンサー）ほか",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/cec80624-84e0-4fa1-92d2-6f65a24a3879.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10045940167",
+              "-ft": "20231224180000",
+              "-to": "20231224190000",
+              "-ftl": "1800",
+              "-tol": "1900",
+              "-dur": "3600",
+              "title": "ＫＢＣラジオ・チャリティ・ミュージックソン",
+              "url": "https://kbc.co.jp/r-radio/mson2023/index.php",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "「ミュージックソン」は「ミュージック」と「マラソン」を掛け合わせた造語であることから、<br/> ミュージックソンのMCは「メインランナー」と呼びます。<br/> 今年は、岡田理沙アナと和田侑也アナが挑戦します。<br/><br/> 「～未来つむいで～」。<br/><br/>  今年で49回を迎える KBC ラジオ・チャリティ・ミュージックソン。<br/><br/>  「目の不自由な方に音の出る信号機を」を合言葉に、<br/> 様々な人たちの“想い”や“時間”、<br/> “縁”を紡ぎながら回を重ねてきました。<br/> これからもラジオを通じて、思いやりと善意の輪が広がるよう、<br/> 時代の変化に寄り添いながら助け合える社会を目指して言葉を紡ぎ続けます。<br/>  今年の特別番組では、<br/> これからの未来へ“紡いでいきたいもの”、<br/> “紡いでいかなければならないもの”は<br/> 何なのか番組を通して考えていきます。<br/> ",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:mson@kbc.co.jp\">mson@kbc.co.jp</a><br/>★Xアカントは「<a href=\"https://twitter.com/kbc_radio\">@kbc_radio</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/kbcradio_official/?hl=ja\">@kbcradio_official</a>」<br/>",
+              "pfm": "メインランナー：岡田理沙・和田侑也（ＫＢＣアナウンサー）ほか",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/cec80624-84e0-4fa1-92d2-6f65a24a3879.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10045940205",
+              "-ft": "20231224190000",
+              "-to": "20231224210000",
+              "-ftl": "1900",
+              "-tol": "2100",
+              "-dur": "7200",
+              "title": "ＫＢＣラジオ・チャリティ・ミュージックソン(1)",
+              "url": "https://kbc.co.jp/r-radio/mson2023/index.php",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "「ミュージックソン」は「ミュージック」と「マラソン」を掛け合わせた造語であることから、<br/> ミュージックソンのMCは「メインランナー」と呼びます。<br/> 今年は、岡田理沙アナと和田侑也アナが挑戦します。<br/><br/> 「～未来つむいで～」。<br/><br/>  今年で49回を迎える KBC ラジオ・チャリティ・ミュージックソン。<br/><br/>  「目の不自由な方に音の出る信号機を」を合言葉に、<br/> 様々な人たちの“想い”や“時間”、<br/> “縁”を紡ぎながら回を重ねてきました。<br/> これからもラジオを通じて、思いやりと善意の輪が広がるよう、<br/> 時代の変化に寄り添いながら助け合える社会を目指して言葉を紡ぎ続けます。<br/>  今年の特別番組では、<br/> これからの未来へ“紡いでいきたいもの”、<br/> “紡いでいかなければならないもの”は<br/> 何なのか番組を通して考えていきます。<br/>  ",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:mson@kbc.co.jp\">mson@kbc.co.jp</a><br/>★Xアカントは「<a href=\"https://twitter.com/kbc_radio\">@kbc_radio</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/kbcradio_official/?hl=ja\">@kbcradio_official</a>」<br/><br/>",
+              "pfm": "メインランナー：岡田理沙・和田侑也（ＫＢＣアナウンサー）ほか",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/cec80624-84e0-4fa1-92d2-6f65a24a3879.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10045940253",
+              "-ft": "20231224210000",
+              "-to": "20231224230000",
+              "-ftl": "2100",
+              "-tol": "2300",
+              "-dur": "7200",
+              "title": "ＫＢＣラジオ・チャリティ・ミュージックソン(2)",
+              "url": "https://kbc.co.jp/r-radio/mson2023/index.php",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "「ミュージックソン」は「ミュージック」と「マラソン」を掛け合わせた造語であることから、<br/> ミュージックソンのMCは「メインランナー」と呼びます。<br/> 今年は、岡田理沙アナと和田侑也アナが挑戦します。<br/><br/> 「～未来つむいで～」。<br/><br/>  今年で49回を迎える KBC ラジオ・チャリティ・ミュージックソン。<br/><br/>  「目の不自由な方に音の出る信号機を」を合言葉に、<br/> 様々な人たちの“想い”や“時間”、<br/> “縁”を紡ぎながら回を重ねてきました。<br/> これからもラジオを通じて、思いやりと善意の輪が広がるよう、<br/> 時代の変化に寄り添いながら助け合える社会を目指して言葉を紡ぎ続けます。<br/>  今年の特別番組では、<br/> これからの未来へ“紡いでいきたいもの”、<br/> “紡いでいかなければならないもの”は<br/> 何なのか番組を通して考えていきます。<br/>  ",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:mson@kbc.co.jp\">mson@kbc.co.jp</a><br/>★Xアカントは「<a href=\"https://twitter.com/kbc_radio\">@kbc_radio</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/kbcradio_official/?hl=ja\">@kbcradio_official</a>」<br/><br/>",
+              "pfm": "メインランナー：岡田理沙・和田侑也（ＫＢＣアナウンサー）ほか",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/cec80624-84e0-4fa1-92d2-6f65a24a3879.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10045940304",
+              "-ft": "20231224230000",
+              "-to": "20231225000000",
+              "-ftl": "2300",
+              "-tol": "2400",
+              "-dur": "3600",
+              "title": "ＫＢＣラジオ・チャリティ・ミュージックソン(3)",
+              "url": "https://kbc.co.jp/r-radio/mson2023/index.php",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "「ミュージックソン」は「ミュージック」と「マラソン」を掛け合わせた造語であることから、<br/> ミュージックソンのMCは「メインランナー」と呼びます。<br/> 今年は、岡田理沙アナと和田侑也アナが挑戦します。<br/><br/> 「～未来つむいで～」。<br/><br/>  今年で49回を迎える KBC ラジオ・チャリティ・ミュージックソン。<br/><br/>  「目の不自由な方に音の出る信号機を」を合言葉に、<br/> 様々な人たちの“想い”や“時間”、<br/> “縁”を紡ぎながら回を重ねてきました。<br/> これからもラジオを通じて、思いやりと善意の輪が広がるよう、<br/> 時代の変化に寄り添いながら助け合える社会を目指して言葉を紡ぎ続けます。<br/>  今年の特別番組では、<br/> これからの未来へ“紡いでいきたいもの”、<br/> “紡いでいかなければならないもの”は<br/> 何なのか番組を通して考えていきます。<br/>  ",
+              "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:mson@kbc.co.jp\">mson@kbc.co.jp</a><br/>★Xアカントは「<a href=\"https://twitter.com/kbc_radio\">@kbc_radio</a>」<br/>★instagramアカウントは「<a href=\"https://www.instagram.com/kbcradio_official/?hl=ja\">@kbcradio_official</a>」<br/><br/>",
+              "pfm": "メインランナー：岡田理沙・和田侑也（ＫＢＣアナウンサー）ほか",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/cec80624-84e0-4fa1-92d2-6f65a24a3879.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10045940346",
+              "-ft": "20231225000000",
+              "-to": "20231225010000",
+              "-ftl": "2400",
+              "-tol": "2500",
+              "-dur": "3600",
+              "title": "第49回　ニッポン放送　ラジオ・チャリティ・ミュージックソン",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "久保史緒里（乃木坂46）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/721029ad-ab52-4a8c-a4c9-69e6373d79ca.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10046595081",
+              "-ft": "20231225010000",
+              "-to": "20231225050000",
+              "-ftl": "2500",
+              "-tol": "2900",
+              "-dur": "14400",
+              "title": "乃木坂46のオールナイトニッポン～ラジオ・チャリティ・ミュージックソンスペシャル～",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "久保史緒里（乃木坂46）",
+              "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/KBC/0ce23777-3a2b-49f1-b937-75557f7bcb49.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
