@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1706034541",
+    "srvtime": "1706120904",
     "stations": {
       "station": {
         "-id": "FM-FUJI",
@@ -820,7 +820,7 @@
               }
             },
             {
-              "-id": "10084777613",
+              "-id": "10085646477",
               "-ft": "20240124233000",
               "-to": "20240125000000",
               "-ftl": "2330",
@@ -836,8 +836,29 @@
               "pfm": "秋本帆華（TEAM SHACHI）",
               "img": "https://radiko.jp/res/program/DEFAULT_IMAGE/FM-FUJI/0a34442a-37e1-4718-a052-7875733bfbe7.png",
               "tag": {
-                "item": {
-                  "name": "学生におすすめ"
+                "item": [
+                  {
+                    "name": "学生におすすめ"
+                  },
+                  {
+                    "name": "TEAM SHACHI"
+                  },
+                  {
+                    "name": "秋本帆華"
+                  },
+                  {
+                    "name": "ウルトラGT"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
