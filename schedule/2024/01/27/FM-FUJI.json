@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1706205917",
+    "srvtime": "1706551509",
     "stations": {
       "station": {
         "-id": "FM-FUJI",
@@ -439,8 +439,23 @@
               "pfm": "PONEY",
               "img": "https://program-static.cf.radiko.jp/bbd44c31-28ac-47ac-89a0-39df29b5b772.png",
               "tag": {
-                "item": {
-                  "name": "音楽との出会いが楽しめる"
+                "item": [
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "PONEY"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {

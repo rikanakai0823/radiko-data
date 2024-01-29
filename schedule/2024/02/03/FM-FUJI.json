@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1706465123",
+    "srvtime": "1706551522",
     "stations": {
       "station": {
         "-id": "FM-FUJI",
@@ -62,7 +62,7 @@
               "desc": "身近な健康の悩みをテーマに、予防法などをアドバイスする健康情報番組です。",
               "info": "Xアカウントは「<a href=\"http://twitter.com/jocvfm\">@jocvfm</a>」",
               "pfm": "立松さとる / 島田ゆかり",
-              "img": "https://program-static.cf.radiko.jp/77bbcead-7992-4003-85c7-db5f9b306f2b.jpeg",
+              "img": "https://program-static.cf.radiko.jp/7bb45ac5-04d7-4cef-833b-efcc58dcc05f.jpeg",
               "tag": {
                 "item": {
                   "name": "サクッと短時間で聴ける"
@@ -472,8 +472,23 @@
               "pfm": "PONEY",
               "img": "https://program-static.cf.radiko.jp/bbd44c31-28ac-47ac-89a0-39df29b5b772.png",
               "tag": {
-                "item": {
-                  "name": "音楽との出会いが楽しめる"
+                "item": [
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "PONEY"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
