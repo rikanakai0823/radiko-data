@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1706812213",
+    "srvtime": "1706898313",
     "stations": {
       "station": {
         "-id": "RNC",
@@ -23,6 +23,21 @@
               "info": "一日のスタートをフレッシュに演出する番組です。",
               "pfm": "末田倫子",
               "img": "https://program-static.cf.radiko.jp/ffb419da-25e3-45df-b1c9-59bd3bc95630.jpeg",
+              "tag": {
+                "item": {
+                  "name": "末田倫子"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -211,6 +226,26 @@
               "info": "ニュース/交通/お天気/スポーツなど、話題満載でお届けします！メッセージは、sawayaka@rnc.co.jp",
               "pfm": "岸たけし　山内怜奈",
               "img": "https://program-static.cf.radiko.jp/4lo20woobs.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "山内怜奈"
+                  },
+                  {
+                    "name": "岸たけし"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -270,6 +305,26 @@
               "info": "ニュース/交通/お天気/スポーツなど、話題満載でお届けします！メッセージは、sawayaka@rnc.co.jp",
               "pfm": "岸たけし　山内怜奈",
               "img": "https://program-static.cf.radiko.jp/4lo20woobs.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "山内怜奈"
+                  },
+                  {
+                    "name": "岸たけし"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -750,6 +805,21 @@
               "info": "ラジオのブースで繰り広げられる時間いっぱいの全力トーク！何事にも全力で挑んできたあばれる君による今、話題のエンタメニュースの切り込みやリスナーからのメールの真剣読み、さらには趣味についても熱く語っていきます。",
               "pfm": "あばれる君",
               "img": "https://program-static.cf.radiko.jp/e3c296b5-681d-41da-a95b-e5b930aca1ea.jpeg",
+              "tag": {
+                "item": {
+                  "name": "あばれる君"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -818,6 +888,16 @@
                     "name": "ここをこう"
                   }
                 ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
               },
               "metas": {
                 "meta": {
@@ -975,6 +1055,16 @@
                     "name": "鰻和弘"
                   }
                 ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
               },
               "metas": {
                 "meta": {
