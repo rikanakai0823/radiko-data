@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1707157513",
+    "srvtime": "1707243913",
     "stations": {
       "station": {
         "-id": "LOVEFM",
@@ -93,11 +93,13 @@
               "-ftl": "0700",
               "-tol": "0800",
               "-dur": "3600",
-              "url": "http://lovefm.co.jp//programs/more",
+              "title": "SUNDAY JAZZ MORNING",
+              "url": "http://lovefm.co.jp/sunday_jazz/programs/more",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/hwdbci64dm.jpg",
+              "info": "<p>【JAZZ】の名のもと、Jazz Classicsをはじめ、Easy Jazz、Club Jazz、Modern Jazz、Jazz Hip-Hop、Jazz Beatsなど、様々なJazzをお送りします。</p>",
+              "img": "https://program-static.cf.radiko.jp/7l2g5l751f.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -108,15 +110,18 @@
             {
               "-id": "9503436",
               "-ft": "20240211080000",
-              "-to": "20240211090000",
+              "-to": "20240211094500",
               "-ftl": "0800",
-              "-tol": "0900",
-              "-dur": "3600",
-              "url": "http://lovefm.co.jp//programs/more",
+              "-tol": "0945",
+              "-dur": "6300",
+              "title": "Earth Feeling",
+              "url": "http://lovefm.co.jp/earth_feeling/programs/more",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/hwdbci64dm.jpg",
+              "info": "<p>週末の朝、LOVE FMから流れてくるのは、DJのクールなヴォイスと心地よいヒーリング・ミュージック…。<br />リラクゼーション・プログラム「Earth Feeling」は、この２つが微妙に絡み合いながら、極上のやすらぎ空間を創りだし、心と身体にたっぷりとビタミンを補給してくれます。週末のトピックスやお天気の話題にもふれながら、自然環境、健康、美容、癒しなど、世界中から届いた上質な情報をヒーリングサウンドにのせて紹介。波、鳥、川、風などの音もミックスし、自然の鼓動をよりイマジネイティブに伝えていきます。 </p>",
+              "pfm": "Colleen",
+              "img": "https://program-static.cf.radiko.jp/88fz6uy932.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -125,44 +130,28 @@
               }
             },
             {
-              "-id": "9511990",
-              "-ft": "20240211090000",
-              "-to": "20240211103000",
-              "-ftl": "0900",
-              "-tol": "1030",
-              "-dur": "5400",
-              "title": "常盤響のニューレコード",
-              "url": "http://lovefm.co.jp/transit_radio_mon/programs/more",
+              "-id": "9520854",
+              "-ft": "20240211094500",
+              "-to": "20240211100000",
+              "-ftl": "0945",
+              "-tol": "1000",
+              "-dur": "900",
+              "title": "今旬！インフォメーション",
+              "url": "http://lovefm.co.jp/imasyun/programs/more",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<p>常盤響が、アナログレコードONLYでお送りする音楽プログラム</p><p>「常盤響のニューレコード」</p><p>世界の知られざる音楽や日本の隠れた名曲をアナログレコードでオンエア。</p><p> </p><p>本放送：毎週（金）22:00～23:30</p><p>再放送：毎週（日）13:00～14:30　</p><p> </p><p> </p><p> </p><br /><p><b>Corner</b></p><br /><p><b>ゴーゴー・ニューレコード</b></p><p>FRI：22:20-</p><br /><p><b>ニッポンのニューレコード</b></p><p>FRI：23:00-</p>",
-              "pfm": "常盤 響",
-              "img": "https://program-static.cf.radiko.jp/m2hpwckz5j.jpg",
+              "info": "<p>ラジオショッピング番組</p>",
+              "img": "https://program-static.cf.radiko.jp/hwdbci64dm.jpg",
               "tag": {
-                "item": [
-                  {
-                    "name": "常盤響"
-                  },
-                  {
-                    "name": "レコード"
-                  },
-                  {
-                    "name": "音楽"
-                  },
-                  {
-                    "name": "カメラマン"
-                  }
-                ]
+                "item": {
+                  "name": "ラジオショッピング"
+                }
               },
               "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -173,11 +162,11 @@
               }
             },
             {
-              "-id": "9511991",
-              "-ft": "20240211103000",
-              "-to": "20240211113000",
-              "-ftl": "1030",
-              "-tol": "1130",
+              "-id": "9520855",
+              "-ft": "20240211100000",
+              "-to": "20240211110000",
+              "-ftl": "1000",
+              "-tol": "1100",
               "-dur": "3600",
               "title": "明治産業 presents OUR CULTURE, OUR VIEW",
               "url": "http://lovefm.co.jp/culture_view/programs/more",
@@ -236,17 +225,62 @@
               }
             },
             {
-              "-id": "9511992",
-              "-ft": "20240211113000",
-              "-to": "20240211130000",
-              "-ftl": "1130",
-              "-tol": "1300",
-              "-dur": "5400",
-              "url": "http://lovefm.co.jp//programs/more",
+              "-id": "9520856",
+              "-ft": "20240211110000",
+              "-to": "20240211120000",
+              "-ftl": "1100",
+              "-tol": "1200",
+              "-dur": "3600",
+              "title": "POPTAPE",
+              "url": "http://lovefm.co.jp/poptape/programs/more",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/hwdbci64dm.jpg",
+              "info": "<p><span style=\"font-size: medium;\"><strong>「POPにサキドリ！」</strong></span><br />アレって見た？あの人知ってる？ アレってもう食べた？<br />SNSでティーンエイジを中心にバズっている情報を<br /><span style=\"font-size: small;\"><strong>サキドリ！</strong></span></p><p><br />POPでFRESHなトークを1本のテープに詰め込んだプログラム！DJ Sakikoと大学生DJが日曜日のお昼どきを盛り上げます！！</p><p> </p><p><span style=\"font-size: small;\"><strong>☆Official YouTube Channel で番組生配信！<br /></strong><span style=\"font-size: x-small;\"><a href=\"https://www.youtube.com/channel/UCHqDffcH3EJn8UjS7X0ZQdA\" target=\"_blank\">https://www.youtube.com/channel/UCHqDffcH3EJn8UjS7X0ZQdA</a></span><strong><br /></strong></span></p><br /><p><b>Corner</b></p><br /><p><b>N×Girls Like it！（エヌカケル ガールズライキット）</b></p><p>福岡でよくみる西鉄グループ<br />実はバスや電車以外にも…！</p><p>そんな西鉄グループにまつわるいろんなことを紹介しているオンラインマガジン「N× エヌカケル」<br />大学生DJが「N× エヌカケル」から気になる話題をピックアップ！<br />Z世代のリアルな目線で「エヌカケル」をひもときます！<br /><br /></p><h3 class=\"LC20lb MBeuO DKV0Md\"><span style=\"font-size: x-small;\">NISHITETSU ONLINE MAGAZINE </span><strong>N× エヌカケル</strong></h3><p><span style=\"font-size: small;\"><a href=\"https://nnr-nx.jp/\" target=\"_blank\"><strong>https://nnr-nx.jp/</strong></a></span></p>（提供：<a href=\"https://www.nishitetsu.jp/\" target=\"_blank\">西鉄グループ</a>）<br />",
+              "pfm": "Sakiko,神元七海,香山華,山口愛華,桑原結衣",
+              "img": "https://program-static.cf.radiko.jp/kuty72xwwe.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9520857",
+              "-ft": "20240211120000",
+              "-to": "20240211130000",
+              "-ftl": "1200",
+              "-tol": "1300",
+              "-dur": "3600",
+              "title": "POPTAPE",
+              "url": "http://lovefm.co.jp/poptape/programs/more",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<p><span style=\"font-size: medium;\"><strong>「POPにサキドリ！」</strong></span><br />アレって見た？あの人知ってる？ アレってもう食べた？<br />SNSでティーンエイジを中心にバズっている情報を<br /><span style=\"font-size: small;\"><strong>サキドリ！</strong></span></p><p><br />POPでFRESHなトークを1本のテープに詰め込んだプログラム！DJ Sakikoと大学生DJが日曜日のお昼どきを盛り上げます！！</p><p> </p><p><span style=\"font-size: small;\"><strong>☆Official YouTube Channel で番組生配信！<br /></strong><span style=\"font-size: x-small;\"><a href=\"https://www.youtube.com/channel/UCHqDffcH3EJn8UjS7X0ZQdA\" target=\"_blank\">https://www.youtube.com/channel/UCHqDffcH3EJn8UjS7X0ZQdA</a></span><strong><br /></strong></span></p><br /><p><b>Corner</b></p><br /><p><b>N×Girls Like it！（エヌカケル ガールズライキット）</b></p><p>福岡でよくみる西鉄グループ<br />実はバスや電車以外にも…！</p><p>そんな西鉄グループにまつわるいろんなことを紹介しているオンラインマガジン「N× エヌカケル」<br />大学生DJが「N× エヌカケル」から気になる話題をピックアップ！<br />Z世代のリアルな目線で「エヌカケル」をひもときます！<br /><br /></p><h3 class=\"LC20lb MBeuO DKV0Md\"><span style=\"font-size: x-small;\">NISHITETSU ONLINE MAGAZINE </span><strong>N× エヌカケル</strong></h3><p><span style=\"font-size: small;\"><a href=\"https://nnr-nx.jp/\" target=\"_blank\"><strong>https://nnr-nx.jp/</strong></a></span></p>（提供：<a href=\"https://www.nishitetsu.jp/\" target=\"_blank\">西鉄グループ</a>）<br />",
+              "pfm": "Sakiko,神元七海,香山華,山口愛華,桑原結衣",
+              "img": "https://program-static.cf.radiko.jp/kuty72xwwe.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -257,15 +291,18 @@
             {
               "-id": "9503440",
               "-ft": "20240211130000",
-              "-to": "20240211144500",
+              "-to": "20240211143000",
               "-ftl": "1300",
-              "-tol": "1445",
-              "-dur": "6300",
-              "url": "http://lovefm.co.jp//programs/more",
+              "-tol": "1430",
+              "-dur": "5400",
+              "title": "常盤響のニューレコード",
+              "url": "http://lovefm.co.jp/transit_radio_mon/programs/more",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/hwdbci64dm.jpg",
+              "info": "<p>常盤響が、アナログレコードONLYでお送りする音楽プログラム</p><p>「常盤響のニューレコード」</p><p>世界の知られざる音楽や日本の隠れた名曲をアナログレコードでオンエア。</p><p> </p><p>本放送：毎週（金）22:00～23:30</p><p>再放送：毎週（日）13:00～14:30　</p><p> </p><p> </p><p> </p><br /><p><b>Corner</b></p><br /><p><b>ゴーゴー・ニューレコード</b></p><p>FRI：22:20-</p><br /><p><b>ニッポンのニューレコード</b></p><p>FRI：23:00-</p>",
+              "pfm": "常盤 響",
+              "img": "https://program-static.cf.radiko.jp/m2hpwckz5j.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -274,51 +311,46 @@
               }
             },
             {
-              "-id": "9511993",
-              "-ft": "20240211144500",
-              "-to": "20240211150000",
-              "-ftl": "1445",
-              "-tol": "1500",
-              "-dur": "900",
-              "url": "http://lovefm.co.jp//programs/more",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/hwdbci64dm.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9503442",
-              "-ft": "20240211150000",
+              "-id": "9520858",
+              "-ft": "20240211143000",
               "-to": "20240211160000",
-              "-ftl": "1500",
+              "-ftl": "1430",
               "-tol": "1600",
-              "-dur": "3600",
-              "title": "GOGO競馬サンデー！",
-              "url": "http://lovefm.co.jp/GOGOks/programs/more",
+              "-dur": "5400",
+              "title": "RND (Rock n' Roll Is Not Dead)",
+              "url": "http://lovefm.co.jp/RND/programs/more",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<p>JRA日本中央競馬会より競馬中継をお届けします。</p>",
-              "img": "https://program-static.cf.radiko.jp/vb2l9zrwfg.jpg",
+              "info": "<p>ロックとは過去のものになってしまったのか？と自問自答しながら、そんなことはないはずであるというDJと番組スタッフの会話から、【Rock n’ Roll is Not Dead】を番組にコンセプトにしたAll Music Loverにお送りする音楽プログラム。毎月テーマを決めて、それに合った音楽をお楽しみください。</p>",
+              "img": "https://program-static.cf.radiko.jp/gdp2mebdz2.jpg",
               "tag": {
-                "item": {
-                  "name": "競馬"
-                }
+                "item": [
+                  {
+                    "name": "SINFUL"
+                  },
+                  {
+                    "name": "ROCK"
+                  },
+                  {
+                    "name": "ロック"
+                  },
+                  {
+                    "name": "音楽"
+                  },
+                  {
+                    "name": "MUSIC"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 },
                 "program": {
-                  "-id": "P019",
-                  "name": "公営競技"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -331,15 +363,132 @@
             {
               "-id": "9503443",
               "-ft": "20240211160000",
-              "-to": "20240211190000",
+              "-to": "20240211170000",
               "-ftl": "1600",
-              "-tol": "1900",
-              "-dur": "10800",
-              "url": "http://lovefm.co.jp//programs/more",
+              "-tol": "1700",
+              "-dur": "3600",
+              "title": "Spin the Wheel SUNDAY",
+              "url": "http://lovefm.co.jp/spin_the_wheel_sunday/programs/more",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/hwdbci64dm.jpg",
+              "info": "<p>現在、２１年目を迎えたDJ MIX SHOW PROGRAM。<br />最新のCLUB HITから、K-POP、Japanese HIPHOP、往年のSOUL MUSICまで、<br />UP TO DATEなCLUB TUNE満載でお届け中♪<br />リクエストミックスやカラオケミックスなど、SPIN Sundayでしか楽しめないコンテンツもお楽しみに！<br /><br /><br />X アカウント：<a href=\"https://twitter.com/761spin\" target=\"_blank\">@761spin</a><br />番組ハッシュタグ：<a href=\"https://twitter.com/search/?q=%23761spin\" target=\"_blank\"><span style=\"color: #0000ff;\">#761spin</span></a></p><br /><p><b>Corner</b></p><br /><p><b>AI  Headline News（日）</b></p><p><span>16:45-</span></p><br /><p><b>SUNDAY SOUL MIX  （17:25 頃）</b></p><p>70’s 80’s 90’sの名ソウルナンバーから、レアなソウルナンバーまでをDJ NUKUPAPAがSPIN!</p><br /><p><b>Request MIX & KAWAOKE MIX（18:25 頃）</b></p><p>リスナーの皆さんの今聴きたいナンバーをSpin CrewがLIVE SPIN!!<br />歌謡曲から洋楽ロックまで、国籍やジャンルを超えたリクエストをお待ちしています♪</p><br /><p><b>バースデーコール（18:45頃）</b></p><p>月曜日から日曜日までに誕生日を迎えられた方へ、バースデーコール?</p><br /><p><b>HOT SPIN</b></p><p>18:54～</p>",
+              "pfm": "Miki,SPIN CREW,DJ HIGA,DJ MACHA,DJ MASA,DJ NACCHA,DJ NAOTO,DJ NAWON,DJ NOBU-44,DJ NUKU,DJ SAMURAI,DJ VIZZY,DJ TAKKUN,Lina",
+              "img": "https://program-static.cf.radiko.jp/4xwe1xf47j.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9520859",
+              "-ft": "20240211170000",
+              "-to": "20240211180000",
+              "-ftl": "1700",
+              "-tol": "1800",
+              "-dur": "3600",
+              "title": "Spin the Wheel SUNDAY",
+              "url": "http://lovefm.co.jp/spin_the_wheel_sunday/programs/more",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<p>現在、２１年目を迎えたDJ MIX SHOW PROGRAM。<br />最新のCLUB HITから、K-POP、Japanese HIPHOP、往年のSOUL MUSICまで、<br />UP TO DATEなCLUB TUNE満載でお届け中♪<br />リクエストミックスやカラオケミックスなど、SPIN Sundayでしか楽しめないコンテンツもお楽しみに！<br /><br /><br />X アカウント：<a href=\"https://twitter.com/761spin\" target=\"_blank\">@761spin</a><br />番組ハッシュタグ：<a href=\"https://twitter.com/search/?q=%23761spin\" target=\"_blank\"><span style=\"color: #0000ff;\">#761spin</span></a></p><br /><p><b>Corner</b></p><br /><p><b>AI  Headline News（日）</b></p><p><span>16:45-</span></p><br /><p><b>SUNDAY SOUL MIX  （17:25 頃）</b></p><p>70’s 80’s 90’sの名ソウルナンバーから、レアなソウルナンバーまでをDJ NUKUPAPAがSPIN!</p><br /><p><b>Request MIX & KAWAOKE MIX（18:25 頃）</b></p><p>リスナーの皆さんの今聴きたいナンバーをSpin CrewがLIVE SPIN!!<br />歌謡曲から洋楽ロックまで、国籍やジャンルを超えたリクエストをお待ちしています♪</p><br /><p><b>バースデーコール（18:45頃）</b></p><p>月曜日から日曜日までに誕生日を迎えられた方へ、バースデーコール?</p><br /><p><b>HOT SPIN</b></p><p>18:54～</p>",
+              "pfm": "Miki,SPIN CREW,DJ HIGA,DJ MACHA,DJ MASA,DJ NACCHA,DJ NAOTO,DJ NAWON,DJ NOBU-44,DJ NUKU,DJ SAMURAI,DJ VIZZY,DJ TAKKUN,Lina",
+              "img": "https://program-static.cf.radiko.jp/4xwe1xf47j.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ダンス"
+                  },
+                  {
+                    "name": "DJ"
+                  },
+                  {
+                    "name": "クラブ"
+                  },
+                  {
+                    "name": "ダンスミュージック"
+                  },
+                  {
+                    "name": "クラブミュージック"
+                  },
+                  {
+                    "name": "DJMIX"
+                  },
+                  {
+                    "name": "761spin"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9520860",
+              "-ft": "20240211180000",
+              "-to": "20240211190000",
+              "-ftl": "1800",
+              "-tol": "1900",
+              "-dur": "3600",
+              "title": "Spin the Wheel SUNDAY",
+              "url": "http://lovefm.co.jp/spin_the_wheel_sunday/programs/more",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<p>現在、２１年目を迎えたDJ MIX SHOW PROGRAM。<br />最新のCLUB HITから、K-POP、Japanese HIPHOP、往年のSOUL MUSICまで、<br />UP TO DATEなCLUB TUNE満載でお届け中♪<br />リクエストミックスやカラオケミックスなど、SPIN Sundayでしか楽しめないコンテンツもお楽しみに！<br /><br /><br />X アカウント：<a href=\"https://twitter.com/761spin\" target=\"_blank\">@761spin</a><br />番組ハッシュタグ：<a href=\"https://twitter.com/search/?q=%23761spin\" target=\"_blank\"><span style=\"color: #0000ff;\">#761spin</span></a></p><br /><p><b>Corner</b></p><br /><p><b>AI  Headline News（日）</b></p><p><span>16:45-</span></p><br /><p><b>SUNDAY SOUL MIX  （17:25 頃）</b></p><p>70’s 80’s 90’sの名ソウルナンバーから、レアなソウルナンバーまでをDJ NUKUPAPAがSPIN!</p><br /><p><b>Request MIX & KAWAOKE MIX（18:25 頃）</b></p><p>リスナーの皆さんの今聴きたいナンバーをSpin CrewがLIVE SPIN!!<br />歌謡曲から洋楽ロックまで、国籍やジャンルを超えたリクエストをお待ちしています♪</p><br /><p><b>バースデーコール（18:45頃）</b></p><p>月曜日から日曜日までに誕生日を迎えられた方へ、バースデーコール?</p><br /><p><b>HOT SPIN</b></p><p>18:54～</p>",
+              "pfm": "Miki,SPIN CREW,DJ HIGA,DJ MACHA,DJ MASA,DJ NACCHA,DJ NAOTO,DJ NAWON,DJ NOBU-44,DJ NUKU,DJ SAMURAI,DJ VIZZY,DJ TAKKUN,Lina",
+              "img": "https://program-static.cf.radiko.jp/4xwe1xf47j.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ダンス"
+                  },
+                  {
+                    "name": "DJ"
+                  },
+                  {
+                    "name": "クラブ"
+                  },
+                  {
+                    "name": "ダンスミュージック"
+                  },
+                  {
+                    "name": "クラブミュージック"
+                  },
+                  {
+                    "name": "DJMIX"
+                  },
+                  {
+                    "name": "761spin"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
