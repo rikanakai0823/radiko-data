@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1707242722",
+    "srvtime": "1707329132",
     "stations": {
       "station": {
         "-id": "ZIP-FM",
@@ -24,6 +24,16 @@
               "desc": "GOOD MUSICと、ニュース、天気など、早朝に必要な情報をコンパクトにまとめてオンエア！AIナビゲーター「ジプコ」のCUTEなトークでリスナーの１日のスタートを応援します。",
               "pfm": "ジプコ(AIナビゲーター)",
               "img": "https://program-static.cf.radiko.jp/4f4b10c7-a686-4a12-8107-53455f6548ab.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -137,6 +147,16 @@
               "info": "22:10 UNITED<BR>\n●Mon「United with Mami Naruta」<BR>\n●Tue「United with NexTone / ArtLed」<BR>\n●Wed「United with Yusuke Koide from Base Ball Bear」<BR>\n●Thu「United with FRIENDSHIP.」<BR><BR>\n\n22:32 VOICES(ARTIST PROGRAM)<BR>\n● Mon「Voices from Chevon」<BR>\n● Tue「Voices from 黒子首」<BR>\n● Wed「Voices from Lucky Kilimanjaro」<BR>\n● Thu「Voices from Furui Riho」<BR>",
               "pfm": "神原真理",
               "img": "https://program-static.cf.radiko.jp/a8b85766-0fb6-4873-924c-5687cb448eb1.png",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
