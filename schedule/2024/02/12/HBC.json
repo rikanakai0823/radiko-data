@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1707243905",
+    "srvtime": "1707416705",
     "stations": {
       "station": {
         "-id": "HBC",
@@ -42,11 +42,6 @@
               "ts_out_ng": "0",
               "info": "<center><br />＼HBCラジオ公式X(旧Twitter)／<br/><a href=\"https://twitter.com/HBC_radio1287\">@HBC_radio1287のページ</a><br/><br/>Xハッシュタグは<a href=\"https://twitter.com/hashtag/hbcradio?src=hash\">「#hbcradio」</a><br /><br/>Xアカウントは<a href=\"https://twitter.com/HBC_radio1287\">「@HBC_radio1287」</a><center/>",
               "img": "https://program-static.cf.radiko.jp/fe004997-74ae-46bc-acfd-b4881de34e36.png",
-              "tag": {
-                "item": {
-                  "name": "hbcradio"
-                }
-              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -664,9 +659,14 @@
               "pfm": "駒木根葵汰",
               "img": "https://program-static.cf.radiko.jp/9dfb6b96-55a8-46b3-a7e5-fd7f8004d90d.png",
               "tag": {
-                "item": {
-                  "name": "寝る前に聴きたい"
-                }
+                "item": [
+                  {
+                    "name": "寝る前に聴きたい"
+                  },
+                  {
+                    "name": "学生におすすめ"
+                  }
+                ]
               },
               "metas": {
                 "meta": {
@@ -691,9 +691,17 @@
               "pfm": "今江大地 / KinKi Kids / Hey!Say!7",
               "img": "https://program-static.cf.radiko.jp/7f375720-ec24-446b-ab4b-5db8f9399537.png",
               "tag": {
-                "item": {
-                  "name": "寝る前に聴きたい"
-                }
+                "item": [
+                  {
+                    "name": "寝る前に聴きたい"
+                  },
+                  {
+                    "name": "学生におすすめ"
+                  },
+                  {
+                    "name": "人気アーティストトーク"
+                  }
+                ]
               },
               "metas": {
                 "meta": {
