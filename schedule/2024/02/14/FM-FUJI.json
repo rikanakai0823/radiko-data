@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1707415523",
+    "srvtime": "1707501922",
     "stations": {
       "station": {
         "-id": "FM-FUJI",
@@ -795,9 +795,14 @@
               "pfm": "halca",
               "img": "https://program-static.cf.radiko.jp/725b4b26-e76a-427b-8328-e99687d5cec4.jpeg",
               "tag": {
-                "item": {
-                  "name": "学生におすすめ"
-                }
+                "item": [
+                  {
+                    "name": "学生におすすめ"
+                  },
+                  {
+                    "name": "halca"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -838,6 +843,12 @@
                   },
                   {
                     "name": "寝る前に聴きたい"
+                  },
+                  {
+                    "name": "藤井舞"
+                  },
+                  {
+                    "name": "Pure Green"
                   }
                 ]
               },

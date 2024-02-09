@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1707243910",
+    "srvtime": "1707503111",
     "stations": {
       "station": {
         "-id": "CRT",
@@ -327,10 +327,10 @@
             {
               "-id": "9507633",
               "-ft": "20240212122500",
-              "-to": "20240212124500",
+              "-to": "20240212123000",
               "-ftl": "1225",
-              "-tol": "1245",
-              "-dur": "1200",
+              "-tol": "1230",
+              "-dur": "300",
               "title": "交通情報・天気予報",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -342,6 +342,50 @@
                   "name": "ニュース/天気/交通"
                 }
               },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9533468",
+              "-ft": "20240212123000",
+              "-to": "20240212123500",
+              "-ftl": "1230",
+              "-tol": "1235",
+              "-dur": "300",
+              "title": "県政インフォメーション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/ue0qn5uefj.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9533469",
+              "-ft": "20240212123500",
+              "-to": "20240212124500",
+              "-ftl": "1235",
+              "-tol": "1245",
+              "-dur": "600",
+              "title": "社会を明るくする作文朗読",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/ue0qn5uefj.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",

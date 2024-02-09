@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1707415522",
+    "srvtime": "1707501921",
     "stations": {
       "station": {
         "-id": "ZIP-FM",
@@ -25,6 +25,10 @@
               "pfm": "ジプコ(AIナビゲーター)",
               "img": "https://program-static.cf.radiko.jp/4f4b10c7-a686-4a12-8107-53455f6548ab.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -216,10 +220,6 @@
               "pfm": "神原真理",
               "img": "https://program-static.cf.radiko.jp/a8b85766-0fb6-4873-924c-5687cb448eb1.png",
               "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
