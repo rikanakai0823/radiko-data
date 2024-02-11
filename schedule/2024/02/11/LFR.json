@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1707589810",
+    "srvtime": "1707675910",
     "stations": {
       "station": {
         "-id": "LFR",
@@ -1002,9 +1002,14 @@
               "pfm": "お見送り芸人しんいち",
               "img": "https://program-static.cf.radiko.jp/vaczs4x2zh.jpg",
               "tag": {
-                "item": {
-                  "name": "お見送り芸人しんいち"
-                }
+                "item": [
+                  {
+                    "name": "お見送り芸人しんいち"
+                  },
+                  {
+                    "name": "しんいちちょっと待って"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
