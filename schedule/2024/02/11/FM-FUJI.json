@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1707329133",
+    "srvtime": "1707761120",
     "stations": {
       "station": {
         "-id": "FM-FUJI",
@@ -797,11 +797,23 @@
               "pfm": "MAIKO(めちゃめちゃトランクス)／ジョニ男(イワイガワ)",
               "img": "https://program-static.cf.radiko.jp/11c0e235-20e6-42a6-9516-87847183473f.jpeg",
               "tag": {
-                "item": {
-                  "name": "人気アーティストトーク"
-                }
+                "item": [
+                  {
+                    "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "MAIKO(めちゃめちゃトランクス)"
+                  },
+                  {
+                    "name": "ジョニ男(イワイガワ)"
+                  }
+                ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -831,11 +843,38 @@
               "pfm": "鈴木ダイ",
               "img": "https://program-static.cf.radiko.jp/dd7a8d20-2b72-488c-bdc1-d91907ac9bcf.jpeg",
               "tag": {
-                "item": {
-                  "name": "音楽との出会いが楽しめる"
-                }
+                "item": [
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "50's"
+                  },
+                  {
+                    "name": "60's"
+                  },
+                  {
+                    "name": "70's"
+                  },
+                  {
+                    "name": "80's"
+                  },
+                  {
+                    "name": "ノスタルジック"
+                  },
+                  {
+                    "name": "山梨県"
+                  },
+                  {
+                    "name": "鈴木ダイ"
+                  }
+                ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1707676208",
+    "srvtime": "1707762010",
     "stations": {
       "station": {
         "-id": "RKC",
@@ -277,7 +277,21 @@
               "desc": "今日はどんな日？「知識が増す」をコンセプトに今まで知り得なかった様々な「○○な日」を朝一番に届けます。",
               "pfm": "大島 奈穂美",
               "img": "https://program-static.cf.radiko.jp/18ef22ef-e6db-4c36-b605-4242a5c01f27.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "今日は何の日"
+                  },
+                  {
+                    "name": "何の日"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
