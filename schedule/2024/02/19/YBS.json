@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1707849008",
+    "srvtime": "1707935411",
     "stations": {
       "station": {
         "-id": "YBS",
@@ -295,6 +295,16 @@
               "desc": "山梨の朝はこの番組からスタート！\r\nメール：mo@ybs.jp",
               "pfm": "和泉義治",
               "img": "https://program-static.cf.radiko.jp/e4d9f978-4cca-47c6-abb8-d9618e37cb9e.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -889,6 +899,12 @@
               "ts_out_ng": "0",
               "desc": "山梨の「文化」や「歴史」のルーツを発掘し次世代に繋ぐきっかけをつくる番組！",
               "img": "https://program-static.cf.radiko.jp/2b17d8cd-da83-45a3-9456-5a2625b831ae.png",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
