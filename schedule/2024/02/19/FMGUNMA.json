@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1707935415",
+    "srvtime": "1708021822",
     "stations": {
       "station": {
         "-id": "FMGUNMA",
@@ -24,6 +24,10 @@
               "pfm": "May J.",
               "img": "https://program-static.cf.radiko.jp/eb3dc8e0-f7bb-45a9-bfe7-3348f3e8e4a1.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -412,6 +416,10 @@
               "pfm": "揚妻由璃子（月・水）、大津瑛寛（火）、榊原博（木）",
               "img": "https://program-static.cf.radiko.jp/mtrfjstwgp.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -611,6 +619,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "info": "桐生市在住の音楽プロデューサーでドラマーのmabanuaによる30分の音楽番組。 CHARAや大橋トリオ、藤原さくら、星野源などのプロデューサー、ドラマーとして活躍し、Ovallのメンバーでもあるmabanuaが、オススメ曲を選曲！「ヒットチャートより愛をこめて」今週は、The Last Dinner Party 「Sinner」を解説！",
               "pfm": "mabanua",
               "img": "https://program-static.cf.radiko.jp/fhv6u2z7bc.jpg",
               "tag": {
@@ -761,9 +770,14 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "info": "「ＰＯＴＬＵＣＫ（ポットラック）」＝みんなで開く持ち寄りパーティー。 スタジオに迎えたゲストや、リスナーのあなたと「好き！」や「おすすめ！」を持ち寄って、音楽、映画、本、アートなどなど、エンタメ・カルチャーの話題を、生放送でお届けします。16時台は、SUPER BEAVERコメントオンエア！なきごとインタビューの模様も！（収録バージョン）",
               "pfm": "揚妻 由璃子",
               "img": "https://program-static.cf.radiko.jp/o7v89jzwls.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -829,9 +843,14 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "info": "・群馬出身の女優新條由芽さんが昭和の名曲を朗読「黄昏ミュージック」\n・今日のひとしな：雑誌Mart編集長のオススメ",
               "pfm": "揚妻 由璃子",
               "img": "https://program-static.cf.radiko.jp/o7v89jzwls.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -858,6 +877,10 @@
               "pfm": "田中香",
               "img": "https://program-static.cf.radiko.jp/ogesr7ynxq.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -956,39 +979,19 @@
               }
             },
             {
-              "-id": "9539288",
+              "-id": "9561742",
               "-ft": "20240219190000",
               "-to": "20240219195500",
               "-ftl": "1900",
               "-tol": "1955",
               "-dur": "3300",
-              "title": "A・O・R",
-              "url": "https://audee.jp/program/show/27332",
+              "title": "プレミアムシート～前田裕二さんに聴きたい！メモの魔力～",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "ユキ・ラインハート",
-              "img": "https://program-static.cf.radiko.jp/ntubkuvixj.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "音楽との出会いが楽しめる"
-                  },
-                  {
-                    "name": "ドライブ中におすすめ"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
+              "info": "実業家、著作家、コメンテーターの前田裕二さんをお迎えして、特別番組「プレミアムシート」をオンエアします。SHOWROOM株式会社代表取締役社長：前田裕二さんの著書『メモの魔力』は、75万部を突破するベストセラーとなっています。前田裕二さんの幼少期の話、ビジネス、メモの魔力について深く深くインタビュー！リスナーのあなたからの質問にも丁寧にお答えします。",
+              "pfm": "前田裕二、田中 香",
+              "img": "https://program-static.cf.radiko.jp/d60b8556-5ab1-42e2-ad7c-2059b08535d3.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",

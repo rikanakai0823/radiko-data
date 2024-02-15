@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1707935406",
+    "srvtime": "1708021805",
     "stations": {
       "station": {
         "-id": "FMGUNMA",
@@ -248,7 +248,21 @@
               "ts_out_ng": "0",
               "pfm": "山田五郎　中川翔子",
               "img": "https://program-static.cf.radiko.jp/ce4e2fba-a335-414c-aed1-67b54b90a5a7.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "山田五郎"
+                  },
+                  {
+                    "name": "中川翔子"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -416,6 +430,10 @@
               "pfm": "揚妻由璃子（月・水）、大津瑛寛（火）、榊原博（木）",
               "img": "https://program-static.cf.radiko.jp/mtrfjstwgp.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -788,9 +806,14 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "info": "「ＰＯＴＬＵＣＫ（ポットラック）」＝みんなで開く持ち寄りパーティー。 スタジオに迎えたゲストや、リスナーのあなたと「好き！」や「おすすめ！」を持ち寄って、音楽、映画、本、アートなどなど、エンタメ・カルチャーの話題を、生放送でお届けします。16時台は、Crimson Crat clanがゲスト出演！",
               "pfm": "揚妻 由璃子",
               "img": "https://program-static.cf.radiko.jp/o7v89jzwls.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -856,9 +879,14 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "info": "・ユニラジ：高崎経済大学学生が発信 インスタ「群馬の歩き方」\n・今日のひとしな： 桐生に移住してオープン　ベーグル専門店「komugi」",
               "pfm": "揚妻 由璃子",
               "img": "https://program-static.cf.radiko.jp/o7v89jzwls.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -885,6 +913,10 @@
               "pfm": "田中香",
               "img": "https://program-static.cf.radiko.jp/ogesr7ynxq.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
