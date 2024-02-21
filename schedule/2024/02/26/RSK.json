@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1708453820",
+    "srvtime": "1708540221",
     "stations": {
       "station": {
         "-id": "RSK",
@@ -10,18 +10,82 @@
           "date": "20240226",
           "prog": [
             {
-              "-id": "9583188",
+              "-id": "9588275",
               "-ft": "20240226050000",
-              "-to": "20240226052500",
+              "-to": "20240226051800",
               "-ftl": "0500",
-              "-tol": "0525",
-              "-dur": "1500",
+              "-tol": "0518",
+              "-dur": "1080",
+              "title": "放送休止",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "img": "https://program-static.cf.radiko.jp/5ecdb121-451f-4fc3-9be5-b33a26297d7f.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9588276",
+              "-ft": "20240226051800",
+              "-to": "20240226052000",
+              "-ftl": "0518",
+              "-tol": "0520",
+              "-dur": "120",
               "title": "放送開始",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "　　",
               "img": "https://program-static.cf.radiko.jp/5ecdb121-451f-4fc3-9be5-b33a26297d7f.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9588277",
+              "-ft": "20240226052000",
+              "-to": "20240226052500",
+              "-ftl": "0520",
+              "-tol": "0525",
+              "-dur": "300",
+              "title": "今週の一曲",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "Mr.Children「彩り」",
+              "img": "https://program-static.cf.radiko.jp/3baee13c-f305-4920-ac93-510429fcb147.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "#音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "#音楽番組"
+                  },
+                  {
+                    "name": "#音楽な時間"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

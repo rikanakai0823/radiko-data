@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1708453514",
+    "srvtime": "1708540214",
     "stations": {
       "station": {
         "-id": "LFR",
@@ -961,10 +961,10 @@
             {
               "-id": "9540889",
               "-ft": "20240223190000",
-              "-to": "20240223210000",
+              "-to": "20240223193000",
               "-ftl": "1900",
-              "-tol": "2100",
-              "-dur": "7200",
+              "-tol": "1930",
+              "-dur": "1800",
               "title": "鶴光の噂のゴールデンリクエスト Part2",
               "url": "https://www.1242.com/tsuruko/",
               "failed_record": "0",
@@ -1008,6 +1008,26 @@
                     "-value": "from:tsuruko_golden"
                   }
                 ]
+              }
+            },
+            {
+              "-id": "9592137",
+              "-ft": "20240223193000",
+              "-to": "20240223210000",
+              "-ftl": "1930",
+              "-tol": "2100",
+              "-dur": "5400",
+              "title": "特別番組",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "特別番組",
+              "img": "https://program-static.cf.radiko.jp/c5pugym0xw.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
               }
             },
             {

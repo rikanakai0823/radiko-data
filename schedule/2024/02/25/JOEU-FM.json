@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1708453819",
+    "srvtime": "1708540221",
     "stations": {
       "station": {
         "-id": "JOEU-FM",
@@ -1356,65 +1356,29 @@
               }
             },
             {
-              "-id": "9550880",
+              "-id": "9591940",
               "-ft": "20240225190000",
-              "-to": "20240225193000",
-              "-ftl": "1900",
-              "-tol": "1930",
-              "-dur": "1800",
-              "title": "JOEU Special Program",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\tSpecial Program <br /><br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/snhe5edeu6.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9550881",
-              "-ft": "20240225193000",
               "-to": "20240225195500",
-              "-ftl": "1930",
+              "-ftl": "1900",
               "-tol": "1955",
-              "-dur": "1500",
-              "title": "LEGEND＋MASTERPIECE",
+              "-dur": "3300",
+              "title": "村上RADIO～今日はすべて日本語の歌詞です～",
+              "url": "https://www.tfm.co.jp/murakamiradio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t過去の名盤をご紹介。 <br /><br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/snhe5edeu6.jpg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/57e99d47-42fd-4974-9553-2956aa3c7d60_sq.jpg\" height=\"60\" width=\"60\" alt=\"村上春樹\"></td>  </tr></table><br /><br />\t今月は「すべて日本語の歌」という特集です。<br />この番組はだいたいが洋楽をかけているのですが、今回は珍しく、日本語の歌詞を持つ歌だけをかけていきます。<br />うちにあるレコード、CDの中から厳選しました。<br />ちょっと変わったものも、他の番組ではまずかからない（であろう）ようなものも混じっています。楽しんで下さい。<br /><br />村上春樹 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/murakamiradio/\">https://www.tfm.co.jp/murakamiradio/</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E6%9D%91%E4%B8%8ARADIO\">#村上RADIO</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/Murakamiradiofm\">@Murakamiradiofm</a>」<br /><br /></div>",
+              "pfm": "村上春樹",
+              "img": "https://program-static.cf.radiko.jp/c5o2ik8rzz.jpg",
               "tag": {
-                "item": [
-                  {
-                    "name": "邦楽"
-                  },
-                  {
-                    "name": "洋楽"
-                  },
-                  {
-                    "name": "名盤"
-                  }
-                ]
+                "item": {
+                  "name": "村上春樹"
+                }
               },
               "genre": {
                 "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
+                  "-id": "C012",
+                  "name": "文化人"
                 },
                 "program": {
                   "-id": "P005",
