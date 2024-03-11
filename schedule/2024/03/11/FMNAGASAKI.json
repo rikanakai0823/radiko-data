@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1710009008",
+    "srvtime": "1710180909",
     "stations": {
       "station": {
         "-id": "FMNAGASAKI",
@@ -566,10 +566,10 @@
             {
               "-id": "9655386",
               "-ft": "20240311120000",
-              "-to": "20240311125500",
+              "-to": "20240311125000",
               "-ftl": "1200",
-              "-tol": "1255",
-              "-dur": "3300",
+              "-tol": "1250",
+              "-dur": "3000",
               "title": "防災特別番組「防災スイッチ～もしも長崎で災害が起きたら～」",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -581,6 +581,40 @@
                 "program": {
                   "-id": "P003",
                   "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9677180",
+              "-ft": "20240311125000",
+              "-to": "20240311125500",
+              "-ftl": "1250",
+              "-tol": "1255",
+              "-dur": "300",
+              "title": "長崎の花粉情報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t長崎の花粉情報 <br /><br /><br /></div>",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -636,7 +670,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/a01d3c1e-0176-4d69-83df-98a5cc51d574_sq.jpg\" height=\"60\" width=\"60\" alt=\"大橋俊夫\"></td>  </tr></table><br /><br />\t毎週月曜日から金曜まで！その日、その時の“気になる情報”をお届けする「デイリーフライヤー」略して「デリフラ」！あらゆるジャンルのリアルタイムなニュースをピックアップ！今すぐ使える、誰かに話したくなる情報を、30分にギュッと凝縮してお送りします。 <br /><br />\t▽13:08〜 【 ジャパネットたかたラジオショッピング 】<br/>ラジオショッピング<br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/daily/\">http://www.jfn.jp/daily/</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/dailyflyer/message\">https://form.audee.jp/dailyflyer/message</a><br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/a01d3c1e-0176-4d69-83df-98a5cc51d574_sq.jpg\" height=\"60\" width=\"60\" alt=\"大橋俊夫\"></td>  </tr></table><br /><br />\t～「見た? 聞いた? 知ってる? さわった? 行ってみた? 食べた?」<br />をキーワードにあらゆる分野からピックアップしたコンパクトサイズの旬な情報満載！～<br />◇特集：災害への備え(新潟大学・榛沢和彦教授にお話を伺います。）<br />◇ジャパネットたかたラジオショッピング <br /><br />\t▽13:08〜 【 ジャパネットたかたラジオショッピング 】<br/>ラジオショッピング<br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/daily/\">http://www.jfn.jp/daily/</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/dailyflyer/message\">https://form.audee.jp/dailyflyer/message</a><br /><br /></div>",
               "pfm": "大橋俊夫",
               "img": "https://program-static.cf.radiko.jp/4574dzoj5m.jpg",
               "tag": {

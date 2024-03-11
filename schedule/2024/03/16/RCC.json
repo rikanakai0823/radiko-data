@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1710095402",
+    "srvtime": "1710180902",
     "stations": {
       "station": {
         "-id": "RCC",
@@ -1353,7 +1353,16 @@
               "ts_out_ng": "0",
               "pfm": "オードリー",
               "img": "https://program-static.cf.radiko.jp/a23e2cc6-66f7-416d-acdb-d66911984fff.jpeg",
+              "tag": {
+                "item": {
+                  "name": "オードリー"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
