@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1710440703",
+    "srvtime": "1710786303",
     "stations": {
       "station": {
         "-id": "YBS",
@@ -716,6 +716,16 @@
               "desc": "ＨＯＭＥ戦",
               "pfm": "解説：ハーフナー・マイク\r\n実況：深田幹規",
               "img": "https://program-static.cf.radiko.jp/822a9358-1de0-41ac-989e-2500bd45bf46.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -828,6 +838,12 @@
               "ts_out_ng": "0",
               "desc": "　　　　",
               "img": "https://program-static.cf.radiko.jp/822a9358-1de0-41ac-989e-2500bd45bf46.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P019",
+                  "name": "公営競技"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
