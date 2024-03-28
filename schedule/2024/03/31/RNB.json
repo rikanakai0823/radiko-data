@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1711477208",
+    "srvtime": "1711650008",
     "stations": {
       "station": {
         "-id": "RNB",
@@ -1139,28 +1139,58 @@
               }
             },
             {
-              "-id": "9727621",
+              "-id": "9754477",
               "-ft": "20240331180000",
-              "-to": "20240331200000",
+              "-to": "20240331190000",
               "-ftl": "1800",
-              "-tol": "2000",
-              "-dur": "7200",
-              "title": "中四国ライブネット",
-              "url": "http://www.1350.jp/livenet/",
+              "-tol": "1900",
+              "-dur": "3600",
+              "title": "八神純子Music Town",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "中四国8局をつないで生放送！\n",
-              "info": "<br>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23rnb1116\">#rnb1116</a>」<br>facebookページは「<a href='https://www.facebook.com/official.rnb.co.jp'>https://www.facebook.com/official.rnb.co.jp</a>」",
-              "img": "https://program-static.cf.radiko.jp/fpg4xtygmx.png",
+              "desc": "懐かしい楽曲の紹介や、古くからの友人を中心としたゲストを迎えて当時の出来事やヒット曲にまつわるエピソードを語ります。",
+              "pfm": "八神純子\n",
+              "img": "https://program-static.cf.radiko.jp/721de705-f49d-47e7-8d39-1a763f12e01f.jpeg",
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C004",
+                  "name": "ミュージシャン"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9754478",
+              "-ft": "20240331190000",
+              "-to": "20240331200000",
+              "-ftl": "1900",
+              "-tol": "2000",
+              "-dur": "3600",
+              "title": "新・流行音楽堂",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "DJ木河淳が、最新のヒットナンバーから懐かしの名曲まで、あらゆるジャンルの音楽を紹介するラジオ番組。",
+              "pfm": "木河淳",
+              "img": "https://program-static.cf.radiko.jp/fc21fa25-03ed-499b-bc5d-90d32bd9739d.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
