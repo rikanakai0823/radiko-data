@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1711822811",
+    "srvtime": "1711995912",
     "stations": {
       "station": {
         "-id": "CRK",
@@ -162,7 +162,6 @@
               "-tol": "0700",
               "-dur": "900",
               "title": "歌のない歌謡曲",
-              "url": "https://www.utanashi.com/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -186,9 +185,6 @@
                   },
                   {
                     "name": "音楽との出会いが楽しめる"
-                  },
-                  {
-                    "name": "歌のない歌謡曲"
                   },
                   {
                     "name": "歌なし"
@@ -264,7 +260,7 @@
                     "name": "グルメ"
                   },
                   {
-                    "name": "関西"
+                    "name": "maidomaido558"
                   }
                 ]
               },
@@ -337,7 +333,7 @@
                     "name": "グルメ"
                   },
                   {
-                    "name": "関西"
+                    "name": "maidomaido558"
                   }
                 ]
               },
@@ -410,7 +406,7 @@
                     "name": "グルメ"
                   },
                   {
-                    "name": "関西"
+                    "name": "maidomaido558"
                   }
                 ]
               },
@@ -489,11 +485,11 @@
             {
               "-id": "9726813",
               "-ft": "20240405100000",
-              "-to": "20240405120000",
+              "-to": "20240405110000",
               "-ftl": "1000",
-              "-tol": "1200",
-              "-dur": "7200",
-              "title": "歌声は風にのって～ブランチ～",
+              "-tol": "1100",
+              "-dur": "3600",
+              "title": "歌声は風にのって～ブランチ～ (1)",
               "url": "https://jocr.jp/programsite/utakaze/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -505,13 +501,65 @@
               "tag": {
                 "item": [
                   {
-                    "name": "リクエスト"
+                    "name": "うたかぜ"
                   },
                   {
-                    "name": "歌声は風にのって"
+                    "name": "芦田純子"
                   },
                   {
-                    "name": "歌風"
+                    "name": "ラジ関"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ラジ関"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:Radio_Kansai_PR"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9726813",
+              "-ft": "20240405110000",
+              "-to": "20240405120000",
+              "-ftl": "1100",
+              "-tol": "1200",
+              "-dur": "3600",
+              "title": "歌声は風にのって～ブランチ～ (2)",
+              "url": "https://jocr.jp/programsite/utakaze/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "『歌声は風にのって』はラジオ関西で60年以上も続いている音楽番組です。<br />\n午前10時からの『歌声は風にのって～ブランチ～』はモーニングとランチタイムの間にお送りする『歌風』ブランドの新番組。<br />\n洋楽・邦楽問わず、ヒット曲・名曲を中心にお届けします。<br />\n<br />\n",
+              "info": "出演者：芦田純子<br />\n<img src=\"https://jocr.jp/wp/wp-content/uploads/2024/03/ashida_junko.jpg\" height=\"100\" /><br />\n<br />\n<br />\n10:37 花キューピット フラワーメッセージ［第1・3週］<br />\n<br />\n10:51 交通情報<br />\n<br />\n10:53 ニュース<br />\n<br />\n11:30 快適生活ラジオショッピング<br />\n<br />\n<br />\n番組へのメッセージをお待ちしています！<br />\n<a href=\"https://jocr.jp/mailform/utakaze/\">《メールフォーム》</a><br />\n<br />\n<br />\n────────────────────<br />\n番組Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%86%E3%81%9F%E3%81%8B%E3%81%9C\">#うたかぜ</a>」<br />\n────────────────────<br />\nラジオ関西twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%B8%E9%96%A2\">#ラジ関</a>」<br />\nラジオ関西twitterアカウントは「<a href=\"http://twitter.com/Radio_Kansai_PR\">@Radio_Kansai_PR</a>」<br />",
+              "pfm": "芦田純子",
+              "img": "https://program-static.cf.radiko.jp/578ce084-76f1-41b9-bf73-dcd56249cec1.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "うたかぜ"
+                  },
+                  {
+                    "name": "芦田純子"
+                  },
+                  {
+                    "name": "ラジ関"
                   }
                 ]
               },
@@ -550,7 +598,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "全国のニュース、地域のニュース、取材レポートをランチタイムにお届けします。<br />\n<br />\n",
-              "info": "出演者：古田彰満<br />\n<br />\n<br />\n12:00 ランチタイムニュース<br />\n<br />\n12:08 交通情報<br />\n<br />\n12:10 神戸新聞NEXT新着ピックアップ<br />\n<br />\n<br />\n────────────────────<br />\nラジオ関西twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%B8%E9%96%A2\">#ラジ関</a>」<br />\nラジオ関西twitterアカウントは「<a href=\"http://twitter.com/Radio_Kansai_PR\">@Radio_Kansai_PR</a>」<br />",
+              "info": "出演者：古田彰満<br />\n<br />\n<br />\n12:01 ランチタイムニュース<br />\n<br />\n12:08 交通情報<br />\n<br />\n12:10 神戸新聞NEXT新着ピックアップ<br />\n<br />\n<br />\n番組へのメッセージをお待ちしています！<br />\n<a href=\"mailto:ksk@jocr.jp\">《ksk@jocr.jp》</a><br />\n<br />\n<br />\n────────────────────<br />\nラジオ関西twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%B8%E9%96%A2\">#ラジ関</a>」<br />\nラジオ関西twitterアカウントは「<a href=\"http://twitter.com/Radio_Kansai_PR\">@Radio_Kansai_PR</a>」<br />",
               "pfm": "古田彰満",
               "img": "https://program-static.cf.radiko.jp/36a87e50-e76c-4242-b751-5d6f291bbe92.jpeg",
               "genre": {
@@ -602,6 +650,9 @@
                   },
                   {
                     "name": "昭和カルチャー"
+                  },
+                  {
+                    "name": "昭和卍パラダイス"
                   }
                 ]
               },
@@ -669,11 +720,11 @@
             {
               "-id": "9726817",
               "-ft": "20240405130000",
-              "-to": "20240405160000",
+              "-to": "20240405140000",
               "-ftl": "1300",
-              "-tol": "1600",
-              "-dur": "10800",
-              "title": "Clip",
+              "-tol": "1400",
+              "-dur": "3600",
+              "title": "Clip (1)",
               "url": "https://jocr.jp/programsite/clip/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -694,7 +745,65 @@
                     "name": "きんくり"
                   },
                   {
-                    "name": "ラジトピ"
+                    "name": "サマンサアナンサ"
+                  },
+                  {
+                    "name": "ウラリエ"
+                  },
+                  {
+                    "name": "ラジ関"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ラジ関"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:Radio_Kansai_PR"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9726817",
+              "-ft": "20240405140000",
+              "-to": "20240405150000",
+              "-ftl": "1400",
+              "-tol": "1500",
+              "-dur": "3600",
+              "title": "Clip (2)",
+              "url": "https://jocr.jp/programsite/clip/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "好奇心くすぐる情報を「Clip」しましょう！<br />\nトピックスサイト「ラジトピ」( http://jocr.jp/raditopi/ )とも連動！<br />\n“ドラァグクイーン”サマンサ・アナンサと“インスタグラマー”ウラリエのコンビは、果たしてどんな化学反応を起こすのか！<br />\n<br />\n",
+              "info": "出演者：サマンサ・アナンサ / ウラリエ<br />\n<img src=\"https://jocr.jp/wp/wp-content/uploads/2024/03/samantha_anansa.jpg\" height=\"100\" /><img src=\"https://jocr.jp/wp/wp-content/uploads/2023/03/urarie.jpg\" height=\"100\" /><br />\n<br />\n<br />\n13:15 サマンサのワールドトリップ<br />\nワールドワイドなドラァグクイーン、サマンサが世界の情報をお届け！<br />\n<br />\n13:40 快適生活ラジオショッピング<br />\n<br />\n14:00 ウラリエのイチオシ#<br />\nインスタグラマー ウラリエが、イチオシのスポット、アイテムを紹介！<br />\n<br />\n14:20 スイーツ争奪！スイーツイントロ<br />\n神井花音さんの進行でイントロクイズでスイーツを争奪！<br />\n出演：神井花音<br />\n<br />\n14:51 交通情報<br />\n<br />\n14:53 ニュース<br />\n<br />\n15:20 サマンサのド・ラ・チ・ラ♥<br />\n謎のベールに包まれたドラァグクイーンの世界をチラ見せするコーナー！<br />\n<br />\n15:40 NEWS ウラのアナ［第1・3・5週］<br />\n気になるニュースを取り上げ、裏側まで、穴があくほど掘り下げます！<br />\n<br />\n<br />\n番組へのメッセージをお待ちしています！<br />\n<a href=\"https://jocr.jp/mailform/samaura/\">《メールフォーム》</a><br />\n<br />\n<br />\n────────────────────<br />\nラジオ関西トピックス「ラジトピ」で放送内容を記事にしています！<br />\n<a href=\"https://jocr.jp/raditopi/tag/clip\">《記事一覧》</a><br />\n────────────────────<br />\n番組Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%8D%E3%82%93%E3%81%8F%E3%82%8A\">#きんくり</a>」<br />\n番組Xアカウントは「<a href=\"http://twitter.com/kinkuri558911\">@kinkuri558911</a>」<br />\n────────────────────<br />\nラジオ関西twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%B8%E9%96%A2\">#ラジ関</a>」<br />\nラジオ関西twitterアカウントは「<a href=\"http://twitter.com/Radio_Kansai_PR\">@Radio_Kansai_PR</a>」<br />",
+              "pfm": "サマンサ・アナンサ / ウラリエ",
+              "img": "https://program-static.cf.radiko.jp/d67f1247-02d4-4bcd-b6e8-7ff07d745e64.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "作業がはかどる"
+                  },
+                  {
+                    "name": "ドライブ中におすすめ"
+                  },
+                  {
+                    "name": "きんくり"
                   },
                   {
                     "name": "サマンサアナンサ"
@@ -703,7 +812,68 @@
                     "name": "ウラリエ"
                   },
                   {
-                    "name": "情報番組"
+                    "name": "ラジ関"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ラジ関"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:Radio_Kansai_PR"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9726817",
+              "-ft": "20240405150000",
+              "-to": "20240405160000",
+              "-ftl": "1500",
+              "-tol": "1600",
+              "-dur": "3600",
+              "title": "Clip (3)",
+              "url": "https://jocr.jp/programsite/clip/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "好奇心くすぐる情報を「Clip」しましょう！<br />\nトピックスサイト「ラジトピ」( http://jocr.jp/raditopi/ )とも連動！<br />\n“ドラァグクイーン”サマンサ・アナンサと“インスタグラマー”ウラリエのコンビは、果たしてどんな化学反応を起こすのか！<br />\n<br />\n",
+              "info": "出演者：サマンサ・アナンサ / ウラリエ<br />\n<img src=\"https://jocr.jp/wp/wp-content/uploads/2024/03/samantha_anansa.jpg\" height=\"100\" /><img src=\"https://jocr.jp/wp/wp-content/uploads/2023/03/urarie.jpg\" height=\"100\" /><br />\n<br />\n<br />\n13:15 サマンサのワールドトリップ<br />\nワールドワイドなドラァグクイーン、サマンサが世界の情報をお届け！<br />\n<br />\n13:40 快適生活ラジオショッピング<br />\n<br />\n14:00 ウラリエのイチオシ#<br />\nインスタグラマー ウラリエが、イチオシのスポット、アイテムを紹介！<br />\n<br />\n14:20 スイーツ争奪！スイーツイントロ<br />\n神井花音さんの進行でイントロクイズでスイーツを争奪！<br />\n出演：神井花音<br />\n<br />\n14:51 交通情報<br />\n<br />\n14:53 ニュース<br />\n<br />\n15:20 サマンサのド・ラ・チ・ラ♥<br />\n謎のベールに包まれたドラァグクイーンの世界をチラ見せするコーナー！<br />\n<br />\n15:40 NEWS ウラのアナ［第1・3・5週］<br />\n気になるニュースを取り上げ、裏側まで、穴があくほど掘り下げます！<br />\n<br />\n<br />\n番組へのメッセージをお待ちしています！<br />\n<a href=\"https://jocr.jp/mailform/samaura/\">《メールフォーム》</a><br />\n<br />\n<br />\n────────────────────<br />\nラジオ関西トピックス「ラジトピ」で放送内容を記事にしています！<br />\n<a href=\"https://jocr.jp/raditopi/tag/clip\">《記事一覧》</a><br />\n────────────────────<br />\n番組Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%8D%E3%82%93%E3%81%8F%E3%82%8A\">#きんくり</a>」<br />\n番組Xアカウントは「<a href=\"http://twitter.com/kinkuri558911\">@kinkuri558911</a>」<br />\n────────────────────<br />\nラジオ関西twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%B8%E9%96%A2\">#ラジ関</a>」<br />\nラジオ関西twitterアカウントは「<a href=\"http://twitter.com/Radio_Kansai_PR\">@Radio_Kansai_PR</a>」<br />",
+              "pfm": "サマンサ・アナンサ / ウラリエ",
+              "img": "https://program-static.cf.radiko.jp/d67f1247-02d4-4bcd-b6e8-7ff07d745e64.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "作業がはかどる"
+                  },
+                  {
+                    "name": "ドライブ中におすすめ"
+                  },
+                  {
+                    "name": "きんくり"
+                  },
+                  {
+                    "name": "サマンサアナンサ"
+                  },
+                  {
+                    "name": "ウラリエ"
+                  },
+                  {
+                    "name": "ラジ関"
                   }
                 ]
               },
@@ -733,11 +903,11 @@
             {
               "-id": "9726818",
               "-ft": "20240405160000",
-              "-to": "20240405174000",
+              "-to": "20240405170000",
               "-ftl": "1600",
-              "-tol": "1740",
-              "-dur": "6000",
-              "title": "歌声は風にのって",
+              "-tol": "1700",
+              "-dur": "3600",
+              "title": "歌声は風にのって (1)",
               "url": "https://jocr.jp/programsite/utakaze/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -749,13 +919,65 @@
               "tag": {
                 "item": [
                   {
-                    "name": "リクエスト"
+                    "name": "うたかぜ"
                   },
                   {
-                    "name": "歌声は風にのって"
+                    "name": "芦田純子"
                   },
                   {
-                    "name": "歌風"
+                    "name": "ラジ関"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ラジ関"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:Radio_Kansai_PR"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9726818",
+              "-ft": "20240405170000",
+              "-to": "20240405174000",
+              "-ftl": "1700",
+              "-tol": "1740",
+              "-dur": "2400",
+              "title": "歌声は風にのって (2)",
+              "url": "https://jocr.jp/programsite/utakaze/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "『歌声は風にのって』はラジオ関西で60年以上も続いている音楽番組です。<br />\nラジオ関西の夕方4時といえば『歌声は風にのって』。これまで同様にリスナーからのリクエストを中心に邦楽をテンポよくお届けします。<br />\n<br />\n",
+              "info": "出演者：芦田純子<br />\n<img src=\"https://jocr.jp/wp/wp-content/uploads/2024/03/ashida_junko.jpg\" height=\"100\" /><br />\n<br />\n<br />\n16:50 ニュース<br />\n<br />\n17:00 交通情報<br />\n<br />\n17:02 播磨ピックアップニュース<br />\n播磨地域の「うまいもん」「ええとこ」「おもろいもん」「ニュース」をお伝えします。<br />\n<br />\n17:13 ミュージックダイアリー<br />\n明日が何の日かを音楽とともに紹介します。<br />\n<br />\n17:25 交通情報<br />\n<br />\n<br />\n<br />\n<br />\n番組へのメッセージをお待ちしています！<br />\n<a href=\"https://jocr.jp/mailform/utakaze/\">《メールフォーム》</a><br />\n<br />\n<br />\n────────────────────<br />\n番組Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%86%E3%81%9F%E3%81%8B%E3%81%9C\">#うたかぜ</a>」<br />\n────────────────────<br />\nラジオ関西twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%B8%E9%96%A2\">#ラジ関</a>」<br />\nラジオ関西twitterアカウントは「<a href=\"http://twitter.com/Radio_Kansai_PR\">@Radio_Kansai_PR</a>」<br />",
+              "pfm": "芦田純子",
+              "img": "https://program-static.cf.radiko.jp/0747a2a8-24d3-4729-af47-338167ddebde.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "うたかぜ"
+                  },
+                  {
+                    "name": "芦田純子"
+                  },
+                  {
+                    "name": "ラジ関"
                   }
                 ]
               },
@@ -896,7 +1118,7 @@
                     "name": "巨人"
                   },
                   {
-                    "name": "ナイター"
+                    "name": "ラジ関"
                   }
                 ]
               },
@@ -963,13 +1185,18 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "desc": "歌と花をこよなく愛し、人の心に栄養を届けることをモットーに活動を続けるシンガー貴志まさみ。<br />\nデビュー20周年を機に贈るミュージック&トーク番組『貴志まさみのきらっと、生きる。』<br />\n聴くだけで、癒され、潤い、そして元気になる。<br />\n毎週金曜日21時30分からの15分間。とっておきのリトリートタイムにご期待ください。<br />\n<br />\n",
               "info": "出演者：貴志まさみ<br />\n<br />\n<br />\n番組へのメッセージをお待ちしています！<br />\n<a href=\"mailto:kira@jocr.jp\">《kira@jocr.jp》</a><br />\n<br />\n<br />\n────────────────────<br />\nラジオ関西twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%B8%E9%96%A2\">#ラジ関</a>」<br />\nラジオ関西twitterアカウントは「<a href=\"http://twitter.com/Radio_Kansai_PR\">@Radio_Kansai_PR</a>」<br />",
               "pfm": "貴志まさみ",
-              "img": "https://program-static.cf.radiko.jp/bf9872e1-10c7-4c4d-9a56-51fe48acb033.jpeg",
+              "img": "https://program-static.cf.radiko.jp/4443c87c-8543-4a06-b690-9852c0e82843.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1127,6 +1354,9 @@
                   },
                   {
                     "name": "本渡楓"
+                  },
+                  {
+                    "name": "ラジ関"
                   }
                 ]
               },
@@ -1185,6 +1415,9 @@
                   },
                   {
                     "name": "秦佐和子"
+                  },
+                  {
+                    "name": "ラジ関"
                   }
                 ]
               },
@@ -1228,9 +1461,14 @@
               "pfm": "バナナマン",
               "img": "https://program-static.cf.radiko.jp/7e9cbeb7-4873-4ef1-b3ee-a9aca7f03eb6.jpeg",
               "tag": {
-                "item": {
-                  "name": "バナナマン"
-                }
+                "item": [
+                  {
+                    "name": "バナナマン"
+                  },
+                  {
+                    "name": "bananamoon"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1272,9 +1510,14 @@
               "pfm": "三四郎",
               "img": "https://program-static.cf.radiko.jp/a172d268-0b6b-40f2-9be1-f34729da597b.jpeg",
               "tag": {
-                "item": {
-                  "name": "三四郎"
-                }
+                "item": [
+                  {
+                    "name": "三四郎"
+                  },
+                  {
+                    "name": "三四郎ANN0"
+                  }
+                ]
               },
               "metas": {
                 "meta": [
