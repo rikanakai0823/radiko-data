@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1711995922",
+    "srvtime": "1712081425",
     "stations": {
       "station": {
         "-id": "KBS",
@@ -35,6 +35,10 @@
                 ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -148,6 +152,10 @@
                 }
               },
               "genre": {
+                "personality": {
+                  "-id": "C002",
+                  "name": "俳優"
+                },
                 "program": {
                   "-id": "P018",
                   "name": "ショッピング"
@@ -411,6 +419,11 @@
               "desc": "悩み相談・人生指南の達人として迷える人々と向き合ってきた僧侶・川村妙慶が、“心の栄養”をキーワードに、さまざまなお話・エピソードを通して、また、時にはゲストも交えて贈るラジオ番組です。<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/egao/\">★番組サイト</a><br /><a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/egao.htm\">★番組へのメッセージ</a>",
               "pfm": "川村妙慶",
               "img": "https://program-static.cf.radiko.jp/u3rufav09d.jpg",
+              "tag": {
+                "item": {
+                  "name": "川村妙慶"
+                }
+              },
               "genre": {
                 "program": {
                   "-id": "P007",
@@ -549,6 +562,16 @@
               "ts_out_ng": "0",
               "pfm": "森脇健児 / かみじょうたけし",
               "img": "https://program-static.cf.radiko.jp/82pnoxr6oj.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "森脇健児"
+                  },
+                  {
+                    "name": "かみじょうたけし"
+                  }
+                ]
+              },
               "genre": {
                 "program": {
                   "-id": "P007",
@@ -743,6 +766,16 @@
               "desc": "毎回、ハンケイ500mで取材した方々の伝えきれなかった熱いエピソードを紹介しつつ、そのエリアに関連したとっておきの1曲をお届けします。また、ハンケイ500mの編集制作とサウンドロゴ制作の親和性に迫り、想いの伝え方についての熱いトークを展開します。<br /><br /><a href=\"https://www.kbs-kyoto.co.jp/radio/500/\">★番組サイト</a><br /><a href=\"https://www.kbs-kyoto.co.jp/mailform/radio/500.htm\">★番組へのメッセージ</a>",
               "pfm": "円城新子 / 原田博行",
               "img": "https://program-static.cf.radiko.jp/942atqhagk.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "円城新子"
+                  },
+                  {
+                    "name": "原田博行"
+                  }
+                ]
+              },
               "genre": {
                 "program": {
                   "-id": "P007",
@@ -792,7 +825,16 @@
               "ts_out_ng": "0",
               "pfm": "遠藤奈美",
               "img": "https://program-static.cf.radiko.jp/4teds2bv8o.jpg",
+              "tag": {
+                "item": {
+                  "name": "澤武博之"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P022",
                   "name": "映画"
@@ -878,7 +920,24 @@
               "desc": "地元京都をこよなく愛するチュートリアル。そんな彼らが「自分たちの出発点」と語るラジオ・プログラム。全国区メディアでは見られない、見せられない、絶対聴けない、素顔が垣間見える。<br />KBS京都をキーステーションに現在全国17局ネット。<br /><br />メール:<a href=\"mailto:real@kbs.kyoto\">real@kbs.kyoto</a>",
               "pfm": "徳井義実 (チュートリアル) / 福田充徳 (チュートリアル)",
               "img": "https://program-static.cf.radiko.jp/fcqdykqkii.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "チュートリアル"
+                  },
+                  {
+                    "name": "徳井義実"
+                  },
+                  {
+                    "name": "福田充徳"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"

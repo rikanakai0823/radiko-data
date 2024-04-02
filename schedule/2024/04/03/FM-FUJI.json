@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1711995603",
+    "srvtime": "1712080816",
     "stations": {
       "station": {
         "-id": "FM-FUJI",
@@ -729,16 +729,6 @@
                   }
                 ]
               },
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -762,9 +752,14 @@
               "pfm": "halca",
               "img": "https://program-static.cf.radiko.jp/725b4b26-e76a-427b-8328-e99687d5cec4.jpeg",
               "tag": {
-                "item": {
-                  "name": "学生におすすめ"
-                }
+                "item": [
+                  {
+                    "name": "学生におすすめ"
+                  },
+                  {
+                    "name": "halca"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -805,6 +800,12 @@
                   },
                   {
                     "name": "寝る前に聴きたい"
+                  },
+                  {
+                    "name": "藤井舞"
+                  },
+                  {
+                    "name": "Pure Green"
                   }
                 ]
               },

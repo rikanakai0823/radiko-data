@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1711995906",
+    "srvtime": "1712081407",
     "stations": {
       "station": {
         "-id": "MRO",
@@ -254,6 +254,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/02aa21fa-ca05-450c-b71e-6965f2ec49f6.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -324,8 +330,8 @@
               "img": "https://program-static.cf.radiko.jp/65ac6f9a-be5b-402b-80db-c289ced7eed9.jpeg",
               "genre": {
                 "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -405,7 +411,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "旅の楽しさをあなたとシェアして再発見！\n知られざる観光地から、一生に一度は行きたい海外の国々まで、\n旅にまつわる多彩な話題をピックアップ。\nゲスト＝旅人もお迎えしながらご紹介していきます。\n一緒に新しい旅のカタチを探りましょう。\n世界16ヵ国を旅した前田明日香がご案内します♪",
+              "info": "旅の楽しさをあなたとシェアして再発見！<br/>知られざる観光地から、一生に一度は行きたい海外の国々まで、<br/>旅にまつわる多彩な話題をピックアップ。<br/>ゲスト＝旅人もお迎えしながらご紹介していきます。<br/>一緒に新しい旅のカタチを探りましょう。<br/>世界16ヵ国を旅した前田明日香がご案内します♪",
               "pfm": "前田明日香",
               "img": "https://program-static.cf.radiko.jp/ff460471-f951-42b1-9910-c6bc63f34fb0.jpeg",
               "metas": {
@@ -435,8 +441,8 @@
               },
               "genre": {
                 "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -511,8 +517,8 @@
               },
               "genre": {
                 "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -569,8 +575,8 @@
               },
               "genre": {
                 "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -773,8 +779,8 @@
               },
               "genre": {
                 "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -1061,15 +1067,16 @@
             {
               "-id": "9756620",
               "-ft": "20240407030000",
-              "-to": "20240407045900",
+              "-to": "20240407045800",
               "-ftl": "2700",
-              "-tol": "2859",
-              "-dur": "7140",
-              "title": "オールナイトニッポン０（ＺＥＲＯ）",
+              "-tol": "2858",
+              "-dur": "7080",
+              "title": "Furui Rihoのオールナイトニッポン０（ＺＥＲＯ）",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/644a431e-f0e1-4a90-ac35-d0d8756268bb.jpeg",
+              "pfm": "Furui Riho",
+              "img": "https://program-static.cf.radiko.jp/e7056018-9f5e-4b98-aaac-dc7f5d9b62af.jpeg",
               "tag": {
                 "item": [
                   {
@@ -1089,11 +1096,11 @@
             },
             {
               "-id": "9756621",
-              "-ft": "20240407045900",
+              "-ft": "20240407045800",
               "-to": "20240407050000",
-              "-ftl": "2859",
+              "-ftl": "2858",
               "-tol": "2900",
-              "-dur": "60",
+              "-dur": "120",
               "title": "配信休止",
               "failed_record": "0",
               "ts_in_ng": "0",

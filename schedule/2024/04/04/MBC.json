@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1711736412",
+    "srvtime": "1712081412",
     "stations": {
       "station": {
         "-id": "MBC",
@@ -1368,20 +1368,52 @@
               }
             },
             {
-              "-id": "9750225",
+              "-id": "9780374",
               "-ft": "20240404200000",
-              "-to": "20240404203000",
+              "-to": "20240404201500",
               "-ftl": "2000",
-              "-tol": "2030",
-              "-dur": "1800",
-              "title": "オキシジェンのラジオスープレックス",
-              "url": "https://www.bss.jp/radio/suplex/",
+              "-tol": "2015",
+              "-dur": "900",
+              "title": "ＴＩＣＫＥＴ！",
+              "url": "https://www.mbc.co.jp/radio/ticket/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
-              "pfm": "オキシジェン",
-              "img": "https://program-static.cf.radiko.jp/ff6lhve7rc.png",
+              "pfm": "佐々木武海",
+              "img": "https://program-static.cf.radiko.jp/qikuejnt9q.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#MBCラジオ"
+                }
+              }
+            },
+            {
+              "-id": "9780375",
+              "-ft": "20240404201500",
+              "-to": "20240404203000",
+              "-ftl": "2015",
+              "-tol": "2030",
+              "-dur": "900",
+              "title": "ジミー入枝のドゥーワップ・ステーション",
+              "url": "https://blogs.mbc.co.jp/doo-wop/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
+              "pfm": "ジミー入枝",
+              "img": "https://program-static.cf.radiko.jp/mfcsjlpgha.png",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

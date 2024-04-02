@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1711995907",
+    "srvtime": "1712081409",
     "stations": {
       "station": {
         "-id": "OBC",
@@ -186,22 +186,46 @@
               }
             },
             {
-              "-id": "9726573",
+              "-id": "9779250",
               "-ft": "20240407061000",
               "-to": "20240407061500",
               "-ftl": "0610",
               "-tol": "0615",
               "-dur": "300",
-              "title": "あなたの町のドクターに聞く、耳・鼻・喉のおはなし",
+              "title": "OBC ミュージック・アベニュー",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "<br/>",
               "info": "<br/>",
-              "img": "https://program-static.cf.radiko.jp/ac1xzf9jss.jpg",
+              "img": "https://program-static.cf.radiko.jp/d59c30cb-4d8d-4296-b01f-d6ba2a729c18.png",
               "tag": {
-                "item": {
-                  "name": "ラジオ大阪"
+                "item": [
+                  {
+                    "name": "ミュージックアベニュー"
+                  },
+                  {
+                    "name": "音楽"
+                  },
+                  {
+                    "name": "ラジオ大阪"
+                  },
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "作業がはかどる"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {

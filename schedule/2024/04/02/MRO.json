@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1711996220",
+    "srvtime": "1712081424",
     "stations": {
       "station": {
         "-id": "MRO",
@@ -23,8 +23,8 @@
               "img": "https://program-static.cf.radiko.jp/65ac6f9a-be5b-402b-80db-c289ced7eed9.jpeg",
               "genre": {
                 "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -78,8 +78,8 @@
               "img": "https://program-static.cf.radiko.jp/32d76913-1753-40ae-85f2-083bb9d24af3.jpeg",
               "genre": {
                 "program": {
-                  "-id": "P009",
-                  "name": "ドキュメンタリー"
+                  "-id": "P021",
+                  "name": "ライフスタイル"
                 }
               },
               "metas": {
@@ -217,6 +217,12 @@
               "info": "さまざまなジャンルのプロフェッショナルをお迎えして、朝の活力になるお話をうかがいます。",
               "pfm": "黒木瞳",
               "img": "https://program-static.cf.radiko.jp/a1b09982-77f6-46b1-904c-2bd235ce82be.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -241,6 +247,12 @@
               "tag": {
                 "item": {
                   "name": "朝のニュースを効率良く"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -301,6 +313,12 @@
               "info": "訪問診療をする歯科医・ドクターごとうが、リスナーのさまざまな不安に寄り添います。",
               "pfm": "五島朋幸",
               "img": "https://program-static.cf.radiko.jp/d9f5485d-1c5c-4b71-9c99-50fb8ca6ba86.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P017",
+                  "name": "健康"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -321,6 +339,12 @@
               "ts_out_ng": "0",
               "info": "7:40　MRO ニュース<br/>7:45　交通情報<br/>7:50　天気予報",
               "img": "https://program-static.cf.radiko.jp/18eeb630-2ab7-47d5-b8a7-627c02d46c61.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -347,10 +371,6 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -401,7 +421,7 @@
               "-dur": "600",
               "title": "武田鉄矢　今朝の三枚おろし",
               "url": "https://www.joqr.co.jp/qr/program/takeda/",
-              "failed_record": "0",
+              "failed_record": "1",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "温かさと厳しさを併せ持つ武田鉄矢が毎週テーマに沿ってさまざまな語りを展開。どんな話題でも美味しくさばいて見せマス！",
@@ -410,6 +430,16 @@
               "tag": {
                 "item": {
                   "name": "サクッと短時間で聴ける"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C002",
+                  "name": "俳優"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -428,12 +458,18 @@
               "-dur": "5400",
               "title": "あさ＊ダッシュ！",
               "url": "http://www.mro.co.jp/radio/asa/",
-              "failed_record": "0",
+              "failed_record": "1",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "8:35　　交通情報<br/>8:40　　今日は何の日<br/>9:00　　ニュース＆ウェザー<br/>9:10　　あんたさんどう思うけ～<br/>9:20　　被災地生活情報<br/>9:30　　今夜の一品<br/>9:55　　ＭＲＯミュージック<br/>　　　　ＰｏｗｅｒＢｏｘ<br/>10:00 　ＭＲＯニュース<br/>10:05 　いしかわお天気ネット<br/>10:10 　ねたのたね<br/>10:35 　兼六園どっから来たが？<br/>11:00 　ニュース＆ウェザー<br/>11:05 　ランチリクエスト<br/>11:15 　はぴねすくらぶ<br/>　　　　ラジオショッピング<br/>11:25 　交通情報",
               "pfm": "石橋弘崇 / 冨優香子",
               "img": "https://program-static.cf.radiko.jp/6c72465a-93a1-410b-929c-a1bfa08cdbf1.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -456,6 +492,12 @@
               "info": "8:35　　交通情報<br/>8:40　　今日は何の日<br/>9:00　　ニュース＆ウェザー<br/>9:10　　あんたさんどう思うけ～<br/>9:20　　被災地生活情報<br/>9:30　　今夜の一品<br/>9:55　　ＭＲＯミュージック<br/>　　　　ＰｏｗｅｒＢｏｘ<br/>10:00 　ＭＲＯニュース<br/>10:05 　いしかわお天気ネット<br/>10:10 　ねたのたね<br/>10:35 　兼六園どっから来たが？<br/>11:00 　ニュース＆ウェザー<br/>11:05 　ランチリクエスト<br/>11:15 　はぴねすくらぶ<br/>　　　　ラジオショッピング<br/>11:25 　交通情報",
               "pfm": "石橋弘崇 / 冨優香子",
               "img": "https://program-static.cf.radiko.jp/6c72465a-93a1-410b-929c-a1bfa08cdbf1.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -489,8 +531,8 @@
                   "name": "文化人"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P015",
+                  "name": "教養"
                 }
               },
               "metas": {
@@ -513,6 +555,12 @@
               "ts_out_ng": "0",
               "info": "0:00　ＭＲＯニュース<br/>0:05　天気予報<br/>0:11　証券情報",
               "img": "https://program-static.cf.radiko.jp/18eeb630-2ab7-47d5-b8a7-627c02d46c61.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -535,6 +583,12 @@
               "info": "俳句集団いつき組の組長、夏井いつきが、リスナーからの投句をユーモアたっぷりに辛口批評します。さて、あなたの一句は？",
               "pfm": "夏井いつき",
               "img": "https://program-static.cf.radiko.jp/4ca7e5e0-5de1-4968-9575-8dcce6f61065.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -584,6 +638,12 @@
                   "name": "音楽との出会いが楽しめる"
                 }
               },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -606,6 +666,12 @@
               "info": "1:40　勝手に応援団<br/>1:55　こころの謡箱<br/>2:00　北國新聞ニュース・天気予報<br/>2:07　パソコン出張お助け隊（1週なし）<br/>2:30　石川県からのお知らせ<br/>2:40　しりとりクエスト<br/>3:00　ＭＲＯニュース<br/>3:05　いしかわお天気ネット<br/>3:40　若杉しげるの演歌道",
               "pfm": "西川章久 / 川瀬裕子",
               "img": "https://program-static.cf.radiko.jp/f9b925ba-e174-46f7-ac6d-e65103594691.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -631,6 +697,12 @@
                   "name": "ニュース"
                 }
               },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -650,6 +722,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/02aa21fa-ca05-450c-b71e-6965f2ec49f6.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -675,6 +753,12 @@
               "tag": {
                 "item": {
                   "name": "学生"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -730,6 +814,16 @@
               "info": "元化粧品メーカーのトップセールスマンであった桂宮治が、プライベートの話や、リスナーから届いた人生相談にのるコーナー、落語についてわかりやすく教えるコーナーなど、曜日別にコーナーを設けて平日の夕方にリスナーへ笑顔を届けます。",
               "pfm": "桂宮治",
               "img": "https://program-static.cf.radiko.jp/97ccd283-a276-4cc9-a5f9-f4e434e9e280.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -749,6 +843,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/f8dec49c-019b-4b23-82c6-0b19af49b991.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -804,12 +904,6 @@
                   "name": "上坂典子"
                 }
               },
-              "genre": {
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -831,6 +925,16 @@
               "info": "石川の土地、景色、人、食べ物、お酒…たくさんのものに魅せられ、「将来は石川県に住みたい！」と本気で思うようになったVo.きみコ。だけど、きみコが知っているのはまだ石川県のほんの一部なのでは…？<br/>それならば、もっと石川県のステキなところを教えてもらおう！<br/>石川県在住の方はもちろん、県外の方も、オススメのお店や景色など「あなたのお気に入りの石川県」をぜひ教えてください。",
               "pfm": "nano.RIPE",
               "img": "https://program-static.cf.radiko.jp/65f4d95e-b472-4225-973e-ea2edc209349.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -853,6 +957,12 @@
               "tag": {
                 "item": {
                   "name": "音楽との出会いが楽しめる"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -905,6 +1015,10 @@
               "pfm": "マグ万平",
               "img": "https://program-static.cf.radiko.jp/061a1e88-e6bf-481f-854a-0d785fe5af71.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
@@ -932,6 +1046,16 @@
               "info": "生まれ育った長岡市を拠点に活動するギターデュオ「ひなた」と、ふるさと新潟を拠点に活動するNGT48の村上市出身メンバー「本間日陽」による、ひなたのようにホンワカしたハートウォーミングなトークバラエティ番組。<br/>自他ともに認める地元愛溢れる３人が織りなすリラックスした等身大トークをお楽しみに！！",
               "pfm": "本間日陽(NGT48) / たかのり(ひなた) / ぴろん(ひなた)",
               "img": "https://program-static.cf.radiko.jp/cf2b0d9a-d4f2-475d-bcb8-0d14aca5d0bb.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -955,6 +1079,10 @@
               "pfm": "松村邦洋",
               "img": "https://program-static.cf.radiko.jp/e1e8abf5-91cf-4ea1-979f-c2b5e1c4cbba.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
@@ -1046,6 +1174,16 @@
               "info": "Z世代の「好き」にもっと寄り添い、「好き」を拡げるレコメンド番組です！",
               "pfm": "秋山寛貴 (ハナコ) / Kis-My-Ft2",
               "img": "https://program-static.cf.radiko.jp/a3a5df12-3176-4790-b124-2ab37ba9c58e.png",
+              "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1062,7 +1200,7 @@
               "-dur": "7200",
               "title": "星野源のオールナイトニッポン",
               "url": "http://www.allnightnippon.com/hoshinogen/",
-              "failed_record": "0",
+              "failed_record": "1",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "音楽家、俳優、文筆家と幅広い活躍を続ける星野源が、”オールナイトニッポン”の歴史を作ります！",
@@ -1070,12 +1208,12 @@
               "img": "https://program-static.cf.radiko.jp/ddfff47e-f6d4-43c5-837a-743254f530ac.jpeg",
               "genre": {
                 "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
+                  "-id": "C007",
+                  "name": "男性アイドル"
                 },
                 "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -1098,6 +1236,16 @@
               "ts_out_ng": "0",
               "pfm": "あの",
               "img": "https://program-static.cf.radiko.jp/d1291600-b1cc-44e2-9a32-e983bbd13b78.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1123,6 +1271,16 @@
               "tag": {
                 "item": {
                   "name": "寝る前に聴きたい"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1711995303",
+    "srvtime": "1712080814",
     "stations": {
       "station": {
         "-id": "FM-FUJI",
@@ -29,6 +29,9 @@
                   },
                   {
                     "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "洋楽"
                   }
                 ]
               },
@@ -71,6 +74,9 @@
                   },
                   {
                     "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "邦楽"
                   }
                 ]
               },
@@ -100,7 +106,7 @@
               "-dur": "7200",
               "title": "ACTUS(7:00～9:00)",
               "url": "http://fmftp.lekumo.biz/actus/",
-              "failed_record": "0",
+              "failed_record": "1",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "Week Dayの朝からお昼にかけてお届けする情報コミュニケーション・プログラム。1日のスタートを豊かに彩るニュースや天気情報。同僚や友人、クライアントらと会話の糸口となるスポーツ、芸能、占い、SDGs、…etc。様々な情報を、山梨のライフスタイルに合わせて30分単位で網羅する番組、それが“ACTUS”（アクタス）。ラジオの良さである、家事をしながら、着替えながら、出勤しながら…など様々な“ながら”に合わせて、わかりやすくお伝えします。",
@@ -140,16 +146,6 @@
                     "name": "もにさく"
                   }
                 ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
               },
               "metas": {
                 "meta": {
@@ -208,16 +204,6 @@
                   }
                 ]
               },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -237,6 +223,11 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/326f1aaf-c71e-4f66-86b7-fa9692f29621.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ニュース"
+                }
+              },
               "genre": {
                 "program": {
                   "-id": "P003",
@@ -262,7 +253,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "東京在住・山梨出身の白須慶子が山梨への想いや山梨が誇る地場産品の魅力などを語ります。",
-              "info": "<a href=\"http://www.fmfuji.jp/mail.php?cd=604\" title=\"白須慶子のやまなしchoose Tuesday!”\" target=\"_blank\">choose@fmfuji.jp</a><br/>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%84%E3%81%BE%E3%81%AA%E3%81%97%E3%81%A1%E3%82%85%E3%83%BC%E3%81%A1%E3%82%85%E3%83%BC\">#やまなしちゅーちゅー</a>」",
+              "info": "<a href=\"http://www.fmfuji.jp/mail.php?cd=604\" title=\"白須慶子のやまなしchoose Tuesday!”\" target=\"_blank\">choose@fmfuji.jp</a><br/>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%84%E3%81%BE%E3%81%AA%E3%81%97%E3%81%A1%E3%82%85%E3%81%86%E3%81%A1%E3%82%85%E3%81%86\">#やまなしちゅうちゅう</a>」",
               "pfm": "白須慶子",
               "img": "https://program-static.cf.radiko.jp/9d113ad9-f219-4978-b621-a612186867d9.jpeg",
               "tag": {
@@ -315,6 +306,18 @@
                   },
                   {
                     "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "ノンストップ"
+                  },
+                  {
+                    "name": "邦楽"
+                  },
+                  {
+                    "name": "洋楽"
+                  },
+                  {
+                    "name": "AI"
                   }
                 ]
               },
@@ -348,9 +351,23 @@
               "pfm": "上野智子",
               "img": "https://program-static.cf.radiko.jp/1e46a99f-e42d-46b3-92e2-d40b8f17e647.jpeg",
               "tag": {
-                "item": {
-                  "name": "気分転換におすすめ"
-                }
+                "item": [
+                  {
+                    "name": "気分転換におすすめ"
+                  },
+                  {
+                    "name": "YouTuber出演"
+                  },
+                  {
+                    "name": "ラグビー"
+                  },
+                  {
+                    "name": "上野智子"
+                  },
+                  {
+                    "name": "ばんぴーのとも"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -395,6 +412,9 @@
                   },
                   {
                     "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "邦楽"
                   }
                 ]
               },
@@ -432,9 +452,23 @@
               "pfm": "上野智子",
               "img": "https://program-static.cf.radiko.jp/1e46a99f-e42d-46b3-92e2-d40b8f17e647.jpeg",
               "tag": {
-                "item": {
-                  "name": "気分転換におすすめ"
-                }
+                "item": [
+                  {
+                    "name": "気分転換におすすめ"
+                  },
+                  {
+                    "name": "YouTuber出演"
+                  },
+                  {
+                    "name": "ラグビー"
+                  },
+                  {
+                    "name": "上野智子"
+                  },
+                  {
+                    "name": "ばんぴーのとも"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -469,9 +503,14 @@
               "pfm": "伸太郎 / 甲斐ゼミナール 担当講師",
               "img": "https://program-static.cf.radiko.jp/5664aa80-bd8d-4d39-8f21-4c602f45d896.jpeg",
               "tag": {
-                "item": {
-                  "name": "学生におすすめ"
-                }
+                "item": [
+                  {
+                    "name": "学生におすすめ"
+                  },
+                  {
+                    "name": "伸太郎"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -516,6 +555,9 @@
                   },
                   {
                     "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "邦楽"
                   }
                 ]
               },
@@ -610,6 +652,15 @@
                   },
                   {
                     "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "虹のコンキスタドール"
+                  },
+                  {
+                    "name": "虹コン"
+                  },
+                  {
+                    "name": "征服ちゅうずでぃ"
                   }
                 ]
               },
@@ -656,6 +707,9 @@
                   },
                   {
                     "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "邦楽"
                   }
                 ]
               },
@@ -701,6 +755,21 @@
                   },
                   {
                     "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "タイムマシーン3号"
+                  },
+                  {
+                    "name": "矢久保美緒"
+                  },
+                  {
+                    "name": "乃木坂46"
+                  },
+                  {
+                    "name": "音楽ゲスト"
+                  },
+                  {
+                    "name": "タイムちゃん"
                   }
                 ]
               },
@@ -744,6 +813,12 @@
                   },
                   {
                     "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "Task have Fun"
+                  },
+                  {
+                    "name": "レディオハブファン"
                   }
                 ]
               },
@@ -787,6 +862,9 @@
                   },
                   {
                     "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "上月せれな"
                   }
                 ]
               },
@@ -830,6 +908,9 @@
                   },
                   {
                     "name": "寝る前に聴きたい"
+                  },
+                  {
+                    "name": "MyDearDarlin’"
                   }
                 ]
               },
@@ -872,6 +953,9 @@
                   },
                   {
                     "name": "寝る前に聴きたい"
+                  },
+                  {
+                    "name": "ルルネージュ"
                   }
                 ]
               },
@@ -915,6 +999,9 @@
                   },
                   {
                     "name": "寝る前に聴きたい"
+                  },
+                  {
+                    "name": "洋楽"
                   }
                 ]
               },
