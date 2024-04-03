@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1712082302",
+    "srvtime": "1712169008",
     "stations": {
       "station": {
         "-id": "MRO",
@@ -212,6 +212,10 @@
               "pfm": "黒木瞳",
               "img": "https://program-static.cf.radiko.jp/a1b09982-77f6-46b1-904c-2bd235ce82be.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -336,6 +340,12 @@
               "tag": {
                 "item": {
                   "name": "朝のニュースを効率良く"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -500,8 +510,8 @@
               "title": "テレフォン人生相談",
               "url": "http://www.1242.com/jinseisoudan/",
               "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
               "info": "人生上の悩みや不安に対し、各界の専門家やパーソナリティーが親身に、そしてズバッと答えます。",
               "pfm": "加藤諦三 /  今井通子 /  柴田理恵 /  玉置妙憂 /  田中ウルヴェ京",
               "img": "https://program-static.cf.radiko.jp/1030064b-58b4-4b7f-a160-c2a946ab280e.jpeg",
@@ -949,8 +959,8 @@
               "img": "https://program-static.cf.radiko.jp/5dbf9518-ecd2-4b2c-a422-6947b60b3803.jpeg",
               "genre": {
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P002",
+                  "name": "スポーツ"
                 }
               },
               "metas": {
@@ -1142,8 +1152,8 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C012",
-                  "name": "文化人"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
                   "-id": "P007",
