@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1712169005",
+    "srvtime": "1712255406",
     "stations": {
       "station": {
         "-id": "MRO",
@@ -79,12 +79,6 @@
               "tag": {
                 "item": {
                   "name": "音楽との出会いが楽しめる"
-                }
-              },
-              "genre": {
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
                 }
               },
               "metas": {
@@ -197,6 +191,12 @@
               "info": "深夜ラジオから毎日たくさんの洋楽が流れ<br/>その曲に”ノリノリ”になっていた７０年代や８０年代。「ベストヒットＵＳＡ」などビデオクリップも数多く流れたあの時代の洋楽をたっぷりお届けします",
               "pfm": "佐藤健一",
               "img": "https://program-static.cf.radiko.jp/587ee27c-5a49-4d9c-9ccf-0559a84a678a.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -276,6 +276,16 @@
               "info": "直近の1週間にあった様々なスポーツのトピックから”生島淳さんならでは”の視点でとりあげ、掘り下げ、「まとめて！」ご紹介します",
               "pfm": "藤森祥平 / 北村まあさ / 生島淳",
               "img": "https://program-static.cf.radiko.jp/f8d4b5bc-8332-4986-86a6-4bdf737bada2.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -382,9 +392,13 @@
               "pfm": "谷川恵一",
               "img": "https://program-static.cf.radiko.jp/200c2f2d-b4f3-43d5-87a2-5684c9abd4c0.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -408,6 +422,16 @@
               "info": "旅の楽しさをあなたとシェアして再発見！<br/>知られざる観光地から、一生に一度は行きたい海外の国々まで、<br/>旅にまつわる多彩な話題をピックアップ。<br/>ゲスト＝旅人もお迎えしながらご紹介していきます。<br/>一緒に新しい旅のカタチを探りましょう。<br/>世界16ヵ国を旅した前田明日香がご案内します♪",
               "pfm": "前田明日香",
               "img": "https://program-static.cf.radiko.jp/ff460471-f951-42b1-9910-c6bc63f34fb0.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -431,12 +455,6 @@
               "tag": {
                 "item": {
                   "name": "ニュース"
-                }
-              },
-              "genre": {
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -478,12 +496,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/89be77fd-46d6-466f-be1e-ca46f1354f5b.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -507,12 +519,6 @@
               "tag": {
                 "item": {
                   "name": "ニュース"
-                }
-              },
-              "genre": {
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -567,12 +573,6 @@
                   "name": "ニュース"
                 }
               },
-              "genre": {
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -601,6 +601,10 @@
                 }
               },
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
@@ -679,12 +683,6 @@
               "ts_out_ng": "0",
               "pfm": "堂田恵美 /  和沢とよこ /  前川貴子 /  丸一都美",
               "img": "https://program-static.cf.radiko.jp/a53aa664-326c-49f6-9149-bb79ccc4f57d.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -708,12 +706,6 @@
               "tag": {
                 "item": {
                   "name": "教育"
-                }
-              },
-              "genre": {
-                "program": {
-                  "-id": "P012",
-                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -769,12 +761,6 @@
               "tag": {
                 "item": {
                   "name": "ニュース"
-                }
-              },
-              "genre": {
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -834,6 +820,16 @@
                   "name": "音楽との出会いが楽しめる"
                 }
               },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -858,12 +854,6 @@
                   "name": "音楽との出会いが楽しめる"
                 }
               },
-              "genre": {
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -882,8 +872,13 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "あばれる君",
               "img": "https://program-static.cf.radiko.jp/644a431e-f0e1-4a90-ac35-d0d8756268bb.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -909,6 +904,16 @@
                   "name": "お笑い芸人の最強トーク"
                 }
               },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -930,9 +935,13 @@
               "pfm": "見取り図",
               "img": "https://program-static.cf.radiko.jp/f1c6134d-0516-44c0-bca6-4bf3a48ed84f.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -968,8 +977,8 @@
                   "name": "ミュージシャン"
                 },
                 "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -1010,8 +1019,8 @@
                   "name": "男性アイドル"
                 },
                 "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -1047,8 +1056,8 @@
                   "name": "芸人"
                 },
                 "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -1061,10 +1070,10 @@
             {
               "-id": "9756620",
               "-ft": "20240407030000",
-              "-to": "20240407045800",
+              "-to": "20240407045900",
               "-ftl": "2700",
-              "-tol": "2858",
-              "-dur": "7080",
+              "-tol": "2859",
+              "-dur": "7140",
               "title": "Furui Rihoのオールナイトニッポン０（ＺＥＲＯ）",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -1081,6 +1090,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1090,22 +1109,16 @@
             },
             {
               "-id": "9756621",
-              "-ft": "20240407045800",
+              "-ft": "20240407045900",
               "-to": "20240407050000",
-              "-ftl": "2858",
+              "-ftl": "2859",
               "-tol": "2900",
-              "-dur": "120",
+              "-dur": "60",
               "title": "配信休止",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/644a431e-f0e1-4a90-ac35-d0d8756268bb.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
