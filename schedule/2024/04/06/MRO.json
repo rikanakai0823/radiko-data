@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1712255406",
+    "srvtime": "1712341506",
     "stations": {
       "station": {
         "-id": "MRO",
@@ -135,8 +135,8 @@
                   "name": "芸人"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -477,6 +477,12 @@
               "ts_out_ng": "0",
               "pfm": "朝比奈あきこ",
               "img": "https://program-static.cf.radiko.jp/4ac387db-f5d1-44ed-90bd-b7eb2a5d44d6.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -543,9 +549,13 @@
               "pfm": "サンドウィッチマン",
               "img": "https://program-static.cf.radiko.jp/329361cb-338b-473d-8d48-72c360d818cf.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -683,6 +693,12 @@
               "ts_out_ng": "0",
               "pfm": "堂田恵美 /  和沢とよこ /  前川貴子 /  丸一都美",
               "img": "https://program-static.cf.radiko.jp/a53aa664-326c-49f6-9149-bb79ccc4f57d.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
