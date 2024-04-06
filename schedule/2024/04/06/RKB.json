@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1712169015",
+    "srvtime": "1712427614",
     "stations": {
       "station": {
         "-id": "RKB",
@@ -1056,14 +1056,19 @@
               "pfm": "本田奈也花 / 橋本由紀",
               "img": "https://program-static.cf.radiko.jp/d69ae67e-1504-4381-9772-8eeeda558c2b.jpeg",
               "tag": {
-                "item": {
-                  "name": "サクッと短時間で聴ける"
-                }
+                "item": [
+                  {
+                    "name": "サクッと短時間で聴ける"
+                  },
+                  {
+                    "name": "気分転換におすすめ"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
                   "-id": "P007",
