@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1712600704",
+    "srvtime": "1712686816",
     "stations": {
       "station": {
         "-id": "MRO",
@@ -343,6 +343,12 @@
               "ts_out_ng": "0",
               "info": "7:40　MRO ニュース<br/>7:45　交通情報<br/>7:50　天気予報",
               "img": "https://program-static.cf.radiko.jp/18eeb630-2ab7-47d5-b8a7-627c02d46c61.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -557,6 +563,12 @@
               "ts_out_ng": "0",
               "info": "0:00　ＭＲＯニュース<br/>0:05　天気予報<br/>0:11　証券情報",
               "img": "https://program-static.cf.radiko.jp/18eeb630-2ab7-47d5-b8a7-627c02d46c61.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -839,6 +851,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/f8dec49c-019b-4b23-82c6-0b19af49b991.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -953,6 +971,12 @@
               "tag": {
                 "item": {
                   "name": "音楽との出会いが楽しめる"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
