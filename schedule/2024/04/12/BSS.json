@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1712773209",
+    "srvtime": "1712859010",
     "stations": {
       "station": {
         "-id": "BSS",
@@ -332,6 +332,16 @@
               "info": "朝のスタートに欠かせないニュース、天気、交通情報はもちろん、暮らしを豊かにする地元のこだわり情報を発信！個性豊かなアナウンサーのトークと音楽で、元気な朝がスタート！mailto：asa@bss.jp",
               "pfm": "木野村尚子",
               "img": "https://program-static.cf.radiko.jp/e7422957-f48f-4ac5-80d6-e58847a9b5af.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -446,6 +456,26 @@
               "info": "朝のスタートに欠かせないニュース、天気、交通情報はもちろん、暮らしを豊かにする地元のこだわり情報を発信！個性豊かなアナウンサーのトークと音楽で、元気な朝がスタート！mailto：asa@bss.jp",
               "pfm": "木野村尚子",
               "img": "https://program-static.cf.radiko.jp/e7422957-f48f-4ac5-80d6-e58847a9b5af.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "作業がはかどる"
+                  },
+                  {
+                    "name": "気軽に"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1010,7 +1040,7 @@
               "ts_out_ng": "0",
               "desc": "ポッドWAVE～石川家のフフラジ",
               "info": "鳥取在住のアラフィフ夫婦が、自分たちの結婚生活をリアルに、そして素直に語ります。日常の小さな出来事から大きな決断まで、さまざまなトピックを取り上げ、リスナーに笑いと感動をお届けします。",
-              "pfm": "石川博康 / 田中（石川）友香理",
+              "pfm": "石川博康 / 田中友香理(石川友香理）",
               "img": "https://program-static.cf.radiko.jp/1fd70d5b-83b0-4451-bb99-119a18608c1a.jpeg",
               "metas": {
                 "meta": {
