@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1712772906",
+    "srvtime": "1712946606",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -827,115 +827,31 @@
               }
             },
             {
-              "-id": "9784753",
+              "-id": "9828035",
               "-ft": "20240412210000",
-              "-to": "20240412210500",
+              "-to": "20240412220000",
               "-ftl": "2100",
-              "-tol": "2105",
-              "-dur": "300",
-              "title": "ＡＢＣニュース＆天気予報",
-              "url": "https://www.abc1008.com/",
+              "-tol": "2200",
+              "-dur": "3600",
+              "title": "ＡＢＣフレッシュアップベースボール(4)",
+              "url": "https://abcradio.asahi.co.jp/baseball/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9784754",
-              "-ft": "20240412210500",
-              "-to": "20240412215000",
-              "-ftl": "2105",
-              "-tol": "2150",
-              "-dur": "2700",
-              "title": "小早川秀樹のオシマシ！",
-              "url": "https://abcradio.asahi.co.jp/oshimashi/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_kobayakawa_h.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:om@abc1008.com\">om@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%AA%E3%82%B7%E3%83%9E%E3%82%B7\">#オシマシ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/oshimashi933\">@oshimashi933</a>」<BR><BR><BR>",
-              "pfm": "小早川秀樹",
-              "img": "https://program-static.cf.radiko.jp/fc1e666f-0791-4689-8cbe-0860463101d7.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "#ABCラジオ"
-                  },
-                  {
-                    "name": "こばやん"
-                  },
-                  {
-                    "name": "オシマシ"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
+              "info": "中日―阪神（バンテリンＤ）<BR>※試合終了までお届けします。<BR>解説：福留孝介／実況：森貴俊<BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc_toraban\">@abc_toraban</a>」<BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23toraban1008\">#toraban1008</a>」<BR><BR><BR>",
+              "pfm": "中日―阪神（バンテリンＤ）　  ※試合終了までお届けします。　  解説：福留孝介／実況：森貴俊",
+              "img": "https://program-static.cf.radiko.jp/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
               "metas": {
                 "meta": [
                   {
                     "-name": "twitter",
-                    "-value": "#オシマシ"
+                    "-value": "#toraban1008"
                   },
                   {
                     "-name": "twitter",
-                    "-value": "from:oshimashi933"
+                    "-value": "from:abc_toraban"
                   }
                 ]
-              }
-            },
-            {
-              "-id": "9784755",
-              "-ft": "20240412215000",
-              "-to": "20240412220000",
-              "-ftl": "2150",
-              "-tol": "2200",
-              "-dur": "600",
-              "title": "スポーツ伝説",
-              "url": "https://abcradio.asahi.co.jp",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "pfm": "滝本沙奈",
-              "img": "https://program-static.cf.radiko.jp/4xhcfovoph.jpg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C013",
-                  "name": "アスリート"
-                },
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
               }
             },
             {
@@ -950,12 +866,13 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "info": "阪神タイガースで16年、千葉ロッテマリーンズで2年、合わせて18年、プロの世界でプレーして、2021年限りで現役を引退した鳥谷敬がオールナイトニッポンに初挑戦！<BR>プロ野球界、MLB、そして阪神について語り合う2時間。<BR>ゲストは、松村邦洋さんとダイアン津田さん。そしてニッポン放送の飯田浩司アナウンサー。<BR><BR>メールアドレス：<a href=\"mailto:tori@allnightnippon.com\">tori@allnightnippon.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E9%B3%A5%E8%B0%B7%E6%95%ACANNG\">#鳥谷敬ANNG</a>」<BR><BR><BR>",
               "pfm": "鳥谷敬／ゲスト：松村邦洋／津田篤宏（ダイアン）／アシスタント：飯田浩司",
               "img": "https://program-static.cf.radiko.jp/b12885c8-167d-41ac-adda-13427dd4506c.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#鳥谷敬ANNG"
                 }
               }
             },
@@ -971,12 +888,13 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "info": "阪神タイガースで16年、千葉ロッテマリーンズで2年、合わせて18年、プロの世界でプレーして、2021年限りで現役を引退した鳥谷敬がオールナイトニッポンに初挑戦！<BR>プロ野球界、MLB、そして阪神について語り合う2時間。<BR>ゲストは、松村邦洋さんとダイアン津田さん。そしてニッポン放送の飯田浩司アナウンサー。<BR><BR>メールアドレス：<a href=\"mailto:tori@allnightnippon.com\">tori@allnightnippon.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E9%B3%A5%E8%B0%B7%E6%95%ACANNG\">#鳥谷敬ANNG</a>」<BR><BR><BR>",
               "pfm": "鳥谷敬／ゲスト：松村邦洋／津田篤宏（ダイアン）／アシスタント：飯田浩司",
               "img": "https://program-static.cf.radiko.jp/b12885c8-167d-41ac-adda-13427dd4506c.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#鳥谷敬ANNG"
                 }
               }
             },
@@ -988,11 +906,12 @@
               "-tol": "2430",
               "-dur": "1800",
               "title": "ｇｇ燦然スペシャル－野球、きこうぜ！！－",
-              "url": "https://www.abc1008.com/",
+              "url": "https://abcradio.asahi.co.jp/baseball/themesong/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "pfm": "１０―ＦＥＥＴ（テンフィート）／武田和歌子",
+              "info": "2024ABCプロ野球テーマソング『gg燦然』を書き下ろしたスリーピースロックバンド・10-FEETによる30分のスペシャル番組！<BR><BR><BR><BR><img src=\"https://abcradio.asahi.co.jp/img/cms/topics/300/226_1.jpg\"  width=\"300\"><BR><BR><BR><BR>",
+              "pfm": "１０―ＦＥＥＴ／武田和歌子",
               "img": "https://program-static.cf.radiko.jp/abb53f8a-0245-46a9-b4eb-5225a25faf36.jpeg",
               "metas": {
                 "meta": {

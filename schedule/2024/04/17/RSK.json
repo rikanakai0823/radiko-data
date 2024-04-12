@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1712859008",
+    "srvtime": "1712946608",
     "stations": {
       "station": {
         "-id": "RSK",
@@ -28,6 +28,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -379,10 +383,27 @@
               "ts_out_ng": "0",
               "desc": "　　",
               "img": "https://program-static.cf.radiko.jp/57f93f38-dd78-4ce6-874f-a227bcfc7ad4.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "#音楽番組"
+                  },
+                  {
+                    "name": "#音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "#音楽な時間"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -587,6 +608,10 @@
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -708,6 +733,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -737,6 +766,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -881,6 +914,10 @@
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -984,10 +1021,19 @@
               "desc": "メールはn-jikan@rsk.co.jp\r\nＦＡＸは086-233-3550",
               "info": "おかやまの\r\n知りたい「ニュース」\r\n知りたい「天気予報」\r\n知りたい「交通情報」\r\nギュギュッと３０分でお伝えします！",
               "img": "https://program-static.cf.radiko.jp/ba8dca78-75d4-4265-9d14-05151eb20057.jpeg",
+              "tag": {
+                "item": {
+                  "name": "#サクッと短時間で聴ける"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
