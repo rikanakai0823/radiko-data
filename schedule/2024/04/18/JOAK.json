@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1713204021",
+    "srvtime": "1713290420",
     "stations": {
       "station": {
         "-id": "JOAK",
@@ -499,16 +499,35 @@
             {
               "-id": "9818157",
               "-ft": "20240418115000",
-              "-to": "20240418120000",
+              "-to": "20240418115400",
               "-ftl": "1150",
-              "-tol": "1200",
-              "-dur": "600",
-              "title": "気象情報・交通情報",
+              "-tol": "1154",
+              "-dur": "240",
+              "title": "気象情報",
               "url": "https://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/9x5svpojh8.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9846114",
+              "-ft": "20240418115400",
+              "-to": "20240418120000",
+              "-ftl": "1154",
+              "-tol": "1200",
+              "-dur": "360",
+              "title": "この時間はＮＨＫネットラジオではお聞き頂けません。ラジオのみで放送しています。",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/64b810d0-a8b0-487b-86ed-2212bdfb8379.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -956,16 +975,35 @@
             {
               "-id": "9818179",
               "-ft": "20240418185000",
-              "-to": "20240418190000",
+              "-to": "20240418185400",
               "-ftl": "1850",
-              "-tol": "1900",
-              "-dur": "600",
-              "title": "ニュース・気象情報・交通情報",
+              "-tol": "1854",
+              "-dur": "240",
+              "title": "ニュース・気象情報",
               "url": "https://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/9x5svpojh8.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9846115",
+              "-ft": "20240418185400",
+              "-to": "20240418190000",
+              "-ftl": "1854",
+              "-tol": "1900",
+              "-dur": "360",
+              "title": "この時間はＮＨＫネットラジオではお聞き頂けません。ラジオのみで放送しています。",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/64b810d0-a8b0-487b-86ed-2212bdfb8379.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
