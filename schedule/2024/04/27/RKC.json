@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1713722429",
+    "srvtime": "1713810013",
     "stations": {
       "station": {
         "-id": "RKC",
@@ -206,6 +206,26 @@
               "ts_out_ng": "0",
               "desc": "朝は素敵な音楽でスタート！聴くときっと元気になる！爽やかな曲をお届けします♪",
               "img": "https://program-static.cf.radiko.jp/f7d4f10f-f336-4f55-bfde-f94154172054.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "石田佳世"
+                  },
+                  {
+                    "name": "朝の音楽"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -943,6 +963,16 @@
               "desc": "オードリー二人の「素」が全開！テレビでは聴けない？！限界ギリギリのフリートークが満載！土曜の夜、怒涛の2時間！",
               "pfm": "オードリー（若林正恭・春日俊彰）",
               "img": "https://program-static.cf.radiko.jp/56395a7c-cb7a-47d8-898e-0c5616c91953.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

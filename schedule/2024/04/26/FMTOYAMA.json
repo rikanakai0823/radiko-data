@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1713636026",
+    "srvtime": "1713810012",
     "stations": {
       "station": {
         "-id": "FMTOYAMA",
@@ -1360,7 +1360,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/cvk3inzwoh.jpg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"

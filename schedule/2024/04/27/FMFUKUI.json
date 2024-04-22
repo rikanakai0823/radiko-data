@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1713722430",
+    "srvtime": "1713810005",
     "stations": {
       "station": {
         "-id": "FMFUKUI",
@@ -102,9 +102,17 @@
               "pfm": "萩野公介 / 髙木菜那 / ミノルクリス滝沢",
               "img": "https://program-static.cf.radiko.jp/wex7lxbee5.jpg",
               "tag": {
-                "item": {
-                  "name": "気分転換におすすめ"
-                }
+                "item": [
+                  {
+                    "name": "気分転換におすすめ"
+                  },
+                  {
+                    "name": "フロアス"
+                  },
+                  {
+                    "name": "スポーツ・エンターテインメント"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -221,7 +229,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/3c5egj0elh.jpg",
+              "tag": {
+                "item": {
+                  "name": "国内・海外のニュース"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -343,6 +360,12 @@
                   },
                   {
                     "name": "高見侑里"
+                  },
+                  {
+                    "name": "スポビ"
+                  },
+                  {
+                    "name": "スポーツ・エンターテインメント"
                   }
                 ]
               },
@@ -408,6 +431,11 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tFM福井スタンプラリー「ぐるスタ」の協賛店情報、県内の企業情報、イベントなどをご紹介。 <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/w8m90s2w85.jpg",
+              "tag": {
+                "item": {
+                  "name": "ぐるスタ!"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -440,9 +468,14 @@
               "info": "<div class=\"station_content_description \">\tイマ大注目のアーティストたちと出会えるラジオプログラムが<br />「Good VibeSOUP」<br /><br />様々な音楽ジャンルを咀嚼して新しい音楽を制作、多様性の時代に自由な価値観を持ち、世界の垣根、大人の都合も軽々と飛び越えるような “Good Vibes”なアーティストたちの生の声を、このラジオでシェアしていきます。<br />出演者は週替わり。<br /> <br />各週のパーソナリティが、バラエティに富んだ選曲とトークで、リスナーの心も満たされる具だくさんの“SOUP”のような番組を紡いでいきます。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/60609\">https://audee.jp/program/show/60609</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/goodvibesoup/message\">https://form.audee.jp/goodvibesoup/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23GV%E3%82%B9%E3%83%BC%E3%83%97\">#GVスープ</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/goodvibesoup\">@goodvibesoup</a>」<br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/uq7cgn3msl.jpg",
               "tag": {
-                "item": {
-                  "name": "人気アーティストトーク"
-                }
+                "item": [
+                  {
+                    "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "GVスープ"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -554,7 +587,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/3c5egj0elh.jpg",
+              "tag": {
+                "item": {
+                  "name": "国内・海外のニュース"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -583,9 +625,17 @@
               "pfm": "HiHi Jets",
               "img": "https://program-static.cf.radiko.jp/j793e86hpa.jpg",
               "tag": {
-                "item": {
-                  "name": "人気アーティストトーク"
-                }
+                "item": [
+                  {
+                    "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "ハイラジ"
+                  },
+                  {
+                    "name": "HiHiJets"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -619,9 +669,14 @@
               "pfm": "YUTA（NCT 127）",
               "img": "https://program-static.cf.radiko.jp/l0k124ycph.jpg",
               "tag": {
-                "item": {
-                  "name": "人気アーティストトーク"
-                }
+                "item": [
+                  {
+                    "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "NCT127ユウタの音楽トーク"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -653,7 +708,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/3c5egj0elh.jpg",
+              "tag": {
+                "item": {
+                  "name": "国内・海外のニュース"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -700,6 +764,9 @@
                   },
                   {
                     "name": "安田レイ"
+                  },
+                  {
+                    "name": "JA全農CDJ"
                   }
                 ]
               },
@@ -736,9 +803,14 @@
               "pfm": "住吉美紀",
               "img": "https://program-static.cf.radiko.jp/ijz0qbg0e2.jpg",
               "tag": {
-                "item": {
-                  "name": "住吉美紀"
-                }
+                "item": [
+                  {
+                    "name": "住吉美紀"
+                  },
+                  {
+                    "name": "ちいきのきずな"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -785,6 +857,9 @@
                   },
                   {
                     "name": "福山雅治"
+                  },
+                  {
+                    "name": "福のラジオ"
                   }
                 ]
               },
@@ -818,7 +893,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/3c5egj0elh.jpg",
+              "tag": {
+                "item": {
+                  "name": "国内・海外のニュース"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -843,7 +927,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/ad5f8fec-553a-421a-8e40-6a2cf9a77e89_sq.jpg\" height=\"60\" width=\"60\" alt=\"川上洋平（[Alexandros]）\"></td>  </tr></table><br /><br />\t人気ロックバンド[Alexandros]のフロントマンでもある川上洋平が自身の真ん中にある“音楽”をラジオで放つ番組。<br />毎週ひとつのテーマを掲げ、川上自らが選曲する国内外の珠玉の名曲、ドライブ好きな一面からドライブミュージック、映画好きな一面から名作サウンドトラック…そしてアーティストという一面から自身のバンド [Alexandros] の楽曲をはじめ、土曜15時にぴったりなこだわりのミュージックトークを繰り広げます。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/okashi/\">https://www.tfm.co.jp/okashi/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/okashi/message\">https://www.tfm.co.jp/f/okashi/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%8A%E3%81%A8%E3%82%92%E3%81%8B%E3%81%97\">#おとをかし</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/otookashi_TFM\">@otookashi_TFM</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/ad5f8fec-553a-421a-8e40-6a2cf9a77e89_sq.jpg\" height=\"60\" width=\"60\" alt=\"川上洋平（[Alexandros]）\"></td>  </tr></table><br /><br />\t人気ロックバンド[Alexandros]のフロントマンでもある川上洋平が、自身の真ん中にある“音楽”をラジオで放つ番組。<br />毎週ひとつのテーマを掲げ、川上自らが選曲する国内外の珠玉の名曲、ドライブ好きな一面からドライブミュージック、映画好きな一面から名作サウンドトラック…そしてアーティストという一面から自身のバンド [Alexandros] の楽曲をはじめ、土曜15時にぴったりなこだわりのミュージックトークを繰り広げます。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/okashi/\">https://www.tfm.co.jp/okashi/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/okashi/message\">https://www.tfm.co.jp/f/okashi/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%8A%E3%81%A8%E3%82%92%E3%81%8B%E3%81%97\">#おとをかし</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/otookashi_TFM\">@otookashi_TFM</a>」<br /><br /></div>",
               "pfm": "川上洋平（[Alexandros]）",
               "img": "https://program-static.cf.radiko.jp/o2h1p5dq1h.jpg",
               "tag": {
@@ -868,6 +952,9 @@
                   },
                   {
                     "name": "映画情報が楽しめる"
+                  },
+                  {
+                    "name": "おとをかし"
                   }
                 ]
               },
@@ -941,9 +1028,14 @@
               "pfm": "広瀬すず",
               "img": "https://program-static.cf.radiko.jp/0cwd0n88ew.jpg",
               "tag": {
-                "item": {
-                  "name": "広瀬すず"
-                }
+                "item": [
+                  {
+                    "name": "広瀬すず"
+                  },
+                  {
+                    "name": "よはくじかん"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -977,6 +1069,19 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/4e9fc86d-0351-4660-8978-8621f46e1c03_sq.jpg\" height=\"60\" width=\"60\" alt=\"大島由香里\"></td>  </tr></table><br /><br />\t環境にも人にも優しい活動や取り組み、トピックスをご紹介。<br />今回ご紹介するのは、「まるごとフィッシュブイヨン」 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/hint\">http://www.jfn.jp/hint</a><br /><br /></div>",
               "pfm": "大島由香里",
               "img": "https://program-static.cf.radiko.jp/pxw89hfahi.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "大島由香里"
+                  },
+                  {
+                    "name": "ECOLIFE"
+                  },
+                  {
+                    "name": "幸せのヒント"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -1016,6 +1121,9 @@
                   },
                   {
                     "name": "気分転換におすすめ"
+                  },
+                  {
+                    "name": "スナックラジオ"
                   }
                 ]
               },
@@ -1049,7 +1157,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/3c5egj0elh.jpg",
+              "tag": {
+                "item": {
+                  "name": "国内・海外のニュース"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -1074,8 +1191,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/3061b1de-5499-4d14-8997-59899af8b09a_sq.jpg\" height=\"60\" width=\"60\" alt=\"川島明（麒麟）\"></td>  </tr></table><br /><br />\tそもそも、なんでこの世界に？<br />そもそも、有名になったきっかけは？<br />そもそも、あの作品を手がけた理由は？<br />芸人、俳優、ミュージシャン、漫画家、映画監督、スポーツ選手、料理人……<br />誰でも知ってるあの人の、意外と知らない“そもそもの話”。<br />平日の喧騒を逃れた土曜日。<br />バリトンボイスの聞き巧者 麒麟・川島明がおくるインタビュー番組。<br />様々な質問や相談に川島明が答えていきます。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/somosomo\">https://www.tfm.co.jp/somosomo</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/somosomo/message\">https://www.tfm.co.jp/f/somosomo/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%9D%E3%82%82%E3%81%9D%E3%82%82%E3%81%AE%E8%A9%B1\">#そもそもの話</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/somosomo_no\">@somosomo_no</a>」<br /><br /></div>",
-              "pfm": "川島明（麒麟）",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/3061b1de-5499-4d14-8997-59899af8b09a_sq.jpg\" height=\"60\" width=\"60\" alt=\"川島明（麒麟）\"></td>  </tr></table><br /><br />\tそもそも、なんでこの世界に？<br />そもそも、有名になったきっかけは？<br />そもそも、あの作品を手がけた理由は？<br />芸人、俳優、ミュージシャン、漫画家、映画監督、スポーツ選手、料理人……<br />誰でも知ってるあの人の、意外と知らない“そもそもの話”。<br />平日の喧騒を逃れた土曜日。<br />バリトンボイスの聞き巧者 麒麟・川島明がおくるインタビュー番組。<br />様々な質問や相談に川島明が答えていきます。 <br /><br />\t本日のゲスト：\t\t濵田崇裕（WEST.）\t<br />\t<br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/somosomo\">https://www.tfm.co.jp/somosomo</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/somosomo/message\">https://www.tfm.co.jp/f/somosomo/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%9D%E3%82%82%E3%81%9D%E3%82%82%E3%81%AE%E8%A9%B1\">#そもそもの話</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/somosomo_no\">@somosomo_no</a>」<br /><br /></div>",
+              "pfm": "川島明（麒麟） ゲスト: 濵田崇裕（WEST.）",
               "img": "https://program-static.cf.radiko.jp/lviykmi2bt.jpg",
               "tag": {
                 "item": [
@@ -1084,6 +1201,9 @@
                   },
                   {
                     "name": "気分転換におすすめ"
+                  },
+                  {
+                    "name": "そもそもの話"
                   }
                 ]
               },
@@ -1117,7 +1237,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/3c5egj0elh.jpg",
+              "tag": {
+                "item": {
+                  "name": "国内・海外のニュース"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -1146,9 +1275,20 @@
               "pfm": "山崎あみ / アキラ100% / SAKURAI / 野田ちゃん / マツモトクラブ / ちぇく田",
               "img": "https://program-static.cf.radiko.jp/zc8ei61rr8.jpg",
               "tag": {
-                "item": {
-                  "name": "お笑い芸人の最強トーク"
-                }
+                "item": [
+                  {
+                    "name": "お笑い芸人の最強トーク"
+                  },
+                  {
+                    "name": "みゅじろく"
+                  },
+                  {
+                    "name": "山崎あみ"
+                  },
+                  {
+                    "name": "SMA芸人"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1182,6 +1322,19 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/937abf68-15a1-4454-8c2b-a8cecae51291_sq.jpg\" height=\"60\" width=\"60\" alt=\"RIO\"></td>  </tr></table><br /><br />\tFM大阪が進める飲酒運転撲滅のためのプロジェクト SDD(=STOP! DRUNK DRIBING)。<br /><br />あなたには何ができますか？飲酒運転をなくすために。<br /><br />思いをつなげる番組です。 <br /><br />\t番組Webサイト：<a href=\"http://fmosaka.net/sdd/\">http://fmosaka.net/sdd/</a><br />\tメッセージフォーム：<a href=\"https://fmosaka.futureartist.net/enquete/42604\">https://fmosaka.futureartist.net/enquete/42604</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23SDD\">#SDD</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/SDDproject_851\">@SDDproject_851</a>」<br /><br /></div>",
               "pfm": "RIO",
               "img": "https://program-static.cf.radiko.jp/swn3ise1ue.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "Stop!DrunkDriving"
+                  },
+                  {
+                    "name": "RIO"
+                  },
+                  {
+                    "name": "飲酒運転撲滅"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -1212,7 +1365,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/3c5egj0elh.jpg",
+              "tag": {
+                "item": {
+                  "name": "国内・海外のニュース"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -1241,9 +1403,14 @@
               "pfm": "yama",
               "img": "https://program-static.cf.radiko.jp/y1hj7fcykc.jpg",
               "tag": {
-                "item": {
-                  "name": "人気アーティストトーク"
-                }
+                "item": [
+                  {
+                    "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "yama(やま)"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1277,6 +1444,11 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/be3c31a4-2eea-48b5-8539-9099cf3e7d0d_sq.jpg\" height=\"60\" width=\"60\" alt=\"Aimer\"></td>  </tr></table><br /><br />\tシンガーのAimerが、ラジオを通して、のんびり、ゆったり…。<br />リスナーの皆さんと一緒にひと息つける、そんな時間をお届けします♪<br />お楽しみに！ <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/300007697\">https://audee.jp/program/show/300007697</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/laidback/message\">https://form.audee.jp/laidback/message</a><br /><br /></div>",
               "pfm": "Aimer",
               "img": "https://program-static.cf.radiko.jp/min1mwzqxj.jpg",
+              "tag": {
+                "item": {
+                  "name": "Aimer"
+                }
+              },
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -1306,9 +1478,17 @@
               "pfm": "高橋優",
               "img": "https://program-static.cf.radiko.jp/8b33kjdhh9.jpg",
               "tag": {
-                "item": {
-                  "name": "人気アーティストトーク"
-                }
+                "item": [
+                  {
+                    "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "高橋優の音楽トーク"
+                  },
+                  {
+                    "name": "リアラジ"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1382,7 +1562,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/3c5egj0elh.jpg",
+              "tag": {
+                "item": {
+                  "name": "国内・海外のニュース"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -1411,9 +1600,14 @@
               "pfm": "坂本昌行 / 長野博 / 井ノ原快彦",
               "img": "https://program-static.cf.radiko.jp/fcr3zfvhlb.jpg",
               "tag": {
-                "item": {
-                  "name": "人気アーティストトーク"
-                }
+                "item": [
+                  {
+                    "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "坂本昌行・長野博・井ノ原快彦の音楽トーク"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1445,7 +1639,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/3c5egj0elh.jpg",
+              "tag": {
+                "item": {
+                  "name": "国内・海外のニュース"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -1480,6 +1683,9 @@
                   },
                   {
                     "name": "脳科学"
+                  },
+                  {
+                    "name": "ドリームハート"
                   }
                 ]
               },
@@ -1564,7 +1770,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/3c5egj0elh.jpg",
+              "tag": {
+                "item": {
+                  "name": "国内・海外のニュース"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -1611,6 +1826,9 @@
                   },
                   {
                     "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "やさしい夜遊び"
                   }
                 ]
               },
@@ -1689,6 +1907,9 @@
                   },
                   {
                     "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "ヤマサキ セイヤ(キュウソネコカミ)"
                   }
                 ]
               },
@@ -1724,6 +1945,16 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/e363eb94-3b5f-4692-bd4e-2ee4f45abbb7_sq.jpg\" height=\"60\" width=\"60\" alt=\"市川美絵\"></td>  </tr></table><br /><br />\t時代を超えて愛される楽曲、アーティスト…なぜ聴く人の心を魅了するのか？<br />その秘密を探る番組「週刊音楽論」。<br /><br />【編曲家・大村雅朗論】を音楽評論家のスージー鈴木さんにお伺いします。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/300004984\">https://audee.jp/program/show/300004984</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/shukan-ongaku/message\">https://form.audee.jp/shukan-ongaku/message</a><br /><br /></div>",
               "pfm": "市川美絵",
               "img": "https://program-static.cf.radiko.jp/9toayg9prb.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "週間音楽論"
+                  },
+                  {
+                    "name": "市川美絵"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C015",
@@ -1756,6 +1987,16 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/a79f90fa-36b9-4b3b-bddc-577ded400248_sq.jpg\" height=\"60\" width=\"60\" alt=\"箭内道彦\"></td>  </tr></table><br /><br />\t興奮と余韻の中、伝説の2日間を箭内道彦が振り返る！<br /><br />今回のゲストは、ふくしまFMの三吉 梨香アナウンサー、編成制作部・佐藤 孔太 ディレクター。<br />先週に続いてのご登場です。<br />お二人の感想をもとに、『 箭内道彦 60年記念企画. 風とロック さいしょでさいごの スーパーアリーナ \"FURUSATO\" 』を、箭内さんといっしょに、じっくりと振り返っていきます！ <br /><br />\t本日のゲスト：\t\t三吉梨香\t\t\t、\t\t佐藤孔太（ふくしまFM）\t<br />\t<br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/1936\">https://audee.jp/program/show/1936</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/kazetorock/message\">https://form.audee.jp/kazetorock/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%B8%E3%82%AA%E9%A2%A8%E3%81%A8%E3%83%AD%E3%83%83%E3%82%AF\">#ラジオ風とロック</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/radiokazetorock\">@radiokazetorock</a>」<br /><br /></div>",
               "pfm": "箭内道彦 ゲスト: 三吉梨香 / 佐藤孔太（ふくしまFM）",
               "img": "https://program-static.cf.radiko.jp/1xi9qf6m4a.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ラジオ風とロック"
+                  },
+                  {
+                    "name": "箭内道彦"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C012",
@@ -1788,7 +2029,21 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/2a9f2778-9a44-4e99-891c-9a5f4695c517_sq.jpg\" height=\"60\" width=\"60\" alt=\"山中千尋\"></td>  </tr></table><br /><br />\t今回は“モダン・ジャズ最後の巨人”と呼ばれたテナーサックス奏者ソニー・ロリンズの「ニュークス・タイム」。<br />テナーの巨人によるブルーノート最終作をレミニセンス。 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/chihiro/\">http://www.jfn.jp/chihiro/</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/Jazzreminiscence/message\">https://form.audee.jp/Jazzreminiscence/message</a><br /><br /></div>",
               "pfm": "山中千尋",
               "img": "https://program-static.cf.radiko.jp/n9bqqyw7ff.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "JAZZ"
+                  },
+                  {
+                    "name": "山中千尋"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -1813,9 +2068,19 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/e4bfc8f6-00f5-492e-90a5-2fc1bddba932_sq.jpg\" height=\"60\" width=\"60\" alt=\"古川琢也（ＮＭＥ Japan編集長）\"></td>  </tr></table><br /><br />\t1952 年、イギリスでスタートした『NME :ニュー・ミュージカル・エクスプレス』。70 年以上にわたってシーンを見続けてきた、国際的な音楽メディアです。『RADIO NME JAPAN』では、『NME Japan』の編集長・古川琢也が、 ジャンルレスに、独自の視点の音楽シーンを切り取ります。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/300006342\">https://audee.jp/program/show/300006342</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/radionme/message\">https://form.audee.jp/radionme/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23RADIONMEJAPAN\">#RADIONMEJAPAN</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/radionmejapan\">@radionmejapan</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/e4bfc8f6-00f5-492e-90a5-2fc1bddba932_sq.jpg\" height=\"60\" width=\"60\" alt=\"古川琢也（ＮＭＥ Japan編集長）\"></td>  </tr></table><br /><br />\t今週は、「2024年、四半期を終えて「かけられていなかった曲特集」をお届け。<br />さらに、後半はフェス・ジャーナリストで、『Festival Life』編集長の津田昌太朗さんをお迎えして、<br />国内のフェス事情を伺いました。<br /><br />1952 年、イギリスでスタートした『NME :ニュー・ミュージカル・エクスプレス』。70 年以上にわたってシーンを見続けてきた、国際的な音楽メディアです。『RADIO NME JAPAN』では、『NME Japan』の編集長・古川琢也が、 ジャンルレスに、独自の視点の音楽シーンを切り取ります。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/300006342\">https://audee.jp/program/show/300006342</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/radionme/message\">https://form.audee.jp/radionme/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23RADIONMEJAPAN\">#RADIONMEJAPAN</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/radionmejapan\">@radionmejapan</a>」<br /><br /></div>",
               "pfm": "古川琢也（ＮＭＥ Japan編集長）",
               "img": "https://program-static.cf.radiko.jp/x3wyvfd1el.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "NMEJAPAN"
+                  },
+                  {
+                    "name": "古川琢也"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C012",

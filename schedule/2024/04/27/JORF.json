@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1713722430",
+    "srvtime": "1713809706",
     "stations": {
       "station": {
         "-id": "JORF",
@@ -22,6 +22,16 @@
               "ts_out_ng": "0",
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
               "img": "https://program-static.cf.radiko.jp/bcaa3eae-7605-464e-9c4c-923c3e9371e4.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -183,6 +193,16 @@
               "ts_out_ng": "0",
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
               "img": "https://program-static.cf.radiko.jp/bcaa3eae-7605-464e-9c4c-923c3e9371e4.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -243,6 +263,16 @@
               "ts_out_ng": "0",
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
               "img": "https://program-static.cf.radiko.jp/bcaa3eae-7605-464e-9c4c-923c3e9371e4.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -368,18 +398,67 @@
             {
               "-id": "9840687",
               "-ft": "20240427093000",
-              "-to": "20240427163500",
+              "-to": "20240427130000",
               "-ftl": "0930",
-              "-tol": "1635",
-              "-dur": "25500",
-              "title": "土曜競馬実況中継",
+              "-tol": "1300",
+              "-dur": "12600",
+              "title": "土曜競馬実況中継(1)",
               "url": "https://www.jorf.co.jp/?program=keiba",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "▽競馬実況はレース直前まで情報満載のラジオ日本で！競馬場から生中継！<br><br>番組X（<a href=\"https://X.com/keiba1422\">@keiba1422</a>）でも情報満載にお届けしています！",
+              "desc": "▽競馬実況はレース直前まで情報満載のラジオ日本で！競馬場から生中継！<br>「是政ステークス」「府中市市制施行70周年記念」「第３１回青葉賞（Ｇ２）」「最終レース」〜東京競馬場　「第２９回ユニコーンステークス（Ｇ３）」「最終レース」〜京都競馬場<br>番組X（<a href=\"https://X.com/keiba1422\">@keiba1422</a>）でも情報満載にお届けしています！",
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
-              "pfm": "解説：西山智昭　舘林勲（第１部）　水上学　渡辺芳徳（第２部）",
+              "pfm": "解説：舘林勲　角田晨",
+              "img": "https://program-static.cf.radiko.jp/ydccjm8hat.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "#JRA"
+                  },
+                  {
+                    "name": "#競馬"
+                  },
+                  {
+                    "name": "#ラジオ日本"
+                  },
+                  {
+                    "name": "#keiba"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P019",
+                  "name": "公営競技"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9871644",
+              "-ft": "20240427130000",
+              "-to": "20240427163500",
+              "-ftl": "1300",
+              "-tol": "1635",
+              "-dur": "12900",
+              "title": "土曜競馬実況中継(2)",
+              "url": "https://www.jorf.co.jp/?program=keiba",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "▽競馬実況はレース直前まで情報満載のラジオ日本で！競馬場から生中継！<br>「是政ステークス」「府中市市制施行70周年記念」「第３１回青葉賞（Ｇ２）」「最終レース」〜東京競馬場　「第２９回ユニコーンステークス（Ｇ３）」「最終レース」〜京都競馬場<br>番組X（<a href=\"https://X.com/keiba1422\">@keiba1422</a>）でも情報満載にお届けしています！",
+              "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
+              "pfm": "解説：渡辺芳徳　水上学　",
               "img": "https://program-static.cf.radiko.jp/ydccjm8hat.jpg",
               "tag": {
                 "item": [
@@ -428,6 +507,16 @@
               "desc": "気になるスポーツのトピックスと曲、交通情報をお届けします。",
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
               "img": "https://program-static.cf.radiko.jp/2a3d6b87-cd38-49ef-bcc2-4dfd3cbf36c6.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -483,6 +572,16 @@
               "ts_out_ng": "0",
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
               "img": "https://program-static.cf.radiko.jp/bcaa3eae-7605-464e-9c4c-923c3e9371e4.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -563,6 +662,16 @@
               "ts_out_ng": "0",
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
               "img": "https://program-static.cf.radiko.jp/bcaa3eae-7605-464e-9c4c-923c3e9371e4.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -817,7 +926,7 @@
               "ts_out_ng": "0",
               "desc": "▽国民的アイドルグループのモーニング娘。’24メンバーが「学校の放課後」のような楽しいおしゃべりの時間を繰り広げる。次世代の主役を担う彼女たちが等身大で語り合い、またリスナーとともに楽しく元気に「成長」していく姿をお届けします。<br>メール：<A Href=mailto:morning@jorf.co.jp\">morning@jorf.co.jp</A><br>番組公式Xアカウント：<a href=\"https://X.com/morning1422\" target=\"_blank\">morning1422</A>",
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23morning1422\">#morning1422</a>」",
-              "pfm": "モーニング娘。’24（石田亜佑美　牧野真莉愛　櫻井梨央）",
+              "pfm": "モーニング娘。’24（小田さくら 岡村ほまれ 井上春華）",
               "img": "https://program-static.cf.radiko.jp/0e4ded43-4c8e-4df3-b45f-0d13d855b6e7.jpeg",
               "metas": {
                 "meta": {
@@ -841,6 +950,26 @@
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23karin924\">#karin924</a>」",
               "pfm": "宮本佳林",
               "img": "https://program-static.cf.radiko.jp/7378334d-153d-4d08-b189-f93f93442c6b.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "学生におすすめ"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -862,8 +991,23 @@
               "ts_out_ng": "0",
               "desc": "▽ときめく何かを宣伝するために結成された”超ときめき宣伝部”のメンバーが、毎週全力でリスナーのみなさんを笑顔にする30分をお送りします。番組公式Xアカウント：<A Href=\"https://X.com/haretoki1422\" target=\"_blank\">@haretoki1422</a>",
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
-              "pfm": "超ときめき宣伝部（杏ジュリア　小泉遥香　吉川ひより）",
+              "pfm": "超ときめき宣伝部（坂井仁香 小泉遥香）",
               "img": "https://program-static.cf.radiko.jp/b83c5f38-6220-4db1-a7b3-8b620c00a9d3.jpeg",
+              "tag": {
+                "item": {
+                  "name": "学生におすすめ"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -887,6 +1031,16 @@
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23umakata\">#umakata</a>」",
               "pfm": "高柳明音",
               "img": "https://program-static.cf.radiko.jp/b08d6bd9-f7c4-4fa3-b1d6-18214db3779e.png",
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -910,6 +1064,32 @@
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E6%8E%A8%E3%81%97%E3%81%BE%E3%81%84\">#推しまい</a>」",
               "pfm": "白藤環（えのぐ）",
               "img": "https://program-static.cf.radiko.jp/c756c081-1f48-4e83-b177-08d641b979be.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "推しまい"
+                  },
+                  {
+                    "name": "白藤環"
+                  },
+                  {
+                    "name": "えのぐ"
+                  },
+                  {
+                    "name": "ラジオ日本"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -956,6 +1136,21 @@
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%9E%E3%82%B8%E3%83%A9%E3%82%B8\">#マジラジ</a>」",
               "pfm": "マジカル・パンチライン",
               "img": "https://program-static.cf.radiko.jp/0e54264c-ec15-494b-ba81-5b19a43bdc44.jpeg",
+              "tag": {
+                "item": {
+                  "name": "学生におすすめ"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -999,6 +1194,12 @@
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
               "pfm": "小林幸明",
               "img": "https://program-static.cf.radiko.jp/2a3d6b87-cd38-49ef-bcc2-4dfd3cbf36c6.png",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1019,6 +1220,28 @@
               "ts_out_ng": "0",
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
               "img": "https://program-static.cf.radiko.jp/0d005ccd-dae3-4c10-894a-bb57faa15089.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "寝る前に聴きたい"
+                  },
+                  {
+                    "name": "気分転換におすすめ"
+                  },
+                  {
+                    "name": "作業がはかどる"
+                  },
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

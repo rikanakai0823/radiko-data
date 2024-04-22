@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1713722429",
+    "srvtime": "1713810003",
     "stations": {
       "station": {
         "-id": "RCC",
@@ -72,6 +72,11 @@
               "ts_out_ng": "0",
               "pfm": "長谷川努",
               "img": "https://program-static.cf.radiko.jp/facd6583-a762-4d5f-a072-03bf9d387c83.png",
+              "tag": {
+                "item": {
+                  "name": "JPOP"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -326,6 +331,29 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/c0639e7e-ca82-4ac2-9676-96c1046c48be.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "広島県"
+                  },
+                  {
+                    "name": "ニュース番組"
+                  },
+                  {
+                    "name": "#サクッと短時間で聴ける"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -505,6 +533,29 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/c0639e7e-ca82-4ac2-9676-96c1046c48be.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "広島県"
+                  },
+                  {
+                    "name": "ニュース番組"
+                  },
+                  {
+                    "name": "#サクッと短時間で聴ける"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -519,12 +570,17 @@
               "-ftl": "1300",
               "-tol": "1345",
               "-dur": "2700",
-              "title": "番組：軽マーケットプレゼンツ  釣りラジオ番外編！新沢亮二の釣れなくても釣りラジオ",
+              "title": "軽マーケットプレゼンツ  釣りラジオ番外編",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "pfm": "道盛浩、藤田弘之、新沢亮二(軽マーケット)、チーム軽マーケット",
-              "img": "https://program-static.cf.radiko.jp/656e1799-db8f-42f8-9b9a-8b64011e83bd.jpeg",
+              "img": "https://program-static.cf.radiko.jp/2bd85d2c-cacb-4703-b7e8-7e86629559b3.png",
+              "tag": {
+                "item": {
+                  "name": "釣り"
+                }
+              },
               "genre": {
                 "program": {
                   "-id": "P006",
@@ -550,6 +606,17 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/656e1799-db8f-42f8-9b9a-8b64011e83bd.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ショッピング"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1045,6 +1112,29 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/c0639e7e-ca82-4ac2-9676-96c1046c48be.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "広島県"
+                  },
+                  {
+                    "name": "ニュース番組"
+                  },
+                  {
+                    "name": "#サクッと短時間で聴ける"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1132,6 +1222,11 @@
               "ts_out_ng": "0",
               "pfm": "SixTONES(ジェシー/京本大我/松村北斗/髙地優吾/森本慎太郎/田中樹)",
               "img": "https://program-static.cf.radiko.jp/cb1c0d5a-b842-4cd4-b669-dcb59194c94a.jpeg",
+              "tag": {
+                "item": {
+                  "name": "SixTONESANN"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C007",
@@ -1163,7 +1258,16 @@
               "ts_out_ng": "0",
               "pfm": "オードリー",
               "img": "https://program-static.cf.radiko.jp/a23e2cc6-66f7-416d-acdb-d66911984fff.jpeg",
+              "tag": {
+                "item": {
+                  "name": "オードリー"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
@@ -1189,6 +1293,11 @@
               "ts_out_ng": "0",
               "pfm": "メンバー",
               "img": "https://program-static.cf.radiko.jp/8b93f471-705a-40e2-8f6d-6a6651701e30.jpeg",
+              "tag": {
+                "item": {
+                  "name": "メンバー"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C009",
@@ -1267,6 +1376,17 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/656e1799-db8f-42f8-9b9a-8b64011e83bd.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ショッピング"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

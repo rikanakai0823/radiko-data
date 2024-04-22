@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1713636026",
+    "srvtime": "1713810006",
     "stations": {
       "station": {
         "-id": "FMS",
@@ -1323,7 +1323,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tFM佐賀ニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/60f5d173-ea73-43a8-b8df-a0b0a320abe9.jpeg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1713722429",
+    "srvtime": "1713810005",
     "stations": {
       "station": {
         "-id": "RKK",
@@ -42,11 +42,30 @@
               }
             },
             {
-              "-id": "9855203",
+              "-id": "9864219",
               "-ft": "20240427053000",
               "-to": "20240427054500",
               "-ftl": "0530",
               "-tol": "0545",
+              "-dur": "900",
+              "title": "健やかナビゲーション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/5605b7c6-5ac8-487b-9af2-e1f285939920.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9864220",
+              "-ft": "20240427054500",
+              "-to": "20240427060000",
+              "-ftl": "0545",
+              "-tol": "0600",
               "-dur": "900",
               "title": "ジミー入枝のドゥーワップ・ステーション",
               "url": "https://blogs.mbc.co.jp/doo-wop/program/",
@@ -54,9 +73,9 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "DOO-WOPシンガー ジミー入枝(じみー・いりえだ)が、お届けする15分間！\r\nDOO-WOPに限らず、ドリフ・ナイアガラサウンド・冗談音楽・カバーPOPS・昭和歌謡・民謡・童謡歌唱、R&B・OLDIES R&B…\r\n様々なアプローチによる選曲でお届けします。",
-              "info": "▼メール　jimmy@mbc.co.jp　▼FAX　099-250-1107<br />\r\n▼はがき　〒890-8570 \r\nＭＢＣラジオ「ジミー入枝のドゥーワップ・ステーション」係",
+              "info": "▼メール　jimmy@mbc.co.jp　▼FAX　099-250-1107<br />\r\n▼はがき　〒890-8570 \r\nＭＢＣラジオ「ジミー入枝のドゥーワップ・ステーション」係<br />\r\n<!-- img:https://rkk.jp/radikoimg/edit_r/img20220928233205.png -->",
               "pfm": "ジミー入枝（DOO-WOPシンガー）",
-              "img": "https://program-static.cf.radiko.jp/5605b7c6-5ac8-487b-9af2-e1f285939920.jpeg",
+              "img": "https://program-static.cf.radiko.jp/enq6g1jsrz.png",
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -67,25 +86,6 @@
                   "name": "音楽"
                 }
               },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9855204",
-              "-ft": "20240427054500",
-              "-to": "20240427060000",
-              "-ftl": "0545",
-              "-tol": "0600",
-              "-dur": "900",
-              "title": "ときめきショッピング",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/5605b7c6-5ac8-487b-9af2-e1f285939920.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -138,7 +138,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "毎週、消防応援団の方をゲストパーソナリティに迎え、全国各地の消防団員等のインタビューを通して、大切な「わがまち・ふるさと」を守る消防団員としての活動や体験、心がまえやエピソードをお送りします。",
+              "desc": "毎週、消防応援団の方をゲストパーソナリティに迎え、全国各地の消防団員等のインタビューを通して、大切な「わがまち・ふるさと」を守る消防団員としての活動や体験、心がまえやエピソードをお送りします。\r\n\r\n",
               "pfm": "ひろたみゆ紀",
               "img": "https://program-static.cf.radiko.jp/5605b7c6-5ac8-487b-9af2-e1f285939920.jpeg",
               "genre": {
@@ -194,7 +194,7 @@
               "-ftl": "0715",
               "-tol": "0730",
               "-dur": "900",
-              "title": "まいどあり～",
+              "title": "まいどあり～。",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -245,17 +245,23 @@
               }
             },
             {
-              "-id": "9855210",
+              "-id": "9864221",
               "-ft": "20240427074500",
               "-to": "20240427080000",
               "-ftl": "0745",
               "-tol": "0800",
               "-dur": "900",
-              "title": "健康知恵袋",
+              "title": "ピックアップラジオショッピング",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/5605b7c6-5ac8-487b-9af2-e1f285939920.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -284,17 +290,23 @@
               }
             },
             {
-              "-id": "9855212",
+              "-id": "9864222",
               "-ft": "20240427081500",
               "-to": "20240427083000",
               "-ftl": "0815",
               "-tol": "0830",
               "-dur": "900",
-              "title": "立ち上がれ！アクティブ健康ライフ",
+              "title": "今旬！インフォメーション",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/5605b7c6-5ac8-487b-9af2-e1f285939920.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -313,7 +325,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "新人から大物まで様々なアーティストを迎え、音楽・プライベートトークをお送りする",
+              "desc": "毎回、新人から大物まで、様々な旬のアーティストをゲストに迎え、音楽やプライベートの話など、ゲストの魅力を引き出します。",
               "info": "<!-- img:https://rkk.jp/radikoimg/edit_r/img20210317175751.jpg -->",
               "pfm": "松本英子",
               "img": "https://program-static.cf.radiko.jp/yv76blngjf.jpg",
@@ -335,17 +347,25 @@
               }
             },
             {
-              "-id": "9855214",
+              "-id": "9864223",
               "-ft": "20240427084500",
               "-to": "20240427090000",
               "-ftl": "0845",
               "-tol": "0900",
               "-dur": "900",
-              "title": "健やかインフォメーション",
+              "title": "わくわくお届け便",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "desc": "時にはゲストを迎えたり電話をつないだりしながら、聴いてワクワクするような旬な商品情報をお届けしていきます。",
+              "pfm": "ねずっち　竹内都子（ピンクの電話）　島田秀平　真木ひろか",
               "img": "https://program-static.cf.radiko.jp/5605b7c6-5ac8-487b-9af2-e1f285939920.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -354,29 +374,29 @@
               }
             },
             {
-              "-id": "9855215",
+              "-id": "9864224",
               "-ft": "20240427090000",
               "-to": "20240427100000",
               "-ftl": "0900",
               "-tol": "1000",
               "-dur": "3600",
-              "title": "糸永・大輔　ラジオやってます",
-              "url": "https://twitter.com/itodai_rKK",
+              "title": "糸永・洋平　ラジオやってます",
+              "url": "https://rkk.jp/itohey/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "情報・音楽・トーク・ネタコーナーをバランス良く！\r\n土曜の朝にゆっくり笑えるラジオやってます。\r\nどんなネタが飛び出すかお楽しみに！！",
-              "info": "▼メール　itodai@rkk.jp　▼FAX　096-356-1115<br />\r\n<br />\r\n09:05　熊日ニュース<br />\r\n09:11　天気予報<br />\r\n09:14　クイズ・ムーンリバース<br />\r\n09:56　ものまねＨＥＲＯＥＳリクエスト<br />\r\n<br />\r\n<!-- tw:itodai_rKK\r\nimg:https://rkk.jp/radikoimg/edit_r/img20220330174022.jpg -->",
-              "pfm": "糸永有希　渡辺大輔",
-              "img": "https://program-static.cf.radiko.jp/8nd6no5cha.jpg",
+              "desc": "2024年4月「ラジオやってます」がリニューアル！<br />\r\n「モノマネオールスターリクエスト」「ヒトゴト相談室」などの人気コーナーはそのままに、情報・音楽・トーク・ネタコーナーなど盛り沢山でお送りする2時間30分の生放送！<br />\r\n今週は、RKKアナウンサー・糸永有希 と山田法子（代打）のコンビで、週末の朝に刺激を与えるラジオやってます！\r\nどんな展開になるのかお楽しみに！",
+              "info": "▼メール　itohey@rkk.jp　▼FAX：096-356-1115<br />\r\n<br />\r\n09:07　熊日ニュース<br />\r\n09:15　これからのお天気<br />\r\n09:20　クイズ・ムーンリバース<br />\r\n09:25　今週のニュースフラッシュ<br />\r\n09:56　ものまねオールスターリクエスト<br />\r\n<br />\r\n<!-- tw:itohey_rkk insta:itohey_rkk\r\nimg:https://rkk.jp/radikoimg/edit_r/img20240328231156.jpg -->",
+              "pfm": "糸永有希　山田法子（代打）",
+              "img": "https://program-static.cf.radiko.jp/3us2ta4d7n.jpg",
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -387,29 +407,29 @@
               }
             },
             {
-              "-id": "9855216",
+              "-id": "9864225",
               "-ft": "20240427100000",
               "-to": "20240427110000",
               "-ftl": "1000",
               "-tol": "1100",
               "-dur": "3600",
-              "title": "糸永・大輔　ラジオやってます",
-              "url": "https://twitter.com/itodai_rKK",
+              "title": "糸永・洋平　ラジオやってます",
+              "url": "https://rkk.jp/itohey/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "情報・音楽・トーク・ネタコーナーをバランス良く！\r\n土曜の朝にゆっくり笑えるラジオやってます。\r\nどんなネタが飛び出すかお楽しみに！！",
-              "info": "▼メール　itodai@rkk.jp　▼FAX　096-356-1115<br />\r\n<br />\r\n10:00　熊日ニュース<br />\r\n<br />\r\n<!-- tw:itodai_rKK\r\nimg:https://rkk.jp/radikoimg/edit_r/img20220330174022.jpg -->",
-              "pfm": "糸永有希　渡辺大輔",
-              "img": "https://program-static.cf.radiko.jp/8nd6no5cha.jpg",
+              "desc": "2024年4月「ラジオやってます」がリニューアル！<br />\r\n「モノマネオールスターリクエスト」「ヒトゴト相談室」などの人気コーナーはそのままに、情報・音楽・トーク・ネタコーナーなど盛り沢山でお送りする2時間30分の生放送！<br />\r\n今週は、RKKアナウンサー・糸永有希 と山田法子（代打）のコンビで、週末の朝に刺激を与えるラジオやってます！\r\nどんな展開になるのかお楽しみに！",
+              "info": "▼メール　itohey@rkk.jp　▼FAX：096-356-1115<br />\r\n<br />\r\n10:00　熊日ニュース<br />\r\n10:20　やらかけ流し温泉<br />\r\n10:45　糸永有希のヒトゴト相談室<br />\r\n<br />\r\n<!-- tw:itohey_rkk insta:itohey_rkk\r\nimg:https://rkk.jp/radikoimg/edit_r/img20240328231156.jpg -->",
+              "pfm": "糸永有希　山田法子（代打）",
+              "img": "https://program-static.cf.radiko.jp/3us2ta4d7n.jpg",
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -420,29 +440,29 @@
               }
             },
             {
-              "-id": "9855217",
+              "-id": "9864226",
               "-ft": "20240427110000",
               "-to": "20240427113000",
               "-ftl": "1100",
               "-tol": "1130",
               "-dur": "1800",
-              "title": "糸永・大輔　ラジオやってます",
-              "url": "https://twitter.com/itodai_rKK",
+              "title": "糸永・洋平　ラジオやってます",
+              "url": "https://rkk.jp/itohey/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "情報・音楽・トーク・ネタコーナーをバランス良く！\r\n土曜の朝にゆっくり笑えるラジオやってます。\r\nどんなネタが飛び出すかお楽しみに！！",
-              "info": "▼メール　itodai@rkk.jp　▼FAX　096-356-1115<br />\r\n<!-- tw:itodai_rKK\r\nimg:https://rkk.jp/radikoimg/edit_r/img20220330174022.jpg -->",
-              "pfm": "糸永有希　渡辺大輔",
-              "img": "https://program-static.cf.radiko.jp/8nd6no5cha.jpg",
+              "desc": "2024年4月「ラジオやってます」がリニューアル！<br />\r\n「モノマネオールスターリクエスト」「ヒトゴト相談室」などの人気コーナーはそのままに、情報・音楽・トーク・ネタコーナーなど盛り沢山でお送りする2時間30分の生放送！<br />\r\n今週は、RKKアナウンサー・糸永有希 と山田法子（代打）のコンビで、週末の朝に刺激を与えるラジオやってます！\r\nどんな展開になるのかお楽しみに！",
+              "info": "▼メール　itohey@rkk.jp　▼FAX：096-356-1115<br />\r\n<br />\r\n11:10　糸畑任三郎<br />\r\n11:20　留守電メッセージ供養（TEL：096-351-3511）<br />\r\n<br />\r\n<!-- tw:itohey_rkk insta:itohey_rkk\r\nimg:https://rkk.jp/radikoimg/edit_r/img20240328231156.jpg -->",
+              "pfm": "糸永有希　山田法子（代打）",
+              "img": "https://program-static.cf.radiko.jp/3us2ta4d7n.jpg",
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -453,17 +473,23 @@
               }
             },
             {
-              "-id": "9855218",
+              "-id": "9864227",
               "-ft": "20240427113000",
               "-to": "20240427114500",
               "-ftl": "1130",
               "-tol": "1145",
               "-dur": "900",
-              "title": "健康ステップアップ",
+              "title": "健康生活インフォメーション",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/5605b7c6-5ac8-487b-9af2-e1f285939920.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -482,6 +508,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "desc": "竹内郁子、ねづっち、島田秀平、真木ひろかが、最新のおすすめ商品や気になる商品、巷で話題の商品などを楽しいトークとともにご紹介する番組です。あなたのお気に入り商品が見つかるかも",
               "img": "https://program-static.cf.radiko.jp/5605b7c6-5ac8-487b-9af2-e1f285939920.jpeg",
               "genre": {
                 "program": {
@@ -509,9 +536,9 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "個性的な出演者たちと、ユニークなコーナーで構成された5時間15分の土曜午後の生ワイド!音楽ファンもヲタクも満足かな!?",
-              "info": "▼メール　da@rkk.jp　▼FAX　096-356-1117<br />\r\n<br />\r\n12：04　熊日ニュース<br />\r\n12：09　天気予報<br />\r\n<br />\r\n<!-- tw:doyoego img:https://rkk.jp/radikoimg/top/da.jpg -->",
+              "info": "▼メール　da@rkk.jp　▼FAX　096-356-1117<br />\r\n<br />\r\n12：04　熊日ニュース<br />\r\n12：07　天気予報<br />\r\n<br />\r\n<!-- tw:doyoego img:https://rkk.jp/radikoimg/edit_r/img20240405173040.jpg -->",
               "pfm": "江越哲也＆サタピン隊",
-              "img": "https://program-static.cf.radiko.jp/fav7is514b.jpg",
+              "img": "https://program-static.cf.radiko.jp/x9vojby1zz.jpg",
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -542,9 +569,9 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "個性的な出演者たちと、ユニークなコーナーで構成された5時間15分の土曜午後の生ワイド!音楽ファンもヲタクも満足かな!?",
-              "info": "▼メール　da@rkk.jp　▼FAX　096-356-1117<br />\r\n<!-- tw:doyoego img:https://rkk.jp/radikoimg/top/da.jpg -->",
+              "info": "▼メール　da@rkk.jp　▼FAX　096-356-1117<br />\r\n<br />\r\n<!-- tw:doyoego img:https://rkk.jp/radikoimg/edit_r/img20240405173040.jpg -->",
               "pfm": "江越哲也＆サタピン隊",
-              "img": "https://program-static.cf.radiko.jp/fav7is514b.jpg",
+              "img": "https://program-static.cf.radiko.jp/x9vojby1zz.jpg",
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -574,6 +601,16 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/5605b7c6-5ac8-487b-9af2-e1f285939920.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -594,9 +631,9 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "RKK開局以来続く長寿番組。午後のひととき、リクエスト曲の数々でお楽しみ下さい。\r\n皆さんからのリクエストお待ちしています！",
-              "info": "▼メール　ippuku@rkk.jp<br />\r\n<br />\r\n<!--img:https://rkk.jp/radikoimg/edit_r/img20200929123541.jpg -->\r\n\r\n\r\n\r\n",
+              "info": "▼メール　ippuku@rkk.jp<br />\r\n<br />\r\n<!-- img:https://rkk.jp/radikoimg/edit_r/img20240329002206.jpg -->\r\n\r\n\r\n\r\n",
               "pfm": "鬼塚えりこ",
-              "img": "https://program-static.cf.radiko.jp/c35xqavbd8.jpg",
+              "img": "https://program-static.cf.radiko.jp/7exbry4fzp.jpg",
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -615,22 +652,19 @@
               }
             },
             {
-              "-id": "9855224",
+              "-id": "9864228",
               "-ft": "20240427142500",
               "-to": "20240427143500",
               "-ftl": "1425",
               "-tol": "1435",
               "-dur": "600",
-              "title": "今旬！いいもの百貨店",
+              "title": "健康テンミニッツ",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "desc": "今、おすすめしたい商品をご紹介する番組。",
               "img": "https://program-static.cf.radiko.jp/5605b7c6-5ac8-487b-9af2-e1f285939920.jpeg",
               "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
                 "program": {
                   "-id": "P018",
                   "name": "ショッピング"
@@ -656,9 +690,9 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "個性的な出演者たちと、ユニークなコーナーで構成された5時間15分の土曜午後の生ワイド!音楽ファンもヲタクも満足かな!?",
-              "info": "▼メール　da@rkk.jp　▼FAX　096-356-1117<br />\r\n<!-- tw:doyoego img:https://rkk.jp/radikoimg/top/da.jpg -->",
+              "info": "▼メール　da@rkk.jp　▼FAX　096-356-1117<br />\r\n<!-- tw:doyoego img:https://rkk.jp/radikoimg/edit_r/img20240405173040.jpg -->",
               "pfm": "江越哲也＆サタピン隊",
-              "img": "https://program-static.cf.radiko.jp/fav7is514b.jpg",
+              "img": "https://program-static.cf.radiko.jp/x9vojby1zz.jpg",
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -689,9 +723,9 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "個性的な出演者たちと、ユニークなコーナーで構成された5時間15分の土曜午後の生ワイド!音楽ファンもヲタクも満足かな!?",
-              "info": "▼メール　da@rkk.jp　▼FAX　096-356-1117<br />\r\n<br />\r\n15:00　熊日ピックアップ<br />\r\n15:20　交通情報<br />\r\n<br />\r\n<!-- tw:doyoego img:https://rkk.jp/radikoimg/top/da.jpg -->",
+              "info": "▼メール　da@rkk.jp　▼FAX　096-356-1117<br />\r\n<br />\r\n<!-- tw:doyoego img:https://rkk.jp/radikoimg/edit_r/img20240405173040.jpg -->",
               "pfm": "江越哲也＆サタピン隊",
-              "img": "https://program-static.cf.radiko.jp/fav7is514b.jpg",
+              "img": "https://program-static.cf.radiko.jp/x9vojby1zz.jpg",
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -722,9 +756,9 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "個性的な出演者たちと、ユニークなコーナーで構成された5時間15分の土曜午後の生ワイド!音楽ファンもヲタクも満足かな!?",
-              "info": "▼メール　da@rkk.jp　▼FAX　096-356-1117<br />\r\n<br />\r\n16:00　熊日ニュース<br />\r\n16:20　元気スイッチ<br />\r\n16:45　交通情報<br />\r\n<br />\r\n<!-- tw:doyoego img:https://rkk.jp/radikoimg/top/da.jpg -->",
-              "pfm": "江越哲也＆サタピン隊\r\n",
-              "img": "https://program-static.cf.radiko.jp/fav7is514b.jpg",
+              "info": "▼メール　da@rkk.jp　▼FAX　096-356-1117<br />\r\n<br />\r\n16:00　熊日ニュース<br />\r\n16:20　元気スイッチ<br />\r\n16:45　交通情報<br />\r\n<br />\r\n<!-- tw:doyoego img:https://rkk.jp/radikoimg/edit_r/img20240405173040.jpg -->",
+              "pfm": "江越哲也＆サタピン隊",
+              "img": "https://program-static.cf.radiko.jp/x9vojby1zz.jpg",
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -755,9 +789,9 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "個性的な出演者たちと、ユニークなコーナーで構成された5時間15分の土曜午後の生ワイド!音楽ファンもヲタクも満足かな!?",
-              "info": "▼メール　da@rkk.jp　▼FAX　096-356-1117<br />\r\n<br />\r\n17:00　熊日ニュース<br />\r\n<br />\r\n<!-- tw:doyoego img:https://rkk.jp/radikoimg/top/da.jpg -->",
+              "info": "17:00　熊日ニュース<br />\r\n<br />\r\n<!-- tw:doyoego img:https://rkk.jp/radikoimg/edit_r/img20240405173040.jpg -->",
               "pfm": "江越哲也＆サタピン隊",
-              "img": "https://program-static.cf.radiko.jp/fav7is514b.jpg",
+              "img": "https://program-static.cf.radiko.jp/x9vojby1zz.jpg",
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -787,9 +821,9 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "週末をリラックスして笑顔で過ごせるようなトーク中心の情報バラエティー番組！",
-              "info": "▼メール　smile@rkk.jp<br />\r\n<!-- fb:rkksmile img:https://rkk.jp/radikoimg/top/smile.jpg -->",
+              "info": "▼メール　smile@rkk.jp<br />\r\n<br />\r\n<!-- img:https://rkk.jp/radikoimg/edit_r/img20230329214242.jpg -->",
               "pfm": "梶原一生　奥田圭",
-              "img": "https://program-static.cf.radiko.jp/h19yeg8ttq.jpg",
+              "img": "https://program-static.cf.radiko.jp/ms42gfn77i.jpg",
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -850,8 +884,8 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "日常の生活の中でのちょっとした問題や疑問を法律のプロがアドバイスする番組。リスナーからの相談のほか法律事例などを紹介。",
-              "info": "▼メール　bengo@rkk.jp<br />\r\n<!-- img:https://rkk.jp/radikoimg/top/bengo.jpg -->",
-              "img": "https://program-static.cf.radiko.jp/yn3uyckh96.jpg",
+              "info": "▼メール　bengo@rkk.jp<br />\r\n<!-- img:https://rkk.jp/radikoimg/edit_r/img20230329214926.jpg -->",
+              "img": "https://program-static.cf.radiko.jp/0mf1l5p1mn.jpg",
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -881,6 +915,16 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/5605b7c6-5ac8-487b-9af2-e1f285939920.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -896,11 +940,13 @@
               "-tol": "1810",
               "-dur": "300",
               "title": "推しＳＯＮＧＳ",
+              "url": "https://blog.rkk.jp/oshisongs/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "レコード会社がおすすめするアーティストの楽曲を紹介する。",
-              "img": "https://program-static.cf.radiko.jp/5605b7c6-5ac8-487b-9af2-e1f285939920.jpeg",
+              "info": "<!-- img:https://rkk.jp/radikoimg/edit_r/img20220415143451.jpg -->",
+              "img": "https://program-static.cf.radiko.jp/9yjnf81ooo.jpg",
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -988,7 +1034,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "土曜の夜のパラダイス！「トラパラ」。\r\nトラック関係者のための、トラック関係者による、トラック応援バラエティ。トラックにまつわるアレコレを安全運転？なトークでお届けします。\r\n",
+              "desc": "土曜の夜のパラダイス！「トラパラ」。<br />\r\nトラック関係者のための、トラック関係者による、トラック応援バラエティ。トラックにまつわるアレコレを安全運転？なトークでお届けします。\r\n",
               "info": "▼メール　torapara@rkk.jp　 FAX:096-356-1117<br />\r\n<br />\r\n<!-- tw:rkktorapara img:https://rkk.jp/radikoimg/edit_r/img20200122161458.jpg -->",
               "pfm": "草野遥　ＤＪジーノ",
               "img": "https://program-static.cf.radiko.jp/qnew1yd7g9.jpg",
@@ -1010,43 +1056,31 @@
               }
             },
             {
-              "-id": "9855237",
+              "-id": "9864229",
               "-ft": "20240427190000",
-              "-to": "20240427193000",
-              "-ftl": "1900",
-              "-tol": "1930",
-              "-dur": "1800",
-              "title": "もしかして　どぶろっくだけど！？",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "「もしかしてだけど～」の歌ネタで、２０１４年に大ブレイクを果たしたお笑いコンビ　どぶろっくが、意外な！？トーク力を発揮！もちろん歌ネタも出し惜しみせず披露します。",
-              "info": "<!-- img:https://rkk.jp/radikoimg/edit_r/img20220318115953.jpg -->",
-              "pfm": "どぶろっく",
-              "img": "https://program-static.cf.radiko.jp/a9n1f0zn6n.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9855238",
-              "-ft": "20240427193000",
               "-to": "20240427200000",
-              "-ftl": "1930",
+              "-ftl": "1900",
               "-tol": "2000",
-              "-dur": "1800",
+              "-dur": "3600",
               "title": "Ｙａｂａらじ！",
-              "url": "https://www.facebook.com/yabaradi",
+              "url": "https://twitter.com/yabaradi",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "高校生の高校生による高校生のための番組です。\r\n今回から新メンバーとなる２７期生。それぞれが自己紹介する。",
-              "info": "▼メール　yaba@rkk.jp<br />\r\n<br />\r\n<!--  img:https://rkk.jp/radikoimg/edit_r/img20190213154744.jpg -->",
+              "desc": "高校生の高校生による高校生のための番組です。<br />\r\n前半のテーマトークは、「家でor学校でorバイト先で、私の役割」。パーソナリティはそれぞれどんな役割を持っているのでしょうか？皆さんにも共通する役割があるかも・・・？<br />\r\n後半のテーマトークは、「ＧＷこれしたい！予定！」部活・旅行・勉強・ボランティアなどなど・・・皆さんのＧＷは？有意義な連休でありますように！<br />\r\n今夜もパワー全開でお送りします。\r\n\r\n\r\n",
+              "info": "▼メール　yaba@rkk.jp<br />\r\n<br />\r\n<!-- tw:yabaradi img:https://rkk.jp/radikoimg/edit_r/img20230412114742.jpg -->",
               "pfm": "Ｕｓａｙ（ユーセイ）　西村赤音　高校生パーソナリティ",
-              "img": "https://program-static.cf.radiko.jp/v1k4mdl5wg.jpg",
+              "img": "https://program-static.cf.radiko.jp/4wacwj77rr.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1055,21 +1089,21 @@
               }
             },
             {
-              "-id": "9855239",
+              "-id": "9864230",
               "-ft": "20240427200000",
               "-to": "20240427210000",
               "-ftl": "2000",
               "-tol": "2100",
               "-dur": "3600",
-              "title": "ほら！ここがオズワルドさんち！",
-              "url": "https://www.tbsradio.jp/ozu/",
+              "title": "スタンド・バイ・見取り図",
+              "url": "https://www.tbsradio.jp/stm/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "「M-1グランプリ」で3年連続ファイナリストになり、2021年は準優勝で、注目を集めるコンビ・オズワルド。自宅の“オズワルドさんち”にいるようなリラックスした状態でお送りする番組です。みなさんもオズワルドさんちを見つけたら、ちょっと寄っていってください",
-              "info": "▼メール　ozu@tbs.co.jp",
-              "pfm": "オズワルド",
-              "img": "https://program-static.cf.radiko.jp/3xu2u2y42n.png",
+              "desc": "M1グランプリ3年連続決勝進出の実力派コンビ見取り図が2022年4月に東京進出！<br />\r\n「スタンド・バイ(そばにいる)」をコンセプト に、聴いてくれるホーミー(家族のような仲間)たちと、その場のノリや勢いで何でもする、自由な空 間をお届けします。<br />\r\n東京で奮闘する見取り図の赤裸々トークもお楽しみに!",
+              "info": "▼メール　stm@tbs.co.jp<br />\r\n<br />\r\n<!-- img:https://rkk.jp/radikoimg/edit_r/img20240327000946.jpg -->",
+              "pfm": "見取り図（盛山晋太郎、リリー）",
+              "img": "https://program-static.cf.radiko.jp/h6cn9roocp.jpg",
               "genre": {
                 "personality": {
                   "-id": "C009",
@@ -1132,10 +1166,10 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "マンガ大好き！マンガを愛するすべての人へ！\r\n海外でも人気を集める“MANGA”海を越えて世界中で愛される日本のマンガを研究し、マンガ、アニメ、特撮、日本のポップカルチャーを語ります。\r\nこれまでもロボットマンガ、野球マンガ、ラブコメ、ギャグマンガ…と研究室らしく歴史や絵の見せ方、描き方なども分析。懐かしいマンガから今、読んでいるマンガまで幅広くご紹介。お楽しみに！\r\n今回のテーマは「マンガ大賞2022」。\r\n最近マンガを読んでいないな～という人も、マンガが読みたくなるかも。We love MANGA!!\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-              "info": "▼メール　manga@rkk.jp<br />\r\n<br />\r\n<!-- tw:mangarkk voicy:1905   \r\nimg:https://rkk.jp/radikoimg/edit_r/img20191010105222.jpg -->",
+              "desc": "マンガ大好き！マンガを愛するすべての人へ！<br />\r\n海外でも人気を集める“MANGA”海を越えて世界中で愛される日本のマンガを研究し、マンガ、アニメ、特撮、日本のポップカルチャーを語ります。<br />\r\nこれまでもロボットマンガ、野球マンガ、ラブコメ、ギャグマンガ…と研究室らしく歴史や絵の見せ方、描き方なども分析。懐かしいマンガから今、読んでいるマンガまで幅広くご紹介。<br />\r\n今回のテーマは「マンガ大賞2024」。4月2日に受賞作品が発表されました！研究室では今年のマンガ大賞を振り返ります。<br />\r\n最近マンガを読んでないな～という人も、マンガが読みたくなるかも？！We love MANGA!!\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+              "info": "▼メール　manga@rkk.jp<br />\r\n<br />\r\n<!-- tw:mangarkk voicy:1905   \r\nimg:https://rkk.jp/radikoimg/edit_r/img20230329215224.jpg -->",
               "pfm": "まこりーぬ",
-              "img": "https://program-static.cf.radiko.jp/d5okb73hzc.jpg",
+              "img": "https://program-static.cf.radiko.jp/gfgykzh9uo.jpg",
               "genre": {
                 "personality": {
                   "-id": "C010",
@@ -1165,10 +1199,10 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "「さくらがおか学長」こと福山雅治がパーソナリティを務める『福山雅治と荘口彰久の「地底人ラジオ」』。\r\nアナウンサーの荘口彰久さんをはじめ、学長を日々取り巻く個性豊かな仲間達と共に、思いつくまま気の向くままに繰り広げられる。\r\n日常の些細な出来事、時事ネタ、超常現象からフォルテシモいお話まで、自由度高めの総合エンターテイメントラジオです！\r\n今週の地底人ラジオは…、\r\n先日の放送から強くにおわせていた、年末に開催を予定している『福山☆冬の大感謝祭 其の二十』の詳細を大発表!!\r\nそして新コーナー「マイルーティン ?私の戒律?」がスタート！リスナーの皆さんの\"自分が自分らしく居続けるため\"のマイルーティンをご紹介！\r\n今週は「休日も身なりを整える」「どんなに疲れても入浴してから寝る」ことが\"私の戒律\"になっているリスナーからのお便りが…！\r\n絶賛公開中の『映画おしりたんてい シリアーティ』の感想もお届け！\r\n人気コーナー「無礼こかせていただこう」では「貸したCDを返してもらえない…」「意思表示をしない旦那に納得できない」。そんなリスナーからのお悩みをププっと解決します！是非お聴き逃しなく!!",
-              "info": "▼メール　chiteijin@shiburadi.com<br />\r\n<br />\r\n<!-- img:https://rkk.jp/radikoimg/edit_r/img20201008153158.jpg -->",
+              "desc": "「さくらがおか学長」こと福山雅治がパーソナリティを務める『福山雅治と荘口彰久の「地底人ラジオ」』。\r\nアナウンサーの荘口彰久さんをはじめ、学長を日々取り巻く個性豊かな仲間達と共に、思いつくまま気の向くままに繰り広げられる。\r\n日常の些細な出来事、時事ネタ、超常現象からフォルテシモいお話まで、自由度高めの総合エンターテイメントラジオです！<br />\r\n",
+              "info": "▼メール　chiteijin@shiburadi.com<br />\r\n<br />\r\n<!-- img:https://rkk.jp/radikoimg/edit_r/img20220513144846.jpg -->",
               "pfm": "福山雅治　荘口彰久　他",
-              "img": "https://program-static.cf.radiko.jp/hl32iztw6m.jpg",
+              "img": "https://program-static.cf.radiko.jp/dxctgyy4yi.jpg",
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -1231,10 +1265,20 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "人気お笑いコンビ「オードリー」の２人はどんな風にあなたのハートをわしづかみにするのか？\r\nそしてどんな新しい「オードリー」を聴かせてくれるのか？ \r\nテレビでは決して聴くことのできない限界ギリギリのフリートーク満載の2時間！土曜日の夜が待ち遠しくなる！",
-              "info": "▼メール　kw@allnightnippon.com<br />\r\n<br />\r\n<!-- img:https://rkk.jp/radikoimg/top/2500odori.jpg -->",
-              "pfm": "オードリー",
-              "img": "https://program-static.cf.radiko.jp/lu7w6wji2k.jpg",
+              "desc": "人気お笑いコンビ「オードリー」の２人はどんな風にあなたのハートをわしづかみにするのか？\r\nそしてどんな新しい「オードリー」を聴かせてくれるのか？ <br />\r\nテレビでは決して聴くことのできない限界ギリギリのフリートーク満載の2時間！土曜日の夜が待ち遠しくなる！",
+              "info": "▼メール　kw@allnightnippon.com<br />\r\n<br />\r\n<!-- img:https://rkk.jp/radikoimg/edit_r/img20230703203942.jpg -->",
+              "pfm": "オードリー\r\n",
+              "img": "https://program-static.cf.radiko.jp/0pd6ejdyea.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1243,21 +1287,31 @@
               }
             },
             {
-              "-id": "9855245",
+              "-id": "9864231",
               "-ft": "20240428030000",
               "-to": "20240428040000",
               "-ftl": "2700",
               "-tol": "2800",
               "-dur": "3600",
-              "title": "空気階段の踊り場",
-              "url": "https://www.tbsradio.jp/odoriba/",
+              "title": "アルコ＆ピース　Ｄ．Ｃ．ＧＡＲＡＧＥ",
+              "url": "https://www.tbsradio.jp/dcg/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "若手芸人「空気階段」が、人生のためになる情報をお送りする教養バラエティ。\r\nリスナーや街頭インタビューなどで意見を募り、人生をうまく生き抜くヒントを見つけていきます。\r\n是非、聴いてください！！",
-              "info": "▼メール　odoriba@tbs.co.jp　\r\n▼はがき　〒107-8066\r\nTBSラジオ「空気階段の踊り場」まで<br />\r\n<br />\r\n<!-- img:https://rkk.jp/radikoimg/edit_r/img20211004173623.jpg -->\r\n",
-              "pfm": "空気階段",
-              "img": "https://program-static.cf.radiko.jp/qya6gk49hi.jpg",
+              "desc": "理解不能でシュール、けどクセになる茶番劇がリスナーに受けた彼らのラジオ。その礎となる2人の“コント力”を活かして番組を盛り上げます。",
+              "info": "▼メール　dcg@tbs.co.jp<br />\r\n<br />\r\n<!-- \r\nimg:https://rkk.jp/radikoimg/top/2230arugo.jpg -->",
+              "pfm": "アルコ＆ピース",
+              "img": "https://program-static.cf.radiko.jp/dhfzlcad0s.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1278,9 +1332,19 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "音楽の楽しい聴き方を提唱している音楽番組。様々なジャンルの音楽をセレクトしNONーSTOＰー MIXで送る一時間。\r\nFBとツイッターでOAリストを公開。",
-              "info": "▼メール　mu@rkk.jp<br />\r\n<br />\r\n<!-- tw:mashupfan fb:mashupfan -->",
+              "info": "▼メール　mu@rkk.jp<br />\r\n<br />\r\n<!-- tw:Mash_Up_Radio fb:mashupfan img:https://rkk.jp/radikoimg/edit_r/img20230329220104.jpg -->",
               "pfm": "ＤＪ　Ｍａｓｃｏｔ",
-              "img": "https://program-static.cf.radiko.jp/5605b7c6-5ac8-487b-9af2-e1f285939920.jpeg",
+              "img": "https://program-static.cf.radiko.jp/zg098fr4yc.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1289,7 +1353,7 @@
               }
             },
             {
-              "-id": "9855247",
+              "-id": "9868176",
               "-ft": "20240428045900",
               "-to": "20240428050000",
               "-ftl": "2859",

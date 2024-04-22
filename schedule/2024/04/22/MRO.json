@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1713722419",
+    "srvtime": "1713810302",
     "stations": {
       "station": {
         "-id": "MRO",
@@ -248,6 +248,11 @@
               "info": "全国のラジオ21局を結んでお送りします。",
               "pfm": "飯田浩司",
               "img": "https://program-static.cf.radiko.jp/d4337ca0-816a-456a-bb68-4f223289a566.jpeg",
+              "tag": {
+                "item": {
+                  "name": "朝のニュースを効率良く"
+                }
+              },
               "genre": {
                 "program": {
                   "-id": "P001",
@@ -361,6 +366,10 @@
               "pfm": "森本毅郎 / 遠藤泰子",
               "img": "https://program-static.cf.radiko.jp/f26d300d-ed39-43ba-8d3c-0bbe4afc6762.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -661,7 +670,16 @@
               "info": "相談の電話は、毎週（月）午後0時30分～午後3時15分頃まで受け付けます<br/><br/>1:30　寿理の優しい漢方入門<br/>1:55　こころの謡箱<br/>2:00　北國新聞ニュース・天気予報<br/>3:00　MRO ニュース<br/>3:05　いしかわお天気ネット<br/>3:40　月竜香　週間占い",
               "pfm": "月竜香 / 西川章久",
               "img": "https://program-static.cf.radiko.jp/879c08e9-bb5d-4294-ab47-ce4ddbcc4f84.jpeg",
+              "tag": {
+                "item": {
+                  "name": "月竜香"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -763,6 +781,11 @@
               "ts_out_ng": "0",
               "pfm": "北川圭二",
               "img": "https://program-static.cf.radiko.jp/6e4c3043-228b-4512-bd00-0402a0499202.jpeg",
+              "tag": {
+                "item": {
+                  "name": "音楽"
+                }
+              },
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -902,6 +925,11 @@
               "info": "5:30　ネットワークトゥデイ<br/>5:45　MRO イブニングニュース<br/>5:55　ぼくの夢　わたしの未来<br/>6:00　大山商店イブニングソニック<br/>6:10　北栄パイピングおかえり交通情報",
               "pfm": "上坂典子",
               "img": "https://program-static.cf.radiko.jp/1e464ddd-c2aa-43a0-9115-5eb329f520c1.jpeg",
+              "tag": {
+                "item": {
+                  "name": "上坂典子"
+                }
+              },
               "genre": {
                 "program": {
                   "-id": "P003",

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1713722430",
+    "srvtime": "1713810008",
     "stations": {
       "station": {
         "-id": "FMNAGASAKI",
@@ -196,7 +196,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/j0elusy873.jpg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -334,7 +343,16 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\t交通取締情報 <br /><br /><br /></div>",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -438,50 +456,26 @@
               }
             },
             {
-              "-id": "9838421",
+              "-id": "9872984",
               "-ft": "20240427110000",
-              "-to": "20240427112500",
+              "-to": "20240427113000",
               "-ftl": "1100",
-              "-tol": "1125",
-              "-dur": "1500",
-              "title": "丸園音楽堂",
-              "url": "http://jfn.jp/maruzono",
+              "-tol": "1130",
+              "-dur": "1800",
+              "title": "COCOWALK Golden Week special FM長崎 公開生放送",
+              "url": "https://www.fmnagasaki.co.jp/2024/04/15/%e3%80%90%e5%85%ac%e9%96%8b%e7%94%9f%e6%94%be%e9%80%81%e3%80%91cocowalk-golden-week-special-fm%e9%95%b7%e5%b4%8e-%e5%85%ac%e9%96%8b%e7%94%9f%e6%94%be%e9%80%81/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\tスポーツと音楽は夫婦である。<br />オリンピック、パラリンピック、ワールドカップ、世界陸上、どんな大会にも必ずテーマソング、応援ソングが存在し、サポーターは歌い、踊り、跳ね、そのリズムに乗って応援をする。<br />そんな思いを持って始まった篠園音楽堂がリニューアル。<br />元サッカー日本代表の前園真聖と、元女子サッカー日本代表で、２０１１年ワールドカップドイツ大会の優勝メンバーである丸山桂里奈のサッカーコンビが、お互いの押し曲をぶつけ合います。 <br /><br />\t番組Webサイト：<a href=\"http://jfn.jp/maruzono\">http://jfn.jp/maruzono</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/maruzono/message\">https://form.audee.jp/maruzono/message</a><br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/4fxgqd2l2b.jpg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/1148b1c1-db48-4b56-b516-08c1a240ec9c_sq.jpg\" height=\"60\" width=\"60\" alt=\"平川歩美\"></td>  </tr></table><br /><br />\tみらい長崎ココウォーク5F TSUTAYA BOOKSTORE内イベントスペースから公開生放送！<br /><br />この春オープンのニューショップからイベント盛りだくさんなGW情報など、館内中継も交えながらお届けします！<br />当日は会場へ来てくれた方を対象に素敵なプレゼントが当たるチャンスも！ <br /><br />\t番組Webサイト：<a href=\"https://www.fmnagasaki.co.jp/2024/04/15/%e3%80%90%e5%85%ac%e9%96%8b%e7%94%9f%e6%94%be%e9%80%81%e3%80%91cocowalk-golden-week-special-fm%e9%95%b7%e5%b4%8e-%e5%85%ac%e9%96%8b%e7%94%9f%e6%94%be%e9%80%81/\">https://www.fmnagasaki.co.jp/2024/04/15/%e3%80%90%e5%85%ac%e9%96%8b%e7%94%9f%e6%94%be%e9%80%81%e3%80%91cocowalk-golden-week-special-fm%e9%95%b7%e5%b4%8e-%e5%85%ac%e9%96%8b%e7%94%9f%e6%94%be%e9%80%81/</a><br />\tメッセージフォーム：<a href=\"https://www.fmnagasaki.co.jp/request/\">https://www.fmnagasaki.co.jp/request/</a><br /><br /></div>",
+              "pfm": "平川歩美",
+              "img": "https://program-static.cf.radiko.jp/idiq44fmui.jpg",
               "genre": {
-                "personality": {
-                  "-id": "C013",
-                  "name": "アスリート"
-                },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9838422",
-              "-ft": "20240427112500",
-              "-to": "20240427113000",
-              "-ftl": "1125",
-              "-tol": "1130",
-              "-dur": "300",
-              "title": "SMILE CUTS",
-              "url": "http://www.fmnagasaki.co.jp/smilecuts/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\tFM長崎今月のパワープレイ <br /><br />\t番組Webサイト：<a href=\"http://www.fmnagasaki.co.jp/smilecuts/\">http://www.fmnagasaki.co.jp/smilecuts/</a><br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/3rq8m2v23c.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -534,7 +528,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/j0elusy873.jpg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -548,32 +551,24 @@
               }
             },
             {
-              "-id": "9838425",
+              "-id": "9872985",
               "-ft": "20240427120000",
               "-to": "20240427125500",
               "-ftl": "1200",
               "-tol": "1255",
               "-dur": "3300",
-              "title": "Actors -life&music-",
-              "url": "https://audee.jp/program/show/300007716",
+              "title": "COCOWALK Golden Week special FM長崎 公開生放送",
+              "url": "https://www.fmnagasaki.co.jp/2024/04/15/%e3%80%90%e5%85%ac%e9%96%8b%e7%94%9f%e6%94%be%e9%80%81%e3%80%91cocowalk-golden-week-special-fm%e9%95%b7%e5%b4%8e-%e5%85%ac%e9%96%8b%e7%94%9f%e6%94%be%e9%80%81/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\tActors… 様々に変げする、彼らの役に没頭した姿は、多くの視聴者を魅了してやみません。<br />しかしながら、その素顔はヴェールに包まれたまま、あまり多くを見ることはありません。<br />ここでは、今を時めく役者たちが、ラジオ越しに “ありのまま”の素顔とその生き方を<br />お披露目。ラジオを通して、彼らの言葉とメッセージに浸ってみませんか？ <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/300007716\">https://audee.jp/program/show/300007716</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/actors/message\">https://form.audee.jp/actors/message</a><br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/rhfyldcr0r.jpg",
-              "tag": {
-                "item": {
-                  "name": "人気俳優トーク"
-                }
-              },
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/1148b1c1-db48-4b56-b516-08c1a240ec9c_sq.jpg\" height=\"60\" width=\"60\" alt=\"平川歩美\"></td>  </tr></table><br /><br />\tみらい長崎ココウォーク5F TSUTAYA BOOKSTORE内イベントスペースから公開生放送！<br /><br />この春オープンのニューショップからイベント盛りだくさんなGW情報など、館内中継も交えながらお届けします！<br />当日は会場へ来てくれた方を対象に素敵なプレゼントが当たるチャンスも！ <br /><br />\t番組Webサイト：<a href=\"https://www.fmnagasaki.co.jp/2024/04/15/%e3%80%90%e5%85%ac%e9%96%8b%e7%94%9f%e6%94%be%e9%80%81%e3%80%91cocowalk-golden-week-special-fm%e9%95%b7%e5%b4%8e-%e5%85%ac%e9%96%8b%e7%94%9f%e6%94%be%e9%80%81/\">https://www.fmnagasaki.co.jp/2024/04/15/%e3%80%90%e5%85%ac%e9%96%8b%e7%94%9f%e6%94%be%e9%80%81%e3%80%91cocowalk-golden-week-special-fm%e9%95%b7%e5%b4%8e-%e5%85%ac%e9%96%8b%e7%94%9f%e6%94%be%e9%80%81/</a><br />\tメッセージフォーム：<a href=\"https://www.fmnagasaki.co.jp/request/\">https://www.fmnagasaki.co.jp/request/</a><br /><br /></div>",
+              "pfm": "平川歩美",
+              "img": "https://program-static.cf.radiko.jp/idiq44fmui.jpg",
               "genre": {
-                "personality": {
-                  "-id": "C002",
-                  "name": "俳優"
-                },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -596,7 +591,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/j0elusy873.jpg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -788,7 +792,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/j0elusy873.jpg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -813,7 +826,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/ad5f8fec-553a-421a-8e40-6a2cf9a77e89_sq.jpg\" height=\"60\" width=\"60\" alt=\"川上洋平（[Alexandros]）\"></td>  </tr></table><br /><br />\t人気ロックバンド[Alexandros]のフロントマンでもある川上洋平が自身の真ん中にある“音楽”をラジオで放つ番組。<br />毎週ひとつのテーマを掲げ、川上自らが選曲する国内外の珠玉の名曲、ドライブ好きな一面からドライブミュージック、映画好きな一面から名作サウンドトラック…そしてアーティストという一面から自身のバンド [Alexandros] の楽曲をはじめ、土曜15時にぴったりなこだわりのミュージックトークを繰り広げます。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/okashi/\">https://www.tfm.co.jp/okashi/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/okashi/message\">https://www.tfm.co.jp/f/okashi/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%8A%E3%81%A8%E3%82%92%E3%81%8B%E3%81%97\">#おとをかし</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/otookashi_TFM\">@otookashi_TFM</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/ad5f8fec-553a-421a-8e40-6a2cf9a77e89_sq.jpg\" height=\"60\" width=\"60\" alt=\"川上洋平（[Alexandros]）\"></td>  </tr></table><br /><br />\t人気ロックバンド[Alexandros]のフロントマンでもある川上洋平が、自身の真ん中にある“音楽”をラジオで放つ番組。<br />毎週ひとつのテーマを掲げ、川上自らが選曲する国内外の珠玉の名曲、ドライブ好きな一面からドライブミュージック、映画好きな一面から名作サウンドトラック…そしてアーティストという一面から自身のバンド [Alexandros] の楽曲をはじめ、土曜15時にぴったりなこだわりのミュージックトークを繰り広げます。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/okashi/\">https://www.tfm.co.jp/okashi/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/okashi/message\">https://www.tfm.co.jp/f/okashi/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%8A%E3%81%A8%E3%82%92%E3%81%8B%E3%81%97\">#おとをかし</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/otookashi_TFM\">@otookashi_TFM</a>」<br /><br /></div>",
               "pfm": "川上洋平（[Alexandros]）",
               "img": "https://program-static.cf.radiko.jp/evkicgi538.jpg",
               "tag": {
@@ -1038,7 +1051,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/j0elusy873.jpg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -1063,8 +1085,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/3061b1de-5499-4d14-8997-59899af8b09a_sq.jpg\" height=\"60\" width=\"60\" alt=\"川島明（麒麟）\"></td>  </tr></table><br /><br />\tそもそも、なんでこの世界に？<br />そもそも、有名になったきっかけは？<br />そもそも、あの作品を手がけた理由は？<br />芸人、俳優、ミュージシャン、漫画家、映画監督、スポーツ選手、料理人……<br />誰でも知ってるあの人の、意外と知らない“そもそもの話”。<br />平日の喧騒を逃れた土曜日。<br />バリトンボイスの聞き巧者 麒麟・川島明がおくるインタビュー番組。<br />様々な質問や相談に川島明が答えていきます。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/somosomo\">https://www.tfm.co.jp/somosomo</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/somosomo/message\">https://www.tfm.co.jp/f/somosomo/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%9D%E3%82%82%E3%81%9D%E3%82%82%E3%81%AE%E8%A9%B1\">#そもそもの話</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/somosomo_no\">@somosomo_no</a>」<br /><br /></div>",
-              "pfm": "川島明（麒麟）",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/3061b1de-5499-4d14-8997-59899af8b09a_sq.jpg\" height=\"60\" width=\"60\" alt=\"川島明（麒麟）\"></td>  </tr></table><br /><br />\tそもそも、なんでこの世界に？<br />そもそも、有名になったきっかけは？<br />そもそも、あの作品を手がけた理由は？<br />芸人、俳優、ミュージシャン、漫画家、映画監督、スポーツ選手、料理人……<br />誰でも知ってるあの人の、意外と知らない“そもそもの話”。<br />平日の喧騒を逃れた土曜日。<br />バリトンボイスの聞き巧者 麒麟・川島明がおくるインタビュー番組。<br />様々な質問や相談に川島明が答えていきます。 <br /><br />\t本日のゲスト：\t\t濵田崇裕（WEST.）\t<br />\t<br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/somosomo\">https://www.tfm.co.jp/somosomo</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/somosomo/message\">https://www.tfm.co.jp/f/somosomo/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%9D%E3%82%82%E3%81%9D%E3%82%82%E3%81%AE%E8%A9%B1\">#そもそもの話</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/somosomo_no\">@somosomo_no</a>」<br /><br /></div>",
+              "pfm": "川島明（麒麟） ゲスト: 濵田崇裕（WEST.）",
               "img": "https://program-static.cf.radiko.jp/nwcyou6i2r.jpg",
               "tag": {
                 "item": [
@@ -1106,7 +1128,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/j0elusy873.jpg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -1183,7 +1214,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/j0elusy873.jpg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -1485,7 +1525,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/j0elusy873.jpg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -1585,7 +1634,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/j0elusy873.jpg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -1988,6 +2046,10 @@
               "pfm": "山中千尋",
               "img": "https://program-static.cf.radiko.jp/qm09mc543s.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -2012,7 +2074,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/e4bfc8f6-00f5-492e-90a5-2fc1bddba932_sq.jpg\" height=\"60\" width=\"60\" alt=\"古川琢也（ＮＭＥ Japan編集長）\"></td>  </tr></table><br /><br />\t1952 年、イギリスでスタートした『NME :ニュー・ミュージカル・エクスプレス』。70 年以上にわたってシーンを見続けてきた、国際的な音楽メディアです。『RADIO NME JAPAN』では、『NME Japan』の編集長・古川琢也が、 ジャンルレスに、独自の視点の音楽シーンを切り取ります。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/300006342\">https://audee.jp/program/show/300006342</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/radionme/message\">https://form.audee.jp/radionme/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23RADIONMEJAPAN\">#RADIONMEJAPAN</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/radionmejapan\">@radionmejapan</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/e4bfc8f6-00f5-492e-90a5-2fc1bddba932_sq.jpg\" height=\"60\" width=\"60\" alt=\"古川琢也（ＮＭＥ Japan編集長）\"></td>  </tr></table><br /><br />\t今週は、「2024年、四半期を終えて「かけられていなかった曲特集」をお届け。<br />さらに、後半はフェス・ジャーナリストで、『Festival Life』編集長の津田昌太朗さんをお迎えして、<br />国内のフェス事情を伺いました。<br /><br />1952 年、イギリスでスタートした『NME :ニュー・ミュージカル・エクスプレス』。70 年以上にわたってシーンを見続けてきた、国際的な音楽メディアです。『RADIO NME JAPAN』では、『NME Japan』の編集長・古川琢也が、 ジャンルレスに、独自の視点の音楽シーンを切り取ります。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/300006342\">https://audee.jp/program/show/300006342</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/radionme/message\">https://form.audee.jp/radionme/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23RADIONMEJAPAN\">#RADIONMEJAPAN</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/radionmejapan\">@radionmejapan</a>」<br /><br /></div>",
               "pfm": "古川琢也（ＮＭＥ Japan編集長）",
               "img": "https://program-static.cf.radiko.jp/ns0w8yphwc.jpg",
               "genre": {

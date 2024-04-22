@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1713722429",
+    "srvtime": "1713810011",
     "stations": {
       "station": {
         "-id": "STV",
@@ -24,6 +24,12 @@
               "info": "Xハッシュタグ：#stvradio<br/>Xアカウント：@stvradio",
               "pfm": "坪井木の実",
               "img": "https://program-static.cf.radiko.jp/lia1vnrzqp.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P016",
+                  "name": "宗教"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -945,6 +951,16 @@
               "info": "メール：sp@stv.jp<br/>Xハッシュタグ：#stvradio<br/>Xアカウント：@stvradio",
               "pfm": "しろっぷ　じゅんぺい　ひろし",
               "img": "https://program-static.cf.radiko.jp/4e18a691-50a4-459b-bca5-59cc2143e84a.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -967,6 +983,21 @@
               "info": "Xハッシュタグ：#stvradio<br/>Xアカウント：@stvradio",
               "pfm": "オードリー",
               "img": "https://program-static.cf.radiko.jp/13759850-f565-47a4-b0cc-d3b816d0c830.jpeg",
+              "tag": {
+                "item": {
+                  "name": "お笑い芸人の最強トーク"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

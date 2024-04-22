@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1713722430",
+    "srvtime": "1713810015",
     "stations": {
       "station": {
         "-id": "HBC",
@@ -346,7 +346,16 @@
               "ts_out_ng": "0",
               "info": "<center><br />HBCウェザーセンターのホームページは<a href=\"https://www.hbc.co.jp/weather/index.html\"><font color=\"red\">こちら</font><br /><br />＼HBCラジオ公式X(旧Twitter)／<br/><a href=\"https://twitter.com/HBC_radio1287\">@HBC_radio1287のページ</a><br/><br/>Xハッシュタグは<a href=\"https://twitter.com/hashtag/hbcradio?src=hash\">「#hbcradio」</a><br /><br/>Xアカウントは<a href=\"https://twitter.com/HBC_radio1287\">「@HBC_radio1287」</a><center/>",
               "img": "https://program-static.cf.radiko.jp/4846eb4b-5940-48d5-a7d8-a7f201549a83.png",
+              "tag": {
+                "item": {
+                  "name": "hbcradio"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -1213,6 +1222,10 @@
                 ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C002",
+                  "name": "俳優"
+                },
                 "program": {
                   "-id": "P002",
                   "name": "スポーツ"
@@ -1245,6 +1258,16 @@
                   "name": "お笑い芸人の最強トーク"
                 }
               },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1269,6 +1292,16 @@
               "tag": {
                 "item": {
                   "name": "お笑い芸人の最強トーク"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
