@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1713636027",
+    "srvtime": "1713897028",
     "stations": {
       "station": {
         "-id": "RNB",
@@ -519,6 +519,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -609,22 +613,21 @@
               "-ftl": "1145",
               "-tol": "1155",
               "-dur": "600",
-              "title": "移住ストーリーズ～新しい生活のはじまり～行きづらいけど、生きやすい町　伊方めぐり / 南海クラシックス１０（隔週）",
+              "title": "南海クラシックス１０",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "PAL協定伊方町応援サポーターで伊方町出身の宇都宮民が、移住者インタビューなどを通じて、伊方町への移住のHOW-TOや佐田岬半島ミュージアムなどの観光情報を紹介します。<br><br><br>南海放送レコードライブラリーから名曲を厳選。",
+              "desc": "南海放送レコードライブラリーから名曲を厳選。",
               "info": "<br>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23rnb1116\">#rnb1116</a>」<br>facebookページは「<a href='https://www.facebook.com/official.rnb.co.jp'>https://www.facebook.com/official.rnb.co.jp</a>」",
-              "pfm": "宇都宮民",
               "img": "https://program-static.cf.radiko.jp/gsx4b4pcxg.png",
               "genre": {
                 "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -653,6 +656,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -806,12 +813,6 @@
               "ts_out_ng": "0",
               "desc": "いまオススメの商品をご紹介！",
               "img": "https://program-static.cf.radiko.jp/2e51ff37-5fae-470a-ad23-61a4f1d3aeba.png",
-              "genre": {
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -842,16 +843,6 @@
                     "name": "サクッと短時間で聴ける"
                   }
                 ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
               },
               "metas": {
                 "meta": {
@@ -971,16 +962,6 @@
               "desc": "愛媛県からの暮らしに役立つ情報などをお届けします！",
               "info": "<br>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23rnb1116\">#rnb1116</a>」<br>facebookページは「<a href='https://www.facebook.com/official.rnb.co.jp'>https://www.facebook.com/official.rnb.co.jp</a>」",
               "img": "https://program-static.cf.radiko.jp/cd580d74-1524-40bc-a78b-2e949e36e0ee.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1035,16 +1016,6 @@
               "desc": "一流の解説者が連日実況！\n<br>球場の興奮と熱狂をお届けします。",
               "info": "<br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23rnb1116\">#rnb1116</a>」<br>facebookページは「<a href='https://www.facebook.com/official.rnb.co.jp'>https://www.facebook.com/official.rnb.co.jp</a>」\n",
               "img": "https://program-static.cf.radiko.jp/f8yyfqy6oh.png",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1198,16 +1169,6 @@
               "desc": "南海放送レコードライブラリーから名曲を厳選。",
               "info": "<br>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23rnb1116\">#rnb1116</a>」<br>facebookページは「<a href='https://www.facebook.com/official.rnb.co.jp'>https://www.facebook.com/official.rnb.co.jp</a>」",
               "img": "https://program-static.cf.radiko.jp/gsx4b4pcxg.png",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
