@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1713982807",
+    "srvtime": "1714069207",
     "stations": {
       "station": {
         "-id": "WBS",
@@ -93,6 +93,10 @@
               "pfm": "小田川和彦",
               "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
@@ -405,6 +409,10 @@
               "pfm": "ウインズ平阪、赤井ゆかり",
               "img": "https://program-static.cf.radiko.jp/l9bxdcobfj.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -420,10 +428,10 @@
             {
               "-id": "9854985",
               "-ft": "20240427100000",
-              "-to": "20240427110000",
+              "-to": "20240427103000",
               "-ftl": "1000",
-              "-tol": "1100",
-              "-dur": "3600",
+              "-tol": "1030",
+              "-dur": "1800",
               "title": "ウインズ平阪の紀州和歌山へ！",
               "url": "https://wbs-radio.com/sata/",
               "failed_record": "0",
@@ -434,11 +442,37 @@
               "pfm": "ウインズ平阪、赤井ゆかり",
               "img": "https://program-static.cf.radiko.jp/l9bxdcobfj.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
                 }
               },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9887799",
+              "-ft": "20240427103000",
+              "-to": "20240427110000",
+              "-ftl": "1030",
+              "-tol": "1100",
+              "-dur": "1800",
+              "title": "ラジオで女子旅～橋本から和歌山、花をめぐる春旅～",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "訪問市町村　橋本市、かつらぎ町、紀の川市、和歌山市、紀美野町",
+              "info": "番組Web　https://wbs-radio.com/tabi/\nWebでは、旅の様子や旅先の情報などを写真とともに掲載\n\n番組SNS　X（旧 Twitter）とInstagramでは、番組情報やメイキングなどを発信\n",
+              "pfm": "伊舞なおみ・柳橋さやか",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -463,6 +497,10 @@
               "pfm": "ウインズ平阪、赤井ゆかり",
               "img": "https://program-static.cf.radiko.jp/l9bxdcobfj.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -546,6 +584,10 @@
               "pfm": "ウインズ平阪、赤井ゆかり",
               "img": "https://program-static.cf.radiko.jp/l9bxdcobfj.jpg",
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -733,6 +775,10 @@
               "pfm": "土山和子",
               "img": "https://program-static.cf.radiko.jp/3djkdr97un.png",
               "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
