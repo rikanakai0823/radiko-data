@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1713982814",
+    "srvtime": "1714155017",
     "stations": {
       "station": {
         "-id": "LOVEFM",
@@ -207,6 +207,11 @@
               "ts_out_ng": "0",
               "info": "<p>ラジオショッピング番組</p>",
               "img": "https://program-static.cf.radiko.jp/hwdbci64dm.jpg",
+              "tag": {
+                "item": {
+                  "name": "ラジオショッピング"
+                }
+              },
               "genre": {
                 "program": {
                   "-id": "P018",
@@ -665,6 +670,25 @@
               "info": "<p>伝説のインターナショナルDJ　カマサミ・コングが、音楽にまつわる思い出やスト-リーをリスナーと共有することで、楽しい週末の始まりをお手伝いします。</p><p>ドライブやジョギングのBGMはもとより、たまにはゆったりとコーヒーカップを片手にすわり心地の良い椅子に座ってお楽しみいただくのもいいかも。</p><p> </p><br /><p><b>Corner</b></p><br /><p><b>HOT SPIN</b></p><p>20:55-</p>",
               "pfm": "Kamasami Kong",
               "img": "https://program-static.cf.radiko.jp/n2a2zy89lj.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "Kamasami Kong"
+                  },
+                  {
+                    "name": "インターナショナルDJ"
+                  },
+                  {
+                    "name": "洋楽"
+                  },
+                  {
+                    "name": "MUSIC"
+                  },
+                  {
+                    "name": "BGM"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C015",
