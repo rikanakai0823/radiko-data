@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1714414504",
+    "srvtime": "1714501503",
     "stations": {
       "station": {
         "-id": "MRO",
@@ -185,6 +185,12 @@
               "ts_out_ng": "0",
               "info": "半世紀以上の歴史を持つ録音構成番組。全国の放送局がその土地ならではの風俗をそこでしか聞くことのできない音とともに紹介します。<br/>",
               "img": "https://program-static.cf.radiko.jp/da1d23e1-971a-4161-a2da-8f47b4a634a9.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P009",
+                  "name": "ドキュメンタリー"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -350,6 +356,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/65611779-823e-48c7-bb4f-01e7125bada9.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -544,6 +556,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/63aa028a-fb64-4b44-8e47-ffaebcc61558.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -630,6 +648,10 @@
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -682,6 +704,10 @@
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -746,6 +772,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -772,6 +802,12 @@
               "tag": {
                 "item": {
                   "name": "演歌"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -821,6 +857,12 @@
               "img": "https://program-static.cf.radiko.jp/da53d770-c30d-406a-a6f6-dfe4c4f24267.jpeg",
               "tag": {
                 "item": {
+                  "name": "音楽"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
                   "name": "音楽"
                 }
               },
@@ -875,6 +917,10 @@
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -902,6 +948,10 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -928,6 +978,10 @@
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -954,6 +1008,10 @@
                 "personality": {
                   "-id": "C009",
                   "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -1043,6 +1101,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P008",
+                  "name": "アニラジ"
                 }
               },
               "metas": {
@@ -1069,6 +1131,10 @@
                 "personality": {
                   "-id": "C008",
                   "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -1125,6 +1191,10 @@
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -1167,8 +1237,8 @@
               "img": "https://program-static.cf.radiko.jp/644a431e-f0e1-4a90-ac35-d0d8756268bb.jpeg",
               "genre": {
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -1192,8 +1262,8 @@
               "img": "https://program-static.cf.radiko.jp/644a431e-f0e1-4a90-ac35-d0d8756268bb.jpeg",
               "genre": {
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
