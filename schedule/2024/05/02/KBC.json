@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1714587903",
+    "srvtime": "1714674303",
     "stations": {
       "station": {
         "-id": "KBC",
@@ -170,7 +170,16 @@
               "info": "ニッポンに「お笑い」と「がばいばあちゃん」という２つの社会現象を巻き起こした島田洋七が、第２の故郷、九州でラジオ番組放送中！！しゃべくりの真髄、お笑いの真髄、ばあちゃんの真髄がこの番組で明らかになる！！",
               "pfm": "島田洋七、武内裕之、小柳有紀",
               "img": "https://program-static.cf.radiko.jp/a05effad-8f2c-4744-ae3f-42a401e16689.png",
+              "tag": {
+                "item": {
+                  "name": "芸人の最強トーク"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -232,7 +241,16 @@
               "info": "晴れの日や雨の日、気分が明るい時、ちょっと暗い時、そんなあなたの朝に『いってらっしゃい』の言葉を届けます。あなたの朝がいつもイイ朝でありますように…<br/><br/>メールアドレス：<br/>mail：<a href=\"mailto:hada@1242.com\">hada@1242.com",
               "pfm": "羽田美智子",
               "img": "https://program-static.cf.radiko.jp/4f427987-d0d7-4a71-81a2-88e76e8d569a.jpeg",
+              "tag": {
+                "item": {
+                  "name": "朝のニュースを効率良く"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
