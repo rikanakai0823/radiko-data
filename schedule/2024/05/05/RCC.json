@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1714414203",
+    "srvtime": "1715019902",
     "stations": {
       "station": {
         "-id": "RCC",
@@ -679,10 +679,10 @@
             {
               "-id": "9875506",
               "-ft": "20240505133000",
-              "-to": "20240505163000",
+              "-to": "20240505163400",
               "-ftl": "1330",
-              "-tol": "1630",
-              "-dur": "10800",
+              "-tol": "1634",
+              "-dur": "11040",
               "title": "Veryカープ！RCC カープデーゲーム",
               "url": "https://radio.rcc.jp/carp/",
               "failed_record": "0",
@@ -726,27 +726,31 @@
               }
             },
             {
-              "-id": "9875507",
-              "-ft": "20240505163000",
+              "-id": "9934707",
+              "-ft": "20240505163400",
               "-to": "20240505164500",
-              "-ftl": "1630",
+              "-ftl": "1634",
               "-tol": "1645",
-              "-dur": "900",
-              "title": "唐澤恋花のREN'S CHOICE",
+              "-dur": "660",
+              "title": "野球ハイライト",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "唐澤恋花が選んだ音楽とちょっと役立つ情報をお届けする１５分。",
-              "pfm": "唐澤恋花（RCCアナウンサー）",
-              "img": "https://program-static.cf.radiko.jp/8f0c3863-255e-499f-8282-3170b991f73a.png",
+              "img": "https://program-static.cf.radiko.jp/656e1799-db8f-42f8-9b9a-8b64011e83bd.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "カープ"
+                  },
+                  {
+                    "name": "スポーツ情報"
+                  }
+                ]
+              },
               "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P002",
+                  "name": "スポーツ"
                 }
               },
               "metas": {

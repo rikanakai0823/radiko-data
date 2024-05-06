@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1714501205",
+    "srvtime": "1715018414",
     "stations": {
       "station": {
         "-id": "RCC",
@@ -500,10 +500,10 @@
             {
               "-id": "9881112",
               "-ft": "20240506174600",
-              "-to": "20240506175700",
+              "-to": "20240506190000",
               "-ftl": "1746",
-              "-tol": "1757",
-              "-dur": "660",
+              "-tol": "1900",
+              "-dur": "4440",
               "title": "それ聴け！Veryカープ！",
               "url": "https://radio.rcc.jp/kike/",
               "failed_record": "0",
@@ -544,51 +544,82 @@
               }
             },
             {
-              "-id": "9881113",
-              "-ft": "20240506175700",
-              "-to": "20240506210000",
-              "-ftl": "1757",
-              "-tol": "2100",
-              "-dur": "10980",
-              "title": "Veryカープ！RCC カープナイター",
-              "url": "https://radio.rcc.jp/carp/",
+              "-id": "9934950",
+              "-ft": "20240506190000",
+              "-to": "20240506193000",
+              "-ftl": "1900",
+              "-tol": "1930",
+              "-dur": "1800",
+              "title": "アンガールズのカープ愛炸裂番組 『カーティスト』",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "阪神×広島（甲子園）",
-              "info": "カープ戦全試合生中継！RCCラジオは試合終了までカープをVeryカープに応援します！<br/>試合終了まで中継するため、以降の番組は時間変更となる場合があります。<br><br/>twitter <a href=\"https://twitter.com/rccradio\">@rccradio</a><br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23RCC%E3%83%A9%E3%82%B8%E3%82%AA\">#RCCラジオ</a>」",
-              "pfm": "解説：関本賢太郎／実況：山下剛",
-              "img": "https://program-static.cf.radiko.jp/8f7b777d-37b4-45c6-9556-3a98e0ea1e57.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "実況中継"
-                  },
-                  {
-                    "name": "プロ野球"
-                  },
-                  {
-                    "name": "カープ"
-                  },
-                  {
-                    "name": "広島"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
-                }
-              },
+              "pfm": "アンガールズ",
+              "img": "https://program-static.cf.radiko.jp/88a2ebb7-1f6e-4e8e-ad84-f5776529a10d.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#RCCラジオ"
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9934951",
+              "-ft": "20240506193000",
+              "-to": "20240506200000",
+              "-ftl": "1930",
+              "-tol": "2000",
+              "-dur": "1800",
+              "title": "佐々木リョウのバリAじゃんラジオ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "佐々木リョウ",
+              "img": "https://program-static.cf.radiko.jp/9b219b68-d1dc-4886-b014-78b4d6e3df3f.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9934952",
+              "-ft": "20240506200000",
+              "-to": "20240506203000",
+              "-ftl": "2000",
+              "-tol": "2030",
+              "-dur": "1800",
+              "title": "南一誠のゆめ語り一誠一座",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "南一誠",
+              "img": "https://program-static.cf.radiko.jp/7220b517-0110-4ef6-9840-e288012e32e2.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9934953",
+              "-ft": "20240506203000",
+              "-to": "20240506210000",
+              "-ftl": "2030",
+              "-tol": "2100",
+              "-dur": "1800",
+              "title": "保田隆のハートビートラジオ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "保田隆",
+              "img": "https://program-static.cf.radiko.jp/a4f8614c-5ea5-4abf-8ae5-3d145bd6d768.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
                 }
               }
             },

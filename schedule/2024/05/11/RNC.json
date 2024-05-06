@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1714932912",
+    "srvtime": "1715019312",
     "stations": {
       "station": {
         "-id": "RNC",
@@ -1017,6 +1017,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -1347,9 +1351,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "スペシャルなパーソナリティが週替わりで登場する土曜日のオールナイトニッポン０、",
-              "pfm": "週替わりパーソナリティ",
-              "img": "https://program-static.cf.radiko.jp/7a3e3556-53a5-4ff9-9df7-0bf64e26f449.jpeg",
+              "info": "スペシャルなパーソナリティが週替わりで登場する土曜日のオールナイトニッポン０、お笑いコンビ「トム・ブラウン」の二人が担当します。",
+              "pfm": "トム・ブラウン（布川ひろき　みちお）",
+              "img": "https://program-static.cf.radiko.jp/f54630c8-acee-497e-b300-58fa13999537.jpeg",
               "tag": {
                 "item": {
                   "name": "学生におすすめ"
@@ -1357,8 +1361,8 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
+                  "-id": "C009",
+                  "name": "芸人"
                 },
                 "program": {
                   "-id": "P007",

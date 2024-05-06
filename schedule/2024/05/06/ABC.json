@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1714587028",
+    "srvtime": "1715018415",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -704,82 +704,180 @@
               }
             },
             {
-              "-id": "9888601",
+              "-id": "9934965",
               "-ft": "20240506175500",
-              "-to": "20240506190000",
+              "-to": "20240506180000",
               "-ftl": "1755",
+              "-tol": "1800",
+              "-dur": "300",
+              "title": "ＡＢＣニュース＆天気予報",
+              "url": "https://abcradio.asahi.co.jp/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9934966",
+              "-ft": "20240506180000",
+              "-to": "20240506183000",
+              "-ftl": "1800",
+              "-tol": "1830",
+              "-dur": "1800",
+              "title": "自転車協会ｐｒｅｓｅｎｔｓ　ミラクル・サイクル・ライフ",
+              "url": "https://abcradio.asahi.co.jp/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/vuf3rl9ijx.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9934967",
+              "-ft": "20240506183000",
+              "-to": "20240506190000",
+              "-ftl": "1830",
               "-tol": "1900",
-              "-dur": "3900",
-              "title": "ＡＢＣフレッシュアップベースボールスペシャル(1)",
-              "url": "https://www.abc1008.com/",
+              "-dur": "1800",
+              "title": "ほたるまち発　ひろし・あさおのタビラジ！",
+              "url": "https://abcradio.asahi.co.jp/hota_tabiraji/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "阪神―広島（甲子園）<BR>※試合終了までお届けします。<BR>解説：関本賢太郎／実況：山下剛<BR><BR><BR><BR>",
-              "pfm": "阪神―広島（甲子園）　  ※試合終了までお届けします。　  解説：関本賢太郎／実況：山下剛　  ",
-              "img": "https://program-static.cf.radiko.jp/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
+              "info": "メールアドレス：<a href=\"mailto:hota@abc1008.com\">hota@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%B2%E3%82%8D%E3%81%97%E3%83%BB%E3%81%82%E3%81%95%E3%81%8A%E3%81%AE%E3%82%BF%E3%83%93%E3%83%A9%E3%82%B8\">#ひろし・あさおのタビラジ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/hota_tabiraji\">@hota_tabiraji</a>」<BR><BR><BR>",
+              "pfm": "柴田博／高野あさお",
+              "img": "https://program-static.cf.radiko.jp/e1aba0bf-ee3b-4070-8b56-1bb0dfac9b5d.jpeg",
               "tag": {
                 "item": [
                   {
-                    "name": "#toraban1008"
-                  },
-                  {
-                    "name": "#ABCフレッシュアップベースボール"
-                  },
-                  {
                     "name": "ABCラジオ"
+                  },
+                  {
+                    "name": "柴田博"
+                  },
+                  {
+                    "name": "高野あさお"
                   }
                 ]
               },
               "genre": {
                 "personality": {
-                  "-id": "C013",
-                  "name": "アスリート"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ひろし・あさおのタビラジ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:hota_tabiraji"
+                  }
+                ]
               }
             },
             {
-              "-id": "9888602",
+              "-id": "9934968",
               "-ft": "20240506190000",
-              "-to": "20240506200000",
+              "-to": "20240506193000",
               "-ftl": "1900",
-              "-tol": "2000",
-              "-dur": "3600",
-              "title": "ＡＢＣフレッシュアップベースボールスペシャル(2)",
-              "url": "https://www.abc1008.com/",
+              "-tol": "1930",
+              "-dur": "1800",
+              "title": "桂りょうばの落語トラベル",
+              "url": "https://abcradio.asahi.co.jp/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "阪神―広島（甲子園）<BR>※試合終了までお届けします。<BR>解説：関本賢太郎／実況：山下剛<BR><BR><BR><BR>",
-              "pfm": "阪神―広島（甲子園）　  ※試合終了までお届けします。　  解説：関本賢太郎／実況：山下剛　  ",
-              "img": "https://program-static.cf.radiko.jp/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
+              "info": "メールアドレス：<a href=\"mailto:ryo@abc1008.com\">ryo@abc1008.com</a><BR><BR><BR>",
+              "pfm": "桂りょうば",
+              "img": "https://program-static.cf.radiko.jp/eadae1b1-f4bf-483a-b46e-638a5acec518.jpeg",
               "tag": {
                 "item": [
                   {
-                    "name": "#toraban1008"
-                  },
-                  {
-                    "name": "#ABCフレッシュアップベースボール"
-                  },
-                  {
                     "name": "ABCラジオ"
+                  },
+                  {
+                    "name": "桂りょうば"
+                  },
+                  {
+                    "name": "河島あみる"
                   }
                 ]
               },
               "genre": {
                 "personality": {
-                  "-id": "C013",
-                  "name": "アスリート"
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P014",
+                  "name": "落語"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9934969",
+              "-ft": "20240506193000",
+              "-to": "20240506200000",
+              "-ftl": "1930",
+              "-tol": "2000",
+              "-dur": "1800",
+              "title": "楠淳生のＬＥＴ’Ｓ　ＧＯアスリート",
+              "url": "https://abcradio.asahi.co.jp/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "メールアドレス：<a href=\"mailto:kusu@abc1008.com\">kusu@abc1008.com</a><BR><BR><BR>",
+              "pfm": "楠淳生",
+              "img": "https://program-static.cf.radiko.jp/n0y41o2skj.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ABCラジオ"
+                  },
+                  {
+                    "name": "楠淳生"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
                 },
                 "program": {
                   "-id": "P002",
@@ -794,48 +892,31 @@
               }
             },
             {
-              "-id": "9888603",
+              "-id": "9934970",
               "-ft": "20240506200000",
               "-to": "20240506210000",
               "-ftl": "2000",
               "-tol": "2100",
               "-dur": "3600",
-              "title": "ＡＢＣフレッシュアップベースボールスペシャル(3)",
-              "url": "https://www.abc1008.com/",
+              "title": "Ｒ→９３３　ＬＰ．",
+              "url": "https://abcradio.asahi.co.jp/r933/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "阪神―広島（甲子園）<BR>※試合終了までお届けします。<BR>解説：関本賢太郎／実況：山下剛<BR><BR><BR><BR>",
-              "pfm": "阪神―広島（甲子園）　  ※試合終了までお届けします。　  解説：関本賢太郎／実況：山下剛　  ",
-              "img": "https://program-static.cf.radiko.jp/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
-              "tag": {
-                "item": [
+              "info": "メールアドレス：<a href=\"mailto:r933@abc1008.com\">r933@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23r933\">#r933</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abcr933\">@abcr933</a>」<BR><BR><BR>",
+              "pfm": "小西陸斗",
+              "img": "https://program-static.cf.radiko.jp/1305cfca-6b93-49c5-a2da-729f2839d89c.jpeg",
+              "metas": {
+                "meta": [
                   {
-                    "name": "#toraban1008"
+                    "-name": "twitter",
+                    "-value": "#r933"
                   },
                   {
-                    "name": "#ABCフレッシュアップベースボール"
-                  },
-                  {
-                    "name": "ABCラジオ"
+                    "-name": "twitter",
+                    "-value": "from:abcr933"
                   }
                 ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C013",
-                  "name": "アスリート"
-                },
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
               }
             },
             {
