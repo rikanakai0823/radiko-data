@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1715019903",
+    "srvtime": "1715106304",
     "stations": {
       "station": {
         "-id": "CROSSFM",
@@ -240,12 +240,34 @@
               }
             },
             {
-              "-id": "9931352",
+              "-id": "9936009",
               "-ft": "20240512140000",
-              "-to": "20240512160000",
+              "-to": "20240512150000",
               "-ftl": "1400",
+              "-tol": "1500",
+              "-dur": "3600",
+              "title": "ホリサン",
+              "url": "https://www.crossfm.co.jp/contpgms/?oya_id=763",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "Every.Sun.14:00～15:00 ★2024年5月12日スタート<br />Navigator:堀江貴文<br /><br />CROSS FM会長のホリエモンこと“堀江貴文”が<br />さまざまな業界のトップランナーと本音で語り合う１時間のトークプログラム。<br />日曜日の午後は、ホリエモンサンデー“ホリサン”にアクセス！",
+              "pfm": "堀江貴文",
+              "img": "https://program-static.cf.radiko.jp/vo12yj3ocn.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9936010",
+              "-ft": "20240512150000",
+              "-to": "20240512160000",
+              "-ftl": "1500",
               "-tol": "1600",
-              "-dur": "7200",
+              "-dur": "3600",
               "title": "music forest",
               "url": "https://www.crossfm.co.jp/contpgms/?oya_id=44",
               "failed_record": "0",
@@ -293,6 +315,17 @@
               "desc": "non stop music zone 「 music forest 」",
               "info": "<img src='https://www.crossfm.co.jp/contpgms/imgsrc/content_0_20120629221401.jpg' border='0' /><br /> twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23crossfm\">#crossfm</a>」<br /> twitterアカウントは「<a href=\"http://twitter.com/crossfm787\">@crossfm787</a>」",
               "img": "https://program-static.cf.radiko.jp/h5ch0e1g0h.jpg",
+              "tag": {
+                "item": {
+                  "name": "non stop music zone"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": [
                   {
