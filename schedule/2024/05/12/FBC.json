@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1715019307",
+    "srvtime": "1715192114",
     "stations": {
       "station": {
         "-id": "FBC",
@@ -146,6 +146,10 @@
               "info": "<br/>全国のラジオ局が、各県の風物詩を音でご紹介します。<br/>音で感じる季節や景色をお楽しみください。",
               "img": "https://program-static.cf.radiko.jp/7b62764b-21d0-4dfd-b489-aa9fbf5616cc.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P009",
                   "name": "ドキュメンタリー"
@@ -176,10 +180,6 @@
                 "personality": {
                   "-id": "C012",
                   "name": "文化人"
-                },
-                "program": {
-                  "-id": "P015",
-                  "name": "教養"
                 }
               },
               "metas": {
@@ -342,10 +342,6 @@
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
                 }
               },
               "metas": {
@@ -411,10 +407,6 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -697,10 +689,6 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {

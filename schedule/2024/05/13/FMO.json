@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1715105702",
+    "srvtime": "1715192115",
     "stations": {
       "station": {
         "-id": "FMO",
@@ -217,7 +217,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/e68432e8-4a0a-4d5f-8562-ca5ffc2b0189_sq.jpg\" height=\"60\" width=\"60\" alt=\"坂本美雨\"></td>  </tr></table><br /><br />\t「坂本美雨のディアフレンズ」<br />坂本美雨が様々なジャンルの旬な人物をゲストにお迎えして、気になる素顔に迫ります。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/dear/\">https://www.tfm.co.jp/dear/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/dear/?catid=1632\">https://www.tfm.co.jp/dear/?catid=1632</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%87%E3%82%A3%E3%82%A2%E3%83%95%E3%83%AC%E3%83%B3%E3%82%BA\">#ディアフレンズ</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/dearfriends80\">@dearfriends80</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/e68432e8-4a0a-4d5f-8562-ca5ffc2b0189_sq.jpg\" height=\"60\" width=\"60\" alt=\"坂本美雨\"></td>  </tr></table><br /><br />\t坂本美雨が様々なジャンルの旬な人物をゲストにお迎えして、気になる素顔に迫ります。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/dear/\">https://www.tfm.co.jp/dear/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/dear/?catid=1632\">https://www.tfm.co.jp/dear/?catid=1632</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%87%E3%82%A3%E3%82%A2%E3%83%95%E3%83%AC%E3%83%B3%E3%82%BA\">#ディアフレンズ</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/dearfriends80\">@dearfriends80</a>」<br /><br /></div>",
               "pfm": "坂本美雨",
               "img": "https://program-static.cf.radiko.jp/yqtl185qyq.jpg",
               "tag": {
@@ -608,7 +608,7 @@
                     "name": "なにわ男子"
                   },
                   {
-                    "name": "アイドル"
+                    "name": "人気アーティストトーク"
                   }
                 ]
               },
@@ -643,9 +643,14 @@
               "info": "<div class=\"station_content_description \">\tFM大阪がおすすめするPOWER PLAY楽曲やアーティストを紹介します <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/629nhe78ar.jpg",
               "tag": {
-                "item": {
-                  "name": "作業がはかどる"
-                }
+                "item": [
+                  {
+                    "name": "作業がはかどる"
+                  },
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -844,6 +849,11 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/a90b22da-4e94-484e-ad7a-95ae24245a14_sq.jpg\" height=\"60\" width=\"60\" alt=\"鈴木愛理\"></td>  </tr></table><br /><br />\t鈴木愛理が語りかける番組 <br /><br /><br /></div>",
               "pfm": "鈴木愛理",
               "img": "https://program-static.cf.radiko.jp/6rc74ugz6l.jpg",
+              "tag": {
+                "item": {
+                  "name": "人気アーティストトーク"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C004",
@@ -877,17 +887,9 @@
               "pfm": "令和喜多みな実 / みぃ",
               "img": "https://program-static.cf.radiko.jp/tpolroxlaf.jpg",
               "tag": {
-                "item": [
-                  {
-                    "name": "見取り図"
-                  },
-                  {
-                    "name": "みぃ"
-                  },
-                  {
-                    "name": "らじこー"
-                  }
-                ]
+                "item": {
+                  "name": "お笑い芸人の最強トーク"
+                }
               },
               "genre": {
                 "personality": {
@@ -1168,9 +1170,14 @@
               "info": "<div class=\"station_content_description \">\tFM大阪おすすめの楽曲を紹介する番組 <br /><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23HITSTREET\">#HITSTREET</a>」<br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/629nhe78ar.jpg",
               "tag": {
-                "item": {
-                  "name": "作業がはかどる"
-                }
+                "item": [
+                  {
+                    "name": "作業がはかどる"
+                  },
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  }
+                ]
               },
               "genre": {
                 "personality": {

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1714760706",
+    "srvtime": "1715192702",
     "stations": {
       "station": {
         "-id": "FBC",
@@ -968,26 +968,56 @@
               }
             },
             {
-              "-id": "9910259",
+              "-id": "9943610",
               "-ft": "20240509181500",
-              "-to": "20240509210000",
+              "-to": "20240509190000",
               "-ftl": "1815",
-              "-tol": "2100",
-              "-dur": "9900",
-              "title": "ＦＢＣゴールデンスペシャル",
+              "-tol": "1900",
+              "-dur": "2700",
+              "title": "ナイタースペシャル　いつでもみんなのプロ野球",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "<br/>ＦＢＣゴールデンスペシャルをお送りします。",
-              "img": "https://program-static.cf.radiko.jp/485e1c2a-7e68-4d50-8fbc-864be7483e94.jpeg",
+              "img": "https://program-static.cf.radiko.jp/1ec49da5-f168-4243-b106-949185caa45d.jpeg",
               "genre": {
                 "personality": {
-                  "-id": "C013",
-                  "name": "アスリート"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9943611",
+              "-ft": "20240509190000",
+              "-to": "20240509210000",
+              "-ftl": "1900",
+              "-tol": "2100",
+              "-dur": "7200",
+              "title": "ナイタースペシャル　新行市佳のジャズコレクション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "新行市佳",
+              "img": "https://program-static.cf.radiko.jp/f55e829c-e2db-4901-b420-d2cd8aa1a23c.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
