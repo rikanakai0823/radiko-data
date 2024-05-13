@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1715536832",
+    "srvtime": "1715623224",
     "stations": {
       "station": {
         "-id": "FBC",
@@ -322,6 +322,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -347,6 +351,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -697,6 +705,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -1155,14 +1167,27 @@
               "-ftl": "2700",
               "-tol": "2900",
               "-dur": "7200",
-              "title": "オールナイトニッポン０（ＺＥＲＯ）",
+              "title": "えびしゃのオールナイトニッポン０（ＺＥＲＯ）",
               "url": "https://www.allnightnippon.com/zero-sat/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<br/>スペシャルなパーソナリティが週替わりで登場します！",
-              "pfm": "週替わりパーソナリティ",
-              "img": "https://program-static.cf.radiko.jp/edf3afb6-72a1-4eae-b192-8b031635853c.jpeg",
+              "info": "<br/>若手お笑いトリオの「えびしゃ」が、パーソナリティを担当！",
+              "pfm": "えびしゃ",
+              "img": "https://program-static.cf.radiko.jp/c2a70692-99cd-461e-b718-e3badfbe07ad.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "えびしゃ"
+                  },
+                  {
+                    "name": "えびしゃANN0"
+                  },
+                  {
+                    "name": "お笑い芸人の最強トーク"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C009",

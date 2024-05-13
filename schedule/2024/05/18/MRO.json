@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1715536832",
+    "srvtime": "1715623223",
     "stations": {
       "station": {
         "-id": "MRO",
@@ -79,6 +79,12 @@
               "tag": {
                 "item": {
                   "name": "音楽との出会いが楽しめる"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -248,6 +254,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/02aa21fa-ca05-450c-b71e-6965f2ec49f6.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -326,6 +338,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/65ac6f9a-be5b-402b-80db-c289ced7eed9.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -350,6 +368,12 @@
               "tag": {
                 "item": {
                   "name": "音楽との出会いが楽しめる"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -408,6 +432,10 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -433,6 +461,12 @@
               "tag": {
                 "item": {
                   "name": "ニュース"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -480,6 +514,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/89be77fd-46d6-466f-be1e-ca46f1354f5b.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -503,6 +543,12 @@
               "tag": {
                 "item": {
                   "name": "ニュース"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -559,6 +605,12 @@
               "tag": {
                 "item": {
                   "name": "ニュース"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -698,17 +750,6 @@
               "info": "石川県教育委員会の取り組みや、催しを紹介します",
               "pfm": "石川映夏 /  大野紘乃",
               "img": "https://program-static.cf.radiko.jp/7d1d04b9-a357-4ef7-b8f0-77d6d7796861.jpeg",
-              "tag": {
-                "item": {
-                  "name": "教育"
-                }
-              },
-              "genre": {
-                "program": {
-                  "-id": "P012",
-                  "name": "趣味/教育"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -733,6 +774,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -758,6 +803,12 @@
               "tag": {
                 "item": {
                   "name": "ニュース"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -786,6 +837,10 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -817,6 +872,10 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -841,6 +900,12 @@
               "tag": {
                 "item": {
                   "name": "音楽との出会いが楽しめる"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1000,6 +1065,10 @@
                 "personality": {
                   "-id": "C007",
                   "name": "男性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -1053,11 +1122,12 @@
               "-ftl": "2700",
               "-tol": "2859",
               "-dur": "7140",
-              "title": "オールナイトニッポン０（ＺＥＲＯ）",
+              "title": "えびしゃのオールナイトニッポン０（ＺＥＲＯ）",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/644a431e-f0e1-4a90-ac35-d0d8756268bb.jpeg",
+              "pfm": "えびしゃ",
+              "img": "https://program-static.cf.radiko.jp/7fe91ec9-46e1-4801-8325-78ffdd480792.jpeg",
               "tag": {
                 "item": [
                   {
