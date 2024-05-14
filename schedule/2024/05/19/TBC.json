@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1715623225",
+    "srvtime": "1715709625",
     "stations": {
       "station": {
         "-id": "TBC",
@@ -1248,6 +1248,10 @@
               "pfm": "高橋直純",
               "img": "https://program-static.cf.radiko.jp/83f182b0-0e4f-42b5-a928-a3ced019c24a.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C005",
+                  "name": "男性声優"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -1280,13 +1284,51 @@
               }
             },
             {
-              "-id": "9944468",
+              "-id": "9971947",
               "-ft": "20240520010200",
-              "-to": "20240520050000",
+              "-to": "20240520044300",
               "-ftl": "2502",
-              "-tol": "2900",
-              "-dur": "14280",
+              "-tol": "2843",
+              "-dur": "13260",
               "title": "配信休止",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/57ae7f43-9dbd-434d-a21d-7f3c067c4ed7.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9971169",
+              "-ft": "20240520044300",
+              "-to": "20240520044500",
+              "-ftl": "2843",
+              "-tol": "2845",
+              "-dur": "120",
+              "title": "オープニング",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/57ae7f43-9dbd-434d-a21d-7f3c067c4ed7.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "9971170",
+              "-ft": "20240520044500",
+              "-to": "20240520050000",
+              "-ftl": "2845",
+              "-tol": "2900",
+              "-dur": "900",
+              "title": "こちらｔｂｃです",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",

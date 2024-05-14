@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1715623226",
+    "srvtime": "1715709625",
     "stations": {
       "station": {
         "-id": "KRY",
@@ -550,6 +550,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -668,6 +672,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "pfm": "河野康子（山口放送アナウンサー）",
               "img": "https://program-static.cf.radiko.jp/z1rbbvh5li.jpg",
               "genre": {
                 "personality": {
