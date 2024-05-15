@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1715711103",
+    "srvtime": "1715797503",
     "stations": {
       "station": {
         "-id": "RKK",
@@ -797,10 +797,20 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "リスナーからのリクエスト曲と番組セレクトの音楽をお届けするプログラム。<br /> \r\n洋楽・J-POP、懐メロに最新ヒットまで、日曜の午後をバラエティ豊かな音楽と生放送初挑戦のイサオの楽しいおしゃべりでお過ごしください♪<br />\r\n時々ぴら～っとばってん荒川さんが登場するかも！？",
+              "desc": "リスナーからのリクエスト曲と番組セレクトの音楽をお届けするプログラム。<br /> \r\n洋楽・J-POP、懐メロに最新ヒットまで、日曜の午後をバラエティ豊かな音楽と楽しいおしゃべりでお過ごしください♪<br />\r\n時々ぴら～っとばってん荒川さんが登場するかも！？",
               "info": "15：25頃　ＧＯＧＯ競馬サンデー！<br />\r\n<br />\r\n▼メール　tms@rkk.jp<br />\r\n<br />\r\n<!-- tw:TMS_rkk   \r\nimg:https://rkk.jp/radikoimg/edit_r/img20240402005856.jpg -->",
-              "pfm": "イサオ（ばってん荒川Jr.）",
+              "pfm": "イサオ（ばってん荒川Jr.）休演",
               "img": "https://program-static.cf.radiko.jp/7680f83cue.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
