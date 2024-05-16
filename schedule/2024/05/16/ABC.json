@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1715796020",
+    "srvtime": "1715882416",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -860,11 +860,39 @@
               }
             },
             {
-              "-id": "9940021",
+              "-id": "9981249",
               "-ft": "20240516210000",
-              "-to": "20240516210500",
+              "-to": "20240516213000",
               "-ftl": "2100",
-              "-tol": "2105",
+              "-tol": "2130",
+              "-dur": "1800",
+              "title": "ＡＢＣフレッシュアップベースボール(4)",
+              "url": "https://abcradio.asahi.co.jp/baseball/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "中日ー阪神（バンテリンＤ）<BR>※試合終了までお届けします。<BR>解説：吉見一起／実況：宮部和裕<BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc_toraban\">@abc_toraban</a>」<BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23toraban1008\">#toraban1008</a>」<BR><BR><BR>",
+              "pfm": "中日ー阪神（バンテリンＤ）　  ※試合終了までお届けします。　  解説：吉見一起／実況：宮部和裕",
+              "img": "https://program-static.cf.radiko.jp/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#toraban1008"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:abc_toraban"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "9981250",
+              "-ft": "20240516213000",
+              "-to": "20240516213500",
+              "-ftl": "2130",
+              "-tol": "2135",
               "-dur": "300",
               "title": "ＡＢＣニュース＆天気予報",
               "url": "https://www.abc1008.com/",
@@ -872,11 +900,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -885,12 +908,12 @@
               }
             },
             {
-              "-id": "9940022",
-              "-ft": "20240516210500",
+              "-id": "9981251",
+              "-ft": "20240516213500",
               "-to": "20240516215000",
-              "-ftl": "2105",
+              "-ftl": "2135",
               "-tol": "2150",
-              "-dur": "2700",
+              "-dur": "900",
               "title": "田淵麻里奈の夜あそびはココから",
               "url": "https://abcradio.asahi.co.jp/yoasobi/",
               "failed_record": "0",
