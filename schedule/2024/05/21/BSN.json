@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1715796029",
+    "srvtime": "1715968824",
     "stations": {
       "station": {
         "-id": "BSN",
@@ -1182,10 +1182,24 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "時事ネタと新聞読み比べを得意とする芸人「プチ鹿島」が、あの頃にプレイバック！",
+              "desc": "時事ネタ１９××は「１９９９年魔女の条件」を振り返る！",
               "pfm": "プチ鹿島 / 海野紀恵",
               "img": "https://program-static.cf.radiko.jp/bbbf6ddb-4041-4cfc-a505-feb90943d46a.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "プチ鹿島"
+                  },
+                  {
+                    "name": "お笑い芸人の最強トーク"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
                   "-id": "P015",
                   "name": "教養"
