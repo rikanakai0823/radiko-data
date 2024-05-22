@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1716315903",
+    "srvtime": "1716402303",
     "stations": {
       "station": {
         "-id": "ZIP-FM",
@@ -282,6 +282,10 @@
               "pfm": "磯部寛之",
               "img": "https://program-static.cf.radiko.jp/d7b55e79-e10a-43c4-9cc4-6ad779c301c2.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
@@ -354,10 +358,6 @@
               "pfm": "加藤ヒロ＆南翔太",
               "img": "https://program-static.cf.radiko.jp/4dbf012e-3d51-4d14-bd82-364fc82d4368.jpeg",
               "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
@@ -386,10 +386,6 @@
               "pfm": "中川大輔",
               "img": "https://program-static.cf.radiko.jp/3f797f9f-1eaa-4fce-aa12-9d768fc1d922.png",
               "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"

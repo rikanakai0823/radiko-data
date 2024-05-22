@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1716228017",
+    "srvtime": "1716400814",
     "stations": {
       "station": {
         "-id": "JORF",
@@ -768,10 +768,10 @@
             {
               "-id": "9946132",
               "-ft": "20240521175500",
-              "-to": "20240521210000",
+              "-to": "20240521223400",
               "-ftl": "1755",
-              "-tol": "2100",
-              "-dur": "11100",
+              "-tol": "2234",
+              "-dur": "16740",
               "title": "ラジオ日本ジャイアンツナイター　巨人×中日～東京ドーム",
               "url": "https://www.jorf.co.jp/?program=g-night_game2024",
               "failed_record": "0",
@@ -804,190 +804,27 @@
               }
             },
             {
-              "-id": "9943642",
-              "-ft": "20240521210000",
-              "-to": "20240521213000",
-              "-ftl": "2100",
-              "-tol": "2130",
-              "-dur": "1800",
-              "title": "ジャイアンツ・タイムズ",
+              "-id": "10009277",
+              "-ft": "20240521223400",
+              "-to": "20240521230000",
+              "-ftl": "2234",
+              "-tol": "2300",
+              "-dur": "1560",
+              "title": "フォーエバーミュージック",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
-              "img": "https://program-static.cf.radiko.jp/2a3d6b87-cd38-49ef-bcc2-4dfd3cbf36c6.png",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9943643",
-              "-ft": "20240521213000",
-              "-to": "20240521213500",
-              "-ftl": "2130",
-              "-tol": "2135",
-              "-dur": "300",
-              "title": "今月の推薦曲",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "ラジオ日本が月替わりでおすすめの演歌・歌謡曲の１曲をお送りします。",
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
               "img": "https://program-static.cf.radiko.jp/2a3d6b87-cd38-49ef-bcc2-4dfd3cbf36c6.png",
               "tag": {
-                "item": [
-                  {
-                    "name": "サクッと短時間で聴ける"
-                  },
-                  {
-                    "name": "音楽との出会いが楽しめる"
-                  }
-                ]
+                "item": {
+                  "name": "音楽との出会いが楽しめる"
+                }
               },
               "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9943644",
-              "-ft": "20240521213500",
-              "-to": "20240521214500",
-              "-ftl": "2135",
-              "-tol": "2145",
-              "-dur": "600",
-              "title": "ラジオ日本ニュース・天気予報",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
-              "img": "https://program-static.cf.radiko.jp/bcaa3eae-7605-464e-9c4c-923c3e9371e4.png",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9943645",
-              "-ft": "20240521214500",
-              "-to": "20240521220000",
-              "-ftl": "2145",
-              "-tol": "2200",
-              "-dur": "900",
-              "title": "ＥＡＣＨ ＴＩＭＥ ＭＵＳＩＣ",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
-              "img": "https://program-static.cf.radiko.jp/2a3d6b87-cd38-49ef-bcc2-4dfd3cbf36c6.png",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9943646",
-              "-ft": "20240521220000",
-              "-to": "20240521221500",
-              "-ftl": "2200",
-              "-tol": "2215",
-              "-dur": "900",
-              "title": "きのうの続きのつづき",
-              "url": "https://www.jorf.co.jp/?program=kinoh",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "▽ホンモノを見極めるオトコ北原照久。ピンボケでも利巧なオンナ朝倉奈々。各界のスグレ者、隠れた逸材をゲストにお送りしていきます。",
-              "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
-              "pfm": "北原照久　朝倉奈々",
-              "img": "https://program-static.cf.radiko.jp/sd9r18ytkh.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C012",
-                  "name": "文化人"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9943647",
-              "-ft": "20240521221500",
-              "-to": "20240521223000",
-              "-ftl": "2215",
-              "-tol": "2230",
-              "-dur": "900",
-              "title": "ミヤリサン製薬 ラジオ劇場　下町ロケット　ヤタガラス編",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
-              "img": "https://program-static.cf.radiko.jp/d65612ca-5867-451d-8f24-cc5856778a3a.png",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "9943648",
-              "-ft": "20240521223000",
-              "-to": "20240521230000",
-              "-ftl": "2230",
-              "-tol": "2300",
-              "-dur": "1800",
-              "title": "池坊専宗の団子より花",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%9B%A3%E8%8A%B1\">#団花</a>」",
-              "img": "https://program-static.cf.radiko.jp/08d3e830-8383-432f-9a62-c7fbb2a69dbd.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C012",
-                  "name": "文化人"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
                 }
               },
               "metas": {
@@ -1039,7 +876,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
+              "desc": "▽この番組は、さまざまな分野からゲストを迎え、困難にぶつかったときの乗り越え方、新しいことに挑戦するために必要な力、成功へ導く情報収集方法など、充実した人生設計へのヒントを伺います。<br>メール：<A Href=\"mailto:tohshin@jorf.co.jp\">tohshin@jorf.co.jp</A><br>番組公式Xアカウント：<A Href=\"https://twitter.com/tohsin1422\" target=\"_blank\">@tohshin1422</A>\n\n",
+              "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%A6%E3%82%A2%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0\">#フォローユアドリーム</a>」",
+              "pfm": "永山洋平　山口真奈",
               "img": "https://program-static.cf.radiko.jp/2a3d6b87-cd38-49ef-bcc2-4dfd3cbf36c6.png",
               "metas": {
                 "meta": {
