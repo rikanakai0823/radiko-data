@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1716315902",
+    "srvtime": "1716487212",
     "stations": {
       "station": {
         "-id": "SBC",
@@ -706,16 +706,15 @@
             {
               "-id": "9950914",
               "-ft": "20240522183000",
-              "-to": "20240522210000",
+              "-to": "20240522213000",
               "-ftl": "1830",
-              "-tol": "2100",
-              "-dur": "9000",
+              "-tol": "2130",
+              "-dur": "10800",
               "title": "ＳＢＣドリームナイター",
               "url": "https://twitter.com/showup1242",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "※最大延長２２時",
               "pfm": "巨人－中日（東京Ｄ）",
               "img": "https://program-static.cf.radiko.jp/5eb3c7aa-c485-4f72-a3e4-4ccb4fa01aaf.jpeg",
               "genre": {
@@ -737,11 +736,11 @@
             },
             {
               "-id": "9950915",
-              "-ft": "20240522210000",
+              "-ft": "20240522213000",
               "-to": "20240522220000",
-              "-ftl": "2100",
+              "-ftl": "2130",
               "-tol": "2200",
-              "-dur": "3600",
+              "-dur": "1800",
               "title": "ミュージックブルペン",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -877,6 +876,10 @@
               "pfm": "佐久間宣行",
               "img": "https://program-static.cf.radiko.jp/0730aa72-1107-4034-8615-ffbd2ac887b9.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
