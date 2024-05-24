@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1716487215",
+    "srvtime": "1716574509",
     "stations": {
       "station": {
         "-id": "SBC",
@@ -708,16 +708,15 @@
             {
               "-id": "9955981",
               "-ft": "20240523183000",
-              "-to": "20240523210000",
+              "-to": "20240523213000",
               "-ftl": "1830",
-              "-tol": "2100",
-              "-dur": "9000",
+              "-tol": "2130",
+              "-dur": "10800",
               "title": "ＳＢＣドリームナイター",
               "url": "https://twitter.com/showup1242",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "※最大延長２２時",
               "pfm": "ヤクルト－ＤｅＮＡ（神宮）",
               "img": "https://program-static.cf.radiko.jp/5eb3c7aa-c485-4f72-a3e4-4ccb4fa01aaf.jpeg",
               "genre": {
@@ -739,11 +738,11 @@
             },
             {
               "-id": "9955982",
-              "-ft": "20240523210000",
+              "-ft": "20240523213000",
               "-to": "20240523220000",
-              "-ftl": "2100",
+              "-ftl": "2130",
               "-tol": "2200",
-              "-dur": "3600",
+              "-dur": "1800",
               "title": "ミュージックブルペン",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -847,6 +846,10 @@
               "pfm": "ナインティナイン",
               "img": "https://program-static.cf.radiko.jp/db6e5600-35c5-484c-acb3-13bdf6f55b68.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
