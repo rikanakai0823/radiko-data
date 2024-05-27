@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1716660026",
+    "srvtime": "1716832822",
     "stations": {
       "station": {
         "-id": "RKK",
@@ -674,8 +674,18 @@
               "ts_out_ng": "0",
               "desc": "IT関連、教育、エンタメなど多彩なコメンテーターが週替わりに登場！今、知っておきたい旬の情報をその道のプロが分かりやすく解説します。",
               "info": "<!-- img:https://rkk.jp/radikoimg/edit_r/img20230330200541.jpg -->",
-              "pfm": "江上浩子",
+              "pfm": "野溝美子",
               "img": "https://program-static.cf.radiko.jp/ql58pkaqxk.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1085,7 +1095,7 @@
               }
             },
             {
-              "-id": "10024870",
+              "-id": "10032251",
               "-ft": "20240601045900",
               "-to": "20240601050000",
               "-ftl": "2859",

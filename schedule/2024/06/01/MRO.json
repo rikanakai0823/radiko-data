@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1716746425",
+    "srvtime": "1716834001",
     "stations": {
       "station": {
         "-id": "MRO",
@@ -81,6 +81,12 @@
                   "name": "音楽との出会いが楽しめる"
                 }
               },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -130,10 +136,6 @@
               "pfm": "木梨憲武",
               "img": "https://program-static.cf.radiko.jp/8bd63bfa-78e5-4703-9587-56c9577faeed.jpeg",
               "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -248,6 +250,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/02aa21fa-ca05-450c-b71e-6965f2ec49f6.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -271,10 +279,6 @@
               "pfm": "藤森祥平 / 北村まあさ / 生島淳",
               "img": "https://program-static.cf.radiko.jp/f8d4b5bc-8332-4986-86a6-4bdf737bada2.jpeg",
               "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -326,6 +330,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/65ac6f9a-be5b-402b-80db-c289ced7eed9.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -347,9 +357,10 @@
               "info": "金沢市出身の声楽家・石川公美が、さまざまな切り口からクラシック音楽の数々を紹介します。番組を聴けば、クラシック音楽に対するイメージや、聴き方が変わるかも。",
               "pfm": "石川公美",
               "img": "https://program-static.cf.radiko.jp/99f9daff-2131-4f9e-a3b1-cbdf8b8dced6.jpeg",
-              "tag": {
-                "item": {
-                  "name": "音楽との出会いが楽しめる"
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -405,9 +416,9 @@
               "pfm": "前田明日香",
               "img": "https://program-static.cf.radiko.jp/ff460471-f951-42b1-9910-c6bc63f34fb0.jpeg",
               "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -435,6 +446,12 @@
                   "name": "ニュース"
                 }
               },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -455,12 +472,6 @@
               "ts_out_ng": "0",
               "pfm": "朝比奈あきこ",
               "img": "https://program-static.cf.radiko.jp/4ac387db-f5d1-44ed-90bd-b7eb2a5d44d6.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -480,6 +491,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/89be77fd-46d6-466f-be1e-ca46f1354f5b.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -505,6 +522,12 @@
                   "name": "ニュース"
                 }
               },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -527,10 +550,6 @@
               "pfm": "サンドウィッチマン",
               "img": "https://program-static.cf.radiko.jp/329361cb-338b-473d-8d48-72c360d818cf.jpeg",
               "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
@@ -559,6 +578,12 @@
               "tag": {
                 "item": {
                   "name": "ニュース"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -698,17 +723,6 @@
               "info": "石川県教育委員会の取り組みや、催しを紹介します",
               "pfm": "石川映夏",
               "img": "https://program-static.cf.radiko.jp/7d1d04b9-a357-4ef7-b8f0-77d6d7796861.jpeg",
-              "tag": {
-                "item": {
-                  "name": "教育"
-                }
-              },
-              "genre": {
-                "program": {
-                  "-id": "P012",
-                  "name": "趣味/教育"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -733,6 +747,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -760,6 +778,12 @@
                   "name": "ニュース"
                 }
               },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -783,9 +807,9 @@
               "pfm": "カンケ",
               "img": "https://program-static.cf.radiko.jp/df1da1e9-ed0b-4999-8f22-a96ed05f6d60.jpeg",
               "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -808,15 +832,10 @@
               "ts_out_ng": "0",
               "pfm": "小林克也",
               "img": "https://program-static.cf.radiko.jp/818d4e8b-fa13-40db-8d9c-43e6c2c02529.jpeg",
-              "tag": {
-                "item": {
-                  "name": "音楽との出会いが楽しめる"
-                }
-              },
               "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -841,6 +860,12 @@
               "tag": {
                 "item": {
                   "name": "音楽との出会いが楽しめる"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -918,10 +943,6 @@
               "pfm": "見取り図",
               "img": "https://program-static.cf.radiko.jp/f1c6134d-0516-44c0-bca6-4bf3a48ed84f.jpeg",
               "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
@@ -986,20 +1007,10 @@
               "info": "SixTONESメンバーたちの近況トークはもちろん、『オールナイトニッポン』らしい、ネタコーナーや生メールで90分お送りします！ どのメンバーが登場するかは放送までのお楽しみです！",
               "pfm": "ＳｉｘＴＯＮＥＳ",
               "img": "https://program-static.cf.radiko.jp/64eebd28-644d-40d7-8645-fe5cce0b39b6.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ジャニーズ"
-                  },
-                  {
-                    "name": "ジャニーズ出演"
-                  }
-                ]
-              },
               "genre": {
-                "personality": {
-                  "-id": "C007",
-                  "name": "男性アイドル"
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -1053,26 +1064,14 @@
               "-ftl": "2700",
               "-tol": "2859",
               "-dur": "7140",
-              "title": "ヤーレンズのオールナイトニッポン０（ＺＥＲＯ）",
+              "title": "Awkmiuシキのオールナイトニッポン０（ＺＥＲＯ）",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/644a431e-f0e1-4a90-ac35-d0d8756268bb.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "お笑い芸人"
-                  },
-                  {
-                    "name": "お笑い芸人の最強トーク"
-                  }
-                ]
-              },
+              "info": "メンバーそれぞれのカラーが重なり合って生まれるソリッドなサウンドと、日常を鋭利かつシネマティックに切り取るシキの歌詞世界で“Solid Pops”の現在地を提示するAwkmiu。\n新しさの中にもどこか根源的な懐かしさを感じさせ、少年と少女、危うさと巧妙さなど相反するエッセンスを内包した楽曲たちを掻き鳴らしている。\nそんなAwkmiuから、作詞・作曲を手掛けるシキがANN0に二度目の登場！\n前回は2023年8月に出演。ラジオパーソナリティの経験がほぼないにも関わらず、それを感じさせないトークを展開し、一見ミステリアスな彼女の人となりやお笑いなどの趣味が垣間見える放送となった。今回の放送では、5月31日(金)に配信リリースが決定した新曲 『Pistol』 もオンエア予定！",
+              "pfm": "シキ（Awkmiu）",
+              "img": "https://program-static.cf.radiko.jp/aaa390e1-7baf-490d-8594-68a189f50bb1.jpeg",
               "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -1097,6 +1096,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/644a431e-f0e1-4a90-ac35-d0d8756268bb.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
