@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1716746426",
+    "srvtime": "1716919223",
     "stations": {
       "station": {
         "-id": "IBC",
@@ -150,6 +150,22 @@
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
               "pfm": "今井日奈子",
               "img": "https://program-static.cf.radiko.jp/850db7f9-4a87-42ca-85d4-758c775f4039.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "農業"
+                  },
+                  {
+                    "name": "季節"
+                  },
+                  {
+                    "name": "ヒント"
+                  },
+                  {
+                    "name": "岩手"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -1352,6 +1368,16 @@
               "info": "番組Xアカウントは「<a href=\"http://twitter.com/annkw5tyb\">@annkw5tyb</a>」<br/>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23annkw\">#annkw</a>」",
               "pfm": "オードリー",
               "img": "https://program-static.cf.radiko.jp/a4c4b09f-14de-4e92-824e-0b909fc18331.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1371,7 +1397,8 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "desc": "E-mail　<a href=\"mailto:awk@allnightnippon.com\">awk@allnightnippon.com</a>",
+              "info": "番組Xアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」<br/>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%B7%E3%82%ADANN0\">#シキANN0</a>」",
               "pfm": "シキ(Ａｗｋｍｉｕ)",
               "img": "https://program-static.cf.radiko.jp/ff8a11fc-d835-45d8-b5a9-33967c9c5cbb.jpeg",
               "genre": {
@@ -1387,7 +1414,7 @@
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#IBCradio"
+                  "-value": "#radiko"
                 }
               }
             },
