@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1717007102",
+    "srvtime": "1717092909",
     "stations": {
       "station": {
         "-id": "KBC",
@@ -678,10 +678,10 @@
             {
               "-id": "10005963",
               "-ft": "20240530175500",
-              "-to": "20240530210000",
+              "-to": "20240530211500",
               "-ftl": "1755",
-              "-tol": "2100",
-              "-dur": "11100",
+              "-tol": "2115",
+              "-dur": "12000",
               "title": "ＫＢＣホークスナイター（木）",
               "url": "https://kbc.co.jp/hawks/",
               "failed_record": "0",
@@ -691,7 +691,16 @@
               "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:taka@kbc.co.jp\">taka@kbc.co.jp</a><br/>★Xアカントは「<a href=\"https://twitter.com/kbc_hawks\">@kbc_hawks</a>」",
               "pfm": "巨人vsソフトバンク／解説：松田宣浩　実況：山田透／東京ドーム≪野球終了まで≫",
               "img": "https://program-static.cf.radiko.jp/0182dd03-69cd-474b-8fdb-fd35d7e2daa6.png",
+              "tag": {
+                "item": {
+                  "name": "ホークス"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P002",
                   "name": "スポーツ"
@@ -705,12 +714,12 @@
               }
             },
             {
-              "-id": "10014366",
-              "-ft": "20240530210000",
+              "-id": "10046809",
+              "-ft": "20240530211500",
               "-to": "20240530220000",
-              "-ftl": "2100",
+              "-ftl": "2115",
               "-tol": "2200",
-              "-dur": "3600",
+              "-dur": "2700",
               "title": "ＫＢＣホークスナイター☆ＭＡＮＤＡＮ",
               "url": "https://kbc.co.jp/mandan/",
               "failed_record": "0",
