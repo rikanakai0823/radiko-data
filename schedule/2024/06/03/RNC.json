@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1717352112",
+    "srvtime": "1717438509",
     "stations": {
       "station": {
         "-id": "RNC",
@@ -177,10 +177,10 @@
             {
               "-id": "10024840",
               "-ft": "20240603070000",
-              "-to": "20240603081500",
+              "-to": "20240603081800",
               "-ftl": "0700",
-              "-tol": "0815",
-              "-dur": "4500",
+              "-tol": "0818",
+              "-dur": "4680",
               "title": "さわやかラジオ　ラ・フレッシュ",
               "url": "http://www.rnc.co.jp/radio/sawayaka/",
               "failed_record": "0",
@@ -208,10 +208,10 @@
             },
             {
               "-id": "10024841",
-              "-ft": "20240603081500",
-              "-to": "20240603082000",
-              "-ftl": "0815",
-              "-tol": "0820",
+              "-ft": "20240603081800",
+              "-to": "20240603082300",
+              "-ftl": "0818",
+              "-tol": "0823",
               "-dur": "300",
               "title": "羽田美智子のいってらっしゃい",
               "url": "https://www.1242.com/hada/",
@@ -221,6 +221,21 @@
               "info": "晴れの日や雨の日、気分が明るい時やちょっと暗い時、そんなあなたの朝に「いってらっしゃい」の言葉を届けます。あなたの朝がいつもイイ朝でありますように・・・",
               "pfm": "羽田美智子",
               "img": "https://program-static.cf.radiko.jp/bc0d9684-7c82-469f-962b-9c496637dac7.jpeg",
+              "tag": {
+                "item": {
+                  "name": "羽田美智子"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -230,11 +245,11 @@
             },
             {
               "-id": "10024842",
-              "-ft": "20240603082000",
+              "-ft": "20240603082300",
               "-to": "20240603110000",
-              "-ftl": "0820",
+              "-ftl": "0823",
               "-tol": "1100",
-              "-dur": "9600",
+              "-dur": "9420",
               "title": "さわやかラジオ　ラ・フレッシュ",
               "url": "http://www.rnc.co.jp/radio/sawayaka/",
               "failed_record": "0",
@@ -430,12 +445,13 @@
               "-tol": "1400",
               "-dur": "600",
               "title": "甲子園めざして",
+              "url": "https://www.rnc.co.jp/radio/kousien/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "夏の高校野球香川大会に参加する３７校を訪れ、監督や選手、マネージャーなどにお話をうかがい、今年のチームの特色や大会を前に控えた意気込みなどを詳しく紹介します。",
               "pfm": "四国学院大香川西高校　リポーター：白井美由紀",
-              "img": "https://program-static.cf.radiko.jp/ffb419da-25e3-45df-b1c9-59bd3bc95630.jpeg",
+              "img": "https://program-static.cf.radiko.jp/a4ca0836-cc74-4f98-87e7-38b3046bd2a7.png",
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -681,12 +697,13 @@
               "-tol": "1815",
               "-dur": "600",
               "title": "甲子園めざして（再）",
+              "url": "https://www.rnc.co.jp/radio/kousien/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "夏の高校野球香川大会に参加する３７校を訪れ、監督や選手、マネージャーなどにお話をうかがい、今年のチームの特色や大会を前に控えた意気込みなどを詳しく紹介します。",
               "pfm": "四国学院大香川西高校　リポーター：白井美由紀",
-              "img": "https://program-static.cf.radiko.jp/ffb419da-25e3-45df-b1c9-59bd3bc95630.jpeg",
+              "img": "https://program-static.cf.radiko.jp/a4ca0836-cc74-4f98-87e7-38b3046bd2a7.png",
               "genre": {
                 "personality": {
                   "-id": "C001",

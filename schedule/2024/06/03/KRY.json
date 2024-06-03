@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1717352702",
+    "srvtime": "1717438509",
     "stations": {
       "station": {
         "-id": "KRY",
@@ -240,7 +240,7 @@
               "ts_out_ng": "0",
               "desc": "メール：<a href=\"mailto:asa@kry.co.jp\">asa@kry.co.jp</a>  ＦＡＸ：0834-32-9000",
               "info": "７：００～７：０５オープニング＆ニュース<br>７：０５～７：１０Happy Sunrise!今日の天気とロートスキンケア情報<br>７：１０～７：２５お早う！ニュースネットワーク<br>７：２５～７：３０道路交通情報<br>７：３０～７：３５ニュース＆天気<br>７：３５～７：４５ピックアップソング<br>",
-              "pfm": "中村衣里 / 山本恭子",
+              "pfm": "中村衣里 / 青木京子",
               "img": "https://program-static.cf.radiko.jp/3b251827-bd1e-4ded-be25-90ef6f972459.jpeg",
               "metas": {
                 "meta": {
@@ -314,7 +314,7 @@
               "ts_out_ng": "0",
               "desc": "メール：<a href=\"mailto:asa@kry.co.jp\">asa@kry.co.jp</a>  ＦＡＸ：0834-32-9000",
               "info": "８：００～８：１５日本全国８時です<br>８：１７～８：１９道路交通情報<br>８：２０～８：２５モーニングアップスポーツ<br>８：２５～８：３０おはよう！キッズぱらだいす<br>８：３５～８：３７天気予報<br>８：３７～８：４０道路交通情報・ニュース<br>８：４０～８：４５モーニングアップデート<br>８：５０～９：００武田鉄矢今朝の三枚おろし<br>９：００～９：０５ＫＲＹニュース<br>９：１０～９：１５モーニングクローズアップ<br>９：４０～１０：００山口合同ガスｐｒｅｓｅｎｔｓミュージックアラカルト<br>",
-              "pfm": "中村衣里 / 山本恭子",
+              "pfm": "中村衣里 / 青木京子",
               "img": "https://program-static.cf.radiko.jp/3b251827-bd1e-4ded-be25-90ef6f972459.jpeg",
               "metas": {
                 "meta": {
@@ -337,7 +337,7 @@
               "ts_out_ng": "0",
               "desc": "メール：<a href=\"mailto:asa@kry.co.jp\">asa@kry.co.jp</a>  ＦＡＸ：0834-32-9000",
               "info": "１０時からはチア―アップタイム<br>１０：３０～１０：３５これからの天気<br>",
-              "pfm": "山本恭子",
+              "pfm": "青木京子",
               "img": "https://program-static.cf.radiko.jp/3b251827-bd1e-4ded-be25-90ef6f972459.jpeg",
               "metas": {
                 "meta": {
@@ -532,6 +532,10 @@
               "pfm": "山根由紀夫 / 原田かおり",
               "img": "https://program-static.cf.radiko.jp/d3d7c60e-446a-4a83-a7d4-df38cc2305c0.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
@@ -595,6 +599,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -775,6 +783,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -1115,6 +1127,16 @@
               "desc": "夜10時から、少なくとも10曲以上たっぷり聴いていただくので、「MUSIC 10」と覚えてください。",
               "pfm": "森山良子",
               "img": "https://program-static.cf.radiko.jp/gvy2rycmgk.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

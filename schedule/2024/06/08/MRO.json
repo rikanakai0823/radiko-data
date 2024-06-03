@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1717351226",
+    "srvtime": "1717437623",
     "stations": {
       "station": {
         "-id": "MRO",
@@ -79,6 +79,12 @@
               "tag": {
                 "item": {
                   "name": "音楽との出会いが楽しめる"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -248,6 +254,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/02aa21fa-ca05-450c-b71e-6965f2ec49f6.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -326,6 +338,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/65ac6f9a-be5b-402b-80db-c289ced7eed9.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -350,6 +368,12 @@
               "tag": {
                 "item": {
                   "name": "音楽との出会いが楽しめる"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -408,6 +432,10 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -433,6 +461,12 @@
               "tag": {
                 "item": {
                   "name": "ニュース"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -480,6 +514,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/89be77fd-46d6-466f-be1e-ca46f1354f5b.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -503,6 +543,12 @@
               "tag": {
                 "item": {
                   "name": "ニュース"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -559,6 +605,12 @@
               "tag": {
                 "item": {
                   "name": "ニュース"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -703,12 +755,6 @@
                   "name": "教育"
                 }
               },
-              "genre": {
-                "program": {
-                  "-id": "P012",
-                  "name": "趣味/教育"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -733,6 +779,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -758,6 +808,12 @@
               "tag": {
                 "item": {
                   "name": "ニュース"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -786,6 +842,10 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -817,6 +877,10 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -841,6 +905,12 @@
               "tag": {
                 "item": {
                   "name": "音楽との出会いが楽しめる"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1057,11 +1127,13 @@
               "-ftl": "2700",
               "-tol": "2859",
               "-dur": "7140",
-              "title": "オールナイトニッポン０（ＺＥＲＯ）",
+              "title": "ガクテンソク のオールナイトニッポン０(ZERO)",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/644a431e-f0e1-4a90-ac35-d0d8756268bb.jpeg",
+              "info": "先日行われた『THE SECOND～漫才トーナメント～2024』で、大会史上最高得点を記録し優勝したガクテンソク。今年でコンビ結成18年を迎えた42歳の2人による生放送です。番組ではコーナーメールを募集中！",
+              "pfm": "ガクテンソク（よじょう、奥田修二）",
+              "img": "https://program-static.cf.radiko.jp/6febaba0-8694-450f-ae67-3e637f06b94b.jpeg",
               "tag": {
                 "item": [
                   {
@@ -1076,6 +1148,10 @@
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -1097,6 +1173,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/644a431e-f0e1-4a90-ac35-d0d8756268bb.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

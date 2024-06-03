@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1717351225",
+    "srvtime": "1717437623",
     "stations": {
       "station": {
         "-id": "FBC",
@@ -350,6 +350,10 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -1162,18 +1166,31 @@
               "-ftl": "2700",
               "-tol": "2900",
               "-dur": "7200",
-              "title": "オールナイトニッポン０（ＺＥＲＯ）",
+              "title": "ガクテンソクのオールナイトニッポン０（ＺＥＲＯ）",
               "url": "https://www.allnightnippon.com/zero-sat/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<br/>スペシャルなパーソナリティが週替わりで登場します！",
-              "pfm": "週替わりパーソナリティ",
-              "img": "https://program-static.cf.radiko.jp/8b5be3b6-4a27-47fd-bd54-af4a8ffa81ff.png",
+              "info": "<br/>ＴＨＥ　ＳＥＣＯＮＤ　２代目王者・ガクテンソクが、初の「オールナイトニッポン０（ＺＥＲＯ）」のパーソナリティを担当！",
+              "pfm": "ガクテンソク",
+              "img": "https://program-static.cf.radiko.jp/8b5295c1-a742-4022-bfc8-8ea71a6db578.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ガクテンソク"
+                  },
+                  {
+                    "name": "ガクテンソクANN0"
+                  },
+                  {
+                    "name": "お笑い芸人の最強トーク"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
+                  "-id": "C009",
+                  "name": "芸人"
                 },
                 "program": {
                   "-id": "P007",
