@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1717524909",
+    "srvtime": "1717611308",
     "stations": {
       "station": {
         "-id": "RNC",
@@ -258,6 +258,16 @@
               "info": "新しいRNCラジオの朝は「ラ・フレッシュ」！「flche（フレッシュ）」は「矢」という意味です。矢のように素早く、斬新にニュース・天気・交通情報など、朝の情報をあなたのハートに届けます！",
               "pfm": "野並正佑　大西ふみ",
               "img": "https://program-static.cf.radiko.jp/724c6ab2-3158-49df-ac10-dadd8d3107d2.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -280,6 +290,16 @@
               "info": "ニュース/交通/お天気/スポーツなど、話題満載でお届けします！メッセージは、sawayaka@rnc.co.jp",
               "pfm": "野並正佑　大西ふみ",
               "img": "https://program-static.cf.radiko.jp/724c6ab2-3158-49df-ac10-dadd8d3107d2.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -422,10 +442,10 @@
             {
               "-id": "10028626",
               "-ft": "20240604140000",
-              "-to": "20240605135000",
+              "-to": "20240604153000",
               "-ftl": "1400",
-              "-tol": "3750",
-              "-dur": "85800",
+              "-tol": "1530",
+              "-dur": "5400",
               "title": "大竹まこと　ゴールデンラジオ！",
               "url": "https://www.joqr.co.jp/qr/program/golden/",
               "failed_record": "0",
