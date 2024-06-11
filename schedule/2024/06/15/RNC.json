@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1718043604",
+    "srvtime": "1718130003",
     "stations": {
       "station": {
         "-id": "RNC",
@@ -630,9 +630,17 @@
               "pfm": "香川県　池田豊人知事、鴨居真理子",
               "img": "https://program-static.cf.radiko.jp/e270658e-acb7-4794-8bcb-bab09cb86bb4.png",
               "tag": {
-                "item": {
-                  "name": "AMEMIYA"
-                }
+                "item": [
+                  {
+                    "name": "池田豊人"
+                  },
+                  {
+                    "name": "鴨居真理子"
+                  },
+                  {
+                    "name": "知事室"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
