@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1718302516",
+    "srvtime": "1718648111",
     "stations": {
       "station": {
         "-id": "BSS",
@@ -1065,24 +1065,38 @@
               }
             },
             {
-              "-id": "10051302",
+              "-id": "10127742",
               "-ft": "20240619182000",
-              "-to": "20240619210000",
+              "-to": "20240619190000",
               "-ftl": "1820",
-              "-tol": "2100",
-              "-dur": "9600",
-              "title": "BSSダイナミックナイター",
+              "-tol": "1900",
+              "-dur": "2400",
+              "title": "ナイタースペシャル　いつでもみんなのプロ野球",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "BSSダイナミックナイター",
-              "info": "交流戦 予備日",
-              "img": "https://program-static.cf.radiko.jp/5b366670-441d-4dae-8c91-d5779d0ca12e.jpeg",
-              "tag": {
-                "item": {
-                  "name": "野球中継"
+              "desc": "ナイタースペシャル　いつでもみんなのプロ野球",
+              "img": "https://program-static.cf.radiko.jp/4bd6e412-6736-4935-accc-e1799cdca7ef.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
                 }
-              },
+              }
+            },
+            {
+              "-id": "10127743",
+              "-ft": "20240619190000",
+              "-to": "20240619210000",
+              "-ftl": "1900",
+              "-tol": "2100",
+              "-dur": "7200",
+              "title": "ナイタースペシャル　内田雄基のサウンドコレクション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "ナイタースペシャル　内田雄基のサウンドコレクション",
+              "img": "https://program-static.cf.radiko.jp/b7bf85cb-6619-443c-a101-c6edb65743ab.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
