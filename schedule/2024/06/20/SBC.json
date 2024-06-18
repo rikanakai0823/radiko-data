@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1718648702",
+    "srvtime": "1718733902",
     "stations": {
       "station": {
         "-id": "SBC",
@@ -708,20 +708,54 @@
             {
               "-id": "10085689",
               "-ft": "20240620183000",
-              "-to": "20240620210000",
+              "-to": "20240620190000",
               "-ftl": "1830",
-              "-tol": "2100",
-              "-dur": "9000",
-              "title": "ナイタースペシャル",
+              "-tol": "1900",
+              "-dur": "1800",
+              "title": "ナイタースペシャルいつでもみんなのプロ野球",
               "url": "https://twitter.com/showup1242",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/edc2dbb8-3ed6-4c5e-b241-9cc68fa434b3.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P002",
                   "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10133506",
+              "-ft": "20240620190000",
+              "-to": "20240620210000",
+              "-ftl": "1900",
+              "-tol": "2100",
+              "-dur": "7200",
+              "title": "ナイタースペシャル欽ちゃんのラジオとテレビの話",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "萩本欽一 /  天野ひろゆき",
+              "img": "https://program-static.cf.radiko.jp/b697785a-c523-4e8d-b58f-c7a26ecdafa2.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {

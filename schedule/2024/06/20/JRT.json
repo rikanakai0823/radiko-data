@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1718388914",
+    "srvtime": "1718733618",
     "stations": {
       "station": {
         "-id": "JRT",
@@ -1527,38 +1527,40 @@
               }
             },
             {
-              "-id": "10086390",
+              "-id": "10129863",
               "-ft": "20240620181500",
-              "-to": "20240620210000",
+              "-to": "20240620190000",
               "-ftl": "1815",
-              "-tol": "2100",
-              "-dur": "9900",
-              "title": "ＪＲＴゴールデンナイター",
+              "-tol": "1900",
+              "-dur": "2700",
+              "title": "ﾅｲﾀｰｽﾍﾟｼｬﾙ いつでも みんなのプロ野球",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "　　",
-              "img": "https://program-static.cf.radiko.jp/b931b9db-6958-459d-a4f9-84df29fef11e.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "プロ野球"
-                  },
-                  {
-                    "name": "野球中継"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
+              "pfm": "ニッポン放送スポーツアナウンサー",
+              "img": "https://program-static.cf.radiko.jp/c7210a13-6be9-469b-923e-f3ce4db9636b.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
                 }
-              },
+              }
+            },
+            {
+              "-id": "10129864",
+              "-ft": "20240620190000",
+              "-to": "20240620210000",
+              "-ftl": "1900",
+              "-tol": "2100",
+              "-dur": "7200",
+              "title": "ﾅｲﾀｰｽﾍﾟｼｬﾙ　欽ちゃんのラジオとテレビの話",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "萩本欽一、天野ひろゆき",
+              "img": "https://program-static.cf.radiko.jp/100279e3-0d2f-4351-8507-7de6eb12f72f.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",

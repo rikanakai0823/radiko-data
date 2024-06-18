@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1718388915",
+    "srvtime": "1718733618",
     "stations": {
       "station": {
         "-id": "RKC",
@@ -1183,28 +1183,69 @@
               }
             },
             {
-              "-id": "10086305",
+              "-id": "10132222",
               "-ft": "20240620182000",
-              "-to": "20240620220000",
+              "-to": "20240620190000",
               "-ftl": "1820",
-              "-tol": "2200",
-              "-dur": "13200",
-              "title": "ＲＫＣゴールデンナイター（木）",
+              "-tol": "1900",
+              "-dur": "2400",
+              "title": "ナイタースペシャル　いつでも　みんなのプロ野球",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "プロ野球のペナントを巡る熱いたたかいを送る",
-              "pfm": "実況アナウンサー・解説者",
-              "img": "https://program-static.cf.radiko.jp/2cf800fb-0ac5-4afb-8ca9-80a83003418e.png",
+              "img": "https://program-static.cf.radiko.jp/81f914c8-82d6-4284-80a2-975d5c250f4f.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10132223",
+              "-ft": "20240620190000",
+              "-to": "20240620210000",
+              "-ftl": "1900",
+              "-tol": "2100",
+              "-dur": "7200",
+              "title": "ナイタースペシャル　欽ちゃんのラジオとテレビの話",
+              "url": "http://www.rkc-kochi.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "萩本欽一、天野ひろゆき",
+              "img": "https://program-static.cf.radiko.jp/3f9cf85d-fcf0-4890-81ca-9bdefb3788c0.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10132224",
+              "-ft": "20240620210000",
+              "-to": "20240620220000",
+              "-ftl": "2100",
+              "-tol": "2200",
+              "-dur": "3600",
+              "title": "バンリク",
+              "url": "http://www.rkc-kochi.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "四国放送ラジオ制作のリクエスト番組",
+              "pfm": "四国放送アナウンサー",
+              "img": "https://program-static.cf.radiko.jp/63cf5898-d007-4c30-b4d8-6354e9f94194.jpeg",
               "genre": {
                 "personality": {
-                  "-id": "C013",
-                  "name": "アスリート"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {

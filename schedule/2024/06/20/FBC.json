@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1718389203",
+    "srvtime": "1718733902",
     "stations": {
       "station": {
         "-id": "FBC",
@@ -968,22 +968,52 @@
               }
             },
             {
-              "-id": "10110098",
+              "-id": "10133498",
               "-ft": "20240620181500",
-              "-to": "20240620210000",
+              "-to": "20240620190000",
               "-ftl": "1815",
-              "-tol": "2100",
-              "-dur": "9900",
-              "title": "ＦＢＣゴールデンスペシャル",
+              "-tol": "1900",
+              "-dur": "2700",
+              "title": "ナイタースペシャル　いつでもみんなのプロ野球",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "天候などにより、変更になる可能性がございます。<br/>あらかじめご了承ください。<br/>※最大延長２２：００",
-              "img": "https://program-static.cf.radiko.jp/485e1c2a-7e68-4d50-8fbc-864be7483e94.jpeg",
+              "info": "ＦＢＣゴールデンスペシャルをお送りします。",
+              "img": "https://program-static.cf.radiko.jp/1ec49da5-f168-4243-b106-949185caa45d.jpeg",
               "genre": {
                 "personality": {
-                  "-id": "C013",
-                  "name": "アスリート"
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10133499",
+              "-ft": "20240620190000",
+              "-to": "20240620210000",
+              "-ftl": "1900",
+              "-tol": "2100",
+              "-dur": "7200",
+              "title": "ナイタースペシャル　欽ちゃんのラジオとテレビの話",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "pfm": "萩本欽一 / 天野ひろゆき（キャイ～ン）",
+              "img": "https://program-static.cf.radiko.jp/d303a3a5-9c0c-4c4a-8663-9f3b9c6000dd.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
                 },
                 "program": {
                   "-id": "P007",
