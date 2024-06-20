@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1718821201",
+    "srvtime": "1718906415",
     "stations": {
       "station": {
         "-id": "YBC",
@@ -92,10 +92,10 @@
             {
               "-id": "10100889",
               "-ft": "20240620053000",
-              "-to": "20240620063000",
+              "-to": "20240620060000",
               "-ftl": "0530",
-              "-tol": "0630",
-              "-dur": "3600",
+              "-tol": "0600",
+              "-dur": "1800",
               "title": "生島ヒロシのおはよう一直線",
               "url": "https://www.tbsradio.jp/ohayou/",
               "failed_record": "0",
@@ -103,6 +103,37 @@
               "ts_out_ng": "0",
               "desc": "<img src=\"https://ssl.ybc.co.jp/k2/RA/radikoimg/img509.jpg\">　<img src=\"https://ssl.ybc.co.jp/k2/RA/radikoimg/img909.jpg\"><br/><br/>最新ニュースから健康情報まで、幅広さは「聴くスポーツ紙」！1日の始まりは、元気いっぱいの生島ヒロシと共に！",
               "pfm": "生島ヒロシ",
+              "img": "https://program-static.cf.radiko.jp/tsilegfhlu.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10141635",
+              "-ft": "20240620060000",
+              "-to": "20240620063000",
+              "-ftl": "0600",
+              "-tol": "0630",
+              "-dur": "1800",
+              "title": "生島ヒロシのおはよう一直線２",
+              "url": "https://www.tbsradio.jp/ohayou/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "<img src=\"http://www.ybc.co.jp/k2/RA/radikoimg/img509.jpg\">　<img src=\"http://www.ybc.co.jp/k2/RA/radikoimg/img909.jpg\"><br/><br/>最新ニュースから健康情報まで、幅広さは「聴くスポーツ紙」！1日の始まりは、元気いっぱいの生島ヒロシと共に！\r\n",
               "img": "https://program-static.cf.radiko.jp/tsilegfhlu.jpg",
               "genre": {
                 "personality": {
@@ -1041,17 +1072,36 @@
               }
             },
             {
-              "-id": "10100920",
+              "-id": "10141636",
               "-ft": "20240620181500",
-              "-to": "20240620210000",
+              "-to": "20240620190000",
               "-ftl": "1815",
-              "-tol": "2100",
-              "-dur": "9900",
-              "title": "ＹＢＣ木曜エキサイトナイター",
+              "-tol": "1900",
+              "-dur": "2700",
+              "title": "ナイタースペシャル　いつでも　みんなのプロ野球",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/0bab1103-5b0c-4485-bd5f-245a65e997a5.png",
+              "img": "https://program-static.cf.radiko.jp/rej6e0ikv5.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10141637",
+              "-ft": "20240620190000",
+              "-to": "20240620210000",
+              "-ftl": "1900",
+              "-tol": "2100",
+              "-dur": "7200",
+              "title": "ナイタースペシャル　欽ちゃんのラジオとテレビの話",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/xylr0r6qju.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",

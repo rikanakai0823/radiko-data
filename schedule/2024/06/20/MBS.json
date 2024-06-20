@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1718820018",
+    "srvtime": "1718906415",
     "stations": {
       "station": {
         "-id": "MBS",
@@ -845,11 +845,59 @@
             {
               "-id": "10095778",
               "-ft": "20240620175400",
-              "-to": "20240620210000",
+              "-to": "20240620190000",
               "-ftl": "1754",
+              "-tol": "1900",
+              "-dur": "3960",
+              "title": "ＭＢＳベースボールパーク (1)",
+              "url": "https://www.mbs1179.com/tigers/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "◆NRNフィラー番組を放送致します◆<br /><br />18：00～19：00『ナイタースペシャル　いつでも　みんなのプロ野球』<br /><br />19：00～21：00『ナイタースペシャル　欽ちゃんのラジオとテレビの話』<br /><br /><br />メールアドレス：<a href=mailto:park@mbs1179.com target=_blank>park@mbs1179.com</a><br /><br /><br />◆MBSベースボールパーク番組サイト◆<br />☆ホームページ：<a href='https://www.mbs1179.com/tigers/' target=_blank>こちらをクリック</a><br />☆X（旧Twitter）：<a href='https://twitter.com/tigers_park_mbs' target=_blank>@tigers_park_mbs</a><br />☆Instagram：<a href='https://www.instagram.com/mbs_baseballpark/' target=_blank>mbs_baseballpark</a>",
+              "pfm": "NRNフィラー番組を放送致します",
+              "img": "https://program-static.cf.radiko.jp/078fc721-9600-4597-9269-1f9943bef160.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ベースボールパーク"
+                  },
+                  {
+                    "name": "BBP1179"
+                  },
+                  {
+                    "name": "MBSラジオ"
+                  },
+                  {
+                    "name": "Mラジ"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C013",
+                  "name": "アスリート"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10095778",
+              "-ft": "20240620190000",
+              "-to": "20240620210000",
+              "-ftl": "1900",
               "-tol": "2100",
-              "-dur": "11160",
-              "title": "ＭＢＳベースボールパーク",
+              "-dur": "7200",
+              "title": "ＭＢＳベースボールパーク (2)",
               "url": "https://www.mbs1179.com/tigers/",
               "failed_record": "0",
               "ts_in_ng": "0",
