@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1718992822",
+    "srvtime": "1719079220",
     "stations": {
       "station": {
         "-id": "JOAK",
@@ -194,15 +194,35 @@
             {
               "-id": "10145945",
               "-ft": "20240625072500",
-              "-to": "20240625075500",
+              "-to": "20240625075000",
               "-ftl": "0725",
-              "-tol": "0755",
-              "-dur": "1800",
+              "-tol": "0750",
+              "-dur": "1500",
               "title": "この時間はＮＨＫネットラジオではお聞き頂けません。ラジオのみで放送しています。",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/64b810d0-a8b0-487b-86ed-2212bdfb8379.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10151130",
+              "-ft": "20240625075000",
+              "-to": "20240625075500",
+              "-ftl": "0750",
+              "-tol": "0755",
+              "-dur": "300",
+              "title": "ニュース",
+              "url": "https://www.nhk.or.jp/radionews/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/jph2n4n1vv.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",

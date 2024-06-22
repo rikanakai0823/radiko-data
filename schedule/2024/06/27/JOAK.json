@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1718992824",
+    "srvtime": "1719079223",
     "stations": {
       "station": {
         "-id": "JOAK",
@@ -933,15 +933,35 @@
             {
               "-id": "10145969",
               "-ft": "20240627193000",
-              "-to": "20240627200000",
+              "-to": "20240627195500",
               "-ftl": "1930",
-              "-tol": "2000",
-              "-dur": "1800",
+              "-tol": "1955",
+              "-dur": "1500",
               "title": "この時間はＮＨＫネットラジオではお聞き頂けません。ラジオのみで放送しています。",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/64b810d0-a8b0-487b-86ed-2212bdfb8379.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10151131",
+              "-ft": "20240627195500",
+              "-to": "20240627200000",
+              "-ftl": "1955",
+              "-tol": "2000",
+              "-dur": "300",
+              "title": "ニュース・気象情報・交通情報",
+              "url": "https://www.nhk.or.jp/radionews/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/jph2n4n1vv.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
