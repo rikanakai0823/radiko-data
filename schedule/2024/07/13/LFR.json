@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1720375225",
+    "srvtime": "1720461626",
     "stations": {
       "station": {
         "-id": "LFR",
@@ -1050,14 +1050,15 @@
               "-ftl": "2700",
               "-tol": "2900",
               "-dur": "7200",
-              "title": "オールナイトニッポン0(ZERO)",
+              "title": "ママタルトのオールナイトニッポン0(ZERO)",
               "url": "https://www.allnightnippon.com/zero-sat/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "土曜も深夜3時からはオールナイトニッポン0(ZERO)！スペシャルなパーソナリティが週替わりで登場します！",
-              "info": "番組ホームページは<a href=\"https://www.allnightnippon.com/zero-sat/\">こちら</a><br><br>twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」",
-              "img": "https://program-static.cf.radiko.jp/83l4ssyvyp.jpg",
+              "info": "メールアドレス：<br><a href=\"mailto:mg@allnightnippon.com\">mg@allnightnippon.com</a><br><br>番組ホームページは<a href=\"https://www.allnightnippon.com/zero-sat/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%9E%E3%83%9E%E3%82%BF%E3%83%AB%E3%83%88ANN0\">#ママタルトANN0</a>」twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」",
+              "pfm": "ママタルト（大鶴肥満、檜原洋平）",
+              "img": "https://program-static.cf.radiko.jp/u3gzj4ic65.jpg",
               "tag": {
                 "item": {
                   "name": "オールナイトニッポン0(ZERO)"
@@ -1065,8 +1066,8 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C008",
-                  "name": "女性アイドル"
+                  "-id": "C009",
+                  "name": "芸人"
                 },
                 "program": {
                   "-id": "P007",
@@ -1074,10 +1075,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "from:Ann_Since1967"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ママタルトANN0"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:Ann_Since1967"
+                  }
+                ]
               }
             }
           ]
