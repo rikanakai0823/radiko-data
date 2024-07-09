@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1720461616",
+    "srvtime": "1720548015",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -949,11 +949,39 @@
               }
             },
             {
-              "-id": "10180377",
+              "-id": "10230374",
               "-ft": "20240709210000",
-              "-to": "20240709210500",
+              "-to": "20240709214500",
               "-ftl": "2100",
-              "-tol": "2105",
+              "-tol": "2145",
+              "-dur": "2700",
+              "title": "ＡＢＣフレッシュアップベースボール(4)",
+              "url": "https://abcradio.asahi.co.jp/baseball/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "阪神―ヤクルト（甲子園）<BR>※試合終了までお届けします。<BR>解説：関本賢太郎／実況：高野純一／<BR><BR>【第一予備】<BR>オリックス―ソフトバンク（京セラＤ）解説：中田良弘／実況：中邨雄二／<BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc_toraban\">@abc_toraban</a>」<BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23toraban1008\">#toraban1008</a>」<BR><BR><BR>",
+              "pfm": "阪神―ヤクルト（甲子園）　  ※試合終了までお届けします。　  解説：関本賢太郎／実況：高野純一／　  　  【第一予備】　  オリックス―ソフトバンク（京セラＤ）解説：中田良弘／実況：中邨雄二／",
+              "img": "https://program-static.cf.radiko.jp/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#toraban1008"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:abc_toraban"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "10230384",
+              "-ft": "20240709214500",
+              "-to": "20240709215000",
+              "-ftl": "2145",
+              "-tol": "2150",
               "-dur": "300",
               "title": "ＡＢＣニュース＆天気予報",
               "url": "https://www.abc1008.com/",
@@ -961,54 +989,11 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
                   "-value": "#radiko"
                 }
-              }
-            },
-            {
-              "-id": "10180378",
-              "-ft": "20240709210500",
-              "-to": "20240709215000",
-              "-ftl": "2105",
-              "-tol": "2150",
-              "-dur": "2700",
-              "title": "田淵麻里奈の夜あそびはココから",
-              "url": "https://abcradio.asahi.co.jp/yoasobi/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<img src=\"https://abcradio.asahi.co.jp/img/program/yoasobi.jpg\" width=\"100\"><BR><BR>番組Twitter アカウント：<a href=\"https://twitter.com/yorukoko1008\">@yorukoko1008</a><BR>ハッシュタグ「# 夜ココ」を付けてツイートしてね！<BR><BR>ABC ラジオ公式Twitter アカウント：<a href=\"https://twitter.com/abc1008khz\">@abc1008khz</a><BR>ハッシュタグ「#ABCラジオ」を付けてツイートしてね！<BR><BR>メールアドレス：<a href=\"mailto:tm@abc1008.com\">tm@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%A4%9C%E3%82%B3%E3%82%B3\">#夜ココ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/yorukoko1008\">@yorukoko1008</a>」<BR><BR><BR>",
-              "pfm": "田淵麻里奈",
-              "img": "https://program-static.cf.radiko.jp/71dda5e7-fcbd-440e-8507-4f77d3ada7c3.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#夜ココ"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:yorukoko1008"
-                  }
-                ]
               }
             },
             {
