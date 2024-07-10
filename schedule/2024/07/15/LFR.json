@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1720549442",
+    "srvtime": "1720635842",
     "stations": {
       "station": {
         "-id": "LFR",
@@ -25,6 +25,11 @@
               "info": "メールアドレス：<br><a href=\"mailto:news70@1242.com\">news70@1242.com</a><br><br>番組ホームページは<a href=\"https://www.1242.com/70th/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23news70\">#news70</a>」twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」",
               "pfm": "上柳昌彦、飯田浩司　ゲスト：高嶋ひでたけ",
               "img": "https://program-static.cf.radiko.jp/5zwkunnlnp.jpg",
+              "tag": {
+                "item": {
+                  "name": "news70"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -62,16 +67,21 @@
               "ts_out_ng": "0",
               "desc": "ニッポン放送開局70周年特別番組「笑顔にナーレ！　あなたとワンダフルリクエスト」",
               "info": "番組ホームページは<a href=\"https://www.1242.com/70th/\">こちら</a><br><br>twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」",
-              "pfm": "垣花正、山田邦子、榊原郁恵、山内惠介、森永卓郎、中瀬ゆかり",
+              "pfm": "垣花正、山田邦子　ゲスト：榊原郁恵、山内惠介、森永卓郎、中瀬ゆかり",
               "img": "https://program-static.cf.radiko.jp/mcyc6dggb5.jpg",
+              "tag": {
+                "item": {
+                  "name": "news70"
+                }
+              },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C010",
+                  "name": "タレント"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -95,16 +105,21 @@
               "ts_out_ng": "0",
               "desc": "ニッポン放送開局70周年特別番組「笑顔にナーレ！　70年の半分やってる 高田文夫のラジオビバリー昼ズ特大号」",
               "info": "番組ホームページは<a href=\"https://www.1242.com/70th/\">こちら</a><br><br>twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」",
-              "pfm": "高田文夫、松本明子、ナイツ",
+              "pfm": "高田文夫、松本明子、ナイツ　ゲスト：キャイ～ン",
               "img": "https://program-static.cf.radiko.jp/zywbcutczo.jpg",
+              "tag": {
+                "item": {
+                  "name": "news70"
+                }
+              },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C010",
+                  "name": "タレント"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -130,14 +145,19 @@
               "info": "番組ホームページは<a href=\"https://www.1242.com/70th/\">こちら</a><br><br>twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」",
               "pfm": "テリー伊藤、辛坊治郎、笑福亭鶴光",
               "img": "https://program-static.cf.radiko.jp/fs8sxp8dqs.jpg",
+              "tag": {
+                "item": {
+                  "name": "news70"
+                }
+              },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C010",
+                  "name": "タレント"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -163,14 +183,19 @@
               "info": "番組ホームページは<a href=\"https://www.1242.com/70th/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E7%AC%91%E9%A1%94%E3%81%AB%E3%83%8A%E3%83%BC%E3%83%AC\">#笑顔にナーレ</a>」twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」",
               "pfm": "タモリ、アシスタント：東島衣里（ニッポン放送アナウンサー）　ゲスト：山下洋輔",
               "img": "https://program-static.cf.radiko.jp/1nu8hq157p.jpg",
+              "tag": {
+                "item": {
+                  "name": "笑顔にナーレ"
+                }
+              },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C010",
+                  "name": "タレント"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -193,20 +218,41 @@
               "-ftl": "1700",
               "-tol": "1900",
               "-dur": "7200",
-              "title": "特別番組",
+              "title": "ニッポン放送開局70周年特別番組「笑顔にナーレ！　ユーミン・ゆず・あいみょんの音楽とラジオ」",
               "url": "https://www.1242.com/70th/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "特別番組",
-              "info": "番組ホームページは<a href=\"https://www.1242.com/70th/\">こちら</a><br><br>twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」",
-              "pfm": "松任谷由実",
+              "desc": "ニッポン放送開局70周年特別番組「笑顔にナーレ！　ユーミン・ゆず・あいみょんの音楽とラジオ」",
+              "info": "番組ホームページは<a href=\"https://www.1242.com/70th/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E7%AC%91%E9%A1%94%E3%81%AB%E3%83%8A%E3%83%BC%E3%83%AC\">#笑顔にナーレ</a>」twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」",
+              "pfm": "松任谷由実、ゆず、あいみょん",
               "img": "https://program-static.cf.radiko.jp/roodqta4gp.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "from:1242_PR"
+              "tag": {
+                "item": {
+                  "name": "笑顔にナーレ"
                 }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#笑顔にナーレ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:1242_PR"
+                  }
+                ]
               }
             },
             {
@@ -225,14 +271,19 @@
               "info": "番組ホームページは<a href=\"https://www.1242.com/70th/\">こちら</a><br><br>twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」",
               "pfm": "三四郎",
               "img": "https://program-static.cf.radiko.jp/kmpx04su9f.jpg",
+              "tag": {
+                "item": {
+                  "name": "笑顔にナーレ"
+                }
+              },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C009",
+                  "name": "芸人"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
@@ -255,24 +306,35 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "ニッポン放送開局70周年特別番組「笑顔にナーレ！　三宅裕司のヤングパラダイス」",
-              "info": "番組ホームページは<a href=\"https://www.1242.com/70th/\">こちら</a><br><br>twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」",
+              "info": "メールアドレス：<br><a href=\"mailto:miyake@1242.com\">miyake@1242.com</a><br><br>番組ホームページは<a href=\"https://www.1242.com/70th/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E7%AC%91%E9%A1%94%E3%81%AB%E3%83%8A%E3%83%BC%E3%83%AC\">#笑顔にナーレ</a>」twitterアカウントは「<a href=\"http://twitter.com/1242_PR\">@1242_PR</a>」",
               "pfm": "三宅裕司",
               "img": "https://program-static.cf.radiko.jp/y4pxqhdqlu.jpg",
+              "tag": {
+                "item": {
+                  "name": "笑顔にナーレ"
+                }
+              },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C010",
+                  "name": "タレント"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "from:1242_PR"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#笑顔にナーレ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:1242_PR"
+                  }
+                ]
               }
             },
             {
