@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1720549442",
+    "srvtime": "1720807214",
     "stations": {
       "station": {
         "-id": "WBS",
@@ -335,7 +335,7 @@
               "-ftl": "0730",
               "-tol": "0740",
               "-dur": "600",
-              "title": "わたくしの作文",
+              "title": "わたくしの作文(再放送)",
               "url": "http://wbs.co.jp/wp/images/sakubun.pdf",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -520,43 +520,66 @@
               }
             },
             {
-              "-id": "10203878",
-              "-ft": "20240712085000",
-              "-to": "20240712110500",
-              "-ftl": "0850",
-              "-tol": "1105",
-              "-dur": "8100",
-              "title": "第106回全国高校野球選手権大会和歌山大会初芝橋本　vs　慶風",
+              "-id": "10242199",
+              "-ft": "20240712085500",
+              "-to": "20240712104900",
+              "-ftl": "0855",
+              "-tol": "1049",
+              "-dur": "6840",
+              "title": "ボックス",
+              "url": "http://wbs-radio.com/box/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10203879",
-              "-ft": "20240712110500",
-              "-to": "20240712111500",
-              "-ftl": "1105",
-              "-tol": "1115",
-              "-dur": "600",
-              "title": "県庁だより",
-              "url": "https://www.pref.wakayama.lg.jp/prefg/000200/kouhou.html#tv",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "和歌山県の広報による情報を発信しています。<a href=\"https://www.pref.wakayama.lg.jp/prefg/000200/kouhou.html#tv\">和歌山県のラジオ番組紹介ホームページはこちらから</a>\n<br/>",
-              "pfm": "中川智美、税所ひかる",
-              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "desc": "和歌山放送の朝は、いろんな話題がボックスから飛び出す！金曜日は赤井ゆかりが担当。コメンテーターは信愛女子短期大学教授の伊藤宏さんです。<br/><br>\n\n9時台<br/>\n▽ニュース・天気・交通情報<br>\n▽快適生活ラジオショッピング<br>\n▽話の広場<br>\n県警のコーナー<br>\n脳にきくニュース<br>\n<br/>\n10時台<br/>\n▽ニュース・引本孝之のお天気ダイヤル・交通情報<br>\n▽快適生活ラジオショッピング<br>\n▽コープでつながる<br>",
+              "info": "<br/><br/>\n<a href=\"mailto:am@wbs.co.jp\">リクエスト・メールはこちらから</a>\n<br/><br/>\n<a href=\"http://wbs-radio.com/box/\">番組ブログはこちらから</a>\n<br/><br/>\ntwitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23wbsradio\">#wbsradio</a>」「#wbsボックス」\n<br/>\ntwitterアカウントは「<a href=\"http://twitter.com/wbsradio\">@wbsradio</a>」",
+              "pfm": "赤井ゆかり、伊藤宏",
+              "img": "https://program-static.cf.radiko.jp/fe10e564-f3cc-4167-95fc-2bf8dd62fc81.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#wbsradio"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:wbsradio"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "10242200",
+              "-ft": "20240712104900",
+              "-to": "20240712105400",
+              "-ftl": "1049",
+              "-tol": "1054",
+              "-dur": "300",
+              "title": "早苗の耳よりラジオ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "朝のひととき、音楽に乗せて生活情報をお届けする番組です。",
+              "pfm": "鶴岡早苗",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -567,17 +590,99 @@
               }
             },
             {
-              "-id": "10203880",
-              "-ft": "20240712111500",
-              "-to": "20240712112500",
-              "-ftl": "1115",
-              "-tol": "1125",
+              "-id": "10242201",
+              "-ft": "20240712105400",
+              "-to": "20240712110000",
+              "-ftl": "1054",
+              "-tol": "1100",
+              "-dur": "360",
+              "title": "桂文福のあの店この店",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "和歌山出身の落語家、桂文福が紀北エリアを中心に“おもしゃいお店”をご紹介。お店の方との楽しいおしゃべりでお得な情報をお届けします。",
+              "pfm": "桂文福",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10242202",
+              "-ft": "20240712110000",
+              "-to": "20240712111000",
+              "-ftl": "1100",
+              "-tol": "1110",
               "-dur": "600",
-              "title": "コープでつながる",
+              "title": "ボックス",
+              "url": "http://wbs-radio.com/box/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "desc": "もうちょっとだけ・・・ボックス",
+              "info": "<br/><br/>\n<a href=\"mailto:am@wbs.co.jp\">リクエスト・メールはこちらから</a>\n<br/><br/>\n<a href=\"http://wbs-radio.com/box/\">番組ブログはこちらから</a>\n<br/><br/>\ntwitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23wbsradio\">#wbsradio</a>」「#wbsボックス」\n<br/>\ntwitterアカウントは「<a href=\"http://twitter.com/wbsradio\">@wbsradio</a>」",
+              "pfm": "赤井ゆかり",
+              "img": "https://program-static.cf.radiko.jp/fe10e564-f3cc-4167-95fc-2bf8dd62fc81.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#wbsradio"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:wbsradio"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "10242203",
+              "-ft": "20240712111000",
+              "-to": "20240712113000",
+              "-ftl": "1110",
+              "-tol": "1130",
+              "-dur": "1200",
+              "title": "テレフォン人生相談",
+              "url": "http://www.1242.com/radio/jinseisoudan/",
+              "failed_record": "0",
+              "ts_in_ng": "1",
+              "ts_out_ng": "1",
+              "desc": "色々な悩みを抱えた人を専門家が電話でアドバイスします。\n\n",
+              "img": "https://program-static.cf.radiko.jp/rkhrtuen4c.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P009",
+                  "name": "ドキュメンタリー"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -586,30 +691,11 @@
               }
             },
             {
-              "-id": "10203881",
-              "-ft": "20240712112500",
-              "-to": "20240712134000",
-              "-ftl": "1125",
-              "-tol": "1340",
-              "-dur": "8100",
-              "title": "第106回全国高校野球選手権大会和歌山大会日高　vs　粉河",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10203882",
-              "-ft": "20240712134000",
-              "-to": "20240712135000",
-              "-ftl": "1340",
-              "-tol": "1350",
+              "-id": "10242204",
+              "-ft": "20240712113000",
+              "-to": "20240712114000",
+              "-ftl": "1130",
+              "-tol": "1140",
               "-dur": "600",
               "title": "JAグループアワー",
               "url": "http://www.ja-gp-wakayama.or.jp/information/",
@@ -634,11 +720,202 @@
               }
             },
             {
-              "-id": "10203883",
-              "-ft": "20240712135000",
-              "-to": "20240712140000",
-              "-ftl": "1350",
-              "-tol": "1400",
+              "-id": "10242205",
+              "-ft": "20240712114000",
+              "-to": "20240712115000",
+              "-ftl": "1140",
+              "-tol": "1150",
+              "-dur": "600",
+              "title": "県庁だより",
+              "url": "https://www.pref.wakayama.lg.jp/prefg/000200/kouhou.html#tv",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "和歌山県の広報による情報を発信しています。<a href=\"https://www.pref.wakayama.lg.jp/prefg/000200/kouhou.html#tv\">和歌山県のラジオ番組紹介ホームページはこちらから</a>\n<br/>",
+              "pfm": "中川智美、税所ひかる",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10242206",
+              "-ft": "20240712115000",
+              "-to": "20240712115500",
+              "-ftl": "1150",
+              "-tol": "1155",
+              "-dur": "300",
+              "title": "ラジオショッピング",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10242207",
+              "-ft": "20240712115500",
+              "-to": "20240712120000",
+              "-ftl": "1155",
+              "-tol": "1200",
+              "-dur": "300",
+              "title": "wbsインフォメーション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10242208",
+              "-ft": "20240712120000",
+              "-to": "20240712121000",
+              "-ftl": "1200",
+              "-tol": "1210",
+              "-dur": "600",
+              "title": "和歌山放送ニュース・天気予報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10242209",
+              "-ft": "20240712121000",
+              "-to": "20240712122000",
+              "-ftl": "1210",
+              "-tol": "1220",
+              "-dur": "600",
+              "title": "ラジオ健康相談",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "気になる健康の話題や病気の症例や治療法について、専門医が月曜日から金曜日の５回にわたってわかりやすく解説します",
+              "pfm": "赤井ゆかり　他",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P010",
+                  "name": "医療"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10242210",
+              "-ft": "20240712122000",
+              "-to": "20240712122700",
+              "-ftl": "1220",
+              "-tol": "1227",
+              "-dur": "420",
+              "title": "桂三歩のきてみて！！この店ええお店",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "和歌山出身の落語家・桂三歩が、紀中エリアを「さんぽ」しながら素敵なお店を紹介します。<br>",
+              "pfm": "桂三歩",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10242211",
+              "-ft": "20240712122700",
+              "-to": "20240712123000",
+              "-ftl": "1227",
+              "-tol": "1230",
+              "-dur": "180",
+              "title": "こちら119番",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "県内各消防署に出動状況などを聞く番組です。",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10242212",
+              "-ft": "20240712123000",
+              "-to": "20240712124000",
+              "-ftl": "1230",
+              "-tol": "1240",
               "-dur": "600",
               "title": "三井ダイレクト損保 presents 『強くてやさしい金曜日』",
               "failed_record": "0",
@@ -653,12 +930,45 @@
               }
             },
             {
-              "-id": "10203884",
-              "-ft": "20240712140000",
+              "-id": "10242213",
+              "-ft": "20240712124000",
+              "-to": "20240712125000",
+              "-ftl": "1240",
+              "-tol": "1250",
+              "-dur": "600",
+              "title": "わたくしの作文",
+              "url": "http://wbs.co.jp/wp/images/sakubun.pdf",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "県内小中学生の作文を紹介します。",
+              "info": "和歌山放送が開局して間もないころから放送している長寿番組。毎月、県内の小中学校から応募のあった作文を審査し、入選者の作品をアナウンサーが朗読します。毎年３月に年間表彰を行い、各賞をお贈りしています。受賞作品は本人の朗読で４月に放送しています。\n\n<a href=\"http://www.wbs.co.jp/2013/06/21/1016.html\">作文の実施要領・応募はこちらから</a>",
+              "pfm": "北尾博伸、税所ひかる",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10242214",
+              "-ft": "20240712125000",
               "-to": "20240712150000",
-              "-ftl": "1400",
+              "-ftl": "1250",
               "-tol": "1500",
-              "-dur": "3600",
+              "-dur": "7800",
               "title": "しそまるの全開！金曜日",
               "url": "http://tsunagaru.sblo.jp/",
               "failed_record": "0",
@@ -1001,21 +1311,21 @@
               }
             },
             {
-              "-id": "10202322",
+              "-id": "10242215",
               "-ft": "20240712220000",
               "-to": "20240713000000",
               "-ftl": "2200",
               "-tol": "2400",
               "-dur": "7200",
-              "title": "中山秀征のオールナイトニッポンGOLD",
+              "title": "あいみょんのオールナイトニッポンGOLD",
               "url": "https://www.allnightnippon.com/gold/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "金曜日の オールナイトニッポンGOLDはバラエティに富んだパーソナリティが週替わりでお届け！<br> 過去の名パーソナリティや話題のあの人が続々と登場！<br>金曜夜のニッポン放送を盛り上げます。",
               "info": "<br/><br/>\n<a href=\"mailto:10@1242.com\">リクエスト・メールはこちらから</a>\n<br/><br/>",
-              "pfm": "中山秀征　ゲスト：上重聡、柏木由紀",
-              "img": "https://program-static.cf.radiko.jp/c645b5c8-db36-48ff-8eb8-1ae75dd5a0a9.jpeg",
+              "pfm": "あいみょん",
+              "img": "https://program-static.cf.radiko.jp/7499e3f1-31e5-46b1-b836-f91cb1c9e7cc.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
