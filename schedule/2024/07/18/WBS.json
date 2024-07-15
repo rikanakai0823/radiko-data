@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1720808643",
+    "srvtime": "1721067843",
     "stations": {
       "station": {
         "-id": "WBS",
@@ -328,12 +328,45 @@
               }
             },
             {
-              "-id": "10230436",
+              "-id": "10254859",
               "-ft": "20240718073000",
-              "-to": "20240718074500",
+              "-to": "20240718074000",
               "-ftl": "0730",
+              "-tol": "0740",
+              "-dur": "600",
+              "title": "わたくしの作文(再放送)",
+              "url": "http://wbs.co.jp/wp/images/sakubun.pdf",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "県内小中学生の作文を紹介します。",
+              "info": "和歌山放送が開局して間もないころから放送している長寿番組。毎月、県内の小中学校から応募のあった作文を審査し、入選者の作品をアナウンサーが朗読します。毎年３月に年間表彰を行い、各賞をお贈りしています。受賞作品は本人の朗読で４月に放送しています。\n\n<a href=\"http://www.wbs.co.jp/2013/06/21/1016.html\">作文の実施要領・応募はこちらから</a>",
+              "pfm": "北尾博伸、税所ひかる",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10254860",
+              "-ft": "20240718074000",
+              "-to": "20240718074500",
+              "-ftl": "0740",
               "-tol": "0745",
-              "-dur": "900",
+              "-dur": "300",
               "title": "グッデイ！",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -392,12 +425,43 @@
               }
             },
             {
-              "-id": "10230438",
+              "-id": "10254861",
               "-ft": "20240718075000",
-              "-to": "20240718084000",
+              "-to": "20240718075500",
               "-ftl": "0750",
+              "-tol": "0755",
+              "-dur": "300",
+              "title": "マエオカテツヤの千客万来！",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "漫画家のマエオカテツヤが素敵なお店や会社を訪問。スタッフとの楽しいやり取りでお得な情報をお届けします。",
+              "pfm": "マエオカテツヤ",
+              "img": "https://program-static.cf.radiko.jp/467e78f5-8395-44d1-9e31-96318be2bf1c.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10254862",
+              "-ft": "20240718075500",
+              "-to": "20240718084000",
+              "-ftl": "0755",
               "-tol": "0840",
-              "-dur": "3000",
+              "-dur": "2700",
               "title": "グッデイ！",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -455,89 +519,17 @@
               }
             },
             {
-              "-id": "10230440",
+              "-id": "10254863",
               "-ft": "20240718085000",
-              "-to": "20240718085500",
+              "-to": "20240718110500",
               "-ftl": "0850",
-              "-tol": "0855",
-              "-dur": "300",
-              "title": "マエオカテツヤの千客万来！",
+              "-tol": "1105",
+              "-dur": "8100",
+              "title": "第106回全国高校野球選手権和歌山実況中継日高中津　vs　和歌山商業",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "漫画家のマエオカテツヤが素敵なお店や会社を訪問。スタッフとの楽しいやり取りでお得な情報をお届けします。",
-              "pfm": "マエオカテツヤ",
-              "img": "https://program-static.cf.radiko.jp/467e78f5-8395-44d1-9e31-96318be2bf1c.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10230441",
-              "-ft": "20240718085500",
-              "-to": "20240718104900",
-              "-ftl": "0855",
-              "-tol": "1049",
-              "-dur": "6840",
-              "title": "ボックス",
-              "url": "http://wbs-radio.com/box/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "和歌山放送の朝は、いろんな話題がボックスから飛び出す！木曜日は中川智美（ｗｂｓアナウンサー）が担当。<br/><br>\n\n9時台<br/>\n▽ニュース・天気・交通情報<br>\n▽快適生活ラジオショッピング<br>\n▽和歌山県警察のコーナー<br>\n▽話の広場<br>\n\n\n10時台<br/>\n▽ニュース・引本孝之のお天気ダイヤル・交通情報<br>\n▽快適生活ラジオショッピング<br>\n▽わかやま市民生協 presents しあわせのはこ<br>",
-              "info": "<br/><br/>\n<a href=\"mailto:am@wbs.co.jp\">リクエスト・メールはこちらから</a>\n<br/><br/>\n<a href=\"http://wbs-radio.com/box/\">番組ブログはこちらから</a>\n<br/><br/>\ntwitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23wbsradio\">#wbsradio</a>」「#wbsボックス」\n<br/>\ntwitterアカウントは「<a href=\"http://twitter.com/wbsradio\">@wbsradio</a>」",
-              "pfm": "中川智美",
-              "img": "https://program-static.cf.radiko.jp/fe10e564-f3cc-4167-95fc-2bf8dd62fc81.jpeg",
-              "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#wbsradio"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:wbsradio"
-                  }
-                ]
-              }
-            },
-            {
-              "-id": "10230442",
-              "-ft": "20240718104900",
-              "-to": "20240718105400",
-              "-ftl": "1049",
-              "-tol": "1054",
-              "-dur": "300",
-              "title": "早苗の耳よりラジオ",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "朝のひととき、音楽に乗せて生活情報をお届けする番組です。",
-              "pfm": "鶴岡早苗",
               "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -546,87 +538,24 @@
               }
             },
             {
-              "-id": "10230443",
-              "-ft": "20240718105400",
-              "-to": "20240718110000",
-              "-ftl": "1054",
-              "-tol": "1100",
-              "-dur": "360",
-              "title": "桂文福のあの店この店",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "和歌山出身の落語家、桂文福が紀北エリアを中心に“おもしゃいお店”をご紹介。お店の方との楽しいおしゃべりでお得な情報をお届けします。",
-              "pfm": "桂文福",
-              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10230444",
-              "-ft": "20240718110000",
-              "-to": "20240718111000",
-              "-ftl": "1100",
-              "-tol": "1110",
+              "-id": "10254864",
+              "-ft": "20240718110500",
+              "-to": "20240718111500",
+              "-ftl": "1105",
+              "-tol": "1115",
               "-dur": "600",
-              "title": "ボックス",
-              "url": "http://wbs-radio.com/box/",
+              "title": "県庁だより",
+              "url": "https://www.pref.wakayama.lg.jp/prefg/000200/kouhou.html#tv",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "▽南海電鉄インフォメーション（最終週）<br>\nもうちょっとだけ・・・ボックス",
-              "info": "<br/><br/>\n<a href=\"mailto:am@wbs.co.jp\">リクエスト・メールはこちらから</a>\n<br/><br/>\n<a href=\"http://wbs-radio.com/box/\">番組ブログはこちらから</a>\n<br/><br/>\ntwitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23wbsradio\">#wbsradio</a>」「#wbsボックス」\n<br/>\ntwitterアカウントは「<a href=\"http://twitter.com/wbsradio\">@wbsradio</a>」",
-              "pfm": "中川智美",
-              "img": "https://program-static.cf.radiko.jp/fe10e564-f3cc-4167-95fc-2bf8dd62fc81.jpeg",
-              "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#wbsradio"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:wbsradio"
-                  }
-                ]
-              }
-            },
-            {
-              "-id": "10230445",
-              "-ft": "20240718111000",
-              "-to": "20240718113000",
-              "-ftl": "1110",
-              "-tol": "1130",
-              "-dur": "1200",
-              "title": "テレフォン人生相談",
-              "url": "http://www.1242.com/radio/jinseisoudan/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "色々な悩みを抱えた人を専門家が電話でアドバイスします。\n\n",
-              "img": "https://program-static.cf.radiko.jp/rkhrtuen4c.jpg",
+              "desc": "和歌山県の広報による情報を発信しています。<a href=\"https://www.pref.wakayama.lg.jp/prefg/000200/kouhou.html#tv\">和歌山県のラジオ番組紹介ホームページはこちらから</a>\n<br/>",
+              "pfm": "中川智美、税所ひかる",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
               "genre": {
-                "personality": {
-                  "-id": "C012",
-                  "name": "文化人"
-                },
                 "program": {
-                  "-id": "P009",
-                  "name": "ドキュメンタリー"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -637,11 +566,49 @@
               }
             },
             {
-              "-id": "10230446",
-              "-ft": "20240718113000",
-              "-to": "20240718114000",
-              "-ftl": "1130",
-              "-tol": "1140",
+              "-id": "10254865",
+              "-ft": "20240718111500",
+              "-to": "20240718112500",
+              "-ftl": "1115",
+              "-tol": "1125",
+              "-dur": "600",
+              "title": "しあわせのはこ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10254866",
+              "-ft": "20240718112500",
+              "-to": "20240718134000",
+              "-ftl": "1125",
+              "-tol": "1340",
+              "-dur": "8100",
+              "title": "第106回全国高校野球選手権和歌山実況中継那賀　vs　和歌山北",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10254867",
+              "-ft": "20240718134000",
+              "-to": "20240718135000",
+              "-ftl": "1340",
+              "-tol": "1350",
               "-dur": "600",
               "title": "JAグループアワー",
               "url": "http://www.ja-gp-wakayama.or.jp/information/",
@@ -666,51 +633,17 @@
               }
             },
             {
-              "-id": "10230447",
-              "-ft": "20240718114000",
-              "-to": "20240718115000",
-              "-ftl": "1140",
-              "-tol": "1150",
-              "-dur": "600",
-              "title": "県庁だより",
-              "url": "https://www.pref.wakayama.lg.jp/prefg/000200/kouhou.html#tv",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "和歌山県の広報による情報を発信しています。<a href=\"https://www.pref.wakayama.lg.jp/prefg/000200/kouhou.html#tv\">和歌山県のラジオ番組紹介ホームページはこちらから</a>\n<br/>",
-              "pfm": "中川智美、税所ひかる",
-              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10230448",
-              "-ft": "20240718115000",
-              "-to": "20240718115500",
-              "-ftl": "1150",
-              "-tol": "1155",
+              "-id": "10254868",
+              "-ft": "20240718135000",
+              "-to": "20240718135500",
+              "-ftl": "1350",
+              "-tol": "1355",
               "-dur": "300",
-              "title": "ラジオショッピング",
+              "title": "和歌山県警のコーナー",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -719,209 +652,12 @@
               }
             },
             {
-              "-id": "10230449",
-              "-ft": "20240718115500",
-              "-to": "20240718120000",
-              "-ftl": "1155",
-              "-tol": "1200",
-              "-dur": "300",
-              "title": "wbsインフォメーション　(第3木)岩出市広報タイム",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "岩出市広報タイム（第３週）",
-              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10230450",
-              "-ft": "20240718120000",
-              "-to": "20240718121000",
-              "-ftl": "1200",
-              "-tol": "1210",
-              "-dur": "600",
-              "title": "和歌山放送ニュース・天気予報",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10230451",
-              "-ft": "20240718121000",
-              "-to": "20240718122000",
-              "-ftl": "1210",
-              "-tol": "1220",
-              "-dur": "600",
-              "title": "ラジオ健康相談",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "気になる健康の話題や病気の症例や治療法について、専門医が月曜日から金曜日の５回にわたってわかりやすく解説します",
-              "pfm": "赤井ゆかり　他",
-              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P010",
-                  "name": "医療"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10230452",
-              "-ft": "20240718122000",
-              "-to": "20240718122700",
-              "-ftl": "1220",
-              "-tol": "1227",
-              "-dur": "420",
-              "title": "桂三歩のきてみて！！この店ええお店",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "和歌山出身の落語家・桂三歩が、紀中エリアを「さんぽ」しながら素敵なお店を紹介します。<br>",
-              "pfm": "桂三歩",
-              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10230453",
-              "-ft": "20240718122700",
-              "-to": "20240718123000",
-              "-ftl": "1227",
-              "-tol": "1230",
-              "-dur": "180",
-              "title": "こちら119番",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "県内各消防署に出動状況などを聞く番組です。",
-              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10230454",
-              "-ft": "20240718123000",
-              "-to": "20240718124000",
-              "-ftl": "1230",
-              "-tol": "1240",
-              "-dur": "600",
-              "title": "ベストミュージックコレクション・ジャパン",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/24725353-d06e-4ac1-b25a-29c162b9e817.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10230455",
-              "-ft": "20240718124000",
-              "-to": "20240718125000",
-              "-ftl": "1240",
-              "-tol": "1250",
-              "-dur": "600",
-              "title": "わたくしの作文",
-              "url": "http://wbs.co.jp/wp/images/sakubun.pdf",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "県内小中学生の作文を紹介します。",
-              "info": "和歌山放送が開局して間もないころから放送している長寿番組。毎月、県内の小中学校から応募のあった作文を審査し、入選者の作品をアナウンサーが朗読します。毎年３月に年間表彰を行い、各賞をお贈りしています。受賞作品は本人の朗読で４月に放送しています。\n\n<a href=\"http://www.wbs.co.jp/2013/06/21/1016.html\">作文の実施要領・応募はこちらから</a>",
-              "pfm": "北尾博伸、税所ひかる",
-              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P012",
-                  "name": "趣味/教育"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10230456",
-              "-ft": "20240718125000",
+              "-id": "10254869",
+              "-ft": "20240718135500",
               "-to": "20240718150000",
-              "-ftl": "1250",
+              "-ftl": "1355",
               "-tol": "1500",
-              "-dur": "7800",
+              "-dur": "3900",
               "title": "マエオカテツヤの全開！木曜日",
               "url": "http://tsunagaru.sblo.jp/",
               "failed_record": "0",
@@ -994,23 +730,17 @@
               }
             },
             {
-              "-id": "10230458",
+              "-id": "10254870",
               "-ft": "20240718163500",
               "-to": "20240718164000",
               "-ftl": "1635",
               "-tol": "1640",
               "-dur": "300",
-              "title": "うたぢから",
+              "title": "桂三歩のこの店ええでぇ",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
