@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1720980025",
+    "srvtime": "1721152823",
     "stations": {
       "station": {
         "-id": "RCC",
@@ -616,23 +616,94 @@
               }
             },
             {
-              "-id": "10222648",
+              "-id": "10259280",
               "-ft": "20240720140000",
-              "-to": "20240720150000",
+              "-to": "20240720143000",
               "-ftl": "1400",
-              "-tol": "1500",
-              "-dur": "3600",
-              "title": "ミュージック白書",
+              "-tol": "1430",
+              "-dur": "1800",
+              "title": "アンガールズのカープ愛炸裂番組　カーティスト",
+              "url": "https://radio.rcc.jp/cartist/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "邦楽アーティスト一組にスポットを当て デビュー秘話から各時代に放った名曲、 最新楽曲をエピソードと共にお届けします。",
-              "pfm": "川名陽介",
-              "img": "https://program-static.cf.radiko.jp/77e88fbd-1e64-486d-9513-1004858cb3f9.jpeg",
+              "desc": "アンガールズがカープを愛するアーティスト「カーティスト」とカープの話題をたっぷりお届けするトークバラエティー",
+              "info": "メール:<a href=\"mailto:cartist@rcc.net?subject=カーティスト\">cartist@rcc.net</a><br/>Twitter:<a href=\"https://twitter.com/cartist1350\">@cartist1350</a>",
+              "pfm": "アンガールズ",
+              "img": "https://program-static.cf.radiko.jp/88a2ebb7-1f6e-4e8e-ad84-f5776529a10d.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "#広島カープ"
+                  },
+                  {
+                    "name": "#プロ野球"
+                  },
+                  {
+                    "name": "#広島"
+                  },
+                  {
+                    "name": "アンガールズ"
+                  },
+                  {
+                    "name": "芸人"
+                  },
+                  {
+                    "name": "#お笑い芸人の最強トーク"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10259281",
+              "-ft": "20240720143000",
+              "-to": "20240720150000",
+              "-ftl": "1430",
+              "-tol": "1500",
+              "-dur": "1800",
+              "title": "佐々木リョウのバリＡじゃんラジオ",
+              "url": "https://radio.rcc.jp/bari_radi/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "佐々木リョウがバリえぇと思う人や、ものについて、ゲストを招いたりしながら語ります",
+              "info": "<img src=\"https://radio.rcc.jp/topimages/bariradi_icon-trans.png?2019\" alt=\"佐々木リョウのバリAじゃんラジオ\" /><br /><br/>歌ってほしい曲や、みなさんのバリA話をお待ちしてます！<br /><br/>メールアドレス：<a href=\"mailto:music@rcc.net\">music@rcc.net </a><br />（件名に「バリAじゃんラジオ」とご記入下さい）<br /><br/>ハガキ：〒730-8504 RCCラジオ「佐々木リョウのバリAじゃんラジオ」宛<br/>Twitter：#バリラジ<br/>",
+              "pfm": "佐々木リョウ",
+              "img": "https://program-static.cf.radiko.jp/9b219b68-d1dc-4886-b014-78b4d6e3df3f.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "#広島"
+                  },
+                  {
+                    "name": "ミュージシャン"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
