@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1721152817",
+    "srvtime": "1721239213",
     "stations": {
       "station": {
         "-id": "RCC",
@@ -459,22 +459,30 @@
               }
             },
             {
-              "-id": "10263589",
+              "-id": "10265195",
               "-ft": "20240716173000",
-              "-to": "20240716174200",
+              "-to": "20240716174600",
               "-ftl": "1730",
-              "-tol": "1742",
-              "-dur": "720",
-              "title": "カープナイター直前ライブ！カーチカチ！",
+              "-tol": "1746",
+              "-dur": "960",
+              "title": "ネットワークトゥデイ～ネットワークフラッシュ",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "カープ球団公式アプリ「カーチカチ！」からの情報や選手インタビューなど、プレイボール直前のカープ情報番組",
-              "img": "https://program-static.cf.radiko.jp/c169f830-7387-4024-942e-3524b4539312.png",
+              "img": "https://program-static.cf.radiko.jp/656e1799-db8f-42f8-9b9a-8b64011e83bd.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ニュース."
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -485,58 +493,31 @@
               }
             },
             {
-              "-id": "10263590",
-              "-ft": "20240716174200",
-              "-to": "20240716210000",
-              "-ftl": "1742",
-              "-tol": "2100",
-              "-dur": "11880",
-              "title": "Veryカープ！RCC カープナイター",
-              "url": "https://radio.rcc.jp/carp/",
+              "-id": "10265196",
+              "-ft": "20240716174600",
+              "-to": "20240716175700",
+              "-ftl": "1746",
+              "-tol": "1757",
+              "-dur": "660",
+              "title": "カープナイター直前ライブ！カーチカチ！",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "巨人×阪神（東京ドーム）",
-              "info": "カープ戦全試合生中継！RCCラジオは試合終了までカープをVeryカープに応援します！<br/>試合終了まで中継するため、以降の番組は時間変更となる場合があります。<br><br/>twitter <a href=\"https://twitter.com/rccradio\">@rccradio</a><br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23RCC%E3%83%A9%E3%82%B8%E3%82%AA\">#RCCラジオ</a>」",
-              "pfm": "解説：山本昌／実況：山内宏明",
-              "img": "https://program-static.cf.radiko.jp/8f7b777d-37b4-45c6-9556-3a98e0ea1e57.png",
-              "genre": {
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#RCCラジオ"
-                }
-              }
-            },
-            {
-              "-id": "10204445",
-              "-ft": "20240716210000",
-              "-to": "20240716215000",
-              "-ftl": "2100",
-              "-tol": "2150",
-              "-dur": "3000",
-              "title": "Veryカープ！中田廉の今夜もパンプアップ",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "元広島カープの中田廉が興奮度MAXの野球終わりにマッスルトーク！",
-              "pfm": "中田廉",
-              "img": "https://program-static.cf.radiko.jp/eb957eb5-ebb2-4484-a522-475d7731c871.png",
+              "desc": "カープ球団公式アプリ「カーチカチ！」からの情報や選手インタビューなど、プレイボール直前のカープ情報番組",
+              "img": "https://program-static.cf.radiko.jp/c169f830-7387-4024-942e-3524b4539312.png",
               "tag": {
                 "item": [
                   {
                     "name": "カープ"
                   },
                   {
+                    "name": "プロ野球"
+                  },
+                  {
                     "name": "広島県"
                   },
                   {
-                    "name": "フィジーク"
+                    "name": "広島カープ"
                   }
                 ]
               },
@@ -554,6 +535,55 @@
                 "meta": {
                   "-name": "twitter",
                   "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10265197",
+              "-ft": "20240716175700",
+              "-to": "20240716215000",
+              "-ftl": "1757",
+              "-tol": "2150",
+              "-dur": "13980",
+              "title": "Veryカープ！RCC カープナイター",
+              "url": "https://radio.rcc.jp/carp/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "巨人×阪神（東京ドーム）",
+              "info": "カープ戦全試合生中継！RCCラジオは試合終了までカープをVeryカープに応援します！<br/>試合終了まで中継するため、以降の番組は時間変更となる場合があります。<br><br/>twitter <a href=\"https://twitter.com/rccradio\">@rccradio</a><br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23RCC%E3%83%A9%E3%82%B8%E3%82%AA\">#RCCラジオ</a>」",
+              "pfm": "解説：山本昌／実況：山内宏明",
+              "img": "https://program-static.cf.radiko.jp/8f7b777d-37b4-45c6-9556-3a98e0ea1e57.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "実況中継"
+                  },
+                  {
+                    "name": "プロ野球"
+                  },
+                  {
+                    "name": "カープ"
+                  },
+                  {
+                    "name": "広島"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#RCCラジオ"
                 }
               }
             },
