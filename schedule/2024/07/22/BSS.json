@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1721239223",
+    "srvtime": "1721412020",
     "stations": {
       "station": {
         "-id": "BSS",
@@ -514,19 +514,178 @@
               }
             },
             {
-              "-id": "10195182",
+              "-id": "10277293",
               "-ft": "20240722095000",
-              "-to": "20240722135500",
+              "-to": "20240722100000",
               "-ftl": "0950",
-              "-tol": "1355",
-              "-dur": "14700",
-              "title": "第１０６回全国高等学校野球選手権鳥取大会実況中継",
+              "-tol": "1000",
+              "-dur": "600",
+              "title": "ニュース・天気予報",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "第１０６回全国高等学校野球選手権鳥取大会実況中継",
-              "info": "ヤマタスポーツパーク野球場（鳥取市）から今年も甲子園を目指す高校球児の熱戦の模様を実況中継でお伝えします。※雨で野球が中止の場合・早期試合終了時は音楽番組をお届けします",
-              "img": "https://program-static.cf.radiko.jp/63be3b0d-3ad8-45e1-ac58-ea1f20d0d13e.jpeg",
+              "desc": "ニュース・天気予報",
+              "img": "https://program-static.cf.radiko.jp/c0cc8746-6d46-449e-8cd5-7aa83491cc9a.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10277294",
+              "-ft": "20240722100000",
+              "-to": "20240722105500",
+              "-ftl": "1000",
+              "-tol": "1055",
+              "-dur": "3300",
+              "title": "BSSミュージックタイム",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "BSSミュージックタイム",
+              "img": "https://program-static.cf.radiko.jp/c0cc8746-6d46-449e-8cd5-7aa83491cc9a.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10277295",
+              "-ft": "20240722105500",
+              "-to": "20240722110000",
+              "-ftl": "1055",
+              "-tol": "1100",
+              "-dur": "300",
+              "title": "ニュース",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "ニュース",
+              "img": "https://program-static.cf.radiko.jp/c0cc8746-6d46-449e-8cd5-7aa83491cc9a.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10277296",
+              "-ft": "20240722110000",
+              "-to": "20240722122500",
+              "-ftl": "1100",
+              "-tol": "1225",
+              "-dur": "5100",
+              "title": "BSSミュージックスペシャル",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "BSSミュージックスペシャル",
+              "img": "https://program-static.cf.radiko.jp/c0cc8746-6d46-449e-8cd5-7aa83491cc9a.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10277297",
+              "-ft": "20240722122500",
+              "-to": "20240722125500",
+              "-ftl": "1225",
+              "-tol": "1255",
+              "-dur": "1800",
+              "title": "BSSミュージックタイム",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "BSSミュージックタイム",
+              "img": "https://program-static.cf.radiko.jp/c0cc8746-6d46-449e-8cd5-7aa83491cc9a.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10277298",
+              "-ft": "20240722125500",
+              "-to": "20240722130000",
+              "-ftl": "1255",
+              "-tol": "1300",
+              "-dur": "300",
+              "title": "ニュース",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "ニュース",
+              "img": "https://program-static.cf.radiko.jp/c0cc8746-6d46-449e-8cd5-7aa83491cc9a.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10277299",
+              "-ft": "20240722130000",
+              "-to": "20240722135500",
+              "-ftl": "1300",
+              "-tol": "1355",
+              "-dur": "3300",
+              "title": "ベストミュージックコレクション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "ベストミュージックコレクション",
+              "img": "https://program-static.cf.radiko.jp/c0cc8746-6d46-449e-8cd5-7aa83491cc9a.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
