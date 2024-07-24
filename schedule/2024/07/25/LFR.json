@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1721672642",
+    "srvtime": "1721845262",
     "stations": {
       "station": {
         "-id": "LFR",
@@ -433,8 +433,8 @@
               "title": "テレフォン人生相談",
               "url": "https://www.1242.com/jinseisoudan/",
               "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
               "desc": "人生には様々な喜びがあり、同時に苦しみや悩みもあります。人に言えない、誰にも相談できない、悩みや苦しみ。そんな時いくらかお役に立てれば…というのが、この番組です。各界の専門家があなたのご相談に応じます。<br><br>〇パーソナリティ：加藤諦三、今井通子、柴田理恵、玉置妙憂、田中ウルヴェ京<br>〇回答者：大原敬子（幼児教育研究）、マドモアゼル・愛（エッセイスト）、高橋龍太郎（精神科医）、三石由起子（作家・翻訳家）、森田豊（医師・医療ジャーナリスト）、中川潤（弁護士）、大迫恵美子（弁護士）、坂井眞（弁護士）、塩谷崇之（弁護士）、野島梨恵（弁護士）<br><br>■ご相談受付<br>毎週火曜日と水曜日にご相談をお受けしています。<br>受付時間 13：30～15：00<br>電話番号 03－3211－3288 または 03－3211－3299<br>電話受付はお休みすることがあります。放送でご案内しますので、ご確認ください。",
               "info": "番組ホームページは<a href=\"https://www.1242.com/jinseisoudan/\">こちら</a>",
               "pfm": "加藤諦三、今井通子、柴田理恵、玉置妙憂、田中ウルヴェ京",
@@ -958,38 +958,68 @@
               }
             },
             {
-              "-id": "10247408",
+              "-id": "10298835",
               "-ft": "20240725180000",
               "-to": "20240725190000",
               "-ftl": "1800",
               "-tol": "1900",
               "-dur": "3600",
-              "title": "特別番組",
+              "title": "ナイタースペシャル　いつでもみんなのプロ野球",
+              "url": "https://baseballking.jp/showup",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "特別番組<br>※オールスターゲーム予備日のため、前日までに試合が順延された場合はプロ野球中継を放送します。",
-              "img": "https://program-static.cf.radiko.jp/roodqta4gp.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
+              "desc": "ナイタースペシャル　いつでもみんなのプロ野球<br>※プロ野球オールスターゲームが設定された場合は、「ショウアップナイター」をお送りいたします。",
+              "info": "メールアドレス：<br><a href=\"mailto:89@1242.com\">89@1242.com</a><br><br>番組ホームページは<a href=\"https://baseballking.jp/showup\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%B7%E3%83%A7%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%8A%E3%82%A4%E3%82%BF%E3%83%BC\">#ショウアップナイター</a>」twitterアカウントは「<a href=\"http://twitter.com/showup1242\">@showup1242</a>」",
+              "img": "https://program-static.cf.radiko.jp/riv9stszxf.jpg",
+              "tag": {
+                "item": {
+                  "name": "ショウアップナイター"
                 }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ショウアップナイター"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:showup1242"
+                  }
+                ]
               }
             },
             {
-              "-id": "10247409",
+              "-id": "10298836",
               "-ft": "20240725190000",
               "-to": "20240725210000",
               "-ftl": "1900",
               "-tol": "2100",
               "-dur": "7200",
-              "title": "特別番組",
+              "title": "ナイタースペシャル　東島衣里のサウンドコレクション",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "特別番組<br>※オールスターゲーム予備日のため、前日までに試合が順延された場合はプロ野球中継を放送します。",
-              "img": "https://program-static.cf.radiko.jp/roodqta4gp.jpg",
+              "desc": "ナイタースペシャル　東島衣里のサウンドコレクション<br>※プロ野球オールスターゲームが設定された場合は、「ショウアップナイター」をお送りいたします。",
+              "pfm": "東島衣里",
+              "img": "https://program-static.cf.radiko.jp/n7ug9610tc.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
