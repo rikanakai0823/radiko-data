@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1721412025",
+    "srvtime": "1721930415",
     "stations": {
       "station": {
         "-id": "BSS",
@@ -1066,24 +1066,40 @@
               }
             },
             {
-              "-id": "10225208",
+              "-id": "10300987",
               "-ft": "20240725182000",
-              "-to": "20240725210000",
+              "-to": "20240725190000",
               "-ftl": "1820",
-              "-tol": "2100",
-              "-dur": "9600",
-              "title": "BSSダイナミックナイター",
+              "-tol": "1900",
+              "-dur": "2400",
+              "title": "ナイタースペシャル　いつでも　みんなのプロ野球",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "BSSダイナミックナイター",
-              "info": "オールスター戦をお送りします",
-              "img": "https://program-static.cf.radiko.jp/5b366670-441d-4dae-8c91-d5779d0ca12e.jpeg",
-              "tag": {
-                "item": {
-                  "name": "野球中継"
+              "desc": "ナイタースペシャル　いつでも　みんなのプロ野球",
+              "pfm": "ニッポン放送スポーツアナウンサー",
+              "img": "https://program-static.cf.radiko.jp/4bd6e412-6736-4935-accc-e1799cdca7ef.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
                 }
-              },
+              }
+            },
+            {
+              "-id": "10300988",
+              "-ft": "20240725190000",
+              "-to": "20240725210000",
+              "-ftl": "1900",
+              "-tol": "2100",
+              "-dur": "7200",
+              "title": "ナイタースペシャル　東島衣里のサウンドコレクション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "ナイタースペシャル　東島衣里のサウンドコレクション",
+              "pfm": "東島衣里",
+              "img": "https://program-static.cf.radiko.jp/26ff4315-dbdd-41b9-ac79-14deba1630b9.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",

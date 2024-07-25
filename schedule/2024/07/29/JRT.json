@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1721844023",
+    "srvtime": "1721930420",
     "stations": {
       "station": {
         "-id": "JRT",
@@ -1067,10 +1067,10 @@
             {
               "-id": "10265830",
               "-ft": "20240729131000",
-              "-to": "20240729135000",
+              "-to": "20240729132000",
               "-ftl": "1310",
-              "-tol": "1350",
-              "-dur": "2400",
+              "-tol": "1320",
+              "-dur": "600",
               "title": "身近なことからSDGs",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -1087,6 +1087,50 @@
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10300991",
+              "-ft": "20240729132000",
+              "-to": "20240729135000",
+              "-ftl": "1320",
+              "-tol": "1350",
+              "-dur": "1800",
+              "title": "となりのラジオ短縮版",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "　　",
+              "pfm": "福井和美",
+              "img": "https://program-static.cf.radiko.jp/019414c7-b2f0-4ec8-993e-e9aa460ffc82.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "中山千桂子"
+                  },
+                  {
+                    "name": "福井和美"
+                  },
+                  {
+                    "name": "佐藤旬子"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
                   "-id": "P003",
