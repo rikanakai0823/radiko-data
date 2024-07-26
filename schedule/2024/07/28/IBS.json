@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1721671227",
+    "srvtime": "1722016819",
     "stations": {
       "station": {
         "-id": "IBS",
@@ -12,10 +12,10 @@
             {
               "-id": "10159355",
               "-ft": "20240728050000",
-              "-to": "20240728055500",
+              "-to": "20240728054000",
               "-ftl": "0500",
-              "-tol": "0555",
-              "-dur": "3300",
+              "-tol": "0540",
+              "-dur": "2400",
               "title": "テスト音楽",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -45,11 +45,11 @@
               }
             },
             {
-              "-id": "10159356",
-              "-ft": "20240728055500",
-              "-to": "20240728060000",
-              "-ftl": "0555",
-              "-tol": "0600",
+              "-id": "10306210",
+              "-ft": "20240728054000",
+              "-to": "20240728054500",
+              "-ftl": "0540",
+              "-tol": "0545",
               "-dur": "300",
               "title": "オープニングメロディ",
               "failed_record": "0",
@@ -70,6 +70,41 @@
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10306211",
+              "-ft": "20240728054500",
+              "-to": "20240728060000",
+              "-ftl": "0545",
+              "-tol": "0600",
+              "-dur": "900",
+              "title": "わくわくお届け便",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/48072de0-ad00-49ce-b0e8-bdad4dc66eb2.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "LuckyFM"
+                  },
+                  {
+                    "name": "茨城放送"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -115,13 +150,13 @@
               }
             },
             {
-              "-id": "10159358",
+              "-id": "10306212",
               "-ft": "20240728060500",
               "-to": "20240728061500",
               "-ftl": "0605",
               "-tol": "0615",
               "-dur": "600",
-              "title": "週刊！なるほどニッポン",
+              "title": "こちら110番",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -137,10 +172,6 @@
                 ]
               },
               "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -225,17 +256,17 @@
               }
             },
             {
-              "-id": "10159361",
+              "-id": "10306213",
               "-ft": "20240728070000",
               "-to": "20240728071000",
               "-ftl": "0700",
               "-tol": "0710",
               "-dur": "600",
-              "title": "Sundayブレイクタイム",
+              "title": "10分インフォメーション",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/117d6cb7-8219-4a35-8a3d-90400239f0bc.jpeg",
+              "img": "https://program-static.cf.radiko.jp/48072de0-ad00-49ce-b0e8-bdad4dc66eb2.jpeg",
               "tag": {
                 "item": [
                   {
@@ -248,8 +279,8 @@
               },
               "genre": {
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -697,35 +728,32 @@
               }
             },
             {
-              "-id": "10159373",
+              "-id": "10306214",
               "-ft": "20240728110000",
               "-to": "20240728113000",
               "-ftl": "1100",
               "-tol": "1130",
               "-dur": "1800",
-              "title": "Idol to LuckyFes",
+              "title": "LuckyFesの楽しみ方",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "各アイドルグループの代表となった4人が<br>\nLuckyFesのステージ出演権1枠をかけてバトルするオーディション番組。",
-              "pfm": "比嘉ゆめの（Palette Parade） / 城谷美温（さよならステイチューン） / kurumi（アイオケ） / 石原すずか（メイビーME）",
-              "img": "https://program-static.cf.radiko.jp/15f7f283-412f-4e51-a1a9-9eade99c5dcc.jpeg",
+              "desc": "夏に、茨城県・国営ひたち海浜公園で開催されるLuckyFesについて、<br>\nLuckyFMアナウンサーがナビゲーターとなり、お役立ち情報をガイドブックのようにまとめてお届けしていきます！<br>",
+              "pfm": "菊地真衣 / 煙山ゆう / 小菅玲菜",
+              "img": "https://program-static.cf.radiko.jp/c761d0a9-109f-454e-a726-96d329e423f5.jpeg",
               "tag": {
                 "item": [
                   {
-                    "name": "Idol to LuckyFes"
+                    "name": "LuckyFes"
                   },
                   {
-                    "name": "比嘉ゆめの"
+                    "name": "菊地真衣"
                   },
                   {
-                    "name": "城谷美温"
+                    "name": "煙山ゆう"
                   },
                   {
-                    "name": "kurumi"
-                  },
-                  {
-                    "name": "石原すずか"
+                    "name": "小菅玲菜"
                   },
                   {
                     "name": "LuckyFM"
@@ -745,10 +773,10 @@
             {
               "-id": "10159374",
               "-ft": "20240728113000",
-              "-to": "20240728113500",
+              "-to": "20240728115000",
               "-ftl": "1130",
-              "-tol": "1135",
-              "-dur": "300",
+              "-tol": "1150",
+              "-dur": "1200",
               "title": "Sundayブレイクタイム",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -768,41 +796,6 @@
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10159375",
-              "-ft": "20240728113500",
-              "-to": "20240728115000",
-              "-ftl": "1135",
-              "-tol": "1150",
-              "-dur": "900",
-              "title": "旬！SHUN！ピックアップ",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/48072de0-ad00-49ce-b0e8-bdad4dc66eb2.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "LuckyFM"
-                  },
-                  {
-                    "name": "茨城放送"
-                  }
-                ]
-              },
-              "genre": {
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -902,47 +895,12 @@
               }
             },
             {
-              "-id": "10159378",
+              "-id": "10306215",
               "-ft": "20240728123000",
-              "-to": "20240728124000",
-              "-ftl": "1230",
-              "-tol": "1240",
-              "-dur": "600",
-              "title": "こちら110番",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/48072de0-ad00-49ce-b0e8-bdad4dc66eb2.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "LuckyFM"
-                  },
-                  {
-                    "name": "茨城放送"
-                  }
-                ]
-              },
-              "genre": {
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10159379",
-              "-ft": "20240728124000",
               "-to": "20240728125500",
-              "-ftl": "1240",
+              "-ftl": "1230",
               "-tol": "1255",
-              "-dur": "900",
+              "-dur": "1500",
               "title": "Sundayブレイクタイム",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -1268,10 +1226,10 @@
             {
               "-id": "10159387",
               "-ft": "20240728180000",
-              "-to": "20240728195500",
+              "-to": "20240728193000",
               "-ftl": "1800",
-              "-tol": "1955",
-              "-dur": "6900",
+              "-tol": "1930",
+              "-dur": "5400",
               "title": "Sundayミュージックオンリクエスト",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -1309,19 +1267,36 @@
               }
             },
             {
-              "-id": "10159388",
-              "-ft": "20240728195500",
+              "-id": "10306216",
+              "-ft": "20240728193000",
               "-to": "20240728200000",
-              "-ftl": "1955",
+              "-ftl": "1930",
               "-tol": "2000",
-              "-dur": "300",
-              "title": "LuckyFMニュース・天気予報",
+              "-dur": "1800",
+              "title": "Idol to LuckyFes",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/f954595c-8743-4414-997e-9ae46fd7a8a0.jpeg",
+              "desc": "各アイドルグループの代表となった4人が<br>\nLuckyFesのステージ出演権1枠をかけてバトルするオーディション番組。",
+              "pfm": "比嘉ゆめの（Palette Parade） / 城谷美温（さよならステイチューン） / kurumi（アイオケ） / 石原すずか（メイビーME）",
+              "img": "https://program-static.cf.radiko.jp/15f7f283-412f-4e51-a1a9-9eade99c5dcc.jpeg",
               "tag": {
                 "item": [
+                  {
+                    "name": "Idol to LuckyFes"
+                  },
+                  {
+                    "name": "比嘉ゆめの"
+                  },
+                  {
+                    "name": "城谷美温"
+                  },
+                  {
+                    "name": "kurumi"
+                  },
+                  {
+                    "name": "石原すずか"
+                  },
                   {
                     "name": "LuckyFM"
                   },
@@ -1329,12 +1304,6 @@
                     "name": "茨城放送"
                   }
                 ]
-              },
-              "genre": {
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
               },
               "metas": {
                 "meta": {

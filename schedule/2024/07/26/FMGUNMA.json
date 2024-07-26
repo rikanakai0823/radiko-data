@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1721930416",
+    "srvtime": "1722016817",
     "stations": {
       "station": {
         "-id": "FMGUNMA",
@@ -257,15 +257,15 @@
             {
               "-id": "10304421",
               "-ft": "20240726095300",
-              "-to": "20240726120000",
+              "-to": "20240726113300",
               "-ftl": "0953",
-              "-tol": "1200",
-              "-dur": "7620",
+              "-tol": "1133",
+              "-dur": "6000",
               "title": "FM GUNMA 高校野球中継",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/fee72f89-37c0-42e5-9232-147f7e9c1d5f_sq.jpg\" height=\"60\" width=\"60\" alt=\"谷口廣明\"></td>  </tr></table><br /><br />\t7月26日（金）準決勝・1試合中継（最大延長　15:55）<br />継続試合　10時試合開始<br />前橋商　対　樹 徳　<br />解説：大須賀誠一　実況：谷口廣明<br /><br />FM GUNMAでは7月20日（土）～27日（土）まで<br />第106回全国高等学校野球選手権大会　群馬大会を実況生中継いたします。<br />通常番組の放送時間が変更になるほか、番組によってはお休みさせていただく場合があります。<br />なお以下の放送スケジュールは、高校野球中継が放送された場合になります。<br />雨天等で野球中継がなかった場合は通常どおりの放送となります。<br /><br />WAI WAI Groovin’ 　7:30～9:53まで<br />Yuming Chord　同日19:00から放送<br />ラジオで群馬を元気に！「Talk to」同日19:30から放送<br /><br /><a href=\"https://www.fmgunma.com/fmg863/2024_baseball_info/\">編成変更はここをタップください</a> <br /><br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/fee72f89-37c0-42e5-9232-147f7e9c1d5f_sq.jpg\" height=\"60\" width=\"60\" alt=\"谷口廣明\"></td>  </tr></table><br /><br />\t7月26日（金）準決勝・1試合中継（最大延長　15:55）<br />継続試合　10時試合開始<br />前橋商　対　樹 徳　<br />解説：大須賀誠一　実況：谷口廣明<br /><br />FM GUNMAでは7月20日（土）～27日（土）まで<br />第106回全国高等学校野球選手権大会　群馬大会を実況生中継いたします。<br />通常番組の放送時間が変更になるほか、番組によってはお休みさせていただく場合があります。<br />なお以下の放送スケジュールは、高校野球中継が放送された場合になります。<br />雨天等で野球中継がなかった場合は通常どおりの放送となります。<br /><br />WAI WAI Groovin’ 　7:30～9:53まで<br />Yuming Chord　同日19:00から放送<br />ラジオで群馬を元気に！「Talk to」 同日19:30から放送<br /><br /><a href=\"https://www.fmgunma.com/fmg863/timetable/?doing_wp_cron=1721943753.4612309932708740234375\">番組編成はWEB番組表をご確認ください</a> <br /><br /><br /></div>",
               "pfm": "谷口廣明",
               "img": "https://program-static.cf.radiko.jp/4d34p7amh9.jpg",
               "genre": {
@@ -286,7 +286,63 @@
               }
             },
             {
-              "-id": "10252164",
+              "-id": "10306209",
+              "-ft": "20240726113300",
+              "-to": "20240726115500",
+              "-ftl": "1133",
+              "-tol": "1155",
+              "-dur": "1320",
+              "title": "Special Program",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\tニューアルバムをピックアックしてお届けします <br /><br /><br /></div>",
+              "img": "https://program-static.cf.radiko.jp/d60b8556-5ab1-42e2-ad7c-2059b08535d3.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10306140",
+              "-ft": "20240726115500",
+              "-to": "20240726120000",
+              "-ftl": "1155",
+              "-tol": "1200",
+              "-dur": "300",
+              "title": "NEWS",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\tニュース <br /><br /><br /></div>",
+              "img": "https://program-static.cf.radiko.jp/d60b8556-5ab1-42e2-ad7c-2059b08535d3.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10306141",
               "-ft": "20240726120000",
               "-to": "20240726124900",
               "-ftl": "1200",
@@ -328,7 +384,7 @@
               }
             },
             {
-              "-id": "10252165",
+              "-id": "10306142",
               "-ft": "20240726124900",
               "-to": "20240726125200",
               "-ftl": "1249",
@@ -358,7 +414,7 @@
               }
             },
             {
-              "-id": "10252166",
+              "-id": "10306143",
               "-ft": "20240726125200",
               "-to": "20240726125500",
               "-ftl": "1252",
