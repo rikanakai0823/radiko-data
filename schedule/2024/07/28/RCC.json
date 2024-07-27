@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1721672643",
+    "srvtime": "1722103216",
     "stations": {
       "station": {
         "-id": "RCC",
@@ -767,10 +767,10 @@
             {
               "-id": "10260978",
               "-ft": "20240728140000",
-              "-to": "20240728150000",
+              "-to": "20240728143000",
               "-ftl": "1400",
-              "-tol": "1500",
-              "-dur": "3600",
+              "-tol": "1430",
+              "-dur": "1800",
               "title": "ミュージック白書",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -782,6 +782,31 @@
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10313241",
+              "-ft": "20240728143000",
+              "-to": "20240728150000",
+              "-ftl": "1430",
+              "-tol": "1500",
+              "-dur": "1800",
+              "title": "～ココロもカラダもHappy に～わかさ生活ラジオ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/656e1799-db8f-42f8-9b9a-8b64011e83bd.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P017",
+                  "name": "健康"
                 }
               },
               "metas": {
