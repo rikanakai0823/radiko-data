@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1722189625",
+    "srvtime": "1722276025",
     "stations": {
       "station": {
         "-id": "FM-SANIN",
@@ -501,10 +501,10 @@
             {
               "-id": "10287807",
               "-ft": "20240803120000",
-              "-to": "20240803130000",
+              "-to": "20240803123000",
               "-ftl": "1200",
-              "-tol": "1300",
-              "-dur": "3600",
+              "-tol": "1230",
+              "-dur": "1800",
               "title": "イナズマロック　レディオ",
               "url": "https://audee.jp/program/show/300003456",
               "failed_record": "0",
@@ -526,6 +526,85 @@
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10321884",
+              "-ft": "20240803123000",
+              "-to": "20240803125500",
+              "-ftl": "1230",
+              "-tol": "1255",
+              "-dur": "1500",
+              "title": "Dr.Recella presents 江原啓之 おと語り",
+              "url": "https://www.tfm.co.jp/oto/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t人生に前向きになる力を与えてくれる「ことば」を大切にしている江原啓之が今、現代社会で様々な物事に直面している女性達に、温かいメッセージを贈ります。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/oto/\">https://www.tfm.co.jp/oto/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/oto/index.php?catid=1117\">https://www.tfm.co.jp/oto/index.php?catid=1117</a><br /><br /></div>",
+              "img": "https://program-static.cf.radiko.jp/btdj52g4uf.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "誰にも言えないお悩み相談"
+                  },
+                  {
+                    "name": "江原啓之"
+                  },
+                  {
+                    "name": "スピリチュアル"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10321885",
+              "-ft": "20240803125500",
+              "-to": "20240803130000",
+              "-ftl": "1255",
+              "-tol": "1300",
+              "-dur": "300",
+              "title": "JFNニュース",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
+              "img": "https://program-static.cf.radiko.jp/o0r71n1cyq.jpg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
