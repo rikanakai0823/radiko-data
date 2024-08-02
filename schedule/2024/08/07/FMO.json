@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1722535166",
+    "srvtime": "1722621624",
     "stations": {
       "station": {
         "-id": "FMO",
@@ -870,6 +870,50 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/30c84cd9-57a8-4766-8212-5a4f0dc5cc87_sq.jpg\" height=\"60\" width=\"60\" alt=\"竹内美樹\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/8e40766d-d073-4a93-b2aa-47a90e6067b2_sq.jpg\" height=\"60\" width=\"60\" alt=\"柴田玲\"></td>  </tr></table><br /><br />\tブラック・ミュージックを中心に紹介していく音楽番組。<br />シンガー・ソングライター竹内美樹だからこその聴くポイントのおもしろさや、解釈の深さにきっと新たな発見ができるはず。 <br /><br />\t番組Webサイト：<a href=\"https://www.fmosaka.net/_sites/16783599\">https://www.fmosaka.net/_sites/16783599</a><br />\tメッセージフォーム：<a href=\"https://fmosaka.futureartist.net/enquete/337057\">https://fmosaka.futureartist.net/enquete/337057</a><br /><br /></div>",
               "pfm": "竹内美樹 / 柴田玲",
               "img": "https://program-static.cf.radiko.jp/ui0psp2q2j.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10338158",
+              "-ft": "20240807193000",
+              "-to": "20240807200000",
+              "-ftl": "1930",
+              "-tol": "2000",
+              "-dur": "1800",
+              "title": "E∞Tracks Selection～（夜と）SAMPOの定例会議",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/c176c81c-bb6c-44e6-8c20-11220ed0ca7e_sq.jpg\" height=\"60\" width=\"60\" alt=\"（夜と）SAMPO\"></td>  </tr></table><br /><br />\tFM大阪「E∞Tracks Selection」は、パワープレイや E∞Tracksに選ばれるなど、FM大阪と関係の深いアーティストが隔週でレギュラーDJを担当する、半年間の期間限定番組。<br />毎期2組のアーティストが選定されるこの番組、第30期レギュラーDJには、（夜と）SAMPOとFRUITS ZIPPERが出演中！ <br /><br />\tメッセージフォーム：<a href=\"https://fmosaka.futureartist.net/enquete/351309\">https://fmosaka.futureartist.net/enquete/351309</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23SAMPO%E5%AE%9A%E4%BE%8B%E4%BC%9A%E8%AD%B0\">#SAMPO定例会議</a>」<br /><br /></div>",
+              "pfm": "（夜と）SAMPO",
+              "img": "https://program-static.cf.radiko.jp/vwao1eslcr.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "(夜と)SAMPO"
+                  },
+                  {
+                    "name": "SAMPO定例会議"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C004",
