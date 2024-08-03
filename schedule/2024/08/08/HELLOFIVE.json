@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1722621625",
+    "srvtime": "1722708027",
     "stations": {
       "station": {
         "-id": "HELLOFIVE",
@@ -641,7 +641,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\t--- <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/yv87lkdvqj.jpg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
