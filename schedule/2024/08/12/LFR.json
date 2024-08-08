@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1722968522",
+    "srvtime": "1723141263",
     "stations": {
       "station": {
         "-id": "LFR",
@@ -512,9 +512,9 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "笑いを届けて35年！愉快なメンバーで送るお昼の名物ラジオ！<br>ビバリーを聴かなきゃラジオを語れない！<br>〇パーソナリティ 高田文夫<br>〇アシスタント 松本明子<br><br>▼11:30 日替わりパーソナリティによるTVでは聴けぬフリートーク満載の「オープニング」<br>▼11:45 街ネタからリスナープレゼントまで「ちょっといい話」<br>▼12:00 本日のゲスト  <br>▼12:45 「今日は〇〇の日」にちなんでのメール＆FAX募集<br><br>●プレゼント<br>すべてのメール＆はがき＆FAXの中から毎日3名様に「ビバリー名刺シール」をプレゼント",
+              "desc": "笑いを届けて35年！愉快なメンバーで送るお昼の名物ラジオ！<br>ビバリーを聴かなきゃラジオを語れない！<br>〇パーソナリティ 高田文夫<br>〇アシスタント 松本明子<br>〇ゲスト 岩井 ジョニ男（イワイガワ）<br><br>▼11:30 日替わりパーソナリティによるTVでは聴けぬフリートーク満載の「オープニング」<br>▼11:45 街ネタからリスナープレゼントまで「ちょっといい話」<br>▼12:00 本日のゲスト  <br>▼12:45 「今日は〇〇の日」にちなんでのメール＆FAX募集<br><br>●プレゼント<br>すべてのメール＆はがき＆FAXの中から毎日3名様に「ビバリー名刺シール」をプレゼント",
               "info": "メールアドレス：<br><a href=\"mailto:hills@1242.com\">hills@1242.com</a><br><br>番組ホームページは<a href=\"https://www.1242.com/takada/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%93%E3%83%90%E3%83%AA%E3%83%BC%E6%98%BC%E3%82%BA\">#ビバリー昼ズ</a>」twitterアカウントは「<a href=\"http://twitter.com/hills1242\">@hills1242</a>」",
-              "pfm": "高田文夫、松本明子",
+              "pfm": "高田文夫、松本明子　ゲスト：岩井 ジョニ男（イワイガワ）",
               "img": "https://program-static.cf.radiko.jp/bdi5fu6zde.jpg",
               "tag": {
                 "item": [
@@ -553,18 +553,20 @@
               }
             },
             {
-              "-id": "10353292",
+              "-id": "10367852",
               "-ft": "20240812130000",
               "-to": "20240812150000",
               "-ftl": "1300",
               "-tol": "1500",
               "-dur": "7200",
-              "title": "特別番組",
+              "title": "We Love Baseball!",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "特別番組",
-              "img": "https://program-static.cf.radiko.jp/roodqta4gp.jpg",
+              "desc": "野球を愛する方々にお送りする120分の生放送！<br>日米の野球を幅広く取材する節丸裕一さんがその楽しみ方をナビゲート。<br>大谷翔平をはじめ、日本人選手の活躍で大きな盛り上がりを見せているメジャーリーグの最新情報などもたっぷりとお届けします。<br>ゲストにはプロ野球のベイスターズなどで活躍し、現在はメジャー中継の解説も務められ、日米の野球に精通する多村仁志さんをお迎えして、野球界の最新トレンドなど、ここでしか聴けない深いお話も伺います。<br>そして、ボストン・レッドソックスの吉田正尚選手のインタビューも番組内でオンエア！",
+              "info": "メールアドレス：<br><a href=\"mailto:wlb@1242.com\">wlb@1242.com</a>",
+              "pfm": "節丸裕一、大泉健斗　ゲスト：多村仁志",
+              "img": "https://program-static.cf.radiko.jp/p8w4mvoe5e.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -573,18 +575,29 @@
               }
             },
             {
-              "-id": "10353293",
+              "-id": "10365445",
               "-ft": "20240812150000",
               "-to": "20240812153000",
               "-ftl": "1500",
               "-tol": "1530",
               "-dur": "1800",
-              "title": "特別番組",
+              "title": "ART in MUSIC ～EDGE OF ROCKS～",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "特別番組",
+              "desc": "ラジオDJ・小林克也氏をお迎えして1970年代後半から80年代前半に起きた洋楽ロックの変革期を深掘りします。",
+              "pfm": "上柳昌彦　ゲスト：小林克也",
               "img": "https://program-static.cf.radiko.jp/roodqta4gp.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1171,7 +1184,7 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "Rockon Social ClubのオールナイトニッポンGOLD",
+              "desc": "スペシャルなパーソナリティが登場する「オールナイトニッポンGOLD」、今回パーソナリティを務めるのは「オールナイトニッポン」初登場となるロックバンド・Rockon Social Club！<br>メンバー６人全員がそろっての生放送となる今回、どんな放送になるのか必聴です！",
               "info": "メールアドレス：<br><a href=\"mailto:rsc@allnightnippon.com\">rsc@allnightnippon.com</a><br><br>番組ホームページは<a href=\"https://news.1242.com/article/512934\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%AD%E3%83%83%E3%82%AF%E3%82%AA%E3%83%B3ANNG\">#ロックオンANNG</a>」twitterアカウントは「<a href=\"http://twitter.com/RockonTheKnight\">@RockonTheKnight</a>」",
               "pfm": "Rockon Social Club（成田昭次、高橋和也、岡本健一、前田耕陽、寺岡呼人、青山英樹）",
               "img": "https://program-static.cf.radiko.jp/yi66358y9f.jpg",
