@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1723139957",
+    "srvtime": "1723226417",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -276,10 +276,10 @@
             {
               "-id": "10340431",
               "-ft": "20240809120000",
-              "-to": "20240809130000",
+              "-to": "20240809132500",
               "-ftl": "1200",
-              "-tol": "1300",
-              "-dur": "3600",
+              "-tol": "1325",
+              "-dur": "5100",
               "title": "大栄環境グループプレゼンツ　第１０６回全国高等学校野球選手権大会実況中継(5)",
               "url": "https://www.abc1008.com/",
               "failed_record": "0",
@@ -302,12 +302,12 @@
               }
             },
             {
-              "-id": "10331473",
-              "-ft": "20240809130000",
+              "-id": "10369601",
+              "-ft": "20240809132500",
               "-to": "20240809140000",
-              "-ftl": "1300",
+              "-ftl": "1325",
               "-tol": "1400",
-              "-dur": "3600",
+              "-dur": "2100",
               "title": "兵動大樹のほわ～っとエエ感じ。(1)",
               "url": "https://abcradio.asahi.co.jp/hyo/",
               "failed_record": "0",
@@ -705,115 +705,31 @@
               }
             },
             {
-              "-id": "10331481",
+              "-id": "10373536",
               "-ft": "20240809210000",
-              "-to": "20240809210500",
+              "-to": "20240809220000",
               "-ftl": "2100",
-              "-tol": "2105",
-              "-dur": "300",
-              "title": "ＡＢＣニュース＆天気予報",
-              "url": "https://www.abc1008.com/",
+              "-tol": "2200",
+              "-dur": "3600",
+              "title": "ＡＢＣフレッシュアップベースボール(4)",
+              "url": "https://abcradio.asahi.co.jp/baseball/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10331482",
-              "-ft": "20240809210500",
-              "-to": "20240809215000",
-              "-ftl": "2105",
-              "-tol": "2150",
-              "-dur": "2700",
-              "title": "小早川秀樹のオシマシ！",
-              "url": "https://abcradio.asahi.co.jp/oshimashi/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "info": "<img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_kobayakawa_h.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:om@abc1008.com\">om@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%AA%E3%82%B7%E3%83%9E%E3%82%B7\">#オシマシ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/oshimashi933\">@oshimashi933</a>」<BR><BR><BR>",
-              "pfm": "小早川秀樹",
-              "img": "https://program-static.cf.radiko.jp/fc1e666f-0791-4689-8cbe-0860463101d7.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "#ABCラジオ"
-                  },
-                  {
-                    "name": "こばやん"
-                  },
-                  {
-                    "name": "オシマシ"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
+              "info": "阪神―広島（京セラＤ）<BR>※試合終了までお届けします。<BR>解説：下柳剛／実況：山下剛／<BR><BR>【第一予備】<BR>中日―巨人（バンテリンＤ）<BR>解説：福留孝介／実況：吉川秀樹<BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc_toraban\">@abc_toraban</a>」<BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23toraban1008\">#toraban1008</a>」<BR><BR><BR>",
+              "pfm": "阪神―広島（京セラＤ）　  ※試合終了までお届けします。　  解説：下柳剛／実況：山下剛／　  　  【第一予備】　  中日―巨人（バンテリンＤ）　  解説：福留孝介／実況：吉川秀樹",
+              "img": "https://program-static.cf.radiko.jp/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
               "metas": {
                 "meta": [
                   {
                     "-name": "twitter",
-                    "-value": "#オシマシ"
+                    "-value": "#toraban1008"
                   },
                   {
                     "-name": "twitter",
-                    "-value": "from:oshimashi933"
+                    "-value": "from:abc_toraban"
                   }
                 ]
-              }
-            },
-            {
-              "-id": "10331483",
-              "-ft": "20240809215000",
-              "-to": "20240809220000",
-              "-ftl": "2150",
-              "-tol": "2200",
-              "-dur": "600",
-              "title": "スポーツ伝説",
-              "url": "https://abcradio.asahi.co.jp",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "pfm": "滝本沙奈",
-              "img": "https://program-static.cf.radiko.jp/4xhcfovoph.jpg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C013",
-                  "name": "アスリート"
-                },
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
               }
             },
             {

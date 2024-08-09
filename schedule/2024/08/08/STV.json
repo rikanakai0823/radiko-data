@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1723139954",
+    "srvtime": "1723226415",
     "stations": {
       "station": {
         "-id": "STV",
@@ -601,6 +601,16 @@
               "info": "メール：win@stv.jp<br/>Xハッシュタグ：#stvradio<br/>Xアカウント：@stvradio",
               "pfm": "解説：草野大輔　実況：松尾武",
               "img": "https://program-static.cf.radiko.jp/b305fde6-4c96-4018-99bf-9992cde4f193.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -623,6 +633,21 @@
               "info": "Xハッシュタグ：#stvradio<br/>Xアカウント：@stvradio",
               "pfm": "渡辺満里奈",
               "img": "https://program-static.cf.radiko.jp/r811zlg364.jpg",
+              "tag": {
+                "item": {
+                  "name": "音楽との出会いが楽しめる"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

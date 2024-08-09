@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1723139958",
+    "srvtime": "1723226418",
     "stations": {
       "station": {
         "-id": "JRT",
@@ -1751,14 +1751,19 @@
               "pfm": "オードリー",
               "img": "https://program-static.cf.radiko.jp/a33f11c1-f7da-4f2e-a86c-20983ec04bfc.jpeg",
               "tag": {
-                "item": {
-                  "name": "SixTONES"
-                }
+                "item": [
+                  {
+                    "name": "オードリー"
+                  },
+                  {
+                    "name": "オールナイトニッポン"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
-                  "-id": "C007",
-                  "name": "男性アイドル"
+                  "-id": "C009",
+                  "name": "芸人"
                 },
                 "program": {
                   "-id": "P007",

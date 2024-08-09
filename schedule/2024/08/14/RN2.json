@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1723139965",
+    "srvtime": "1723226425",
     "stations": {
       "station": {
         "-id": "RN2",
@@ -12,14 +12,15 @@
             {
               "-id": "10354657",
               "-ft": "20240814050000",
-              "-to": "20240814080000",
+              "-to": "20240814080100",
               "-ftl": "0500",
-              "-tol": "0800",
-              "-dur": "10800",
+              "-tol": "0801",
+              "-dur": "10860",
               "title": "放送休止中",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "info": "<a href='https://www.radionikkei.jp/ranimusic/radikorani_music.html'><img src='https://www.ranimusic.jp/noa/radikoimg/continuous_play_400x60.jpg' /></a><br /><br /><a href='https://radiko.jp/share/?sid=RN2&t=20240813080100'><img src='https://www.ranimusic.jp/noa/radikoimg/playprdyb.png' /> <em>前回の最初のRaNi Music♪へ</em></a><br /><br /><a href='https://radiko.jp/share/?sid=RN2&t=20240814080100'><img src='https://www.ranimusic.jp/noa/radikoimg/playnextb.png' /> <em>次の時間のRaNi Music♪へ</em></a><br />",
               "img": "https://program-static.cf.radiko.jp/8a204111-3b5f-495a-a30e-8acf48b98e11.png",
               "metas": {
                 "meta": {
@@ -29,37 +30,19 @@
               }
             },
             {
-              "-id": "10354658",
-              "-ft": "20240814080000",
-              "-to": "20240814080100",
-              "-ftl": "0800",
-              "-tol": "0801",
-              "-dur": "60",
-              "title": "放送開始アナウンス",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/8a204111-3b5f-495a-a30e-8acf48b98e11.png",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10360286",
+              "-id": "10372631",
               "-ft": "20240814080100",
               "-to": "20240814090000",
               "-ftl": "0801",
               "-tol": "0900",
               "-dur": "3540",
-              "title": "RaNi Music♪　Start",
+              "title": "RaNi Music♪Start",
               "url": "https://www.radionikkei.jp/ranimusic/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/dt9nw09trg.png",
+              "info": "<a href='https://www.radionikkei.jp/lp/ranimusic.html'><img src='https://www.ranimusic.jp/noa/radikoimg/cmsup.jpg' /></a><br /><br />▼この時間のプレイリスト▼<br /><br />8:01 恋のブギウギナイト/サザンオールスターズ (2024年)<br />8:06 Moon and Stars/Kalapana (1976年)<br />8:10 Summer Madness feat. Afrojack/三代目 J Soul Brothers from EXILE TRIBE (2015年)<br />8:14 Espresso/Sabrina Carpenter (2024年)<br />8:17 Echoes In Rain/Enya (2015年)<br />8:20 強く儚い者たち/Cocco (1997年)<br />8:25 No Excuses/Meghan Trainor (2018年)<br />8:27 Surfin' U.S.A./The Beach Boys (1963年)<br />8:30 The NeverEnding Story/Limahl (1984年)<br />8:33 Dear/Mrs. GREEN APPLE (2024年)<br />8:38 Breathless/The Corrs (2000年)<br />8:42 You Ku'uipo/Willie K (1991年)<br />8:46 Step and a step/NiziU (2020年)<br />8:49 Water Runs Dry/Boyz II Men (1995年)<br />8:52 Lose My Breath feat. Charlie Puth/Stray Kids (2024年)<br />8:55 プラネタリウム/大塚愛 (2005年)<br />（洋楽：63%　邦楽：38%）<br /><br /><a href='https://www.radionikkei.jp/ranimusic/radikorani_music.html'><img src='https://www.ranimusic.jp/noa/radikoimg/continuous_play_400x60.jpg' /></a><br /><br /><a href='https://radiko.jp/share/?sid=RN2&t=20240813080100'><img src='https://www.ranimusic.jp/noa/radikoimg/playprdyb.png' /> <em>前回の最初のRaNi Music♪へ</em></a><br /><br /><a href='https://radiko.jp/share/?sid=RN2&t=20240814090000'><img src='https://www.ranimusic.jp/noa/radikoimg/playnextb.png' /> <em>次の時間のRaNi Music♪へ</em></a><br /><br /><a href='https://www.radionikkei.jp/ranimusic/onair/?date=20240814#oa-0800'><img src='https://www.ranimusic.jp/noa/radikoimg/playonpub.png' /><em>その他の楽曲情報はこちらへ</em></a><br />",
+              "img": "https://program-static.cf.radiko.jp/41a2569a-3d76-4561-8270-6f7f5b83bc5c.png",
               "tag": {
                 "item": [
                   {
@@ -72,7 +55,7 @@
                     "name": "RNM"
                   },
                   {
-                    "name": "RMEVENING"
+                    "name": "RMSTART"
                   }
                 ]
               },
@@ -90,18 +73,19 @@
               }
             },
             {
-              "-id": "10360287",
+              "-id": "10372632",
               "-ft": "20240814090000",
               "-to": "20240814120000",
               "-ftl": "0900",
               "-tol": "1200",
               "-dur": "10800",
-              "title": "RaNi Music♪　Morning",
+              "title": "RaNi Music♪Morning",
               "url": "https://www.radionikkei.jp/ranimusic/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/dt9nw09trg.png",
+              "info": "<a href='https://www.radionikkei.jp/ranimusic/radikorani_music.html'><img src='https://www.ranimusic.jp/noa/radikoimg/continuous_play_400x60.jpg' /></a><br /><br />▼この時間のプレイリスト▼<br /><br />9:00 LUNCH/Billie Eilish (2024年)<br />9:03 夏のFree＆Easy/乃木坂46 (2014年)<br />9:09 Beautiful/Anne-Marie (2021年)<br />9:12 Funky Night/ゲスの極み乙女 (2024年)<br />9:15 Don't Look Back In Anger/Oasis (1996年)<br />9:20 ふつうとは/東京事変 (2022年)<br />9:23 Head Above Water/Avril Lavigne (2018年)<br />9:27 あ～よかった/花＊花 (2000年)<br />9:30 小麦色のマーメイド/松田聖子 (1982年)<br />9:34 Funkytown/Lipps Inc. (1980年)<br />9:38 Unsure/Alan Walker & Kylie Cantrall (2024年)<br />9:41 ひだまりの詩/Le Couple (1997年)<br />9:45 Tubthumping/Chumbawamba (1997年)<br />9:48 Guilty/Blue (2003年)<br />9:52 恥ずかしいか青春は/緑黄色社会 (2024年)<br />9:56 Chained To The Rhythm/Katy Perry (2017年)<br />10:00 SPECIALZ/King Gnu (2023年)<br />10:04 us. feat. Taylor Swift/Gracie Abrams (2024年)<br />10:09 Nasty/Tinashe (2024年)<br />10:12 Chururi/ゆず (2024年)<br />10:15 Dancing/Kylie Minogue (2018年)<br />10:18 満月の夜なら/あいみょん (2018年)<br />10:21 Too Good to be True/Kacey Musgraves (2024年)<br />10:24 Regret/New Order (1993年)<br />10:28 ビビデバ/星街すいせい (2024年)<br />10:31 Ain't Got Far To Go/Jess Glynne (2015年)<br />10:34 RIDE ON TIME/山下達郎 (1980年)<br />10:38 Someone Else/Kenya Grace (2024年)<br />10:42 はなたば/井上苑子 (2019年)<br />10:46 I'd Still Say Yes/Klymaxx (1986年)<br />10:50 Two As One/Crystal Kay × CHEMISTRY (2005年)<br />10:54 Over the Rainbow/Israel Kamakawiwo'ole (1993年)<br />10:57 運命/sumika (2024年)<br />11:01 Shut Up and Dance/WALK THE MOON (2014年)<br />11:04 星のラブレター/THE BOOM (1989年)<br />11:09 It's My Life/Bon Jovi (2000年)<br />11:12 毎日 - Every Day/米津玄師 (2024年)<br />11:15 On the Beach/Chris Rea (1988年)<br />11:19 For the moment/Every Little Thing (1997年)<br />11:23 Rivers of Babylon/Boney M. (1978年)<br />11:27 Neverland/REIKO (2024年)<br />11:30 Sooner Or Later/Years & Years (2022年)<br />11:34 GOLDFINGER '99/郷ひろみ (1999年)<br />11:38 Woman's World/Katy Perry (2024年)<br />11:41 失恋の神さま/中村千尋 (2017年)<br />11:45 99 Luftballons/Nena (1983年)<br />11:49 Castle on the Hill/Ed Sheeran (2017年)<br />11:53 朝、月面も笑っている/DISH// (2024年)<br />11:56 Summer Night City/ABBA (1978年)<br />（洋楽：55%　邦楽：45%）<br /><br /><a href='https://www.radionikkei.jp/lp/ranimusic.html'><img src='https://www.ranimusic.jp/noa/radikoimg/cmsup.jpg' /></a><br /><br /><a href='https://radiko.jp/share/?sid=RN2&t=20240814080100'><img src='https://www.ranimusic.jp/noa/radikoimg/playtopb.png' /> <em>この日の最初のRaNi Music♪へ</em></a><br /><br /><a href='https://radiko.jp/share/?sid=RN2&t=20240814120000'><img src='https://www.ranimusic.jp/noa/radikoimg/playnextb.png' /> <em>次の時間のRaNi Music♪へ</em></a><br /><br /><a href='https://www.radionikkei.jp/ranimusic/onair/?date=20240814#oa-0900'><img src='https://www.ranimusic.jp/noa/radikoimg/playonpub.png' /><em>その他の楽曲情報はこちらへ</em></a><br />",
+              "img": "https://program-static.cf.radiko.jp/88a8ec34-ef4d-471f-a21f-cbc6e63d48f9.png",
               "tag": {
                 "item": [
                   {
@@ -132,18 +116,19 @@
               }
             },
             {
-              "-id": "10360288",
+              "-id": "10372633",
               "-ft": "20240814120000",
               "-to": "20240814150000",
               "-ftl": "1200",
               "-tol": "1500",
               "-dur": "10800",
-              "title": "RaNi Music♪　Day",
+              "title": "RaNi Music♪Day",
               "url": "https://www.radionikkei.jp/ranimusic/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/dt9nw09trg.png",
+              "info": "<a href='https://www.radionikkei.jp/ranimusic/radikorani_music.html'><img src='https://www.ranimusic.jp/noa/radikoimg/continuous_play_400x60.jpg' /></a><br /><br />▼この時間のプレイリスト▼<br /><br />12:00 キラキラの灰/リーガルリリー (2024年)<br />12:04 At Night feat. Liz Elias and Akon/Flo Rida (2016年)<br />12:09 ヤシの木のように/ケツメイシ (2016年)<br />12:13 360/Charli XCX (2024年)<br />12:16 Presence/Superfly (2022年)<br />12:19 On My Mind/Ellie Goulding (2015年)<br />12:23 Reach for the sky/倉木麻衣 (2000年)<br />12:27 Fame Won't Love You feat. Paris Hilton/Sia (2024年)<br />12:31 解放区/ポルノグラフィティ (2024年)<br />12:34 Lonely Dancers/Conan Gray (2024年)<br />12:37 涙の海で抱かれたい～SEA OF LOVE～/サザンオールスターズ (2003年)<br />12:41 Good Grief/Bastille (2016年)<br />12:45 ロビンソン/スピッツ (1995年)<br />12:49 Some Type Of Skin/AURORA (2024年)<br />12:52 FLASH/Perfume (2016年)<br />12:56 Unlonely/Jason Mraz (2018年)<br />13:00 星街の駅で/tuki. (2024年)<br />13:04 Hands to Heaven/Breathe (1987年)<br />13:09 フレンズ/レベッカ (1985年)<br />13:13 Nobody/OneRepublic (2024年)<br />13:15 またね/SHISHAMO (2019年)<br />13:19 Way Back Into Love/Hugh Grant ft. Haley Bennett (2007年)<br />13:24 My Boo/清水翔太 (2016年)<br />13:28 Surf/Ka'au Crater Boys (1993年)<br />13:31 夢幻/MY FIRST STORY × HYDE (2024年)<br />13:35 Because of You/Ne-Yo (2007年)<br />13:40 楽園ベイベー/RIP SLYME (2002年)<br />13:44 I Could Fall in Love/Selena (1995年)<br />13:49 五月雨 (Samidare)/&TEAM (2024年)<br />13:52 Heaven/Avicii (2019年)<br />13:56 陽炎/サカナクション (2018年)<br />13:59 On My Way/Alan Walker, Sabrina Carpenter & Farruko (2019年)<br />14:03 OCEAN/B'z (2005年)<br />14:09 My Oh My/Ava Max (2024年)<br />14:11 Time Warp/Perfume (2020年)<br />14:14 Shape of You/Ed Sheeran (2017年)<br />14:18 みかんハート/C&K (2013年)<br />14:23 Hawaiian Eyes/Na Leo Pilimehana (1999年)<br />14:27 アポロドロス/Mrs. GREEN APPLE (2024年)<br />14:31 Teenage Dream/Katy Perry (2010年)<br />14:35 Summer Dream/ジョン・ヨンファ from CNBLUE (2017年)<br />14:39 All at Once/Whitney Houston (1985年)<br />14:43 カーテンコール/優里 (2024年)<br />14:47 THE GREATEST/KING (2016年)<br />14:50 Jazzclub/BoA (2018年)<br />14:52 Say/keshi (2024年)<br />14:55 夏を待つセイル（帆）のように/ZARD (2005年)<br />（洋楽：49%　邦楽：51%）<br /><br /><a href='https://www.radionikkei.jp/lp/ranimusic.html'><img src='https://www.ranimusic.jp/noa/radikoimg/cmsup.jpg' /></a><br /><br /><a href='https://radiko.jp/share/?sid=RN2&t=20240814080100'><img src='https://www.ranimusic.jp/noa/radikoimg/playtopb.png' /> <em>この日の最初のRaNi Music♪へ</em></a><br /><br /><a href='https://radiko.jp/share/?sid=RN2&t=20240814150000'><img src='https://www.ranimusic.jp/noa/radikoimg/playnextb.png' /> <em>次の時間のRaNi Music♪へ</em></a><br /><br /><a href='https://www.radionikkei.jp/ranimusic/onair/?date=20240814#oa-1200'><img src='https://www.ranimusic.jp/noa/radikoimg/playonpub.png' /><em>その他の楽曲情報はこちらへ</em></a><br />",
+              "img": "https://program-static.cf.radiko.jp/0145ad41-d166-4ad3-b6bb-496132a605c6.png",
               "tag": {
                 "item": [
                   {
@@ -174,18 +159,19 @@
               }
             },
             {
-              "-id": "10360289",
+              "-id": "10372634",
               "-ft": "20240814150000",
               "-to": "20240814170000",
               "-ftl": "1500",
               "-tol": "1700",
               "-dur": "7200",
-              "title": "RaNi Music♪　Afternoon",
+              "title": "RaNi Music♪Afternoon",
               "url": "https://www.radionikkei.jp/ranimusic/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/dt9nw09trg.png",
+              "info": "<a href='https://www.radionikkei.jp/ranimusic/radikorani_music.html'><img src='https://www.ranimusic.jp/noa/radikoimg/continuous_play_400x60.jpg' /></a><br /><br />▼この時間のプレイリスト▼<br /><br />15:00 靴の花火/ヨルシカ (2017年)<br />15:05 Illusion/Dua Lipa (2024年)<br />15:09 I'll be there/MAN WITH A MISSION (2024年)<br />15:13 Gone, Gone, Gone/Phillip Phillips (2015年)<br />15:17 ロコローション/ORANGE RANGE (2004年)<br />15:20 I Love Your Smile/Shanice (1991年)<br />15:23 このまま君だけを奪い去りたい/DEEN (1993年)<br />15:28 Ask & You Shall Receive/Rita Ora (2024年)<br />15:31 Runner/爆風スランプ (1988年)<br />15:36 10,000 Hours/Dan + Shay, Justin Bieber (2019年)<br />15:39 I wonder/Da-iCE (2024年)<br />15:41 Slow It Down/Benson Boone (2024年)<br />15:44 明日、また/[Alexandros] (2017年)<br />15:48 Dani California/Red Hot Chili Peppers (2006年)<br />15:53 Garden feat. Kenji/Sugar Soul (1999年)<br />15:58 Seaside Story/MAZZEL (2024年)<br />16:01 HOT UPTOWN feat. Drake/Camila Cabello (2024年)<br />16:04 君がくれた夏/家入レオ (2015年)<br />16:09 Don't Say/Gabrielle Aplin (2022年)<br />16:12 RADIO/JUDY AND MARY (1994年)<br />16:16 OMG/Leigh-Anne (2024年)<br />16:18 Anarchy/Official髭男dism (2022年)<br />16:23 One Day with Jake Shimabukuro/Def Tech (2015年)<br />16:27 シンデレラ サマー/石川優子 (1981年)<br />16:30 Feelin' Go(o)d/藤井風 (2024年)<br />16:35 Sing/Ed Sheeran (2014年)<br />16:38 Boys & Girls/浜崎あゆみ (1999年)<br />16:42 I Don't Feel Like Dancin'/Scissor Sisters (2006年)<br />16:46 風になれ/YUKI (2024年)<br />16:50 Got My Mind Set on You/George Harrison (1987年)<br />16:54 真夏の通り雨/宇多田ヒカル (2016年)<br />（洋楽：45%　邦楽：55%）<br /><br /><a href='https://www.radionikkei.jp/lp/ranimusic.html'><img src='https://www.ranimusic.jp/noa/radikoimg/cmsup.jpg' /></a><br /><br /><a href='https://radiko.jp/share/?sid=RN2&t=20240814080100'><img src='https://www.ranimusic.jp/noa/radikoimg/playtopb.png' /> <em>この日の最初のRaNi Music♪へ</em></a><br /><br /><a href='https://radiko.jp/share/?sid=RN2&t=20240814171000'><img src='https://www.ranimusic.jp/noa/radikoimg/playnextb.png' /> <em>次の時間のRaNi Music♪へ</em></a><br /><br /><a href='https://www.radionikkei.jp/ranimusic/onair/?date=20240814#oa-1500'><img src='https://www.ranimusic.jp/noa/radikoimg/playonpub.png' /><em>その他の楽曲情報はこちらへ</em></a><br />",
+              "img": "https://program-static.cf.radiko.jp/85835a33-55a9-40ce-a751-6153bdb505e4.png",
               "tag": {
                 "item": [
                   {
@@ -216,20 +202,20 @@
               }
             },
             {
-              "-id": "10360290",
+              "-id": "10372635",
               "-ft": "20240814170000",
               "-to": "20240814171000",
               "-ftl": "1700",
               "-tol": "1710",
               "-dur": "600",
-              "title": "Ｍｙ　Ｈｕｍｍｉｎｇ　Ｔｉｍｅ",
+              "title": "My Humming Time",
               "url": "https://www.radionikkei.jp/myhummingtime/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "季節の話題と音楽の贈り物をお届けする10分間。<br>",
+              "desc": "季節の話題と音楽の贈り物をお届けする10分間。",
               "pfm": "沢口みなみ（フリーアナウンサー）",
-              "img": "https://program-static.cf.radiko.jp/nvrlerxote.png",
+              "img": "https://program-static.cf.radiko.jp/t9wqr38h1t.png",
               "tag": {
                 "item": [
                   {
@@ -254,18 +240,19 @@
               }
             },
             {
-              "-id": "10360291",
+              "-id": "10372636",
               "-ft": "20240814171000",
-              "-to": "20240814185900",
+              "-to": "20240814190000",
               "-ftl": "1710",
-              "-tol": "1859",
-              "-dur": "6540",
-              "title": "RaNi Music♪　Evening",
+              "-tol": "1900",
+              "-dur": "6600",
+              "title": "RaNi Music♪Evening",
               "url": "https://www.radionikkei.jp/ranimusic/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/dt9nw09trg.png",
+              "info": "<a href='https://www.radionikkei.jp/lp/ranimusic.html'><img src='https://www.ranimusic.jp/noa/radikoimg/cmsup.jpg' /></a><br /><br />▼この時間のプレイリスト▼<br /><br />17:10 ワルツ/家入レオ (2024年)<br />17:14 Walking on Sunshine/Katrina and the Waves (1985年)<br />17:18 ファイトソング/Eve (2022年)<br />17:21 Dirty Work/Austin Mahone (2015年)<br />17:24 RAY/BUMP OF CHICKEN (2014年)<br />17:29 Kauanoeanuhea/Keali'i Reichel (1994年)<br />17:34 SUMMER GATE/SMAP (2003年)<br />17:39 Dark Necessities/Red Hot Chili Peppers (2016年)<br />17:43 Feelin' Good - It's PARADISE -/DA PUMP (1997年)<br />17:48 Faded/Alan Walker (2015年)<br />17:51 ダイナマイト/Superfly (2022年)<br />17:55 And So The Story goes (Di Da Di)/Maria Montell (1997年)<br />18:00 ライラック/Mrs. GREEN APPLE (2024年)<br />18:04 ふたりの夏物語/杉山清貴&オメガトライブ (1985年)<br />18:08 Truly Madly Deeply/Savage Garden (1997年)<br />18:13 Sign/Aimer (2024年)<br />18:16 Your Name/Little Glee Monster (2022年)<br />18:20 After Hours/Kehlani (2024年)<br />18:23 Don't Think, Feel/Awesome City Club (2016年)<br />18:27 Hey DJ/CNCO, Meghan Trainor & Sean Paul (2018年)<br />18:30 あー夏休み/TUBE (1990年)<br />18:35 Turn it up/PinkPantheress (2024年)<br />18:37 Destiny/Che'Nelle (2017年)<br />18:41 Tears For Fun/Griff (2024年)<br />18:44 会いに行くのに/あいみょん (2024年)<br />18:49 Rainbow/i-dep (2006年)<br />18:55 I Took a Pill in Ibiza (Seeb Remix)/Mike Posner (2015年)<br />（洋楽：44%　邦楽：56%）<br /><br /><a href='https://www.radionikkei.jp/ranimusic/radikorani_music.html'><img src='https://www.ranimusic.jp/noa/radikoimg/continuous_play_400x60.jpg' /></a><br /><br /><a href='https://radiko.jp/share/?sid=RN2&t=20240814080100'><img src='https://www.ranimusic.jp/noa/radikoimg/playtopb.png' /> <em>この日の最初のRaNi Music♪へ</em></a><br /><br /><a href='https://radiko.jp/share/?sid=RN2&t=20240815083000'><img src='https://www.ranimusic.jp/noa/radikoimg/playnextb.png' /> <em>次の時間のRaNi Music♪へ</em></a><br /><br /><a href='https://www.radionikkei.jp/ranimusic/onair/?date=20240814#oa-1700'><img src='https://www.ranimusic.jp/noa/radikoimg/playonpub.png' /><em>その他の楽曲情報はこちらへ</em></a><br />",
+              "img": "https://program-static.cf.radiko.jp/b07208c3-81f6-469e-91a0-262a6287fb21.png",
               "tag": {
                 "item": [
                   {
@@ -296,35 +283,17 @@
               }
             },
             {
-              "-id": "10354665",
-              "-ft": "20240814185900",
-              "-to": "20240814190000",
-              "-ftl": "1859",
-              "-tol": "1900",
-              "-dur": "60",
-              "title": "放送終了アナウンス",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/8a204111-3b5f-495a-a30e-8acf48b98e11.png",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
               "-id": "10354666",
               "-ft": "20240814190000",
-              "-to": "20240815045900",
+              "-to": "20240815050000",
               "-ftl": "1900",
-              "-tol": "2859",
-              "-dur": "35940",
+              "-tol": "2900",
+              "-dur": "36000",
               "title": "放送休止中",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
+              "info": "<a href='https://www.radionikkei.jp/ranimusic/radikorani_music.html'><img src='https://www.ranimusic.jp/noa/radikoimg/continuous_play_400x60.jpg' /></a><br /><br /><a href='https://radiko.jp/share/?sid=RN2&t=20240814080100'><img src='https://www.ranimusic.jp/noa/radikoimg/playtopb.png' /> <em>この日の最初のRaNi Music♪へ</em></a><br /><br /><a href='https://radiko.jp/share/?sid=RN2&t=20240815083000'><img src='https://www.ranimusic.jp/noa/radikoimg/playnextb.png' /> <em>次の時間のRaNi Music♪へ</em></a><br />",
               "img": "https://program-static.cf.radiko.jp/8a204111-3b5f-495a-a30e-8acf48b98e11.png",
               "metas": {
                 "meta": {
