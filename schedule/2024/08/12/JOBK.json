@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1723399159",
+    "srvtime": "1723485616",
     "stations": {
       "station": {
         "-id": "JOBK",
@@ -16,12 +16,10 @@
               "-ftl": "0500",
               "-tol": "0515",
               "-dur": "900",
-              "title": "ニュース",
-              "url": "https://www.nhk.or.jp/radionews/",
+              "title": "ニュース「台風５号」関連",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "img": "https://program-static.cf.radiko.jp/b7k51bhj8f.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -98,12 +96,10 @@
               "-ftl": "0530",
               "-tol": "0545",
               "-dur": "900",
-              "title": "ニュース",
-              "url": "https://www.nhk.or.jp/radionews/",
+              "title": "ニュース「台風５号」関連",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "img": "https://program-static.cf.radiko.jp/b7k51bhj8f.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -218,13 +214,13 @@
               "-ftl": "0630",
               "-tol": "0640",
               "-dur": "600",
-              "title": "ラジオ体操　夏期巡回ラジオ体操・みんなの体操会　新潟県阿賀町",
+              "title": "ラジオ体操",
               "url": "https://www.nhk.jp/p/radio-taisou/rs/N9N4P87RLP/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "info": "岡本美佳，細貝柊 ～新潟県阿賀町・津川河川広場から中継～",
-              "pfm": "岡本美佳，細貝柊",
+              "info": "岡本美佳，能條貴大",
+              "pfm": "岡本美佳，能條貴大",
               "img": "https://program-static.cf.radiko.jp/w3fxtejuvs.jpg",
               "metas": {
                 "meta": {
@@ -256,26 +252,6 @@
               }
             },
             {
-              "-id": "10349829",
-              "-ft": "20240812065500",
-              "-to": "20240812070000",
-              "-ftl": "0655",
-              "-tol": "0700",
-              "-dur": "300",
-              "title": "気象情報",
-              "url": "https://www.nhk.or.jp/kishou-saigai/",
-              "failed_record": "0",
-              "ts_in_ng": "2",
-              "ts_out_ng": "2",
-              "img": "https://program-static.cf.radiko.jp/qdp2rpzzrk.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
               "-id": "10349830",
               "-ft": "20240812070000",
               "-to": "20240812071500",
@@ -288,24 +264,6 @@
               "ts_in_ng": "2",
               "ts_out_ng": "2",
               "img": "https://program-static.cf.radiko.jp/qlum6ngtqf.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10349831",
-              "-ft": "20240812071500",
-              "-to": "20240812072000",
-              "-ftl": "0715",
-              "-tol": "0720",
-              "-dur": "300",
-              "title": "ニュース・気象情報",
-              "failed_record": "0",
-              "ts_in_ng": "2",
-              "ts_out_ng": "2",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -476,12 +434,10 @@
               "-ftl": "1100",
               "-tol": "1150",
               "-dur": "3000",
-              "title": "ニュース",
-              "url": "https://www.nhk.or.jp/radionews/",
+              "title": "ニュース「台風５号」関連",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "img": "https://program-static.cf.radiko.jp/b7k51bhj8f.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -565,18 +521,112 @@
               }
             },
             {
-              "-id": "10349838",
+              "-id": "10382710",
               "-ft": "20240812121500",
-              "-to": "20240812185000",
+              "-to": "20240812125500",
               "-ftl": "1215",
+              "-tol": "1255",
+              "-dur": "2400",
+              "title": "ニュース「台風５号」関連",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10382711",
+              "-ft": "20240812125500",
+              "-to": "20240812130000",
+              "-ftl": "1255",
+              "-tol": "1300",
+              "-dur": "300",
+              "title": "全国気象情報・全国交通情報",
+              "url": "https://www.nhk.or.jp/radionews/",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
+              "img": "https://program-static.cf.radiko.jp/b7k51bhj8f.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10382712",
+              "-ft": "20240812130000",
+              "-to": "20240812135500",
+              "-ftl": "1300",
+              "-tol": "1355",
+              "-dur": "3300",
+              "title": "ニュース「台風５号」関連",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10382713",
+              "-ft": "20240812140000",
+              "-to": "20240812145500",
+              "-ftl": "1400",
+              "-tol": "1455",
+              "-dur": "3300",
+              "title": "ニュース「台風５号」関連",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10382714",
+              "-ft": "20240812150000",
+              "-to": "20240812150500",
+              "-ftl": "1500",
+              "-tol": "1505",
+              "-dur": "300",
+              "title": "ニュース",
+              "url": "https://www.nhk.or.jp/radionews/",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "ts_out_ng": "2",
+              "img": "https://program-static.cf.radiko.jp/b7k51bhj8f.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10382715",
+              "-ft": "20240812150500",
+              "-to": "20240812185000",
+              "-ftl": "1505",
               "-tol": "1850",
-              "-dur": "23700",
+              "-dur": "13500",
               "title": "第１０６回全国高校野球選手権大会　第６日",
               "failed_record": "0",
               "ts_in_ng": "2",
               "ts_out_ng": "2",
-              "info": "第２試合「富山商」（富山）対「東海大相模」（神奈川） 第３試合「鳥取城北」（鳥取）対「明徳義塾」（高知） 第４試合「北陸」（福井）対「関東第一」（東東京）<br><br>【第２試合】解説…飯塚智広，アナウンサー…三瓶宏志，【第３試合】解説…印出順彦，アナウンサー…佐竹祐人，【第４試合】解説…青山眞也，アナウンサー…園田遼斗～甲子園球場から中継～＜中断＞第２試合および第３試合終了後 ニュース（４分）おしらせ（１分）（１：００）（２：００）（３：００）（４：００）（５：００）（６：００）ニュース（２：１５）（４：４５）全国交通情報 ［延伸のとき以降の番組に変更あり］",
-              "pfm": "【第２試合】解説…飯塚智広，アナウンサー…三瓶宏志，【第３試合】解説…印出順彦，アナウンサー…佐竹祐人，【第４試合】解説…青山眞也，アナウンサー…園田遼斗",
+              "info": "第３試合「鳥取城北」（鳥取）対「明徳義塾」（高知） 第４試合「北陸」（福井）対「関東第一」（東東京）<br><br>【第３試合】解説…印出順彦，アナウンサー…佐竹祐人，【第４試合】解説…青山眞也，アナウンサー…園田遼斗～甲子園球場から中継～ ＜中断＞第３試合終了後 ニュース（４分）おしらせ（１分） （４：００）（５：００）（６：００）ニュース （４：４５）全国交通情報 ［延伸のとき以降の番組に変更あり］",
+              "pfm": "【第３試合】解説…印出順彦，アナウンサー…佐竹祐人，【第４試合】解説…青山眞也，アナウンサー…園田遼斗",
               "metas": {
                 "meta": {
                   "-name": "twitter",
