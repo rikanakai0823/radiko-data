@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1723485625",
+    "srvtime": "1723572024",
     "stations": {
       "station": {
         "-id": "TBC",
@@ -1080,70 +1080,13 @@
               }
             },
             {
-              "-id": "10382661",
+              "-id": "10387122",
               "-ft": "20240819010200",
-              "-to": "20240819020000",
-              "-ftl": "2502",
-              "-tol": "2600",
-              "-dur": "3480",
-              "title": "試験電波１",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/57ae7f43-9dbd-434d-a21d-7f3c067c4ed7.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10382662",
-              "-ft": "20240819020000",
-              "-to": "20240819030000",
-              "-ftl": "2600",
-              "-tol": "2700",
-              "-dur": "3600",
-              "title": "試験電波２",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/57ae7f43-9dbd-434d-a21d-7f3c067c4ed7.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10382663",
-              "-ft": "20240819030000",
-              "-to": "20240819040000",
-              "-ftl": "2700",
-              "-tol": "2800",
-              "-dur": "3600",
-              "title": "試験電波３",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/57ae7f43-9dbd-434d-a21d-7f3c067c4ed7.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10382664",
-              "-ft": "20240819040000",
               "-to": "20240819044300",
-              "-ftl": "2800",
+              "-ftl": "2502",
               "-tol": "2843",
-              "-dur": "2580",
-              "title": "試験電波４",
+              "-dur": "13260",
+              "title": "配信休止",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -1156,13 +1099,32 @@
               }
             },
             {
-              "-id": "10382665",
+              "-id": "10386999",
               "-ft": "20240819044300",
-              "-to": "20240819050000",
+              "-to": "20240819044500",
               "-ftl": "2843",
+              "-tol": "2845",
+              "-dur": "120",
+              "title": "オープニング",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/57ae7f43-9dbd-434d-a21d-7f3c067c4ed7.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10387000",
+              "-ft": "20240819044500",
+              "-to": "20240819050000",
+              "-ftl": "2845",
               "-tol": "2900",
-              "-dur": "1020",
-              "title": "配信休止",
+              "-dur": "900",
+              "title": "こちらｔｂｃです",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
