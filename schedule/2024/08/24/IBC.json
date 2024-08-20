@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1724004024",
+    "srvtime": "1724176824",
     "stations": {
       "station": {
         "-id": "IBC",
@@ -1396,13 +1396,24 @@
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "desc": "E-mail　<a href=\"mailto:ak@allnightnippon.com\">ak@allnightnippon.com</a>",
+              "info": "番組Xアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」<br/>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23akann0\">#akann0</a>」",
               "pfm": "朝井リョウ / 加藤千恵",
               "img": "https://program-static.cf.radiko.jp/01cc7e9b-5881-47c7-b3d1-49cd10ace218.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#IBCradio"
+                  "-value": "#radiko"
                 }
               }
             },
