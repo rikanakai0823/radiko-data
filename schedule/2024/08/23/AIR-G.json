@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1724433726",
+    "srvtime": "1724522414",
     "stations": {
       "station": {
         "-id": "AIR-G",
@@ -942,7 +942,27 @@
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/7fef5609-74f2-43bf-812d-80c645fbe957_sq.jpg\" height=\"60\" width=\"60\" alt=\"龍太\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/15904971-f8ea-4d19-a5ea-38796bdbfcab_sq.jpg\" height=\"60\" width=\"60\" alt=\"miku\"></td>  </tr></table><br /><br />\t試合直前のエスコンフィールドHOKKAIDOの熱をリスナーに届け、ファイターズファンリスナーの想いを届ける・・・<br />　ファイターズ2024シーズンをさらに盛り上げる情報番組です。試合の見どころや直前情報も！ <br /><br />\t番組Webサイト：<a href=\"https://www.air-g.co.jp/Fst_Fradio/\">https://www.air-g.co.jp/Fst_Fradio/</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23F%E3%82%B9%E3%82%BF\">#Fスタ</a>」<br /><br /></div>",
               "pfm": "龍太 / miku",
               "img": "https://program-static.cf.radiko.jp/qfchmzb41j.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ファイターズ"
+                  },
+                  {
+                    "name": "札幌ドーム"
+                  },
+                  {
+                    "name": "DJ龍太"
+                  },
+                  {
+                    "name": "稲田直人"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
                 "program": {
                   "-id": "P002",
                   "name": "スポーツ"
@@ -1065,8 +1085,8 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
                   "-id": "P006",
