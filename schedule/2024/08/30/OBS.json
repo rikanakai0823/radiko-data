@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1724522426",
+    "srvtime": "1724954417",
     "stations": {
       "station": {
         "-id": "OBS",
@@ -165,19 +165,28 @@
               }
             },
             {
-              "-id": "10411519",
+              "-id": "10461636",
               "-ft": "20240830063500",
               "-to": "20240830064500",
               "-ftl": "0635",
               "-tol": "0645",
               "-dur": "600",
-              "title": "パックンマックンのワールドで行こう！",
+              "title": "台風10号 最新情報",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "　　",
-              "pfm": "パックンマックン",
-              "img": "https://program-static.cf.radiko.jp/aa20b635-35ba-47cd-acce-21e6ecabea5f.jpeg",
+              "desc": "台風10号の最新情報を生放送でお伝えします。",
+              "img": "https://program-static.cf.radiko.jp/19f74227-a658-4874-ac8e-7c0663bee4d1.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
