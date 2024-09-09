@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1725818363",
+    "srvtime": "1725904759",
     "stations": {
       "station": {
         "-id": "RADIOBERRY",
@@ -1708,7 +1708,16 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \">\t県内外の最新ニュースをお届け <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/kxsjwnh51w.jpg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
