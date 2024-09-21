@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1726855165",
+    "srvtime": "1726941625",
     "stations": {
       "station": {
         "-id": "FMT",
@@ -271,16 +271,34 @@
               "-ftl": "1300",
               "-tol": "1455",
               "-dur": "6900",
-              "title": "TOKYO FM ホリデースペシャル",
+              "title": "TOKYO FM ホリデースペシャル 太田胃散 presents 内山理名 RINA'S ROOM",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t--- <br /><br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/656baa14-31d3-4896-9b86-2c9622b88a05.jpeg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/55268f16-e326-485c-ae49-0e994a6fcf00_sq.jpg\" height=\"60\" width=\"60\" alt=\"内山理名\"></td>  </tr></table><br /><br />\t内山理名がいま会いたいゲストを招き、様々なトークを繰り広げていく特別番組。<br />13時台ゲストは、俳優の三倉茉奈さん、<br />14時台ゲストは、フリーアナウンサーの松丸友紀さんです！ <br /><br /><br /></div>",
+              "pfm": "内山理名",
+              "img": "https://program-static.cf.radiko.jp/de74qvzg6r.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "#内山理名"
+                  },
+                  {
+                    "name": "#三倉茉奈"
+                  },
+                  {
+                    "name": "#松丸友紀"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C002",
+                  "name": "俳優"
+                },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -498,7 +516,7 @@
               "ts_out_ng": "0",
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/2ced4bc8-a000-4d8a-9e06-36b897bb02e2_sq.jpg\" height=\"60\" width=\"60\" alt=\"佐々木俊尚\"></td>  </tr></table><br /><br />\tAIを利用して死者と話すことができるサービスが始まるなど、人工知能の進化は「孤独」にどんな影響をもたらすのか？<br />ジャーナリストの佐々木俊尚氏が、哲学者の谷川嘉浩氏、アーティストの福原志保氏との対談や、ドラえもんを作ろうとしているAI研究者大澤正彦氏の話を通して、2024年の孤独の形を考える特別番組です。<br />ご期待ください。 <br /><br /><br /></div>",
               "pfm": "佐々木俊尚",
-              "img": "https://program-static.cf.radiko.jp/656baa14-31d3-4896-9b86-2c9622b88a05.jpeg",
+              "img": "https://program-static.cf.radiko.jp/wbflfct9eo.jpg",
               "tag": {
                 "item": {
                   "name": "佐々木俊尚"
