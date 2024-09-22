@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1726856468",
+    "srvtime": "1727029328",
     "stations": {
       "station": {
         "-id": "MRO",
@@ -1178,10 +1178,24 @@
               "ts_out_ng": "0",
               "pfm": "野田クリスタル(マヂカルラブリー) / 村上(マヂカルラブリー)",
               "img": "https://program-static.cf.radiko.jp/88a885f4-2a2f-467a-aebd-d7d233789aba.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "お笑い芸人"
+                  },
+                  {
+                    "name": "お笑い芸人の最強トーク"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
                 "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
