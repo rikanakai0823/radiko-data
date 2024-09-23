@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1726855165",
+    "srvtime": "1727114361",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -492,10 +492,10 @@
             {
               "-id": "10530475",
               "-ft": "20240923130000",
-              "-to": "20240923140000",
+              "-to": "20240923135500",
               "-ftl": "1300",
-              "-tol": "1400",
-              "-dur": "3600",
+              "-tol": "1355",
+              "-dur": "3300",
               "title": "上沼恵美子のこころ晴天(2)",
               "url": "https://abcradio.asahi.co.jp/kokoten/",
               "failed_record": "0",
@@ -535,41 +535,41 @@
               }
             },
             {
-              "-id": "10530476",
-              "-ft": "20240923140000",
+              "-id": "10576233",
+              "-ft": "20240923135500",
               "-to": "20240923150000",
-              "-ftl": "1400",
+              "-ftl": "1355",
               "-tol": "1500",
-              "-dur": "3600",
-              "title": "上沼恵美子のこころ晴天(3)",
-              "url": "https://abcradio.asahi.co.jp/kokoten/",
+              "-dur": "3900",
+              "title": "ＡＢＣフレッシュアップベースボールスペシャル(1)",
+              "url": "https://www.abc1008.com/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_kaminuma.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:kokoten@abc1008.com\">kokoten@abc1008.com</a><BR><BR><BR>",
-              "pfm": "上沼恵美子／北村真平",
-              "img": "https://program-static.cf.radiko.jp/d4d777bd-8e8d-4ed4-bc19-fd55f5da6e91.jpeg",
+              "info": "阪神―巨人（甲子園）<BR>※試合終了までお届けします。<BR>解説：濱中治／実況：北條瑛祐／<BR><BR><BR>",
+              "pfm": "阪神―巨人（甲子園）　  ※試合終了までお届けします。　  解説：濱中治／実況：北條瑛祐／",
+              "img": "https://program-static.cf.radiko.jp/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
               "tag": {
                 "item": [
                   {
+                    "name": "#toraban1008"
+                  },
+                  {
+                    "name": "#ABCフレッシュアップベースボール"
+                  },
+                  {
                     "name": "ABCラジオ"
-                  },
-                  {
-                    "name": "こころ晴天"
-                  },
-                  {
-                    "name": "上沼恵美子"
                   }
                 ]
               },
               "genre": {
                 "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
+                  "-id": "C013",
+                  "name": "アスリート"
                 },
                 "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
+                  "-id": "P002",
+                  "name": "スポーツ"
                 }
               },
               "metas": {
@@ -580,27 +580,27 @@
               }
             },
             {
-              "-id": "10530477",
+              "-id": "10576234",
               "-ft": "20240923150000",
               "-to": "20240923160000",
               "-ftl": "1500",
               "-tol": "1600",
               "-dur": "3600",
-              "title": "ウラのウラまで浦川です(1)",
-              "url": "https://abcradio.asahi.co.jp/uraura/",
+              "title": "ＡＢＣフレッシュアップベースボールスペシャル(2)",
+              "url": "https://www.abc1008.com/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_urakawa_y.jpg\" width=\"100\"><img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_shuku.jpg\" width=\"100\"><BR><BR><img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_nakanishi.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:ura@abc1008.com\">ura@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%A6%E3%83%A9%E3%82%A6%E3%83%A9\">#ウラウラ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/uraurakin\">@uraurakin</a>」<BR><BR><BR>",
-              "pfm": "浦川泰幸／珠久美穂子／中西正男",
-              "img": "https://program-static.cf.radiko.jp/6a899b80-4c8c-48c3-b150-329e8eeee54d.jpeg",
+              "info": "阪神―巨人（甲子園）<BR>※試合終了までお届けします。<BR>解説：濱中治／実況：北條瑛祐／<BR><BR><BR>",
+              "pfm": "阪神―巨人（甲子園）　  ※試合終了までお届けします。　  解説：濱中治／実況：北條瑛祐／",
+              "img": "https://program-static.cf.radiko.jp/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
               "tag": {
                 "item": [
                   {
-                    "name": "浦川泰幸"
+                    "name": "#toraban1008"
                   },
                   {
-                    "name": "ウラウラ"
+                    "name": "#ABCフレッシュアップベースボール"
                   },
                   {
                     "name": "ABCラジオ"
@@ -609,49 +609,43 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C013",
+                  "name": "アスリート"
                 },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P002",
+                  "name": "スポーツ"
                 }
               },
               "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#ウラウラ"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:uraurakin"
-                  }
-                ]
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
               }
             },
             {
-              "-id": "10530478",
+              "-id": "10576235",
               "-ft": "20240923160000",
-              "-to": "20240923172500",
+              "-to": "20240923172000",
               "-ftl": "1600",
-              "-tol": "1725",
-              "-dur": "5100",
-              "title": "ウラのウラまで浦川です(2)",
-              "url": "https://abcradio.asahi.co.jp/uraura/",
+              "-tol": "1720",
+              "-dur": "4800",
+              "title": "ＡＢＣフレッシュアップベースボールスペシャル(3)",
+              "url": "https://www.abc1008.com/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "info": "<img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_urakawa_y.jpg\" width=\"100\"><img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_shuku.jpg\" width=\"100\"><BR><BR><img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_nakanishi.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:ura@abc1008.com\">ura@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%A6%E3%83%A9%E3%82%A6%E3%83%A9\">#ウラウラ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/uraurakin\">@uraurakin</a>」<BR><BR><BR>",
-              "pfm": "浦川泰幸／珠久美穂子／中西正男",
-              "img": "https://program-static.cf.radiko.jp/6a899b80-4c8c-48c3-b150-329e8eeee54d.jpeg",
+              "info": "阪神―巨人（甲子園）<BR>※試合終了までお届けします。<BR>解説：濱中治／実況：北條瑛祐／<BR><BR><BR>",
+              "pfm": "阪神―巨人（甲子園）　  ※試合終了までお届けします。　  解説：濱中治／実況：北條瑛祐／",
+              "img": "https://program-static.cf.radiko.jp/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
               "tag": {
                 "item": [
                   {
-                    "name": "浦川泰幸"
+                    "name": "#toraban1008"
                   },
                   {
-                    "name": "ウラウラ"
+                    "name": "#ABCフレッシュアップベースボール"
                   },
                   {
                     "name": "ABCラジオ"
@@ -660,14 +654,36 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C013",
+                  "name": "アスリート"
                 },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P002",
+                  "name": "スポーツ"
                 }
               },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10578785",
+              "-ft": "20240923172000",
+              "-to": "20240923172500",
+              "-ftl": "1720",
+              "-tol": "1725",
+              "-dur": "300",
+              "title": "ウラのウラまで浦川です",
+              "url": "https://abcradio.asahi.co.jp/uraura/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "info": "<img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_urakawa_y.jpg\" width=\"100\"><img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_shuku.jpg\" width=\"100\"><BR><BR><img src=\"https://abcradio.asahi.co.jp/program/personality/photo/photo_nakanishi.jpg\" width=\"100\"><BR><BR>メールアドレス：<a href=\"mailto:ura@abc1008.com\">ura@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%A6%E3%83%A9%E3%82%A6%E3%83%A9\">#ウラウラ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/uraurakin\">@uraurakin</a>」<BR><BR><BR>",
+              "pfm": "浦川泰幸",
+              "img": "https://program-static.cf.radiko.jp/6a899b80-4c8c-48c3-b150-329e8eeee54d.jpeg",
               "metas": {
                 "meta": [
                   {
@@ -1210,7 +1226,6 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "メールアドレス：<a href=\"mailto:r933@abc1008.com\">r933@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23r933\">#r933</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abcr933\">@abcr933</a>」<BR><BR><BR>",
-              "pfm": "ゲスト：松前ひろ子",
               "img": "https://program-static.cf.radiko.jp/ec6e8dad-0155-4f35-9ce2-9b06dfd440ae.jpeg",
               "tag": {
                 "item": [
@@ -1297,6 +1312,7 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "info": "メールアドレス：<a href=\"mailto:r933@abc1008.com\">r933@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23r933\">#r933</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abcr933\">@abcr933</a>」<BR><BR><BR>",
+              "pfm": "ゲスト：松前ひろ子",
               "img": "https://program-static.cf.radiko.jp/ec6e8dad-0155-4f35-9ce2-9b06dfd440ae.jpeg",
               "tag": {
                 "item": [
