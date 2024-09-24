@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1727114363",
+    "srvtime": "1727200820",
     "stations": {
       "station": {
         "-id": "RKB",
@@ -679,10 +679,10 @@
             {
               "-id": "10531266",
               "-ft": "20240924174800",
-              "-to": "20240924210000",
+              "-to": "20240924213900",
               "-ftl": "1748",
-              "-tol": "2100",
-              "-dur": "11520",
+              "-tol": "2139",
+              "-dur": "13860",
               "title": "ＲＫＢエキサイトホークス",
               "url": "https://rkb.jp/radio/excitehawks/",
               "failed_record": "0",
@@ -722,12 +722,12 @@
               }
             },
             {
-              "-id": "10531267",
-              "-ft": "20240924210000",
-              "-to": "20240924225200",
-              "-ftl": "2100",
-              "-tol": "2252",
-              "-dur": "6720",
+              "-id": "10584497",
+              "-ft": "20240924213900",
+              "-to": "20240924220000",
+              "-ftl": "2139",
+              "-tol": "2200",
+              "-dur": "1260",
               "title": "カリメン",
               "url": "https://rkb.jp/radio/kari/",
               "failed_record": "0",
@@ -737,16 +737,30 @@
               "info": "番組公式LINEはこちら！<br /><a href=\"https://line.me/R/ti/p/%40karimen\"><img height=\"36\" border=\"0\" alt=\"友だち追加\" src=\"https://scdn.line-apps.com/n/line_add_friends/btn/ja.png\"></a><br /><br />「カリメン」はちょっと不安定で、ちょっと悩んでて、でもかっこいいオトナを目指して日々頑張っているティーンの集う場所です。<br /><br />恋愛、勉強、部活、色々悩んだり、落ち込んだりするけれど、頑張っているティーンのみんな、「カリメン」に集合して、一緒に素敵なオトナを目指そうぜ！<br />ティーンを経験した、先輩方も、後輩のためにアドバイスよろしくお願いしますっっ！！<br /><br />担当パーソナリティ<br />冨士原圭希（火）<br />本田奈也花（水）<br />植草峻（木）<br /><br /><br /><br />その他、番組公式SNSなど→<br />LINE：karimen（公式アカウント）<br />twitter：<a href=\"https://twitter.com/rkbkari\">＠rkbkari</a><br />instagram：<a href=\"https://www.instagram.com/rkbkari/\">rkbkari</a><br />mail：<a href=\"mailto:kari@rkbr.jp\">kari@rkbr.jp</a><br />FAX：092-844-8844<br />",
               "pfm": "冨士原圭希",
               "img": "https://program-static.cf.radiko.jp/6185eec1-790d-4ae4-a428-1c0fa2b59a1c.jpeg",
-              "tag": {
-                "item": {
-                  "name": "学生におすすめ"
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
                 }
-              },
+              }
+            },
+            {
+              "-id": "10580769",
+              "-ft": "20240924220000",
+              "-to": "20240924225200",
+              "-ftl": "2200",
+              "-tol": "2252",
+              "-dur": "3120",
+              "title": "レットプレゼンツ　クワダテ",
+              "url": "https://rkb.jp/radio/kuwa/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "デザイナー・声優とマルチな才能を発揮し続ける大岩Larry正志氏と時代の先をいく起業家キン・リョウン氏による明るい未来クワダテ番組。",
+              "info": "世の中の常識にとらわれない取り組みをクワダテて実践しているゲストの失敗談や成功体験を紐解き、明るい未来への企てを語ります。<br /><br />チャレンジしている人もこれからの人も目から鱗、きっと何かの糧となるはず。",
+              "pfm": "大岩Larry正志、キン・リョウン",
+              "img": "https://program-static.cf.radiko.jp/cf46d8bc-c331-4fb9-9d35-458b1cc1f47a.jpeg",
               "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
