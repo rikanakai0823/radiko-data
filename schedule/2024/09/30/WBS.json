@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1727202128",
+    "srvtime": "1727288528",
     "stations": {
       "station": {
         "-id": "WBS",
@@ -35,11 +35,30 @@
               }
             },
             {
-              "-id": "10570690",
+              "-id": "10589402",
               "-ft": "20240930051000",
               "-to": "20240930052000",
               "-ftl": "0510",
               "-tol": "0520",
+              "-dur": "600",
+              "title": "今日は何の日！？",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/69ec63c0-e322-4583-904e-9c9c2439a931.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10589403",
+              "-ft": "20240930052000",
+              "-to": "20240930053000",
+              "-ftl": "0520",
+              "-tol": "0530",
               "-dur": "600",
               "title": "ラジオ健康相談(再放送)",
               "failed_record": "0",
@@ -52,39 +71,6 @@
                 "program": {
                   "-id": "P010",
                   "name": "医療"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10570691",
-              "-ft": "20240930052000",
-              "-to": "20240930053000",
-              "-ftl": "0520",
-              "-tol": "0530",
-              "-dur": "600",
-              "title": "わたくしの作文(再放送)",
-              "url": "http://wbs.co.jp/wp/images/sakubun.pdf",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "ts_out_ng": "0",
-              "desc": "県内小中学生の作文を紹介します。",
-              "info": "和歌山放送が開局して間もないころから放送している長寿番組。毎月、県内の小中学校から応募のあった作文を審査し、入選者の作品をアナウンサーが朗読します。毎年３月に年間表彰を行い、各賞をお贈りしています。受賞作品は本人の朗読で４月に放送しています。\n\n<a href=\"http://www.wbs.co.jp/2013/06/21/1016.html\">作文の実施要領・応募はこちらから</a>",
-              "pfm": "北尾博伸、中川智美",
-              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P015",
-                  "name": "教養"
                 }
               },
               "metas": {
@@ -263,30 +249,50 @@
               }
             },
             {
-              "-id": "10570698",
+              "-id": "10589404",
               "-ft": "20240930070000",
-              "-to": "20240930072500",
+              "-to": "20240930071000",
               "-ftl": "0700",
-              "-tol": "0725",
-              "-dur": "1500",
-              "title": "グッデイ！",
+              "-tol": "0710",
+              "-dur": "600",
+              "title": "わたくしの作文(再放送)",
+              "url": "http://wbs.co.jp/wp/images/sakubun.pdf",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "一日のはじまりは、明るく楽しくいきましょう！全国、県内のニュース・交通情報・天気予報を中心に“誰かにはなしたくなるような話題”を織り交ぜながら、朝の忙しい時間に役立つ情報満載でお届けします。きょうもよい一日を･･･｢グッデイ｣　GOOD DAY！<br><br>\n\n▽7：03ニュース<br>\n▽7：07天気予報<br>\n▽7：10お早う！ニュースネットワーク<br>\n",
-              "info": "<br/><br/>\n<a href=\"mailto:oha@wbs.co.jp\">リクエスト・メールはこちらから</a>\n<br/><br/>",
-              "pfm": "平井理弘",
-              "img": "https://program-static.cf.radiko.jp/8ca5f0bb-72dd-47ae-aca2-115b35222a57.jpeg",
+              "desc": "県内小中学生の作文を紹介します。",
+              "info": "和歌山放送が開局して間もないころから放送している長寿番組。毎月、県内の小中学校から応募のあった作文を審査し、入選者の作品をアナウンサーが朗読します。毎年３月に年間表彰を行い、各賞をお贈りしています。受賞作品は本人の朗読で４月に放送しています。\n\n<a href=\"http://www.wbs.co.jp/2013/06/21/1016.html\">作文の実施要領・応募はこちらから</a>",
+              "pfm": "北尾博伸、中川智美",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P015",
+                  "name": "教養"
                 }
               },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10589405",
+              "-ft": "20240930071000",
+              "-to": "20240930072500",
+              "-ftl": "0710",
+              "-tol": "0725",
+              "-dur": "900",
+              "title": "お早う！ニュースネットワーク",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -328,28 +334,58 @@
               }
             },
             {
-              "-id": "10570700",
+              "-id": "10589406",
               "-ft": "20240930073000",
-              "-to": "20240930074500",
+              "-to": "20240930074000",
               "-ftl": "0730",
-              "-tol": "0745",
-              "-dur": "900",
-              "title": "グッデイ！",
+              "-tol": "0740",
+              "-dur": "600",
+              "title": "武田鉄矢、今朝の三枚おろし",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "一日のはじまりは、明るく楽しくいきましょう！全国、県内のニュース・交通情報・天気予報を中心に“誰かにはなしたくなるような話題”を織り交ぜながら、朝の忙しい時間に役立つ情報満載でお届けします。きょうもよい一日を･･･｢グッデイ｣　GOOD DAY！<br><br>",
-              "info": "<br/><br/>\n<a href=\"mailto:oha@wbs.co.jp\">リクエスト・メールはこちらから</a>\n<br/><br/>",
-              "pfm": "平井理弘",
-              "img": "https://program-static.cf.radiko.jp/8ca5f0bb-72dd-47ae-aca2-115b35222a57.jpeg",
+              "desc": "温かさと厳しさを併せ持つ武田鉄矢が毎週テーマに添ってさまざまな語りを展開します。",
+              "pfm": "武田鉄矢",
+              "img": "https://program-static.cf.radiko.jp/39936805-3fb0-4994-9f01-2719560eecaa.png",
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C002",
+                  "name": "俳優"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10589407",
+              "-ft": "20240930074000",
+              "-to": "20240930074500",
+              "-ftl": "0740",
+              "-tol": "0745",
+              "-dur": "300",
+              "title": "マエオカテツヤの千客万来！",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "desc": "漫画家のマエオカテツヤが素敵なお店や会社を訪問。スタッフとの楽しいやり取りでお得な情報をお届けします。",
+              "pfm": "マエオカテツヤ",
+              "img": "https://program-static.cf.radiko.jp/467e78f5-8395-44d1-9e31-96318be2bf1c.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -392,30 +428,19 @@
               }
             },
             {
-              "-id": "10570702",
+              "-id": "10589408",
               "-ft": "20240930075000",
-              "-to": "20240930084000",
+              "-to": "20240930075600",
               "-ftl": "0750",
-              "-tol": "0840",
-              "-dur": "3000",
-              "title": "グッデイ！",
+              "-tol": "0756",
+              "-dur": "360",
+              "title": "耳よりラジオ",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "一日のはじまりは、明るく楽しくいきましょう！全国、県内のニュース・交通情報・天気予報を中心に“誰かにはなしたくなるような話題”を織り交ぜながら、朝の忙しい時間に役立つ情報満載でお届けします。きょうもよい一日を･･･｢グッデイ｣　GOOD DAY！<br><br>\n\n▽7：56交通情報<br>\n▽8：00日本全国８時です<br>\n▽8：15ニュース<br>\n▽8：20交通情報<br>\n▽8：33天気予報<br>\n▽8：35交通情報<br>\n▽8：37レースガイド<br>",
-              "info": "<br/><br/>\n<a href=\"mailto:oha@wbs.co.jp\">リクエスト・メールはこちらから</a>\n<br/><br/>",
-              "pfm": "平井理弘",
-              "img": "https://program-static.cf.radiko.jp/8ca5f0bb-72dd-47ae-aca2-115b35222a57.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
+              "desc": "朝のひととき、音楽に乗せて生活情報をお届けする番組です。",
+              "pfm": "中川智美",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -424,29 +449,17 @@
               }
             },
             {
-              "-id": "10570703",
-              "-ft": "20240930084000",
-              "-to": "20240930085000",
-              "-ftl": "0840",
-              "-tol": "0850",
-              "-dur": "600",
-              "title": "武田鉄矢、今朝の三枚おろし",
+              "-id": "10589409",
+              "-ft": "20240930075600",
+              "-to": "20240930080000",
+              "-ftl": "0756",
+              "-tol": "0800",
+              "-dur": "240",
+              "title": "交通情報",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "温かさと厳しさを併せ持つ武田鉄矢が毎週テーマに添ってさまざまな語りを展開します。",
-              "pfm": "武田鉄矢",
-              "img": "https://program-static.cf.radiko.jp/39936805-3fb0-4994-9f01-2719560eecaa.png",
-              "genre": {
-                "personality": {
-                  "-id": "C002",
-                  "name": "俳優"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -455,29 +468,17 @@
               }
             },
             {
-              "-id": "10570704",
-              "-ft": "20240930085000",
-              "-to": "20240930085500",
-              "-ftl": "0850",
-              "-tol": "0855",
-              "-dur": "300",
-              "title": "マエオカテツヤの千客万来！",
+              "-id": "10589410",
+              "-ft": "20240930080000",
+              "-to": "20240930081500",
+              "-ftl": "0800",
+              "-tol": "0815",
+              "-dur": "900",
+              "title": "日本全国８時です",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "漫画家のマエオカテツヤが素敵なお店や会社を訪問。スタッフとの楽しいやり取りでお得な情報をお届けします。",
-              "pfm": "マエオカテツヤ",
-              "img": "https://program-static.cf.radiko.jp/467e78f5-8395-44d1-9e31-96318be2bf1c.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -486,31 +487,21 @@
               }
             },
             {
-              "-id": "10570705",
-              "-ft": "20240930085500",
+              "-id": "10589411",
+              "-ft": "20240930081500",
               "-to": "20240930104900",
-              "-ftl": "0855",
+              "-ftl": "0815",
               "-tol": "1049",
-              "-dur": "6840",
+              "-dur": "9240",
               "title": "ボックス",
               "url": "http://wbs-radio.com/box/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "desc": "和歌山放送の朝は、いろんな話題がボックスから飛び出す！月曜日は笠野衣美・引本孝之（新宮支局）が担当です。<br/>\n９時台<br/>\n▽ニュース・天気・交通情報<br>\n▽快適生活ラジオショッピング<br>\n▽和歌山県警察のコーナー<br>\n▽話の広場<br>\n▽新宮市広報タイム<br>\n▽暮らしの保健室<br>\n\n１０時台<br/>\n▽ニュース・引本孝之のお天気ダイヤル・交通情報<br>\n▽快適生活ラジオショッピング<br>\n▽紀南とっておきインフォメーション<br>\n▽紀北の話題<br>\n▽パーフェクト釣り情報<br>",
+              "desc": "和歌山放送の朝は、いろんな話題がボックスから飛び出す！月曜日は笠野衣美・引本孝之（新宮支局）が担当です。<br/>\n\n8時台<br/>\n▽ニュース・天気・交通情報<br>\n\n9時台<br/>\n▽ニュース・天気・交通情報<br>\n▽快適生活ラジオショッピング<br>\n▽和歌山県警察のコーナー<br>\n▽話の広場<br>\n▽新宮市広報タイム<br>\n▽暮らしの保健室<br>\n\n10時台<br/>\n▽ニュース・引本孝之のお天気ダイヤル・交通情報<br>\n▽快適生活ラジオショッピング<br>\n▽紀南とっておきインフォメーション<br>\n▽紀北の話題<br>\n▽パーフェクト釣り情報<br>",
               "info": "<br/><br/>\n<a href=\"mailto:am@wbs.co.jp\">リクエスト・メールはこちらから</a>\n<br/><br/>\n<a href=\"http://wbs-radio.com/box/\">番組ブログはこちらから</a>\n<br/><br/>\ntwitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23wbsradio\">#wbsradio</a>」「#wbsボックス」\n<br/>\ntwitterアカウントは「<a href=\"http://twitter.com/wbsradio\">@wbsradio</a>」",
               "pfm": "笠野衣美、引本孝之",
               "img": "https://program-static.cf.radiko.jp/fe10e564-f3cc-4167-95fc-2bf8dd62fc81.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
               "metas": {
                 "meta": [
                   {
@@ -531,12 +522,12 @@
               "-ftl": "1049",
               "-tol": "1054",
               "-dur": "300",
-              "title": "早苗の耳よりラジオ",
+              "title": "耳よりラジオ",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "desc": "朝のひととき、音楽に乗せて生活情報をお届けする番組です。",
-              "pfm": "鶴岡早苗",
+              "pfm": "中川智美",
               "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
               "genre": {
                 "personality": {
@@ -670,7 +661,6 @@
               "ts_out_ng": "0",
               "desc": "毎週月曜日から金曜日まで県内の食料・農業・ＪＡについての様々な情報を発信しています。",
               "info": "<br/><br/>\n<a href=\"http://www.ja-gp-wakayama.or.jp/information/\">ＪＡグループ和歌山の番組情報ホームページはこちらから</a>\n<br/><br/>",
-              "pfm": "野々村邦夫、小田川和彦",
               "img": "https://program-static.cf.radiko.jp/dfdd94d4-c3f9-4992-83dc-7e3d38a4dc2f.png",
               "genre": {
                 "program": {
@@ -936,12 +926,31 @@
               }
             },
             {
-              "-id": "10570720",
+              "-id": "10589412",
               "-ft": "20240930125000",
-              "-to": "20240930150000",
+              "-to": "20240930130000",
               "-ftl": "1250",
+              "-tol": "1300",
+              "-dur": "600",
+              "title": "ミュージックスケッチ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10589413",
+              "-ft": "20240930130000",
+              "-to": "20240930150000",
+              "-ftl": "1300",
               "-tol": "1500",
-              "-dur": "7800",
+              "-dur": "7200",
               "title": "服部直樹の全開！月曜日",
               "url": "http://tsunagaru.sblo.jp/",
               "failed_record": "0",
@@ -1298,12 +1307,6 @@
               "ts_out_ng": "0",
               "pfm": "坂口愛美",
               "img": "https://program-static.cf.radiko.jp/4095799e-68e2-4353-9328-a8cb3f0a8369.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1312,13 +1315,13 @@
               }
             },
             {
-              "-id": "10570733",
+              "-id": "10589414",
               "-ft": "20240930190000",
               "-to": "20240930193000",
               "-ftl": "1900",
               "-tol": "1930",
               "-dur": "1800",
-              "title": "ボクたちのODO",
+              "title": "CHRISTMAS SHOWROOM",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
@@ -1453,7 +1456,7 @@
               "ts_out_ng": "0",
               "desc": "<a href=\"http://www.joqr.co.jp/reco/\">ホームページはこちらから</a>\n<br/>\nパーソナリティーが、これからくる!というものを、あらゆるジャンルにわたって紹介!!<br>次はこのインディーズ!この芸人!この店のアイテム!<br>あのゲームの攻略法!話題のコンサートへ!感動の映画! etc...。\n\n<br/><br/>",
               "info": "<br/><br/>\n<a href=\"mailto:reco@joqr.net\">リクエスト・メールはこちらから</a>\n<br/><br/>",
-              "pfm": "駒木根葵汰",
+              "pfm": "駒木根葵汰、timelesz",
               "img": "https://program-static.cf.radiko.jp/b660d634-f1cb-476b-9d44-ef3aa827ef0a.png",
               "metas": {
                 "meta": {
