@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1727288528",
+    "srvtime": "1727374927",
     "stations": {
       "station": {
         "-id": "WBS",
@@ -441,6 +441,16 @@
               "desc": "朝のひととき、音楽に乗せて生活情報をお届けする番組です。",
               "pfm": "中川智美",
               "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -460,6 +470,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -502,6 +518,16 @@
               "info": "<br/><br/>\n<a href=\"mailto:am@wbs.co.jp\">リクエスト・メールはこちらから</a>\n<br/><br/>\n<a href=\"http://wbs-radio.com/box/\">番組ブログはこちらから</a>\n<br/><br/>\ntwitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23wbsradio\">#wbsradio</a>」「#wbsボックス」\n<br/>\ntwitterアカウントは「<a href=\"http://twitter.com/wbsradio\">@wbsradio</a>」",
               "pfm": "小田川和彦",
               "img": "https://program-static.cf.radiko.jp/fe10e564-f3cc-4167-95fc-2bf8dd62fc81.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -936,6 +962,12 @@
               "ts_in_ng": "0",
               "ts_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
