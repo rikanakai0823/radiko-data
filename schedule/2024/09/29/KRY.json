@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1727114370",
+    "srvtime": "1727460670",
     "stations": {
       "station": {
         "-id": "KRY",
@@ -723,25 +723,73 @@
               }
             },
             {
-              "-id": "10567578",
+              "-id": "10596582",
               "-ft": "20240929180000",
-              "-to": "20240929200000",
+              "-to": "20240929185500",
               "-ftl": "1800",
-              "-tol": "2000",
-              "-dur": "7200",
-              "title": "中四国ライブネット",
+              "-tol": "1855",
+              "-dur": "3300",
+              "title": "ポンコツラジオ～ともに認知症を知ろう",
               "failed_record": "0",
               "ts_in_ng": "0",
               "ts_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/a5fl5rioeb.jpg",
+              "img": "https://program-static.cf.radiko.jp/057a66d0-a4f4-4ade-875a-d20809fb8326.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10596583",
+              "-ft": "20240929185500",
+              "-to": "20240929190000",
+              "-ftl": "1855",
+              "-tol": "1900",
+              "-dur": "300",
+              "title": "ベストミュージックコレクションジャパン",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/1avp3z1acs.jpg",
               "genre": {
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
                 },
                 "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10596584",
+              "-ft": "20240929190000",
+              "-to": "20240929200000",
+              "-ftl": "1900",
+              "-tol": "2000",
+              "-dur": "3600",
+              "title": "ベストミュージックコレクションジャパン",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "ts_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/1avp3z1acs.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {

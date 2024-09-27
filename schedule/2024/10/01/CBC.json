@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1727373570",
+    "srvtime": "1727460025",
     "stations": {
       "station": {
         "-id": "CBC",
@@ -449,6 +449,16 @@
               "ts_out_ng": "0",
               "info": "この時間は、最新のニュースと天気予報をお伝えします。",
               "img": "https://program-static.cf.radiko.jp/70d81ba7-a179-4302-91e8-ad16442c5aae.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
