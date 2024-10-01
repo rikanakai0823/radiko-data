@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1727720526",
+    "srvtime": "1727806926",
     "stations": {
       "station": {
         "-id": "MRO",
@@ -367,6 +367,17 @@
               "tsplus_out_ng": "0",
               "info": "7:40 MROニュース<br/>7:45 交通情報<br/>7:50 天気予報",
               "img": "https://program-static.cf.radiko.jp/18eeb630-2ab7-47d5-b8a7-627c02d46c61.jpeg",
+              "tag": {
+                "item": {
+                  "name": "朝のニュースを効率良く"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -388,8 +399,8 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "全国ネットで日替わりコメンテーターとともにニュースを深堀り、最新トレンドをキャッチ。",
-              "pfm": "森本毅郎 遠藤泰子",
+              "desc": "気になるニュースの深堀コラム。水曜は、世界がわかる国際コラム!",
+              "pfm": "森本毅郎 遠藤泰子 伊藤芳明",
               "img": "https://program-static.cf.radiko.jp/f26d300d-ed39-43ba-8d3c-0bbe4afc6762.jpeg",
               "genre": {
                 "personality": {
@@ -424,6 +435,17 @@
               "desc": "皆さんの健康に役立つ耳寄りな情報を毎日お届けしています。<br/>",
               "pfm": "秋本和美",
               "img": "https://program-static.cf.radiko.jp/bea5b596-9f0a-4925-82af-72c49a22b0a3.jpeg",
+              "tag": {
+                "item": {
+                  "name": "情報"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P017",
+                  "name": "健康"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -534,6 +556,17 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/d48d399c-b176-4dc0-9aaf-fcf50a4ec9b4.jpeg",
+              "tag": {
+                "item": {
+                  "name": "音楽との出会いが楽しめる"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -555,6 +588,17 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/088d67f5-efb7-4aa7-a194-3d290e2ce468.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ニュース"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -569,7 +613,7 @@
               "-ftl": "1005",
               "-tol": "1100",
               "-dur": "3300",
-              "title": "あさ＊ダッシュ！",
+              "title": "あさ＊ダッシュ!",
               "url": "http://www.mro.co.jp/radio/asa/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -601,6 +645,17 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/ac23afc6-a4b8-4cf8-8540-aa5ff5f35606.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ニュース"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -615,7 +670,7 @@
               "-ftl": "1105",
               "-tol": "1140",
               "-dur": "2100",
-              "title": "あさ＊ダッシュ！",
+              "title": "あさ＊ダッシュ!",
               "url": "http://www.mro.co.jp/radio/asa/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -642,10 +697,10 @@
               "-dur": "1200",
               "title": "テレフォン人生相談",
               "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
+              "ts_in_ng": "2",
+              "tsplus_in_ng": "2",
+              "ts_out_ng": "2",
+              "tsplus_out_ng": "2",
               "pfm": "加藤諦三 今井通子 柴田理恵 玉置妙憂 田中ウルヴェ京",
               "img": "https://program-static.cf.radiko.jp/1030064b-58b4-4b7f-a160-c2a946ab280e.jpeg",
               "tag": {
@@ -770,10 +825,15 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/553a7967-e7fb-433a-8b78-267d38ed62f0.jpeg",
+              "tag": {
+                "item": {
+                  "name": "音楽との出会いが楽しめる"
+                }
+              },
               "genre": {
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -859,6 +919,17 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/296cfafa-0602-496b-844d-0a333130b446.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ニュース"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -883,6 +954,17 @@
               "info": "14:20 シゴトのツボ<br/>14:40 しりとりクエスト",
               "pfm": "加藤裕 川瀬裕子",
               "img": "https://program-static.cf.radiko.jp/f9b925ba-e174-46f7-ac6d-e65103594691.jpeg",
+              "tag": {
+                "item": {
+                  "name": "大平まさひこ"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -904,6 +986,17 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/088d67f5-efb7-4aa7-a194-3d290e2ce468.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ニュース"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -928,6 +1021,17 @@
               "info": "15:05 いしかわお天気ネット<br/>15:40 ナイスですね。白山市",
               "pfm": "加藤裕 川瀬裕子",
               "img": "https://program-static.cf.radiko.jp/f9b925ba-e174-46f7-ac6d-e65103594691.jpeg",
+              "tag": {
+                "item": {
+                  "name": "大平まさひこ"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -950,6 +1054,17 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/ac23afc6-a4b8-4cf8-8540-aa5ff5f35606.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ニュース"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1353,7 +1468,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "松任中学校の同級生だった、ぶんぶんボウル。学校の廊下の片隅で毎度毎度の休み時間に、ただただおしゃべりしていた二人の世界をラジオで繰り広げます",
-              "pfm": "まーし(ぶんぶんボウル) とよしげ(ぶんぶんボウル)",
+              "pfm": "ぶんぶんボウル(まーし とよしげ)",
               "img": "https://program-static.cf.radiko.jp/249c9c69-5d90-4727-a743-09eb129259c6.jpeg",
               "genre": {
                 "personality": {
@@ -1389,6 +1504,16 @@
               "desc": "新旧洋邦ジャンルを問わずGOOD MUSICをパーソナリティが日替わりで毎日10曲以上お送りするオトナの音楽番組です。",
               "pfm": "岸谷香",
               "img": "https://program-static.cf.radiko.jp/6f1e12de-02bc-43ff-bd34-9762770bcc6e.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1413,6 +1538,16 @@
               "desc": "Z世代の「好き」にもっと寄り添い、「好き」を拡げるレコメンド番組です！",
               "pfm": "矢吹奈子 永瀬廉(King & Prince)",
               "img": "https://program-static.cf.radiko.jp/40393be4-a178-40af-bf1e-0dfc350cc52c.png",
+              "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
