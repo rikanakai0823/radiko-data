@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1727806405",
+    "srvtime": "1727892073",
     "stations": {
       "station": {
         "-id": "FMF",
@@ -310,36 +310,63 @@
               }
             },
             {
-              "-id": "10582503",
+              "-id": "10624113",
               "-ft": "20241006084500",
-              "-to": "20241006085500",
+              "-to": "20241006090000",
               "-ftl": "0845",
-              "-tol": "0855",
-              "-dur": "600",
-              "title": "Salvage Music",
-              "url": "http://park.gsj.mobi/program/show/35012",
+              "-tol": "0900",
+              "-dur": "900",
+              "title": "わくわくお届け便",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/b43674e1-562e-4047-a7ff-885792e528fc_sq.jpg\" height=\"60\" width=\"60\" alt=\"板井麻衣子\"></td>  </tr></table><br /><br />\t洋楽、邦楽を問わず、これぞ名盤！という１枚をご紹介。<br />今回は、1983年にリリースされた　New Orderのセカンドアルバム「Power, Corruption & Lies　権力の美学」をサルベージします。 <br /><br />\t番組Webサイト：<a href=\"http://park.gsj.mobi/program/show/35012\">http://park.gsj.mobi/program/show/35012</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/salvage/message\">https://form.audee.jp/salvage/message</a><br /><br /></div>",
-              "pfm": "板井麻衣子",
-              "img": "https://program-static.cf.radiko.jp/6m3efqgghm.jpg",
+              "info": "<div class=\"station_content_description \">\t--- <br /><br /><br /></div>",
+              "img": "https://program-static.cf.radiko.jp/gel8nps1dl.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10624114",
+              "-ft": "20241006090000",
+              "-to": "20241006093000",
+              "-ftl": "0900",
+              "-tol": "0930",
+              "-dur": "1800",
+              "title": "Little Glee Monster　「Join Us！」",
+              "url": "https://audee.jp/program/show/300009092",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\tLittle Glee Monsterの６人が「出会い」をテーマに、ゲストの方や、いまラジオを聴いているリスナーと「Join Us」していくプログラム。<br /><br />メンバーそれぞれが今、興味があること・モノ、会いたい人や発信したいことなどを通して、新たな「出会い」をリスナーにもシェアします。<br />番組を通して、音楽面だけでない新たなリトグリを発見していきます。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/300009092\">https://audee.jp/program/show/300009092</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/joinus/message\">https://form.audee.jp/joinus/message</a><br /><br /></div>",
+              "img": "https://program-static.cf.radiko.jp/sskljebc3p.jpg",
               "tag": {
                 "item": [
                   {
-                    "name": "板井麻衣子"
+                    "name": "音楽との出会いが楽しめる"
                   },
                   {
-                    "name": "JFN"
+                    "name": "人気アーティストトーク"
                   }
                 ]
               },
               "genre": {
                 "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
+                  "-id": "C004",
+                  "name": "ミュージシャン"
                 },
                 "program": {
                   "-id": "P005",
@@ -354,82 +381,12 @@
               }
             },
             {
-              "-id": "10582504",
-              "-ft": "20241006085500",
-              "-to": "20241006090000",
-              "-ftl": "0855",
-              "-tol": "0900",
-              "-dur": "300",
-              "title": "ふくしまFMニュース",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\tニュース <br /><br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/gel8nps1dl.jpg",
-              "tag": {
-                "item": {
-                  "name": "天気"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10582505",
-              "-ft": "20241006090000",
-              "-to": "20241006093000",
-              "-ftl": "0900",
-              "-tol": "0930",
-              "-dur": "1800",
-              "title": "鈴木愛理のEasy To Smile",
-              "url": "https://audee.jp/program/show/57664",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t鈴木愛理のキュートな魅力たっぷりの30分！<br />歌手、女優、モデルと多方面で活躍中の鈴木愛理！<br />そんな彼女の素顔を惹き出しながら、鈴木愛理の愛らしい魅力を音楽とトークでより深く全国のリスナーへお届け！<br />こんな時代だからこそ、リスナーの毎日がスマイルでいっぱいになる、そんな番組を目指します。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/57664\">https://audee.jp/program/show/57664</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/easy/message\">https://form.audee.jp/easy/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%A4%E3%82%B8%E3%82%B9%E3%83%9E\">#イジスマ</a>」<br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/u0zoazbpfi.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
               "-id": "10582506",
               "-ft": "20241006093000",
-              "-to": "20241006095500",
+              "-to": "20241006100000",
               "-ftl": "0930",
-              "-tol": "0955",
-              "-dur": "1500",
+              "-tol": "1000",
+              "-dur": "1800",
               "title": "Da-iCEの大野雄大ッス！supported by BOAT RACE",
               "url": "https://www.tfm.co.jp/six/",
               "failed_record": "0",
@@ -437,7 +394,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t５人組男性アーティスト「Da-iCE」のメンバーで、ソロとしても活躍する大野雄大。<br />仕事の話はもちろん、料理・釣りなどの趣味、今考えているあんなことやこんなこと、時にはゲストを迎えながら、大野雄大ワールド全開のお喋りをお届けする初のソロラジオ番組！<br />大野雄大のありのままを知ることができる25分間です。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/six/\">https://www.tfm.co.jp/six/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/six/message\">https://www.tfm.co.jp/f/six/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%80%E3%82%A4%E3%83%83%E3%82%B9\">#ダイッス</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/DaiCE_Ohno_tfm\">@DaiCE_Ohno_tfm</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \">\t５人組男性アーティスト「Da-iCE」のメンバーで、ソロとしても活躍する大野雄大。<br />仕事の話はもちろん、料理・釣りなどの趣味、今考えているあんなことやこんなこと、時にはゲストを迎えながら、大野雄大ワールド全開のお喋りをお届けする初のソロラジオ番組！<br />大野雄大のありのままを知ることができる25分間です。 <br /><br />\t▽09:55〜 【 ふくしまFM MUSIC SELECT 】<br/>ふくしまFMパーソナリティが、新旧洋邦問わず”おすすめの１曲\"をお届けします。<br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/six/\">https://www.tfm.co.jp/six/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/six/message\">https://www.tfm.co.jp/f/six/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%80%E3%82%A4%E3%83%83%E3%82%B9\">#ダイッス</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/DaiCE_Ohno_tfm\">@DaiCE_Ohno_tfm</a>」<br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/gpcwmg12wh.jpg",
               "tag": {
                 "item": [
@@ -457,43 +414,6 @@
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10582507",
-              "-ft": "20241006095500",
-              "-to": "20241006100000",
-              "-ftl": "0955",
-              "-tol": "1000",
-              "-dur": "300",
-              "title": "ふくしまFMニュース",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t県内のニュースをお届けします <br /><br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/gel8nps1dl.jpg",
-              "tag": {
-                "item": {
-                  "name": "天気"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -564,7 +484,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/941211a3-91b5-40d3-8fc4-dd28d54c8185_sq.jpg\" height=\"60\" width=\"60\" alt=\"皆藤愛子\"></td>  </tr></table><br /><br />\t▽10:55〜 【 ふくしまFMインフォメーション 】<br/>インフォメーション<br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/madocafe/\">https://www.tfm.co.jp/madocafe/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/madocafe/index.php?catid=3429\">https://www.tfm.co.jp/madocafe/index.php?catid=3429</a><br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/941211a3-91b5-40d3-8fc4-dd28d54c8185_sq.jpg\" height=\"60\" width=\"60\" alt=\"皆藤愛子\"></td>  </tr></table><br /><br />\t▽10:55〜 【 ふくしまFM MUSIC SELECT 】<br/>ふくしまFMパーソナリティが、新旧洋邦問わず”おすすめの１曲\"をお届けします。<br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/madocafe/\">https://www.tfm.co.jp/madocafe/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/madocafe/index.php?catid=3429\">https://www.tfm.co.jp/madocafe/index.php?catid=3429</a><br /><br /></div>",
               "pfm": "皆藤愛子",
               "img": "https://program-static.cf.radiko.jp/6cjsgssnuf.jpg",
               "genre": {
@@ -778,8 +698,8 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/dd6043c3-22e2-46a0-89b4-3188701827ed_sq.jpg\" height=\"60\" width=\"60\" alt=\"秋元康\"></td>  </tr></table><br /><br />\t「全国にはまだまだ様々な素材が眠っている。<br />JFN37局のラジオの力をあわせて、地元で光る、人、モノ、コト、食べ物などの情報を集め、その素材をプロデュース、<br />そして全国のラジオリスナーに再提示する装置を創ろう！<br />秋元康自身が全国のラジオから寄せられた様々な「まだ見ぬ宝」を掘り起こしプロデュース！<br />番組で展開する複数のプロジェクトは、いったい今後どうなっていくのか？ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/iikotokiita/\">https://www.tfm.co.jp/iikotokiita/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/iikotokiita/form/\">https://www.tfm.co.jp/iikotokiita/form/</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%84%E3%81%84%E3%81%93%E3%81%A8%E8%81%B4%E3%81%84%E3%81%9F\">#いいこと聴いた</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/iikoto_kiita\">@iikoto_kiita</a>」<br /><br /></div>",
-              "pfm": "秋元康",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/dd6043c3-22e2-46a0-89b4-3188701827ed_sq.jpg\" height=\"60\" width=\"60\" alt=\"秋元康\"></td>  </tr></table><br /><br />\t「おいしいもの会議」後編！<br /><br />今週は、先週に引き続き、中井美穂さんと共に、<br />おいしいものに常にアンテナを張り巡らしている「食の3賢人」<br />マッキー牧元さん、秋山具義さん、フォーリンデブはっしーさんをお迎えし、<br />半期に一度の「おいしいもの会議」をお送りします。<br /><br />メモのご準備をお忘れなく！<br />放送をお楽しみに！ <br /><br />\t本日のゲスト：\t\t中井美穂\t<br />\t<br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/iikotokiita/\">https://www.tfm.co.jp/iikotokiita/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/iikotokiita/form/\">https://www.tfm.co.jp/iikotokiita/form/</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%84%E3%81%84%E3%81%93%E3%81%A8%E8%81%B4%E3%81%84%E3%81%9F\">#いいこと聴いた</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/iikoto_kiita\">@iikoto_kiita</a>」<br /><br /></div>",
+              "pfm": "秋元康 ゲスト: 中井美穂",
               "img": "https://program-static.cf.radiko.jp/qmkl34kpbk.jpg",
               "tag": {
                 "item": [
@@ -914,10 +834,10 @@
             {
               "-id": "10582517",
               "-ft": "20241006155000",
-              "-to": "20241006155500",
+              "-to": "20241006160000",
               "-ftl": "1550",
-              "-tol": "1555",
-              "-dur": "300",
+              "-tol": "1600",
+              "-dur": "600",
               "title": "ルートインホテルズ presents とっておきここだけの旅～ここ旅～",
               "url": "https://www.tfm.co.jp/kokotabi/",
               "failed_record": "0",
@@ -925,7 +845,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/116f2540-119c-4043-b962-18a08824edb8_sq.jpg\" height=\"60\" width=\"60\" alt=\"野呂佳代\"></td>  </tr></table><br /><br />\t地域に根差した全国各地のパーソナリティが<br />とっておきのここだけの旅を提案する番組。<br />あなたにとってのとっておきの旅もきっと見つかるはず。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/kokotabi/\">https://www.tfm.co.jp/kokotabi/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/kokotabi/message\">https://www.tfm.co.jp/f/kokotabi/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%93%E3%81%93%E6%97%85\">#ここ旅</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/kokotabi_tfm\">@kokotabi_tfm</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/116f2540-119c-4043-b962-18a08824edb8_sq.jpg\" height=\"60\" width=\"60\" alt=\"野呂佳代\"></td>  </tr></table><br /><br />\t地域に根差した全国各地のパーソナリティが<br />とっておきのここだけの旅を提案する番組。<br />あなたにとってのとっておきの旅もきっと見つかるはず。 <br /><br />\t▽15:55〜 【 ふくしまFM MUSIC SELECT 】<br/>ふくしまFMパーソナリティが、新旧洋邦問わず”おすすめの１曲\"をお届けします。<br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/kokotabi/\">https://www.tfm.co.jp/kokotabi/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/kokotabi/message\">https://www.tfm.co.jp/f/kokotabi/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%93%E3%81%93%E6%97%85\">#ここ旅</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/kokotabi_tfm\">@kokotabi_tfm</a>」<br /><br /></div>",
               "pfm": "野呂佳代",
               "img": "https://program-static.cf.radiko.jp/zgf9czno1g.jpg",
               "tag": {
@@ -941,43 +861,6 @@
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10582518",
-              "-ft": "20241006155500",
-              "-to": "20241006160000",
-              "-ftl": "1555",
-              "-tol": "1600",
-              "-dur": "300",
-              "title": "ふくしまFMインフォメーション",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t県内のお天気、交通情報をお届けします <br /><br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/gel8nps1dl.jpg",
-              "tag": {
-                "item": {
-                  "name": "天気"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
                 }
               },
               "metas": {
@@ -1240,12 +1123,56 @@
               }
             },
             {
-              "-id": "10582525",
+              "-id": "10624115",
               "-ft": "20241006220000",
-              "-to": "20241006230000",
+              "-to": "20241006223000",
               "-ftl": "2200",
+              "-tol": "2230",
+              "-dur": "1800",
+              "title": "cross-dominance MUSIC TOURIST",
+              "url": "https://audee.jp/program/show/300009091",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/5c90d1f5-b811-47a7-882e-77b90f25571c_sq.jpg\" height=\"60\" width=\"60\" alt=\"cross-dominance\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/8decb71c-7568-4267-87e2-f9f3b63c2eef_sq.jpg\" height=\"60\" width=\"60\" alt=\"Ryo 'LEFTY' Miyata\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/91a74b2a-e41d-4f67-a65e-5ecbcf994317_sq.jpg\" height=\"60\" width=\"60\" alt=\"CARTOON\"></td>  </tr></table><br /><br />\t春から夏にかけてJFN系列でオンエアしていた特別番組がついにレギュラーに！<br />今週は、特番で登場してくれたOfficial髭男dism、<br />そしてsumikaのダイジェストをお届け。<br /><br />音楽作りだけではなく、日々の生活にも役立つ、<br />大切な言葉が詰まったインタビュー、<br />ぜひお聴き逃しなく。<br /><br />音楽活動をするみなさんからの音源も待っています。<br />シンガー、バンドマン、合唱部、吹奏楽やオーケストラ、<br />伝統楽器などなどなんでもOK！<br /><br />ひょっとすると、一緒に作品を作れるかも？<br />メッセージフォームからぜひお送りください！<br /><br />番組の感想やメッセージはXでもぜひ。<br />「＃ミュージックツーリスト」をつけてポスト待ってます。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/300009091\">https://audee.jp/program/show/300009091</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/musictourist/message\">https://form.audee.jp/musictourist/message</a><br /><br /></div>",
+              "pfm": "cross-dominance / Ryo 'LEFTY' Miyata / CARTOON",
+              "img": "https://program-static.cf.radiko.jp/uifcycy1z2.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽プロデューサー出演"
+                  },
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10624116",
+              "-ft": "20241006223000",
+              "-to": "20241006230000",
+              "-ftl": "2230",
               "-tol": "2300",
-              "-dur": "3600",
+              "-dur": "1800",
               "title": "Actors -life&music-",
               "url": "https://audee.jp/program/show/300007716",
               "failed_record": "0",
@@ -1253,7 +1180,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\tこの番組は俳優にフォーカス。月替わりで役者の方々に出演していただき、今を時めく役者たちが、ラジオ越しに \"ありのままの素顔とその生き方\"をお披露目します <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/300007716\">https://audee.jp/program/show/300007716</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/actors/message\">https://form.audee.jp/actors/message</a><br /><br /></div>",
+              "info": "<div class=\"station_content_description \">\tこの番組は俳優にフォーカス。月替わりで役者の方々に出演していただき、今を時めく役者たちが、ラジオ越しに \"ありのままの素顔とその生き方\"をお披露目します <br /><br />\t▽22:55〜 【 ふくしまFMニュース 】<br/>---<br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/300007716\">https://audee.jp/program/show/300007716</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/actors/message\">https://form.audee.jp/actors/message</a><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/w1v80h2y3f.jpg",
               "tag": {
                 "item": {
