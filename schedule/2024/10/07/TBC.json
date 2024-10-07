@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1727978472",
+    "srvtime": "1728324002",
     "stations": {
       "station": {
         "-id": "TBC",
@@ -595,10 +595,10 @@
             {
               "-id": "10613318",
               "-ft": "20241007165500",
-              "-to": "20241007175900",
+              "-to": "20241007181500",
               "-ftl": "1655",
-              "-tol": "1759",
-              "-dur": "3840",
+              "-tol": "1815",
+              "-dur": "4800",
               "title": "ｔｂｃ　Ｔｏｄａｙ",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -624,31 +624,139 @@
               }
             },
             {
-              "-id": "10613319",
-              "-ft": "20241007175900",
-              "-to": "20241007210000",
-              "-ftl": "1759",
-              "-tol": "2100",
-              "-dur": "10860",
-              "title": "ｔｂｃ　ＰＯＷＥＲＦＵＬ　ＢＡＳＥＢＡＬＬ　 楽天×日本ハム（楽天モバイルパーク）",
-              "url": "http://www.tbc-sendai.co.jp/rakuten/index.html",
+              "-id": "10648489",
+              "-ft": "20241007181500",
+              "-to": "20241007184500",
+              "-ftl": "1815",
+              "-tol": "1845",
+              "-dur": "1800",
+              "title": "坂本サトル  ひとりの時間。",
+              "url": "http://www.sakamotosatoru.com",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "pfm": "解説：大塚孝二　 実況：松尾武",
-              "img": "https://program-static.cf.radiko.jp/d9d81e28-725e-49b2-9b7d-730453a86ba5.jpeg",
+              "pfm": "坂本サトル",
+              "img": "https://program-static.cf.radiko.jp/b055149c-335d-4d5f-b45f-5d72dbd33ff6.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10648490",
+              "-ft": "20241007184500",
+              "-to": "20241007190000",
+              "-ftl": "1845",
+              "-tol": "1900",
+              "-dur": "900",
+              "title": "みんなの音楽室",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/5294150a-6ffd-416a-ad23-50ce7136534e.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10648491",
+              "-ft": "20241007190000",
+              "-to": "20241007193000",
+              "-ftl": "1900",
+              "-tol": "1930",
+              "-dur": "1800",
+              "title": "アナログタロウ　痛快！アナログヒッパレ～",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "pfm": "アナログタロウ",
+              "img": "https://program-static.cf.radiko.jp/ivlmytygfk.jpg",
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C009",
+                  "name": "芸人"
                 },
                 "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10648492",
+              "-ft": "20241007193000",
+              "-to": "20241007203000",
+              "-ftl": "1930",
+              "-tol": "2030",
+              "-dur": "3600",
+              "title": "ミュージック白書～Artist History～",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/e9545491-ec10-4605-b247-7b8c457eba73.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10648493",
+              "-ft": "20241007203000",
+              "-to": "20241007204500",
+              "-ftl": "2030",
+              "-tol": "2045",
+              "-dur": "900",
+              "title": "けっぱって東北の好きっちゃ！ふるさとーく",
+              "url": "https://www.tbc-sendai.co.jp/keppatte/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "pfm": "けっぱって東北",
+              "img": "https://program-static.cf.radiko.jp/05a06818-aca2-405c-acab-76451966b224.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10648494",
+              "-ft": "20241007204500",
+              "-to": "20241007210000",
+              "-ftl": "2045",
+              "-tol": "2100",
+              "-dur": "900",
+              "title": "tbc-radio What's new！",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/4c763ec9-87e4-4282-af82-f36289a62934.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
