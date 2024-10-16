@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1729016527",
+    "srvtime": "1729102927",
     "stations": {
       "station": {
         "-id": "KBC",
@@ -65,12 +65,34 @@
               }
             },
             {
-              "-id": "10665035",
+              "-id": "10691360",
               "-ft": "20241021053000",
-              "-to": "20241021063000",
+              "-to": "20241021060000",
               "-ftl": "0530",
+              "-tol": "0600",
+              "-dur": "1800",
+              "title": "この時間はラジオのみで放送しています",
+              "url": "https://kbc.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/19d8fa63-0656-401c-b363-ea37daff1905.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10691361",
+              "-ft": "20241021060000",
+              "-to": "20241021063000",
+              "-ftl": "0600",
               "-tol": "0630",
-              "-dur": "3600",
+              "-dur": "1800",
               "title": "あさモニ",
               "url": "https://kbc.co.jp/radio/",
               "failed_record": "0",
@@ -81,11 +103,6 @@
               "info": "FAX 092-722-4242<br/>mail：<a href=\"mailto:asamoni@kbc.co.jp\">asamoni@kbc.co.jp</a><br/>",
               "pfm": "加藤恭子",
               "img": "https://program-static.cf.radiko.jp/83fa2f29-a9f6-447b-bf80-6c074797ca77.png",
-              "tag": {
-                "item": {
-                  "name": "気分転換におすすめ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
