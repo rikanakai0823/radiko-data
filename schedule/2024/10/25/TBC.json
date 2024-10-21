@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1729362127",
+    "srvtime": "1729534928",
     "stations": {
       "station": {
         "-id": "TBC",
@@ -419,10 +419,43 @@
             {
               "-id": "10676393",
               "-ft": "20241025120000",
-              "-to": "20241025160000",
+              "-to": "20241025140000",
               "-ftl": "1200",
+              "-tol": "1400",
+              "-dur": "7200",
+              "title": "ラジオな気分フライデー２",
+              "url": "http://www.tbc-sendai.co.jp/02radio/frida-friday/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "pfm": "石川太郎　塩入未央",
+              "img": "https://program-static.cf.radiko.jp/249b3656-f41f-4317-a7c5-50c7a9ca958a.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10715207",
+              "-ft": "20241025140000",
+              "-to": "20241025160000",
+              "-ftl": "1400",
               "-tol": "1600",
-              "-dur": "14400",
+              "-dur": "7200",
               "title": "ラジオな気分フライデー２",
               "url": "http://www.tbc-sendai.co.jp/02radio/frida-friday/",
               "failed_record": "0",

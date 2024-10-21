@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1729448467",
+    "srvtime": "1729534927",
     "stations": {
       "station": {
         "-id": "RNB",
@@ -1184,7 +1184,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "番組はラジオの中の音楽室。\n<br>一緒に“音楽”で繫がる場所を作っていきましょう！",
+              "desc": "番組はラジオの中の音楽室。\n<br>一緒に“音楽”でがる場所を作っていきましょう！",
               "pfm": "坂口愛美",
               "img": "https://program-static.cf.radiko.jp/837a5e5b-4283-453c-b6d0-d32f5c487ad6.jpeg",
               "genre": {
@@ -1275,30 +1275,67 @@
               }
             },
             {
-              "-id": "10673695",
+              "-id": "10715065",
               "-ft": "20241021210000",
-              "-to": "20241021220000",
+              "-to": "20241021215000",
               "-ftl": "2100",
+              "-tol": "2150",
+              "-dur": "3000",
+              "title": "政見放送",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "tsplus_in_ng": "2",
+              "ts_out_ng": "2",
+              "tsplus_out_ng": "2",
+              "desc": "10/27投開票の第50回衆議院議員総選挙に向け、愛媛地区の政見放送をお届けする。",
+              "img": "https://program-static.cf.radiko.jp/fb54f033-b22b-48b7-bd34-e3f9dfc366d2.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10715066",
+              "-ft": "20241021215000",
+              "-to": "20241021220000",
+              "-ftl": "2150",
               "-tol": "2200",
-              "-dur": "3600",
-              "title": "さだまさし １時の鬼の魔酔い",
-              "url": "https://www.tokairadio.co.jp/kinomayoi/",
+              "-dur": "600",
+              "title": "南海クラシックス１０",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "2022年秋に、さだまさしレコードデビュー50周年記念番組として東海ラジオローカルでスタートした“深夜番組”が全国各地いろんな時間で放送中！\n<br>お昼の放送でも、夕方の放送でも、夜の放送でも、この番組は”深夜放送”。\n<br>ミュージシャンさだまさしの「おしゃべりの無法地帯」を一緒に楽しみましょう。",
-              "pfm": "さだまさし",
-              "img": "https://program-static.cf.radiko.jp/864891a7-e054-43e4-bac9-39e3bbc2b383.jpeg",
+              "desc": "南海放送レコードライブラリーから名曲を厳選。",
+              "info": "<br>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23rnb1116\">#rnb1116</a>」<br>facebookページは「<a href='https://www.facebook.com/official.rnb.co.jp'>https://www.facebook.com/official.rnb.co.jp</a>」",
+              "img": "https://program-static.cf.radiko.jp/gsx4b4pcxg.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "サクッと短時間で聴ける"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
