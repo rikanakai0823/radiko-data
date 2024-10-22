@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1729534402",
+    "srvtime": "1729620071",
     "stations": {
       "station": {
         "-id": "AFM",
@@ -1334,12 +1334,50 @@
               }
             },
             {
-              "-id": "10683708",
+              "-id": "10720290",
               "-ft": "20241027200000",
-              "-to": "20241027205500",
+              "-to": "20241027203000",
               "-ftl": "2000",
+              "-tol": "2030",
+              "-dur": "1800",
+              "title": "JFN衆議院選挙特別番組　開票スペシャル",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/b33abbbc-825a-4c32-b3df-520d83819409_sq.jpg\" height=\"60\" width=\"60\" alt=\"櫻井彩乃\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/f4b819a7-8cd1-4c34-9d24-499ffb7fbae7_sq.jpg\" height=\"60\" width=\"60\" alt=\"村田睦\"></td>  </tr></table><br /><br />\t--- <br /><br /><br /></div>",
+              "pfm": "櫻井彩乃 / 村田睦",
+              "img": "https://program-static.cf.radiko.jp/owqcrv4p9j.jpg",
+              "tag": {
+                "item": {
+                  "name": "衆院選"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10720291",
+              "-ft": "20241027203000",
+              "-to": "20241027205500",
+              "-ftl": "2030",
               "-tol": "2055",
-              "-dur": "3300",
+              "-dur": "1500",
               "title": "有吉弘行のSUNDAY NIGHT DREAMER",
               "url": "http://www.jfn.jp/dreamer/",
               "failed_record": "0",
@@ -1486,121 +1524,25 @@
               }
             },
             {
-              "-id": "10683712",
+              "-id": "10720292",
               "-ft": "20241027220000",
-              "-to": "20241027225500",
+              "-to": "20241027233000",
               "-ftl": "2200",
-              "-tol": "2255",
-              "-dur": "3300",
-              "title": "SPITZ 草野マサムネのロック大陸漫遊記",
-              "url": "https://www.tfm.co.jp/manyuki/",
+              "-tol": "2330",
+              "-dur": "5400",
+              "title": "JFN衆議院選挙特別番組～私の選択、その先に",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/efbd59a2-4b2f-460b-836f-9211e8b450ec_sq.jpg\" height=\"60\" width=\"60\" alt=\"草野マサムネ\"></td>  </tr></table><br /><br />\tスピッツ・草野マサムネが、ラジオを乗り物に音楽を地図代わりに「ロック大陸」を旅する１時間。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/manyuki/\">https://www.tfm.co.jp/manyuki/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/manyuki/index.php?catid=3348\">https://www.tfm.co.jp/manyuki/index.php?catid=3348</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%AD%E3%83%83%E3%82%AF%E5%A4%A7%E9%99%B8%E6%BC%AB%E9%81%8A%E8%A8%98\">#ロック大陸漫遊記</a>」<br /><br /></div>",
-              "pfm": "草野マサムネ",
-              "img": "https://program-static.cf.radiko.jp/cm6g3mgd6o.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "SPITZ"
-                  },
-                  {
-                    "name": "草野マサムネ"
-                  },
-                  {
-                    "name": "音楽との出会いが楽しめる"
-                  },
-                  {
-                    "name": "人気アーティストトーク"
-                  },
-                  {
-                    "name": "気分転換におすすめ"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10683713",
-              "-ft": "20241027225500",
-              "-to": "20241027230000",
-              "-ftl": "2255",
-              "-tol": "2300",
-              "-dur": "300",
-              "title": "AFMニュース",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t全国のニュースをお伝えします。 <br /><br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/hnrkn2mpkv.jpg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/8c729ac9-407f-495f-91c7-52aeadb44573_sq.jpg\" height=\"60\" width=\"60\" alt=\"萱野稔人\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/b33abbbc-825a-4c32-b3df-520d83819409_sq.jpg\" height=\"60\" width=\"60\" alt=\"櫻井彩乃\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/f4b819a7-8cd1-4c34-9d24-499ffb7fbae7_sq.jpg\" height=\"60\" width=\"60\" alt=\"村田睦\"></td>  </tr></table><br /><br />\t--- <br /><br /><br /></div>",
+              "pfm": "萱野稔人 / 櫻井彩乃 / 村田睦",
+              "img": "https://program-static.cf.radiko.jp/owqcrv4p9j.jpg",
               "tag": {
                 "item": {
-                  "name": "天気"
+                  "name": "衆院選"
                 }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10683714",
-              "-ft": "20241027230000",
-              "-to": "20241027233000",
-              "-ftl": "2300",
-              "-tol": "2330",
-              "-dur": "1800",
-              "title": "鈴木敏夫のジブリ汗まみれ",
-              "url": "https://www.tfm.co.jp/asemamire/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/ad4e4748-1c9c-42cd-ba62-21fb8f73f72d_sq.jpg\" height=\"60\" width=\"60\" alt=\"鈴木敏夫\"></td>  </tr></table><br /><br />\tスタジオジブリプロデューサー・鈴木敏夫の隠れ家「れんが屋」からお届け！ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/asemamire/\">https://www.tfm.co.jp/asemamire/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/asemamire/form/index.html\">https://www.tfm.co.jp/asemamire/form/index.html</a><br /> <br /> Xアカウントは「<a href=\"http://twitter.com/renga_ya\">@renga_ya</a>」<br /><br /></div>",
-              "pfm": "鈴木敏夫",
-              "img": "https://program-static.cf.radiko.jp/si0ap8ptr1.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "鈴木敏夫"
-                  },
-                  {
-                    "name": "ジブリ"
-                  }
-                ]
               },
               "genre": {
                 "personality": {
@@ -1608,8 +1550,8 @@
                   "name": "文化人"
                 },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
