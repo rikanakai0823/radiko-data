@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1729620070",
+    "srvtime": "1729706408",
     "stations": {
       "station": {
         "-id": "RKB",
@@ -1065,6 +1065,21 @@
               "desc": "地域の交通情報をお届けします",
               "info": "RKBラジオ公式twitterアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
               "img": "https://program-static.cf.radiko.jp/ee8aa7a6-19f9-4c8b-8493-977b1c14e559.jpeg",
+              "tag": {
+                "item": {
+                  "name": "交通情報"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1136,6 +1151,16 @@
               "tsplus_out_ng": "0",
               "info": "RKBラジオ公式twitterアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
               "img": "https://program-static.cf.radiko.jp/4cecdcfc-b260-4120-9925-36915f4e4af8.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1161,6 +1186,16 @@
               "info": "音楽通のふたりの、音楽にとことんこだわるプログラム。<br />コロナ禍でなかなかライブに行けない今、“がめ煮”的にお届けするManyTunesで、フェス気分をお楽しみください。<br /><br />RKBラジオ公式Ｘアカウントは「@rkbr_info」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
               "pfm": "深町健二郎・坂口カンナ",
               "img": "https://program-static.cf.radiko.jp/95751711-ee47-4cc3-b009-8d483909f68e.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "人気アーティストトーク"
+                  }
+                ]
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
