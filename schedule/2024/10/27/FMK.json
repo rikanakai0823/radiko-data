@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1729879876",
+    "srvtime": "1729966276",
     "stations": {
       "station": {
         "-id": "FMK",
@@ -1847,7 +1847,16 @@
               "tsplus_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/3955kk61un.jpg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
@@ -2188,10 +2197,10 @@
               "-dur": "10800",
               "title": "放送休止",
               "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
+              "ts_in_ng": "2",
+              "tsplus_in_ng": "2",
+              "ts_out_ng": "2",
+              "tsplus_out_ng": "2",
               "info": "<div class=\"station_content_description \">\t放送休止期間です <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/224966ec-d539-4b1d-a97c-d75c9d3c654f.jpeg",
               "genre": {
