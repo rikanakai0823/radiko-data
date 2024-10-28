@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1730053327",
+    "srvtime": "1730139726",
     "stations": {
       "station": {
         "-id": "RKB",
@@ -772,10 +772,10 @@
             {
               "-id": "10698657",
               "-ft": "20241028190000",
-              "-to": "20241028200000",
+              "-to": "20241028193000",
               "-ftl": "1900",
-              "-tol": "2000",
-              "-dur": "3600",
+              "-tol": "1930",
+              "-dur": "1800",
               "title": "二丁目お茶の間劇場（２）",
               "url": "https://rkb.jp/radio/ocha/",
               "failed_record": "0",
@@ -796,6 +796,46 @@
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10745277",
+              "-ft": "20241028193000",
+              "-to": "20241028200000",
+              "-ftl": "1930",
+              "-tol": "2000",
+              "-dur": "1800",
+              "title": "今晩は 吉永小百合です",
+              "url": "https://www.tbsradio.jp/y-sayuri/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "今や日本を代表する女優吉永小百合・唯一のレギュラー番組です。やさしく親しみやすい語り口で、他では聞けないパーソナルトークを繰り広げます。定期的に企画するゲストとの対談も聞きものです。",
+              "info": "「近況報告」最近の旅行話から日常の所感まで、まさに吉永小百合の今が聞けます。<br /><br />「テーマトーク」旅、映画、音楽、スポーツ、食と毎回テーマを定めて語ります。<br /><br />「ゲスト対談」様々なジャンルで活躍するビッグゲストとの対談です。<br /><br />RKBラジオ公式Ｘアカウントは「@rkbr_info」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
+              "pfm": "吉永小百合",
+              "img": "https://program-static.cf.radiko.jp/774590b1-e7ee-4a7a-ad9b-9bf9e32aab43.jpeg",
+              "tag": {
+                "item": {
+                  "name": "吉永小百合"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
                 },
                 "program": {
                   "-id": "P007",
