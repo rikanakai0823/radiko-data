@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1732644670",
+    "srvtime": "1732731083",
     "stations": {
       "station": {
         "-id": "MRO",
@@ -1526,10 +1526,10 @@
             {
               "-id": "10840580",
               "-ft": "20241126220000",
-              "-to": "20241127000000",
+              "-to": "20241126235800",
               "-ftl": "2200",
-              "-tol": "2400",
-              "-dur": "7200",
+              "-tol": "2358",
+              "-dur": "7080",
               "title": "オールナイトニッポンMUSIC10",
               "url": "https://www.allnightnippon.com/m10/",
               "failed_record": "0",
@@ -1548,6 +1548,39 @@
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10885560",
+              "-ft": "20241126235800",
+              "-to": "20241127000000",
+              "-ftl": "2358",
+              "-tol": "2400",
+              "-dur": "120",
+              "title": "能登地方震度5弱 地震情報",
+              "url": "http://www.mro.co.jp/news/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/088d67f5-efb7-4aa7-a194-3d290e2ce468.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ニュース"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1732644060",
+    "srvtime": "1732730401",
     "stations": {
       "station": {
         "-id": "JOHK",
@@ -1271,10 +1271,10 @@
             {
               "-id": "10846712",
               "-ft": "20241126220000",
-              "-to": "20241126225500",
+              "-to": "20241126224800",
               "-ftl": "2200",
-              "-tol": "2255",
-              "-dur": "3300",
+              "-tol": "2248",
+              "-dur": "2880",
               "title": "ＮＨＫジャーナル",
               "url": "https://www.nhk.jp/p/nhkjournal/rs/L6ZQ2NX1NL/",
               "failed_record": "0",
@@ -1293,34 +1293,13 @@
               }
             },
             {
-              "-id": "10846713",
-              "-ft": "20241126225500",
-              "-to": "20241126230000",
-              "-ftl": "2255",
-              "-tol": "2300",
-              "-dur": "300",
-              "title": "ニュース・気象情報（東北）",
-              "failed_record": "0",
-              "ts_in_ng": "2",
-              "tsplus_in_ng": "2",
-              "ts_out_ng": "2",
-              "tsplus_out_ng": "2",
-              "img": "https://program-static.cf.radiko.jp/f0ebd75f-7ac4-4263-90a5-27ccbc6f3bf0.png",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10846714",
-              "-ft": "20241126230000",
-              "-to": "20241126230500",
-              "-ftl": "2300",
-              "-tol": "2305",
-              "-dur": "300",
-              "title": "ニュース",
+              "-id": "10885745",
+              "-ft": "20241126224800",
+              "-to": "20241126232000",
+              "-ftl": "2248",
+              "-tol": "2320",
+              "-dur": "1920",
+              "title": "ニュース「石川県で震度５弱」関連",
               "url": "https://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "2",
@@ -1336,21 +1315,43 @@
               }
             },
             {
-              "-id": "10846715",
-              "-ft": "20241126230500",
+              "-id": "10885746",
+              "-ft": "20241126232000",
+              "-to": "20241126233000",
+              "-ftl": "2320",
+              "-tol": "2330",
+              "-dur": "600",
+              "title": "ニュース「石川県で震度５弱」関連",
+              "url": "https://www.nhk.or.jp/radionews/",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "tsplus_in_ng": "2",
+              "ts_out_ng": "2",
+              "tsplus_out_ng": "2",
+              "img": "https://program-static.cf.radiko.jp/f0ebd75f-7ac4-4263-90a5-27ccbc6f3bf0.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10885747",
+              "-ft": "20241126233000",
               "-to": "20241127000000",
-              "-ftl": "2305",
+              "-ftl": "2330",
               "-tol": "2400",
-              "-dur": "3300",
-              "title": "ラジオ深夜便▽深夜便ぶんか部　▽インタビュー",
+              "-dur": "1800",
+              "title": "ラジオ深夜便▽深夜便ぶんか部",
               "url": "https://www.nhk.jp/p/shinyabin/rs/V34XVV71R2/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "tsplus_in_ng": "2",
               "ts_out_ng": "2",
               "tsplus_out_ng": "2",
-              "info": "▽深夜便ぶんか部 ▽インタビュー<br><br>▽深夜便ぶんか部「縄文夜話」 ▽インタビュー「日本とジョージアの架け橋を目指して」 ▽天気概況・明日の日の出",
-              "pfm": "【アンカー】須磨佳津江，【出演】縄文研究者…岡村道雄，駐日ジョージア大使…ティムラズレジャバ，【きき手】恩蔵憲一",
+              "info": "▽深夜便ぶんか部<br><br>▽深夜便ぶんか部 「縄文夜話」 ▽天気概況・明日の日の出",
+              "pfm": "【アンカー】須磨佳津江，【出演】縄文研究者…岡村道雄",
               "img": "https://program-static.cf.radiko.jp/rfesqd0foj.jpg",
               "metas": {
                 "meta": {
