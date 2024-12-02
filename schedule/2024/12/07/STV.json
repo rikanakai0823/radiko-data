@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1733076798",
+    "srvtime": "1733163140",
     "stations": {
       "station": {
         "-id": "STV",
@@ -26,6 +26,11 @@
               "info": "Xハッシュタグ：#stvradio<br/>Xアカウント：@stvradio",
               "pfm": "坪井木の実",
               "img": "https://program-static.cf.radiko.jp/lia1vnrzqp.jpg",
+              "tag": {
+                "item": {
+                  "name": "サクッと短時間で聴ける"
+                }
+              },
               "genre": {
                 "program": {
                   "-id": "P016",
@@ -217,6 +222,12 @@
               "tsplus_out_ng": "0",
               "info": "Xハッシュタグ：#stvradio<br/>Xアカウント：@stvradio",
               "img": "https://program-static.cf.radiko.jp/451f314c-2a84-4762-9f84-84f5f168be9e.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -334,6 +345,12 @@
               "tsplus_out_ng": "0",
               "info": "Xハッシュタグ：#stvradio<br/>Xアカウント：@stvradio",
               "img": "https://program-static.cf.radiko.jp/451f314c-2a84-4762-9f84-84f5f168be9e.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -507,6 +524,26 @@
               "info": "gtm@stv.jp<br/>Xハッシュタグ：#stvradio<br/>Xアカウント：@stvradio",
               "pfm": "内山よしこ",
               "img": "https://program-static.cf.radiko.jp/aa783ab5-1837-45d8-8ffc-48c168b55a8e.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "作業がはかどる"
+                  },
+                  {
+                    "name": "ドライブ中におすすめ"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -720,6 +757,21 @@
               "info": "メール：ru@stv.jp<br/>Xハッシュタグ：#ラジウエ #stvradio<br/>Xアカウント：@stvradio<br/>",
               "pfm": "上杉周大",
               "img": "https://program-static.cf.radiko.jp/f78f99b1-28c2-4093-9187-3ecdd7c1ed2b.png",
+              "tag": {
+                "item": {
+                  "name": "人気アーティストトーク"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -745,6 +797,21 @@
               "info": "メール：ru@stv.jp<br/>Xハッシュタグ：#ラジウエ #stvradio<br/>Xアカウント：@stvradio<br/>",
               "pfm": "上杉周大",
               "img": "https://program-static.cf.radiko.jp/f78f99b1-28c2-4093-9187-3ecdd7c1ed2b.png",
+              "tag": {
+                "item": {
+                  "name": "人気アーティストトーク"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -935,6 +1002,11 @@
               "info": "メール：sp@stv.jp<br/>Xハッシュタグ：#stvradio<br/>Xアカウント：@stvradio",
               "pfm": "しろっぷ　じゅんぺい　ひろし",
               "img": "https://program-static.cf.radiko.jp/4e18a691-50a4-459b-bca5-59cc2143e84a.jpeg",
+              "tag": {
+                "item": {
+                  "name": "お笑い芸人の最強トーク"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C009",
@@ -970,6 +1042,11 @@
               "info": "メール：sp@stv.jp<br/>Xハッシュタグ：#stvradio<br/>Xアカウント：@stvradio",
               "pfm": "しろっぷ　じゅんぺい　ひろし",
               "img": "https://program-static.cf.radiko.jp/4e18a691-50a4-459b-bca5-59cc2143e84a.jpeg",
+              "tag": {
+                "item": {
+                  "name": "お笑い芸人の最強トーク"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C009",
@@ -1033,7 +1110,7 @@
               "-ftl": "2700",
               "-tol": "2900",
               "-dur": "7200",
-              "title": "オールナイトニッポン０(ZERO)",
+              "title": "原因は自分にある。のオールナイトニッポン０(ZERO)",
               "url": "https://www.allnightnippon.com/zero-sat/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -1041,7 +1118,8 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "info": "Xハッシュタグ：#stvradio<br/>Xアカウント：@stvradio",
-              "img": "https://program-static.cf.radiko.jp/451f314c-2a84-4762-9f84-84f5f168be9e.jpeg",
+              "pfm": "原因は自分にある。",
+              "img": "https://program-static.cf.radiko.jp/d3bc4547-5687-492f-a566-abd14e8fbd44.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C008",

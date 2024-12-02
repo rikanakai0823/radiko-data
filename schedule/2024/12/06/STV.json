@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1732990924",
+    "srvtime": "1733163723",
     "stations": {
       "station": {
         "-id": "STV",
@@ -26,6 +26,11 @@
               "info": "Xハッシュタグ：#stvradio<br/>Xアカウント：@stvradio",
               "pfm": "坪井木の実",
               "img": "https://program-static.cf.radiko.jp/lia1vnrzqp.jpg",
+              "tag": {
+                "item": {
+                  "name": "サクッと短時間で聴ける"
+                }
+              },
               "genre": {
                 "program": {
                   "-id": "P016",
@@ -249,9 +254,17 @@
               "pfm": "奈良まなみ",
               "img": "https://program-static.cf.radiko.jp/bf13b385-f098-4d65-874c-de6b08b516d9.jpeg",
               "tag": {
-                "item": {
-                  "name": "音楽との出会いが楽しめる"
-                }
+                "item": [
+                  {
+                    "name": "ドライブ中におすすめ"
+                  },
+                  {
+                    "name": "気分転換におすすめ"
+                  },
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -328,6 +341,21 @@
               "info": "メール：hiru@stv.jp<br/>Xハッシュタグ：#stvradio<br/>Xアカウント：@stvradio",
               "pfm": "木村洋二　田付美帆",
               "img": "https://program-static.cf.radiko.jp/cc4c3221-bec3-4b26-888e-023b27052807.jpeg",
+              "tag": {
+                "item": {
+                  "name": "サクッと短時間で聴ける"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -427,6 +455,11 @@
               "desc": "その日に起こった最新の話題を中心に、幅広い分野にわたってニュースを紹介します。",
               "info": "Xハッシュタグ：#stvradio<br/>Xアカウント：@stvradio",
               "img": "https://program-static.cf.radiko.jp/bda79a92-1b38-4481-bfed-a02898620b83.jpeg",
+              "tag": {
+                "item": {
+                  "name": "政治・経済を学べる"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -497,6 +530,16 @@
               "info": "メール：live@stv.jp<br/>Xハッシュタグ：#stvradio<br/>Xアカウント：@stvradio",
               "pfm": "吉川のりお　田村みなみ",
               "img": "https://program-static.cf.radiko.jp/3018f9e5-89b4-4566-9ba2-c0ad95a32483.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
