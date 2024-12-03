@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1733076798",
+    "srvtime": "1733249536",
     "stations": {
       "station": {
         "-id": "RSK",
@@ -554,10 +554,10 @@
             {
               "-id": "10903096",
               "-ft": "20241207123000",
-              "-to": "20241207140000",
+              "-to": "20241207124500",
               "-ftl": "1230",
-              "-tol": "1400",
-              "-dur": "5400",
+              "-tol": "1245",
+              "-dur": "900",
               "title": "国司と新田の土曜番長",
               "url": "http://www.rsk.co.jp/radio/doyou/",
               "failed_record": "0",
@@ -586,76 +586,11 @@
               }
             },
             {
-              "-id": "10903097",
-              "-ft": "20241207140000",
-              "-to": "20241207143000",
-              "-ftl": "1400",
-              "-tol": "1430",
-              "-dur": "1800",
-              "title": "Ｊ－ＰＯＰパラダイス９０’ｓ",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "　　",
-              "pfm": "DJ BLUE",
-              "img": "https://program-static.cf.radiko.jp/3be13539-0ce4-40ca-859d-c88b3fdc12a5.png",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10903098",
-              "-ft": "20241207143000",
-              "-to": "20241207144500",
-              "-ftl": "1430",
-              "-tol": "1445",
-              "-dur": "900",
-              "title": "ドラマってムジカ",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "　　",
-              "img": "https://program-static.cf.radiko.jp/5ecdb121-451f-4fc3-9be5-b33a26297d7f.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C005",
-                  "name": "男性声優"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "10903099",
-              "-ft": "20241207144500",
-              "-to": "20241207150000",
-              "-ftl": "1445",
-              "-tol": "1500",
+              "-id": "10912392",
+              "-ft": "20241207124500",
+              "-to": "20241207130000",
+              "-ftl": "1245",
+              "-tol": "1300",
               "-dur": "900",
               "title": "ピックアップラジオショッピング",
               "failed_record": "0",
@@ -665,6 +600,41 @@
               "tsplus_out_ng": "0",
               "desc": "　　",
               "img": "https://program-static.cf.radiko.jp/5ecdb121-451f-4fc3-9be5-b33a26297d7f.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10912393",
+              "-ft": "20241207130000",
+              "-to": "20241207150000",
+              "-ftl": "1300",
+              "-tol": "1500",
+              "-dur": "7200",
+              "title": "ファジアーノ岡山　実況中継",
+              "url": "https://www.rsk.co.jp/radio/radio_fagiano/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "ファジアーノ岡山　ｖｓ　ベガルタ仙台",
+              "info": "この番組はradikoエリアフリーとタイムフリーでは配信していません。",
+              "pfm": "実況・坂俊介（ＲＳＫアナウンサー）\r\n解説・椋原健太・中尾孝司",
+              "img": "https://program-static.cf.radiko.jp/373a7824-b9ba-47bc-9a5f-ddcc29cdb840.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
