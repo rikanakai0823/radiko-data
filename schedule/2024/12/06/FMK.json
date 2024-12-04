@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1733249535",
+    "srvtime": "1733335255",
     "stations": {
       "station": {
         "-id": "FMK",
@@ -1030,10 +1030,10 @@
             {
               "-id": "10871481",
               "-ft": "20241206160000",
-              "-to": "20241206170000",
+              "-to": "20241206165500",
               "-ftl": "1600",
-              "-tol": "1700",
-              "-dur": "3600",
+              "-tol": "1655",
+              "-dur": "3300",
               "title": "FMK SOUNDS GREAT！",
               "url": "https://fmk.fm/great/",
               "failed_record": "0",
@@ -1052,6 +1052,40 @@
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10921029",
+              "-ft": "20241206165500",
+              "-to": "20241206170000",
+              "-ftl": "1655",
+              "-tol": "1700",
+              "-dur": "300",
+              "title": "くろいさでつながろう「我らくろいさ特派員」",
+              "url": "https://blog.fmk.fm/kuroisa/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/100df39b-87da-4b5a-95a3-f81629f56011_sq.jpg\" height=\"60\" width=\"60\" alt=\"大橋実幸\"></td>  </tr></table><br /><br />\t麹造りに伝統的な黒麹を使用し、華やかな香りと、コクのあるまろやかな口あたりの「黒麹仕込み 黒伊佐錦」。<br />黒伊佐との出会いや思い入れ、どのような場面で飲むかなどをはじめ、黒伊佐に合うオススメのメニューやコースを取材先のお店にご紹介いただきます。 <br /><br />\t番組Webサイト：<a href=\"https://blog.fmk.fm/kuroisa/\">https://blog.fmk.fm/kuroisa/</a><br /><br /></div>",
+              "pfm": "大橋実幸",
+              "img": "https://program-static.cf.radiko.jp/vh68yy3d2r.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
