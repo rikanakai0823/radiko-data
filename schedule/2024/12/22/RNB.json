@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1734372077",
+    "srvtime": "1734458406",
     "stations": {
       "station": {
         "-id": "RNB",
@@ -1148,6 +1148,81 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10978220",
+              "-ft": "20241222203000",
+              "-to": "20241222205500",
+              "-ftl": "2030",
+              "-tol": "2055",
+              "-dur": "1500",
+              "title": "ボートレースライブSG 第39回グランプリ実況中継",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "ボートレースライブSG 第39回グランプリの模様を実況中継！",
+              "img": "https://program-static.cf.radiko.jp/fb54f033-b22b-48b7-bd34-e3f9dfc366d2.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "10978221",
+              "-ft": "20241222205500",
+              "-to": "20241222210000",
+              "-ftl": "2055",
+              "-tol": "2100",
+              "-dur": "300",
+              "title": "南海クラシックス０５",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "南海放送レコードライブラリーから名曲を厳選。",
+              "info": "<br>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23rnb1116\">#rnb1116</a>」<br>facebookページは「<a href='https://www.facebook.com/official.rnb.co.jp'>https://www.facebook.com/official.rnb.co.jp</a>」",
+              "img": "https://program-static.cf.radiko.jp/gsx4b4pcxg.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "サクッと短時間で聴ける"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
                   "-id": "P005",
