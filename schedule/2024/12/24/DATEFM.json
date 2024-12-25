@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1735063261",
+    "srvtime": "1735149652",
     "stations": {
       "station": {
         "-id": "DATEFM",
@@ -1388,6 +1388,21 @@
               "tsplus_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tDate fmから、コンサート・イベント情報をお知らせします。 <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/n27zpxm9jg.jpg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
