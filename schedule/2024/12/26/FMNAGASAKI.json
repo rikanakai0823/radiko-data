@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1735149656",
+    "srvtime": "1735236054",
     "stations": {
       "station": {
         "-id": "FMNAGASAKI",
@@ -495,40 +495,56 @@
               }
             },
             {
-              "-id": "10964689",
+              "-id": "11024074",
               "-ft": "20241226113000",
-              "-to": "20241226115400",
+              "-to": "20241226114500",
               "-ftl": "1130",
-              "-tol": "1154",
-              "-dur": "1440",
-              "title": "Otona no Radio Alexandria",
-              "url": "https://audee.jp/program/show/57661",
+              "-tol": "1145",
+              "-dur": "900",
+              "title": "イマドキショッピング！",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/aa3f5cb4-9f1b-4570-836f-500a727e142f_sq.jpg\" height=\"60\" width=\"60\" alt=\"ロバート・ハリス\"></td>  </tr></table><br /><br />\tロバート・ハリスが送る文化情報発信番組。植物、動物、そして人間の生生流転の中でのストーリー【生き物の物語】、ロバート・ハリスのデイリーエッセイ【SELF PORTRAIT】、過去とイマを繋ぐ名曲たちをオンエアする【大人のサードプレイス】・・・好奇心をくすぐる雑談を添えながら、”様々な生き方”のヒントを共有していきます。 <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/57661\">https://audee.jp/program/show/57661</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/alexandria/message\">https://form.audee.jp/alexandria/message</a><br /><br /></div>",
-              "pfm": "ロバート・ハリス",
-              "img": "https://program-static.cf.radiko.jp/pvlk6loteq.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "音楽との出会いが楽しめる"
-                  },
-                  {
-                    "name": "気分転換におすすめ"
-                  }
-                ]
+              "info": "<div class=\"station_content_description \">\t通販番組 <br /><br /><br /></div>",
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
               },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11024075",
+              "-ft": "20241226114500",
+              "-to": "20241226115400",
+              "-ftl": "1145",
+              "-tol": "1154",
+              "-dur": "540",
+              "title": "Salvage Music",
+              "url": "http://park.gsj.mobi/program/show/35012",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t世の中にはロック、ポップ、Ｒ＆Ｂ、ジャズ、クラシックなど様々なジャンルにおいて、アルバムを１つの作品として評価すべき‟名盤”と呼ばれる１枚が存在します。<br />そこでこの番組では、誰もが認める１枚、埋もれ去られた１枚、時代を映し出した１枚などなどを、洋邦を問わず毎回ピックアップし、アーティスト、そして、その作品を‟salvage”。<br />それら魅力を15分にギュッと凝縮し、お届けしていきます。 <br /><br />\t番組Webサイト：<a href=\"http://park.gsj.mobi/program/show/35012\">http://park.gsj.mobi/program/show/35012</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/salvage/message\">https://form.audee.jp/salvage/message</a><br /><br /></div>",
+              "img": "https://program-static.cf.radiko.jp/gbnri135wd.jpg",
               "genre": {
                 "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
+                  "-id": "C010",
+                  "name": "タレント"
                 },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
