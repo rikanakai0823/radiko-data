@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1735237268",
+    "srvtime": "1735323723",
     "stations": {
       "station": {
         "-id": "SBC",
@@ -113,6 +113,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "朝一番の新鮮な情報（ニュース・天気・交通・スポーツ・芸能）をわかりやすくお届けするとともに、毎日をポジティブに暮らすために必要な、健康情報・生活情報もたっぷりお伝えします。話題の健康法などもいち早くご紹介。朝にふさわしい音楽も！",
+              "pfm": "武内陶子",
               "img": "https://program-static.cf.radiko.jp/lhz5ag14fb.jpg",
               "genre": {
                 "personality": {
@@ -147,6 +148,16 @@
               "desc": "2 人で童謡を歌い始めて43年。これまで歌ってきた日本の童謡唱歌には、日本語の美しさ、季節のうつろい、命のはかなさ…そうした様を歌い綴り、大切にしたい思いがこめられています。安田シスターズは、次の世代に一曲でもそうした日本の大切な歌を残して、「親から子、子から孫へ」歌い継がれることを夢見て活動しています。2025年の幕開けに、童謡唱歌を一緒に口ずさんでみませんか？　",
               "pfm": "由紀さおり /  安田祥子",
               "img": "https://program-static.cf.radiko.jp/d3fd7684-f1a1-4fcf-9102-154ac43b496d.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -540,6 +551,16 @@
               "desc": "令和７年のスタートはずくだせで！「ピッポッパ！年間大賞」「ずくショナリー傑作選！」「ずグラミー賞大賞受賞者ランキング！」などなど、１年の放送を振り返りながら、元日に聴きたいリクエストソングもお送りします～。",
               "pfm": "坂橋克明 /  中澤佳子 /  峯岸悦子",
               "img": "https://program-static.cf.radiko.jp/5e96994d-20a0-49e1-83da-eb6b9de8d689.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -747,6 +768,16 @@
               "desc": "「50年前に沖縄で会った人を探してほしい」。番組に届いた県外からの電話。本土復帰後、沖縄の道路をアメリカ式の右側通行から日本式の左側通行に変更するプロジェクト「７３０」に携わった技術者でした。当時どんな出会いがあったのか。変わった沖縄、変われない沖縄、変わらない沖縄を見つめる特別番組。（ラジオ沖縄制作・2024年日本民間放送連盟賞ラジオグランプリ授賞）",
               "pfm": "「2024年日本民間放送連盟賞ラジオグランプリ授賞」（ラジオ沖縄制作）",
               "img": "https://program-static.cf.radiko.jp/a8e1bf50-2833-4312-9225-153a8ea75dfa.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -770,6 +801,16 @@
               "desc": "手相芸人の島田秀平が送る開運プログラム。巳年の2025年はどのように過ごせば運気がグッと上がるか、島田秀平が分かり易く解説します。左手の手相を見ながらお聴きください。『2025年・開運のヒントに』　",
               "pfm": "島田秀平",
               "img": "https://program-static.cf.radiko.jp/8f3ace4f-4269-4511-b7f3-a7b604e5cdb3.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -916,6 +957,16 @@
               "desc": "巨人の阿部監督が、今シーズンへの思いを語ります！",
               "pfm": "阿部慎之助",
               "img": "https://program-static.cf.radiko.jp/47926fec-fd67-406f-a9f1-2298c99ae5f0.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C013",
+                  "name": "アスリート"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1713,12 +1764,13 @@
               "-tol": "2830",
               "-dur": "5400",
               "title": "笠松将のオールナイトニッポン０（ＺＥＲＯ）",
-              "url": "https://www.allnightnippon.com/",
+              "url": "https://news.1242.com/article/520688",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
+              "desc": "愛知県出身、2013年に本格的に活動を開始し、テレビ・配信ドラマの他、近作では日米合作ドラマに出演するなど国内外で幅広く活躍し、話題と注目を集める笠松将が、オールナイトニッポンに登場！　■メールアドレス：show@allnightnippon.com　■番組X ：@Ann_Since1967　■番組ハッシュタグ：# 笠松将ANN0　",
               "pfm": "笠松将",
               "img": "https://program-static.cf.radiko.jp/191876b0-dcba-4e46-b637-967e4bfa0f7f.jpeg",
               "genre": {
