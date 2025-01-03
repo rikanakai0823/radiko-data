@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1735840859",
+    "srvtime": "1735927261",
     "stations": {
       "station": {
         "-id": "FMT",
@@ -54,35 +54,40 @@
               }
             },
             {
-              "-id": "11014727",
+              "-id": "11058217",
               "-ft": "20250105053000",
               "-to": "20250105055500",
               "-ftl": "0530",
               "-tol": "0555",
               "-dur": "1500",
-              "title": "Laid-Back radio",
-              "url": "https://audee.jp/program/show/300007697",
+              "title": "DIG GIG TOKYO!",
+              "url": "https://audee.jp/program/show/50031",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/be3c31a4-2eea-48b5-8539-9099cf3e7d0d_sq.jpg\" height=\"60\" width=\"60\" alt=\"Aimer\"></td>  </tr></table><br /><br />\tシンガーのAimerが、ラジオを通して、のんびり、ゆったり…。<br />リスナーの皆さんと一緒にひと息つける、そんな時間をお届けします♪<br />お楽しみに！ <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/300007697\">https://audee.jp/program/show/300007697</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/laidback/message\">https://form.audee.jp/laidback/message</a><br /><br /></div>",
-              "pfm": "Aimer",
-              "img": "https://program-static.cf.radiko.jp/6xzv55aehf.jpg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/75609856-d989-4f84-a092-8b478bcd60c6_sq.jpg\" height=\"60\" width=\"60\" alt=\"中川絵美里\"></td>  </tr></table><br /><br />\tライブ、演劇、イベント、映画。<br /> TOKYO FMが発信する様々なジャンルのエンタメ情報をお届け <br /><br />\t番組Webサイト：<a href=\"https://audee.jp/program/show/50031\">https://audee.jp/program/show/50031</a><br /><br /></div>",
+              "pfm": "中川絵美里",
+              "img": "https://program-static.cf.radiko.jp/2b87l2ok1q.jpg",
               "tag": {
-                "item": {
-                  "name": "Aimer"
-                }
+                "item": [
+                  {
+                    "name": "中川絵美里"
+                  },
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
+                  "-id": "C010",
+                  "name": "タレント"
                 },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
