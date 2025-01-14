@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1736791634",
+    "srvtime": "1736877663",
     "stations": {
       "station": {
         "-id": "RNC",
@@ -74,17 +74,9 @@
               "pfm": "野並正佑",
               "img": "https://program-static.cf.radiko.jp/e1976674-7378-4c9e-9997-da170ceb817d.jpeg",
               "tag": {
-                "item": [
-                  {
-                    "name": "政治・経済を学べる"
-                  },
-                  {
-                    "name": "フルイカズキ"
-                  },
-                  {
-                    "name": "飯間将博"
-                  }
-                ]
+                "item": {
+                  "name": "音楽との出会いが楽しめる"
+                }
               },
               "genre": {
                 "personality": {
@@ -778,6 +770,16 @@
               "info": "西日本放送のサウンドライブラリーの中から厳選された楽曲をお楽しみください！",
               "pfm": "岸たけし",
               "img": "https://program-static.cf.radiko.jp/e1976674-7378-4c9e-9997-da170ceb817d.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -844,6 +846,16 @@
               "tsplus_out_ng": "0",
               "info": "天皇盃　全国男子駅伝まもなくスタート",
               "img": "https://program-static.cf.radiko.jp/d2496df3-f4ce-4dc2-8225-c6f5416e9be8.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
