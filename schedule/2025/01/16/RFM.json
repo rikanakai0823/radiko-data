@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1737050399",
+    "srvtime": "1737136796",
     "stations": {
       "station": {
         "-id": "RFM",
@@ -182,6 +182,21 @@
               "tsplus_out_ng": "0",
               "info": "<div class=\"station_content_description \">\t県内ニュースをお伝えします。 <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/bd383171-e46c-4fd1-8751-6bb05e463600.jpeg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
