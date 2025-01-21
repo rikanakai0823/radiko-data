@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1737397324",
+    "srvtime": "1737483664",
     "stations": {
       "station": {
         "-id": "ZIP-FM",
@@ -315,15 +315,20 @@
               "-ftl": "2000",
               "-tol": "2100",
               "-dur": "3600",
-              "title": "SUNDAY EVENING SPECIAL",
+              "title": "SUNDAY EVENING SPECIAL / GORILLA RADIO!",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "毎週日曜日は、アーティストを迎えての1時間の特別プログラム！<br>",
-              "img": "https://program-static.cf.radiko.jp/f43bc43a-1df8-4870-9e00-5d3e3be90303.jpeg",
+              "desc": "毎月最終日曜日の「SUNDAY EVENING SPECIAL」は、[Alexandros]の磯部寛之のナビゲートでお送りする「GORILLA RADIO!」をオンエア!<br>",
+              "pfm": "磯部寛之",
+              "img": "https://program-static.cf.radiko.jp/0c5000d5-060e-46d0-8645-a56c79c3d2b9.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
