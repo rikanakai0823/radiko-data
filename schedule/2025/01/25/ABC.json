@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1737482460",
+    "srvtime": "1737655265",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -485,7 +485,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "メールアドレス：<a href=\"mailto:plus@abc1008.com\">plus@abc1008.com</a><BR><BR><BR>",
+              "info": "ゲスト：佐々木圭一（コピーライター）<BR><BR>発売から１０年以上経った今も売れ続ける<BR>ビジネス書のベストセラー『伝え方が９割』の著者。<BR>人とのコミュニケーションが苦手だった佐々木さんの就職先は広告代理店。<BR>広告のキャッチコピーを一日１００本考えても採用されず、思い悩む日々の中、<BR>ある時「伝える技術」の方式をふと発見し、<BR>それを機に佐々木さんの広告コピーはヒットを連発していきます。<BR>心に刺さるコピーはいったいどうやって作るのかを伝授いただきます。<BR><BR>メールアドレス：<a href=\"mailto:plus@abc1008.com\">plus@abc1008.com</a><BR><BR><BR>",
               "pfm": "浦川泰幸／仲みゆき／ゲスト：佐々木圭一",
               "img": "https://program-static.cf.radiko.jp/2bc2bb2a-1001-4f8b-ba38-e20196a63417.jpeg",
               "tag": {
@@ -1290,12 +1290,13 @@
               "-tol": "2700",
               "-dur": "3600",
               "title": "真夜中のカルチャーＢＯＹ",
-              "url": "https://www.abc1008.com/",
+              "url": "https://abcradio.asahi.co.jp/mayoboy/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
+              "info": "メールアドレス：<a href=\"mailto:mayoboy@abc1008.com\">mayoboy@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23mayoboy\">#mayoboy</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/mayoboy123\">@mayoboy123</a>」<BR><BR><BR>",
               "pfm": "鈴木淳史／ゲスト：ハンバートハンバート",
               "img": "https://program-static.cf.radiko.jp/1a5b56bc-1874-42f5-8076-8aacd64eb5d6.jpeg",
               "tag": {
@@ -1325,10 +1326,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#mayoboy"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:mayoboy123"
+                  }
+                ]
               }
             },
             {
