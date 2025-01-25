@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1737741663",
+    "srvtime": "1737828001",
     "stations": {
       "station": {
         "-id": "HFM",
@@ -472,7 +472,16 @@
               "tsplus_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tHFM番組審議会 <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/004bd0ce-33f2-44b0-bc9f-7969c7c89b96.jpeg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
