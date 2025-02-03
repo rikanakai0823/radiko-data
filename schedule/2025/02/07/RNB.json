@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1738432810",
+    "srvtime": "1738605670",
     "stations": {
       "station": {
         "-id": "RNB",
@@ -1028,9 +1028,13 @@
               "desc": "いまオススメの商品をご紹介！",
               "img": "https://program-static.cf.radiko.jp/2e51ff37-5fae-470a-ad23-61a4f1d3aeba.png",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
