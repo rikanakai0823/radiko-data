@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1738605673",
+    "srvtime": "1738692065",
     "stations": {
       "station": {
         "-id": "RNB",
@@ -601,6 +601,26 @@
               "desc": "南海放送レコードライブラリーから名曲を厳選。",
               "info": "<br>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23rnb1116\">#rnb1116</a>」<br>facebookページは「<a href='https://www.facebook.com/official.rnb.co.jp'>https://www.facebook.com/official.rnb.co.jp</a>」",
               "img": "https://program-static.cf.radiko.jp/gsx4b4pcxg.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "サクッと短時間で聴ける"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -818,8 +838,8 @@
               "img": "https://program-static.cf.radiko.jp/76027255-b139-4061-a6a8-b55fab1c192b.png",
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 },
                 "program": {
                   "-id": "P004",
