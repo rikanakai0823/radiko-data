@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1738692057",
+    "srvtime": "1738864852",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -822,9 +822,17 @@
               "pfm": "高野あさお",
               "img": "https://program-static.cf.radiko.jp/ff0b23bc-61c6-45c2-8600-13e110393e6f.jpeg",
               "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
+                "item": [
+                  {
+                    "name": "快適生活"
+                  },
+                  {
+                    "name": "ABCラジオ"
+                  },
+                  {
+                    "name": "ABCラジオショッピング"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -868,6 +876,16 @@
                     "name": "桂紗綾"
                   }
                 ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
               },
               "metas": {
                 "meta": {
@@ -1534,6 +1552,12 @@
               "tag": {
                 "item": {
                   "name": "ABCラジオ"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {

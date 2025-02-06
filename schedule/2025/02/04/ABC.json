@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1738692057",
+    "srvtime": "1738864850",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -805,9 +805,17 @@
               "pfm": "桑原征平",
               "img": "https://program-static.cf.radiko.jp/8fb8c170-14c4-4997-95bd-5580b5d557c8.jpeg",
               "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
+                "item": [
+                  {
+                    "name": "快適生活"
+                  },
+                  {
+                    "name": "ABCラジオ"
+                  },
+                  {
+                    "name": "ABCラジオショッピング"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -842,6 +850,26 @@
               "tsplus_out_ng": "0",
               "pfm": "桂紗綾",
               "img": "https://program-static.cf.radiko.jp/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "桂紗綾"
+                  },
+                  {
+                    "name": "ABCラジオ"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -873,8 +901,21 @@
                   },
                   {
                     "name": "ABCラジオ"
+                  },
+                  {
+                    "name": "福井治人"
                   }
                 ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
               },
               "metas": {
                 "meta": {
@@ -901,6 +942,12 @@
               "tag": {
                 "item": {
                   "name": "ABCラジオ"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -934,8 +981,21 @@
                   },
                   {
                     "name": "ABCラジオ"
+                  },
+                  {
+                    "name": "福井治人"
                   }
                 ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
               },
               "metas": {
                 "meta": {
@@ -968,8 +1028,21 @@
                   },
                   {
                     "name": "ABCラジオ"
+                  },
+                  {
+                    "name": "福井治人"
                   }
                 ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
               },
               "metas": {
                 "meta": {
@@ -1077,6 +1150,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -1122,6 +1205,16 @@
                     "name": "ツギハギ"
                   }
                 ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
               },
               "metas": {
                 "meta": [
@@ -1169,6 +1262,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -1206,8 +1309,21 @@
                   },
                   {
                     "name": "天才ピアニスト"
+                  },
+                  {
+                    "name": "ABCラジオ"
                   }
                 ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
               },
               "metas": {
                 "meta": [
@@ -1252,6 +1368,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1275,6 +1401,21 @@
               "tsplus_out_ng": "0",
               "pfm": "あばれる君",
               "img": "https://program-static.cf.radiko.jp/0ad3b31a-61ef-43ce-80d6-2387c40766cf.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ABCラジオ"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1466,6 +1607,22 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ABCラジオ"
+                  },
+                  {
+                    "name": "ABCラジオショッピング"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1515,6 +1672,22 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/5c34c9a9-bc85-4459-9b69-e4f1aec1a8d0.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ABCラジオショッピング"
+                  },
+                  {
+                    "name": "ABCラジオ"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
