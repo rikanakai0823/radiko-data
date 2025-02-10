@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1739124005",
+    "srvtime": "1739210408",
     "stations": {
       "station": {
         "-id": "LFR",
@@ -621,7 +621,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "芸能界屈指の熱き野球ファンが、溢れるチーム愛を語る名物番組が、プロ野球ナイター中継ロスを嘆くファンのために今年も帰ってきます！<br><br>「ニッポン放送ショウアップナイター」でもおなじみの煙山光紀アナウンサーが丁々発止のトークバトルを仕切ります。",
+              "desc": "巨人ファンと阪神ファンが大集合！<br>ラジペナ的伝統の一戦クイズバトルを開催！<br>プライドをかけた負けられない戦いに挑みます！！<br><br>生放送ですのであなたからメッセージをお待ちしています！<br>番組の感想やスタジオの増田さん、宮崎さん、せきぐちさんへの質問など何でもOKです！<br>メールは「89@1242.com」<br>Ⅹでは「#ラジオペナントレース」と付けてポストして下さい！<br>番組の中でご紹介させていただきます！",
               "info": "メールアドレス：<br><a href=\"mailto:89@1242.com\">89@1242.com</a><br><br>番組ホームページは<a href=\"https://baseballking.jp/showup\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%B8%E3%82%AA%E3%83%9A%E3%83%8A%E3%83%B3%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B9\">#ラジオペナントレース</a>」twitterアカウントは「<a href=\"http://twitter.com/showup1242\">@showup1242</a>」",
               "pfm": "煙山光紀　ゲスト：ますだおかだ 増田英彦、宮崎瑠依、せきぐちりさ",
               "img": "https://program-static.cf.radiko.jp/yfjiuqzxfj.jpg",
@@ -1033,7 +1033,7 @@
               "-ftl": "2700",
               "-tol": "2900",
               "-dur": "7200",
-              "title": "オールナイトニッポン0(ZERO)",
+              "title": "tricotのオールナイトニッポン0(ZERO)",
               "url": "https://www.allnightnippon.com/zero-sat/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -1041,17 +1041,23 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "土曜も深夜3時からはオールナイトニッポン0(ZERO)！スペシャルなパーソナリティが週替わりで登場します！<br><br>番組は「17LIVE」でも映像付きで楽しむことができます。音声でも映像でもお楽しみください！",
-              "info": "番組ホームページは<a href=\"https://www.allnightnippon.com/zero-sat/\">こちら</a><br><br>twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」",
-              "img": "https://program-static.cf.radiko.jp/83l4ssyvyp.jpg",
+              "info": "メールアドレス：<br><a href=\"mailto:tricot@allnightnippon.com\">tricot@allnightnippon.com</a><br><br>番組ホームページは<a href=\"https://www.allnightnippon.com/zero-sat/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23tricotANN0\">#tricotANN0</a>」twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」",
+              "pfm": "tricot（中嶋イッキュウ、キダ モティフォ、ヒロミ・ヒロヒロ、吉田雄介）",
+              "img": "https://program-static.cf.radiko.jp/wl59d5ekcy.jpg",
               "tag": {
-                "item": {
-                  "name": "オールナイトニッポン0(ZERO)"
-                }
+                "item": [
+                  {
+                    "name": "オールナイトニッポン0(ZERO)"
+                  },
+                  {
+                    "name": "tricotANN0"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
+                  "-id": "C004",
+                  "name": "ミュージシャン"
                 },
                 "program": {
                   "-id": "P007",
@@ -1059,10 +1065,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "from:Ann_Since1967"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#tricotANN0"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:Ann_Since1967"
+                  }
+                ]
               }
             }
           ]
