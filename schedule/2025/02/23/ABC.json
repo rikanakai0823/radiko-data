@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1739901661",
+    "srvtime": "1740060000",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -367,6 +367,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P017",
+                  "name": "健康"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -484,6 +494,12 @@
                   }
                 ]
               },
+              "genre": {
+                "program": {
+                  "-id": "P014",
+                  "name": "落語"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -517,15 +533,25 @@
               "tag": {
                 "item": [
                   {
-                    "name": "#田淵麻里奈"
+                    "name": "#まりなと"
                   },
                   {
-                    "name": "#まりなと"
+                    "name": "#田淵麻里奈"
                   },
                   {
                     "name": "ABCラジオ"
                   }
                 ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
               },
               "metas": {
                 "meta": [
@@ -564,15 +590,25 @@
               "tag": {
                 "item": [
                   {
-                    "name": "#田淵麻里奈"
+                    "name": "#まりなと"
                   },
                   {
-                    "name": "#まりなと"
+                    "name": "#田淵麻里奈"
                   },
                   {
                     "name": "ABCラジオ"
                   }
                 ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
               },
               "metas": {
                 "meta": [
@@ -1010,6 +1046,12 @@
                   "name": "ABCラジオ"
                 }
               },
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -1043,6 +1085,12 @@
               "tag": {
                 "item": {
                   "name": "ABCラジオ"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -1080,6 +1128,12 @@
                   "name": "ABCラジオ"
                 }
               },
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -1113,6 +1167,12 @@
               "tag": {
                 "item": {
                   "name": "ABCラジオ"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -1317,6 +1377,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -1385,6 +1455,12 @@
                     "name": "ABCラジオ"
                   }
                 ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P013",
+                  "name": "経済"
+                }
               },
               "metas": {
                 "meta": {
