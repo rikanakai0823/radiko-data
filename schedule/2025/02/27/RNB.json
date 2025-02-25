@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1740161537",
+    "srvtime": "1740507075",
     "stations": {
       "station": {
         "-id": "RNB",
@@ -100,6 +100,10 @@
               "info": "<br>番組ではあなたからのメッセージを募集しています。<br>ハガキ：〒107-8066　TBSラジオ「おはよう一直線」それぞれの係まで<br>メールアドレス：<a href=mailto:ohayou@tbs.co.jp\">ohayou@tbs.co.jp</a><br>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23ikushima\">#ikushima</a>」<br>facebookページは「<a href='https://www.facebook.com/TBSRadio954905/'>https://www.facebook.com/TBSRadio954905/</a>」",
               "img": "https://program-static.cf.radiko.jp/cc3e8c9c-be65-4cb1-99f5-ba8db040edac.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -752,12 +756,12 @@
               "img": "https://program-static.cf.radiko.jp/0c27573a-92dd-4ed6-ba37-7441371e14e8.jpeg",
               "genre": {
                 "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {

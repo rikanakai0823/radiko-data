@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1740335043",
+    "srvtime": "1740507843",
     "stations": {
       "station": {
         "-id": "RNB",
@@ -128,6 +128,10 @@
               "info": "<br>番組ではあなたからのメッセージを募集しています。<br>ハガキ：〒107-8066　TBSラジオ「おはよう一直線」それぞれの係まで<br>メールアドレス：<a href=mailto:ohayou@tbs.co.jp\">ohayou@tbs.co.jp</a><br>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23ikushima\">#ikushima</a>」<br>facebookページは「<a href='https://www.facebook.com/TBSRadio954905/'>https://www.facebook.com/TBSRadio954905/</a>」",
               "img": "https://program-static.cf.radiko.jp/cc3e8c9c-be65-4cb1-99f5-ba8db040edac.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
@@ -1498,6 +1502,16 @@
               "info": "<br>■メールアドレスww@allnightnippon.com\n■番組X @Ann_Since1967",
               "pfm": "BUDDiiS",
               "img": "https://program-static.cf.radiko.jp/8704413b-3dfc-4501-91b6-4e2e03a6da42.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
