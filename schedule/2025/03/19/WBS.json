@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1742322243",
+    "srvtime": "1742408597",
     "stations": {
       "station": {
         "-id": "WBS",
@@ -283,8 +283,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P015",
-                  "name": "教養"
+                  "-id": "P012",
+                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -763,12 +763,41 @@
               }
             },
             {
-              "-id": "11377960",
+              "-id": "11400482",
               "-ft": "20250319113000",
-              "-to": "20250319133000",
+              "-to": "20250319114000",
               "-ftl": "1130",
-              "-tol": "1330",
-              "-dur": "7200",
+              "-tol": "1140",
+              "-dur": "600",
+              "title": "JAグループアワー",
+              "url": "http://www.ja-gp-wakayama.or.jp/information/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "毎週月曜日から金曜日まで県内の食料・農業・ＪＡについての様々な情報を発信しています。",
+              "info": "<br/><br/>\n<a href=\"http://www.ja-gp-wakayama.or.jp/information/\">ＪＡグループ和歌山の番組情報ホームページはこちらから</a>\n<br/><br/>",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11400483",
+              "-ft": "20250319114000",
+              "-to": "20250319141200",
+              "-ftl": "1140",
+              "-tol": "1412",
+              "-dur": "9120",
               "title": "第９７回センバツ高等学校野球大会実況中継横浜　対　市和歌山",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -785,10 +814,10 @@
             },
             {
               "-id": "11377961",
-              "-ft": "20250319133000",
-              "-to": "20250319134000",
-              "-ftl": "1330",
-              "-tol": "1340",
+              "-ft": "20250319141200",
+              "-to": "20250319142200",
+              "-ftl": "1412",
+              "-tol": "1422",
               "-dur": "600",
               "title": "JAグループアワー",
               "url": "http://www.ja-gp-wakayama.or.jp/information/",
@@ -815,11 +844,11 @@
             },
             {
               "-id": "11377962",
-              "-ft": "20250319134000",
+              "-ft": "20250319142200",
               "-to": "20250319150000",
-              "-ftl": "1340",
+              "-ftl": "1422",
               "-tol": "1500",
-              "-dur": "4800",
+              "-dur": "2280",
               "title": "すみたにの全開！水曜日",
               "url": "http://tsunagaru.sblo.jp/",
               "failed_record": "0",
@@ -1153,10 +1182,10 @@
             {
               "-id": "11377964",
               "-ft": "20250319190000",
-              "-to": "20250319210000",
+              "-to": "20250319220000",
               "-ftl": "1900",
-              "-tol": "2100",
-              "-dur": "7200",
+              "-tol": "2200",
+              "-dur": "10800",
               "title": "MLBワールドツアー東京シリーズ２０２５シカゴ・カブス×ロサンゼルス・ドジャース",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -1165,33 +1194,6 @@
               "tsplus_out_ng": "0",
               "pfm": "解説：五十嵐亮太、AKI猪瀬、実況：師岡正雄",
               "img": "https://program-static.cf.radiko.jp/2d55ab73-d4fd-41ec-9d37-b1b8ab0cca50.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "11377965",
-              "-ft": "20250319210000",
-              "-to": "20250319220000",
-              "-ftl": "2100",
-              "-tol": "2200",
-              "-dur": "3600",
-              "title": "ミュージックスケッチ",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
