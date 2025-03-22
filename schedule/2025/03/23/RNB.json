@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1742574206",
+    "srvtime": "1742662798",
     "stations": {
       "station": {
         "-id": "RNB",
@@ -975,14 +975,24 @@
               "desc": "南海放送レコードライブラリーから名曲を厳選。",
               "info": "<br>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23rnb1116\">#rnb1116</a>」<br>facebookページは「<a href='https://www.facebook.com/official.rnb.co.jp'>https://www.facebook.com/official.rnb.co.jp</a>」",
               "img": "https://program-static.cf.radiko.jp/gsx4b4pcxg.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "サクッと短時間で聴ける"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P004",
-                  "name": "ドラマ"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1045,6 +1055,16 @@
               "info": "<br><img src=\"https://web.rnb.co.jp/db_ctl/radiko/img/20160920-204526.jpg\"><br>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23rnb1116\">#rnb1116</a>」<br>facebookページは「<a href='https://ja-jp.facebook.com/official.rnb.co.jp/'>https://ja-jp.facebook.com/official.rnb.co.jp/</a>」",
               "pfm": "宇都宮民",
               "img": "https://program-static.cf.radiko.jp/22ee43cd-e176-40f4-98bf-cf7a3a1e86ba.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
