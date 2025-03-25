@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1742839209",
+    "srvtime": "1742925602",
     "stations": {
       "station": {
         "-id": "ALPHA-STATION",
@@ -570,12 +570,47 @@
               }
             },
             {
-              "-id": "11396841",
+              "-id": "11426682",
               "-ft": "20250330230000",
-              "-to": "20250331050000",
+              "-to": "20250331010000",
               "-ftl": "2300",
+              "-tol": "2500",
+              "-dur": "7200",
+              "title": "PINK MOON RADIO",
+              "url": "https://fm-kyoto.jp/blog/pink_moon_radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "幸せをもたらすと言われるピンク・ムーンのように、週末の楽しかった思い出と、新しい1週間への緊張感が交差する日曜日の夜、そんな気分を音楽でほんのり明るくするミュージックプログラムを曽我部恵一がお届け。",
+              "info": "<br /><br /><p>⇒リクエストは<a href=\"https://fm-kyoto.jp/message/?program=PINK%20MOON%20RADIO\">コチラへ</a></p><br /> <p>Xアカウントは「<a href=\"http://twitter.com/fmkyoto\">@fmkyoto</a>」</p> <p>ハッシュタグは「#pinkmoonradio」</p> <p>ハッシュタグは「#FM京都」</p>",
+              "pfm": "曽我部恵一",
+              "img": "https://program-static.cf.radiko.jp/b3826422-f821-485f-917a-08fc7854bba6.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11426683",
+              "-ft": "20250331010000",
+              "-to": "20250331050000",
+              "-ftl": "2500",
               "-tol": "2900",
-              "-dur": "21600",
+              "-dur": "14400",
               "title": "TMAINTE",
               "failed_record": "0",
               "ts_in_ng": "0",
