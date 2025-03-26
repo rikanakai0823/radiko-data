@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1742927474",
+    "srvtime": "1743013328",
     "stations": {
       "station": {
         "-id": "MRO",
@@ -102,7 +102,7 @@
               "-ftl": "0530",
               "-tol": "0630",
               "-dur": "3600",
-              "title": "おはよう一直線",
+              "title": "おはよう一直線 <終>",
               "url": "http://www.tbsradio.jp/ohayou/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -110,6 +110,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "最新のニュース、スポーツ、芸能、天気予報、交通情報、健康にまつわる話題など盛りだくさんでお届けする60分！",
+              "pfm": "片桐千晶",
               "img": "https://program-static.cf.radiko.jp/ea005423-ce39-457e-9b00-7b3faf307997.jpeg",
               "metas": {
                 "meta": {
@@ -181,7 +182,7 @@
               "-ftl": "0645",
               "-tol": "0700",
               "-dur": "900",
-              "title": "ラジオの扉",
+              "title": "ラジオの扉 ～健やかインフォメーション～",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
@@ -277,7 +278,7 @@
               "-ftl": "0725",
               "-tol": "0730",
               "-dur": "300",
-              "title": "スズキ･ハッピーモーニング 羽田美智子のいってらっしゃい",
+              "title": "スズキ･ハッピーモーニング 羽田美智子のいってらっしゃい <終>",
               "url": "https://www.1242.com/hada/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -352,8 +353,8 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "朝の通勤時間帯にニュース、天気予報、交通情報をお伝えします。",
-              "info": "7:40 MROニュース<br/>7:45 交通情報<br/>7:50 天気予報",
-              "pfm": "石川映夏",
+              "info": "7:40頃 MRO Morning News<br/>7:45頃 交通情報<br/>7:50頃 天気予報",
+              "pfm": "沼田憲和",
               "img": "https://program-static.cf.radiko.jp/cb6b51d7-91e5-4d5a-b6d9-f6b0379b9aa3.jpeg",
               "tag": {
                 "item": {
@@ -495,8 +496,8 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "「1日のスタートは、MROラジオとともに」をコンセプトに元気で活力ある放送をお送りします。日々のニュースや生活情報をテンポよくお伝えし、1日をパワフルにスタートさせます。",
-              "info": "8:35 交通情報<br/>8:40 今日は何の日",
-              "pfm": "沼田憲和 石川映夏",
+              "info": "8:35頃 交通情報<br/>8:40頃 今日は何の日",
+              "pfm": "沼田憲和 原田幸子",
               "img": "https://program-static.cf.radiko.jp/c3d37e9a-6f78-4e75-88d9-80fa97fb4989.jpeg",
               "genre": {
                 "program": {
@@ -526,8 +527,8 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "「1日のスタートは、MROラジオとともに」をコンセプトに元気で活力ある放送をお送りします。日々のニュースや生活情報をテンポよくお伝えし、1日をパワフルにスタートさせます。",
-              "info": "9:00 ニュース&ウェザー<br/>9:10 あんたさんどう思うけ～<br/>9:20 被災地生活情報<br/>9:30 今夜の一品",
-              "pfm": "沼田憲和 石川映夏",
+              "info": "9:00頃 MRO News&Weather<br/>9:10頃 あんたさんどう思うけ～<br/>9:20頃 被災地生活情報<br/>9:30頃 今夜の一品",
+              "pfm": "沼田憲和 原田幸子",
               "img": "https://program-static.cf.radiko.jp/c3d37e9a-6f78-4e75-88d9-80fa97fb4989.jpeg",
               "genre": {
                 "program": {
@@ -543,30 +544,19 @@
               }
             },
             {
-              "-id": "11415614",
+              "-id": "11434784",
               "-ft": "20250331095500",
               "-to": "20250331100000",
               "-ftl": "0955",
               "-tol": "1000",
               "-dur": "300",
-              "title": "MROミュージックPower Box",
+              "title": "MRO Music Power Box",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/d48d399c-b176-4dc0-9aaf-fcf50a4ec9b4.jpeg",
-              "tag": {
-                "item": {
-                  "name": "音楽との出会いが楽しめる"
-                }
-              },
-              "genre": {
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -575,13 +565,13 @@
               }
             },
             {
-              "-id": "11415615",
+              "-id": "11434785",
               "-ft": "20250331100000",
               "-to": "20250331100500",
               "-ftl": "1000",
               "-tol": "1005",
               "-dur": "300",
-              "title": "MROニュース",
+              "title": "MRO News&Weather",
               "url": "http://www.mro.co.jp/news/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -589,7 +579,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "最新のニュースをお送りします。",
-              "img": "https://program-static.cf.radiko.jp/088d67f5-efb7-4aa7-a194-3d290e2ce468.jpeg",
+              "img": "https://program-static.cf.radiko.jp/ac23afc6-a4b8-4cf8-8540-aa5ff5f35606.jpeg",
               "tag": {
                 "item": {
                   "name": "ニュース"
@@ -623,8 +613,8 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "「1日のスタートは、MROラジオとともに」をコンセプトに元気で活力ある放送をお送りします。日々のニュースや生活情報をテンポよくお伝えし、1日をパワフルにスタートさせます。",
-              "info": "10:05 いしかわお天気ネット<br/>10:10 ねたのたね<br/>10:35 北陸ネット3県ポン",
-              "pfm": "沼田憲和 石川映夏",
+              "info": "10:05頃 いしかわお天気ネット<br/>10:10頃 ねたのたね<br/>10:35頃 北陸ネット3県ポン",
+              "pfm": "沼田憲和 原田幸子",
               "img": "https://program-static.cf.radiko.jp/c3d37e9a-6f78-4e75-88d9-80fa97fb4989.jpeg",
               "genre": {
                 "program": {
@@ -640,13 +630,13 @@
               }
             },
             {
-              "-id": "11415617",
+              "-id": "11434786",
               "-ft": "20250331110000",
               "-to": "20250331110500",
               "-ftl": "1100",
               "-tol": "1105",
               "-dur": "300",
-              "title": "ニュース&ウェザー",
+              "title": "MRO News&Weather",
               "url": "http://www.mro.co.jp/news/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -688,8 +678,8 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "「1日のスタートは、MROラジオとともに」をコンセプトに元気で活力ある放送をお送りします。日々のニュースや生活情報をテンポよくお伝えし、1日をパワフルにスタートさせます。",
-              "info": "11:05 ランチリクエスト<br/>11:15 はぴねすくらぶラジオショッピング<br/>11:25 交通情報",
-              "pfm": "沼田憲和 石川映夏",
+              "info": "11:05頃 ランチリクエスト<br/>11:15頃 はぴねすくらぶラジオショッピング<br/>11:25頃 交通情報",
+              "pfm": "沼田憲和 原田幸子",
               "img": "https://program-static.cf.radiko.jp/c3d37e9a-6f78-4e75-88d9-80fa97fb4989.jpeg",
               "genre": {
                 "program": {
@@ -757,7 +747,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "ランチタイムにニュースと天気予報、午前中の株式情報をお伝えします。",
-              "info": "12:00 MROニュース<br/>12:05 天気予報<br/>12:11 証券情報",
+              "info": "12:00頃 MRO News&Weather<br/>12:11頃 証券情報",
               "img": "https://program-static.cf.radiko.jp/507a1be0-c23f-4cc4-929f-f0323eb60bf6.jpeg",
               "genre": {
                 "program": {
@@ -876,7 +866,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "相談の電話は毎週(月)午後0時30分～午後3時15分頃まで受け付けます",
-              "info": "13:30 寿理の優しい漢方入門",
+              "info": "13:00頃 月竜香 人生相談①</br>13:30頃 寿理の優しい漢方入門</br>13:35頃 月竜香 人生相談②",
               "pfm": "月竜香 西川章久",
               "img": "https://program-static.cf.radiko.jp/879c08e9-bb5d-4294-ab47-ce4ddbcc4f84.jpeg",
               "tag": {
@@ -977,6 +967,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "相談の電話は毎週(月)午後0時30分～午後3時15分頃まで受け付けます",
+              "info": "14:07頃 月竜香 人生相談③</br>14:27頃 月竜香 人生相談④</br>14:44頃 月竜香 人生相談⑤",
               "pfm": "月竜香 西川章久",
               "img": "https://program-static.cf.radiko.jp/879c08e9-bb5d-4294-ab47-ce4ddbcc4f84.jpeg",
               "tag": {
@@ -1002,13 +993,13 @@
               }
             },
             {
-              "-id": "11415628",
+              "-id": "11434787",
               "-ft": "20250331150000",
               "-to": "20250331150500",
               "-ftl": "1500",
               "-tol": "1505",
               "-dur": "300",
-              "title": "MROニュース",
+              "title": "MRO News&Weather",
               "url": "http://www.mro.co.jp/news/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -1016,7 +1007,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "最新のニュースをお送りします。",
-              "img": "https://program-static.cf.radiko.jp/088d67f5-efb7-4aa7-a194-3d290e2ce468.jpeg",
+              "img": "https://program-static.cf.radiko.jp/ac23afc6-a4b8-4cf8-8540-aa5ff5f35606.jpeg",
               "tag": {
                 "item": {
                   "name": "ニュース"
@@ -1050,7 +1041,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "相談の電話は毎週(月)午後0時30分～午後3時15分頃まで受け付けます",
-              "info": "15:05 いしかわお天気ネット<br/>15:40 月竜香 週間占い",
+              "info": "15:10頃 月竜香 人生相談⑥<br/>15:40頃 月竜香 週間占い",
               "pfm": "月竜香 西川章久",
               "img": "https://program-static.cf.radiko.jp/879c08e9-bb5d-4294-ab47-ce4ddbcc4f84.jpeg",
               "tag": {
@@ -1076,13 +1067,13 @@
               }
             },
             {
-              "-id": "11415630",
+              "-id": "11434788",
               "-ft": "20250331160000",
               "-to": "20250331160500",
               "-ftl": "1600",
               "-tol": "1605",
               "-dur": "300",
-              "title": "ニュース&ウェザー",
+              "title": "MRO News&Weather",
               "url": "http://www.mro.co.jp/news/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -1233,103 +1224,12 @@
               }
             },
             {
-              "-id": "11415635",
+              "-id": "11434789",
               "-ft": "20250331164500",
-              "-to": "20250331165500",
-              "-ftl": "1645",
-              "-tol": "1655",
-              "-dur": "600",
-              "title": "桂宮治のザブトン5",
-              "url": "https://www.joqr.co.jp/qr/program/miyaji/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "元化粧品メーカーのトップセールスマンであった桂宮治が、プライベートの話や、リスナーから届いた人生相談にのるコーナー、落語についてわかりやすく教えるコーナーなど、曜日別にコーナーを設けて平日の夕方にリスナーへ笑顔を届けます。",
-              "pfm": "桂宮治",
-              "img": "https://program-static.cf.radiko.jp/372dc81b-3d84-4bc0-a6d1-619d70c00b84.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "11415636",
-              "-ft": "20250331165500",
-              "-to": "20250331170000",
-              "-ftl": "1655",
-              "-tol": "1700",
-              "-dur": "300",
-              "title": "身近にできる、みんなのSDGs",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/f8dec49c-019b-4b23-82c6-0b19af49b991.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P012",
-                  "name": "趣味/教育"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "11415637",
-              "-ft": "20250331170000",
-              "-to": "20250331171500",
-              "-ftl": "1700",
-              "-tol": "1715",
-              "-dur": "900",
-              "title": "ニュースパレード",
-              "url": "https://www.joqr.co.jp/qr/program/newsparade/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "文化放送をキーステーションにNRN系列各局の制作協力で、その日のニュースをお届けします。",
-              "pfm": "永野景子",
-              "img": "https://program-static.cf.radiko.jp/a9327593-383a-44d4-907c-116426177a3c.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "11415638",
-              "-ft": "20250331171500",
               "-to": "20250331183000",
-              "-ftl": "1715",
+              "-ftl": "1645",
               "-tol": "1830",
-              "-dur": "4500",
+              "-dur": "6300",
               "title": "あなたの時間 ～イブニング･レディオ～",
               "url": "http://www.mro.co.jp/radio/er/",
               "failed_record": "0",
@@ -1338,7 +1238,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "夕方のひととき、1日のニュースと帰宅時間帯の交通情報、暮らしに役立つ情報をお伝えします。",
-              "info": "17:30 ネットワークトゥデイ<br/>17:45 MROイブニングニュース<br/>17:55 ぼくの夢 わたしの未来<br/>18:00 大山商店 イブニングソニック<br/>18:10 北栄パイピング おかえり交通情報",
+              "info": "16:55頃 身近にできる、みんなのSDGs<br/>17:00頃 ニュースパレード<br/>17:14頃 あなたのリクエスト<br/>17:30頃 ネットワークトゥデイ<br/>17:45頃 MROイブニングニュース<br/>17:55頃 ぼくの夢 わたしの未来<br/>18:00頃 大山商店 イブニングソニック<br/>18:10頃 北栄パイピング おかえり交通情報",
               "pfm": "上坂典子",
               "img": "https://program-static.cf.radiko.jp/1e464ddd-c2aa-43a0-9115-5eb329f520c1.jpeg",
               "tag": {
@@ -1394,22 +1294,19 @@
               }
             },
             {
-              "-id": "11415640",
+              "-id": "11434790",
               "-ft": "20250331184500",
               "-to": "20250331190000",
               "-ftl": "1845",
               "-tol": "1900",
               "-dur": "900",
-              "title": "みんなの音楽室",
-              "url": "https://www.joqr.co.jp/qr/program/mo/",
+              "title": "Energy Music",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "音楽を楽しみ、仲間との絆を深める場としての学校の「音楽室」をコンセプトにした番組です。リスナーからは大好きな音楽を「みんなのリクエスト」として募集します。応援歌やあの頃の自分に届けたい歌、未来の自分に聴かせたい歌、友達に贈りたい歌など、ジャンルを問わずご紹介！放課後に友達とおしゃべりするような雰囲気でリクエスト曲とエピソードを紹介し、音楽の輪を広げます。",
-              "pfm": "坂口愛美",
-              "img": "https://program-static.cf.radiko.jp/bdbba7d7-3832-450a-a126-16ec01c9d74b.jpeg",
+              "img": "https://program-static.cf.radiko.jp/553a7967-e7fb-433a-8b78-267d38ed62f0.jpeg",
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -1494,7 +1391,7 @@
               "-ftl": "2100",
               "-tol": "2200",
               "-dur": "3600",
-              "title": "さだまさし 1時の鬼の魔酔い",
+              "title": "さだまさし 1時の鬼の魔酔い <終>",
               "url": "https://www.tokairadio.co.jp/kinomayoi/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -1630,15 +1527,15 @@
               "-ftl": "2700",
               "-tol": "2830",
               "-dur": "5400",
-              "title": "オールナイトニッポン0(ZERO)",
-              "url": "https://www.allnightnippon.com/",
+              "title": "キタニタツヤのオールナイトニッポン0(ZERO) <新>",
+              "url": "https://www.allnightnippon.com/kitani/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "pfm": "月替わり",
-              "img": "https://program-static.cf.radiko.jp/96f0f1a2-9975-4fbe-8d2d-659ca7c739e1.jpeg",
+              "pfm": "キタニタツヤ",
+              "img": "https://program-static.cf.radiko.jp/c6edd059-700d-41fb-a544-feae7bb673c2.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
