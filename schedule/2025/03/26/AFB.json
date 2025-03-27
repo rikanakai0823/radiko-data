@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1743012615",
+    "srvtime": "1743099081",
     "stations": {
       "station": {
         "-id": "AFB",
@@ -1465,7 +1465,16 @@
               "tsplus_out_ng": "0",
               "info": "<div class=\"station_content_description \">\t快適生活ラジオショッピング <br /><br />\t電話：0120-40-1475<br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/r7qtgb7f0x.jpg",
+              "tag": {
+                "item": {
+                  "name": "快適生活、0120401475"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
                 "program": {
                   "-id": "P018",
                   "name": "ショッピング"
