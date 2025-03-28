@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1742925604",
+    "srvtime": "1743178502",
     "stations": {
       "station": {
         "-id": "RNB",
@@ -1103,7 +1103,7 @@
               "tsplus_out_ng": "0",
               "desc": "中四国8局をつないで生放送！\n<br>今週はRNB愛媛発「農業が愛媛を救う!?」\n<br>日本の農業は、高齢化、生産コストの上昇、気候変動などにより危機的状況。ところが、愛媛では、ゆるやかに、軽やかに、農業を始め社会課題を解決しようとしている人達がいる！",
               "info": "<br>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23rnb1116\">#rnb1116</a>」<br>facebookページは「<a href='https://www.facebook.com/official.rnb.co.jp'>https://www.facebook.com/official.rnb.co.jp</a>」",
-              "pfm": "平野和子（南海放送プレゼンター）　",
+              "pfm": "平野和子（南海放送プレゼンター）",
               "img": "https://program-static.cf.radiko.jp/1aca108a-b645-4ddf-8f03-26f1770cf30f.jpeg",
               "genre": {
                 "personality": {
@@ -1125,10 +1125,10 @@
             {
               "-id": "11411858",
               "-ft": "20250330200000",
-              "-to": "20250330210000",
+              "-to": "20250330203000",
               "-ftl": "2000",
-              "-tol": "2100",
-              "-dur": "3600",
+              "-tol": "2030",
+              "-dur": "1800",
               "title": "ショーゴと日曜B",
               "url": "https://www.rnb.co.jp/radio/shogo-b/",
               "failed_record": "0",
@@ -1144,6 +1144,78 @@
                 "personality": {
                   "-id": "C015",
                   "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11444674",
+              "-ft": "20250330203000",
+              "-to": "20250330205500",
+              "-ftl": "2030",
+              "-tol": "2055",
+              "-dur": "1500",
+              "title": "ボートレースライブSG　第60回ボートレースクラシック優勝戦実況中継",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "第60回ボートレースクラシック優勝戦の模様をお届け。",
+              "img": "https://program-static.cf.radiko.jp/fb54f033-b22b-48b7-bd34-e3f9dfc366d2.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11444675",
+              "-ft": "20250330205500",
+              "-to": "20250330210000",
+              "-ftl": "2055",
+              "-tol": "2100",
+              "-dur": "300",
+              "title": "南海クラシックス０５",
+              "url": "https://www.rnb.co.jp/radio/short-short/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "南海放送レコードライブラリーから名曲を厳選。",
+              "info": "<br>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23rnb1116\">#rnb1116</a>」<br>facebookページは「<a href='https://www.facebook.com/official.rnb.co.jp'>https://www.facebook.com/official.rnb.co.jp</a>」",
+              "img": "https://program-static.cf.radiko.jp/gsx4b4pcxg.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "サクッと短時間で聴ける"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
                   "-id": "P005",
