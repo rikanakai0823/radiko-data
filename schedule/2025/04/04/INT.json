@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1743444000",
+    "srvtime": "1743526860",
     "stations": {
       "station": {
         "-id": "INT",
@@ -712,6 +712,45 @@
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11466079",
+              "-ft": "20250404140000",
+              "-to": "20250404150000",
+              "-ftl": "1400",
+              "-tol": "1500",
+              "-dur": "3600",
+              "title": "PLAY ON",
+              "url": "https://www.interfm.co.jp/playon",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/b06c52d8-7dd9-4426-a5c9-a6b22d04714d_sq.jpg\" height=\"60\" width=\"60\" alt=\"MIO\"></td>  </tr></table><br /><br />\tinterfmが関わる日本全国のイベントを中心に、音楽ライブ、フェスはもちろんのこと、ミュージカル、舞台、アート、展示、フード、カルチャーなど、様々なエンターテイメント情報を紹介。<br /><br />時にはアーティストやクリエイター、プロデューサーなどのゲストもお招きしてお話を伺います。<br /><br />東京、首都圏での情報、更にアジア、世界の情報にも注目し、情報をお届けします。 <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/playon\">https://www.interfm.co.jp/playon</a><br /><br /></div>",
+              "pfm": "MIO",
+              "img": "https://program-static.cf.radiko.jp/rjvn2rih4o.jpg",
+              "tag": {
+                "item": {
+                  "name": "MIO"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {

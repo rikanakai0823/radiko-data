@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1743444002",
+    "srvtime": "1743530886",
     "stations": {
       "station": {
         "-id": "ROK",
@@ -320,13 +320,19 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "twitterハッシュタグは「#ラジオ沖縄」<br> twitterアカウントは「@RadioOkinawa864」<br> facebookページは<a href=\"https://www.facebook.com/radiookinawa864\"> こちら</a>",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%B8%E3%82%AA%E6%B2%96%E7%B8%84\">#ラジオ沖縄</a>」<br> twitterアカウントは「<a href=\"http://twitter.com/RadioOkinawa864\">@RadioOkinawa864</a>」<br> facebookページは<a href=\"https://www.facebook.com/radiookinawa864\"> こちら</a>",
               "img": "https://program-static.cf.radiko.jp/b1059d8c-ff37-4aa0-952e-a922b8c47332.png",
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ラジオ沖縄"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:RadioOkinawa864"
+                  }
+                ]
               }
             },
             {
@@ -982,7 +988,7 @@
               "desc": "土曜日の夜をもてあましている君のための革命的トーク番組「暇レボリューション」",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%92%E3%83%9E%E3%83%AC%E3%83%9C\">#ヒマレボ</a>」<br>facebookページは<a href=\"https://www.facebook.com/radiookinawa864\"> こちら</a>",
               "pfm": "ただのあきのり 平良優衣",
-              "img": "https://program-static.cf.radiko.jp/54b16243-73ba-49d6-8212-29198d46ec29.png",
+              "img": "https://program-static.cf.radiko.jp/24326298-6261-437d-a2db-e6293f66d576.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1003,13 +1009,19 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%92%E3%83%9E%E3%83%AC%E3%83%9C\">#ヒマレボ</a>」<br>facebookページは<a href=\"https://www.facebook.com/radiookinawa864\"> こちら</a>",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%B8%E3%82%AA%E6%B2%96%E7%B8%84\">#ラジオ沖縄</a>」<br> twitterアカウントは「<a href=\"http://twitter.com/RadioOkinawa864\">@RadioOkinawa864</a>」<br> facebookページは<a href=\"https://www.facebook.com/radiookinawa864\"> こちら</a>",
               "img": "https://program-static.cf.radiko.jp/b1059d8c-ff37-4aa0-952e-a922b8c47332.png",
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#ヒマレボ"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ラジオ沖縄"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:RadioOkinawa864"
+                  }
+                ]
               }
             },
             {
