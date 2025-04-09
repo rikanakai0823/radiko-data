@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1744049593",
+    "srvtime": "1744222337",
     "stations": {
       "station": {
         "-id": "LFR",
@@ -924,13 +924,14 @@
               "-tol": "2100",
               "-dur": "1200",
               "title": "藤岡弘、家族で語ろう！",
+              "url": "https://x.com/fujioka_1242",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "テーマは「家族のしあわせ」。<br><br>この番組だけでしか聴くことのできない、父としての藤岡弘、のエピソードとともに、<br>思わず「家族って、いいな」と感じられるトークをお届けします。<br><br>また「藤岡弘、しあわせ格言」と題し、リスナーから寄せられた家族に関する相談に、<br>藤岡と天翔 愛のふたりが向き合い、しあわせのヒントを届けるコーナーも！<br><br>家族とのつながりを見つめ直すきっかけにもなる、心あたたまる20分間をお聴きください。",
-              "info": "メールアドレス：<br><a href=\"mailto:fujioka@1242.com\">fujioka@1242.com</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%AE%B6%E6%97%8F%E3%81%A7%E8%AA%9E%E3%82%8D%E3%81%86\">#家族で語ろう</a>」",
+              "info": "メールアドレス：<br><a href=\"mailto:fujioka@1242.com\">fujioka@1242.com</a><br><br>番組ホームページは<a href=\"https://x.com/fujioka_1242\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%AE%B6%E6%97%8F%E3%81%A7%E8%AA%9E%E3%82%8D%E3%81%86\">#家族で語ろう</a>」twitterアカウントは「<a href=\"http://twitter.com/fujioka_1242\">@fujioka_1242</a>」",
               "pfm": "藤岡弘、、パートナー：天翔愛",
               "img": "https://program-static.cf.radiko.jp/bqxorsv597.jpg",
               "genre": {
@@ -944,10 +945,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#家族で語ろう"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#家族で語ろう"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:fujioka_1242"
+                  }
+                ]
               }
             },
             {
