@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1745086394",
+    "srvtime": "1745259194",
     "stations": {
       "station": {
         "-id": "AIR-G",
@@ -733,10 +733,10 @@
             {
               "-id": "11521099",
               "-ft": "20250425160000",
-              "-to": "20250425173000",
+              "-to": "20250425163000",
               "-ftl": "1600",
-              "-tol": "1730",
-              "-dur": "5400",
+              "-tol": "1630",
+              "-dur": "1800",
               "title": "キンヨウアパートメント",
               "url": "http://www.air-g.co.jp/kinyouapartment/",
               "failed_record": "0",
@@ -755,6 +755,34 @@
                 "program": {
                   "-id": "P006",
                   "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11560810",
+              "-ft": "20250425163000",
+              "-to": "20250425173000",
+              "-ftl": "1630",
+              "-tol": "1730",
+              "-dur": "3600",
+              "title": "Pleasure Palette F",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\tPleasure Palette F <br /><br /><br /></div>",
+              "img": "https://program-static.cf.radiko.jp/f1641508-94ca-4489-af70-d05f12d96a92.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
                 }
               },
               "metas": {

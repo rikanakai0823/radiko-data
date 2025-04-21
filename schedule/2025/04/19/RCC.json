@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1744999872",
+    "srvtime": "1745259070",
     "stations": {
       "station": {
         "-id": "RCC",
@@ -689,10 +689,10 @@
             {
               "-id": "11493537",
               "-ft": "20250419140000",
-              "-to": "20250419170000",
+              "-to": "20250419171400",
               "-ftl": "1400",
-              "-tol": "1700",
-              "-dur": "10800",
+              "-tol": "1714",
+              "-dur": "11640",
               "title": "Veryカープ！RCC カープデーゲーム",
               "url": "https://radio.rcc.jp/carp/",
               "failed_record": "0",
@@ -738,19 +738,35 @@
               }
             },
             {
-              "-id": "11493538",
-              "-ft": "20250419170000",
+              "-id": "11557160",
+              "-ft": "20250419171400",
               "-to": "20250419173000",
-              "-ftl": "1700",
+              "-ftl": "1714",
               "-tol": "1730",
-              "-dur": "1800",
-              "title": "ベストミュージックコレクション・ジャパン",
+              "-dur": "960",
+              "title": "野球ハイライト",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/656e1799-db8f-42f8-9b9a-8b64011e83bd.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "カープ"
+                  },
+                  {
+                    "name": "スポーツ情報"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
