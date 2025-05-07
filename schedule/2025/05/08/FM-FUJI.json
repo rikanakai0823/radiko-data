@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1746208876",
+    "srvtime": "1746640866",
     "stations": {
       "station": {
         "-id": "FM-FUJI",
@@ -12,10 +12,10 @@
             {
               "-id": "11567908",
               "-ft": "20250508050000",
-              "-to": "20250508065600",
+              "-to": "20250508064100",
               "-ftl": "0500",
-              "-tol": "0656",
-              "-dur": "6960",
+              "-tol": "0641",
+              "-dur": "6060",
               "title": "ON THE WIND",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -42,6 +42,45 @@
                   "-id": "P005",
                   "name": "音楽"
                 }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11630883",
+              "-ft": "20250508064100",
+              "-to": "20250508065600",
+              "-ftl": "0641",
+              "-tol": "0656",
+              "-dur": "900",
+              "title": "旬！SHUN！ピックアップ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "最新のおすすめ商品や気になる商品、巷で話題の商品などを楽しいトークとともにご紹介する番組です。",
+              "info": "Xアカウントは「<a href=\"http://twitter.com/jocvfm\">@jocvfm</a>」",
+              "img": "https://program-static.cf.radiko.jp/c41e3414-4e30-498b-bd94-875544a26318.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "サクッと短時間で聴ける"
+                  },
+                  {
+                    "name": "ドライブ中におすすめ"
+                  },
+                  {
+                    "name": "気分転換におすすめ"
+                  },
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  }
+                ]
               },
               "metas": {
                 "meta": {
@@ -459,6 +498,18 @@
               "tag": {
                 "item": [
                   {
+                    "name": "サクッと短時間で聴ける"
+                  },
+                  {
+                    "name": "ドライブ中におすすめ"
+                  },
+                  {
+                    "name": "気分転換におすすめ"
+                  },
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  },
+                  {
                     "name": "house"
                   },
                   {
@@ -665,6 +716,12 @@
               "img": "https://program-static.cf.radiko.jp/7b7dca0f-71ec-4875-b019-33bf8b359bcf.jpeg",
               "tag": {
                 "item": [
+                  {
+                    "name": "ハロプロメンバー出演"
+                  },
+                  {
+                    "name": "学生におすすめ"
+                  },
                   {
                     "name": "伸太郎"
                   },
