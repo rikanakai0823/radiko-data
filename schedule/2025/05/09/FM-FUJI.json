@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1746640867",
+    "srvtime": "1746727265",
     "stations": {
       "station": {
         "-id": "FM-FUJI",
@@ -12,10 +12,10 @@
             {
               "-id": "11567931",
               "-ft": "20250509050000",
-              "-to": "20250509070000",
+              "-to": "20250509065600",
               "-ftl": "0500",
-              "-tol": "0700",
-              "-dur": "7200",
+              "-tol": "0656",
+              "-dur": "6960",
               "title": "ON THE WIND",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -38,6 +38,48 @@
                 ]
               },
               "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11635403",
+              "-ft": "20250509065600",
+              "-to": "20250509070000",
+              "-ftl": "0656",
+              "-tol": "0700",
+              "-dur": "240",
+              "title": "SOUND LEAF",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "Xアカウントは「<a href=\"http://twitter.com/jocvfm\">@jocvfm</a>」",
+              "img": "https://program-static.cf.radiko.jp/xxix6g6lmz.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "朝のニュースを効率良く"
+                  },
+                  {
+                    "name": "邦楽"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
@@ -143,7 +185,16 @@
               "tag": {
                 "item": [
                   {
-                    "name": "朝のニュースを効率良く"
+                    "name": "サクッと短時間で聴ける"
+                  },
+                  {
+                    "name": "ドライブ中におすすめ"
+                  },
+                  {
+                    "name": "気分転換におすすめ"
+                  },
+                  {
+                    "name": "音楽との出会いが楽しめる"
                   },
                   {
                     "name": "ニュース"
@@ -197,10 +248,10 @@
             {
               "-id": "11630921",
               "-ft": "20250509113700",
-              "-to": "20250509115200",
+              "-to": "20250509120000",
               "-ftl": "1137",
-              "-tol": "1152",
-              "-dur": "900",
+              "-tol": "1200",
+              "-dur": "1380",
               "title": "今旬！いいもの百貨店",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -212,63 +263,12 @@
               "tag": {
                 "item": [
                   {
-                    "name": "サクッと短時間で聴ける"
-                  },
-                  {
-                    "name": "ドライブ中におすすめ"
-                  },
-                  {
-                    "name": "気分転換におすすめ"
-                  },
-                  {
-                    "name": "音楽との出会いが楽しめる"
-                  }
-                ]
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "11630922",
-              "-ft": "20250509115200",
-              "-to": "20250509120000",
-              "-ftl": "1152",
-              "-tol": "1200",
-              "-dur": "480",
-              "title": "SOUND LEAF",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "Xアカウントは「<a href=\"http://twitter.com/jocvfm\">@jocvfm</a>」",
-              "img": "https://program-static.cf.radiko.jp/xxix6g6lmz.jpg",
-              "tag": {
-                "item": [
-                  {
                     "name": "アニメ・マンガ情報を発見"
                   },
                   {
                     "name": "映画情報が楽しめる"
-                  },
-                  {
-                    "name": "邦楽"
                   }
                 ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
               },
               "metas": {
                 "meta": {

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1746642303",
+    "srvtime": "1746729023",
     "stations": {
       "station": {
         "-id": "IBC",
@@ -1252,16 +1252,38 @@
             {
               "-id": "11572412",
               "-ft": "20250512000000",
-              "-to": "20250512040000",
+              "-to": "20250512003000",
               "-ftl": "2400",
-              "-tol": "2800",
-              "-dur": "14400",
+              "-tol": "2430",
+              "-dur": "1800",
               "title": "番組休止中",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/6accaf92-c9cd-4987-a026-402db556fbe2.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11635743",
+              "-ft": "20250512003000",
+              "-to": "20250512040000",
+              "-ftl": "2430",
+              "-tol": "2800",
+              "-dur": "12600",
+              "title": "番組休止中",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/5444719b-c522-435d-bab4-b0125c62fd05.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
