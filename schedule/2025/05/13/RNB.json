@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1746642619",
+    "srvtime": "1747074618",
     "stations": {
       "station": {
         "-id": "RNB",
@@ -175,8 +175,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -457,10 +457,10 @@
               "title": "テレフォン人生相談",
               "url": "http://www.1242.com/jinseisoudan/",
               "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
+              "ts_in_ng": "2",
+              "tsplus_in_ng": "2",
+              "ts_out_ng": "2",
+              "tsplus_out_ng": "2",
               "desc": "生きていれば様々な悩みにぶつかります。<br>金銭･相続等の法律問題から健康･育児･介護などの相談に、専門家がアドバイス。",
               "info": "<br>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%231242_PR\">#1242_PR</a>」<br>facebookページは「<a href='https://www.facebook.com/am1242'>https://www.facebook.com/am1242</a>」",
               "pfm": "加藤諦三 / 今井通子 / 柴田理恵 / 玉置妙憂",
@@ -548,8 +548,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -822,8 +822,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -1442,17 +1442,27 @@
               "-ftl": "2700",
               "-tol": "2830",
               "-dur": "5400",
-              "title": "あののオールナイトニッポン0(ZERO)",
+              "title": "HANAのオールナイトニッポン0(ZERO)",
               "url": "https://www.allnightnippon.com/ano/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "“あのちゃん”こと、歌手・アーティストの「あの」が火曜日のオールナイトニッポン0を担当！<br>饒舌圧巻のトークをしたり、しなかったり。歌ったり、歌わなかったりします。<br>「敵を作らないようにする」ことが目標な番組です。",
+              "desc": " 5月13日（火）の『オールナイトニッポン0(ZERO)』は、今、大注目のガールズグループ「HANA」がメンバー全員揃ってパーソナリティを担当！",
               "info": "<br>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23ann0\">#ann0</a>」<br>facebookページは「<a href='https://www.facebook.com/am1242'>https://www.facebook.com/am1242</a>」",
-              "pfm": "あの",
-              "img": "https://program-static.cf.radiko.jp/991a3782-ba57-48e1-a325-8c11a1e0e089.jpeg",
+              "pfm": "HANA（※あの　休演）",
+              "img": "https://program-static.cf.radiko.jp/dd0a9879-1e6f-4352-81f4-2bfc27c68d94.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

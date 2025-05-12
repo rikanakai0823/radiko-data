@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1746986402",
+    "srvtime": "1747072878",
     "stations": {
       "station": {
         "-id": "FBC",
@@ -445,6 +445,16 @@
               "info": "<br/>現在の日本のミュージックシーンで活躍するアーティスト１組に焦点を当て、<br/>デビュー秘話やヒットソング、ライブなどにまつわるエピソードを紹介します。",
               "pfm": "川名陽介",
               "img": "https://program-static.cf.radiko.jp/c8689c8c-c090-47fa-a3cf-2beb82836fe8.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C002",
+                  "name": "俳優"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1238,9 +1248,14 @@
               "pfm": "手がクリームパン",
               "img": "https://program-static.cf.radiko.jp/7c781dd1-aacd-431b-b005-acbb1f3d78d8.png",
               "tag": {
-                "item": {
-                  "name": "手がクリームパン"
-                }
+                "item": [
+                  {
+                    "name": "手がクリームパン"
+                  },
+                  {
+                    "name": "人気アーティストトーク"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
