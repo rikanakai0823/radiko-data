@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1747159200",
+    "srvtime": "1747245678",
     "stations": {
       "station": {
         "-id": "RCC",
@@ -722,6 +722,22 @@
               "info": "カープ戦全試合生中継！RCCラジオは試合終了までカープをVeryカープに応援します！<br/>試合終了まで中継するため、以降の番組は時間変更となる場合があります。<br><br/>twitter <a href=\"https://twitter.com/rccradio\">@rccradio</a><br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23RCC%E3%83%A9%E3%82%B8%E3%82%AA\">#RCCラジオ</a>」",
               "pfm": "解説：福本豊/ 実況：中邨雄二",
               "img": "https://program-static.cf.radiko.jp/eb9dfab9-cf98-4058-bbda-f283045ee4f5.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "実況中継"
+                  },
+                  {
+                    "name": "プロ野球"
+                  },
+                  {
+                    "name": "カープ"
+                  },
+                  {
+                    "name": "広島"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -1117,11 +1133,33 @@
               }
             },
             {
-              "-id": "11626716",
+              "-id": "11662367",
               "-ft": "20250519002500",
-              "-to": "20250519002600",
+              "-to": "20250519005500",
               "-ftl": "2425",
-              "-tol": "2426",
+              "-tol": "2455",
+              "-dur": "1800",
+              "title": "グレープのもう魔酔わない",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "pfm": "立川談春",
+              "img": "https://program-static.cf.radiko.jp/656e1799-db8f-42f8-9b9a-8b64011e83bd.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11662368",
+              "-ft": "20250519005500",
+              "-to": "20250519005600",
+              "-ftl": "2455",
+              "-tol": "2456",
               "-dur": "60",
               "title": "放送終了",
               "failed_record": "0",
@@ -1138,12 +1176,12 @@
               }
             },
             {
-              "-id": "11626717",
-              "-ft": "20250519002600",
+              "-id": "11662369",
+              "-ft": "20250519005600",
               "-to": "20250519050000",
-              "-ftl": "2426",
+              "-ftl": "2456",
               "-tol": "2900",
-              "-dur": "16440",
+              "-dur": "14640",
               "title": "配信休止",
               "failed_record": "0",
               "ts_in_ng": "0",

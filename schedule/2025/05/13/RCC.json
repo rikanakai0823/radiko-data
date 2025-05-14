@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1747160410",
+    "srvtime": "1747246938",
     "stations": {
       "station": {
         "-id": "RCC",
@@ -557,10 +557,10 @@
             {
               "-id": "11606358",
               "-ft": "20250513175700",
-              "-to": "20250513210000",
+              "-to": "20250513223400",
               "-ftl": "1757",
-              "-tol": "2100",
-              "-dur": "10980",
+              "-tol": "2234",
+              "-dur": "16620",
               "title": "Veryカープ！RCC カープナイター",
               "url": "https://radio.rcc.jp/carp/",
               "failed_record": "0",
@@ -572,6 +572,22 @@
               "info": "カープ戦全試合生中継！RCCラジオは試合終了までカープをVeryカープに応援します！<br/>試合終了まで中継するため、以降の番組は時間変更となる場合があります。<br><br/>twitter <a href=\"https://twitter.com/rccradio\">@rccradio</a><br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23RCC%E3%83%A9%E3%82%B8%E3%82%AA\">#RCCラジオ</a>」",
               "pfm": "解説：山崎隆造/ 実況：一柳信行",
               "img": "https://program-static.cf.radiko.jp/8f7b777d-37b4-45c6-9556-3a98e0ea1e57.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "実況中継"
+                  },
+                  {
+                    "name": "プロ野球"
+                  },
+                  {
+                    "name": "カープ"
+                  },
+                  {
+                    "name": "広島"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -590,201 +606,35 @@
               }
             },
             {
-              "-id": "11606359",
-              "-ft": "20250513210000",
-              "-to": "20250513215000",
-              "-ftl": "2100",
-              "-tol": "2150",
-              "-dur": "3000",
-              "title": "Veryカープ！中田廉の今夜もパンプアップ",
+              "-id": "11662191",
+              "-ft": "20250513223400",
+              "-to": "20250513230000",
+              "-ftl": "2234",
+              "-tol": "2300",
+              "-dur": "1560",
+              "title": "野球ハイライト",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "元広島カープの中田廉が興奮度MAXの野球終わりにマッスルトーク！",
-              "pfm": "中田廉",
-              "img": "https://program-static.cf.radiko.jp/eb957eb5-ebb2-4484-a522-475d7731c871.png",
+              "img": "https://program-static.cf.radiko.jp/656e1799-db8f-42f8-9b9a-8b64011e83bd.jpeg",
               "tag": {
                 "item": [
                   {
                     "name": "カープ"
                   },
                   {
-                    "name": "広島県"
-                  },
-                  {
-                    "name": "フィジーク"
+                    "name": "スポーツ情報"
                   }
                 ]
               },
               "genre": {
-                "personality": {
-                  "-id": "C013",
-                  "name": "アスリート"
-                },
                 "program": {
                   "-id": "P002",
                   "name": "スポーツ"
                 }
               },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "11606360",
-              "-ft": "20250513215000",
-              "-to": "20250513215500",
-              "-ftl": "2150",
-              "-tol": "2155",
-              "-dur": "300",
-              "title": "サウンドセレクション",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "pfm": "長谷川努",
-              "img": "https://program-static.cf.radiko.jp/facd6583-a762-4d5f-a072-03bf9d387c83.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "JPOP"
-                  },
-                  {
-                    "name": "演歌"
-                  },
-                  {
-                    "name": "ポップス"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "11606361",
-              "-ft": "20250513215500",
-              "-to": "20250513220000",
-              "-ftl": "2155",
-              "-tol": "2200",
-              "-dur": "300",
-              "title": "ニュース",
-              "url": "http://news.rcc.jp/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/c0639e7e-ca82-4ac2-9676-96c1046c48be.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "広島県"
-                  },
-                  {
-                    "name": "ニュース番組"
-                  },
-                  {
-                    "name": "#サクッと短時間で聴ける"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "11606362",
-              "-ft": "20250513220000",
-              "-to": "20250513223000",
-              "-ftl": "2200",
-              "-tol": "2230",
-              "-dur": "1800",
-              "title": "Ａｌｉｃｅ　Ｈｉｒｏｓｈｉｍａ！　Ｆｕｎ　♪　Ｒａｄｉｏ",
-              "url": "https://radio.rcc.jp/alicehiroshima/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "アリスガーデンで定期的に行われているイベント「ＡＨ！」の情報を中心に、お祭トゥリ男ＴＯＭＯＴがアツく耳より情報をお届け",
-              "info": "メールアドレス：<a href=\"music@rcc.net?subject=AliceHiroshima\">music@rcc.net</a><br /><br/>ホームページ：<a href=\"https://radio.rcc.jp/alicehiroshima/\">https://radio.rcc.jp/alicehiroshima/</a><br />",
-              "pfm": "TOMOT",
-              "img": "https://program-static.cf.radiko.jp/nsp4zfzmqh.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "#広島"
-                  },
-                  {
-                    "name": "イベント情報"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "11606363",
-              "-ft": "20250513223000",
-              "-to": "20250513230000",
-              "-ftl": "2230",
-              "-tol": "2300",
-              "-dur": "1800",
-              "title": "グレープのもう魔酔わない",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "pfm": "立川談春",
-              "img": "https://program-static.cf.radiko.jp/9cf4d194-7c60-406c-b740-d3c01bd693e9.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
