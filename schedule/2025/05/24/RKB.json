@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1747591270",
+    "srvtime": "1748109653",
     "stations": {
       "station": {
         "-id": "RKB",
@@ -200,7 +200,7 @@
               "-tol": "0730",
               "-dur": "1800",
               "title": "タケちゃん　ケンちゃん　セキラ♪ラ♪ラ♪ジオ",
-              "url": "https://rkb.jp/radio_top/",
+              "url": "https://rkb.jp/radio/sekirara/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
@@ -496,22 +496,138 @@
               }
             },
             {
-              "-id": "11667250",
+              "-id": "11708353",
               "-ft": "20250524130000",
-              "-to": "20250524150000",
+              "-to": "20250524135500",
               "-ftl": "1300",
-              "-tol": "1500",
-              "-dur": "7200",
-              "title": "ＲＫＢエキサイトホークス",
-              "url": "https://rkb.jp/radio/excitehawks/",
+              "-tol": "1355",
+              "-dur": "3300",
+              "title": "サンドウィッチマン　ザ・ラジオショー　サタデー",
+              "url": "https://www.1242.com/sandradioshow/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "<a href=\"https://x.com/exhawks\"> エキサイトホークス公式Ｘ </a>　☆RKBラジオを聞きながらホークスの事、どんどんつぶやいてください！",
-              "info": "カード：ソフトバンク×オリックス　球場：熊本　解説：秋山幸二　実況：冨士原圭希　*カード等変更の可能性有<br /><br /><br />",
-              "pfm": "カード：ソフトバンク×オリックス　球場：熊本　解説：秋山幸二　実況：冨士原圭希　*カード等変更の可能性有",
+              "desc": "サンドウィッチマンが満を持して土曜日のお昼に登場！",
+              "info": "2人のトークを中心に、愛のある「素人いじり」が大好物のサンドウィッチマンがメールやSNSを上手に料理しながら、「笑い」という「癒し」をお届けします！",
+              "pfm": "サンドウィッチマン、東島衣里",
+              "img": "https://program-static.cf.radiko.jp/74a053a9-a426-4916-b5e6-63de57f1df79.jpeg",
+              "tag": {
+                "item": {
+                  "name": "お笑い芸人の最強トーク"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11708354",
+              "-ft": "20250524135500",
+              "-to": "20250524135700",
+              "-ftl": "1355",
+              "-tol": "1357",
+              "-dur": "120",
+              "title": "ＲＫＢ交通情報",
+              "url": "https://rkb.jp/radio_top/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "地域の交通情報をお届けします",
+              "info": "RKBラジオ公式twitterアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
+              "img": "https://program-static.cf.radiko.jp/ee8aa7a6-19f9-4c8b-8493-977b1c14e559.jpeg",
+              "tag": {
+                "item": {
+                  "name": "交通情報"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "from:rkbr_info"
+                }
+              }
+            },
+            {
+              "-id": "11708355",
+              "-ft": "20250524135700",
+              "-to": "20250524140000",
+              "-ftl": "1357",
+              "-tol": "1400",
+              "-dur": "180",
+              "title": "ＲＫＢ天気予報",
+              "url": "https://rkb.jp/radio_top/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "地域の気象情報をお届けします",
+              "info": "RKBラジオ公式twitterアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
+              "img": "https://program-static.cf.radiko.jp/1520ad63-085a-4fc5-a8d4-b1115a86e6fb.jpeg",
+              "tag": {
+                "item": {
+                  "name": "交通情報"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "from:rkbr_info"
+                }
+              }
+            },
+            {
+              "-id": "11708356",
+              "-ft": "20250524140000",
+              "-to": "20250524150000",
+              "-ftl": "1400",
+              "-tol": "1500",
+              "-dur": "3600",
+              "title": "ＲＫＢエキサイトホークス",
+              "url": "https://rkb.jp/radio_top/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "RKBラジオ公式Xアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
               "img": "https://program-static.cf.radiko.jp/4fe32472-18fb-44e8-8190-aa41d7d536c4.jpeg",
               "tag": {
                 "item": [
@@ -589,13 +705,13 @@
               "-tol": "1700",
               "-dur": "3600",
               "title": "ＲＫＢエキサイトホークス",
-              "url": "https://rkb.jp/radio_top/",
+              "url": "https://rkb.jp/radio/excitehawks/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "RKBラジオ公式Xアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
+              "desc": "<a href=\"https://x.com/exhawks\"> エキサイトホークス公式Ｘ </a>　☆RKBラジオを聞きながらホークスの事、どんどんつぶやいてください！",
               "img": "https://program-static.cf.radiko.jp/4fe32472-18fb-44e8-8190-aa41d7d536c4.jpeg",
               "tag": {
                 "item": [
