@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1748111417",
+    "srvtime": "1748283614",
     "stations": {
       "station": {
         "-id": "TBC",
@@ -759,10 +759,10 @@
             {
               "-id": "11665320",
               "-ft": "20250525160000",
-              "-to": "20250525170000",
+              "-to": "20250525165500",
               "-ftl": "1600",
-              "-tol": "1700",
-              "-dur": "3600",
+              "-tol": "1655",
+              "-dur": "3300",
               "title": "ｔｂｃ　ＰＯＷＥＲＦＵＬ　ＢＡＳＥＢＡＬＬ　 楽天×日本ハム（楽天モバイルパーク）",
               "url": "http://www.tbc-sendai.co.jp/rakuten/index.html#radio",
               "failed_record": "0",
@@ -782,6 +782,49 @@
                   "name": "スポーツ"
                 }
               },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11716332",
+              "-ft": "20250525165500",
+              "-to": "20250525165800",
+              "-ftl": "1655",
+              "-tol": "1658",
+              "-dur": "180",
+              "title": "河北新報ニュース",
+              "url": "http://www.tbc-sendai.co.jp/01news/index.html",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/2490be48-9913-47ae-9622-da7ba032dca2.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11716333",
+              "-ft": "20250525165800",
+              "-to": "20250525170000",
+              "-ftl": "1658",
+              "-tol": "1700",
+              "-dur": "120",
+              "title": "ｔｂｃ交通情報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/5c47ef42-7dbe-42c7-9fdb-d175d2ba4d10.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
