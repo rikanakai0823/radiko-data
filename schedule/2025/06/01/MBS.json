@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1748282463",
+    "srvtime": "1748365209",
     "stations": {
       "station": {
         "-id": "MBS",
@@ -1418,10 +1418,10 @@
             {
               "-id": "11694555",
               "-ft": "20250601200000",
-              "-to": "20250601210000",
+              "-to": "20250601205500",
               "-ftl": "2000",
-              "-tol": "2100",
-              "-dur": "3600",
+              "-tol": "2055",
+              "-dur": "3300",
               "title": "ＭＢＳベースボールパーク番外編 (2)",
               "url": "https://www.mbs1179.com/tigers/",
               "failed_record": "0",
@@ -1474,6 +1474,43 @@
                 "program": {
                   "-id": "P002",
                   "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11721891",
+              "-ft": "20250601205500",
+              "-to": "20250601210000",
+              "-ftl": "2055",
+              "-tol": "2100",
+              "-dur": "300",
+              "title": "ＭＢＳニュース・お天気のお知らせ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "MBSラジオ"
+                  },
+                  {
+                    "name": "Mラジ"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -1892,11 +1929,42 @@
             {
               "-id": "11692156",
               "-ft": "20250602013000",
-              "-to": "20250602041300",
+              "-to": "20250602040000",
               "-ftl": "2530",
-              "-tol": "2813",
-              "-dur": "9780",
+              "-tol": "2800",
+              "-dur": "9000",
               "title": "放送終了テーマ枠",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "MBSラジ"
+                  },
+                  {
+                    "name": "Mラジ"
+                  }
+                ]
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11721892",
+              "-ft": "20250602040000",
+              "-to": "20250602041300",
+              "-ftl": "2800",
+              "-tol": "2813",
+              "-dur": "780",
+              "title": "放送終了テーマ",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
@@ -1965,16 +2033,6 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/69493076-7593-4008-b39d-894d5b20cacd.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "MBSラジ"
-                  },
-                  {
-                    "name": "Mラジ"
-                  }
-                ]
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

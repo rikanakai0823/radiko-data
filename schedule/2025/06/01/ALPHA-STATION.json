@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1748282463",
+    "srvtime": "1748365209",
     "stations": {
       "station": {
         "-id": "ALPHA-STATION",
@@ -189,6 +189,21 @@
               "info": "<br /><br /><p>⇒リクエストは<a href=\"https://fm-kyoto.jp/message/?program=MUSIC+MATCH\">コチラへ</a></p><br /> <p>Xアカウントは「<a href=\"http://twitter.com/fmkyoto\">@fmkyoto</a>」</p> <p>ハッシュタグは「#ミュージックマッチ」</p>  <p>ハッシュタグは「#FM京都」</p>",
               "pfm": "川原ちかよ",
               "img": "https://program-static.cf.radiko.jp/89d6c8ae-683e-420c-817a-ece1160f6bd8.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ミュージックマッチ"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
