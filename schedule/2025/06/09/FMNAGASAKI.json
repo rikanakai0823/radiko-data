@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1748975418",
+    "srvtime": "1749061869",
     "stations": {
       "station": {
         "-id": "FMNAGASAKI",
@@ -726,10 +726,10 @@
             {
               "-id": "11727426",
               "-ft": "20250609133000",
-              "-to": "20250609135500",
+              "-to": "20250609135000",
               "-ftl": "1330",
-              "-tol": "1355",
-              "-dur": "1500",
+              "-tol": "1350",
+              "-dur": "1200",
               "title": "レコレール",
               "url": "https://audee.jp/program/show/300004982",
               "failed_record": "0",
@@ -753,6 +753,35 @@
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11761109",
+              "-ft": "20250609135000",
+              "-to": "20250609135500",
+              "-ftl": "1350",
+              "-tol": "1355",
+              "-dur": "300",
+              "title": "【FM長崎防災特別プログラム】防災スイッチ～梅雨時期の災害に備えよう～",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/002dcee4-2dcd-4619-b7de-c649c85ff959_sq.jpg\" height=\"60\" width=\"60\" alt=\"芳野裕美\"></td>  </tr></table><br /><br />\t梅雨シーズン。近年、梅雨末期には大雨になり過去には県内においても大きな被害が発生したことがありました。<br />本格的な梅雨シーズンを前に、「大雨になるとどんな被害が想定されるの？」「雨が降る前、事前に出来る準備は？」「大雨や台風になった時、どんな行動・避難をしたらいいの？」など、大雨に対する情報・対策を中心に、専門の方よりお話を伺います。<br />必要な知識、心構え、備えについて・・・あなたの防災意識をスイッチオン（＝高める、考えるきっかけに）する番組です。 <br /><br /><br /></div>",
+              "pfm": "芳野裕美",
+              "img": "https://program-static.cf.radiko.jp/csrwa01mhc.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
