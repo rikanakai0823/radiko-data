@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1749308454",
+    "srvtime": "1749405600",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -1274,6 +1274,26 @@
               "info": "阪神―オリックス（甲子園）<BR>解説：桧山進次郎／実況：寺田健人／<BR>試合終了までお届けします。<BR><BR>※上記試合が中止の場合は、「砂山圭大郎のSET UP! 」をお届けします。<BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23toraban1008\">#toraban1008</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc_toraban\">@abc_toraban</a>」<BR><BR><BR>",
               "pfm": "阪神―オリックス（甲子園）　  解説：桧山進次郎／実況：寺田健人／　  試合終了までお届けします。　  　  ※上記試合が中止の場合は、「砂山圭大郎のSET UP! 」をお届けします。",
               "img": "https://program-static.cf.radiko.jp/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ABCラジオ"
+                  },
+                  {
+                    "name": "しゃべりBAR"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": [
                   {
@@ -1302,6 +1322,11 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ABCラジオ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
