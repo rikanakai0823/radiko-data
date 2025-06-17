@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1750096800",
+    "srvtime": "1750183258",
     "stations": {
       "station": {
         "-id": "ALPHA-STATION",
@@ -287,6 +287,29 @@
               "info": "<br /><br /><p>⇒リクエストは<a href=\"https://fm-kyoto.jp/message/?program=NEWSROOM%20%CE%B1\">コチラへ</a></p><br />  <p>Xアカウントは「<a href=\"http://twitter.com/NewsroomALPHA\">@NewsroomALPHA</a>」</p> <p>・ハッシュタグは「#ミシマカメラ」</p> <p>・ハッシュタグは「#FM京都」</p>",
               "pfm": "秋田美幸",
               "img": "https://program-static.cf.radiko.jp/ea58032a-e23f-4d79-9722-0d5b000fd4fb.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "帰宅"
+                  },
+                  {
+                    "name": "京都"
+                  },
+                  {
+                    "name": "ニュースを読む"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -402,20 +425,10 @@
               "info": "<br /><br /><p>⇒リクエストは<a href=\"http://fm-kyoto.jp/message/?program=FLAG%20RADIO\">コチラへ</a></p> <p>Xアカウントは「<a href=\"http://twitter.com/fmkyoto\">@fmkyoto</a>」</p> <p>・ハッシュタグは「#フラレディ」</p>  <p>・ハッシュタグは「#αSTATION」</p> <p>・ハッシュタグは「#FM京都」</p>",
               "pfm": "10-FEET",
               "img": "https://program-static.cf.radiko.jp/9a76d4f3-29e3-4e69-812f-6035a6b75593.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ROTTENGRAFFTY"
-                  },
-                  {
-                    "name": "音楽"
-                  }
-                ]
-              },
               "genre": {
                 "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 },
                 "program": {
                   "-id": "P005",

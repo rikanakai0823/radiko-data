@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1750096797",
+    "srvtime": "1750183254",
     "stations": {
       "station": {
         "-id": "FM-SANIN",
@@ -1494,9 +1494,20 @@
               "pfm": "崎山蒼志 / リュックと添い寝ごはん / 友成空 / Laura day romance",
               "img": "https://program-static.cf.radiko.jp/7092v8mnbt.jpg",
               "tag": {
-                "item": {
-                  "name": "人気アーティストトーク"
-                }
+                "item": [
+                  {
+                    "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "音楽"
+                  },
+                  {
+                    "name": "トーク"
+                  },
+                  {
+                    "name": "ライフスタイル"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1504,8 +1515,8 @@
                   "name": "ミュージシャン"
                 },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
