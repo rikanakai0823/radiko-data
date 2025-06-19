@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1750270197",
+    "srvtime": "1750356657",
     "stations": {
       "station": {
         "-id": "AIR-G",
@@ -264,10 +264,76 @@
             {
               "-id": "11774281",
               "-ft": "20250619082000",
-              "-to": "20250619090000",
+              "-to": "20250619084000",
               "-ftl": "0820",
+              "-tol": "0840",
+              "-dur": "1200",
+              "title": "Morning Gathering",
+              "url": "http://www.air-g.co.jp/mg/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\tNEWS、天気予報、道路交通情報などなど朝にマストな情報を中心にお届けします。 <br /><br />\t番組Webサイト：<a href=\"http://www.air-g.co.jp/mg/\">http://www.air-g.co.jp/mg/</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%8E%E3%82%83%E3%81%96%E3%82%8A%E3%82%93%E3%81%90\">#ぎゃざりんぐ</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/AIRG_FM\">@AIRG_FM</a>」<br /><br /></div>",
+              "img": "https://program-static.cf.radiko.jp/vkrpq3iibk.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11830611",
+              "-ft": "20250619084000",
+              "-to": "20250619085000",
+              "-ftl": "0840",
+              "-tol": "0850",
+              "-dur": "600",
+              "title": "ゴマちゃん先生のカーメンテナンス講座",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/14ef1ff7-91e7-4ba5-8ea6-1dea11d13fb9_sq.jpg\" height=\"60\" width=\"60\" alt=\"森本優\"></td>  </tr></table><br /><br />\tゴマちゃん先生こと、札幌地方自動車整備振興会の胡摩崎さんが、快適なカーライフに必要なメンテナンスの方法を教えてくれます！ <br /><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%B4%E3%83%9E%E3%81%A1%E3%82%83%E3%82%93%E5%85%88%E7%94%9F\">#ゴマちゃん先生</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/airg_m\">@airg_m</a>」<br /><br /></div>",
+              "pfm": "森本優",
+              "img": "https://program-static.cf.radiko.jp/f1641508-94ca-4489-af70-d05f12d96a92.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11830612",
+              "-ft": "20250619085000",
+              "-to": "20250619090000",
+              "-ftl": "0850",
               "-tol": "0900",
-              "-dur": "2400",
+              "-dur": "600",
               "title": "Morning Gathering",
               "url": "http://www.air-g.co.jp/mg/",
               "failed_record": "0",
