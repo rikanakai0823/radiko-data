@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1750356665",
+    "srvtime": "1750529398",
     "stations": {
       "station": {
         "-id": "JRT",
@@ -1594,40 +1594,44 @@
               }
             },
             {
-              "-id": "11801682",
+              "-id": "11837288",
               "-ft": "20250625181500",
-              "-to": "20250625210000",
+              "-to": "20250625190000",
               "-ftl": "1815",
-              "-tol": "2100",
-              "-dur": "9900",
-              "title": "ＪＲＴゴールデンナイター",
+              "-tol": "1900",
+              "-dur": "2700",
+              "title": "ﾅｲﾀｰｽﾍﾟｼｬﾙ　いつでも　みんなのプロ野球",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "　　",
-              "img": "https://program-static.cf.radiko.jp/b931b9db-6958-459d-a4f9-84df29fef11e.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "プロ野球"
-                  },
-                  {
-                    "name": "野球中継"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
+              "pfm": "ニッポン放送スポーツアナウンサー",
+              "img": "https://program-static.cf.radiko.jp/7e5c28d7-0c85-4a66-8c81-5a0cee890c42.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
                 }
-              },
+              }
+            },
+            {
+              "-id": "11837289",
+              "-ft": "20250625190000",
+              "-to": "20250625210000",
+              "-ftl": "1900",
+              "-tol": "2100",
+              "-dur": "7200",
+              "title": "ﾅｲﾀｰｽﾍﾟｼｬﾙ　峯村健司と松本秀夫の政界・球界オモテウラ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "　　",
+              "pfm": "峯村健司／松本秀夫／飯田浩司（ニッポン放送アナウンサー）",
+              "img": "https://program-static.cf.radiko.jp/7e5c28d7-0c85-4a66-8c81-5a0cee890c42.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
