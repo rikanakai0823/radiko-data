@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1750443062",
+    "srvtime": "1750702205",
     "stations": {
       "station": {
         "-id": "KBS",
@@ -486,25 +486,40 @@
               }
             },
             {
-              "-id": "11796213",
+              "-id": "11849391",
               "-ft": "20250626180000",
-              "-to": "20250626210000",
+              "-to": "20250626190000",
               "-ftl": "1800",
-              "-tol": "2100",
-              "-dur": "10800",
-              "title": "KBS京都エキサイティングナイター",
+              "-tol": "1900",
+              "-dur": "3600",
+              "title": "ナイタースペシャル　いつでもみんなのプロ野球",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/504ky7gzel.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
                 }
-              },
+              }
+            },
+            {
+              "-id": "11849392",
+              "-ft": "20250626190000",
+              "-to": "20250626210000",
+              "-ftl": "1900",
+              "-tol": "2100",
+              "-dur": "7200",
+              "title": "ナイタースペシャル　内田雄基のサウンドコレクション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/504ky7gzel.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
