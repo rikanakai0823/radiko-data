@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1751307074",
+    "srvtime": "1751479795",
     "stations": {
       "station": {
         "-id": "RNB",
@@ -150,9 +150,13 @@
               "desc": "注目商品を紹介するショッピング番組。",
               "img": "https://program-static.cf.radiko.jp/2e51ff37-5fae-470a-ad23-61a4f1d3aeba.png",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
