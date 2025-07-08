@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1751653388",
+    "srvtime": "1751999046",
     "stations": {
       "station": {
         "-id": "WBS",
@@ -1313,10 +1313,10 @@
             {
               "-id": "11885532",
               "-ft": "20250710190000",
-              "-to": "20250710200000",
+              "-to": "20250710195000",
               "-ftl": "1900",
-              "-tol": "2000",
-              "-dur": "3600",
+              "-tol": "1950",
+              "-dur": "3000",
               "title": "参議院選挙　政見放送",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -1324,6 +1324,33 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/160ae7ca-687e-4d1c-a9d1-08c755283364.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11918457",
+              "-ft": "20250710195000",
+              "-to": "20250710200000",
+              "-ftl": "1950",
+              "-tol": "2000",
+              "-dur": "600",
+              "title": "Face the Music",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/16a2a69f-6d03-42e3-9a0b-9bbb1740b4f1.png",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
