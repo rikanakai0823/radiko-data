@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1752516606",
+    "srvtime": "1752603043",
     "stations": {
       "station": {
         "-id": "CRT",
@@ -308,6 +308,12 @@
               "tsplus_out_ng": "0",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E6%A0%83%E6%9C%A8%E6%94%BE%E9%80%81\">#栃木放送</a>」",
               "img": "https://program-static.cf.radiko.jp/ue0qn5uefj.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -592,6 +598,21 @@
               "info": "Ｘハッシュタグは「#栃木放送」\n",
               "pfm": "APES",
               "img": "https://program-static.cf.radiko.jp/b49f9edc-64f0-49ec-a15d-b3ee38dcddc9.jpeg",
+              "tag": {
+                "item": {
+                  "name": "APES"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
