@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1752775886",
+    "srvtime": "1752862218",
     "stations": {
       "station": {
         "-id": "RN1",
@@ -691,21 +691,48 @@
               }
             },
             {
-              "-id": "11947435",
+              "-id": "11966144",
               "-ft": "20250723171000",
-              "-to": "20250723180000",
+              "-to": "20250723174000",
               "-ftl": "1710",
-              "-tol": "1800",
-              "-dur": "3000",
-              "title": "RADIO NIKKEI Music Time",
-              "url": "https://www.radionikkei.jp/musicnight/",
+              "-tol": "1740",
+              "-dur": "1800",
+              "title": "耳で聴く後藤達也note",
+              "url": "https://www.radionikkei.jp/goto_note/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "50分ノンストップでお送りするミュージックプログラム。邦楽・洋楽を問わず、懐かしい曲からトレンドの曲まで、様々な音楽をお届けします。",
-              "img": "https://program-static.cf.radiko.jp/f3ba3db9-84e3-4e49-9fbf-cc1875caf702.jpeg",
+              "img": "https://program-static.cf.radiko.jp/15fminsuos.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11966145",
+              "-ft": "20250723174000",
+              "-to": "20250723180000",
+              "-ftl": "1740",
+              "-tol": "1800",
+              "-dur": "1200",
+              "title": "ミュージックアプリ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "この時間は、著作権フリーの楽曲を使用しています。",
+              "img": "https://program-static.cf.radiko.jp/d548ca77-a3d3-4df6-a80e-0f071dccf11d.png",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
