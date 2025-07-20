@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1752949323",
+    "srvtime": "1753035729",
     "stations": {
       "station": {
         "-id": "RSK",
@@ -78,7 +78,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "新しく始まる1日を笑顔で、元気に、HAPPYに\n過ごしませんか？",
+              "desc": "新しく始まる1日を笑顔で、元気に、HAPPYに\r\n過ごしませんか？",
               "pfm": "純烈・酒井一圭",
               "img": "https://program-static.cf.radiko.jp/a2edb18c-b0ad-42e7-8ef1-4b329ff3f722.jpeg",
               "metas": {
@@ -170,7 +170,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "ニュース、交通情報、エリアの情報。通勤タイムにお伝えします！",
-              "info": "mail　asa@rsk.co.jp\nFAX　086-233-3550",
+              "info": "mail　asa@rsk.co.jp\r\nFAX　086-233-3550",
               "pfm": "滝沢忠孝",
               "img": "https://program-static.cf.radiko.jp/a5e94a87-bfa5-4883-8969-b32a3e5311fc.jpeg",
               "genre": {
@@ -301,7 +301,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "パックンマックンが世界の面白ニュースを紹介。英会話状態コーナーもありますよ～",
-              "pfm": "パックンマックン\n",
+              "pfm": "パックンマックン\r\n",
               "img": "https://program-static.cf.radiko.jp/fb1e3b99-d0ac-4e2d-8d6d-17335cb07006.jpeg",
               "tag": {
                 "item": {
@@ -408,10 +408,10 @@
             {
               "-id": "11957365",
               "-ft": "20250725085000",
-              "-to": "20250725085500",
+              "-to": "20250725110000",
               "-ftl": "0850",
-              "-tol": "0855",
-              "-dur": "300",
+              "-tol": "1100",
+              "-dur": "7800",
               "title": "天神ワイド　朝",
               "url": "https://www.rsk.co.jp/radio/tenjin_wide/",
               "failed_record": "0",
@@ -420,7 +420,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "情報をたっぷりお伝えします！",
-              "info": "mail　asa@rsk.co.jp\nFAX　086-233-3550",
+              "info": "mail　asa@rsk.co.jp\r\nFAX　086-233-3550",
               "pfm": "滝沢忠孝",
               "img": "https://program-static.cf.radiko.jp/a5e94a87-bfa5-4883-8969-b32a3e5311fc.jpeg",
               "genre": {
@@ -441,21 +441,299 @@
               }
             },
             {
-              "-id": "11968198",
-              "-ft": "20250725085500",
-              "-to": "20250725150000",
-              "-ftl": "0855",
-              "-tol": "1500",
-              "-dur": "21900",
-              "title": "第107回全国高等学校野球選手権岡山大会 準決勝第一試合 第二試合",
+              "-id": "11971373",
+              "-ft": "20250725110000",
+              "-to": "20250725110500",
+              "-ftl": "1100",
+              "-tol": "1105",
+              "-dur": "300",
+              "title": "ＲＳＫラジオニュース",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "　　",
-              "pfm": "・第一試合 実況：坂井亮太（RSKアナウンサー） 解説：長谷川寛 ・第二試合 実況：柏野仁弥（RSKアナウンサー） 解説：岡政裕",
               "img": "https://program-static.cf.radiko.jp/342ac8cb-4674-4daf-a124-befe7f6663b0.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11971374",
+              "-ft": "20250725110500",
+              "-to": "20250725111000",
+              "-ftl": "1105",
+              "-tol": "1110",
+              "-dur": "300",
+              "title": "永瀬清子の世界",
+              "url": "https://www.rsk.co.jp/radio/nagasekiyoko/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "　　",
+              "img": "https://program-static.cf.radiko.jp/f97f5620-c5dc-4b69-bb99-b90632f98497.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11971375",
+              "-ft": "20250725111000",
+              "-to": "20250725112000",
+              "-ftl": "1110",
+              "-tol": "1120",
+              "-dur": "600",
+              "title": "大自然まるかじりライフ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "河村通夫が長年こだわり続けた「健康」がテーマ",
+              "pfm": "河村通夫",
+              "img": "https://program-static.cf.radiko.jp/37dedb2f-7040-475b-9fa6-dddf968855fd.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11971376",
+              "-ft": "20250725112000",
+              "-to": "20250725112500",
+              "-ftl": "1120",
+              "-tol": "1125",
+              "-dur": "300",
+              "title": "今週の一曲",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "　　",
+              "pfm": "スキマスイッチ「全力少年」",
+              "img": "https://program-static.cf.radiko.jp/3baee13c-f305-4920-ac93-510429fcb147.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "#音楽との出会いが楽しめる"
+                  },
+                  {
+                    "name": "#音楽番組"
+                  },
+                  {
+                    "name": "#音楽な時間"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11971377",
+              "-ft": "20250725112500",
+              "-to": "20250725113500",
+              "-ftl": "1125",
+              "-tol": "1135",
+              "-dur": "600",
+              "title": "時東ぁみの危機耳ラジオ～その時のために～",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "　　",
+              "pfm": "時東ぁみ",
+              "img": "https://program-static.cf.radiko.jp/de845809-fc97-44c7-a042-cf0cd1278611.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11971378",
+              "-ft": "20250725113500",
+              "-to": "20250725114000",
+              "-ftl": "1135",
+              "-tol": "1140",
+              "-dur": "300",
+              "title": "ＬＵＮＣＨリクエスト",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "　　",
+              "img": "https://program-static.cf.radiko.jp/5ecdb121-451f-4fc3-9be5-b33a26297d7f.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11971379",
+              "-ft": "20250725114000",
+              "-to": "20250725114500",
+              "-ftl": "1140",
+              "-tol": "1145",
+              "-dur": "300",
+              "title": "身近なことからＳＤＧｓ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "地球のため、次世代のため、今すぐできることについてゲストを迎えトーク",
+              "pfm": "牛窪万里子",
+              "img": "https://program-static.cf.radiko.jp/5e42de9b-f1be-460c-bc1d-be22e530c5c2.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11971380",
+              "-ft": "20250725114500",
+              "-to": "20250725120000",
+              "-ftl": "1145",
+              "-tol": "1200",
+              "-dur": "900",
+              "title": "いちふくもちの青春夏ソング",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "　　",
+              "pfm": "一坪花音・福田雅・望月陽茉莉（ＲＳＫアナウンサー）",
+              "img": "https://program-static.cf.radiko.jp/5ecdb121-451f-4fc3-9be5-b33a26297d7f.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11971381",
+              "-ft": "20250725120000",
+              "-to": "20250725121000",
+              "-ftl": "1200",
+              "-tol": "1210",
+              "-dur": "600",
+              "title": "ＲＳＫラジオニュース",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "　　",
+              "img": "https://program-static.cf.radiko.jp/342ac8cb-4674-4daf-a124-befe7f6663b0.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11971382",
+              "-ft": "20250725121000",
+              "-to": "20250725150000",
+              "-ftl": "1210",
+              "-tol": "1500",
+              "-dur": "10200",
+              "title": "あもーれ！マッタリーノ",
+              "url": "https://www.rsk.co.jp/radio/amore/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "メールはamore@rsk.co.jp\r\nＦＡＸは086-232-2515",
+              "pfm": "相田翔吾・安井優子",
+              "img": "https://program-static.cf.radiko.jp/831e92df-eea2-4325-a0bf-1b5f5068b575.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -477,7 +755,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "メールはamore@rsk.co.jp\nＦＡＸは086-232-2515",
+              "desc": "メールはamore@rsk.co.jp\r\nＦＡＸは086-232-2515",
               "info": "ＲＳＫらじお本舗から生放送。",
               "pfm": "相田翔吾・安井優子",
               "img": "https://program-static.cf.radiko.jp/831e92df-eea2-4325-a0bf-1b5f5068b575.jpeg",
@@ -696,7 +974,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "twitterハッシュタグは、＃rnb1116\nfacebookページはhttps://www.facebook.com/official.rnb.co.jp",
+              "desc": "twitterハッシュタグは、＃rnb1116\r\nfacebookページはhttps://www.facebook.com/official.rnb.co.jp",
               "info": "俳句集団いつき組の組長夏井いつきが、リスナーからの投句をユーモアたっぷりに辛口批評します。さて、あなたの一句は？",
               "pfm": "夏井いつき",
               "img": "https://program-static.cf.radiko.jp/389254ab-f713-4505-95c2-7e6b09ddb43d.jpeg",
@@ -814,8 +1092,8 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "メールはn-jikan@rsk.co.jp\nＦＡＸは086-233-3550",
-              "info": "おかやまの\n知りたい「ニュース」\n知りたい「天気予報」\n知りたい「交通情報」\nギュギュッと３０分でお伝えします！",
+              "desc": "メールはn-jikan@rsk.co.jp\r\nＦＡＸは086-233-3550",
+              "info": "おかやまの\r\n知りたい「ニュース」\r\n知りたい「天気予報」\r\n知りたい「交通情報」\r\nギュギュッと３０分でお伝えします！",
               "img": "https://program-static.cf.radiko.jp/ba8dca78-75d4-4265-9d14-05151eb20057.jpeg",
               "tag": {
                 "item": {
@@ -997,7 +1275,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "メール　tatsuya@abc1008.com\ntwitter　＃タツラジ",
+              "desc": "メール　tatsuya@abc1008.com\r\ntwitter　＃タツラジ",
               "img": "https://program-static.cf.radiko.jp/08999662-5ae1-4043-a7bc-b15bb82a26ea.jpeg",
               "genre": {
                 "personality": {
@@ -1031,7 +1309,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "　　",
-              "info": "twitter\n　（月）＃山田裕貴ＡＮＮ\n　（火）＃星野源ＡＮＮ\n　（水）＃乃木坂46ＡＮＮ\n　（木）＃ナインティナインＡＮＮ\n　（金）＃霜降り明星ＡＮＮ",
+              "info": "twitter\r\n　（月）＃山田裕貴ＡＮＮ\r\n　（火）＃星野源ＡＮＮ\r\n　（水）＃乃木坂46ＡＮＮ\r\n　（木）＃ナインティナインＡＮＮ\r\n　（金）＃霜降り明星ＡＮＮ",
               "pfm": "霜降り明星",
               "img": "https://program-static.cf.radiko.jp/dd018995-72a9-4aea-8235-e43934c88cf3.jpeg",
               "genre": {
