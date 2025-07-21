@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1753035032",
+    "srvtime": "1753121400",
     "stations": {
       "station": {
         "-id": "FMGUNMA",
@@ -454,6 +454,10 @@
                 }
               },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
@@ -541,6 +545,10 @@
               "info": "<div class=\"station_content_description \">\tNEWS <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/d60b8556-5ab1-42e2-ad7c-2059b08535d3.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P001",
                   "name": "ニュース/天気/交通"
