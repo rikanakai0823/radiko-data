@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1753121411",
+    "srvtime": "1753207861",
     "stations": {
       "station": {
         "-id": "WBS",
@@ -393,10 +393,10 @@
             {
               "-id": "11913635",
               "-ft": "20250726083500",
-              "-to": "20250726084500",
+              "-to": "20250726084000",
               "-ftl": "0835",
-              "-tol": "0845",
-              "-dur": "600",
+              "-tol": "0840",
+              "-dur": "300",
               "title": "wbsインフォメーション",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -419,25 +419,19 @@
               }
             },
             {
-              "-id": "11913636",
-              "-ft": "20250726084500",
-              "-to": "20250726090000",
-              "-ftl": "0845",
-              "-tol": "0900",
-              "-dur": "900",
-              "title": "ニュース・天気予報・レースガイド",
+              "-id": "11980568",
+              "-ft": "20250726084000",
+              "-to": "20250726085200",
+              "-ftl": "0840",
+              "-tol": "0852",
+              "-dur": "720",
+              "title": "高野町観光協会ラジオカーレポート",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -446,131 +440,19 @@
               }
             },
             {
-              "-id": "11913637",
-              "-ft": "20250726090000",
-              "-to": "20250726100000",
-              "-ftl": "0900",
-              "-tol": "1000",
-              "-dur": "3600",
-              "title": "ウインズ平阪の紀州和歌山へ！",
-              "url": "https://wbs-radio.com/sata/",
+              "-id": "11980569",
+              "-ft": "20250726085200",
+              "-to": "20250726111000",
+              "-ftl": "0852",
+              "-tol": "1110",
+              "-dur": "8280",
+              "title": "第１０７回全国高校野球選手権和歌山大会　実況中継",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "平阪＆赤井の名コンビ☆和歌山の観光情報やイベント情報、アーティスト情報など、とにかく、ふるさと「紀州和歌山」を全力でPR!!<br><br>\n\n9時台<br>\n▽ニュース・天気予報・交通情報<br>\n▽快適生活ラジオショッピング<br>\n",
-              "info": "<br/><br/>\n<a href=\"mailto:sata@wbs.co.jp\">リクエスト・メールはこちらから</a>\n<br/><br/>\n<a href=\"http://wbs-radio.com/sata/\">番組ブログはこちらから</a>\n<br/>",
-              "pfm": "ウインズ平阪、赤井ゆかり",
-              "img": "https://program-static.cf.radiko.jp/l9bxdcobfj.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "11913638",
-              "-ft": "20250726100000",
-              "-to": "20250726110000",
-              "-ftl": "1000",
-              "-tol": "1100",
-              "-dur": "3600",
-              "title": "ウインズ平阪の紀州和歌山へ！",
-              "url": "https://wbs-radio.com/sata/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "平阪＆赤井の名コンビ☆和歌山の観光情報やイベント情報、アーティスト情報など、とにかく、ふるさと「紀州和歌山」を全力でPR!!<br><br>\n\n１０時台<br>\n▽ニュース・天気予報・交通情報<br>\n▽ラジオで女子旅（最終週）<br>\n▽毎日新聞支局長だより（第3週）<br>\n\n\n\n\n",
-              "info": "<br/><br/>\n<a href=\"mailto:sata@wbs.co.jp\">リクエスト・メールはこちらから</a>\n<br/><br/>\n<a href=\"http://wbs-radio.com/sata/\">番組ブログはこちらから</a>\n<br/><br/>\n<a href=\"https://wbs-radio.com/tabi/\">ラジオで女子旅番組Web</a>\n<br/><br/>\n<a href=\"https://twitter.com/joshitabiradio\">Twitter ラジオで女子旅（WBS和歌山放送）</a>\n<br/><br/>\n<a href=\"https://www.instagram.com/joshitabiradio/\">Instagram ラジオで女子旅</a>",
-              "pfm": "ウインズ平阪、赤井ゆかり",
-              "img": "https://program-static.cf.radiko.jp/l9bxdcobfj.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "11913639",
-              "-ft": "20250726110000",
-              "-to": "20250726113000",
-              "-ftl": "1100",
-              "-tol": "1130",
-              "-dur": "1800",
-              "title": "ウインズ平阪の紀州和歌山へ！",
-              "url": "https://wbs-radio.com/sata/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "平阪＆赤井の名コンビ☆和歌山の観光情報やイベント情報、アーティスト情報など、とにかく、ふるさと「紀州和歌山」を全力でPR!!<br><br>\n\n11時台<br>\n▽ニュース・天気予報・交通情報<br>\n▽花キューピット<br>\n",
-              "info": "<br/><br/>\n<a href=\"mailto:sata@wbs.co.jp\">リクエスト・メールはこちらから</a>\n<br/><br/>\n<a href=\"http://wbs-radio.com/sata/\">番組ブログはこちらから</a>\n<br/>",
-              "pfm": "ウインズ平阪、赤井ゆかり",
-              "img": "https://program-static.cf.radiko.jp/l9bxdcobfj.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "11913640",
-              "-ft": "20250726113000",
-              "-to": "20250726114000",
-              "-ftl": "1130",
-              "-tol": "1140",
-              "-dur": "600",
-              "title": "あなたをまもる医療機器",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "pfm": "赤井ゆかり　他",
               "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P010",
-                  "name": "医療"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -579,11 +461,11 @@
               }
             },
             {
-              "-id": "11913641",
-              "-ft": "20250726114000",
-              "-to": "20250726115000",
-              "-ftl": "1140",
-              "-tol": "1150",
+              "-id": "11980570",
+              "-ft": "20250726111000",
+              "-to": "20250726112000",
+              "-ftl": "1110",
+              "-tol": "1120",
               "-dur": "600",
               "title": "県庁だより",
               "url": "https://www.pref.wakayama.lg.jp/prefg/000200/kouhou.html#tv",
@@ -609,31 +491,66 @@
               }
             },
             {
-              "-id": "11913642",
-              "-ft": "20250726115000",
-              "-to": "20250726120000",
-              "-ftl": "1150",
-              "-tol": "1200",
-              "-dur": "600",
-              "title": "ウインズ平阪の紀州和歌山へ！",
-              "url": "https://wbs-radio.com/sata/",
+              "-id": "11980571",
+              "-ft": "20250726112000",
+              "-to": "20250726112500",
+              "-ftl": "1120",
+              "-tol": "1125",
+              "-dur": "300",
+              "title": "花キューピット",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "平阪＆赤井の名コンビ☆和歌山の観光情報やイベント情報、アーティスト情報など、とにかく、ふるさと「紀州和歌山」を全力でPR!!<br>\n\n\n",
-              "info": "<br/><br/>\n<a href=\"mailto:sata@wbs.co.jp\">リクエスト・メールはこちらから</a>\n<br/><br/>\n<a href=\"http://wbs-radio.com/sata/\">番組ブログはこちらから</a>\n<br/>",
-              "pfm": "ウインズ平阪、赤井ゆかり",
-              "img": "https://program-static.cf.radiko.jp/l9bxdcobfj.jpg",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11980572",
+              "-ft": "20250726112500",
+              "-to": "20250726134000",
+              "-ftl": "1125",
+              "-tol": "1340",
+              "-dur": "8100",
+              "title": "第１０７回全国高校野球選手権和歌山大会　実況中継",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "11980573",
+              "-ft": "20250726134000",
+              "-to": "20250726135000",
+              "-ftl": "1340",
+              "-tol": "1350",
+              "-dur": "600",
+              "title": "あなたをまもる医療機器",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "pfm": "赤井ゆかり　他",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
               "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P010",
+                  "name": "医療"
                 }
               },
               "metas": {
@@ -644,19 +561,18 @@
               }
             },
             {
-              "-id": "11913643",
-              "-ft": "20250726120000",
-              "-to": "20250726120500",
-              "-ftl": "1200",
-              "-tol": "1205",
-              "-dur": "300",
+              "-id": "11980574",
+              "-ft": "20250726135000",
+              "-to": "20250726140000",
+              "-ftl": "1350",
+              "-tol": "1400",
+              "-dur": "600",
               "title": "ニュース・天気予報",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "pfm": "赤井ゆかり",
               "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
               "genre": {
                 "program": {
@@ -672,48 +588,19 @@
               }
             },
             {
-              "-id": "11913644",
-              "-ft": "20250726120500",
-              "-to": "20250726130000",
-              "-ftl": "1205",
-              "-tol": "1300",
-              "-dur": "3300",
-              "title": "ラジオカフェサタデー",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "和歌山県にゆかりのある政治、経済、文化人らをゲストに迎え、パーソナリティの赤井ゆかりが、その人となりに触れながらトークを繰り広げます。",
-              "pfm": "赤井ゆかり",
-              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "11913645",
-              "-ft": "20250726130000",
-              "-to": "20250726131000",
-              "-ftl": "1300",
-              "-tol": "1310",
-              "-dur": "600",
-              "title": "ニュース・天気予報・交通情報",
+              "-id": "11980575",
+              "-ft": "20250726140000",
+              "-to": "20250726151500",
+              "-ftl": "1400",
+              "-tol": "1515",
+              "-dur": "4500",
+              "title": "音楽と話題",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -722,89 +609,24 @@
               }
             },
             {
-              "-id": "11913646",
-              "-ft": "20250726131000",
-              "-to": "20250726144500",
-              "-ftl": "1310",
-              "-tol": "1445",
-              "-dur": "5700",
-              "title": "オークワはっぴいアフタヌーン",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "「あなたからのお便りが、主役です！」\n週替わりのテーマや食に関するメッセージ＆リクエスト曲をお届けする、食育応援番組。\nメッセージをお寄せいただいた方の中から毎週抽選でお一人に、オークワの１万円分の商品券が当たります！\n\nメールは、ok@wbs.co.jpへ！",
-              "info": "<br/><br/>\n<a href=\"mailto:ok@wbs.co.jp\n\">リクエスト・メールはこちらから</a>\n<br/><br/>",
-              "pfm": "中川智美",
-              "img": "https://program-static.cf.radiko.jp/6ad081a3-5e2a-4ea0-a99f-a3d1d765871a.gif",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "11913647",
-              "-ft": "20250726144500",
-              "-to": "20250726150000",
-              "-ftl": "1445",
-              "-tol": "1500",
-              "-dur": "900",
-              "title": "BBミュージック",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/160ae7ca-687e-4d1c-a9d1-08c755283364.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "11913648",
-              "-ft": "20250726150000",
+              "-id": "11980576",
+              "-ft": "20250726151500",
               "-to": "20250726160000",
-              "-ftl": "1500",
+              "-ftl": "1515",
               "-tol": "1600",
-              "-dur": "3600",
-              "title": "WA!ERA",
-              "url": "http://wbs-waera.sblo.jp/",
+              "-dur": "2700",
+              "title": "瑠香のDrive Radio",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "私たちの声が、新しい時代をつくる！SNSに慣れ親しんでいるジモト和歌山の若者たちに、自らの言葉で表現してもらう高校生参加型番組。\n<br/>コーナー<br/>\n15:15　瑠香のDrive Radio!",
-              "info": "<br/><br/>\n<a href=\"mailto:waka@wbs.co.jp\n\">リクエスト・メールはこちらから</a>\n<br/><br/>\ntwitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23wbsradio\">#wbsradio</a>」\n<br/>\ntwitterアカウントは「<a href=\"http://twitter.com/wbsradio\">@wbsradio</a>」",
-              "pfm": "三浦ちあき　他",
-              "img": "https://program-static.cf.radiko.jp/160ae7ca-687e-4d1c-a9d1-08c755283364.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P003",
-                  "name": "情報"
-                }
-              },
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
               "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#wbsradio"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:wbsradio"
-                  }
-                ]
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
               }
             },
             {
@@ -1063,20 +885,21 @@
               }
             },
             {
-              "-id": "11913660",
+              "-id": "11980577",
               "-ft": "20250726210000",
               "-to": "20250726220000",
               "-ftl": "2100",
               "-tol": "2200",
               "-dur": "3600",
-              "title": "空気階段の踊り場",
+              "title": "Let's Enjoy! ゆうゆうミュージック♪",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "pfm": "空気階段",
-              "img": "https://program-static.cf.radiko.jp/57477bb8-b4a8-4203-a8aa-65d71b34f688.jpeg",
+              "desc": "石元優々（いしもと・ゆうゆ）さんが、\n洋邦問わず珠玉の名曲を紹介する音楽番組。\n健康へのアドバイスやお便り紹介も交えてお送りする60分。",
+              "pfm": "石元優々",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1252,7 +1075,7 @@
               "-ftl": "2500",
               "-tol": "2700",
               "-dur": "7200",
-              "title": "オードリーのオールナイトニッポン",
+              "title": "RIP SLYME のオールナイトニッポン",
               "url": "http://www.allnightnippon.com/kw/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -1261,8 +1084,8 @@
               "tsplus_out_ng": "0",
               "desc": "人気お笑いコンビ「オードリー」が、『オールナイトニッポン』のパーソナリティとして登場！<br>２人はどんな風にあなたのハートをわしづかみにするのか？<br>そしてどんな新しい「オードリー」を聴かせてくれるのか？<br>テレビでは決して聴くことのできない限界ギリギリのフリートーク満載の2時間！<br>土曜日の夜が待ち遠しくなる！",
               "info": "<br/><br/>\n<a href=\"mailto:kw@allnightnippon.com\">リクエスト・メールはこちらから</a>\n<br/><br/>",
-              "pfm": "オードリー(若林正恭/春日俊彰)",
-              "img": "https://program-static.cf.radiko.jp/fcfc4a9a-fa79-4912-895c-675f62126641.jpeg",
+              "pfm": "RIP SLYME",
+              "img": "https://program-static.cf.radiko.jp/50dc968f-abc3-47cc-8718-ba1619c7409e.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C009",

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1753121402",
+    "srvtime": "1753207854",
     "stations": {
       "station": {
         "-id": "WBS",
@@ -733,6 +733,16 @@
               "info": "<br/><br/>\n<a href=\"mailto:news@wbs.co.jp\">リクエスト・メールはこちらから</a>\n<br/><br/>",
               "pfm": "笠野衣美",
               "img": "https://program-static.cf.radiko.jp/74687d54-26b2-4751-b0aa-b639c2c88e95.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -860,7 +870,7 @@
               "-ftl": "1845",
               "-tol": "1900",
               "-dur": "900",
-              "title": "Face the Music",
+              "title": "TVが伝えない大事な話",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
