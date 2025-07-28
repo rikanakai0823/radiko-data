@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1753380658",
+    "srvtime": "1753726266",
     "stations": {
       "station": {
         "-id": "BSS",
@@ -668,20 +668,30 @@
               }
             },
             {
-              "-id": "11930742",
+              "-id": "12008255",
               "-ft": "20250730130000",
               "-to": "20250730135500",
               "-ftl": "1300",
               "-tol": "1355",
               "-dur": "3300",
-              "title": "ベストミュージックコレクション",
+              "title": "BSSミュージックタイム",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "ベストミュージックコレクション",
+              "desc": "BSSミュージックタイム",
               "img": "https://program-static.cf.radiko.jp/c0cc8746-6d46-449e-8cd5-7aa83491cc9a.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

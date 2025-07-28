@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1753553482",
+    "srvtime": "1753726261",
     "stations": {
       "station": {
         "-id": "RNB",
@@ -566,17 +566,28 @@
             {
               "-id": "11995814",
               "-ft": "20250727112000",
-              "-to": "20250727113000",
+              "-to": "20250727112500",
               "-ftl": "1120",
-              "-tol": "1130",
-              "-dur": "600",
+              "-tol": "1125",
+              "-dur": "300",
               "title": "Fnamブレイク",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
+              "pfm": "古茂田圭",
               "img": "https://program-static.cf.radiko.jp/fb54f033-b22b-48b7-bd34-e3f9dfc366d2.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -586,11 +597,11 @@
             },
             {
               "-id": "11995815",
-              "-ft": "20250727113000",
+              "-ft": "20250727112500",
               "-to": "20250727130000",
-              "-ftl": "1130",
+              "-ftl": "1125",
               "-tol": "1300",
-              "-dur": "5400",
+              "-dur": "5700",
               "title": "第107回全国高校野球選手権 愛媛大会 準決勝 第2試合①",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -620,10 +631,10 @@
             {
               "-id": "11995816",
               "-ft": "20250727130000",
-              "-to": "20250727153000",
+              "-to": "20250727143000",
               "-ftl": "1300",
-              "-tol": "1530",
-              "-dur": "9000",
+              "-tol": "1430",
+              "-dur": "5400",
               "title": "第107回全国高校野球選手権 愛媛大会 準決勝 第2試合②",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -641,6 +652,38 @@
                 "program": {
                   "-id": "P002",
                   "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12007805",
+              "-ft": "20250727143000",
+              "-to": "20250727153000",
+              "-ftl": "1430",
+              "-tol": "1530",
+              "-dur": "3600",
+              "title": "平野和子のブレークオン with 山口さんちのコータローくん",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "pfm": "平野和子 / 山口皓太郎",
+              "img": "https://program-static.cf.radiko.jp/fb54f033-b22b-48b7-bd34-e3f9dfc366d2.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
