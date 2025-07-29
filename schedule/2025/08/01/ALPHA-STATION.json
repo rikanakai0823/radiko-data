@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1753553492",
+    "srvtime": "1753812600",
     "stations": {
       "station": {
         "-id": "ALPHA-STATION",
@@ -579,43 +579,12 @@
               }
             },
             {
-              "-id": "11998761",
+              "-id": "12016314",
               "-ft": "20250802003000",
               "-to": "20250802010000",
               "-ftl": "2430",
               "-tol": "2500",
               "-dur": "1800",
-              "title": "ANTHEM SONGS",
-              "url": "https://fm-kyoto.jp/blog/anthem_songs/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "夜に聴きたい、あなたにぴったりのジャンルレスなアンセム的ソングを中心としたプレイリストでお届けします。",
-              "info": "<p>■Xアカウントは「<a href=\"http://twitter.com/fmkyoto\">@fmkyoto</a>」</p>  <p>ハッシュタグは「#FM京都」</p>",
-              "pfm": "NON-DJ(ANTHEM SONGS)",
-              "img": "https://program-static.cf.radiko.jp/3d152334-eb29-4e63-a6c5-8443ebddf1bc.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "11998762",
-              "-ft": "20250802010000",
-              "-to": "20250802030000",
-              "-ftl": "2500",
-              "-tol": "2700",
-              "-dur": "7200",
               "title": "OTABI STATION",
               "url": "https://fm-kyoto.jp/blog/otabi_station/",
               "failed_record": "0",
@@ -627,6 +596,50 @@
               "info": "<br /><br /><p>⇒リクエストは<a href=\"https://fm-kyoto.jp/message/?program=OTABI+STATION\">コチラへ</a></p><br /> <p>Xアカウントは「<a href=\"http://twitter.com/fmkyoto\">@fmkyoto</a>」</p><p>ハッシュタグは「#OTABISTATION」</p>  <p>ハッシュタグは「#FM京都」</p>",
               "pfm": "KI_EN",
               "img": "https://program-static.cf.radiko.jp/256dcc72-90f4-464d-a498-c201535f8c70.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12016315",
+              "-ft": "20250802010000",
+              "-to": "20250802030000",
+              "-ftl": "2500",
+              "-tol": "2700",
+              "-dur": "7200",
+              "title": "α-MIDNIGHT JAZZ",
+              "url": "https://fm-kyoto.jp/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "特別席を想像させるような極上のJAZZを中心にソフィスケートされたミュージックプログラム。\n",
+              "info": "<br /><br /> <p>Xアカウントは「<a href=\"http://twitter.com/fmkyoto\">@fmkyoto</a>」</p> <p>ハッシュタグは「#αSTATION」</p> <p>ハッシュタグは「#FM京都」</p> ",
+              "pfm": "NON-DJ(α-MIDNIGHT JAZZ)",
+              "img": "https://program-static.cf.radiko.jp/exbuko4ovt.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "癒しのジャズ"
+                  },
+                  {
+                    "name": "深夜"
+                  },
+                  {
+                    "name": "ジャズ"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
