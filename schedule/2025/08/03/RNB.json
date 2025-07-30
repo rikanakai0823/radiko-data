@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1753726275",
+    "srvtime": "1753899127",
     "stations": {
       "station": {
         "-id": "RNB",
@@ -1027,17 +1027,27 @@
               "-ftl": "1730",
               "-tol": "1740",
               "-dur": "600",
-              "title": "世界の中心で愛を伝える！JICA海外協力隊(1･3週） / ラジオセラピー～幸せを育む心理学(2･4･5週）",
+              "title": "世界の中心で愛を伝える！JICA海外協力隊(1･3週）",
               "url": "https://blog.rnb.co.jp/shiawase/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "「世界の中心で愛を伝える！JICA海外協力隊(1･3週）」\n<br>愛媛県出身のJICA海外協力隊員へのインタビューをお送りしています。\n<br>\n<br>\n<br>\n「ラジオセラピー～幸せを育む心理学(2･4･5週）」\n<br>「選択理論」の魅力や日常生活での実践例を紹介します。<br>良い人間関係を築くヒントにして下さい。",
+              "desc": "「世界の中心で愛を伝える！JICA海外協力隊(1･3週）」\n<br>愛媛県出身のJICA海外協力隊員へのインタビューをお送りしています。\n",
               "info": "<br><img src=\"https://web.rnb.co.jp/db_ctl/radiko/img/20160920-204526.jpg\"><br>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23rnb1116\">#rnb1116</a>」<br>facebookページは「<a href='https://ja-jp.facebook.com/official.rnb.co.jp/'>https://ja-jp.facebook.com/official.rnb.co.jp/</a>」",
               "pfm": "宇都宮民",
               "img": "https://program-static.cf.radiko.jp/306e84e2-44be-407a-84ac-ae17ebc8c660.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1081,30 +1091,61 @@
               }
             },
             {
-              "-id": "11999185",
+              "-id": "12018283",
               "-ft": "20250803180000",
-              "-to": "20250803200000",
+              "-to": "20250803190000",
               "-ftl": "1800",
-              "-tol": "2000",
-              "-dur": "7200",
-              "title": "中四国ライブネット",
-              "url": "https://radio.rcc.jp/livenet/",
+              "-tol": "1900",
+              "-dur": "3600",
+              "title": "星空の学び舎",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "中四国8局をつないで生放送！\n",
-              "info": "<br>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23rnb1116\">#rnb1116</a>」<br>facebookページは「<a href='https://www.facebook.com/official.rnb.co.jp'>https://www.facebook.com/official.rnb.co.jp</a>」",
-              "img": "https://program-static.cf.radiko.jp/fpg4xtygmx.png",
+              "desc": "全国37の民放ラジオのローカル局が加盟する「地方民間放送共同制作協議会（火曜会）」のコンテストにおいて最優秀賞を受賞したラジオ番組。\n<br>去年4月、熊本県内に初めて開校した「夜間学校」で学ぶ生徒たちに、1年間密着したドキュメンタリー。",
+              "img": "https://program-static.cf.radiko.jp/37ed0ee9-1990-4fa4-b7e4-70cdf23154ef.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C001",
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P009",
+                  "name": "ドキュメンタリー"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12018284",
+              "-ft": "20250803190000",
+              "-to": "20250803200000",
+              "-ftl": "1900",
+              "-tol": "2000",
+              "-dur": "3600",
+              "title": "南海クラシックス６０",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "南海放送レコードライブラリーから名曲を厳選。",
+              "info": "<br>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23rnb1116\">#rnb1116</a>」<br>facebookページは「<a href='https://www.facebook.com/official.rnb.co.jp'>https://www.facebook.com/official.rnb.co.jp</a>」",
+              "img": "https://program-static.cf.radiko.jp/gsx4b4pcxg.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
