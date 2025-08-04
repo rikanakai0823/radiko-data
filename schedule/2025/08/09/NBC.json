@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1754244675",
+    "srvtime": "1754329992",
     "stations": {
       "station": {
         "-id": "NBC",
@@ -513,10 +513,10 @@
             {
               "-id": "12010459",
               "-ft": "20250809085000",
-              "-to": "20250809090000",
+              "-to": "20250809085500",
               "-ftl": "0850",
-              "-tol": "0900",
-              "-dur": "600",
+              "-tol": "0855",
+              "-dur": "300",
               "title": "ＮＢＣ５０ニュース",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -543,67 +543,41 @@
               }
             },
             {
-              "-id": "12010460",
-              "-ft": "20250809090000",
-              "-to": "20250809110000",
-              "-ftl": "0900",
-              "-tol": "1100",
-              "-dur": "7200",
-              "title": "NBC　R50",
-              "url": "https://www.nbc-radio.jp/radio/r45/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "姐御キャラ炸裂の田代奈々と、ちょっと面白い上荒磯勇がお届けする、絶妙トーク番組！！上さんの芸なのか天然なのか判断に困るボケ＆奈々さんのキッついツッコミは聴きどころ！！リスナーさんからのメッセージを紹介するのも気分次第！リクエスト曲を流すのも気分次第！！",
-              "pfm": "上荒磯勇／田代奈々",
-              "img": "https://program-static.cf.radiko.jp/840d20fd-b3bd-423e-a9cd-4afe8420da87.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "12010461",
-              "-ft": "20250809110000",
-              "-to": "20250809113500",
-              "-ftl": "1100",
-              "-tol": "1135",
-              "-dur": "2100",
-              "title": "NBC　R50",
-              "url": "https://www.nbc-radio.jp/radio/r45/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "姐御キャラ炸裂の田代奈々と、ちょっと面白い上荒磯勇がお届けする、絶妙トーク番組！！上さんの芸なのか天然なのか判断に困るボケ＆奈々さんのキッついツッコミは聴きどころ！！リスナーさんからのメッセージを紹介するのも気分次第！リクエスト曲を流すのも気分次第！！",
-              "pfm": "上荒磯勇／田代奈々",
-              "img": "https://program-static.cf.radiko.jp/840d20fd-b3bd-423e-a9cd-4afe8420da87.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "12010462",
-              "-ft": "20250809113500",
-              "-to": "20250809115000",
-              "-ftl": "1135",
-              "-tol": "1150",
-              "-dur": "900",
-              "title": "健康生活インフォメーション",
+              "-id": "12040760",
+              "-ft": "20250809085500",
+              "-to": "20250809090000",
+              "-ftl": "0855",
+              "-tol": "0900",
+              "-dur": "300",
+              "title": "長崎市政だより",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "　　",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12040763",
+              "-ft": "20250809090000",
+              "-to": "20250809120000",
+              "-ftl": "0900",
+              "-tol": "1200",
+              "-dur": "10800",
+              "title": "被爆８０年　平和の日ラジオ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "　　",
+              "pfm": "栗原優美・田代奈々／村山仁志",
               "img": "https://program-static.cf.radiko.jp/74f0a7f5-79dc-4113-bcaf-15554aba7bf3.jpeg",
               "metas": {
                 "meta": {
@@ -613,54 +587,21 @@
               }
             },
             {
-              "-id": "12010463",
-              "-ft": "20250809115000",
-              "-to": "20250809120000",
-              "-ftl": "1150",
-              "-tol": "1200",
-              "-dur": "600",
-              "title": "ＮＢＣ５０ニュース",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "ニュースと情報をより早く！<br>毎時５０分に最新のニュースをお伝えします。",
-              "img": "https://program-static.cf.radiko.jp/1xsrispfcc.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "12010464",
+              "-id": "12040762",
               "-ft": "20250809120000",
               "-to": "20250809125000",
               "-ftl": "1200",
               "-tol": "1250",
               "-dur": "3000",
-              "title": "NBC　R50",
-              "url": "https://www.nbc-radio.jp/radio/r45/",
+              "title": "被爆８０年　平和の日ラジオ",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "姐御キャラ炸裂の田代奈々と、ちょっと面白い上荒磯勇がお届けする、絶妙トーク番組！！上さんの芸なのか天然なのか判断に困るボケ＆奈々さんのキッついツッコミは聴きどころ！！リスナーさんからのメッセージを紹介するのも気分次第！リクエスト曲を流すのも気分次第！！",
-              "pfm": "上荒磯勇／田代奈々",
-              "img": "https://program-static.cf.radiko.jp/840d20fd-b3bd-423e-a9cd-4afe8420da87.jpeg",
+              "desc": "　　",
+              "pfm": "栗原優美・田代奈々／村山仁志",
+              "img": "https://program-static.cf.radiko.jp/74f0a7f5-79dc-4113-bcaf-15554aba7bf3.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1206,7 +1147,8 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "2ヵ月限定でパーソナリティが入れ替わる、「お試し」で「レギュラー」なお笑いラジオ番組。<br />TVで活躍するお笑い芸人が、まだ見ぬ新たな一面を出したり、<br />これから飛躍していく芸人達の新たな“出どころ”となる番組です。<br /><br />メール : dedokoro@radio.or.jp<br />番組Twitter： @dedokoro_radio（https://twitter.com/dedokoro_radio）<br />番組note：https://note.com/dedokoro/<br />twitterハッシュタグ　#デドコロ　でつぶやいてください！",
-              "img": "https://program-static.cf.radiko.jp/52c5e760-3cfe-41bb-9225-c7e0ce7237a1.jpeg",
+              "pfm": "ザ・ギース",
+              "img": "https://program-static.cf.radiko.jp/7b2f2ffd-699e-42b9-b85b-42867fc1bebc.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1371,15 +1313,15 @@
               "-tol": "2900",
               "-dur": "7200",
               "title": "オールナイトニッポン０（ゼロ）",
-              "url": "https://www.allnightnippon.com/zero-sat/",
+              "url": "https://www.allnightnippon.com/zero-sat/zero-sat_blog/20250802-99664/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "注目のアーティストや人気上昇中のお笑い芸人が続々と登場！",
-              "pfm": "週替わりパーソナリティ",
-              "img": "https://program-static.cf.radiko.jp/8z09jvb8pp.jpg",
+              "desc": "一ノ瀬ワタルのオールナイトニッポン0(ZERO)",
+              "pfm": "一ノ瀬ワタル",
+              "img": "https://program-static.cf.radiko.jp/4887f88f-983e-468f-81ec-bb4d3aaefe06.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C002",

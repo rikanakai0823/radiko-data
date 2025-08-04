@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1754150120",
+    "srvtime": "1754329871",
     "stations": {
       "station": {
         "-id": "CBC",
@@ -943,10 +943,10 @@
             {
               "-id": "11993191",
               "-ft": "20250803200000",
-              "-to": "20250803210000",
+              "-to": "20250803205000",
               "-ftl": "2000",
-              "-tol": "2100",
-              "-dur": "3600",
+              "-tol": "2050",
+              "-dur": "3000",
               "title": "CBCドラゴンズサンデー　広島×中日（マツダ）",
               "url": "https://hicbc.com/radio/dra_nighter/",
               "failed_record": "0",
@@ -967,6 +967,27 @@
                   "name": "スポーツ"
                 }
               },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12040226",
+              "-ft": "20250803205000",
+              "-to": "20250803210000",
+              "-ftl": "2050",
+              "-tol": "2100",
+              "-dur": "600",
+              "title": "一緒に歌お！CBCラジオ ザ・メロディー",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/29d086d7-95d4-437e-b534-86d67bac687f.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
