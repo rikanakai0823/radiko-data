@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1754300468",
+    "srvtime": "1754417403",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -877,11 +877,41 @@
               }
             },
             {
-              "-id": "12006138",
+              "-id": "12049765",
               "-ft": "20250805210000",
-              "-to": "20250805210500",
+              "-to": "20250805214000",
               "-ftl": "2100",
-              "-tol": "2105",
+              "-tol": "2140",
+              "-dur": "2400",
+              "title": "ＡＢＣフレッシュアップベースボール(4)",
+              "url": "https://abcradio.asahi.co.jp/baseball/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "中日―阪神（バンテリンＤ）<BR>解説：川上憲伸／実況：西村俊仁／<BR>試合終了までお届けします。<BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23toraban1008\">#toraban1008</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abc_toraban\">@abc_toraban</a>」<BR><BR><BR>",
+              "pfm": "中日―阪神（バンテリンＤ）　  解説：川上憲伸／実況：西村俊仁／　  試合終了までお届けします。",
+              "img": "https://program-static.cf.radiko.jp/53333ddf-aeee-4789-a30f-9d39e5fa9e20.jpeg",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#toraban1008"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:abc_toraban"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "12049779",
+              "-ft": "20250805214000",
+              "-to": "20250805214500",
+              "-ftl": "2140",
+              "-tol": "2145",
               "-dur": "300",
               "title": "ＡＢＣニュース＆天気予報",
               "url": "https://www.abc1008.com/",
@@ -891,11 +921,6 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -904,12 +929,12 @@
               }
             },
             {
-              "-id": "12013308",
-              "-ft": "20250805210500",
-              "-to": "20250805220000",
-              "-ftl": "2105",
-              "-tol": "2200",
-              "-dur": "3300",
+              "-id": "12049780",
+              "-ft": "20250805214500",
+              "-to": "20250805230000",
+              "-ftl": "2145",
+              "-tol": "2300",
+              "-dur": "4500",
               "title": "ツギハギ～超能力戦士ドリアンのたのしいラジオ～(1)",
               "url": "https://abcradio.asahi.co.jp/tsugihagi/",
               "failed_record": "0",
@@ -920,32 +945,6 @@
               "info": "連日のフェス出演で注目！躍進中ドリアンです／<BR><BR>【番組概要】<BR><BR>火曜日は「歌って踊って笑顔で帰ろう。<BR>抱腹絶倒スリーピースバンド」がキャッチコピーの関西在住コミックロックバンド、超能力戦士ドリアンが担当！<BR><BR>キャッチーな楽曲と初見をひきこむライブパフォーマンスで老若男女に愛される今注目のバンドです。<BR>トークスキルは折り紙付きの３人による初の生冠番組！音楽・お笑いにとどまらない新たなラジオをお届けします。<BR><BR>メールアドレス：<a href=\"mailto:tsugika@abc1008.com\">tsugika@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%84%E3%82%AE%E3%83%8F%E3%82%AE\">#ツギハギ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/tsugihagiabc\">@tsugihagiabc</a>」<BR><BR><BR>",
               "pfm": "超能力戦士ドリアン",
               "img": "https://program-static.cf.radiko.jp/7c108750-66ab-4023-a4cb-c0bf3947748a.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "超能力戦士ドリアン"
-                  },
-                  {
-                    "name": "ドリたの"
-                  },
-                  {
-                    "name": "ABCラジオ"
-                  },
-                  {
-                    "name": "ツギハギ"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
               "metas": {
                 "meta": [
                   {
@@ -960,69 +959,13 @@
               }
             },
             {
-              "-id": "12013309",
-              "-ft": "20250805220000",
-              "-to": "20250805230000",
-              "-ftl": "2200",
-              "-tol": "2300",
-              "-dur": "3600",
-              "title": "ツギハギ～超能力戦士ドリアンのたのしいラジオ～(2)",
-              "url": "https://abcradio.asahi.co.jp/tsugihagi/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "連日のフェス出演で注目！躍進中ドリアンです／<BR><BR>【番組概要】<BR><BR>火曜日は「歌って踊って笑顔で帰ろう。<BR>抱腹絶倒スリーピースバンド」がキャッチコピーの関西在住コミックロックバンド、超能力戦士ドリアンが担当！<BR><BR>キャッチーな楽曲と初見をひきこむライブパフォーマンスで老若男女に愛される今注目のバンドです。<BR>トークスキルは折り紙付きの３人による初の生冠番組！音楽・お笑いにとどまらない新たなラジオをお届けします。<BR><BR>メールアドレス：<a href=\"mailto:tsugika@abc1008.com\">tsugika@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%84%E3%82%AE%E3%83%8F%E3%82%AE\">#ツギハギ</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/tsugihagiabc\">@tsugihagiabc</a>」<BR><BR><BR>",
-              "pfm": "超能力戦士ドリアン",
-              "img": "https://program-static.cf.radiko.jp/7c108750-66ab-4023-a4cb-c0bf3947748a.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "超能力戦士ドリアン"
-                  },
-                  {
-                    "name": "ドリたの"
-                  },
-                  {
-                    "name": "ABCラジオ"
-                  },
-                  {
-                    "name": "ツギハギ"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": [
-                  {
-                    "-name": "twitter",
-                    "-value": "#ツギハギ"
-                  },
-                  {
-                    "-name": "twitter",
-                    "-value": "from:tsugihagiabc"
-                  }
-                ]
-              }
-            },
-            {
-              "-id": "12013310",
+              "-id": "12049768",
               "-ft": "20250805230000",
               "-to": "20250805233000",
               "-ftl": "2300",
               "-tol": "2330",
               "-dur": "1800",
-              "title": "ツギハギ～超能力戦士ドリアンのたのしいラジオ～(3)",
+              "title": "ツギハギ～超能力戦士ドリアンのたのしいラジオ～(2)",
               "url": "https://abcradio.asahi.co.jp/tsugihagi/",
               "failed_record": "0",
               "ts_in_ng": "0",
