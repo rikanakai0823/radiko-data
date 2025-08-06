@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1754331006",
+    "srvtime": "1754503833",
     "stations": {
       "station": {
         "-id": "RCC",
@@ -163,10 +163,10 @@
             {
               "-id": "11997357",
               "-ft": "20250806063000",
-              "-to": "20250806090000",
+              "-to": "20250806080000",
               "-ftl": "0630",
-              "-tol": "0900",
-              "-dur": "9000",
+              "-tol": "0800",
+              "-dur": "5400",
               "title": "本名正憲のおはようラジオ",
               "url": "https://radio.rcc.jp/ohayou/",
               "failed_record": "0",
@@ -197,6 +197,41 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12051038",
+              "-ft": "20250806080000",
+              "-to": "20250806090000",
+              "-ftl": "0800",
+              "-tol": "0900",
+              "-dur": "3600",
+              "title": "平和記念式典中継",
+              "url": "https://radio.rcc.jp/ohayou/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "耳で聞く朝刊。一日がスタートする朝、最新のニュース・スポーツ・天気交通情報をギュッとまとめてお伝えします。",
+              "info": "<a href=\"https://radio.rcc.jp/ohayou/\"><img src=\"https://radio.rcc.jp/topimages/ohayo_icon-trans.png\" alt=\"おはようラジオ\" /></a><br/>メールアドレス：<a href=\"mailto:radio@rcc.net?subject=おはようラジオ\">radio@rcc.net</a><br/>X：<a href=\"https://twitter.com/rcc_ohayo\">@rcc_ohayo</a><br/>ホームページ<a href=\"https://radio.rcc.jp/ohayou/\">https://radio.rcc.jp/ohayou/</a><br/><br/>6:33 ニュースエクスプレス<br/>6:38 朝刊拾い読み<br/>6:54 ジャパネットたかた朝のラジオショッピング<br/>7:00 ニュースエクスプレス<br/>7:05 おはようオピニオン<br/>7:12 おはようフォーカス<br/>7:28 数字クイズ出題<br/>7:30 武田鉄矢　今朝の三枚おろし<br/>7:39 数字クイズ解答 / 朝刊拾い読み<br/>8:00 森本毅郎 日本全国8時です<br/>8:14 Veryカープ！ハイライト<br/>8:20 朝刊拾い読み<br/>8:30 広島、昭和。あの日あのとき。<br/>8:50 中国新聞ニュース<br/>",
+              "pfm": "本名正憲/吉田幸/梅原季哉 (広島平和研究所教授)",
+              "img": "https://program-static.cf.radiko.jp/3d00b649-db05-4714-8e13-cb17230ccfcb.png",
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -823,7 +858,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "レジェンド声優の山口勝平さんが自由奔放にトークを繰り広げる15分間！！ ",
+              "desc": "レジェンド声優の山口勝平さんが自由奔放にトークを繰り広げる15分間！！",
               "info": "【概要】<br/>レジェンド声優の山口勝平さんが自由奔放にトークを繰り広げる15分間！！<br/>舞台の話や演じたアニメキャラの裏話はもちろん、トークだけでなく様々な企画にも挑戦！そしてアシスタントMCには勝平さんの弟子的存在の天野ユウさんも参戦しています！いじられキャラな天野ユウさんにも注目です！<br/><br/><br/><br/><br/>【メール】monkey@crt-radio.co.jp<br/><br/>【Twitter】@crt_monraji<br/><br/>【ハッシュタグ】#モンラジ<br/>",
               "pfm": "山口勝平・天野ユウ",
               "img": "https://program-static.cf.radiko.jp/451a02f5-8de0-4f9e-b8a0-ef2c6068a34c.jpeg",
