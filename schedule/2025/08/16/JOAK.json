@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1755454255",
+    "srvtime": "1755540656",
     "stations": {
       "station": {
         "-id": "JOAK",
@@ -242,11 +242,33 @@
             {
               "-id": "12064713",
               "-ft": "20250816075000",
-              "-to": "20250816080000",
+              "-to": "20250816075400",
               "-ftl": "0750",
-              "-tol": "0800",
-              "-dur": "600",
+              "-tol": "0754",
+              "-dur": "240",
               "title": "ニュース・気象情報・交通情報（関東甲信越）",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "tsplus_in_ng": "2",
+              "ts_out_ng": "2",
+              "tsplus_out_ng": "2",
+              "img": "https://program-static.cf.radiko.jp/64b810d0-a8b0-487b-86ed-2212bdfb8379.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12108901",
+              "-ft": "20250816075400",
+              "-to": "20250816080000",
+              "-ftl": "0754",
+              "-tol": "0800",
+              "-dur": "360",
+              "title": "ニュース「米露首脳会談　記者会見」関連",
+              "url": "https://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "tsplus_in_ng": "2",

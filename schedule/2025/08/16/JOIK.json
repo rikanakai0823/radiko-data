@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1755454255",
+    "srvtime": "1755540655",
     "stations": {
       "station": {
         "-id": "JOIK",
@@ -234,11 +234,32 @@
             {
               "-id": "12064756",
               "-ft": "20250816075000",
-              "-to": "20250816080000",
+              "-to": "20250816075400",
               "-ftl": "0750",
-              "-tol": "0800",
-              "-dur": "600",
+              "-tol": "0754",
+              "-dur": "240",
               "title": "ニュース・交通情報・気象情報（北海道）",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "tsplus_in_ng": "2",
+              "ts_out_ng": "2",
+              "tsplus_out_ng": "2",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12108906",
+              "-ft": "20250816075400",
+              "-to": "20250816080000",
+              "-ftl": "0754",
+              "-tol": "0800",
+              "-dur": "360",
+              "title": "ニュース「米露首脳会談　記者会見」関連",
+              "url": "https://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "2",
               "tsplus_in_ng": "2",

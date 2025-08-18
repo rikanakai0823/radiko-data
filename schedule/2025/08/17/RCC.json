@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1755367830",
+    "srvtime": "1755540656",
     "stations": {
       "station": {
         "-id": "RCC",
@@ -705,21 +705,63 @@
               }
             },
             {
-              "-id": "12048579",
+              "-id": "12105361",
               "-ft": "20250817140000",
-              "-to": "20250817144500",
+              "-to": "20250817143000",
               "-ftl": "1400",
+              "-tol": "1430",
+              "-dur": "1800",
+              "title": "鹿見勇輔　福祉のラジオ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "介護芸人・鹿見勇輔が送る30分の福祉介護“バリアフリー”バラエティー",
+              "info": "みなさんからの福祉にまつわるお便り、お悩み相談などお寄せ下さい。<br/>メールアドレス：<a href=\"fr@rcc.net?subject=鹿見勇輔　福祉のラジオ\">fr@rcc.net</a><br /><br/>ホームページ：<a href=\"https://radio.rcc.jp/fukushi_no_radio/\">https://radio.rcc.jp/fukushi_no_radio/</a><br />",
+              "pfm": "鹿見勇輔",
+              "img": "https://program-static.cf.radiko.jp/41e54712-ea79-4fa8-8b57-f6ee4116783d.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "介護"
+                  },
+                  {
+                    "name": "福祉"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P011",
+                  "name": "福祉"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12105362",
+              "-ft": "20250817143000",
+              "-to": "20250817144500",
+              "-ftl": "1430",
               "-tol": "1445",
-              "-dur": "2700",
+              "-dur": "900",
               "title": "ミュージック白書",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "邦楽アーティスト一組にスポットを当て デビュー秘話から各時代に放った名曲、 最新楽曲をエピソードと共にお届けします。",
-              "pfm": "川名陽介",
-              "img": "https://program-static.cf.radiko.jp/77e88fbd-1e64-486d-9513-1004858cb3f9.jpeg",
+              "img": "https://program-static.cf.radiko.jp/656e1799-db8f-42f8-9b9a-8b64011e83bd.jpeg",
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -972,10 +1014,10 @@
             {
               "-id": "12048588",
               "-ft": "20250817180000",
-              "-to": "20250817210000",
+              "-to": "20250817213000",
               "-ftl": "1800",
-              "-tol": "2100",
-              "-dur": "10800",
+              "-tol": "2130",
+              "-dur": "12600",
               "title": "Very  カープ！ＲＣＣカープナイター",
               "url": "https://radio.rcc.jp/carp/",
               "failed_record": "0",
@@ -1017,28 +1059,6 @@
                 "meta": {
                   "-name": "twitter",
                   "-value": "#RCCラジオ"
-                }
-              }
-            },
-            {
-              "-id": "12048589",
-              "-ft": "20250817210000",
-              "-to": "20250817213000",
-              "-ftl": "2100",
-              "-tol": "2130",
-              "-dur": "1800",
-              "title": "（再）長谷川努の音楽大好き",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "pfm": "長谷川努",
-              "img": "https://program-static.cf.radiko.jp/656e1799-db8f-42f8-9b9a-8b64011e83bd.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
                 }
               }
             },

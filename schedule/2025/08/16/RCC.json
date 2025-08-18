@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1755281466",
+    "srvtime": "1755540654",
     "stations": {
       "station": {
         "-id": "RCC",
@@ -969,10 +969,10 @@
             {
               "-id": "12042713",
               "-ft": "20250816180000",
-              "-to": "20250816210000",
+              "-to": "20250816214400",
               "-ftl": "1800",
-              "-tol": "2100",
-              "-dur": "10800",
+              "-tol": "2144",
+              "-dur": "13440",
               "title": "Very  カープ！ＲＣＣカープナイター",
               "url": "https://radio.rcc.jp/carp/",
               "failed_record": "0",
@@ -1018,73 +1018,33 @@
               }
             },
             {
-              "-id": "12042719",
-              "-ft": "20250816210000",
-              "-to": "20250816213000",
-              "-ftl": "2100",
-              "-tol": "2130",
-              "-dur": "1800",
-              "title": "ものまねSHOWTIME",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "モノマネ、歌マネを披露。ホリプロコムものまね軍団によるラジオ番組。",
-              "img": "https://program-static.cf.radiko.jp/8d7d14ce-ce46-452b-b4e7-ba4305b0acd2.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "12042720",
-              "-ft": "20250816213000",
+              "-id": "12105360",
+              "-ft": "20250816214400",
               "-to": "20250816220000",
-              "-ftl": "2130",
+              "-ftl": "2144",
               "-tol": "2200",
-              "-dur": "1800",
-              "title": "鹿見勇輔　福祉のラジオ",
-              "url": "https://radio.rcc.jp/fukushi_no_radio/",
+              "-dur": "960",
+              "title": "野球ハイライト",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "介護芸人・鹿見勇輔が送る30分の福祉介護“バリアフリー”バラエティー",
-              "info": "みなさんからの福祉にまつわるお便り、お悩み相談などお寄せ下さい。<br/>メールアドレス：<a href=\"fr@rcc.net?subject=鹿見勇輔　福祉のラジオ\">fr@rcc.net</a><br /><br/>ホームページ：<a href=\"https://radio.rcc.jp/fukushi_no_radio/\">https://radio.rcc.jp/fukushi_no_radio/</a><br />",
-              "pfm": "鹿見勇輔",
-              "img": "https://program-static.cf.radiko.jp/41e54712-ea79-4fa8-8b57-f6ee4116783d.jpeg",
+              "img": "https://program-static.cf.radiko.jp/656e1799-db8f-42f8-9b9a-8b64011e83bd.jpeg",
               "tag": {
                 "item": [
                   {
-                    "name": "介護"
+                    "name": "カープ"
                   },
                   {
-                    "name": "福祉"
+                    "name": "スポーツ情報"
                   }
                 ]
               },
               "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
                 "program": {
-                  "-id": "P011",
-                  "name": "福祉"
+                  "-id": "P002",
+                  "name": "スポーツ"
                 }
               },
               "metas": {
