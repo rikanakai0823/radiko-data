@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1755540672",
+    "srvtime": "1755627065",
     "stations": {
       "station": {
         "-id": "IBS",
@@ -12,10 +12,10 @@
             {
               "-id": "12020511",
               "-ft": "20250824050000",
-              "-to": "20250824055500",
+              "-to": "20250824054000",
               "-ftl": "0500",
-              "-tol": "0555",
-              "-dur": "3300",
+              "-tol": "0540",
+              "-dur": "2400",
               "title": "テスト音楽",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -47,11 +47,11 @@
               }
             },
             {
-              "-id": "12020512",
-              "-ft": "20250824055500",
-              "-to": "20250824060000",
-              "-ftl": "0555",
-              "-tol": "0600",
+              "-id": "12111263",
+              "-ft": "20250824054000",
+              "-to": "20250824054500",
+              "-ftl": "0540",
+              "-tol": "0545",
               "-dur": "300",
               "title": "オープニングメロディ",
               "failed_record": "0",
@@ -74,6 +74,43 @@
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12111264",
+              "-ft": "20250824054500",
+              "-to": "20250824060000",
+              "-ftl": "0545",
+              "-tol": "0600",
+              "-dur": "900",
+              "title": "旬！SHUN！ピックアップ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/48072de0-ad00-49ce-b0e8-bdad4dc66eb2.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "LuckyFM"
+                  },
+                  {
+                    "name": "茨城放送"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -237,19 +274,19 @@
               }
             },
             {
-              "-id": "12020517",
+              "-id": "12111265",
               "-ft": "20250824070000",
               "-to": "20250824071000",
               "-ftl": "0700",
               "-tol": "0710",
               "-dur": "600",
-              "title": "Sundayブレイクタイム",
+              "title": "10分インフォメーション",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/117d6cb7-8219-4a35-8a3d-90400239f0bc.jpeg",
+              "img": "https://program-static.cf.radiko.jp/48072de0-ad00-49ce-b0e8-bdad4dc66eb2.jpeg",
               "tag": {
                 "item": [
                   {
@@ -262,8 +299,8 @@
               },
               "genre": {
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -1016,19 +1053,19 @@
               }
             },
             {
-              "-id": "12020536",
+              "-id": "12111266",
               "-ft": "20250824124000",
               "-to": "20250824125500",
               "-ftl": "1240",
               "-tol": "1255",
               "-dur": "900",
-              "title": "Sundayブレイクタイム",
+              "title": "健康生活インフォメーション",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/117d6cb7-8219-4a35-8a3d-90400239f0bc.jpeg",
+              "img": "https://program-static.cf.radiko.jp/48072de0-ad00-49ce-b0e8-bdad4dc66eb2.jpeg",
               "tag": {
                 "item": [
                   {
@@ -1041,8 +1078,8 @@
               },
               "genre": {
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -1317,29 +1354,21 @@
               }
             },
             {
-              "-id": "12020543",
+              "-id": "12111267",
               "-ft": "20250824174500",
               "-to": "20250824180000",
               "-ftl": "1745",
               "-tol": "1800",
               "-dur": "900",
-              "title": "Lucky Music Selection",
+              "title": "旬！SHUN！ピックアップ",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "ワイド番組など、茨城放送に出演するパーソナリティが、自分の想い出に残る曲をそのエピソードと共にお届けする音楽番組。<br>2週間毎にパーソナリティが変わって登場します！<br>",
-              "pfm": "2週替わり",
-              "img": "https://program-static.cf.radiko.jp/d36d5509-7cc8-4609-a300-d6c9d5da284d.jpeg",
+              "img": "https://program-static.cf.radiko.jp/48072de0-ad00-49ce-b0e8-bdad4dc66eb2.jpeg",
               "tag": {
                 "item": [
-                  {
-                    "name": "Lucky Music Selection"
-                  },
-                  {
-                    "name": "ラッキーミュージックセレクション"
-                  },
                   {
                     "name": "LuckyFM"
                   },
@@ -1350,8 +1379,8 @@
               },
               "genre": {
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
