@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1755627068",
+    "srvtime": "1755713470",
     "stations": {
       "station": {
         "-id": "RKC",
@@ -74,6 +74,12 @@
               "tag": {
                 "item": {
                   "name": "ラジオショッピング"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -188,6 +194,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -268,6 +284,16 @@
                     "name": "ニュース"
                   }
                 ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
               },
               "metas": {
                 "meta": {
@@ -915,6 +941,29 @@
               "desc": "人気タレント・大竹まことさんが巧みなトークで笑顔を届ける２時間半のワイド番組",
               "pfm": "大竹まこと",
               "img": "https://program-static.cf.radiko.jp/e75a9b2c-6fb7-47a9-97a7-c88712b7b304.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "大竹まこと"
+                  },
+                  {
+                    "name": "ゴールデンラジオ"
+                  },
+                  {
+                    "name": "情報番組"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -948,6 +997,16 @@
                     "name": "長野智子アップデート"
                   }
                 ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
               },
               "metas": {
                 "meta": {
@@ -1148,6 +1207,12 @@
               "tag": {
                 "item": {
                   "name": "ラジオショッピング"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1755454267",
+    "srvtime": "1755713464",
     "stations": {
       "station": {
         "-id": "RKC",
@@ -167,6 +167,12 @@
                   "name": "ショッピング情報番組"
                 }
               },
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -251,6 +257,12 @@
                   }
                 ]
               },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -275,6 +287,22 @@
               "desc": "書籍『人生の目的』を朗読。文豪トルストイが衝撃を受けた、ブッダの寓話。そのたとえ話が表す、本当の人生の目的とは？",
               "pfm": "山口晃史",
               "img": "https://program-static.cf.radiko.jp/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "宗教"
+                  },
+                  {
+                    "name": "教養"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -356,6 +384,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -392,6 +430,12 @@
                     "name": "音楽"
                   }
                 ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
               },
               "metas": {
                 "meta": {
@@ -461,6 +505,21 @@
               "desc": "土曜の朝を元気に、パリット、シャキッとしていただくために、多彩なゲストを迎え、話題満載でお送りします。",
               "pfm": "仁多田まゆみ",
               "img": "https://program-static.cf.radiko.jp/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "tag": {
+                "item": {
+                  "name": "波のりラジオ"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -485,6 +544,26 @@
               "desc": "芸能界のドン和田アキ子が、自らの交友関係と情報網でキャッチする芸能界の裏話を、辛口かつ愛情あるコメントで切りまくる。",
               "pfm": "和田アキ子・垣花正",
               "img": "https://program-static.cf.radiko.jp/ouit3vu3gt.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "和田アキ子"
+                  },
+                  {
+                    "name": "ゴッドアフタヌーン"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -509,6 +588,26 @@
               "desc": "文化放送をキーステーションに放送されている情報バラエティラジオ番組！",
               "pfm": "田村淳",
               "img": "https://program-static.cf.radiko.jp/5e31aed0-c825-4d52-be56-787be486e2f2.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "田村淳"
+                  },
+                  {
+                    "name": "ニュース・バラエティ"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -573,6 +672,32 @@
               "desc": "山口出身の松村邦洋がラジオで町おこし！毎週色々な地方出身のゲストを迎え、地元民だから知る隠れた名産や特産品などを紹介！",
               "pfm": "松村邦洋",
               "img": "https://program-static.cf.radiko.jp/021b4e52-901b-4deb-b5d7-22c296b98d35.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "都道府県"
+                  },
+                  {
+                    "name": "地方創生"
+                  },
+                  {
+                    "name": "地方"
+                  },
+                  {
+                    "name": "松村邦洋"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -729,6 +854,12 @@
                   "name": "ラジオショッピング"
                 }
               },
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -753,6 +884,28 @@
               "desc": "2014年に開創1200年を迎える四国八十八ヶ所霊場。“日本人の心のふるさと”ともいうべき偉大な精神文化遺産を紹介します。",
               "pfm": "四国4局アナウンサー・パーソナリティ",
               "img": "https://program-static.cf.radiko.jp/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "四国"
+                  },
+                  {
+                    "name": "88か所"
+                  },
+                  {
+                    "name": "お遍路"
+                  },
+                  {
+                    "name": "四国八十八ヶ所霊場"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -873,6 +1026,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -946,6 +1109,12 @@
                   "name": "大学生"
                 }
               },
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -980,6 +1149,16 @@
                   }
                 ]
               },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1013,6 +1192,12 @@
                     "name": "音楽"
                   }
                 ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
               },
               "metas": {
                 "meta": {
@@ -1315,8 +1500,13 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "土曜も深夜3時からはオールナイトニッポン0(ZERO)！スペシャルなパーソナリティが週替わりで登場します！",
-              "pfm": "ヤ―レンズ",
-              "img": "https://program-static.cf.radiko.jp/afc82538-610f-4c61-aadc-0bedc238f3e4.jpeg",
+              "pfm": "リゼ・ヘルエスタ",
+              "img": "https://program-static.cf.radiko.jp/caf1eab4-fc75-4752-bcc4-d9dc88b1c7dd.jpeg",
+              "tag": {
+                "item": {
+                  "name": "オールナイトニッポンニッポン0(ZERO)"
+                }
+              },
               "genre": {
                 "personality": {
                   "-id": "C004",

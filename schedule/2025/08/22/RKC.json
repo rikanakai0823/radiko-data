@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1755367842",
+    "srvtime": "1755713462",
     "stations": {
       "station": {
         "-id": "RKC",
@@ -74,6 +74,12 @@
               "tag": {
                 "item": {
                   "name": "ラジオショッピング"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
                 }
               },
               "metas": {
@@ -178,6 +184,29 @@
               "desc": "日本全国のすべての人々に向けた、聴けば新しく始まる1日を笑顔で、元気に、ＨＡＰＰＹに過ごせる番組。",
               "pfm": "酒井一圭（純烈）",
               "img": "https://program-static.cf.radiko.jp/34e3d4d9-4ce4-411b-90c4-b165494df431.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "純烈"
+                  },
+                  {
+                    "name": "ワイド番組"
+                  },
+                  {
+                    "name": "トーク番組"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -255,6 +284,16 @@
                     "name": "ニュース"
                   }
                 ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
               },
               "metas": {
                 "meta": {
@@ -585,6 +624,22 @@
               "desc": "毎回テーマを設けて２人がガチンコ対決！皆さんからの投票で結果が決まる、いわばリスナーの参加が無いと成り立たない番組です！",
               "pfm": "髙橋龍介・樺山夏帆",
               "img": "https://program-static.cf.radiko.jp/182cee55-95a3-492a-af2e-69194fb3a608.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "バラエティー"
+                  },
+                  {
+                    "name": "アナウンサー"
+                  },
+                  {
+                    "name": "対決企画"
+                  },
+                  {
+                    "name": "対決"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -658,6 +713,22 @@
               "desc": "毎回テーマを設けて２人がガチンコ対決！皆さんからの投票で結果が決まる、いわばリスナーの参加が無いと成り立たない番組です！",
               "pfm": "髙橋龍介・樺山夏帆",
               "img": "https://program-static.cf.radiko.jp/182cee55-95a3-492a-af2e-69194fb3a608.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "バラエティー"
+                  },
+                  {
+                    "name": "アナウンサー"
+                  },
+                  {
+                    "name": "対決企画"
+                  },
+                  {
+                    "name": "対決"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -692,6 +763,26 @@
               "desc": "モデルでタレントのMIHOが、高知の気になる情報をお届け！",
               "pfm": "ＭＩＨＯ・井出一崇",
               "img": "https://program-static.cf.radiko.jp/22a75d34-1a9f-410f-b734-2a1aeabdabd3.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "トーク番組"
+                  },
+                  {
+                    "name": "バラエティー"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -715,6 +806,29 @@
               "tsplus_out_ng": "0",
               "desc": "「声のプロ」であるアナウンサー・ナレーター・俳優・声優などが古今東西の名作を朗読！",
               "img": "https://program-static.cf.radiko.jp/76bf5cd1-1d39-4c80-bef3-44f71a0ddb80.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "朗読"
+                  },
+                  {
+                    "name": "アナウンサー"
+                  },
+                  {
+                    "name": "物語"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -786,6 +900,29 @@
               "desc": "音楽のゆりかごの中でまとろみながら過ごすランチタイムをミュージシャン・音楽療法士の鈴木琴栄がお届けします。",
               "pfm": "鈴木琴栄",
               "img": "https://program-static.cf.radiko.jp/ae4f85fc-77f6-4dc2-aa13-4028bfcf4fe7.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽療法"
+                  },
+                  {
+                    "name": "音楽"
+                  },
+                  {
+                    "name": "ミュージシャン"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -809,6 +946,17 @@
               "tsplus_out_ng": "0",
               "desc": "ラジオショッピング",
               "img": "https://program-static.cf.radiko.jp/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
+              "tag": {
+                "item": {
+                  "name": "ラジオショッピング"
+                }
+              },
+              "genre": {
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -928,6 +1076,22 @@
               "desc": "毎回テーマを設けて２人がガチンコ対決！皆さんからの投票で結果が決まる、いわばリスナーの参加が無いと成り立たない番組です！",
               "pfm": "髙橋龍介・樺山夏帆",
               "img": "https://program-static.cf.radiko.jp/182cee55-95a3-492a-af2e-69194fb3a608.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "バラエティー"
+                  },
+                  {
+                    "name": "アナウンサー"
+                  },
+                  {
+                    "name": "対決企画"
+                  },
+                  {
+                    "name": "対決"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -1135,6 +1299,22 @@
               "desc": "高知県の高校の放送部が月替わりで登場！勉強、部活、学校生活などテーマ作りも番組ＭＣも全て自分たちで務める学生主役の番組！",
               "pfm": "高知県内の高校の放送部メンバー（月替わり）",
               "img": "https://program-static.cf.radiko.jp/3a0021a7-8141-43c2-bae1-5566877bf83e.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "高校生"
+                  },
+                  {
+                    "name": "放課後"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1241,6 +1421,25 @@
               "desc": "新時代の音楽シーンで活躍するアーティストをいち早く紹介。",
               "pfm": "木河淳",
               "img": "https://program-static.cf.radiko.jp/796d24b2-12b5-4c8c-b608-c7ed4c47f737.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "音楽マシマシ"
+                  },
+                  {
+                    "name": "音楽速達便"
+                  },
+                  {
+                    "name": "音楽"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1265,6 +1464,19 @@
               "desc": "プロ野球のペナントを巡る熱い戦い！",
               "pfm": "実況アナウンサー・解説者",
               "img": "https://program-static.cf.radiko.jp/2cf800fb-0ac5-4afb-8ca9-80a83003418e.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "野球中継"
+                  },
+                  {
+                    "name": "ナイター"
+                  },
+                  {
+                    "name": "野球"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C013",
@@ -1299,6 +1511,21 @@
               "desc": "四国放送ラジオ制作のリクエスト番組",
               "pfm": "四国放送アナウンサー",
               "img": "https://program-static.cf.radiko.jp/63cf5898-d007-4c30-b4d8-6354e9f94194.jpeg",
+              "tag": {
+                "item": {
+                  "name": "バンリク"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1323,6 +1550,29 @@
               "desc": "元戦隊ヒーローで高知県在住の俳優・菊地美香がはじめてメインパーソナリティをつとめる番組。",
               "pfm": "菊地美香",
               "img": "https://program-static.cf.radiko.jp/927e415d-fa89-495b-99c7-75f1dbd7ba67.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "声優"
+                  },
+                  {
+                    "name": "アニメ"
+                  },
+                  {
+                    "name": "菊地美香"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C006",
+                  "name": "女性声優"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1352,6 +1602,12 @@
                   "name": "大学生"
                 }
               },
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1376,6 +1632,19 @@
               "desc": "嵐の相葉雅紀がパーソナリティを務める全国ネット番組。嵐の活動はもちろん、プライベートな話やここでしか聞けない裏話など",
               "pfm": "嵐・相葉雅紀",
               "img": "https://program-static.cf.radiko.jp/om0fxs25wz.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "相葉雅紀"
+                  },
+                  {
+                    "name": "レコメン"
+                  },
+                  {
+                    "name": "嵐"
+                  }
+                ]
+              },
               "genre": {
                 "personality": {
                   "-id": "C007",
@@ -1410,6 +1679,21 @@
               "desc": "週末金曜日は、霜降り明星、せいや＆粗品のトークをお楽しみに！",
               "pfm": "霜降り明星（せいや・粗品）",
               "img": "https://program-static.cf.radiko.jp/9396e933-8e85-4b5f-96e2-1d91fbd2848d.jpeg",
+              "tag": {
+                "item": {
+                  "name": "オールナイトニッポン"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1434,6 +1718,21 @@
               "desc": "若手芸人やアーティストが送るオールナイトニッポン０（ＺＥＲＯ）",
               "pfm": "三四郎",
               "img": "https://program-static.cf.radiko.jp/798b30f0-78c3-4fc0-88a5-d5a56c3cdbd4.jpeg",
+              "tag": {
+                "item": {
+                  "name": "オールナイトニッポンニッポン0(ZERO)"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
