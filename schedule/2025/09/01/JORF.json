@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1756491064",
+    "srvtime": "1756750191",
     "stations": {
       "station": {
         "-id": "JORF",
@@ -287,10 +287,10 @@
             {
               "-id": "12093249",
               "-ft": "20250901080000",
-              "-to": "20250901085000",
+              "-to": "20250901083500",
               "-ftl": "0800",
-              "-tol": "0850",
-              "-dur": "3000",
+              "-tol": "0835",
+              "-dur": "2100",
               "title": "岩瀬惠子のスマートＮＥＷＳ(3)",
               "url": "https://www.jorf.co.jp/?program=smartnews",
               "failed_record": "0",
@@ -330,11 +330,11 @@
               }
             },
             {
-              "-id": "12093250",
-              "-ft": "20250901085000",
-              "-to": "20250901090000",
-              "-ftl": "0850",
-              "-tol": "0900",
+              "-id": "12169494",
+              "-ft": "20250901083500",
+              "-to": "20250901084500",
+              "-ftl": "0835",
+              "-tol": "0845",
               "-dur": "600",
               "title": "望月理恵のエンタメ☆カフェ",
               "failed_record": "0",
@@ -346,6 +346,50 @@
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
               "pfm": "望月理恵",
               "img": "https://program-static.cf.radiko.jp/35a9f72e-a927-418c-a309-c55bfec6aa25.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12169495",
+              "-ft": "20250901084500",
+              "-to": "20250901085500",
+              "-ftl": "0845",
+              "-tol": "0855",
+              "-dur": "600",
+              "title": "ラジオ災害情報交差点",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "▽首都圏に大きな災害が起きたとき、ラジオ日本など東京のラジオ局は協力してライフライン情報をお届けします。",
+              "img": "https://program-static.cf.radiko.jp/2a3d6b87-cd38-49ef-bcc2-4dfd3cbf36c6.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12169496",
+              "-ft": "20250901085500",
+              "-to": "20250901090000",
+              "-ftl": "0855",
+              "-tol": "0900",
+              "-dur": "300",
+              "title": "ラジオ日本ニュース・天気予報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
+              "img": "https://program-static.cf.radiko.jp/bcaa3eae-7605-464e-9c4c-923c3e9371e4.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
