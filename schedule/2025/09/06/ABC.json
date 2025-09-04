@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1756923053",
+    "srvtime": "1757009395",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -462,7 +462,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "info": "【番組概要】<BR><BR>「聴くだけで　健康増進　その一歩」<BR><BR>健康増進にまつわる情報を思わず「試してみようかな」<BR>「足を運んでみようかな」と実際に行動に移してみたくなるような番組を<BR>パーソナリティの個性やエンタテインメント性に乗せてお届けします！<BR><BR>メールアドレス：<a href=\"mailto:plus@abc1008.com\">plus@abc1008.com</a><BR><BR><BR>",
-              "pfm": "浦川泰幸／仲みゆき／ゲスト：紙芝居屋のガンチャン",
+              "pfm": "浦川泰幸／仲みゆき／ゲスト：紙芝居屋がんちゃん（紙芝居師）",
               "img": "https://program-static.cf.radiko.jp/2bc2bb2a-1001-4f8b-ba38-e20196a63417.jpeg",
               "tag": {
                 "item": [
@@ -795,6 +795,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
+              "info": "来週に迫った「東京2025世界陸上」がもっと楽しくなる！<BR>ABC ラジオではもうおなじみ！元アスリートの小林祐梨子さんが<BR>心を打つ「名言」から各選手をピックアップします！<BR>桐生祥秀、村竹ラシッド、田中希実…<BR>アスリートの知られざる裏側に迫る75分間！！<BR><BR><BR>",
               "pfm": "小林祐梨子／伊藤史隆",
               "img": "https://program-static.cf.radiko.jp/dd3e4e52-56f1-4ac1-99f8-5b0d8368f23a.jpeg",
               "metas": {
@@ -1462,20 +1463,20 @@
               }
             },
             {
-              "-id": "12146834",
+              "-id": "12187497",
               "-ft": "20250907030000",
               "-to": "20250907041500",
               "-ftl": "2700",
               "-tol": "2815",
               "-dur": "4500",
               "title": "Ｒ→９３３",
-              "url": "https://www.abc1008.com/",
+              "url": "https://abcradio.asahi.co.jp/r933/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "【番組概要】<BR><BR>～昨日から今日、今日から明日へのクロスロード～<BR>深夜から早朝にかけてノンストップで音楽をお届けしている番組です。<BR><BR><BR>",
+              "info": "メールアドレス：<a href=\"mailto:r933@abc1008.com\">r933@abc1008.com</a><BR><BR>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23r933\">#r933</a>」<BR><BR>twitterアカウントは「<a href=\"http://twitter.com/abcr933\">@abcr933</a>」<BR><BR><BR>",
               "img": "https://program-static.cf.radiko.jp/ec6e8dad-0155-4f35-9ce2-9b06dfd440ae.jpeg",
               "tag": {
                 "item": [
@@ -1494,10 +1495,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#r933"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:abcr933"
+                  }
+                ]
               }
             },
             {
