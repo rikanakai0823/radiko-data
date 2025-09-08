@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1757095796",
+    "srvtime": "1757355057",
     "stations": {
       "station": {
         "-id": "RCC",
@@ -967,17 +967,17 @@
             {
               "-id": "12139566",
               "-ft": "20250906180000",
-              "-to": "20250906210000",
+              "-to": "20250906220000",
               "-ftl": "1800",
-              "-tol": "2100",
-              "-dur": "10800",
+              "-tol": "2200",
+              "-dur": "14400",
               "title": "Very  カープ！ＲＣＣカープナイター",
               "url": "https://radio.rcc.jp/carp/",
               "failed_record": "0",
               "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
+              "tsplus_in_ng": "1",
               "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
+              "tsplus_out_ng": "1",
               "desc": "阪神×広島（甲子園）",
               "info": "カープ戦全試合生中継！RCCラジオは試合終了までカープをVeryカープに応援します！<br/>試合終了まで中継するため、以降の番組は時間変更となる場合があります。<br><br/>twitter <a href=\"https://twitter.com/rccradio\">@rccradio</a><br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23RCC%E3%83%A9%E3%82%B8%E3%82%AA\">#RCCラジオ</a>」",
               "pfm": "解説：矢野燿大／実況：高野純一",
@@ -1012,83 +1012,6 @@
                 "meta": {
                   "-name": "twitter",
                   "-value": "#RCCラジオ"
-                }
-              }
-            },
-            {
-              "-id": "12139571",
-              "-ft": "20250906210000",
-              "-to": "20250906213000",
-              "-ftl": "2100",
-              "-tol": "2130",
-              "-dur": "1800",
-              "title": "ものまねSHOWTIME",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "モノマネ、歌マネを披露。ホリプロコムものまね軍団によるラジオ番組。",
-              "img": "https://program-static.cf.radiko.jp/8d7d14ce-ce46-452b-b4e7-ba4305b0acd2.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "12139572",
-              "-ft": "20250906213000",
-              "-to": "20250906220000",
-              "-ftl": "2130",
-              "-tol": "2200",
-              "-dur": "1800",
-              "title": "鹿見勇輔　福祉のラジオ",
-              "url": "https://radio.rcc.jp/fukushi_no_radio/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "介護芸人・鹿見勇輔が送る30分の福祉介護“バリアフリー”バラエティー",
-              "info": "みなさんからの福祉にまつわるお便り、お悩み相談などお寄せ下さい。<br/>メールアドレス：<a href=\"fr@rcc.net?subject=鹿見勇輔　福祉のラジオ\">fr@rcc.net</a><br /><br/>ホームページ：<a href=\"https://radio.rcc.jp/fukushi_no_radio/\">https://radio.rcc.jp/fukushi_no_radio/</a><br />",
-              "pfm": "鹿見勇輔",
-              "img": "https://program-static.cf.radiko.jp/41e54712-ea79-4fa8-8b57-f6ee4116783d.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "介護"
-                  },
-                  {
-                    "name": "福祉"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
-                "program": {
-                  "-id": "P011",
-                  "name": "福祉"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
                 }
               }
             },

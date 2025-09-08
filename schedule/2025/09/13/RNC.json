@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1757269568",
+    "srvtime": "1757355068",
     "stations": {
       "station": {
         "-id": "RNC",
@@ -1404,6 +1404,16 @@
               "info": "スペシャルなパーソナリティが週替わりで登場する土曜日のオールナイトニッポン０、１３日はお笑い芸人の永野が担当します。",
               "pfm": "永野",
               "img": "https://program-static.cf.radiko.jp/94954241-4e79-4d89-aabd-7b02b82a48b6.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
