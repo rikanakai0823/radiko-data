@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1757355061",
+    "srvtime": "1757441397",
     "stations": {
       "station": {
         "-id": "WBS",
@@ -1265,7 +1265,7 @@
               "tsplus_out_ng": "0",
               "desc": "きょう起きた和歌山県内のさまざまな出来事や、各地の催し、人々の表情などをニュースやリポート、インタビューを織り交ぜながらお伝えします。<br><br>\n１７時台<br>\n▽ニュースパレード<br>\n▽紀北・紀南リポート<br>\n▽引本孝之のお天気ダイヤル<br>\n▽ネットワークトゥディ<br>\n▽天気予報・交通情報<br>\n▽ニュース５トピックス<br>\n",
               "info": "<br/><br/>\n<a href=\"mailto:news@wbs.co.jp\">リクエスト・メールはこちらから</a>\n<br/><br/>\ntwitterアカウントは「<a href=\"http://twitter.com/DIGITALwbs\">@DIGITALwbs</a>」",
-              "pfm": "寺門秀介",
+              "pfm": "北尾博信",
               "img": "https://program-static.cf.radiko.jp/74687d54-26b2-4751-b0aa-b639c2c88e95.png",
               "genre": {
                 "personality": {
@@ -1329,7 +1329,7 @@
               "tsplus_out_ng": "0",
               "desc": "きょう起きた和歌山県内のさまざまな出来事や、各地の催し、人々の表情などをニュースやリポート、インタビューを織り交ぜながらお伝えします。<br><br>\n\n１８時台<br>\n▽スポーツインフォメーション<br>\n▽ニュース・天気予報<br>",
               "info": "<br/><br/>\n<a href=\"mailto:news@wbs.co.jp\">リクエスト・メールはこちらから</a>\n<br/><br/>",
-              "pfm": "寺門秀介",
+              "pfm": "北尾博信",
               "img": "https://program-static.cf.radiko.jp/74687d54-26b2-4751-b0aa-b639c2c88e95.png",
               "genre": {
                 "personality": {
@@ -1471,28 +1471,71 @@
               }
             },
             {
-              "-id": "12167672",
+              "-id": "12207922",
               "-ft": "20250909210000",
-              "-to": "20250909220000",
+              "-to": "20250909213000",
               "-ftl": "2100",
-              "-tol": "2200",
-              "-dur": "3600",
-              "title": "村上信五くんと経済クン",
+              "-tol": "2130",
+              "-dur": "1800",
+              "title": "ミュージックライブラリー",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "pfm": "村上信五",
               "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
               "genre": {
-                "personality": {
-                  "-id": "C007",
-                  "name": "男性アイドル"
-                },
                 "program": {
-                  "-id": "P013",
-                  "name": "経済"
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12207923",
+              "-ft": "20250909213000",
+              "-to": "20250909214500",
+              "-ftl": "2130",
+              "-tol": "2145",
+              "-dur": "900",
+              "title": "県議会ダイジェスト",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12207924",
+              "-ft": "20250909214500",
+              "-to": "20250909220000",
+              "-ftl": "2145",
+              "-tol": "2200",
+              "-dur": "900",
+              "title": "ミュージックプラス",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
