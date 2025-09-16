@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1757959805",
+    "srvtime": "1758046259",
     "stations": {
       "station": {
         "-id": "LFR",
@@ -249,9 +249,9 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "サンドウィッチマンが満を持して土曜日のお昼に登場！<br>2人のトークを中心に、愛のある「素人いじり」が大好物のサンドウィッチマンがメールやSNSを上手に料理しながら、「笑い」という「癒し」をお届けします！",
+              "desc": "サンドウィッチマンが満を持して土曜日のお昼に登場！<br>2人のトークを中心に、愛のある「素人いじり」が大好物のサンドウィッチマンがメールやSNSを上手に料理しながら、「笑い」という「癒し」をお届けします！<br><br>ゲストにあばれる君をお迎えします！",
               "info": "メールアドレス：<br><a href=\"mailto:sand@1242.com\">sand@1242.com</a><br><br>番組ホームページは<a href=\"https://www.1242.com/sandradioshow/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%B5%E3%83%B3%E3%83%89%E3%83%A9%E3%82%B8%E3%82%AA%E3%82%B7%E3%83%A7%E3%83%BC\">#サンドラジオショー</a>」twitterアカウントは「<a href=\"http://twitter.com/sandradioshow\">@sandradioshow</a>」",
-              "pfm": "サンドウィッチマン、東島衣里",
+              "pfm": "サンドウィッチマン、東島衣里　ゲスト：あばれる君",
               "img": "https://program-static.cf.radiko.jp/saebk12nw7.jpg",
               "tag": {
                 "item": [
@@ -1003,7 +1003,7 @@
               "-ftl": "2700",
               "-tol": "2900",
               "-dur": "7200",
-              "title": "オールナイトニッポン0(ZERO)",
+              "title": "オールナイトニッポン0(ZERO)～17LIVE SP～",
               "url": "https://www.allnightnippon.com/zero-sat/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -1011,12 +1011,18 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "土曜も深夜3時からはオールナイトニッポン0(ZERO)！スペシャルなパーソナリティが週替わりで登場します！<br><br>番組は「17LIVE」でも映像付きで楽しむことができます。音声でも映像でもお楽しみください！",
-              "info": "番組ホームページは<a href=\"https://www.allnightnippon.com/zero-sat/\">こちら</a><br><br>twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」",
-              "img": "https://program-static.cf.radiko.jp/83l4ssyvyp.jpg",
+              "info": "メールアドレス：<br><a href=\"mailto:17@allnightnippon.com\">17@allnightnippon.com</a><br><br>番組ホームページは<a href=\"https://www.allnightnippon.com/zero-sat/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%A4%E3%83%81%E3%83%8A%E3%83%8A%E3%81%A7ANN0\">#イチナナでANN0</a>」twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」",
+              "pfm": "トンツカタン・森本晋太郎　ゲスト：鹿野淳、BIGMAMA・金井政人",
+              "img": "https://program-static.cf.radiko.jp/skmkqb3is8.jpg",
               "tag": {
-                "item": {
-                  "name": "オールナイトニッポン0(ZERO)"
-                }
+                "item": [
+                  {
+                    "name": "オールナイトニッポン0(ZERO)"
+                  },
+                  {
+                    "name": "イチナナでANN0"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1029,10 +1035,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "from:Ann_Since1967"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#イチナナでANN0"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:Ann_Since1967"
+                  }
+                ]
               }
             }
           ]
