@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1758478190",
+    "srvtime": "1758564598",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -814,10 +814,10 @@
             {
               "-id": "12219189",
               "-ft": "20250922200000",
-              "-to": "20250922210000",
+              "-to": "20250922210500",
               "-ftl": "2000",
-              "-tol": "2100",
-              "-dur": "3600",
+              "-tol": "2105",
+              "-dur": "3900",
               "title": "セゾンファンデックスプレゼンツ　ＡＢＣフレッシュアップベースボールスペシャル(3)",
               "url": "https://www.abc1008.com/",
               "failed_record": "0",
@@ -835,12 +835,12 @@
               }
             },
             {
-              "-id": "12219190",
-              "-ft": "20250922210000",
-              "-to": "20250922210500",
-              "-ftl": "2100",
-              "-tol": "2105",
-              "-dur": "300",
+              "-id": "12267876",
+              "-ft": "20250922210500",
+              "-to": "20250922211500",
+              "-ftl": "2105",
+              "-tol": "2115",
+              "-dur": "600",
               "title": "ＡＢＣニュース＆天気予報",
               "url": "https://abcradio.asahi.co.jp/",
               "failed_record": "0",
@@ -849,34 +849,6 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/56d53428-8240-4399-a7ff-c826d66b8b5b.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "12219191",
-              "-ft": "20250922210500",
-              "-to": "20250922211500",
-              "-ftl": "2105",
-              "-tol": "2115",
-              "-dur": "600",
-              "title": "備えよう！ＡＢＣラジオぼうさい部",
-              "url": "https://abcradio.asahi.co.jp/bosai/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "pfm": "東留伽",
-              "img": "https://program-static.cf.radiko.jp/c040c563-ea03-43e7-ae7f-7ea089a56f9d.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1262,12 +1234,35 @@
               }
             },
             {
-              "-id": "12219199",
+              "-id": "12267324",
               "-ft": "20250923030000",
-              "-to": "20250923042000",
+              "-to": "20250923031000",
               "-ftl": "2700",
+              "-tol": "2710",
+              "-dur": "600",
+              "title": "未来をつくる～Ｂｅｙｏｎｄ　Ａｔｈｌｅｔｅ",
+              "url": "https://abcradio.asahi.co.jp/mirai/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "メールアドレス：<a href=\"mailto:mirai@abc1008.com\">mirai@abc1008.com</a><BR><BR>twitterアカウントは「<a href=\"http://twitter.com/beyond_athlete\">@beyond_athlete</a>」<BR><BR><BR>",
+              "img": "https://program-static.cf.radiko.jp/a40a1664-bd9d-421b-bb55-909fc031f9e9.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "from:beyond_athlete"
+                }
+              }
+            },
+            {
+              "-id": "12267325",
+              "-ft": "20250923031000",
+              "-to": "20250923042000",
+              "-ftl": "2710",
               "-tol": "2820",
-              "-dur": "4800",
+              "-dur": "4200",
               "title": "Ｒ→９３３",
               "url": "https://abcradio.asahi.co.jp/r933/",
               "failed_record": "0",
