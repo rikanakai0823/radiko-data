@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1759083058",
+    "srvtime": "1759169455",
     "stations": {
       "station": {
         "-id": "FMS",
@@ -392,12 +392,57 @@
               }
             },
             {
-              "-id": "12264093",
+              "-id": "12302193",
               "-ft": "20251004110000",
-              "-to": "20251004115500",
+              "-to": "20251004113000",
               "-ftl": "1100",
+              "-tol": "1130",
+              "-dur": "1800",
+              "title": "FM佐賀特別番組　5年に1度、全員参加の統計調査。いざ、国勢調査！",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/0d0bcf40-52f2-41cb-8807-0018b6da751d_sq.jpg\" height=\"60\" width=\"60\" alt=\"德丸英器（SKUNK SHOT BOOSTER）\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/ce5c4962-8d8a-4c77-b437-c216a045a591_sq.jpg\" height=\"60\" width=\"60\" alt=\"飯地紀美子（FM佐賀アナウンサー）\"></td>  </tr></table><br /><br />\t9月27日に佐賀市のゆめタウン佐賀で行った、公開録音の模様をお届けします。<br /><br />番組では、会場にお越しのお客様にもご参加いただいたクイズを交えながら、<br />国勢調査について詳しくご紹介します！<br /><br />全員参加の統計調査である国勢調査に、まだご回答いただいていない方は回答をお願いいたします！ <br /><br /><br /></div>",
+              "pfm": "德丸英器（SKUNK SHOT BOOSTER） / 飯地紀美子（FM佐賀アナウンサー）",
+              "img": "https://program-static.cf.radiko.jp/60f5d173-ea73-43a8-b8df-a0b0a320abe9.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "国勢調査"
+                  },
+                  {
+                    "name": "FM佐賀"
+                  },
+                  {
+                    "name": "德丸英器"
+                  },
+                  {
+                    "name": "飯地紀美子"
+                  }
+                ]
+              },
+              "genre": {
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12302194",
+              "-ft": "20251004113000",
+              "-to": "20251004115500",
+              "-ftl": "1130",
               "-tol": "1155",
-              "-dur": "3300",
+              "-dur": "1500",
               "title": "MUSIC ASSORT",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -465,37 +510,44 @@
               }
             },
             {
-              "-id": "12264095",
+              "-id": "12302195",
               "-ft": "20251004120000",
               "-to": "20251004125500",
               "-ftl": "1200",
               "-tol": "1255",
               "-dur": "3300",
-              "title": "MUSIC ASSORT",
+              "title": "FM佐賀お出かけ放送局 in リレー・フォー・ライフ・ジャパン佐賀",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t様々な時代、ジャンルの楽曲をお届けする音楽番組 <br /><br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/j6jpbjvbxw.jpg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/ac5b987e-3fc5-4c6c-9647-11b879f6b843_sq.jpg\" height=\"60\" width=\"60\" alt=\"木原慶吾\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/ce5c4962-8d8a-4c77-b437-c216a045a591_sq.jpg\" height=\"60\" width=\"60\" alt=\"飯地紀美子（FM佐賀アナウンサー）\"></td>  </tr></table><br /><br />\tどんどんどんの森＆アバンセで開催の「リレー・フォー・ライフ・ジャパン佐賀」について<br />アバンセの北玄関に特設ブースを設け、ゲストをお招きしながら公開生放送でお届けします！<br /><br />ご案内はリレー・フォー・ライフ・ジャパン佐賀のサバイバーであり実行委員長の木原慶吾さんと、<br />FM佐賀アナウンサーの飯地紀美子です。 <br /><br /><br /></div>",
+              "pfm": "木原慶吾 / 飯地紀美子（FM佐賀アナウンサー）",
+              "img": "https://program-static.cf.radiko.jp/60f5d173-ea73-43a8-b8df-a0b0a320abe9.jpeg",
               "tag": {
                 "item": [
                   {
-                    "name": "音楽"
+                    "name": "RFLJ"
                   },
                   {
-                    "name": "MUSIC"
+                    "name": "RFLJ佐賀"
                   },
                   {
                     "name": "FM佐賀"
+                  },
+                  {
+                    "name": "木原慶吾"
+                  },
+                  {
+                    "name": "飯地紀美子"
                   }
                 ]
               },
               "genre": {
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P017",
+                  "name": "健康"
                 }
               },
               "metas": {
@@ -763,7 +815,7 @@
               "-ftl": "1500",
               "-tol": "1525",
               "-dur": "1500",
-              "title": "ACN presents 丸山茂樹 MOVING SATURDAY",
+              "title": "丸山茂樹 MOVING SATURDAY",
               "url": "https://www.tfm.co.jp/moving/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -772,7 +824,7 @@
               "tsplus_out_ng": "0",
               "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/0cfc58d1-766a-436a-9673-6d7aeddb35c1_sq.jpg\" height=\"60\" width=\"60\" alt=\"丸山茂樹\"></td>  </tr></table><br /><br />\t日本はもちろん世界で活躍をしているプロゴルファー丸山茂樹氏が、スポーツ、ビジネス、エンターテインメントなど様々な世界の第一線で活躍する方をゲストに迎え、「チャレンジ」「教育」「マネジメント」「ゴルフ」など、幅広いテーマでトークを繰り広げる、ラジオ番組を舞台とした異業種マッチプレーをお届けします。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/moving/\">https://www.tfm.co.jp/moving/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/moving/message.html\">https://www.tfm.co.jp/moving/message.html</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A0%E3%83%96%E3%82%B5%E3%82%BF\">#ムブサタ</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/Moving_TFM\">@Moving_TFM</a>」<br /><br /></div>",
               "pfm": "丸山茂樹",
-              "img": "https://program-static.cf.radiko.jp/qgpehhtxlw.jpg",
+              "img": "https://program-static.cf.radiko.jp/w0jvzqplar.jpg",
               "tag": {
                 "item": [
                   {
@@ -1097,109 +1149,47 @@
               }
             },
             {
-              "-id": "12264111",
+              "-id": "12302196",
               "-ft": "20251004185500",
-              "-to": "20251004190000",
+              "-to": "20251004193000",
               "-ftl": "1855",
-              "-tol": "1900",
-              "-dur": "300",
-              "title": "佐賀新聞ニュース",
+              "-tol": "1930",
+              "-dur": "2100",
+              "title": "FM佐賀お出かけ放送局 ボートレースからつ presents 九州花火大会 in 唐津",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t佐賀新聞ニュース <br /><br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/8idwj8px7j.jpg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/65a94dbb-5fd9-448d-926d-1570da0f34a7_sq.jpg\" height=\"60\" width=\"60\" alt=\"椎木樹人（万能グローブガラパゴスダイナモス）\"></td>  </tr></table><br /><br />\t会場となる松浦川運動公園の特設ブースから、ダイナミックな花火の模様を「ＬＩＶＥ」でお伝えします。<br /><br />ご案内は、椎木樹人さんです。<br /><br />ぜひお聴きください。 <br /><br /><br /></div>",
+              "pfm": "椎木樹人（万能グローブガラパゴスダイナモス）",
+              "img": "https://program-static.cf.radiko.jp/60f5d173-ea73-43a8-b8df-a0b0a320abe9.jpeg",
               "tag": {
                 "item": [
                   {
-                    "name": "九州佐賀国際空港"
+                    "name": "九州花火大会"
                   },
                   {
-                    "name": "さが農業まつり"
+                    "name": "花火"
                   },
                   {
-                    "name": "JAさが"
+                    "name": "唐津"
+                  },
+                  {
+                    "name": "ボートレースからつ"
                   },
                   {
                     "name": "FM佐賀"
+                  },
+                  {
+                    "name": "椎木樹人"
                   }
                 ]
               },
               "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "12264112",
-              "-ft": "20251004190000",
-              "-to": "20251004192500",
-              "-ftl": "1900",
-              "-tol": "1925",
-              "-dur": "1500",
-              "title": "KOTORIの「遠き山に陽は落ちて」～Road to Sky Jamboree～",
-              "url": "https://www.fmnagasaki.co.jp/2025/04/23/%e3%80%90%e6%96%b0%e7%95%aa%e7%b5%84%e3%80%91kotori%e3%81%ae%e3%80%8c%e9%81%a0%e3%81%8d%e5%b1%b1%e3%81%ab%e9%99%bd%e3%81%af%e8%90%bd%e3%81%a1%e3%81%a6%e3%80%8d/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t＞＞8月24日（日）長崎の稲佐山公園野外ステージで開催する「Sky Jamboree 2025」に出演！<br /><br />埼玉県越谷市で結成されたKOTORIが、エフエム長崎とボーカル・横山優也の故郷である宮崎のJOY FMで初のラジオレギュラー番組をスタート！<br />バンドのことはもちろん、メンバーの個人的ニュースからお悩み相談まで・・・様々な話題をトークします。<br />KOTORIのことをもっともっと知ることができる25分！<br /><br />番組ではメッセージも募集中！<br />ライブの感想もぜひお送りください。<br />メンバーへのギリギリの質問もお待ちしてます！ <br /><br />\t番組Webサイト：<a href=\"https://www.fmnagasaki.co.jp/2025/04/23/%e3%80%90%e6%96%b0%e7%95%aa%e7%b5%84%e3%80%91kotori%e3%81%ae%e3%80%8c%e9%81%a0%e3%81%8d%e5%b1%b1%e3%81%ab%e9%99%bd%e3%81%af%e8%90%bd%e3%81%a1%e3%81%a6%e3%80%8d/\">https://www.fmnagasaki.co.jp/2025/04/23/%e3%80%90%e6%96%b0%e7%95%aa%e7%b5%84%e3%80%91kotori%e3%81%ae%e3%80%8c%e9%81%a0%e3%81%8d%e5%b1%b1%e3%81%ab%e9%99%bd%e3%81%af%e8%90%bd%e3%81%a1%e3%81%a6%e3%80%8d/</a><br />\tメッセージフォーム：<a href=\"https://www.fmnagasaki.co.jp/request/\">https://www.fmnagasaki.co.jp/request/</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23KOTORI%E3%83%AC%E3%83%87%E3%82%A3%E3%82%AA\">#KOTORIレディオ</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/KOTORI_band\">@KOTORI_band</a>」<br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/fy53w4xwoe.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "12264113",
-              "-ft": "20251004192500",
-              "-to": "20251004193000",
-              "-ftl": "1925",
-              "-tol": "1930",
-              "-dur": "300",
-              "title": "FMS HYPER PLAY",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\tFMS HYPER PLAY <br /><br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/acqlq9fbf5.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1332,36 +1322,100 @@
               }
             },
             {
-              "-id": "12264117",
+              "-id": "12302197",
               "-ft": "20251004200000",
-              "-to": "20251004205500",
+              "-to": "20251004202500",
               "-ftl": "2000",
-              "-tol": "2055",
-              "-dur": "3300",
-              "title": "FM名曲コレクション",
-              "url": "https://fmfukuoka.co.jp/program/fmmc/",
+              "-tol": "2025",
+              "-dur": "1500",
+              "title": "KOTORIの「遠き山に陽は落ちて」",
+              "url": "https://www.fmnagasaki.co.jp/2025/04/23/%e3%80%90%e6%96%b0%e7%95%aa%e7%b5%84%e3%80%91kotori%e3%81%ae%e3%80%8c%e9%81%a0%e3%81%8d%e5%b1%b1%e3%81%ab%e9%99%bd%e3%81%af%e8%90%bd%e3%81%a1%e3%81%a6%e3%80%8d/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\tFM FUKUOKA オススメのアーティストや日頃はなかなか聞けないような楽曲、様々なジャンルの音楽を織り交ぜノンストップでお送りしている音楽番組です。 <br /><br />\t番組Webサイト：<a href=\"https://fmfukuoka.co.jp/program/fmmc/\">https://fmfukuoka.co.jp/program/fmmc/</a><br />\tメッセージフォーム：<a href=\"https://fmfukuoka.co.jp/message/?program_id=30\">https://fmfukuoka.co.jp/message/?program_id=30</a><br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/u8o1jemx4c.jpg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/5e07aeec-eb02-4748-905a-ce34ecc66969_sq.jpg\" height=\"60\" width=\"60\" alt=\"KOTORI\"></td>  </tr></table><br /><br />\t＞＞10月からギター・上坂、ベース・佐藤の地元でもある栃木のRADIO BERRYでも放送！<br /><br />埼玉県越谷市で結成されたKOTORIのレギュラープログラム！<br />エフエム長崎とボーカル・横山優也の故郷である宮崎のJOY FM、そして長崎のお隣であるFM佐賀で放送中！<br />バンドのことはもちろん、メンバーの個人的ニュースからお悩み相談まで・・・様々な話題をトークします。<br />KOTORIのことをもっともっと知ることができる25分！<br /><br />番組ではメッセージも募集中！<br />ライブの感想もぜひお送りください。<br />メンバーへのギリギリの質問もお待ちしてます！ <br /><br />\t番組Webサイト：<a href=\"https://www.fmnagasaki.co.jp/2025/04/23/%e3%80%90%e6%96%b0%e7%95%aa%e7%b5%84%e3%80%91kotori%e3%81%ae%e3%80%8c%e9%81%a0%e3%81%8d%e5%b1%b1%e3%81%ab%e9%99%bd%e3%81%af%e8%90%bd%e3%81%a1%e3%81%a6%e3%80%8d/\">https://www.fmnagasaki.co.jp/2025/04/23/%e3%80%90%e6%96%b0%e7%95%aa%e7%b5%84%e3%80%91kotori%e3%81%ae%e3%80%8c%e9%81%a0%e3%81%8d%e5%b1%b1%e3%81%ab%e9%99%bd%e3%81%af%e8%90%bd%e3%81%a1%e3%81%a6%e3%80%8d/</a><br />\tメッセージフォーム：<a href=\"https://www.fmnagasaki.co.jp/request/\">https://www.fmnagasaki.co.jp/request/</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23KOTORI%E3%83%AC%E3%83%87%E3%82%A3%E3%82%AA\">#KOTORIレディオ</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/KOTORI_band\">@KOTORI_band</a>」<br /><br /></div>",
+              "pfm": "KOTORI",
+              "img": "https://program-static.cf.radiko.jp/qe1qyftxzh.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12302198",
+              "-ft": "20251004202500",
+              "-to": "20251004203000",
+              "-ftl": "2025",
+              "-tol": "2030",
+              "-dur": "300",
+              "title": "FMS HYPER PLAY",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\tFMS HYPER PLAY <br /><br /><br /></div>",
+              "img": "https://program-static.cf.radiko.jp/acqlq9fbf5.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12302199",
+              "-ft": "20251004203000",
+              "-to": "20251004205500",
+              "-ftl": "2030",
+              "-tol": "2055",
+              "-dur": "1500",
+              "title": "MUSIC ASSORT",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t様々な時代、ジャンルの楽曲をお届けする音楽番組 <br /><br /><br /></div>",
+              "img": "https://program-static.cf.radiko.jp/j6jpbjvbxw.jpg",
               "tag": {
                 "item": [
                   {
-                    "name": "音楽との出会いが楽しめる"
+                    "name": "音楽"
                   },
                   {
-                    "name": "気分転換におすすめ"
+                    "name": "MUSIC"
+                  },
+                  {
+                    "name": "FM佐賀"
                   }
                 ]
               },
               "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
