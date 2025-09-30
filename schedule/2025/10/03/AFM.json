@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1759169454",
+    "srvtime": "1759255858",
     "stations": {
       "station": {
         "-id": "AFM",
@@ -85,10 +85,104 @@
             {
               "-id": "12259255",
               "-ft": "20251003060000",
-              "-to": "20251003073000",
+              "-to": "20251003063000",
               "-ftl": "0600",
+              "-tol": "0630",
+              "-dur": "1800",
+              "title": "ONE MORNING",
+              "url": "https://www.tfm.co.jp/one/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/550b9e0d-7de5-4147-8247-71f651826f09_sq.jpg\" height=\"60\" width=\"60\" alt=\"ユージ\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/794e74ec-4a59-493c-b0d7-ecfd3dcc304c_sq.jpg\" height=\"60\" width=\"60\" alt=\"吉田明世\"></td>  </tr></table><br /><br />\t「それぞれの朝に、それぞれの価値観を」をコンセプトに、多様なリスナー（生活者）のライフスタイルへ、新しい一つの価値観を提案しシェアしていく朝のジャーナルプログラム『ONE MORNING』 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/one/\">https://www.tfm.co.jp/one/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/one/form/\">https://www.tfm.co.jp/one/form/</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%AF%E3%83%B3%E3%83%A2\">#ワンモ</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/ONEMORNING_1\">@ONEMORNING_1</a>」<br /><br /></div>",
+              "pfm": "ユージ / 吉田明世",
+              "img": "https://program-static.cf.radiko.jp/2ds2le8yid.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ユージ"
+                  },
+                  {
+                    "name": "吉田明世"
+                  },
+                  {
+                    "name": "朝のニュースを効率良く"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12307157",
+              "-ft": "20251003063000",
+              "-to": "20251003063900",
+              "-ftl": "0630",
+              "-tol": "0639",
+              "-dur": "540",
+              "title": "ソニー生命 presents 生きがいってなんだろうRADIO",
+              "url": "https://www.tfm.co.jp/f/ikigai/message",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/a509c533-fb5c-4d4b-9d9f-a91f818c6d36_sq.jpg\" height=\"60\" width=\"60\" alt=\"NON STYLE 石田明\"></td>  </tr></table><br /><br />\t各界で活躍する著名人をマンスリーでお招きし、現在に至るヒストリーやターニングポイント、そして人生が豊かになったご自身の「生きがい」を伺っていくトークセッション番組 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/f/ikigai/message\">https://www.tfm.co.jp/f/ikigai/message</a><br /><br /></div>",
+              "pfm": "NON STYLE 石田明",
+              "img": "https://program-static.cf.radiko.jp/i9537c0oz7.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "NON STYLE"
+                  },
+                  {
+                    "name": "石田明"
+                  },
+                  {
+                    "name": "生きがい"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12307158",
+              "-ft": "20251003063900",
+              "-to": "20251003073000",
+              "-ftl": "0639",
               "-tol": "0730",
-              "-dur": "5400",
+              "-dur": "3060",
               "title": "ONE MORNING",
               "url": "https://www.tfm.co.jp/one/",
               "failed_record": "0",

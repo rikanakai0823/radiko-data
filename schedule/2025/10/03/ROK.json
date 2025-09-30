@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1759083057",
+    "srvtime": "1759255859",
     "stations": {
       "station": {
         "-id": "ROK",
@@ -740,7 +740,9 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/b1059d8c-ff37-4aa0-952e-a922b8c47332.png",
+              "desc": "レジェンドパーソナリティ、笑福亭鶴光がまたまたレギュラーで帰ってきます。“お美和子さま”こと、田中美和子とのゴールデンコンビも健在。金曜日の夕方は笑いとグッドミュージックをお届けします。",
+              "pfm": "笑福亭鶴光、田中美和子",
+              "img": "https://program-static.cf.radiko.jp/72787285-fc47-4e65-ac56-f746b63d8fb4.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -762,6 +764,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "週末の夜に楽しい洋楽リクエストを紹介するオトナのラジオ！ゆっくりとお楽しみください",
+              "info": "番組へのメールは<a href=\"mailto:akira864@rokinawa.co.jp\"> こちら</a><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%B8%E3%82%AA%E6%B2%96%E7%B8%84\">#ラジオ沖縄</a>」<br> twitterアカウントは「<a href=\"http://twitter.com/RadioOkinawa864\">@RadioOkinawa864</a>」<br> facebookページは<a href=\"https://www.facebook.com/radiookinawa864\"> こちら</a>",
               "pfm": "森田明",
               "img": "https://program-static.cf.radiko.jp/98a3007c-0ecc-44b1-ad2a-045f1acdf250.jpeg",
               "tag": {
@@ -770,10 +773,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#ラジオ沖縄"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:RadioOkinawa864"
+                  }
+                ]
               }
             },
             {
