@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1759169450",
+    "srvtime": "1759428587",
     "stations": {
       "station": {
         "-id": "IBC",
@@ -982,6 +982,16 @@
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
               "pfm": "坂口愛美",
               "img": "https://program-static.cf.radiko.jp/75a09624-c0c8-4abe-8979-e56f2a0ef125.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -997,15 +1007,26 @@
               "-tol": "2000",
               "-dur": "3600",
               "title": "峯村健司と松本秀夫のジェントル！ジェントル？",
+              "url": "https://www.1242.com/mm/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "新番組<br/>E-mail　<a href=\"mailto:mm@1242.com\">mm@1242.com</a>",
-              "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%B3%AF%E6%9D%91%E6%9D%BE%E6%9C%AC\">#峯村松本</a>」",
+              "info": "番組Xアカウントは「<a href=\"http://twitter.com/mmgg1242\">@mmgg1242</a>」<br/>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%B3%AF%E6%9D%91%E6%9D%BE%E6%9C%AC\">#峯村松本</a>」",
               "pfm": "峯村健司 / 松本秀夫",
               "img": "https://program-static.cf.radiko.jp/4fb4fd34-e411-4d90-8371-ca5bfb13e814.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C014",
+                  "name": "評論家"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
