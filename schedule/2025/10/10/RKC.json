@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1759601392",
+    "srvtime": "1759860592",
     "stations": {
       "station": {
         "-id": "RKC",
@@ -472,9 +472,17 @@
               "pfm": "高知放送　防災士",
               "img": "https://program-static.cf.radiko.jp/7470e165-d829-4aa7-94b9-01ad38139117.png",
               "tag": {
-                "item": {
-                  "name": "高知県のニュース"
-                }
+                "item": [
+                  {
+                    "name": "防災アナウンサー"
+                  },
+                  {
+                    "name": "防災士"
+                  },
+                  {
+                    "name": "防災"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -482,8 +490,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -554,9 +562,17 @@
               "desc": "道路交通情報",
               "img": "https://program-static.cf.radiko.jp/e726a629-811a-42bb-bfd3-cc3d4b5957b7.jpeg",
               "tag": {
-                "item": {
-                  "name": "高知県のニュース"
-                }
+                "item": [
+                  {
+                    "name": "防災アナウンサー"
+                  },
+                  {
+                    "name": "防災士"
+                  },
+                  {
+                    "name": "防災"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -564,8 +580,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -1339,9 +1355,17 @@
               "pfm": "高知放送アナウンサー",
               "img": "https://program-static.cf.radiko.jp/b018a011-1383-420f-84b2-fe9444775488.png",
               "tag": {
-                "item": {
-                  "name": "高知県のニュース"
-                }
+                "item": [
+                  {
+                    "name": "防災アナウンサー"
+                  },
+                  {
+                    "name": "防災士"
+                  },
+                  {
+                    "name": "防災"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1349,8 +1373,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -1676,6 +1700,29 @@
               "desc": "人を明るく、幸せにする「ＨＡＰＰＹ」な話題に特化した番組。日本中を明るく幸せにする話題を届けます！",
               "pfm": "丹生明里",
               "img": "https://program-static.cf.radiko.jp/13b819fd-a891-46f9-863e-0bdd5fdc1193.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "HAPPY"
+                  },
+                  {
+                    "name": "丹生明里"
+                  },
+                  {
+                    "name": "トーク番組"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
