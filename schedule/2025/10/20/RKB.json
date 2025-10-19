@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1760465454",
+    "srvtime": "1760897386",
     "stations": {
       "station": {
         "-id": "RKB",
@@ -638,10 +638,10 @@
             {
               "-id": "12350123",
               "-ft": "20251020172500",
-              "-to": "20251020173000",
+              "-to": "20251020172800",
               "-ftl": "1725",
-              "-tol": "1730",
-              "-dur": "300",
+              "-tol": "1728",
+              "-dur": "180",
               "title": "ＲＫＢ交通情報",
               "url": "https://rkb.jp/radio_top/",
               "failed_record": "0",
@@ -675,12 +675,45 @@
               }
             },
             {
+              "-id": "12397600",
+              "-ft": "20251020172800",
+              "-to": "20251020173000",
+              "-ftl": "1728",
+              "-tol": "1730",
+              "-dur": "120",
+              "title": "ネットワークトゥデイ",
+              "url": "https://rkb.jp/radio_top/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "RKBラジオ公式Xアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
+              "img": "https://program-static.cf.radiko.jp/83c8fc17-589e-4ef9-a168-a07203f56eb2.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
               "-id": "12350124",
               "-ft": "20251020173000",
-              "-to": "20251020190000",
+              "-to": "20251020173400",
               "-ftl": "1730",
-              "-tol": "1900",
-              "-dur": "5400",
+              "-tol": "1734",
+              "-dur": "240",
               "title": "二丁目お茶の間劇場",
               "url": "https://rkb.jp/radio/ocha/",
               "failed_record": "0",
@@ -715,36 +748,31 @@
               }
             },
             {
-              "-id": "12350125",
-              "-ft": "20251020190000",
-              "-to": "20251020200000",
-              "-ftl": "1900",
-              "-tol": "2000",
-              "-dur": "3600",
-              "title": "二丁目お茶の間劇場（２）",
-              "url": "https://rkb.jp/radio/ocha/",
+              "-id": "12397601",
+              "-ft": "20251020173400",
+              "-to": "20251020174800",
+              "-ftl": "1734",
+              "-tol": "1748",
+              "-dur": "840",
+              "title": "カレー探偵たける",
+              "url": "https://rkb.jp/series/curry_takeru/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "「二丁目お茶の間劇場」（毎週月曜17：30～20：00）はスタジオをお茶の間に見立て、世間話風に一日を振り返る番組です。仕事を終え、家路に向かうリスナーに、ちょっとだけ「笑いと癒し」を届けます。",
-              "info": "フツーの人々の営みにある日常の何気ないドラマを描きながら坂口卓司・富永倫子というＲＫＢラジオが誇る？ゴールデンコンビ？？がクスリと笑わせます。<br />2015年民間放送連盟ラジオ生ワイド番組部門優秀賞（平成27年・2015年度受賞時の全国最高賞。現在、ラジオ生ワイド部門には最優秀賞があります）<br /><br />メールアドレス：ocha@rkbr.jp<br />FAX：092-844-8844<br /><br />番組公式Xアカウントは「<a href=\"http://twitter.com/rkbr_ocha\">@rkbr_ocha</a>」<br />",
-              "pfm": "坂口卓司 / 富永倫子",
-              "img": "https://program-static.cf.radiko.jp/s55wmh2wml.jpg",
-              "tag": {
-                "item": {
-                  "name": "気分転換におすすめ"
-                }
-              },
+              "desc": "カレー、スパイス、カレー専門店のことなら全てお任せ！カレー探偵たけるが、カレーに関する疑問にズバッと解答！",
+              "info": "RKBテレビ『タダイマ！』の人気コーナー“カレー探偵たける”をRKBラジオでも放送中！<br /><br />詳しくは、Instagram（＠curry_detective_takeru）をチェック！<br />メールアドレス：curry@rkbr.jp",
+              "pfm": "たける",
+              "img": "https://program-static.cf.radiko.jp/265e4bca-f807-4702-992a-65506f31d79d.jpeg",
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C010",
+                  "name": "タレント"
                 },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P012",
+                  "name": "趣味/教育"
                 }
               },
               "metas": {
@@ -755,11 +783,82 @@
               }
             },
             {
-              "-id": "12350126",
-              "-ft": "20251020200000",
-              "-to": "20251020201500",
-              "-ftl": "2000",
-              "-tol": "2015",
+              "-id": "12397602",
+              "-ft": "20251020174800",
+              "-to": "20251020195900",
+              "-ftl": "1748",
+              "-tol": "1959",
+              "-dur": "7860",
+              "title": "ＲＫＢエキサイトホークス",
+              "url": "https://rkb.jp/radio/excitehawks/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "<a href=\"https://x.com/exhawks\"> エキサイトホークス公式Ｘ </a>　☆RKBラジオを聞きながらホークスの事、どんどんつぶやいてください！",
+              "info": "カード：ソフトバンク×日本ハム　球場：みずほPayPayﾄﾞｰﾑ　解説：秋山幸二　実況：髙見心太朗　*カード等変更の可能性有<br /><br /><br />",
+              "pfm": "カード：ソフトバンク×日本ハム　球場：みずほPayPayﾄﾞｰﾑ　解説：秋山幸二　実況：髙見心太朗　*カード等変更の可能性有",
+              "img": "https://program-static.cf.radiko.jp/bb5017a5-1c5b-439c-aee8-45c76fb5595c.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "野球"
+                  },
+                  {
+                    "name": "野球中継"
+                  },
+                  {
+                    "name": "福岡ソフトバンクホークス"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12397603",
+              "-ft": "20251020195900",
+              "-to": "20251020211500",
+              "-ftl": "1959",
+              "-tol": "2115",
+              "-dur": "4560",
+              "title": "ＲＫＢエキサイトホークス応援団 *野球延長の可能性有",
+              "url": "https://rkb.jp/radio_top/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "RKBラジオ公式twitterアカウントは「<a href=\"http://twitter.com/rkbr_info\">@rkbr_info</a>」<br />RKBラジオ公式facebookページは「<a href='https://www.facebook.com/rkbradio/'>https://www.facebook.com/rkbradio/</a>」",
+              "img": "https://program-static.cf.radiko.jp/4cecdcfc-b260-4120-9925-36915f4e4af8.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "from:rkbr_info"
+                }
+              }
+            },
+            {
+              "-id": "12397604",
+              "-ft": "20251020211500",
+              "-to": "20251020213000",
+              "-ftl": "2115",
+              "-tol": "2130",
               "-dur": "900",
               "title": "白岳ＫＡＯＲＵ研究所",
               "url": "https://rkb.jp/radio/labo/",
@@ -797,66 +896,6 @@
                   "name": "情報"
                 }
               },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "12350127",
-              "-ft": "20251020201500",
-              "-to": "20251020203000",
-              "-ftl": "2015",
-              "-tol": "2030",
-              "-dur": "900",
-              "title": "カレー探偵たける",
-              "url": "https://rkb.jp/series/curry_takeru/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "カレー、スパイス、カレー専門店のことなら全てお任せ！カレー探偵たけるが、カレーに関する疑問にズバッと解答！",
-              "info": "RKBテレビ『タダイマ！』の人気コーナー“カレー探偵たける”をRKBラジオでも放送中！<br /><br />詳しくは、Instagram（＠curry_detective_takeru）をチェック！<br />メールアドレス：curry@rkbr.jp",
-              "pfm": "たける",
-              "img": "https://program-static.cf.radiko.jp/265e4bca-f807-4702-992a-65506f31d79d.jpeg",
-              "genre": {
-                "personality": {
-                  "-id": "C010",
-                  "name": "タレント"
-                },
-                "program": {
-                  "-id": "P012",
-                  "name": "趣味/教育"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "12350128",
-              "-ft": "20251020203000",
-              "-to": "20251020213000",
-              "-ftl": "2030",
-              "-tol": "2130",
-              "-dur": "3600",
-              "title": "グレープのもう魔酔わない",
-              "url": "https://www.tokairadio.co.jp/program/mayowanai/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "番組Ｘハッシュタグは「＃もうまよ」　<a href=\"https://x.com/search?q=%40kinomayoi929&src=typed_query\"> 番組公式Ｘ </a>　メッセージ： <a href=\"mailto:oni@tokairadio.co.jp\"> メールでご応募くさい。  </a>",
-              "info": "TOKAI RADIOの深夜放送から<br />『精霊流し』が日本中に大ヒット。<br /><br />デビュー５０年の節目に、ある日突然<br />「TOKAI RADIO」で番組をやりたいという<br />謎の強い衝動に駆られ<br />「さだまさし　１時の鬼の魔酔い」がスタート！<br /><br />そして2025年春から「グレープのもう魔酔わない！」へ！<br /><br />◆東海どう？ 五十三次<br />◆お笑いSDGs",
-              "pfm": "さだまさし/吉田政美（グレープ）",
-              "img": "https://program-static.cf.radiko.jp/9580291a-3c4e-4283-9c57-4bbb16c806d7.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -970,9 +1009,9 @@
               "url": "https://www.abc1008.com/radinosuke/",
               "failed_record": "0",
               "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
+              "tsplus_in_ng": "2",
               "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
+              "tsplus_out_ng": "2",
               "desc": "歌舞伎に留まらず、様々な分野で活躍している中村七之助。そんな、中村七之助が初のMCを務めるレギュラーラジオ番組。",
               "info": "歌舞伎についての話に限らず、普段聞くことのできないようなプライベート、交友関係、趣味に至るまで、中村七之助がホンネで語るラジオ。",
               "pfm": "中村七之助",
