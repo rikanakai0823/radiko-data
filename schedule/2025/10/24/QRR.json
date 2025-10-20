@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1760811051",
+    "srvtime": "1760983849",
     "stations": {
       "station": {
         "-id": "QRR",
@@ -930,24 +930,41 @@
               }
             },
             {
-              "-id": "12362681",
+              "-id": "12402298",
               "-ft": "20251024190000",
               "-to": "20251024200000",
               "-ftl": "1900",
               "-tol": "2000",
               "-dur": "3600",
-              "title": "文化放送フライデープレミアム",
+              "title": "文化放送芸人ラジオ　ゴー☆ジャスのファンタ☆スティックRADIO",
               "url": "https://www.joqr.co.jp/qr/program/fridaypremium/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
+              "desc": "<div>ピン芸人ゴー☆ジャスが1時間トークのみでお届けする特別番組。ネタ、リスナーメール、企画コーナーと内容盛りだくさんでお送りします。</div><div> </div><div>ふつおたもお待ちしています！</div><div><a href=\"mailto:special@joqr.net\">special@joqr.net</a></div><br>X（旧Twitter）ハッシュタグは「<a href=\"https://twitter.com/search?q=%23%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AFRADIO\" target=\"_blank\">#ファンタスティックRADIO</a>」<br><br>",
               "info": "<p>文化放送が週替わりで、プレミアムな特別番組をお届けします。</p><br>文化放送公式X（旧Twitter）アカウントは「<a href=\"https://twitter.com/joqrpr\" target=\"_blank\">@joqrpr</a>」<br>文化放送公式X（旧Twitter）ハッシュタグは「<a href=\"https://twitter.com/search?q=%23%E6%96%87%E5%8C%96%E6%94%BE%E9%80%81\" target=\"_blank\">#文化放送</a>」<br>文化放送公式facebookページは<br>「<a href=\"https://www.facebook.com/1134joqr\" target=\"_blank\">https://www.facebook.com/1134joqr</a>」<br>文化放送公式LINEは「<a href=\"https://page.line.me/joqr_916\" target=\"_blank\">@joqr_916</a>」<br>",
-              "img": "https://program-static.cf.radiko.jp/c11f401b-7081-4997-be64-62740b1250af.jpeg",
+              "pfm": "ゴー☆ジャス",
+              "img": "https://program-static.cf.radiko.jp/8oyk6u3m7k.jpg",
               "tag": {
-                "item": {
-                  "name": "文化放送"
+                "item": [
+                  {
+                    "name": "ファンタスティックRADIO"
+                  },
+                  {
+                    "name": "ゴージャス"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
