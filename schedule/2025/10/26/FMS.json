@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1761329393",
+    "srvtime": "1761502191",
     "stations": {
       "station": {
         "-id": "FMS",
@@ -1355,34 +1355,37 @@
               }
             },
             {
-              "-id": "12370772",
+              "-id": "12431214",
               "-ft": "20251026190000",
               "-to": "20251026195500",
               "-ftl": "1900",
               "-tol": "1955",
               "-dur": "3300",
-              "title": "MUSIC ASSORT",
+              "title": "村上RADIO～アナログ・レコードで、ジャズのちょっとこのあたりを…～",
+              "url": "https://www.tfm.co.jp/murakamiradio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t様々な時代、ジャンルの楽曲をお届けする音楽番組 <br /><br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/j6jpbjvbxw.jpg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/57e99d47-42fd-4974-9553-2956aa3c7d60_sq.jpg\" height=\"60\" width=\"60\" alt=\"村上春樹\"></td>  </tr></table><br /><br />\t秋もだんだん深まってきましたね。こういう季節の夜には、味わい深いジャズを、さらりと聴きこなしたいものです。温かい飲み物を用意して、軽くスイングしながら・・・。<br />さて、今回はうちにあるアナログ・レコードを一抱え集めて持ってきました。どれも古いオリジナル盤です。でもいわゆる「ジャズの名盤」みたいなものはかかりません。普段あまり耳にすることのない（であろう）、でも聴いていたらなんか和んだ気持ちになれる、みたいなものを中心に選んでみました。耳で味わう鍋焼きうどんみたいなものでしょうかね。お付き合いいただけると嬉しいです。（村上春樹） <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/murakamiradio/\">https://www.tfm.co.jp/murakamiradio/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/murakamiradio/message/\">https://www.tfm.co.jp/murakamiradio/message/</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E6%9D%91%E4%B8%8ARADIO\">#村上RADIO</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/Murakamiradiofm\">@Murakamiradiofm</a>」<br /><br /></div>",
+              "pfm": "村上春樹",
+              "img": "https://program-static.cf.radiko.jp/luusfz9dq4.jpg",
               "tag": {
                 "item": [
                   {
-                    "name": "音楽"
+                    "name": "#村上RADIO"
                   },
                   {
-                    "name": "MUSIC"
-                  },
-                  {
-                    "name": "FM佐賀"
+                    "name": "#村上春樹"
                   }
                 ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
