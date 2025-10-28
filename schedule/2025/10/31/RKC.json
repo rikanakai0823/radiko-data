@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1761588591",
+    "srvtime": "1761675051",
     "stations": {
       "station": {
         "-id": "RKC",
@@ -27,9 +27,17 @@
               "pfm": "高知放送アナウンサー",
               "img": "https://program-static.cf.radiko.jp/c8419e79-b453-4746-acea-5fcffe43b790.png",
               "tag": {
-                "item": {
-                  "name": "音楽マシマシ"
-                }
+                "item": [
+                  {
+                    "name": "音楽"
+                  },
+                  {
+                    "name": "音楽マシマシ"
+                  },
+                  {
+                    "name": "アナウンサー"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1014,7 +1022,7 @@
               "tsplus_out_ng": "0",
               "desc": "全盲のシンガーソングライター堀内佳の音楽とトークで綴る10分間！皆様からの生歌リクエスト、お便りにもどんどん答えます♪　",
               "info": "<a href='http://www.rkc-kochi.co.jp/radio/kimagure/'>http://www.rkc-kochi.co.jp/radio/kimagure/</a>　",
-              "pfm": "堀内 佳",
+              "pfm": "堀内佳",
               "img": "https://program-static.cf.radiko.jp/34b59999-0cc2-4d12-87b1-b3f4167d9cb6.png",
               "tag": {
                 "item": [
@@ -1110,9 +1118,14 @@
               "pfm": "高知放送アナウンサー",
               "img": "https://program-static.cf.radiko.jp/3bb3f6cb-5089-48bb-bf81-b26aaf64ba33.png",
               "tag": {
-                "item": {
-                  "name": "園芸販売"
-                }
+                "item": [
+                  {
+                    "name": "園芸販売"
+                  },
+                  {
+                    "name": "ニュースを効率よく"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1237,9 +1250,14 @@
               "pfm": "文化放送報道キャスター",
               "img": "https://program-static.cf.radiko.jp/9994ceaf-41f8-4626-b097-98ac93d7ff0f.jpeg",
               "tag": {
-                "item": {
-                  "name": "全国ニュース"
-                }
+                "item": [
+                  {
+                    "name": "全国ニュース"
+                  },
+                  {
+                    "name": "ニュースを効率よく"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1315,9 +1333,14 @@
               "desc": "ニュースの決定版！TBS系の全国ラジオネットワーク＆海外支局をフル稼動！",
               "img": "https://program-static.cf.radiko.jp/7e5b763c-cd06-42cd-8538-0cbfbb53439c.jpeg",
               "tag": {
-                "item": {
-                  "name": "全国ニュース"
-                }
+                "item": [
+                  {
+                    "name": "ニュースを効率よく"
+                  },
+                  {
+                    "name": "全国ニュース"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
