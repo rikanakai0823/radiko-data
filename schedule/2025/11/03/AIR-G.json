@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1761675055",
+    "srvtime": "1761761398",
     "stations": {
       "station": {
         "-id": "AIR-G",
@@ -751,10 +751,10 @@
             {
               "-id": "12411042",
               "-ft": "20251103150000",
-              "-to": "20251103155500",
+              "-to": "20251103154500",
               "-ftl": "1500",
-              "-tol": "1555",
-              "-dur": "3300",
+              "-tol": "1545",
+              "-dur": "2700",
               "title": "1400",
               "url": "https://www.air-g.co.jp/1400/",
               "failed_record": "0",
@@ -769,6 +769,50 @@
                 "personality": {
                   "-id": "C010",
                   "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12446361",
+              "-ft": "20251103154500",
+              "-to": "20251103155500",
+              "-ftl": "1545",
+              "-tol": "1555",
+              "-dur": "600",
+              "title": "Volkswagen TREASURES",
+              "url": "https://www.tfm.co.jp/treasures/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/c65bb2a8-9e17-4661-b876-f5706a8d50f7_sq.jpg\" height=\"60\" width=\"60\" alt=\"加藤ローサ\"></td>  </tr></table><br /><br />\t人生の中で誰もが持っている「心の宝物（TREASURES）」に耳を傾ける番組。<br />音楽、風景、言葉、モノ ―<br />形あるものもないものも含めて、リスナーの心を支え、<br />人生を豊かにしてきた「大切なもの」たちをエピソードとともに紹介します。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/treasures/\">https://www.tfm.co.jp/treasures/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/treasures/message\">https://www.tfm.co.jp/f/treasures/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%88%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BA\">#トレジャーズ</a>」<br /><br /></div>",
+              "pfm": "加藤ローサ",
+              "img": "https://program-static.cf.radiko.jp/jp6nr7lb2d.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "加藤ローサ"
+                  },
+                  {
+                    "name": "気分転換におすすめ"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C003",
+                  "name": "女優"
                 },
                 "program": {
                   "-id": "P007",
@@ -828,217 +872,58 @@
               }
             },
             {
-              "-id": "12411044",
+              "-id": "12446362",
               "-ft": "20251103160000",
-              "-to": "20251103165500",
-              "-ftl": "1600",
-              "-tol": "1655",
-              "-dur": "3300",
-              "title": "Pleasure Palette",
-              "url": "https://www.air-g.co.jp/pleasurepalette/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/0d49af0f-0f8b-48dc-a9ce-adacf43200b7_sq.jpg\" height=\"60\" width=\"60\" alt=\"西川 賢\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/a9bab426-a191-437a-a77a-ce0aaf849622_sq.jpg\" height=\"60\" width=\"60\" alt=\"miku\"></td>  </tr></table><br /><br />\t北広島にあるエスコンフィールド北海道内サテライトスタジオ「Fスタジオ」から公開生放送。<br />5人が個性様々に選曲した楽曲とワイワイトークが楽しめる番組！<br />ゲストも随時出演予定。ぜひＦスタに会いに来て！ <br /><br />\t番組Webサイト：<a href=\"https://www.air-g.co.jp/pleasurepalette/\">https://www.air-g.co.jp/pleasurepalette/</a><br />\tメッセージフォーム：<a href=\"https://www.air-g.co.jp//pleasurepalette_message/\">https://www.air-g.co.jp//pleasurepalette_message/</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%97%E3%83%AC%E3%83%91%E3%83%AC\">#プレパレ</a>」<br /><br /></div>",
-              "pfm": "西川 賢 / miku",
-              "img": "https://program-static.cf.radiko.jp/0nvwqkj4mb.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "12411045",
-              "-ft": "20251103165500",
-              "-to": "20251103170000",
-              "-ftl": "1655",
-              "-tol": "1700",
-              "-dur": "300",
-              "title": "AIR-G' POWER PLAY",
-              "url": "https://www.air-g.co.jp/powerplay/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t毎月、パワフルにONAIRしているAIR-G'の推薦曲を紹介します。 <br /><br />\t番組Webサイト：<a href=\"https://www.air-g.co.jp/powerplay/\">https://www.air-g.co.jp/powerplay/</a><br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/vf8i33lweu.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "POWERPLAY"
-                  },
-                  {
-                    "name": "推薦曲"
-                  },
-                  {
-                    "name": "イチオシ"
-                  }
-                ]
-              },
-              "genre": {
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "12411046",
-              "-ft": "20251103170000",
-              "-to": "20251103175000",
-              "-ftl": "1700",
-              "-tol": "1750",
-              "-dur": "3000",
-              "title": "Pleasure Palette",
-              "url": "https://www.air-g.co.jp/pleasurepalette/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/0d49af0f-0f8b-48dc-a9ce-adacf43200b7_sq.jpg\" height=\"60\" width=\"60\" alt=\"西川 賢\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/a9bab426-a191-437a-a77a-ce0aaf849622_sq.jpg\" height=\"60\" width=\"60\" alt=\"miku\"></td>  </tr></table><br /><br />\t北広島にあるエスコンフィールド北海道内サテライトスタジオ「Fスタジオ」から公開生放送。<br />5人が個性様々に選曲した楽曲とワイワイトークが楽しめる番組！<br />ゲストも随時出演予定。ぜひＦスタに会いに来て！ <br /><br />\t番組Webサイト：<a href=\"https://www.air-g.co.jp/pleasurepalette/\">https://www.air-g.co.jp/pleasurepalette/</a><br />\tメッセージフォーム：<a href=\"https://www.air-g.co.jp//pleasurepalette_message/\">https://www.air-g.co.jp//pleasurepalette_message/</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%97%E3%83%AC%E3%83%91%E3%83%AC\">#プレパレ</a>」<br /><br /></div>",
-              "pfm": "西川 賢 / miku",
-              "img": "https://program-static.cf.radiko.jp/0nvwqkj4mb.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "12411047",
-              "-ft": "20251103175000",
-              "-to": "20251103180000",
-              "-ftl": "1750",
-              "-tol": "1800",
-              "-dur": "600",
-              "title": "Volkswagen TREASURES",
-              "url": "https://www.tfm.co.jp/treasures/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/c65bb2a8-9e17-4661-b876-f5706a8d50f7_sq.jpg\" height=\"60\" width=\"60\" alt=\"加藤ローサ\"></td>  </tr></table><br /><br />\t人生の中で誰もが持っている「心の宝物（TREASURES）」に耳を傾ける番組。<br />音楽、風景、言葉、モノ ―<br />形あるものもないものも含めて、リスナーの心を支え、<br />人生を豊かにしてきた「大切なもの」たちをエピソードとともに紹介します。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/treasures/\">https://www.tfm.co.jp/treasures/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/treasures/message\">https://www.tfm.co.jp/f/treasures/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%88%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BA\">#トレジャーズ</a>」<br /><br /></div>",
-              "pfm": "加藤ローサ",
-              "img": "https://program-static.cf.radiko.jp/kbcpj0pzik.jpg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "加藤ローサ"
-                  },
-                  {
-                    "name": "気分転換におすすめ"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C003",
-                  "name": "女優"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "12411048",
-              "-ft": "20251103180000",
-              "-to": "20251103185500",
-              "-ftl": "1800",
-              "-tol": "1855",
-              "-dur": "3300",
-              "title": "WAKU WAKU",
-              "url": "https://www.air-g.co.jp/wakuwaku/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/63821681-cbd2-4220-bc38-d5c5fca03aff_sq.jpg\" height=\"60\" width=\"60\" alt=\"坂口紅羽\"></td>  </tr></table><br /><br />\t日替わりテーマでお届けするカルチャー紹介番組。<br />月曜「演劇」、​火曜「音楽」、水曜「漫画・アニメ」、木曜「映画」をテーマに各パーソナリティが熱い熱いトークをお届け。<br />聴けば興味の幅が広がる、そんな番組。 <br /><br />\t番組Webサイト：<a href=\"https://www.air-g.co.jp/wakuwaku/\">https://www.air-g.co.jp/wakuwaku/</a><br /><br /></div>",
-              "pfm": "坂口紅羽",
-              "img": "https://program-static.cf.radiko.jp/cvcbjg1ae7.jpg",
-              "genre": {
-                "program": {
-                  "-id": "P006",
-                  "name": "バラエティ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "12411049",
-              "-ft": "20251103185500",
               "-to": "20251103190000",
-              "-ftl": "1855",
+              "-ftl": "1600",
               "-tol": "1900",
-              "-dur": "300",
-              "title": "道新ヘッドラインニュース",
+              "-dur": "10800",
+              "title": "FM FESTIVAL 2025 桑田佳祐スペシャル企画!! 九段下フォーク・フェスティバル’25",
+              "url": "https://www.tfm.co.jp/fmfes2025/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\t北海道新聞社提供によるニュースをお伝えします <br /><br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/479u5tpmgd.jpg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      </tr><tr valign=\"top\">       </tr><tr valign=\"top\">       <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/6ed966b7-0f0c-4bc2-8e19-035cf3d0cd32_sq.jpg\" height=\"60\" width=\"60\" alt=\"住吉美紀（進行）\"></td>  </tr></table><br /><br />\t桑田佳祐がパーソナリティをつとめている番組「桑田佳祐のやさしい夜遊び」の放送30周年を記念して、桑田佳祐の企画・発案により実現したスペシャル・イベント<br />『TOKYO FM 開局55周年×「桑田佳祐のやさしい夜遊び」放送30周年　九段下フォーク・フェスティバル’25』。<br />事前に告知されたのは、“出演・桑田佳祐 他ゲストあり”だけ。<br /><br />10月12日（日）日本武道館でいざその幕が開けると、とてつもなく豪華な面々が次から次に登場し、九段下は大興奮に包まれ、満員となる9,000人の観客が熱狂しました。<br /><br />日本音楽史に残る伝説の一夜の模様を、11月3日（月・祝）16時～19時TOKYO FMをはじめとするJFN全国38局にて、<br />特別番組『FM FESTIVAL 2025 桑田佳祐スペシャル企画!! 九段下フォーク・フェスティバル’25』としてオンエアいたします。<br /><br />番組内では、前座として出演した田内洵也さんの歌唱から、当日にサプライズ出演したスペシャルゲストのあいみょん、桜井和寿（Mr.Children）、竹内まりや、原 由子、吉井和哉（THE YELLOW MONKEY）たちとのスペシャル・ライブパフォーマンス、さらにライブ後の楽屋でゲストに実施した特別インタビューの模様もオンエアいたします。リアルタイム必聴、間違いなしのプレミアム特番！ぜひお聴きください。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/fmfes2025/\">https://www.tfm.co.jp/fmfes2025/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/fmfes2025/message\">https://www.tfm.co.jp/f/fmfes2025/message</a><br /><br /></div>",
+              "pfm": "桑田佳祐 / あいみょん（ゲスト ） / 桜井和寿（Mr.Children）（ゲスト ） / 竹内まりや（ゲスト ） / 原 由子（ゲスト ） / 吉井和哉（THE YELLOW MONKEY）（ゲスト ） / 田内洵也（※前座） / 住吉美紀（進行）",
+              "img": "https://program-static.cf.radiko.jp/im5b2s04gw.jpg",
               "tag": {
                 "item": [
                   {
-                    "name": "北海道"
+                    "name": "桑田佳祐"
                   },
                   {
-                    "name": "ニュース"
+                    "name": "あいみょん"
                   },
                   {
-                    "name": "NEWS"
+                    "name": "桜井和寿"
+                  },
+                  {
+                    "name": "竹内まりや"
+                  },
+                  {
+                    "name": "原 由子"
+                  },
+                  {
+                    "name": "吉井和哉"
+                  },
+                  {
+                    "name": "田内洵也"
+                  },
+                  {
+                    "name": "住吉美紀"
                   }
                 ]
               },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C004",
+                  "name": "ミュージシャン"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
