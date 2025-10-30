@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1761761400",
+    "srvtime": "1761847792",
     "stations": {
       "station": {
         "-id": "RKC",
@@ -497,8 +497,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -584,8 +584,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -1372,8 +1372,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
@@ -1410,6 +1410,9 @@
                   },
                   {
                     "name": "邦楽"
+                  },
+                  {
+                    "name": "音楽との出会いが楽しめる."
                   }
                 ]
               },
@@ -1781,8 +1784,40 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "24時台のレコメン！は毎日人気タレントの番組をたっぷりとオンエアする夢の1時間！あなたの推しも登場するかも！？",
-              "pfm": "佐藤勝利・原嘉孝（週替わり）",
-              "img": "https://program-static.cf.radiko.jp/c436bb70-5da2-4818-96a0-b756e6c67391.png",
+              "pfm": "佐藤勝利・原嘉孝（ｔｉｍｅｌｅｓｚ)",
+              "img": "https://program-static.cf.radiko.jp/51789162-a791-439b-8063-0d20e6f6558a.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "レコメン!"
+                  },
+                  {
+                    "name": "レコメン"
+                  },
+                  {
+                    "name": "タイムレス"
+                  },
+                  {
+                    "name": "timelesz"
+                  },
+                  {
+                    "name": "男性アイドル"
+                  },
+                  {
+                    "name": "アイドル出演"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1809,6 +1844,9 @@
               "img": "https://program-static.cf.radiko.jp/a68aba67-aa66-42eb-9cbf-da062c74102b.jpeg",
               "tag": {
                 "item": [
+                  {
+                    "name": "音楽との出会いが楽しめる."
+                  },
                   {
                     "name": "星野源ANN"
                   },
