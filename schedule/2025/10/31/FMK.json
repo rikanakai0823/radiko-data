@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1761847786",
+    "srvtime": "1761934190",
     "stations": {
       "station": {
         "-id": "FMK",
@@ -1219,10 +1219,10 @@
             {
               "-id": "12423372",
               "-ft": "20251031193000",
-              "-to": "20251031210000",
+              "-to": "20251031205500",
               "-ftl": "1930",
-              "-tol": "2100",
-              "-dur": "5400",
+              "-tol": "2055",
+              "-dur": "5100",
               "title": "FMK 開局 40 周年前日 90 分生放送スペシャル Honda Cars 熊本東 Presents OKAMOTO’S 90'S TOKYO BOYS",
               "url": "https://fmk.fm/okamoto/",
               "failed_record": "0",
@@ -1230,7 +1230,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/445720f0-4ef5-4353-bde0-28c6cba21ac4_sq.jpg\" height=\"60\" width=\"60\" alt=\"オカモトショウ（OKAMOTO’S）\"></td>  </tr></table><br /><br />\tFMK 開局 40 周年の前日に「Honda Cars 熊本東 Presents OKAMOTO’S 90'S TOKYO BOYS」を90分に拡大してお送りするスペシャルプログラム。 <br /><br />\t番組Webサイト：<a href=\"https://fmk.fm/okamoto/\">https://fmk.fm/okamoto/</a><br />\tメッセージフォーム：<a href=\"https://fmk.fm/request/?id=okamotos\">https://fmk.fm/request/?id=okamotos</a><br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/445720f0-4ef5-4353-bde0-28c6cba21ac4_sq.jpg\" height=\"60\" width=\"60\" alt=\"オカモトショウ（OKAMOTO’S）\"></td>  </tr></table><br /><br />\tFMK 開局 40 周年の前日に「Honda Cars 熊本東 Presents OKAMOTO’S 90'S TOKYO BOYS」を90分に拡大してお送りするスペシャルプログラム。 <br /><br />\t▽19:55〜 【 JFNニュース 】<br/>JFNニュース<br /><br />\t番組Webサイト：<a href=\"https://fmk.fm/okamoto/\">https://fmk.fm/okamoto/</a><br />\tメッセージフォーム：<a href=\"https://fmk.fm/request/?id=okamotos\">https://fmk.fm/request/?id=okamotos</a><br /><br /></div>",
               "pfm": "オカモトショウ（OKAMOTO’S）",
               "img": "https://program-static.cf.radiko.jp/h6bb55rga8.jpg",
               "genre": {
@@ -1241,6 +1241,43 @@
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12456922",
+              "-ft": "20251031205500",
+              "-to": "20251031210000",
+              "-ftl": "2055",
+              "-tol": "2100",
+              "-dur": "300",
+              "title": "JFNニュース",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
+              "img": "https://program-static.cf.radiko.jp/3955kk61un.jpg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
