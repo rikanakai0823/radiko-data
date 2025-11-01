@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1761934194",
+    "srvtime": "1762020645",
     "stations": {
       "station": {
         "-id": "FM807",
@@ -938,10 +938,10 @@
             {
               "-id": "12409976",
               "-ft": "20251103190000",
-              "-to": "20251103195000",
+              "-to": "20251103194500",
               "-ftl": "1900",
-              "-tol": "1950",
-              "-dur": "3000",
+              "-tol": "1945",
+              "-dur": "2700",
               "title": "A・O・R",
               "url": "http://www.jfn.jp/aor/",
               "failed_record": "0",
@@ -983,11 +983,11 @@
               }
             },
             {
-              "-id": "12457165",
-              "-ft": "20251103195000",
-              "-to": "20251103200000",
-              "-ftl": "1950",
-              "-tol": "2000",
+              "-id": "12461677",
+              "-ft": "20251103194500",
+              "-to": "20251103195500",
+              "-ftl": "1945",
+              "-tol": "1955",
               "-dur": "600",
               "title": "Volkswagen TREASURES",
               "url": "https://www.tfm.co.jp/treasures/",
@@ -1017,6 +1017,43 @@
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12461678",
+              "-ft": "20251103195500",
+              "-to": "20251103200000",
+              "-ftl": "1955",
+              "-tol": "2000",
+              "-dur": "300",
+              "title": "JFNニュース",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\tJFNニュース <br /><br /><br /></div>",
+              "img": "https://program-static.cf.radiko.jp/70qrijmglj.jpg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
