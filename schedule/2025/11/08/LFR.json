@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1762106992",
+    "srvtime": "1762279786",
     "stations": {
       "station": {
         "-id": "LFR",
@@ -631,16 +631,16 @@
               "-tol": "2100",
               "-dur": "7200",
               "title": "山田涼介のオールナイトニッポンPremium",
-              "url": "https://news.1242.com/article/534023",
+              "url": "https://www.allnightnippon.com/yamada/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "山田涼介自身初のソロラジオレギュラー番組！<br>近況トークあり、リスナーのみなさまとの交流あり、企画コーナーあり、と内容盛りだくさんでお送りします。<br>土曜日の夜、笑ってゆったり過ごす、週末のご褒美時間をお届けします！",
-              "info": "メールアドレス：<br><a href=\"mailto:yamada@allnightnippon.com\">yamada@allnightnippon.com</a><br><br>番組ホームページは<a href=\"https://news.1242.com/article/534023\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%B1%B1%E7%94%B0%E6%B6%BC%E4%BB%8BANNP\">#山田涼介ANNP</a>」twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」",
+              "info": "メールアドレス：<br><a href=\"mailto:yamada@allnightnippon.com\">yamada@allnightnippon.com</a><br><br>番組ホームページは<a href=\"https://www.allnightnippon.com/yamada/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%B1%B1%E7%94%B0%E6%B6%BC%E4%BB%8BANNP\">#山田涼介ANNP</a>」twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」",
               "pfm": "山田涼介",
-              "img": "https://program-static.cf.radiko.jp/slcv190d7h.jpg",
+              "img": "https://program-static.cf.radiko.jp/yku9dhtwdr.jpg",
               "tag": {
                 "item": [
                   {
@@ -975,7 +975,7 @@
               "-ftl": "2700",
               "-tol": "2900",
               "-dur": "7200",
-              "title": "オールナイトニッポン0(ZERO)",
+              "title": "宮野真守のオールナイトニッポン0(ZERO)",
               "url": "https://www.allnightnippon.com/zero-sat/",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -983,17 +983,23 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "土曜も深夜3時からはオールナイトニッポン0(ZERO)！スペシャルなパーソナリティが週替わりで登場します！<br><br>番組は「17LIVE」でも映像付きで楽しむことができます。音声でも映像でもお楽しみください！",
-              "info": "番組ホームページは<a href=\"https://www.allnightnippon.com/zero-sat/\">こちら</a><br><br>twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」",
-              "img": "https://program-static.cf.radiko.jp/83l4ssyvyp.jpg",
+              "info": "メールアドレス：<br><a href=\"mailto:mamo@allnightnippon.com\">mamo@allnightnippon.com</a><br><br>番組ホームページは<a href=\"https://www.allnightnippon.com/zero-sat/\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E5%AE%AE%E9%87%8E%E7%9C%9F%E5%AE%88ANN0\">#宮野真守ANN0</a>」twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」",
+              "pfm": "宮野真守",
+              "img": "https://program-static.cf.radiko.jp/j76ted3ru2.jpg",
               "tag": {
-                "item": {
-                  "name": "オールナイトニッポン0(ZERO)"
-                }
+                "item": [
+                  {
+                    "name": "オールナイトニッポン0(ZERO)"
+                  },
+                  {
+                    "name": "宮野真守ANN0"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
-                  "-id": "C004",
-                  "name": "ミュージシャン"
+                  "-id": "C005",
+                  "name": "男性声優"
                 },
                 "program": {
                   "-id": "P007",
@@ -1001,10 +1007,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "from:Ann_Since1967"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#宮野真守ANN0"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:Ann_Since1967"
+                  }
+                ]
               }
             }
           ]
