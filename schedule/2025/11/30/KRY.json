@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1764004258",
+    "srvtime": "1764094191",
     "stations": {
       "station": {
         "-id": "KRY",
@@ -655,11 +655,33 @@
               }
             },
             {
-              "-id": "12556607",
+              "-id": "12573647",
               "-ft": "20251130162000",
-              "-to": "20251130163000",
+              "-to": "20251130164500",
               "-ftl": "1620",
-              "-tol": "1630",
+              "-tol": "1645",
+              "-dur": "1500",
+              "title": "ボートレースライブ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "ＳＧ　第28回チャレンジカップ優勝戦実況中継",
+              "img": "https://program-static.cf.radiko.jp/4c811780-811a-4a0c-8be2-cb1eddf80f1d.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12573648",
+              "-ft": "20251130164500",
+              "-to": "20251130165500",
+              "-ftl": "1645",
+              "-tol": "1655",
               "-dur": "600",
               "title": "銀シャリのおむすびラジオ",
               "failed_record": "0",
@@ -677,38 +699,6 @@
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "12556608",
-              "-ft": "20251130163000",
-              "-to": "20251130165500",
-              "-ftl": "1630",
-              "-tol": "1655",
-              "-dur": "1500",
-              "title": "昭和歌謡セレクション",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "pfm": "佐藤健一",
-              "img": "https://program-static.cf.radiko.jp/khrv5myjf5.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
                 }
               },
               "metas": {
