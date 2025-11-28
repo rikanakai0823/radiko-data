@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1764267013",
+    "srvtime": "1764353394",
     "stations": {
       "station": {
         "-id": "WBS",
@@ -1412,19 +1412,46 @@
               }
             },
             {
-              "-id": "12568499",
+              "-id": "12588281",
               "-ft": "20251203213000",
-              "-to": "20251203220000",
+              "-to": "20251203214500",
               "-ftl": "2130",
-              "-tol": "2200",
-              "-dur": "1800",
-              "title": "MUSIC GARDEN",
+              "-tol": "2145",
+              "-dur": "900",
+              "title": "和歌山県議会ダイジェスト",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12588282",
+              "-ft": "20251203214500",
+              "-to": "20251203220000",
+              "-ftl": "2145",
+              "-tol": "2200",
+              "-dur": "900",
+              "title": "ミュージックプラス",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/4tw05wku6i.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
