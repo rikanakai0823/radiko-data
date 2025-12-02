@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1764609048",
+    "srvtime": "1764699049",
     "stations": {
       "station": {
         "-id": "OBC",
@@ -916,6 +916,29 @@
               "desc": "<br/>",
               "info": "<br/>",
               "img": "https://program-static.cf.radiko.jp/2566c958-af09-4138-bf47-4b3ee0875e6a.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "ニュース"
+                  },
+                  {
+                    "name": "天気予報"
+                  },
+                  {
+                    "name": "ラジオ大阪"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
