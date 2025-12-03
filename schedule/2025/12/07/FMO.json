@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1764699050",
+    "srvtime": "1764785445",
     "stations": {
       "station": {
         "-id": "FMO",
@@ -647,18 +647,55 @@
             {
               "-id": "12570855",
               "-ft": "20251207105500",
-              "-to": "20251207110000",
+              "-to": "20251207105700",
               "-ftl": "1055",
-              "-tol": "1100",
-              "-dur": "300",
-              "title": "NEWS & 交通情報",
+              "-tol": "1057",
+              "-dur": "120",
+              "title": "NEWS",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\tニュースと交通情報 <br /><br /><br /></div>",
+              "info": "<div class=\"station_content_description \">\tニュース <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/bk3n9bxwzb.jpg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12611734",
+              "-ft": "20251207105700",
+              "-to": "20251207110000",
+              "-ftl": "1057",
+              "-tol": "1100",
+              "-dur": "180",
+              "title": "交通情報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \">\t交通情報 <br /><br /><br /></div>",
+              "img": "https://program-static.cf.radiko.jp/q6sm9jnxrf.jpg",
               "tag": {
                 "item": {
                   "name": "天気"
@@ -902,7 +939,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/a19e2ecd-c428-4cef-84ee-f712b6764ad3_sq.jpg\" height=\"60\" width=\"60\" alt=\"きゃりーぱみゅぱみゅ\"></td>  </tr></table><br /><br />\tきゃりーぱみゅぱみゅが興味のあることをお話ししたり、話を聴きたい方をゲストに迎えたりしながら、<br />リスナーのあなたと一緒に、人生の新たな一歩を踏み出すヒントを探します。<br />そして、AuDeeオリジナルの音声コンテンツ「CHINTAI情報局 on the Radio」では、<br />『聴いて楽しむ、#住んだら手帳』や『サステナブルースカイ』を配信中。 <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/heart/\">https://www.tfm.co.jp/heart/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/heart/message\">https://www.tfm.co.jp/f/heart/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%81%E3%83%A3%E3%83%97%E3%82%BF%E3%83%BC0\">#チャプター0</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/ChapterZero_JFN\">@ChapterZero_JFN</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/a19e2ecd-c428-4cef-84ee-f712b6764ad3_sq.jpg\" height=\"60\" width=\"60\" alt=\"きゃりーぱみゅぱみゅ\"></td>  </tr></table><br /><br />\tMAIKOさんが振り付け担当した「からだ☆ダンダン」秘話！<br />きゃりーセレクトの“ダンスが好きな楽曲”も発表！<br /><br />きゃりーぱみゅぱみゅが興味のあることをお話したり、<br />話を聞きたい方をゲストに迎えたりしながら、リスナーの皆さんと一緒に、<br />人生の新たな一歩を踏み出すヒントを探している<br />「きゃりーぱみゅぱみゅ Chapter#0」 <br /><br />先週に引き続き、これまでに多くのきゃりー楽曲の振り付けを担当し、<br />多くの有名アーティストのバックダンサーも務めてきた<br />ダンサー＆振付師【MAIKO】さんをお迎えします。<br />MAIKOさんが振り付け担当した「からだ☆ダンダン」秘話！<br />MAIKOさんが担当したきゃりー自身の楽曲で<br />“ダンスが好き！”というナンバーを3曲発表！<br />さらにMAIKOさんの背中を押す意外な作品とは・・・！？ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/heart/\">https://www.tfm.co.jp/heart/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/heart/message\">https://www.tfm.co.jp/f/heart/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%81%E3%83%A3%E3%83%97%E3%82%BF%E3%83%BC0\">#チャプター0</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/ChapterZero_JFN\">@ChapterZero_JFN</a>」<br /><br /></div>",
               "pfm": "きゃりーぱみゅぱみゅ",
               "img": "https://program-static.cf.radiko.jp/eepquamk1s.jpg",
               "tag": {
@@ -1026,7 +1063,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/4f78b457-0489-4007-ac5a-a0367acebb8d_sq.jpg\" height=\"60\" width=\"60\" alt=\"生見愛瑠\"></td>  </tr></table><br /><br />\tこの番組は、私とあなたの癒しの場所、癒しの瞬間、癒されるモノや音楽…etc。<br />そんな心が落ち着く時をみんなで共有する番組。<br />日曜日の午後、リラックスタイムを一緒に過ごしてみませんか？ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/f/soothing/message\">https://www.tfm.co.jp/f/soothing/message</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/soothing/message\">https://www.tfm.co.jp/f/soothing/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%81%E3%82%8B%E3%83%A9%E3%82%B8\">#めるラジ</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/meruru_jfn\">@meruru_jfn</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/4f78b457-0489-4007-ac5a-a0367acebb8d_sq.jpg\" height=\"60\" width=\"60\" alt=\"生見愛瑠\"></td>  </tr></table><br /><br />\t生見愛瑠、めるるがお届けする「生見愛瑠 soothing」<br /><br />今週は「鍋」をテーマにお届けします！<br /><br />ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー<br />この番組は、私とあなたの癒しの場所、<br />癒しの瞬間、癒されるモノや音楽…。<br />そんな心が落ち着く時をみんなで共有する番組。<br />日曜日の午後、リラックスタイムを一緒に過ごしてみませんか？ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/f/soothing/message\">https://www.tfm.co.jp/f/soothing/message</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/f/soothing/message\">https://www.tfm.co.jp/f/soothing/message</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%81%E3%82%8B%E3%83%A9%E3%82%B8\">#めるラジ</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/meruru_jfn\">@meruru_jfn</a>」<br /><br /></div>",
               "pfm": "生見愛瑠",
               "img": "https://program-static.cf.radiko.jp/sl7sco92pu.jpg",
               "tag": {
@@ -1154,7 +1191,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/83d38eda-05cd-480a-9620-9ad445790907_sq.jpg\" height=\"60\" width=\"60\" alt=\"山下達郎\"></td>  </tr></table><br /><br />\t山下達郎の個人コレクションを使って発信される日本最高のオールディーズ・プログラム！ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/ssb/\">https://www.tfm.co.jp/ssb/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/ssb/form/\">https://www.tfm.co.jp/ssb/form/</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23sundaysongbook\">#sundaysongbook</a>」<br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/83d38eda-05cd-480a-9620-9ad445790907_sq.jpg\" height=\"60\" width=\"60\" alt=\"山下達郎\"></td>  </tr></table><br /><br />\t本日も先週に引き続き「リクエスト特集」！<br />たくさんのリクエストハガキにも、大幅な前倒し収録にも負けず、<br />本日も最高の選曲と最高の音質でお届けいたします！ <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/ssb/\">https://www.tfm.co.jp/ssb/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/ssb/form/\">https://www.tfm.co.jp/ssb/form/</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23sundaysongbook\">#sundaysongbook</a>」<br /><br /></div>",
               "pfm": "山下達郎",
               "img": "https://program-static.cf.radiko.jp/f9o3jcrcp3.jpg",
               "tag": {
