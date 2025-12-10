@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1764871861",
+    "srvtime": "1765390189",
     "stations": {
       "station": {
         "-id": "NORTHWAVE",
@@ -345,7 +345,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "ラジオの中にある部活 「ラジグル」は、<br />学生のキミに音楽の楽しさを伝える部活動です！<br /><br />▽▼「ラジグル」をradikoで聴く▼▽<br /><a href=\"https://radiko.jp/mobile/r_seasons/10003411\" target=\"_blank\">https://radiko.jp/mobile/r_seasons/10003411</a><br /><br />▼▽メッセージは、番組公式LINEから！▽▼<br /><a href=\"https://bit.ly/RADIOGROOVE_LINE\" target=\"_blank\">https://bit.ly/RADIOGROOVE_LINE</a>",
-              "info": "19:15～「 タイムライン 」<br />今日一日の音楽ニュースをピックアップして紹介！<br /><br />19:30～「 ゲストコーナー 」<br />アーティストの先輩ゲストが登場するよ！<br /><br /><br /><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%B8%E3%82%B0%E3%83%AB\">#ラジグル</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/radioGroove825\">@radioGroove825</a>」",
+              "info": "19時30分からは「先輩ゲスト」からのメッセージを紹介！<br />今日、ラジグル部員のみんなにメッセージをくれたのは、8人組ダンスボーカルユニット<br />「ICEx」の「阿久根 温世」さん、「筒井 俊旭」さん、「竹野 世梛」さんです！<br />どんなメッセージをくれたのか！？お楽しみに！！<br /><br />20時15分からは「ラジグル?留学相談室」！<br />「札幌留学センター」の「溝口 武志」さんをゲストに迎えて、<br />「海外留学にまつわる、実践的で、タメになる話」を伺います！<br />19:15～「 タイムライン 」<br />今日一日の音楽ニュースをピックアップして紹介！<br /><br />19:30～「 ゲストコーナー 」<br />アーティストの先輩ゲストが登場するよ！<br /><br /><br /><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%83%A9%E3%82%B8%E3%82%B0%E3%83%AB\">#ラジグル</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/radioGroove825\">@radioGroove825</a>」",
               "pfm": "加藤ジュン  ゲスト：ICEx",
               "img": "https://program-static.cf.radiko.jp/epk4mcqbcl.png",
               "tag": {
@@ -687,52 +687,157 @@
               }
             },
             {
-              "-id": "12585623",
+              "-id": "12640088",
               "-ft": "20251211013000",
-              "-to": "20251211043000",
+              "-to": "20251211020000",
               "-ftl": "2530",
-              "-tol": "2830",
-              "-dur": "10800",
-              "title": "TRANSIT NIGHT (1)",
-              "url": "http://www.fmnorth.co.jp/transitnight/",
+              "-tol": "2600",
+              "-dur": "1800",
+              "title": "NEW MUSIC PEOPLE",
+              "url": "http://www.fmnorth.co.jp/nmp/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "アップテンポなダンスミュージックからスローなバラード、ちょっとジャジーなチューンまでノンストップ・ノントークでお送りします。心地よいテンポとグルーブはきっと時間が流れるのを忘れさせてくれるはず･･･。車の中でもお部屋でも楽しめる深夜の音楽専門番組です。 ",
-              "img": "https://program-static.cf.radiko.jp/7ierymqdst.jpg",
+              "desc": "※12/8(月)オンエア回の振替放送となります※<br /><br />【 NEW MUSIC PEOPLE 】<br /><br />「DEEP KEISEI」が地元北海道で、初のレギュラーラジオ番組を担当！ 北海道に眠る新たな才能を持ったアーティストを発見・発掘し、地元北海道の音楽シーンを盛り上げ、夢を持ったリスナーを応援するプログラム。<br />",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23NMP\">#NMP</a>」「#NEWMUSICPEOPLE」<br />twitterアカウントは「<a href=\"http://twitter.com/nmp825\">@nmp825</a>」",
+              "pfm": "DEEP KEISEI",
+              "img": "https://program-static.cf.radiko.jp/k0vursb5sq.png",
               "tag": {
                 "item": [
+                  {
+                    "name": "NewMusicPeople"
+                  },
+                  {
+                    "name": "NMP"
+                  },
                   {
                     "name": "ノースウェーブ"
                   },
                   {
-                    "name": "寝る前に聴きたい"
+                    "name": "人気アーティストトーク"
                   }
                 ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
                 }
               },
               "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#NMP"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:nmp825"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "12640093",
+              "-ft": "20251211020000",
+              "-to": "20251211023000",
+              "-ftl": "2600",
+              "-tol": "2630",
+              "-dur": "1800",
+              "title": "泉音-IZUMI NOTE-",
+              "url": "http://www.fmnorth.co.jp/IZUMINOTE/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "※12/8(月)オンエア回の振替放送となります※<br /><br />札幌在住のシンガーソングライター泉亮がお送りするミュージックプログラム。<br />泉亮が奏でる音楽をたっぷりお送りします。<br />",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23izuminote\">#izuminote</a>」",
+              "pfm": "泉 亮",
+              "img": "https://program-static.cf.radiko.jp/xm3zidghec.jpg",
+              "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#izuminote"
                 }
               }
             },
             {
-              "-id": "12585623",
-              "-ft": "20251211043000",
-              "-to": "20251211050000",
-              "-ftl": "2830",
-              "-tol": "2900",
+              "-id": "12640090",
+              "-ft": "20251211023000",
+              "-to": "20251211030000",
+              "-ftl": "2630",
+              "-tol": "2700",
               "-dur": "1800",
-              "title": "TRANSIT NIGHT (2)",
+              "title": "チャラン・ポ・ランタンの箸休めラジヲ",
+              "url": "http://www.fmnorth.co.jp/gohan/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "※12/8(月)オンエア回の振替放送となります※<br /><br />月曜夜のラジヲ <br /><br />チャラン・ポ・ランタンの小春とももの2人が<br /><br />色んな話題を混ぜ合わせた30分をご提供!!<br /><br />毎週違うメニューで大満足ですよ!!<br /><br />お聴き逃しなくー<br />",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%88%E3%83%BC%E3%82%8B%E3%81%94%E3%81%AF%E3%82%93\">#よーるごはん</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/charanporantan\">@charanporantan</a>」",
+              "pfm": "チャラン・ポ・ランタン",
+              "img": "https://program-static.cf.radiko.jp/kij0nsr43h.png",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#よーるごはん"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:charanporantan"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "12640092",
+              "-ft": "20251211030000",
+              "-to": "20251211040000",
+              "-ftl": "2700",
+              "-tol": "2800",
+              "-dur": "3600",
+              "title": "日野ヤヨイのサマザマ噺",
+              "url": "http://www.fmnorth.co.jp/hino/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "※12/8(月)オンエア回の振替放送となります※<br /><br />札幌を拠点に活動する 全方位型エンターテイメント集団「さよならミオちゃん」<br />そのボーカルを務める日野ヤヨイが「サマザマ」な噺をする1時間！<br /><br />バンド/大喜利/カードゲームなど日野が好きなものを通じて、<br />深夜の1時間をじっくり、ガッツリと盛り上げます。<br /><br />提供：北海道のエンタメを応援する白石区の佐藤歯科医院",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%B5%E3%83%9E%E3%83%90%E3%83%8A\">#サマバナ</a>」<br />twitterアカウントは「<a href=\"http://twitter.com/hino_samabana\">@hino_samabana</a>」",
+              "pfm": "日野ヤヨイ(さよならミオちゃん)",
+              "img": "https://program-static.cf.radiko.jp/iszw82zeu5.png",
+              "metas": {
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#サマバナ"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:hino_samabana"
+                  }
+                ]
+              }
+            },
+            {
+              "-id": "12640089",
+              "-ft": "20251211040000",
+              "-to": "20251211050000",
+              "-ftl": "2800",
+              "-tol": "2900",
+              "-dur": "3600",
+              "title": "TRANSIT NIGHT",
               "url": "http://www.fmnorth.co.jp/transitnight/",
               "failed_record": "0",
               "ts_in_ng": "0",
