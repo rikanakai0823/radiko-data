@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1765735845",
+    "srvtime": "1765822186",
     "stations": {
       "station": {
         "-id": "RNC",
@@ -459,7 +459,7 @@
               "-dur": "3600",
               "title": "長野智子アップデート",
               "url": "https://www.joqr.co.jp/qr/program/up/",
-              "failed_record": "0",
+              "failed_record": "1",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
@@ -492,7 +492,7 @@
               "-tol": "1615",
               "-dur": "900",
               "title": "旬！ＳＨＵＮ！ピックアップ",
-              "failed_record": "0",
+              "failed_record": "1",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
@@ -712,9 +712,17 @@
               "pfm": "吉野将司",
               "img": "https://program-static.cf.radiko.jp/e1976674-7378-4c9e-9997-da170ceb817d.jpeg",
               "tag": {
-                "item": {
-                  "name": "音楽との出会いが楽しめる"
-                }
+                "item": [
+                  {
+                    "name": "政治・経済を学べる"
+                  },
+                  {
+                    "name": "フルイカズキ"
+                  },
+                  {
+                    "name": "飯間将博"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
