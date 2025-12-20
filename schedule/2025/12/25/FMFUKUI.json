@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1766167849",
+    "srvtime": "1766254248",
     "stations": {
       "station": {
         "-id": "FMFUKUI",
@@ -324,7 +324,7 @@
               "img": "https://program-static.cf.radiko.jp/qgto4bmzpg.jpg",
               "tag": {
                 "item": {
-                  "name": "国内・海外のニュース"
+                  "name": "ぐるスタ!"
                 }
               },
               "genre": {
@@ -418,6 +418,12 @@
                   },
                   {
                     "name": "気分転換におすすめ"
+                  },
+                  {
+                    "name": "ロバート・ハリスの文化情報発信番組"
+                  },
+                  {
+                    "name": "alexjfn"
                   }
                 ]
               },
@@ -757,9 +763,20 @@
               "pfm": "杉崎真宏",
               "img": "https://program-static.cf.radiko.jp/la143ihh09.jpg",
               "tag": {
-                "item": {
-                  "name": "気分転換におすすめ"
-                }
+                "item": [
+                  {
+                    "name": "気分転換におすすめ"
+                  },
+                  {
+                    "name": "杉崎真宏"
+                  },
+                  {
+                    "name": "JFN発、ショッピング・プログラム"
+                  },
+                  {
+                    "name": "jfn_hop"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -796,9 +813,14 @@
               "pfm": "川瀬良子",
               "img": "https://program-static.cf.radiko.jp/ef3uzo3epo.jpg",
               "tag": {
-                "item": {
-                  "name": "川瀬良子"
-                }
+                "item": [
+                  {
+                    "name": "川瀬良子"
+                  },
+                  {
+                    "name": "あぐりずむ"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1067,6 +1089,12 @@
                   },
                   {
                     "name": "ドライブ中におすすめ"
+                  },
+                  {
+                    "name": "ユキ・ラインハート"
+                  },
+                  {
+                    "name": "AOR"
                   }
                 ]
               },
@@ -1602,19 +1630,14 @@
               "pfm": "関口舞",
               "img": "https://program-static.cf.radiko.jp/3h45prhc6f.jpg",
               "tag": {
-                "item": [
-                  {
-                    "name": "早見沙織"
-                  },
-                  {
-                    "name": "人気声優出演"
-                  }
-                ]
+                "item": {
+                  "name": "関口舞"
+                }
               },
               "genre": {
                 "personality": {
-                  "-id": "C006",
-                  "name": "女性声優"
+                  "-id": "C012",
+                  "name": "文化人"
                 },
                 "program": {
                   "-id": "P005",
