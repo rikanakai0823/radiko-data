@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1766427052",
+    "srvtime": "1766513447",
     "stations": {
       "station": {
         "-id": "FMFUKUI",
@@ -23,13 +23,24 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/e8113a3e-029d-4e5f-a440-011331957b1f_sq.jpg\" height=\"60\" width=\"60\" alt=\"伊藤洋介\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/f584983f-1cfb-4975-8b96-beb1424ea734_sq.jpg\" height=\"60\" width=\"60\" alt=\"古市憲寿\"></td>  </tr></table><br /><br />\t\"人\"に注目、各週異なる企画でお届けするオムニバス・プログラム。各番組、独自のコメントを披露したり、ゲストを迎え深掘りトークを展開していきます。 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/people/\">http://www.jfn.jp/people/</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/people/message\">https://form.audee.jp/people/message</a><br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/e8113a3e-029d-4e5f-a440-011331957b1f_sq.jpg\" height=\"60\" width=\"60\" alt=\"伊藤洋介\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/f584983f-1cfb-4975-8b96-beb1424ea734_sq.jpg\" height=\"60\" width=\"60\" alt=\"古市憲寿\"></td>  </tr></table><br /><br />\t～伊藤洋介・古市憲寿のJ-POP J-MIND～<br /><br />東京プリンの伊藤洋介と、社会学者の古市憲寿。<br />２人が愛してやまないJ-POPの名曲達と、<br />その曲が生まれた時代のトピックス、時代背景を２人の独自の視点で掘り下げていきます。<br /><br />今回は、歌手のhitomiさんをゲストにお迎えします！<br />あのヒットソングから隠れた名曲まで、hitomiさんの楽曲の魅力を掘り下げていきます。 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/people/\">http://www.jfn.jp/people/</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/people/message\">https://form.audee.jp/people/message</a><br /><br /></div>",
               "pfm": "伊藤洋介 / 古市憲寿",
               "img": "https://program-static.cf.radiko.jp/y47y9uwp57.jpg",
               "tag": {
-                "item": {
-                  "name": "気分転換におすすめ"
-                }
+                "item": [
+                  {
+                    "name": "気分転換におすすめ"
+                  },
+                  {
+                    "name": "劇場型オムニバス・ゲスト・トーク番組"
+                  },
+                  {
+                    "name": "伊藤洋介"
+                  },
+                  {
+                    "name": "古市憲寿"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -72,6 +83,15 @@
                   },
                   {
                     "name": "朝のニュースを効率良く"
+                  },
+                  {
+                    "name": "春風亭一之輔"
+                  },
+                  {
+                    "name": "汾陽麻衣"
+                  },
+                  {
+                    "name": "サンフリ"
                   }
                 ]
               },
@@ -116,8 +136,8 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 },
                 "program": {
                   "-id": "P016",
@@ -158,6 +178,9 @@
                   },
                   {
                     "name": "村上佳菜子"
+                  },
+                  {
+                    "name": "政府広報"
                   }
                 ]
               },
@@ -196,9 +219,17 @@
               "pfm": "西川貴教",
               "img": "https://program-static.cf.radiko.jp/12ckbrazgf.jpg",
               "tag": {
-                "item": {
-                  "name": "人気アーティストトーク"
-                }
+                "item": [
+                  {
+                    "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "西川貴教"
+                  },
+                  {
+                    "name": "イナズマロックレディオ"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -272,9 +303,17 @@
               "pfm": "ハリセンボン",
               "img": "https://program-static.cf.radiko.jp/h3g4agd1ij.jpg",
               "tag": {
-                "item": {
-                  "name": "お笑い芸人の最強トーク"
-                }
+                "item": [
+                  {
+                    "name": "お笑い芸人の最強トーク"
+                  },
+                  {
+                    "name": "ハリセンボン"
+                  },
+                  {
+                    "name": "かっぽじ気分"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -317,6 +356,9 @@
                   },
                   {
                     "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "リトグリ"
                   }
                 ]
               },
@@ -1089,9 +1131,14 @@
               "pfm": "野呂佳代",
               "img": "https://program-static.cf.radiko.jp/0nb67qmbcm.jpg",
               "tag": {
-                "item": {
-                  "name": "野呂佳代"
-                }
+                "item": [
+                  {
+                    "name": "野呂佳代"
+                  },
+                  {
+                    "name": "ここ旅"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1336,13 +1383,18 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/48e46c9a-80c6-4a44-b773-93d095726582_sq.jpg\" height=\"60\" width=\"60\" alt=\"あ～ちゃん（Perfume）\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/662f7ee3-007e-4986-8861-ca38bd39c795_sq.jpg\" height=\"60\" width=\"60\" alt=\"西脇彩華（ちゃあぽん）\"></td>  </tr></table><br /><br />\tラジオが好きでしょうがない西脇姉妹がコラボレーション！Perfumeのあ～ちゃん、その妹の西脇彩華が、姉妹ならではのトークを展開。家族としての”愛”、姉妹ならではの”素”、エンターテイメントの第一線で活躍する”プロ意識”など、様々なことが見えてくるはずです。 <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/wss\">http://www.jfn.jp/wss</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/westsidestory/message\">https://form.audee.jp/westsidestory/message</a><br /><br /></div>",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/48e46c9a-80c6-4a44-b773-93d095726582_sq.jpg\" height=\"60\" width=\"60\" alt=\"あ～ちゃん（Perfume）\"></td>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/662f7ee3-007e-4986-8861-ca38bd39c795_sq.jpg\" height=\"60\" width=\"60\" alt=\"西脇彩華（ちゃあぽん）\"></td>  </tr></table><br /><br />\t9年9ヶ月に渡ってお届けしてきました、あ～ちゃん　ちゃあぽんの！”West Side Story”も<br />“いったん”最終回！<br />最後はリスナーみなさんからのメッセージを紹介します！ <br /><br />\t番組Webサイト：<a href=\"http://www.jfn.jp/wss\">http://www.jfn.jp/wss</a><br />\tメッセージフォーム：<a href=\"https://form.audee.jp/westsidestory/message\">https://form.audee.jp/westsidestory/message</a><br /><br /></div>",
               "pfm": "あ～ちゃん（Perfume） / 西脇彩華（ちゃあぽん）",
               "img": "https://program-static.cf.radiko.jp/g33amee1lk.jpg",
               "tag": {
-                "item": {
-                  "name": "人気アーティストトーク"
-                }
+                "item": [
+                  {
+                    "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "あ〜ちゃんちゃあぽんのフリートーク"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1385,6 +1437,12 @@
                   },
                   {
                     "name": "人気アーティストトーク"
+                  },
+                  {
+                    "name": "GENERATIONSの音楽トーク"
+                  },
+                  {
+                    "name": "GENETALK"
                   }
                 ]
               },
@@ -1551,9 +1609,14 @@
               "pfm": "有吉弘行",
               "img": "https://program-static.cf.radiko.jp/u3d094jwrw.jpg",
               "tag": {
-                "item": {
-                  "name": "お笑い芸人の最強トーク"
-                }
+                "item": [
+                  {
+                    "name": "お笑い芸人の最強トーク"
+                  },
+                  {
+                    "name": "有吉弘行のバラエティ・トーク・プログラム"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1928,6 +1991,9 @@
                   },
                   {
                     "name": "音楽プロデューサー出演"
+                  },
+                  {
+                    "name": "武部聡志のSESSIONS"
                   }
                 ]
               },
