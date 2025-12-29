@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1766946423",
+    "srvtime": "1767031846",
     "stations": {
       "station": {
         "-id": "LFR",
@@ -1539,15 +1539,16 @@
               "-ftl": "2500",
               "-tol": "2700",
               "-dur": "7200",
-              "title": "オールナイトニッポン",
+              "title": "エバースのオールナイトニッポン",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "オールナイトニッポン",
-              "info": "twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」",
-              "img": "https://program-static.cf.radiko.jp/k5hul3y4cs.jpg",
+              "desc": "今年のM-1グランプリファイナリストのエバースが、お笑いスターウィーク以来3ヶ月ぶりに生登場！",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%82%A8%E3%83%90%E3%83%BC%E3%82%B9ANN\">#エバースANN</a>」twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」",
+              "pfm": "エバース",
+              "img": "https://program-static.cf.radiko.jp/k58fp7ypi4.jpg",
               "tag": {
                 "item": {
                   "name": "オールナイトニッポン"
@@ -1555,8 +1556,8 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C002",
-                  "name": "俳優"
+                  "-id": "C009",
+                  "name": "芸人"
                 },
                 "program": {
                   "-id": "P007",
@@ -1564,10 +1565,16 @@
                 }
               },
               "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "from:Ann_Since1967"
-                }
+                "meta": [
+                  {
+                    "-name": "twitter",
+                    "-value": "#エバースANN"
+                  },
+                  {
+                    "-name": "twitter",
+                    "-value": "from:Ann_Since1967"
+                  }
+                ]
               }
             },
             {
