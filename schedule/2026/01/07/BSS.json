@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1767636586",
+    "srvtime": "1767722977",
     "stations": {
       "station": {
         "-id": "BSS",
@@ -1231,27 +1231,84 @@
               }
             },
             {
-              "-id": "12703138",
+              "-id": "12772978",
               "-ft": "20260107221500",
-              "-to": "20260108000000",
+              "-to": "20260107223000",
               "-ftl": "2215",
-              "-tol": "2400",
-              "-dur": "6300",
-              "title": "音楽の風車（再）",
-              "url": "http://bss.jp/radio/kazaguru/index.html",
+              "-tol": "2230",
+              "-dur": "900",
+              "title": "BSSミュージックタイム",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "歌謡曲リクエストタイム 再放送(火曜日）",
-              "info": "開局以来続く、ＢＳＳラジオの長寿番組。メッセージとリクエスト音楽を毎日、ほぼ休まずに放送しています。テーマ「赤いマフラー」のメロディーにのって「今日も昨日も、そして明日もあの町にこの村に吹きすぎてゆくそよ風にのって、くるくる回る風車のように～」のオープニングは山陰人なら一度は聞いたことがあるはず。絶大な人気を誇るＢＳＳラジオの看板番組です。ぜひリクエストをお寄せください。mailto：ongaku-k@bss.jp ",
-              "img": "https://program-static.cf.radiko.jp/30c83042-74b9-43da-92ba-23b4f33a3d79.jpeg",
-              "tag": {
-                "item": {
-                  "name": "音楽との出会いが楽しめる"
+              "desc": "BSSミュージックタイム",
+              "img": "https://program-static.cf.radiko.jp/c0cc8746-6d46-449e-8cd5-7aa83491cc9a.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12772979",
+              "-ft": "20260107223000",
+              "-to": "20260107230000",
+              "-ftl": "2230",
+              "-tol": "2300",
+              "-dur": "1800",
+              "title": "BSSミュージックタイム",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "BSSミュージックタイム",
+              "img": "https://program-static.cf.radiko.jp/c0cc8746-6d46-449e-8cd5-7aa83491cc9a.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12772980",
+              "-ft": "20260107230000",
+              "-to": "20260108000000",
+              "-ftl": "2300",
+              "-tol": "2400",
+              "-dur": "3600",
+              "title": "BSSミュージックタイム",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "BSSミュージックタイム",
+              "img": "https://program-static.cf.radiko.jp/c0cc8746-6d46-449e-8cd5-7aa83491cc9a.jpeg",
               "genre": {
                 "personality": {
                   "-id": "C001",
