@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1767724023",
+    "srvtime": "1767810483",
     "stations": {
       "station": {
         "-id": "KRY",
@@ -357,7 +357,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "メール：<a href=\"mailto:asa@kry.co.jp\">asa@kry.co.jp</a>  ＦＡＸ：0834-32-9000",
+              "desc": "メール：<a href=\"mailto:asa@kry.co.jp\">asa@kry.co.jp</a>  ",
               "info": "１０時からはチア―アップタイム<br>１０：３０～１０：３５これからの天気<br>",
               "pfm": "山本恭子",
               "img": "https://program-static.cf.radiko.jp/2aee9c29-a545-49b3-9d6a-d293d2a5db01.jpeg",
@@ -546,7 +546,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "メール：<a href=\"mailto:hiru@kry.co.jp\">hiru@kry.co.jp</a> ＦＡＸ：0834-32-9000",
+              "desc": "「ガチQ」は、番組Webサイト・KRYアプリから応募できます!<br>\nリクエスト・メッセージはこちらから!<br>メール：<a href=\"mailto:hiru@kry.co.jp\">hiru@kry.co.jp</a>",
               "info": "１２：２０～１２：３０ガチＱ<br>１２：５５～１３：００道路交通情報<br>１３：００～１３：０５中国新聞ニュース<br>１３：３０～１３：３５これからの天気<br>１３：５５～１４：００道路交通情報<br>",
               "pfm": "山根由紀夫 / 原田かおり",
               "img": "https://program-static.cf.radiko.jp/a0b77f85-cca2-448b-ae55-bd79f9608e8f.jpeg",
@@ -581,7 +581,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "メール：<a href=\"mailto:hiru@kry.co.jp\">hiru@kry.co.jp</a> ＦＡＸ：0834-32-9000",
+              "desc": "「並べて453す」は、番組Webサイト・KRYアプリから応募できます!<br>\nリクエスト・メッセージはこちらから!<br>メール：<a href=\"mailto:hiru@kry.co.jp\">hiru@kry.co.jp</a>",
               "info": "１４：００～１４：０５読売新聞ニュース<br>１４：１０～１４：１５県警情報<br>１４：５０～１５：００荻原次晴のニッポン応援団<br>１５：００～１５：０５アルクこだわり情報<br>１５：４５～１５：５０並べてよござんす<br>",
               "pfm": "山根由紀夫 / 原田かおり",
               "img": "https://program-static.cf.radiko.jp/a0b77f85-cca2-448b-ae55-bd79f9608e8f.jpeg",
@@ -916,6 +916,16 @@
               "tsplus_out_ng": "0",
               "pfm": "小倉淳 / IMALU",
               "img": "https://program-static.cf.radiko.jp/f1fa1fd4-10df-4ff8-9107-a8a05d11cb56.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P018",
+                  "name": "ショッピング"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -937,8 +947,8 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "メール：<a href=\"mailto:newsj@kry.co.jp\">newsj@kry.co.jp</a> ＦＡＸ：0834-32-9000",
-              "info": "１８：００～１８：２０ニュース・天気予報・交通情報<br>",
+              "desc": "メール：<a href=\"mailto:newsj@kry.co.jp\">newsj@kry.co.jp</a> ",
+              "info": "ニュース・天気予報・交通情報<br>",
               "pfm": "北川加寿美",
               "img": "https://program-static.cf.radiko.jp/jx5drevn54.jpg",
               "genre": {
@@ -979,8 +989,8 @@
                   "name": "タレント"
                 },
                 "program": {
-                  "-id": "P012",
-                  "name": "趣味/教育"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -1025,6 +1035,7 @@
               "-tol": "1900",
               "-dur": "900",
               "title": "みんなの音楽室",
+              "url": "https://www.joqr.co.jp/qr/program/mo/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
@@ -1159,11 +1170,13 @@
               "-tol": "2100",
               "-dur": "1800",
               "title": "関西ジュニアとれたて関ジュース",
+              "url": "https://jocr.jp/kjr/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
+              "desc": "\"とれたてのかんじゅ\"がたっぷり詰まった30分!!",
               "pfm": "池川侑希弥(Boys be) / 関西ジュニア",
               "img": "https://program-static.cf.radiko.jp/805d04b1-8978-44ac-bb0d-65c7b19f605c.jpeg",
               "genre": {
@@ -1199,6 +1212,12 @@
               "desc": "最新曲、話題曲を選りすぐって紹介、話題のゲストも呼びます！",
               "pfm": "むらたたむ",
               "img": "https://program-static.cf.radiko.jp/khrv5myjf5.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1287,6 +1306,10 @@
               "pfm": "駒木根葵汰",
               "img": "https://program-static.cf.radiko.jp/435bfac6-1667-428c-ab94-cda9104cef36.png",
               "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
                 "program": {
                   "-id": "P007",
                   "name": "トーク"
@@ -1315,6 +1338,16 @@
               "tsplus_out_ng": "0",
               "pfm": "山田裕貴",
               "img": "https://program-static.cf.radiko.jp/0846c2fa-1d55-4ea9-a8cb-96435c0a912e.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C002",
+                  "name": "俳優"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1338,6 +1371,16 @@
               "tsplus_out_ng": "0",
               "pfm": "キタニタツヤ",
               "img": "https://program-static.cf.radiko.jp/c5bfc96d-2f1f-4565-9e34-0c7c66284344.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1353,17 +1396,23 @@
               "-tol": "2900",
               "-dur": "1800",
               "title": "上柳昌彦あさぼらけ",
+              "url": "https://www.1242.com/asaborake/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
+              "desc": "あさぼらけ…朝、ほのぼのと明るくなるころ。\n新鮮な情報と音楽をたっぷりとお届けします!",
               "pfm": "上柳昌彦",
               "img": "https://program-static.cf.radiko.jp/78884473-ad16-42de-b363-891114b276cf.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1767724022",
+    "srvtime": "1767809385",
     "stations": {
       "station": {
         "-id": "KRY",
@@ -980,7 +980,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "メール：<a href=\"mailto:newsj@kry.co.jp\">newsj@kry.co.jp</a> ",
-              "info": "１８：００～１８：２０ニュース・天気予報・交通情報<br>",
+              "info": "ニュース・天気予報・交通情報<br>",
               "pfm": "山本博子",
               "img": "https://program-static.cf.radiko.jp/jx5drevn54.jpg",
               "genre": {
@@ -1066,6 +1066,7 @@
               "-tol": "1900",
               "-dur": "900",
               "title": "みんなの音楽室",
+              "url": "https://www.joqr.co.jp/qr/program/mo/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
@@ -1099,11 +1100,13 @@
               "-tol": "2000",
               "-dur": "3600",
               "title": "峯村健司と松本秀夫のジェントル!ジェントル?",
+              "url": "https://www.1242.com/mm/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
+              "desc": "紳士に必須条件である“粋な会話”の話題となるであろうニュース、スポーツ情報をはじめとした時事ネタから、知的好奇心をくすぐる話題までを取り上げます。\n",
               "pfm": "峯村健司 / 松本秀夫",
               "img": "https://program-static.cf.radiko.jp/193516cd-62c5-4842-bf13-9d89f8bf2a56.jpeg",
               "genre": {
@@ -1127,12 +1130,19 @@
               "-tol": "2100",
               "-dur": "3600",
               "title": "アフター６ジャンクション２",
+              "url": "https://www.tbsradio.jp/a6j/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/f2f3e015-3f72-4a9a-bd7c-6df99046746d.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1148,6 +1158,7 @@
               "-tol": "2200",
               "-dur": "3600",
               "title": "ウタガタリ",
+              "url": "https://www.joqr.co.jp/qr/program/uta/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
@@ -1312,17 +1323,23 @@
               "-tol": "2900",
               "-dur": "1800",
               "title": "上柳昌彦あさぼらけ",
+              "url": "https://www.1242.com/asaborake/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
+              "desc": "あさぼらけ…朝、ほのぼのと明るくなるころ。\n新鮮な情報と音楽をたっぷりとお届けします!",
               "pfm": "上柳昌彦",
               "img": "https://program-static.cf.radiko.jp/78884473-ad16-42de-b363-891114b276cf.jpeg",
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
