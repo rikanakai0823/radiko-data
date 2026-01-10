@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1767895855",
+    "srvtime": "1768068601",
     "stations": {
       "station": {
         "-id": "INT",
@@ -1443,30 +1443,43 @@
               }
             },
             {
-              "-id": "12752970",
+              "-id": "12789220",
               "-ft": "20260114220000",
               "-to": "20260114230000",
               "-ftl": "2200",
               "-tol": "2300",
               "-dur": "3600",
-              "title": "interfm Hotpicks Playlist",
-              "url": "https://www.interfm.co.jp/hotpicks",
+              "title": "NCT WISHのWISHLIST RADIO",
+              "url": "https://www.interfm.co.jp/wishlistradio",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\tインターエフエム・ホットピックスプレイリスト <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/hotpicks\">https://www.interfm.co.jp/hotpicks</a><br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/iqjiw3rq5w.jpg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/5682f631-49dc-4e6b-a0aa-d0f312f7d379_sq.jpg\" height=\"60\" width=\"60\" alt=\"NCT WISH\"></td>  </tr></table><br /><br />\tNCT WISHのJapan 1st Mini Album『WISHLIST』、1/14(水)リリースを記念したスペシャルプログラム！アルバムの魅力はもちろん、昨年11月に大阪・あべのキューズモールで行われた、熱気あふれる公開収録の模様も一部お送りします！<br /><br />公開収録では届けられなかった『WISHLIST』の曲も、たっぷりオンエア♪<br /><br />番組後半には、メンバー全員参加の「WISHLIST」イントロクイズ大会！<br />敗者には全力の「罰ゲーム」も。<br /><br />お聴き逃しなく！！！！ <br /><br />\t番組Webサイト：<a href=\"https://www.interfm.co.jp/wishlistradio\">https://www.interfm.co.jp/wishlistradio</a><br /><br /></div>",
+              "pfm": "NCT WISH",
+              "img": "https://program-static.cf.radiko.jp/i06uigx3v4.jpg",
               "tag": {
-                "item": {
-                  "name": "作業がはかどる"
-                }
+                "item": [
+                  {
+                    "name": "NCTWISH"
+                  },
+                  {
+                    "name": "シズニー"
+                  },
+                  {
+                    "name": "WISHLIST"
+                  }
+                ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C007",
+                  "name": "男性アイドル"
+                },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
