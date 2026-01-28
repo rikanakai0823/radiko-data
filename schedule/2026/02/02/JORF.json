@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1769537398",
+    "srvtime": "1769623856",
     "stations": {
       "station": {
         "-id": "JORF",
@@ -1174,24 +1174,95 @@
               }
             },
             {
-              "-id": "12833473",
+              "-id": "12876068",
               "-ft": "20260203003000",
-              "-to": "20260203010000",
+              "-to": "20260203005000",
               "-ftl": "2430",
-              "-tol": "2500",
-              "-dur": "1800",
-              "title": "Listen to the Music",
+              "-tol": "2450",
+              "-dur": "1200",
+              "title": "第51回衆議院議員選挙 政見放送",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
+              "desc": "この放送はradikoではお聴きいただけません。",
+              "img": "https://program-static.cf.radiko.jp/2a3d6b87-cd38-49ef-bcc2-4dfd3cbf36c6.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12876069",
+              "-ft": "20260203005000",
+              "-to": "20260203005500",
+              "-ftl": "2450",
+              "-tol": "2455",
+              "-dur": "300",
+              "title": "今月の推薦曲",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "ラジオ日本が月替わりでおすすめの演歌・歌謡曲の１曲をお送りします。",
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
               "img": "https://program-static.cf.radiko.jp/cd6effed-0b2a-414a-85ec-a1dc12dd6b1e.png",
               "tag": {
-                "item": {
-                  "name": "音楽との出会いが楽しめる"
+                "item": [
+                  {
+                    "name": "サクッと短時間で聴ける"
+                  },
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12876070",
+              "-ft": "20260203005500",
+              "-to": "20260203010000",
+              "-ftl": "2455",
+              "-tol": "2500",
+              "-dur": "300",
+              "title": "ラジオ日本パワーチューン",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "ラジオ日本がおすすめのJ-POPナンバーを紹介します。",
+              "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23jorf\">#jorf</a>」",
+              "img": "https://program-static.cf.radiko.jp/cd6effed-0b2a-414a-85ec-a1dc12dd6b1e.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "サクッと短時間で聴ける"
+                  },
+                  {
+                    "name": "音楽との出会いが楽しめる"
+                  }
+                ]
               },
               "genre": {
                 "program": {
