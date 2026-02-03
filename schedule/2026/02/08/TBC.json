@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1770055852",
+    "srvtime": "1770142198",
     "stations": {
       "station": {
         "-id": "TBC",
@@ -1143,12 +1143,33 @@
               }
             },
             {
-              "-id": "12870616",
-              "-ft": "20260209010200",
-              "-to": "20260209035700",
-              "-ftl": "2502",
-              "-tol": "2757",
-              "-dur": "10500",
+              "-id": "12868129",
+              "-ft": "20260209011500",
+              "-to": "20260209011700",
+              "-ftl": "2515",
+              "-tol": "2517",
+              "-dur": "120",
+              "title": "クロージング",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/57ae7f43-9dbd-434d-a21d-7f3c067c4ed7.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12901550",
+              "-ft": "20260209011700",
+              "-to": "20260209020000",
+              "-ftl": "2517",
+              "-tol": "2600",
+              "-dur": "2580",
               "title": "配信休止",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -1164,13 +1185,34 @@
               }
             },
             {
-              "-id": "12868129",
-              "-ft": "20260209011500",
-              "-to": "20260209011700",
-              "-ftl": "2515",
-              "-tol": "2517",
-              "-dur": "120",
-              "title": "クロージング",
+              "-id": "12901551",
+              "-ft": "20260209020000",
+              "-to": "20260209030000",
+              "-ftl": "2600",
+              "-tol": "2700",
+              "-dur": "3600",
+              "title": "配信休止",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/57ae7f43-9dbd-434d-a21d-7f3c067c4ed7.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12901552",
+              "-ft": "20260209030000",
+              "-to": "20260209035700",
+              "-ftl": "2700",
+              "-tol": "2757",
+              "-dur": "3420",
+              "title": "配信休止",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
