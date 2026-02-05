@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1770228594",
+    "srvtime": "1770315059",
     "stations": {
       "station": {
         "-id": "CRT",
@@ -319,12 +319,39 @@
               }
             },
             {
-              "-id": "12895176",
+              "-id": "12913886",
               "-ft": "20260210120000",
-              "-to": "20260210121000",
+              "-to": "20260210120500",
               "-ftl": "1200",
+              "-tol": "1205",
+              "-dur": "300",
+              "title": "県政インフォメーション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/627cb9b3-7a02-40c2-98f8-c22b51eaa668.png",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12913887",
+              "-ft": "20260210120500",
+              "-to": "20260210121000",
+              "-ftl": "1205",
               "-tol": "1210",
-              "-dur": "600",
+              "-dur": "300",
               "title": "ニュース・天気予報",
               "failed_record": "0",
               "ts_in_ng": "0",
