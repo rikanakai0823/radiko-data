@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1771438189",
+    "srvtime": "1771524653",
     "stations": {
       "station": {
         "-id": "FMO",
@@ -1083,12 +1083,41 @@
               }
             },
             {
-              "-id": "12944815",
+              "-id": "12980412",
               "-ft": "20260225010000",
-              "-to": "20260225050000",
+              "-to": "20260225020000",
               "-ftl": "2500",
+              "-tol": "2600",
+              "-dur": "3600",
+              "title": "FM OSAKA SPECIAL PROGRAM 『Show-G with Soulmate』",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/a87fcd32-f946-4762-86db-f2ae172215e4_sq.jpg\" height=\"60\" width=\"60\" alt=\"鈴木しょう治\"></td>  </tr></table><br /><br />\t鈴木しょう治がお届けする「FM OSAKASPECIAL PROGRAM 『Show-G with Soulmate』」 <br /><br /><br /></div>",
+              "pfm": "鈴木しょう治",
+              "img": "https://program-static.cf.radiko.jp/stg4wllai6.jpg",
+              "genre": {
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "12980413",
+              "-ft": "20260225020000",
+              "-to": "20260225050000",
+              "-ftl": "2600",
               "-tol": "2900",
-              "-dur": "14400",
+              "-dur": "10800",
               "title": "HIT STREET",
               "failed_record": "0",
               "ts_in_ng": "0",
