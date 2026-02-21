@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1771611051",
+    "srvtime": "1771697452",
     "stations": {
       "station": {
         "-id": "CRT",
@@ -252,6 +252,16 @@
               "info": "Ｘアカウントは「<ahref=\"https://twitter.com/crt_vitamin\" target=\"_blank\">@crt_vitamin</a>」<br />\nＸハッシュタグは「#栃木放送」「#ビタミンとちぎ」\n<br />\nメール：<a href=\"mailto:vi@crt-radio.co.jp\">vi@crt-radio.co.jp</a>",
               "pfm": "小暮智",
               "img": "https://program-static.cf.radiko.jp/278e4ace-4d34-4a65-a4b4-09f1d055f7fe.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -390,6 +400,12 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/627cb9b3-7a02-40c2-98f8-c22b51eaa668.png",
+              "genre": {
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
