@@ -1,11 +1,11 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1772475057",
+    "srvtime": "1772561452",
     "stations": {
       "station": {
         "-id": "TBC",
-        "name": "TBCラジオ",
+        "name": "tbcラジオ",
         "progs": {
           "date": "20260308",
           "prog": [
@@ -1216,52 +1216,10 @@
             {
               "-id": "12999712",
               "-ft": "20260309010200",
-              "-to": "20260309020000",
-              "-ftl": "2502",
-              "-tol": "2600",
-              "-dur": "3480",
-              "title": "配信休止",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/57ae7f43-9dbd-434d-a21d-7f3c067c4ed7.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "13027458",
-              "-ft": "20260309020000",
-              "-to": "20260309030000",
-              "-ftl": "2600",
-              "-tol": "2700",
-              "-dur": "3600",
-              "title": "配信休止",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/57ae7f43-9dbd-434d-a21d-7f3c067c4ed7.jpeg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "13027459",
-              "-ft": "20260309030000",
               "-to": "20260309035700",
-              "-ftl": "2700",
+              "-ftl": "2502",
               "-tol": "2757",
-              "-dur": "3420",
+              "-dur": "10500",
               "title": "配信休止",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -1277,13 +1235,34 @@
               }
             },
             {
-              "-id": "13027460",
+              "-id": "13033186",
               "-ft": "20260309035700",
-              "-to": "20260309050000",
+              "-to": "20260309040000",
               "-ftl": "2757",
+              "-tol": "2800",
+              "-dur": "180",
+              "title": "オープニング",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/57ae7f43-9dbd-434d-a21d-7f3c067c4ed7.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "13033187",
+              "-ft": "20260309040000",
+              "-to": "20260309050000",
+              "-ftl": "2800",
               "-tol": "2900",
-              "-dur": "3780",
-              "title": "配信休止",
+              "-dur": "3600",
+              "title": "明日への扉／栄光のレジェンド",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",

@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1772475056",
+    "srvtime": "1772561451",
     "stations": {
       "station": {
         "-id": "RNC",
@@ -226,6 +226,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "info": "西日本放送のサウンドライブラリーの中から厳選された楽曲をお楽しみください！",
+              "pfm": "畠山伶",
               "img": "https://program-static.cf.radiko.jp/e1976674-7378-4c9e-9997-da170ceb817d.jpeg",
               "tag": {
                 "item": [
@@ -654,15 +655,16 @@
               "-ftl": "1015",
               "-tol": "1030",
               "-dur": "900",
-              "title": "ＲＮＣミュージックセレクション",
-              "url": "https://www.rnc.co.jp/radio/",
+              "title": "知ってる！？瀬戸内海のチカラ",
+              "url": "https://www.rnc.co.jp/radio/setonaikai/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "西日本放送のサウンドライブラリーの中から厳選された楽曲をお楽しみください！",
-              "img": "https://program-static.cf.radiko.jp/e1976674-7378-4c9e-9997-da170ceb817d.jpeg",
+              "info": "メインパーソナリティは海が大好きな、海の研究者 九州大学大学院の清野聡子准教授、ゲストに瀬戸内オーシャンズⅩ４県の漁業者や水産関係者、海洋ごみ問題に取り組む方など海の未来にために活動しているキーパーソンをお迎えします。<br>瀬戸内海の未来を守るためのヒントがたくさん詰まったラジオ番組です！",
+              "pfm": "九州大学大学院　清野聡子准教授（工学研究院　環境社会部門　生態工学研究室）",
+              "img": "https://program-static.cf.radiko.jp/6a921dd2-5de9-44b0-be54-cab81f81cc2b.jpeg",
               "tag": {
                 "item": [
                   {
@@ -678,12 +680,12 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C012",
+                  "name": "文化人"
                 },
                 "program": {
-                  "-id": "P005",
-                  "name": "音楽"
+                  "-id": "P015",
+                  "name": "教養"
                 }
               },
               "metas": {
@@ -849,197 +851,22 @@
               }
             },
             {
-              "-id": "13018970",
+              "-id": "13036539",
               "-ft": "20260308130000",
-              "-to": "20260308140000",
-              "-ftl": "1300",
-              "-tol": "1400",
-              "-dur": "3600",
-              "title": "かつお＆さおりの！Ｂ級ラジオ図鑑",
-              "url": "https://www.rkc-kochi.co.jp/radio/b_radio",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "テーマは「Ｂ級」！人知れず埋もれかけたちょっとだけ残念な様々なものをパーソナリティ－独自の感性で深く掘り下げ、楽しく紹介していくトーク番組です。\n　",
-              "pfm": "土佐かつお　渡辺さおり",
-              "img": "https://program-static.cf.radiko.jp/695932a2-b842-49d5-b2be-97357e8a6aef.png",
-              "tag": {
-                "item": [
-                  {
-                    "name": "土佐かつお"
-                  },
-                  {
-                    "name": "渡辺さおり"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "13018971",
-              "-ft": "20260308140000",
-              "-to": "20260308143000",
-              "-ftl": "1400",
-              "-tol": "1430",
-              "-dur": "1800",
-              "title": "亀渕昭信のお宝ＰＯＰＳ",
-              "url": "http://kayoukai.bizon.jp/pops/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "ラジオＤＪ・ポップス音楽研究家としてポピュラーミュージックに長年携わってきた亀渕昭信が、いままで培ってきたありったけのうんちくを傾け、皆さまから頂いたリクエスト曲を紹介。そして毎回、ちょっとレアな感じがするアナログＬＰレコードを１名様にプレゼントしています。",
-              "pfm": "亀渕昭信",
-              "img": "https://program-static.cf.radiko.jp/ba65ca03-f806-4101-a38a-5e4c79808ac2.png",
-              "tag": {
-                "item": {
-                  "name": "亀渕昭信"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "13018972",
-              "-ft": "20260308143000",
-              "-to": "20260308144000",
-              "-ftl": "1430",
-              "-tol": "1440",
-              "-dur": "600",
-              "title": "ＲＮＣミュージックセレクション",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "西日本放送のサウンドライブラリーの中から厳選された楽曲をお楽しみください！",
-              "img": "https://program-static.cf.radiko.jp/e1976674-7378-4c9e-9997-da170ceb817d.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "政治・経済を学べる"
-                  },
-                  {
-                    "name": "フルイカズキ"
-                  },
-                  {
-                    "name": "飯間将博"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "13018973",
-              "-ft": "20260308144000",
-              "-to": "20260308145500",
-              "-ftl": "1440",
-              "-tol": "1455",
-              "-dur": "900",
-              "title": "イトー・スドーのモノ申し隊",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "Ⅹハッシュタグは「#RNCラジオ」<br>Ⅹアカウントは「@RNC_RADIO_FES」",
-              "pfm": "イトー　スドー",
-              "img": "https://program-static.cf.radiko.jp/943c95c6-711a-459b-9f8a-d97181be0426.png",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "13018974",
-              "-ft": "20260308145500",
               "-to": "20260308150000",
-              "-ftl": "1455",
+              "-ftl": "1300",
               "-tol": "1500",
-              "-dur": "300",
-              "title": "ＲＮＣニュース",
-              "url": "https://www.rnc.co.jp/nnn/",
+              "-dur": "7200",
+              "title": "中四国ライブネット",
+              "url": "https://radio.rcc.jp/livenet/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "ＲＮＣニュース",
-              "img": "https://program-static.cf.radiko.jp/78694102-c91a-4439-a825-b9ba7165a2f5.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ニュースを効率よく"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P001",
-                  "name": "ニュース/天気/交通"
-                }
-              },
+              "info": "「中四国ライブネット」<br>\n\n",
+              "pfm": "各局パーソナリティ\t\t\t\t\t\t\t\t\t\t\t\t\n",
+              "img": "https://program-static.cf.radiko.jp/vd6bgnlsa7.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1274,37 +1101,130 @@
               }
             },
             {
-              "-id": "13018981",
+              "-id": "13036540",
               "-ft": "20260308180000",
-              "-to": "20260308200000",
+              "-to": "20260308181500",
               "-ftl": "1800",
-              "-tol": "2000",
-              "-dur": "7200",
-              "title": "中四国ライブネット",
-              "url": "https://radio.rcc.jp/livenet/",
+              "-tol": "1815",
+              "-dur": "900",
+              "title": "イトー・スドーのモノ申し隊",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "「中四国ライブネット」<br>\n\n",
-              "pfm": "各局パーソナリティ\t\t\t\t\t\t\t\t\t\t\t\t\n",
-              "img": "https://program-static.cf.radiko.jp/vd6bgnlsa7.jpg",
+              "info": "Ⅹハッシュタグは「#RNCラジオ」<br>Ⅹアカウントは「@RNC_RADIO_FES」",
+              "pfm": "イトー　スドー",
+              "img": "https://program-static.cf.radiko.jp/943c95c6-711a-459b-9f8a-d97181be0426.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "13036541",
+              "-ft": "20260308181500",
+              "-to": "20260308183000",
+              "-ftl": "1815",
+              "-tol": "1830",
+              "-dur": "900",
+              "title": "ＲＮＣミュージックセレクション",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "西日本放送のサウンドライブラリーの中から厳選された楽曲をお楽しみください！",
+              "pfm": "岸たけし",
+              "img": "https://program-static.cf.radiko.jp/e1976674-7378-4c9e-9997-da170ceb817d.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "政治・経済を学べる"
+                  },
+                  {
+                    "name": "フルイカズキ"
+                  },
+                  {
+                    "name": "飯間将博"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "13036542",
+              "-ft": "20260308183000",
+              "-to": "20260308190000",
+              "-ftl": "1830",
+              "-tol": "1900",
+              "-dur": "1800",
+              "title": "亀渕昭信のお宝ＰＯＰＳ",
+              "url": "http://kayoukai.bizon.jp/pops/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "ラジオＤＪ・ポップス音楽研究家としてポピュラーミュージックに長年携わってきた亀渕昭信が、いままで培ってきたありったけのうんちくを傾け、皆さまから頂いたリクエスト曲を紹介。そして毎回、ちょっとレアな感じがするアナログＬＰレコードを１名様にプレゼントしています。",
+              "pfm": "亀渕昭信",
+              "img": "https://program-static.cf.radiko.jp/ba65ca03-f806-4101-a38a-5e4c79808ac2.png",
               "tag": {
                 "item": {
-                  "name": "ライブネット"
+                  "name": "亀渕昭信"
                 }
               },
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 },
                 "program": {
-                  "-id": "P003",
-                  "name": "情報"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "13036543",
+              "-ft": "20260308190000",
+              "-to": "20260308200000",
+              "-ftl": "1900",
+              "-tol": "2000",
+              "-dur": "3600",
+              "title": "かつお＆さおりの！Ｂ級ラジオ図鑑",
+              "url": "https://www.rkc-kochi.co.jp/radio/b_radio",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "テーマは「Ｂ級」！人知れず埋もれかけたちょっとだけ残念な様々なものをパーソナリティ－独自の感性で深く掘り下げ、楽しく紹介していくトーク番組です。\n　",
+              "pfm": "土佐かつお　渡辺さおり",
+              "img": "https://program-static.cf.radiko.jp/695932a2-b842-49d5-b2be-97357e8a6aef.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1399,8 +1319,8 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "誰しもの胸に秘めた、思い出のひとときを切り取った音楽番組。<br>各局パーソナリティがセレクトした「あの時聴いたあの歌」を思いを込めてお送りします。",
-              "pfm": "各局パーソナリティ",
+              "info": "誰しもの胸に秘めた、思い出のひとときを切り取った音楽番組。<br>３月８日は西日本放送の吉野将司アナウンサーがセレクトした２０１６年の楽曲を思いを込めてお送りします。",
+              "pfm": "吉野将司（西日本放送）",
               "img": "https://program-static.cf.radiko.jp/fbb95d47-21ed-463c-b13d-a1f0d412d9e6.gif",
               "tag": {
                 "item": {
