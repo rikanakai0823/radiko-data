@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1772993444",
+    "srvtime": "1773079845",
     "stations": {
       "station": {
         "-id": "MBC",
@@ -1378,13 +1378,23 @@
               "title": "福山雅治と荘口彰久の地底人ラジオ",
               "url": "https://chiteijinradio.com/mob/index.php?site=CRADIO&ima=2416",
               "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
+              "ts_in_ng": "1",
+              "tsplus_in_ng": "1",
+              "ts_out_ng": "1",
+              "tsplus_out_ng": "1",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
               "pfm": "福山雅治 荘口彰久",
               "img": "https://program-static.cf.radiko.jp/r885bnphah.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
