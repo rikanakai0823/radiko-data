@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1773079854",
+    "srvtime": "1773166251",
     "stations": {
       "station": {
         "-id": "FBC",
@@ -197,6 +197,21 @@
               "info": "<br/>パーソナリティーの桑原貞己が幼少から青春時代を過ごした昭和３０～４０年代を中心に、<br/>時代を彩った名曲や隠れた名曲の数々でつづる３０分。<br/>青春の日々がよみがえります。",
               "pfm": "桑原貞己",
               "img": "https://program-static.cf.radiko.jp/cwa6ex95yi.jpg",
+              "tag": {
+                "item": {
+                  "name": "桑原貞己"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -346,6 +361,12 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/485e1c2a-7e68-4d50-8fbc-864be7483e94.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P002",
+                  "name": "スポーツ"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
