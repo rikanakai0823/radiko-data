@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1773252654",
+    "srvtime": "1773598243",
     "stations": {
       "station": {
         "-id": "JRT",
@@ -536,20 +536,22 @@
               }
             },
             {
-              "-id": "13043137",
+              "-id": "13090589",
               "-ft": "20260317084000",
-              "-to": "20260317090000",
+              "-to": "20260317101000",
               "-ftl": "0840",
-              "-tol": "0900",
-              "-dur": "1200",
-              "title": "ミニミニ大福",
+              "-tol": "1010",
+              "-dur": "5400",
+              "title": "ラジオ大福840～1010",
+              "url": "https://www.jrt.co.jp/radio/daifuku",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "　　",
-              "pfm": "四国放送アナウンサー",
+              "desc": "一日の始まりはラジオ大福から。福男・福女がお届けします!!",
+              "info": "08:40　ラジオナビ<br />09:05　天気予報・交通情報<br />09:20　スポーツのコーナー<br />　　　　徳島県のお知らせ（月・水・金）<br />　　　　交通情報<br />10:10　いきいきダイアリー<br />　　　　ＪＲＴスポットニュース<br />　　　　阿南市のお知らせ（月・水）<br />　　　　小松島市のお知らせ（火・金）<br />　　　　楽しいわが家・交通情報<br />11:00　徳島新聞ニュース・天気予報<br /><br />メール：<a href=\"mailto:daifuku@jrt.jp\">daifuku@jrt.jp</a>",
+              "pfm": "小玉晋平 / 宮本幸子",
               "img": "https://program-static.cf.radiko.jp/1c136835-0011-4dac-bb65-77ff6012f2e4.jpeg",
               "metas": {
                 "meta": {
@@ -559,20 +561,23 @@
               }
             },
             {
-              "-id": "13043138",
-              "-ft": "20260317090000",
-              "-to": "20260317110000",
-              "-ftl": "0900",
-              "-tol": "1100",
-              "-dur": "7200",
-              "title": "2026WORLD BASEBALL CLASSIC実況生中継",
+              "-id": "13090597",
+              "-ft": "20260317101000",
+              "-to": "20260317114000",
+              "-ftl": "1010",
+              "-tol": "1140",
+              "-dur": "5400",
+              "title": "ラジオ大福1010～1140",
+              "url": "https://www.jrt.co.jp/radio/daifuku",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "日本代表が出場する場合のみ中継",
-              "img": "https://program-static.cf.radiko.jp/182f39fd-fd55-457f-9af3-494c747ab07e.jpeg",
+              "desc": "一日の始まりはラジオ大福から。福男・福女がお届けします!!",
+              "info": "08:40　ラジオナビ<br />09:05　天気予報・交通情報<br />09:20　スポーツのコーナー<br />　　　　徳島県のお知らせ（月・水・金）<br />　　　　交通情報<br />10:00　解決！知っ得プレミアム<br />10:10　いきいきダイアリー<br />　　　　ＪＲＴスポットニュース<br />　　　　阿南市のお知らせ（月・水）<br />　　　　小松島市のお知らせ（火・金）<br />　　　　楽しいわが家・交通情報<br />11:00　徳島新聞ニュース・天気予報<br /><br />メール：<a href=\"mailto:daifuku@jrt.jp\">daifuku@jrt.jp</a>",
+              "pfm": "小玉晋平 / 宮本幸子",
+              "img": "https://program-static.cf.radiko.jp/1c136835-0011-4dac-bb65-77ff6012f2e4.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -581,20 +586,113 @@
               }
             },
             {
-              "-id": "13069061",
-              "-ft": "20260317110000",
-              "-to": "20260317120000",
-              "-ftl": "1100",
-              "-tol": "1200",
-              "-dur": "3600",
-              "title": "2026WORLD BASEBALL CLASSIC実況生中継",
+              "-id": "13090598",
+              "-ft": "20260317114000",
+              "-to": "20260317114500",
+              "-ftl": "1140",
+              "-tol": "1145",
+              "-dur": "300",
+              "title": "ラジオなんでも伝言板",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "desc": "　　",
-              "img": "https://program-static.cf.radiko.jp/182f39fd-fd55-457f-9af3-494c747ab07e.jpeg",
+              "pfm": "四国放送アナウンサー",
+              "img": "https://program-static.cf.radiko.jp/71abb335-6b2b-4245-b678-3835578f7eb6.jpeg",
+              "tag": {
+                "item": {
+                  "name": "四国放送アナウンサー"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "13090599",
+              "-ft": "20260317114500",
+              "-to": "20260317115000",
+              "-ftl": "1145",
+              "-tol": "1150",
+              "-dur": "300",
+              "title": "ＬＵＮＣＨリクエスト",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "　　",
+              "pfm": "四国放送アナウンサー",
+              "img": "https://program-static.cf.radiko.jp/0275d1ba-b52c-4ac2-b0eb-78ea51ae42ee.jpeg",
+              "tag": {
+                "item": {
+                  "name": "四国放送アナウンサー"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "13090600",
+              "-ft": "20260317115000",
+              "-to": "20260317120000",
+              "-ftl": "1150",
+              "-tol": "1200",
+              "-dur": "600",
+              "title": "歌謡アプローチ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "　　",
+              "info": "元ＤＪの櫻井芳博が軽妙なトークで、最新曲や話題曲をピックアップします。",
+              "pfm": "櫻井芳博（よっちゃん）",
+              "img": "https://program-static.cf.radiko.jp/3f62f2d7-7941-4483-b624-8a1307c307ec.jpeg",
+              "tag": {
+                "item": {
+                  "name": "櫻井芳博"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C015",
+                  "name": "ラジオDJ"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
