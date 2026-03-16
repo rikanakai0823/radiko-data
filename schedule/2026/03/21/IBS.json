@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1773598248",
+    "srvtime": "1773684649",
     "stations": {
       "station": {
         "-id": "IBS",
@@ -477,8 +477,9 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
+              "desc": "LuckyFesの最新情報と、出演するアーティストの曲をお届けします。<br><br>\n●<a href=\"https://luckyfes.com/\">LuckyFes公式HP</a>\n●<a href=\"https://x.com/luckyfm_fes\">LuckyFes公式X</a>",
               "pfm": "向麗衣",
-              "img": "https://program-static.cf.radiko.jp/48072de0-ad00-49ce-b0e8-bdad4dc66eb2.jpeg",
+              "img": "https://program-static.cf.radiko.jp/7035f29a-5361-46af-b2a0-9171a2d3f515.png",
               "tag": {
                 "item": [
                   {
@@ -486,10 +487,20 @@
                   },
                   {
                     "name": "茨城放送"
+                  },
+                  {
+                    "name": "LuckyFes"
+                  },
+                  {
+                    "name": "向麗衣"
                   }
                 ]
               },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"

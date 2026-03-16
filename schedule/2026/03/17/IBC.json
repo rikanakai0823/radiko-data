@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1773253566",
+    "srvtime": "1773685565",
     "stations": {
       "station": {
         "-id": "IBC",
@@ -219,10 +219,10 @@
             {
               "-id": "13059366",
               "-ft": "20260317082500",
-              "-to": "20260317090000",
+              "-to": "20260317110000",
               "-ftl": "0825",
-              "-tol": "0900",
-              "-dur": "2100",
+              "-tol": "1100",
+              "-dur": "9300",
               "title": "朝からＲＡＤＩＯ②",
               "url": "https://www.ibc.co.jp/radio/asakara/",
               "failed_record": "0",
@@ -271,23 +271,166 @@
               }
             },
             {
-              "-id": "13068259",
-              "-ft": "20260317090000",
-              "-to": "20260317120000",
-              "-ftl": "0900",
-              "-tol": "1200",
-              "-dur": "10800",
-              "title": "２０２６ ワールドベースボールクラシック 実況中継",
-              "url": "https://www.1242.com/showup/wbc/",
+              "-id": "13095721",
+              "-ft": "20260317110000",
+              "-to": "20260317110500",
+              "-ftl": "1100",
+              "-tol": "1105",
+              "-dur": "300",
+              "title": "岩手日報ＩＢＣニュース",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "E-mail　<a href=\"mailto:89@1242.com\">89@1242.com</a>",
-              "info": "番組Xアカウントは「<a href=\"http://twitter.com/showup1242\">@showup1242</a>」<br/>Xハッシュタグは「<a href=\"http://twitter.com/search?q=%2360n\">#60n</a> <a href=\"http://twitter.com/search?q=%23%E3%82%B7%E3%83%A7%E3%82%A6%E3%82%A2%E3%83%83%E3%83%97%E3%83%8A%E3%82%A4%E3%82%BF%E3%83%BC\">#ショウアップナイター</a>」",
-              "pfm": "谷繁元信(解説) / ＡＫＩ猪瀬(解説) / 清水久嗣(実況)",
-              "img": "https://program-static.cf.radiko.jp/3ef8413b-8c9c-42f2-8421-ee7bf1c26d56.jpeg",
+              "info": "県内はもちろん、国内、海外の最新ニュースをお送りします。<br/>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "img": "https://program-static.cf.radiko.jp/b866558b-295c-48d1-90fd-dd1b755a1ca0.png",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#IBCradio"
+                }
+              }
+            },
+            {
+              "-id": "13095722",
+              "-ft": "20260317110500",
+              "-to": "20260317112500",
+              "-ftl": "1105",
+              "-tol": "1125",
+              "-dur": "1200",
+              "title": "テレフォン人生相談",
+              "url": "http://www.1242.com/jinseisoudan/",
+              "failed_record": "0",
+              "ts_in_ng": "2",
+              "tsplus_in_ng": "2",
+              "ts_out_ng": "2",
+              "tsplus_out_ng": "2",
+              "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "img": "https://program-static.cf.radiko.jp/pv3srwvl4g.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P009",
+                  "name": "ドキュメンタリー"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "13095723",
+              "-ft": "20260317112500",
+              "-to": "20260317114000",
+              "-ftl": "1125",
+              "-tol": "1140",
+              "-dur": "900",
+              "title": "レディス・ハンドブック",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "必要な情報と知っておきたい話題、映画・小説、歳時記、人に聞けないカタカナ語など、大人にとって丁度よく情報を散りばめた番組",
+              "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "pfm": "末田倫子",
+              "img": "https://program-static.cf.radiko.jp/165a6d03-cc29-4056-b723-a57e18022562.png",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "13095724",
+              "-ft": "20260317114000",
+              "-to": "20260317115000",
+              "-ftl": "1140",
+              "-tol": "1150",
+              "-dur": "600",
+              "title": "夏井いつきの一句一遊",
+              "url": "https://www.rnb.co.jp/radio/haiku/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "俳句集団いつき組組長・夏井いつきがあなたの投句を一刀両断？！俳句の楽しみ方、詠む際のワンポイントアドバイスを伝授する。　E-mail　<a href=\"mailto:ku@rnb.co.jp\">ku@rnb.co.jp</a>",
+              "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "pfm": "夏井いつき",
+              "img": "https://program-static.cf.radiko.jp/22129073-1e92-4c9d-b814-404a35391193.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P012",
+                  "name": "趣味/教育"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "13095725",
+              "-ft": "20260317115000",
+              "-to": "20260317120000",
+              "-ftl": "1150",
+              "-tol": "1200",
+              "-dur": "600",
+              "title": "荻原次晴のニッポン応援団",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "「スポーツのチカラでニッポンを元気に」をモットーに、荻原次晴が一流アスリートなどに他では聞けないトークを展開する。　E-mail　<a href=\"mailto:vivajapon@outlook.jp\">vivajapon@outlook.jp</a>",
+              "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
+              "pfm": "荻原次晴",
+              "img": "https://program-static.cf.radiko.jp/hvoqrjo6um.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C013",
+                  "name": "アスリート"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1008,6 +1151,7 @@
               "desc": "平泉で生まれ育った同級生の男女が、お坊さんのリアルな日常をざっくばらんに語る番組。疑問・質問にもお答えしています。　E-mail　<a href=\"mailto:waku@ibc.co.jp\">waku@ibc.co.jp</a>",
               "info": "Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23IBCradio\">#IBCradio</a>」<br/>facebookページは「<a href='http://www.facebook.com/IBCiwate'>http://www.facebook.com/IBCiwate</a>」",
               "pfm": "破石晋照(中尊寺) / 南洞法玲(毛越寺)",
+              "img": "https://program-static.cf.radiko.jp/e865b268-d10f-4afb-90df-6aaa035729d8.png",
               "genre": {
                 "personality": {
                   "-id": "C012",

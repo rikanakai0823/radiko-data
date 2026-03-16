@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1773426366",
+    "srvtime": "1773685565",
     "stations": {
       "station": {
         "-id": "FBC",
@@ -448,10 +448,10 @@
             {
               "-id": "13064393",
               "-ft": "20260318081500",
-              "-to": "20260318090000",
+              "-to": "20260318100000",
               "-ftl": "0815",
-              "-tol": "0900",
-              "-dur": "2700",
+              "-tol": "1000",
+              "-dur": "6300",
               "title": "ラジ＋",
               "url": "https://www.fbc.jp/radio/raditas",
               "failed_record": "0",
@@ -485,23 +485,35 @@
               }
             },
             {
-              "-id": "13077779",
-              "-ft": "20260318090000",
-              "-to": "20260318120000",
-              "-ftl": "0900",
-              "-tol": "1200",
-              "-dur": "10800",
-              "title": "２０２６  ワールドベースボールクラッシック実況中継",
+              "-id": "13095438",
+              "-ft": "20260318100000",
+              "-to": "20260318114500",
+              "-ftl": "1000",
+              "-tol": "1145",
+              "-dur": "6300",
+              "title": "ラジ＋",
+              "url": "https://www.fbc.jp/radio/raditas",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/485e1c2a-7e68-4d50-8fbc-864be7483e94.jpeg",
+              "info": "　８：２０「朝の交通情報」<br/>　８：２５「ニュース早わかり」<br/>　８：４５「今日のお天気」<br/>　８：５５「県内今日の動き」<br/><br/>★メッセージ・リクエスト募集中！★<br/>FAX：0776-57-1930<br/>メール：<a href='mailto:tas@fbc.jp'>tas@fbc.jp</a>",
+              "pfm": "稲木聡 / 阿部真由美",
+              "img": "https://program-static.cf.radiko.jp/2ae04050-4f64-44c9-8f61-ff5d37b0e204.jpeg",
+              "tag": {
+                "item": {
+                  "name": "朝のニュースを効率良く"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
                 }
               },
               "metas": {
@@ -512,12 +524,12 @@
               }
             },
             {
-              "-id": "13077780",
-              "-ft": "20260318120000",
-              "-to": "20260318130000",
-              "-ftl": "1200",
-              "-tol": "1300",
-              "-dur": "3600",
+              "-id": "13095439",
+              "-ft": "20260318114500",
+              "-to": "20260318120000",
+              "-ftl": "1145",
+              "-tol": "1200",
+              "-dur": "900",
               "title": "ベストミュージックコレクションジャパン",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -533,6 +545,141 @@
                 "program": {
                   "-id": "P002",
                   "name": "スポーツ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "13095440",
+              "-ft": "20260318120000",
+              "-to": "20260318121000",
+              "-ftl": "1200",
+              "-tol": "1210",
+              "-dur": "600",
+              "title": "ランチタイムニュース・天気予報",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/485e1c2a-7e68-4d50-8fbc-864be7483e94.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "13095441",
+              "-ft": "20260318121000",
+              "-to": "20260318124000",
+              "-ftl": "1210",
+              "-tol": "1240",
+              "-dur": "1800",
+              "title": "純烈・スーパー銭湯！！",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<br/>メンバーが最近はまっているものや世間で話題となっていること、<br/>ちょっとした健康情報など、様々なトークを繰り広げます。<br/>ムード歌謡曲と共に、時には優しく時には毒を吐く<br/>軽妙なトークをお楽しみ下さい。",
+              "pfm": "純烈",
+              "img": "https://program-static.cf.radiko.jp/8818560d-935b-4b93-974d-c9dc98e9526d.jpeg",
+              "tag": {
+                "item": {
+                  "name": "純烈"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "13095442",
+              "-ft": "20260318124000",
+              "-to": "20260318125000",
+              "-ftl": "1240",
+              "-tol": "1250",
+              "-dur": "600",
+              "title": "加来耕三の歴史あれこれ",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<br/>歴史家・作家の加来耕三さんが、歴史の話を面白く、わかりやすくお伝えします。",
+              "pfm": "加来耕三",
+              "img": "https://program-static.cf.radiko.jp/485e1c2a-7e68-4d50-8fbc-864be7483e94.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "13095443",
+              "-ft": "20260318125000",
+              "-to": "20260318130000",
+              "-ftl": "1250",
+              "-tol": "1300",
+              "-dur": "600",
+              "title": "歌謡喫茶・昭和",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "<br/>昭和を彩った歌謡曲を、当時の記憶とともにお送りします。",
+              "pfm": "杉原徹",
+              "img": "https://program-static.cf.radiko.jp/cccc35e2-0306-44c8-9d47-c7c698f34d78.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
