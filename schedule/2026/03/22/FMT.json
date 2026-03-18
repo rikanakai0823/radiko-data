@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1773771055",
+    "srvtime": "1773857455",
     "stations": {
       "station": {
         "-id": "FMT",
@@ -1645,24 +1645,40 @@
               }
             },
             {
-              "-id": "13066708",
+              "-id": "13105639",
               "-ft": "20260322190000",
               "-to": "20260322195500",
               "-ftl": "1900",
               "-tol": "1955",
               "-dur": "3300",
-              "title": "TOKYO FM サンデースペシャル",
+              "title": "村上RADIO～（博士も愛した）素数で聴く音楽～[再放送]",
+              "url": "https://www.tfm.co.jp/murakamiradio/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "<div class=\"station_content_description \">\tスペシャル番組をお送りします。 <br /><br /><br /></div>",
-              "img": "https://program-static.cf.radiko.jp/656baa14-31d3-4896-9b86-2c9622b88a05.jpeg",
+              "info": "<div class=\"station_content_description \"><table border=\"0\" cellpadding=\"5\" >  <tr>      <td style=\"padding: 5px;\"><img src=\"https://pms-next-prod-api-program.s3.ap-northeast-1.amazonaws.com/image/person/57e99d47-42fd-4974-9553-2956aa3c7d60_sq.jpg\" height=\"60\" width=\"60\" alt=\"村上春樹\"></td>  </tr></table><br /><br />\t今回の「村上RADIO」は「（博士も愛した）素数で聴く音楽」というタイトルで、<br />タイトルに素数がついた音楽を順番にかけていきます。<br />素数、ご存じですよね。<br />1かその数自体でしか割り切れない数のことです。<br />具体的にいえば、2、3，5，7，11・・・と、永遠に続いていきます。<br /><br />しかしそんな企画に意味があるのか？　何か目的はあるのか？<br />いいえ、意味も目的もまったくありません。<br />世の中的にみれば、そんなことをしても何の役にもたちません。<br />ただふと思いついて、好奇心でうちのレコード棚から<br />素数がタイトルについた曲を集めてみただけです。<br />でも結果的には面白い音楽がずらりと並びました。お楽しみください。<br /><br />素数、個人的に好きなんです。（村上春樹） <br /><br />\t番組Webサイト：<a href=\"https://www.tfm.co.jp/murakamiradio/\">https://www.tfm.co.jp/murakamiradio/</a><br />\tメッセージフォーム：<a href=\"https://www.tfm.co.jp/murakamiradio/message/\">https://www.tfm.co.jp/murakamiradio/message/</a><br /> <br /> Xハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E6%9D%91%E4%B8%8ARADIO\">#村上RADIO</a>」<br /> Xアカウントは「<a href=\"http://twitter.com/Murakamiradiofm\">@Murakamiradiofm</a>」<br /><br /></div>",
+              "pfm": "村上春樹",
+              "img": "https://program-static.cf.radiko.jp/3kh88pkkyw.jpg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "村上春樹"
+                  },
+                  {
+                    "name": "村上RADIO"
+                  }
+                ]
+              },
               "genre": {
+                "personality": {
+                  "-id": "C012",
+                  "name": "文化人"
+                },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
