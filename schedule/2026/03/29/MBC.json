@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1774289456",
+    "srvtime": "1774375854",
     "stations": {
       "station": {
         "-id": "MBC",
@@ -238,33 +238,34 @@
               }
             },
             {
-              "-id": "13114497",
+              "-id": "13128691",
               "-ft": "20260329063500",
               "-to": "20260329064500",
               "-ftl": "0635",
               "-tol": "0645",
               "-dur": "600",
-              "title": "今旬！いいもの百貨店",
+              "title": "ＭＢＣミュージックグラフィティ",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/d0d54ff8-b5c4-46c6-ae9b-0faaa3a32cb1.jpeg",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
+              "img": "https://program-static.cf.radiko.jp/kmdgigwqea.jpg",
               "genre": {
                 "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P018",
-                  "name": "ショッピング"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#MBCラジオ"
                 }
               }
             },
@@ -355,8 +356,8 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "「お誕生日おめでとうメッセージ」を毎日お届けしています。  【番組からのお知らせ】 12月2日(火)～来年1月10日(土)までの放送をご希望の皆さん、メッセージの締め切りが早くなります。放送希望日の３週間前までに届くようにお送りください。 尚、郵便は遅れる可能性がございます。 どうぞご注意ください。",
-              "info": "※番組内でご案内しております。締切日は最終締切日となります。どうぞご確認ください。<br /><br /><A href=\"mailto:asa@mbc.co.jp\">asa@mbc.co.jp</A><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
+              "desc": "「お誕生日おめでとうメッセージ」を毎日お届けしています。",
+              "info": "※番組内でご案内しております締切日は最終締切日となります。どうぞご確認ください。<br /><br /><br/>4月28日(火)～5月12日(火)までの放送をご希望の皆さん、メッセージの締め切りが早くなります。放送希望の３週間前までに届くようにお送りください。尚、郵送は遅れる可能性がありますのでご注意ください。<br /><br /><br/><A href=\"mailto:asa@mbc.co.jp\">asa@mbc.co.jp</A><br /><br />twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
               "pfm": "山下美智代",
               "img": "https://program-static.cf.radiko.jp/mgo9n9t6ei.jpg",
               "genre": {
@@ -572,7 +573,7 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
-              "img": "https://program-static.cf.radiko.jp/d0d54ff8-b5c4-46c6-ae9b-0faaa3a32cb1.jpeg",
+              "img": "https://program-static.cf.radiko.jp/f17yps8sht.jpg",
               "genre": {
                 "personality": {
                   "-id": "C001",
@@ -764,10 +765,43 @@
             {
               "-id": "13114516",
               "-ft": "20260329130000",
-              "-to": "20260329150000",
+              "-to": "20260329140000",
               "-ftl": "1300",
+              "-tol": "1400",
+              "-dur": "3600",
+              "title": "爆笑問題の日曜サンデー",
+              "url": "https://www.tbsradio.jp/nichiyou/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "pfm": "爆笑問題",
+              "img": "https://program-static.cf.radiko.jp/1xzaftpb34.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "13128692",
+              "-ft": "20260329140000",
+              "-to": "20260329150000",
+              "-ftl": "1400",
               "-tol": "1500",
-              "-dur": "7200",
+              "-dur": "3600",
               "title": "爆笑問題の日曜サンデー",
               "url": "https://www.tbsradio.jp/nichiyou/",
               "failed_record": "0",
@@ -808,7 +842,6 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "「てゲてゲハイスクール」は、高校生が作る、高校生のためのラジオ番組！しゃべり手は県内の高校生たち！村田晏奈アナウンサーがサポートします！ 「てゲてゲハウス」は、県内の専門学校・短大・大学に通う学生MCが大活躍！！",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
               "pfm": "村田晏奈 薗田彩 川原田優華",
               "img": "https://program-static.cf.radiko.jp/csuf526yzg.jpg",
@@ -1058,7 +1091,7 @@
               "tsplus_out_ng": "0",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
               "pfm": "QuizKnock ねお",
-              "img": "https://program-static.cf.radiko.jp/almfmvf1bq.jpg",
+              "img": "https://program-static.cf.radiko.jp/dlr862of2y.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1067,30 +1100,62 @@
               }
             },
             {
-              "-id": "13114527",
+              "-id": "13128693",
               "-ft": "20260329193000",
-              "-to": "20260329200000",
+              "-to": "20260329195000",
               "-ftl": "1930",
-              "-tol": "2000",
-              "-dur": "1800",
-              "title": "東山彰良　イッツ・オンリー・ロックンロール",
-              "url": "https://rkb.jp/radio/onlyrock/",
+              "-tol": "1950",
+              "-dur": "1200",
+              "title": "古川廣生の聴いた！見た！昭和のヒットソング",
+              "url": "https://www.mbc.co.jp/radio/showa/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
-              "pfm": "東山彰良",
-              "img": "https://program-static.cf.radiko.jp/o1oprkkgzp.jpg",
+              "pfm": "古川廣生",
+              "img": "https://program-static.cf.radiko.jp/8dnglhr09a.jpg",
               "genre": {
                 "personality": {
-                  "-id": "C012",
-                  "name": "文化人"
+                  "-id": "C001",
+                  "name": "アナウンサー"
                 },
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#MBCラジオ"
+                }
+              }
+            },
+            {
+              "-id": "13128694",
+              "-ft": "20260329195000",
+              "-to": "20260329200000",
+              "-ftl": "1950",
+              "-tol": "2000",
+              "-dur": "600",
+              "title": "録音風物誌",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
+              "img": "https://program-static.cf.radiko.jp/znxdl8fwnj.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P015",
+                  "name": "教養"
                 }
               },
               "metas": {
@@ -1125,62 +1190,50 @@
               }
             },
             {
-              "-id": "13114529",
+              "-id": "13128695",
               "-ft": "20260329203000",
-              "-to": "20260329205000",
+              "-to": "20260329205500",
               "-ftl": "2030",
-              "-tol": "2050",
-              "-dur": "1200",
-              "title": "古川廣生の聴いた！見た！昭和のヒットソング",
-              "url": "https://www.mbc.co.jp/radio/showa/",
+              "-tol": "2055",
+              "-dur": "1500",
+              "title": "ボートレースライブ　ＳＧ　第６１回ボートレースクラシック優勝戦実況中継",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
-              "pfm": "古川廣生",
-              "img": "https://program-static.cf.radiko.jp/8dnglhr09a.jpg",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
+              "img": "https://program-static.cf.radiko.jp/w1tsgy4tj5.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#MBCラジオ"
+                  "-value": "#radiko"
                 }
               }
             },
             {
-              "-id": "13114530",
-              "-ft": "20260329205000",
+              "-id": "13128696",
+              "-ft": "20260329205500",
               "-to": "20260329210000",
-              "-ftl": "2050",
+              "-ftl": "2055",
               "-tol": "2100",
-              "-dur": "600",
-              "title": "録音風物誌",
+              "-dur": "300",
+              "title": "ジャンプアップミュージック",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
-              "img": "https://program-static.cf.radiko.jp/znxdl8fwnj.jpg",
+              "pfm": "松木由美子",
+              "img": "https://program-static.cf.radiko.jp/pgnghoc0d6.jpg",
               "genre": {
                 "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
+                  "-id": "C015",
+                  "name": "ラジオDJ"
                 },
                 "program": {
-                  "-id": "P015",
-                  "name": "教養"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {
@@ -1294,12 +1347,13 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
+              "info": "twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23MBC%E3%83%A9%E3%82%B8%E3%82%AA\">#MBCラジオ</a>」",
               "pfm": "井上芳雄",
               "img": "https://program-static.cf.radiko.jp/d0d54ff8-b5c4-46c6-ae9b-0faaa3a32cb1.jpeg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#MBCラジオ"
                 }
               }
             },
@@ -1548,10 +1602,10 @@
             {
               "-id": "13114543",
               "-ft": "20260330040000",
-              "-to": "20260330050000",
+              "-to": "20260330045900",
               "-ftl": "2800",
-              "-tol": "2900",
-              "-dur": "3600",
+              "-tol": "2859",
+              "-dur": "3540",
               "title": "明日への扉／栄光のレジェンド",
               "failed_record": "0",
               "ts_in_ng": "0",
