@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1774807855",
+    "srvtime": "1774894258",
     "stations": {
       "station": {
         "-id": "LFR",
@@ -395,24 +395,38 @@
               }
             },
             {
-              "-id": "13148120",
+              "-id": "13161065",
               "-ft": "20260404155000",
               "-to": "20260404161000",
               "-ftl": "1550",
               "-tol": "1610",
               "-dur": "1200",
-              "title": "新番組",
+              "title": "ハナコのなんとかしタロウ！",
+              "url": "https://news.1242.com/article/544025",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "新番組",
-              "img": "https://program-static.cf.radiko.jp/9u24mwkkkd.jpg",
+              "desc": "ハナコのなんとかしタロウ！",
+              "info": "メールアドレス：<br><a href=\"mailto:hanaco@1242.com\">hanaco@1242.com</a><br><br>番組ホームページは<a href=\"https://news.1242.com/article/544025\">こちら</a><br><br>twitterハッシュタグは「<a href=\"http://twitter.com/search?q=%23%E3%81%AA%E3%82%93%E3%81%A8%E3%81%8B%E3%81%97%E3%82%BF%E3%83%AD%E3%82%A6\">#なんとかしタロウ</a>」",
+              "pfm": "ハナコ",
+              "img": "https://program-static.cf.radiko.jp/tq3e04dc2t.png",
+              "tag": {
+                "item": {
+                  "name": "なんとかしタロウ"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C009",
+                  "name": "芸人"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
-                  "-value": "#radiko"
+                  "-value": "#なんとかしタロウ"
                 }
               }
             },
@@ -1113,16 +1127,17 @@
               "-ftl": "2700",
               "-tol": "2900",
               "-dur": "7200",
-              "title": "オールナイトニッポン0(ZERO)",
-              "url": "https://www.allnightnippon.com/zero-sat/",
+              "title": "オールナイトニッポン0(ZERO)　決戦！お笑い有楽城～ラジオトークの陣～",
+              "url": "https://www.allnightnippon.com/yurakujo/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "土曜も深夜3時からはオールナイトニッポン0(ZERO)！スペシャルなパーソナリティが週替わりで登場します！<br><br>番組は「17LIVE」でも映像付きで楽しむことができます。音声でも映像でもお楽しみください！",
-              "info": "番組ホームページは<a href=\"https://www.allnightnippon.com/zero-sat/\">こちら</a><br><br>twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」",
-              "img": "https://program-static.cf.radiko.jp/83l4ssyvyp.jpg",
+              "desc": "(株)ニッポン放送と(一社)日本音楽事業者協会が2008年から半年に一度、共同で番組制作を行っている「オールナイトニッポン0(ZERO)　決戦！お笑い有楽城～ラジオトークの陣～」（3月2日収録）の模様をお届けいたします！<br><br>「オールナイトニッポン0(ZERO) 　決戦！お笑い有楽城～ラジオトークの陣～」は、ラジオ形式でのトーク力を競う大会です。今回は若手芸人13組が、「オールナイトニッポンX」の単発パーソナリティ権をかけて戦います。<br><br>司会：ライオンロック（前回優勝者）、笹木かおり<br>審査員：松村邦洋、風吹ケイ、菊田知史（『オールナイトニッポン』チーフディレクター）<br>出場芸人：ガールズナイト、風穴あけるズ、観音日和、兄弟、ジグロポッカ、トツカミツカ、にこさ、ハマノとヘンミ、藤原直樹×藤原直樹、百恵、よく来たな大岩、レインマンズ、笑い実のる。",
+              "info": "番組ホームページは<a href=\"https://www.allnightnippon.com/yurakujo/\">こちら</a><br><br>twitterアカウントは「<a href=\"http://twitter.com/Ann_Since1967\">@Ann_Since1967</a>」",
+              "pfm": "ライオンロック、笹木かおり",
+              "img": "https://program-static.cf.radiko.jp/xdwbt9pq9p.jpg",
               "tag": {
                 "item": {
                   "name": "オールナイトニッポン0(ZERO)"
@@ -1130,12 +1145,12 @@
               },
               "genre": {
                 "personality": {
-                  "-id": "C008",
-                  "name": "女性アイドル"
+                  "-id": "C009",
+                  "name": "芸人"
                 },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
