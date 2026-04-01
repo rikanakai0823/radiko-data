@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1774980652",
+    "srvtime": "1775067046",
     "stations": {
       "station": {
         "-id": "STV",
@@ -358,6 +358,12 @@
               "info": "リクエストメール：117@shouwakayo.com<br/>Xハッシュタグ：#shouwakayo #stvradio<br/>Xアカウント：@shouwakayo",
               "pfm": "佐藤健一",
               "img": "https://program-static.cf.radiko.jp/e84e9d6e-a158-46fa-b072-5a3c01d9771f.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -383,6 +389,12 @@
               "info": "Xハッシュタグ：#stvradio<br/>Xアカウント：@stvradio",
               "pfm": "田村みなみ",
               "img": "https://program-static.cf.radiko.jp/5d163af2-f7dd-4c72-bf52-4e54378c74b4.jpeg",
+              "genre": {
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -488,6 +500,12 @@
               "info": "メール：kita@stv.jp<br/>Xハッシュタグ：#stvradio<br/>Xアカウント：@stvradio",
               "pfm": "北本隆雄",
               "img": "https://program-static.cf.radiko.jp/1471d34b-1077-4ef4-9d6d-a294da70f791.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -861,6 +879,16 @@
               "tag": {
                 "item": {
                   "name": "人気アーティストトーク"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C004",
+                  "name": "ミュージシャン"
+                },
+                "program": {
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {

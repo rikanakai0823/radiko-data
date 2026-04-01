@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1774980653",
+    "srvtime": "1775067048",
     "stations": {
       "station": {
         "-id": "JOLK",
@@ -996,13 +996,14 @@
               "-ftl": "1900",
               "-tol": "1920",
               "-dur": "1200",
-              "title": "ＮＨＫきょうのニュース",
+              "title": "ニュース　ＮＨＫきょうのニュース",
+              "url": "https://www.nhk.or.jp/radionews/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/xyk1071ho3.jpg",
+              "img": "https://program-static.cf.radiko.jp/ffpundrmc5.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1305,10 +1306,32 @@
             {
               "-id": "13160543",
               "-ft": "20260405230500",
-              "-to": "20260406000000",
+              "-to": "20260405231500",
               "-ftl": "2305",
+              "-tol": "2315",
+              "-dur": "600",
+              "title": "ラジオ深夜便",
+              "url": "https://www.nhk.jp/p/shinyabin/rs/V34XVV71R2/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/r4tem04w8j.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "13171232",
+              "-ft": "20260405231500",
+              "-to": "20260406000000",
+              "-ftl": "2315",
               "-tol": "2400",
-              "-dur": "3300",
+              "-dur": "2700",
               "title": "ラジオ深夜便",
               "url": "https://www.nhk.jp/p/shinyabin/rs/V34XVV71R2/",
               "failed_record": "0",
