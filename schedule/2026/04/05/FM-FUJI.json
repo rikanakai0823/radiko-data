@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1775153447",
+    "srvtime": "1775239853",
     "stations": {
       "station": {
         "-id": "FM-FUJI",
@@ -1015,8 +1015,23 @@
               "pfm": "ExWHYZ",
               "img": "https://program-static.cf.radiko.jp/8dbebb02-f147-4fe0-8f4c-732c72fa392b.jpeg",
               "tag": {
-                "item": {
-                  "name": "学生におすすめ"
+                "item": [
+                  {
+                    "name": "学生におすすめ"
+                  },
+                  {
+                    "name": "ExWHYZ"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C008",
+                  "name": "女性アイドル"
+                },
+                "program": {
+                  "-id": "P006",
+                  "name": "バラエティ"
                 }
               },
               "metas": {
