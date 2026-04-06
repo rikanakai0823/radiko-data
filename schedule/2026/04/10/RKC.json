@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1775326254",
+    "srvtime": "1775499047",
     "stations": {
       "station": {
         "-id": "RKC",
@@ -1292,9 +1292,14 @@
               "pfm": "氏師みなみ（四国放送アナウンサー）",
               "img": "https://program-static.cf.radiko.jp/63cf5898-d007-4c30-b4d8-6354e9f94194.jpeg",
               "tag": {
-                "item": {
-                  "name": "バンリク"
-                }
+                "item": [
+                  {
+                    "name": "音楽マシマシ"
+                  },
+                  {
+                    "name": "四国放送アナウンサー"
+                  }
+                ]
               },
               "genre": {
                 "personality": {
@@ -1302,8 +1307,8 @@
                   "name": "アナウンサー"
                 },
                 "program": {
-                  "-id": "P007",
-                  "name": "トーク"
+                  "-id": "P005",
+                  "name": "音楽"
                 }
               },
               "metas": {

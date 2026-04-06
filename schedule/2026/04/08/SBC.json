@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1775154426",
+    "srvtime": "1775499965",
     "stations": {
       "station": {
         "-id": "SBC",
@@ -149,6 +149,16 @@
               "desc": "うららかな春も、輝く初夏も、朝のあなたが知りたい「今の情報」を鮮明にお伝えします！",
               "pfm": "佐々木一朗",
               "img": "https://program-static.cf.radiko.jp/08cc7038-48e3-4726-8999-c65791b7228d.jpeg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -814,7 +824,7 @@
               "-tol": "2500",
               "-dur": "3600",
               "title": "矢吹奈子のレコメン！",
-              "url": "http://joqr.co.jp/qr/program/reco/",
+              "url": "https://www.joqr.co.jp/qr/program/reco/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
