@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1776708654",
+    "srvtime": "1776881447",
     "stations": {
       "station": {
         "-id": "ZIP-FM",
@@ -268,14 +268,16 @@
               "-ftl": "1900",
               "-tol": "2000",
               "-dur": "3600",
-              "title": "SUNDAY EVENING SPECIAL",
+              "title": "SUNDAY EVENING SPECIAL / - GRAND SLAM 2026 ON THE RADIO -",
+              "url": "https://zip-fm.co.jp/programs/9dd47096-5c2b-4f99-99c9-0ceb2e39bf8a",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "毎週日曜日は、アーティストを迎えての1時間の特別プログラム！<br>",
-              "img": "https://program-static.cf.radiko.jp/dc8b2887-2b43-4a08-afcb-0cc0f3d2b614.jpeg",
+              "desc": "5月2日～5日に名古屋・ダイアモンドホール／SPADE BOXで開催されるサーキットフェス『GRAND SLAM 2026』を大特集。<br>\n出演アーティストからのコメント・楽曲で、GWの新定番イベント\"グラスラ\"の魅力をお届けします。<br>",
+              "pfm": "神原真理",
+              "img": "https://program-static.cf.radiko.jp/53f55476-083a-490f-bd7d-185f2f2162ef.png",
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -296,14 +298,16 @@
               "-ftl": "2000",
               "-tol": "2100",
               "-dur": "3600",
-              "title": "SUNDAY EVENING SPECIAL",
+              "title": "SUNDAY EVENING SPECIAL / GORILLA RADIO!",
+              "url": "https://zip-fm.co.jp/programs/d4b4274c-cf42-4f97-afd7-0f8a37e881d4",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "desc": "毎週日曜日は、アーティストを迎えての1時間の特別プログラム！<br>",
-              "img": "https://program-static.cf.radiko.jp/dc8b2887-2b43-4a08-afcb-0cc0f3d2b614.jpeg",
+              "desc": "毎月最終日曜日の「SUNDAY EVENING SPECIAL」は、[Alexandros]の磯部寛之のナビゲートでお送りする「GORILLA RADIO!」をオンエア!<br>",
+              "pfm": "磯部寛之 （[Alexandros]）",
+              "img": "https://program-static.cf.radiko.jp/0c5000d5-060e-46d0-8645-a56c79c3d2b9.jpeg",
               "genre": {
                 "program": {
                   "-id": "P005",
@@ -363,11 +367,35 @@
               }
             },
             {
-              "-id": "13249404",
+              "-id": "13271053",
               "-ft": "20260426230000",
-              "-to": "20260426233000",
+              "-to": "20260427000000",
               "-ftl": "2300",
-              "-tol": "2330",
+              "-tol": "2400",
+              "-dur": "3600",
+              "title": "RYOKUOUSHOKU DAIYASAI 2026 SPECIAL from Aichi Sky Expo",
+              "url": "https://zip-fm.co.jp/programs/6801cfa1-5799-4fb8-92ca-e6ff3e382113",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "desc": "『緑黄色大夜祭』は、緑黄色社会がインディーズ時代から行ってきた「いま自分たちが最も共演したい」を<br>\nコンセプトに多彩なゲストアーティストを迎える対バンイベント『緑黄色夜祭』の拡大版で、<br>\n2024年に横浜アリーナで初開催され、今回が2回目の開催となります。<br>\n<br>\nZIP-FMでは、2日目のイベント終了後、夜11時から1時間、緑黄色社会のメンバーが全員出演しての特別番組<br>\n『緑黄色大夜祭2026 SPECIAL from Aichi Sky Expo』をライブの興奮がまだ残る会場から生放送でお届けします。<br>\nナビゲーターは高樹リサ。<br>\nライブの熱狂、そしてその続きを、是非ラジオから感じてください。<br>",
+              "pfm": "高樹リサ",
+              "img": "https://program-static.cf.radiko.jp/adca2b9b-926d-40d0-aea1-be11f37b3cb4.jpeg",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "13271054",
+              "-ft": "20260427000000",
+              "-to": "20260427003000",
+              "-ftl": "2400",
+              "-tol": "2430",
               "-dur": "1800",
               "title": "MIDNIGHT RUNWAY",
               "url": "https://zip-fm.co.jp/programs/b1b7d4a7-dd99-443c-a19c-a4c5cc1a172a",
@@ -384,40 +412,6 @@
                 "personality": {
                   "-id": "C004",
                   "name": "ミュージシャン"
-                },
-                "program": {
-                  "-id": "P005",
-                  "name": "音楽"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "13249405",
-              "-ft": "20260426233000",
-              "-to": "20260427003000",
-              "-ftl": "2330",
-              "-tol": "2430",
-              "-dur": "3600",
-              "title": "d‐Tunes",
-              "url": "https://zip-fm.co.jp/programs/7f93992b-2f66-4c26-af5c-bde8433290c8",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "世界で注目される最新チューンを紹介する洋楽専門プログラム。<br>\nアメリカ在住経験を持つ中川大輔が、その経験を活かしたカルチャートークを繰り広げます。<br>",
-              "pfm": "中川大輔",
-              "img": "https://program-static.cf.radiko.jp/3f797f9f-1eaa-4fce-aa12-9d768fc1d922.png",
-              "genre": {
-                "personality": {
-                  "-id": "C015",
-                  "name": "ラジオDJ"
                 },
                 "program": {
                   "-id": "P005",
