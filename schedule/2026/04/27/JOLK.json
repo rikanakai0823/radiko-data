@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1776967852",
+    "srvtime": "1777054248",
     "stations": {
       "station": {
         "-id": "JOLK",
@@ -352,10 +352,10 @@
             {
               "-id": "13265410",
               "-ft": "20260427085500",
-              "-to": "20260427090000",
+              "-to": "20260427085900",
               "-ftl": "0855",
-              "-tol": "0900",
-              "-dur": "300",
+              "-tol": "0859",
+              "-dur": "240",
               "title": "全国気象情報・全国交通情報",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -371,20 +371,19 @@
               }
             },
             {
-              "-id": "13265411",
-              "-ft": "20260427090000",
-              "-to": "20260427090500",
-              "-ftl": "0900",
-              "-tol": "0905",
-              "-dur": "300",
-              "title": "ニュース",
-              "url": "https://www.nhk.or.jp/radionews/",
+              "-id": "13281796",
+              "-ft": "20260427085900",
+              "-to": "20260427115400",
+              "-ftl": "0859",
+              "-tol": "1154",
+              "-dur": "10500",
+              "title": "国会中継「参議院予算委員会質疑」　～参議院第１委員会室から中継～",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/ffpundrmc5.jpg",
+              "img": "https://program-static.cf.radiko.jp/scpecmk3du.png",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -393,22 +392,20 @@
               }
             },
             {
-              "-id": "13265412",
-              "-ft": "20260427090500",
-              "-to": "20260427095500",
-              "-ftl": "0905",
-              "-tol": "0955",
-              "-dur": "3000",
-              "title": "ふんわり「ビリギャル」の作者・坪田信貴さん登場！　９時台",
-              "url": "https://www.nhk.jp/p/rs/DXN681PPZ1/",
+              "-id": "13281797",
+              "-ft": "20260427115400",
+              "-to": "20260427115500",
+              "-ftl": "1154",
+              "-tol": "1155",
+              "-dur": "60",
+              "title": "これまでもこれからも",
+              "url": "https://www.nhk.jp/p/rs/LN6W33LWZ4/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "info": "９時台は、映画などにもなり大ヒットした「ビリギャル」の作者でもある学習塾塾長の坪田信貴さんをお迎えしてお話を伺います。<br><br>９時台は「ビリギャル」の作者でもある学習塾塾長の坪田信貴さんをお迎えして、学ぶことの意義や、親として受験生の子どもたちとどう接すればいいのか、考えます。坪田さんへの質問やメッセージは、番組ＨＰ「月曜日」の投稿フォームからお送りください。お待ちしています。",
-              "pfm": "田中ウルヴェ京(司会)/稲垣秀人(アナウンサー)/坪田信貴(出演)",
-              "img": "https://program-static.cf.radiko.jp/v3xwmvorft.jpg",
+              "img": "https://program-static.cf.radiko.jp/56dvilyy1u.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -417,148 +414,12 @@
               }
             },
             {
-              "-id": "13265413",
-              "-ft": "20260427095500",
-              "-to": "20260427100000",
-              "-ftl": "0955",
-              "-tol": "1000",
-              "-dur": "300",
-              "title": "気象情報・おしらせ（九州沖縄）",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/ul6y801s4j.png",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "13265414",
-              "-ft": "20260427100000",
-              "-to": "20260427100500",
-              "-ftl": "1000",
-              "-tol": "1005",
-              "-dur": "300",
-              "title": "ニュース",
-              "url": "https://www.nhk.or.jp/radionews/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/ffpundrmc5.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "13265415",
-              "-ft": "20260427100500",
-              "-to": "20260427105500",
-              "-ftl": "1005",
-              "-tol": "1055",
-              "-dur": "3000",
-              "title": "ふんわり　１０時台",
-              "url": "https://www.nhk.jp/p/rs/DXN681PPZ1/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "お便りテーマは「私の大逆転」です。▼プレゼン資料を忘れる大失態、身振り手振りで熱弁を振るったら情熱が伝わり、まさかの成約！▼初めて作った料理が失敗！と思ったけど塩でごまかしたら絶品に！　以来、料理が趣味になりました…など、皆さんの「大逆転」を教えてください。エピソードとともにお待ちしています。",
-              "pfm": "田中ウルヴェ京(司会)/稲垣秀人(アナウンサー)",
-              "img": "https://program-static.cf.radiko.jp/o8dtmro49e.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "13265416",
-              "-ft": "20260427105500",
-              "-to": "20260427110000",
-              "-ftl": "1055",
-              "-tol": "1100",
-              "-dur": "300",
-              "title": "みんなのうた「マスク・ド・カメロ」",
-              "url": "https://www.nhk.jp/p/rs/GPVXV8GJ9V/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "【新曲（１）】「マスク・ド・カメロ」うた：ポルノグラフィティ<br><br>「マスク・ド・カメロ」作詞：新藤晴一　作曲：岡野昭仁　編曲：立崎優介・田中ユウスケ・ＰＯＲＮＯＧＲＡＦＦＩＴＴＩ",
-              "img": "https://program-static.cf.radiko.jp/7kkbqiishm.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "13265417",
-              "-ft": "20260427110000",
-              "-to": "20260427110500",
-              "-ftl": "1100",
-              "-tol": "1105",
-              "-dur": "300",
-              "title": "ニュース",
-              "url": "https://www.nhk.or.jp/radionews/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/ffpundrmc5.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "13265418",
-              "-ft": "20260427110500",
-              "-to": "20260427115000",
-              "-ftl": "1105",
-              "-tol": "1150",
-              "-dur": "2700",
-              "title": "ふんわり　まいにちリクエスト♪　月曜１１時台（４／２７）",
-              "url": "https://www.nhk.jp/p/rs/DXN681PPZ1/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "１１時台は【まいにちリクエスト】。みなさんから日付指定のリクエストを募集しています。「４月２７日に聴きたい！」という曲をお送りください。思い入れたっぷりのエピソードがある曲でも、「久しぶりに聴いてみたいなぁ～」という曲でもＯＫ。あなたの聴きたい曲をお寄せください♪",
-              "pfm": "田中ウルヴェ京(司会)/稲垣秀人(アナウンサー)",
-              "img": "https://program-static.cf.radiko.jp/qxn5iqxjht.jpg",
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "13265419",
-              "-ft": "20260427115000",
+              "-id": "13281798",
+              "-ft": "20260427115500",
               "-to": "20260427120000",
-              "-ftl": "1150",
+              "-ftl": "1155",
               "-tol": "1200",
-              "-dur": "600",
+              "-dur": "300",
               "title": "気象情報・おしらせ（福岡）",
               "failed_record": "0",
               "ts_in_ng": "0",
@@ -901,7 +762,7 @@
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/scpecmk3du.png",
+              "img": "https://program-static.cf.radiko.jp/qbn349icab.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",
@@ -1435,7 +1296,7 @@
               "tsplus_out_ng": "0",
               "info": "特集は、有事の際に住民が避難できるシェルターについて。先月閣議決定された基本方針に沿って、東京都営大江戸線・麻布十番駅に建設予定の地下シェルターをリポートします<br><br>　",
               "pfm": "北野剛寛(キャスター)/結野亜希(キャスター)/津屋尚(キャスター)/佐藤可奈子(キャスター)/中林啓修(出演)",
-              "img": "https://program-static.cf.radiko.jp/mkb143oy44.jpg",
+              "img": "https://program-static.cf.radiko.jp/otfoprw5ec.jpg",
               "metas": {
                 "meta": {
                   "-name": "twitter",

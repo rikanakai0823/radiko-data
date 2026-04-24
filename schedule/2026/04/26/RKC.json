@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1776881448",
+    "srvtime": "1777054247",
     "stations": {
       "station": {
         "-id": "RKC",
@@ -1058,10 +1058,10 @@
             {
               "-id": "13231751",
               "-ft": "20260426174500",
-              "-to": "20260426175500",
+              "-to": "20260426175000",
               "-ftl": "1745",
-              "-tol": "1755",
-              "-dur": "600",
+              "-tol": "1750",
+              "-dur": "300",
               "title": "ＲＫＣミュージック・セレクト",
               "url": "http://www.rkc-kochi.co.jp/radio/",
               "failed_record": "0",
@@ -1092,6 +1092,49 @@
                 "program": {
                   "-id": "P005",
                   "name": "音楽"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "13277126",
+              "-ft": "20260426175000",
+              "-to": "20260426175500",
+              "-ftl": "1750",
+              "-tol": "1755",
+              "-dur": "300",
+              "title": "ＲＫＣラジオ防災ナビ",
+              "url": "http://www.rkc-kochi.co.jp/radio/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "pfm": "高知放送　防災士",
+              "img": "https://program-static.cf.radiko.jp/7470e165-d829-4aa7-94b9-01ad38139117.png",
+              "tag": {
+                "item": [
+                  {
+                    "name": "高知県内のニュース"
+                  },
+                  {
+                    "name": "ニュースを効率よく"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P003",
+                  "name": "情報"
                 }
               },
               "metas": {
