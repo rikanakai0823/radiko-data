@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1777054251",
+    "srvtime": "1777140652",
     "stations": {
       "station": {
         "-id": "FMKAGAWA",
@@ -461,7 +461,16 @@
               "tsplus_out_ng": "0",
               "info": "<div class=\"station_content_description \">\t旬な地域情報やイベント情報をお届けします <br /><br /><br /></div>",
               "img": "https://program-static.cf.radiko.jp/4i3n60ucag.jpg",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
