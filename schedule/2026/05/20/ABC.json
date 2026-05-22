@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1779214247",
+    "srvtime": "1779473449",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -859,23 +859,34 @@
               }
             },
             {
-              "-id": "13340574",
+              "-id": "13399037",
               "-ft": "20260520210000",
-              "-to": "20260520210500",
+              "-to": "20260520220000",
               "-ftl": "2100",
-              "-tol": "2105",
-              "-dur": "300",
-              "title": "ＡＢＣニュース＆天気予報",
-              "url": "https://abcradio.asahi.co.jp/",
+              "-tol": "2200",
+              "-dur": "3600",
+              "title": "ＡＢＣフレッシュアップベースボール(4)",
+              "url": "https://abcradio.asahi.co.jp/baseball/",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
-              "img": "https://program-static.cf.radiko.jp/743615e6-c395-4de7-879b-af1fc2688c31.jpeg",
+              "info": "阪神―中日（甲子園）<BR>試合終了までお届けします。<BR>解説：赤星憲広／実況：山下剛／<BR><BR>【第一予備】<BR>オリックス―ソフトバンク（京セラＤ）解説：湯舟敏郎／実況：高野純一／<BR><BR><BR>【番組概要】<BR><BR>今シーズンもABCラジオは虎バン主義。阪神タイガースをとことん追いかけます！<BR><BR>Ｘアカウント：<a href=\"https://x.com/abc_toraban\"> @abc_toraban</a><BR><BR>Ｘハッシュタグ：<a href=\"https://x.com/search?q=%23toraban1008&src=typed_query&f=top\">#toraban1008</a><BR><BR>メールアドレス：<a href=\"mailto:sp@abc1008.com\">sp@abc1008.com</a><BR><BR><BR><BR><BR>",
+              "img": "https://program-static.cf.radiko.jp/0164f9b7-927c-4b89-b0b4-e8040083cf8f.jpeg",
               "tag": {
                 "item": {
                   "name": "ABCラジオ"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
                 }
               },
               "metas": {
@@ -886,12 +897,12 @@
               }
             },
             {
-              "-id": "13340575",
-              "-ft": "20260520210500",
-              "-to": "20260520220000",
-              "-ftl": "2105",
-              "-tol": "2200",
-              "-dur": "3300",
+              "-id": "13399055",
+              "-ft": "20260520220000",
+              "-to": "20260520230000",
+              "-ftl": "2200",
+              "-tol": "2300",
+              "-dur": "3600",
               "title": "ツギハギ～ラフ次元の遅咲き１９ＢＬＵＥＳ～(1)",
               "url": "https://abcradio.asahi.co.jp/tsugihagi/",
               "failed_record": "0",
@@ -936,63 +947,13 @@
               }
             },
             {
-              "-id": "13340576",
-              "-ft": "20260520220000",
-              "-to": "20260520230000",
-              "-ftl": "2200",
-              "-tol": "2300",
-              "-dur": "3600",
-              "title": "ツギハギ～ラフ次元の遅咲き１９ＢＬＵＥＳ～(2)",
-              "url": "https://abcradio.asahi.co.jp/tsugihagi/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "怒りアニソン偏見盛りだくさん！／<BR><BR>【番組概要】<BR><BR>水曜日は、お笑いコンビのラフ次元が担当！<BR>結成16年以上のコンビが競うお笑い賞レース「THE SECOND  ～漫才トーナメント2024」で初の決勝に進出した彼らが、<BR>苦節19年、初めての冠ラジオ番組でラジオスターを目指します。<BR>塾講師で培った雑学や、パパならではの育児トーク、中堅芸人のお仕事裏話などなど…<BR>共感必須のブルーストークを展開！<BR>遅咲き芸人のトークを聴いて、皆さんの日常が少しだけユーモラスになれば幸いです。<BR><BR><BR>Ｘアカウント：<a href=\" https://x.com/tsugihagiabc \"> @tsugihagiabc</a><BR><BR> Ｘハッシュタグ：<a href=\" https://x.com/search?q=%23%E3%83%84%E3%82%AE%E3%83%8F%E3%82%AE \">#ツギハギ</a><BR><BR>メールアドレス：<a href=\"mailto:tsugisui@abc1008.com\">tsugisui@abc1008.com</a><BR><BR>YouTubeアカウント：<a href=\"https://www.youtube.com/@%E3%83%A9%E3%83%95%E6%AC%A1%E5%85%83%E3%81%AE%E9%81%85%E5%92%B2%E3%81%8D19BLUES\">遅咲き19BLUES公式YouTube </a><BR><BR><BR>",
-              "pfm": "ラフ次元",
-              "img": "https://program-static.cf.radiko.jp/0e349700-c471-4ace-a700-ca77cce9acfd.jpeg",
-              "tag": {
-                "item": [
-                  {
-                    "name": "ラフブル"
-                  },
-                  {
-                    "name": "ラフ次元"
-                  },
-                  {
-                    "name": "ツギハギ"
-                  },
-                  {
-                    "name": "ABCラジオ"
-                  }
-                ]
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C009",
-                  "name": "芸人"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "13340577",
+              "-id": "13399040",
               "-ft": "20260520230000",
               "-to": "20260520233000",
               "-ftl": "2300",
               "-tol": "2330",
               "-dur": "1800",
-              "title": "ツギハギ～ラフ次元の遅咲き１９ＢＬＵＥＳ～(3)",
+              "title": "ツギハギ～ラフ次元の遅咲き１９ＢＬＵＥＳ～(2)",
               "url": "https://abcradio.asahi.co.jp/tsugihagi/",
               "failed_record": "0",
               "ts_in_ng": "0",
