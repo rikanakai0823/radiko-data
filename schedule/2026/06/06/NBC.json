@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1780337455",
+    "srvtime": "1780423849",
     "stations": {
       "station": {
         "-id": "NBC",
@@ -685,6 +685,16 @@
               "tsplus_out_ng": "0",
               "desc": "ニュースと情報をより早く！<br>毎時５０分に最新のニュースをお伝えします。",
               "img": "https://program-static.cf.radiko.jp/1xsrispfcc.jpg",
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",

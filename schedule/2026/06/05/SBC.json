@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1780164661",
+    "srvtime": "1780423849",
     "stations": {
       "station": {
         "-id": "SBC",
@@ -831,6 +831,16 @@
               "desc": "相葉雅紀がパーソナリティを務める全国ネット番組。本人の活動はもちろん、プライベートな話や、ここでしか聞けない裏話も？",
               "pfm": "相葉雅紀",
               "img": "https://program-static.cf.radiko.jp/ce761f92-3cb8-410c-8115-db287ea12516.png",
+              "genre": {
+                "personality": {
+                  "-id": "C010",
+                  "name": "タレント"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
