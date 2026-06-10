@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1780942256",
+    "srvtime": "1781115052",
     "stations": {
       "station": {
         "-id": "CBC",
@@ -1186,11 +1186,32 @@
             {
               "-id": "13463589",
               "-ft": "20260615020000",
-              "-to": "20260615050000",
+              "-to": "20260615044000",
               "-ftl": "2600",
-              "-tol": "2900",
-              "-dur": "10800",
+              "-tol": "2840",
+              "-dur": "9600",
               "title": "放送休止",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "img": "https://program-static.cf.radiko.jp/29d086d7-95d4-437e-b534-86d67bac687f.png",
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "13496592",
+              "-ft": "20260615044000",
+              "-to": "20260615050000",
+              "-ftl": "2840",
+              "-tol": "2900",
+              "-dur": "1200",
+              "title": "文化放送スポーツスペシャル FIFAワールドカップ2026 実況中継",
               "failed_record": "0",
               "ts_in_ng": "0",
               "tsplus_in_ng": "0",
