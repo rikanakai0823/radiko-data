@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1780942251",
+    "srvtime": "1781287849",
     "stations": {
       "station": {
         "-id": "TOKAIRADIO",
@@ -948,10 +948,10 @@
             {
               "-id": "13426881",
               "-ft": "20260611200000",
-              "-to": "20260611210000",
+              "-to": "20260611215500",
               "-ftl": "2000",
-              "-tol": "2100",
-              "-dur": "3600",
+              "-tol": "2155",
+              "-dur": "6900",
               "title": "ガッツナイター (2)",
               "url": "https://www.tokairadio.co.jp/dragons/",
               "failed_record": "0",
@@ -981,45 +981,11 @@
               }
             },
             {
-              "-id": "13426882",
-              "-ft": "20260611210000",
-              "-to": "20260611214500",
-              "-ftl": "2100",
-              "-tol": "2145",
-              "-dur": "2700",
-              "title": "ガッツナイタープラス",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "desc": "プロ野球中継延長の場合は引き続き中継をお送りします。",
-              "info": "応援メッセージは <a href=\"https://business.form-mailer.jp/fms/6ceea22a163545\">コチラ</a><br><br>twitterアカウントは「<a href=\"http://twitter.com/guts1332\">@guts1332</a>」<br>TOKAI RADIOのハッシュタグは「#TOKAIRADIO」<br>TOKAI RADIO公式Xアカウントは「<a href=\"http://twitter.com/tokairadio\">@tokairadio</a>」\n",
-              "pfm": "平松伴康",
-              "img": "https://program-static.cf.radiko.jp/e91dfcb3-6ecf-4898-b8aa-5ca8cd505529.png",
-              "genre": {
-                "personality": {
-                  "-id": "C001",
-                  "name": "アナウンサー"
-                },
-                "program": {
-                  "-id": "P002",
-                  "name": "スポーツ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "from:guts1332"
-                }
-              }
-            },
-            {
               "-id": "13426883",
-              "-ft": "20260611214500",
-              "-to": "20260611215500",
-              "-ftl": "2145",
-              "-tol": "2155",
+              "-ft": "20260611215500",
+              "-to": "20260611220500",
+              "-ftl": "2155",
+              "-tol": "2205",
               "-dur": "600",
               "title": "SKE48 1+1は2じゃないよ!",
               "url": "https://www.tokairadio.co.jp/program/ske48/",
@@ -1064,10 +1030,10 @@
             },
             {
               "-id": "13426884",
-              "-ft": "20260611215500",
-              "-to": "20260611220000",
-              "-ftl": "2155",
-              "-tol": "2200",
+              "-ft": "20260611220500",
+              "-to": "20260611221000",
+              "-ftl": "2205",
+              "-tol": "2210",
               "-dur": "300",
               "title": "看板娘ホッピー・ミーナのHOPPY HAPPY BAR",
               "url": "https://www.1242.com/hoppy/",
@@ -1109,10 +1075,10 @@
             },
             {
               "-id": "13426885",
-              "-ft": "20260611220000",
-              "-to": "20260611230000",
-              "-ftl": "2200",
-              "-tol": "2300",
+              "-ft": "20260611221000",
+              "-to": "20260611231000",
+              "-ftl": "2210",
+              "-tol": "2310",
               "-dur": "3600",
               "title": "オールナイトニッポンMUSIC 10 (1)",
               "url": "https://www.allnightnippon.com/music10/",
@@ -1154,11 +1120,11 @@
             },
             {
               "-id": "13426885",
-              "-ft": "20260611230000",
+              "-ft": "20260611231000",
               "-to": "20260612000000",
-              "-ftl": "2300",
+              "-ftl": "2310",
               "-tol": "2400",
-              "-dur": "3600",
+              "-dur": "3000",
               "title": "オールナイトニッポンMUSIC 10 (2)",
               "url": "https://www.allnightnippon.com/music10/",
               "failed_record": "0",
