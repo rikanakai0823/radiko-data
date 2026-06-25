@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1782324649",
+    "srvtime": "1782411048",
     "stations": {
       "station": {
         "-id": "RADIOBERRY",
@@ -1765,7 +1765,16 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "info": "<div class=\"station_content_description \">\t放送番組審議会の模様をお送りします。 <br /><br /><br /></div>",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
               "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
                 "program": {
                   "-id": "P003",
                   "name": "情報"
