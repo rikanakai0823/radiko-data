@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1783188643",
+    "srvtime": "1783447845",
     "stations": {
       "station": {
         "-id": "ABC",
@@ -905,11 +905,6 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "img": "https://program-static.cf.radiko.jp/3bbec790-7db3-4d9e-b6db-d6e8666292a9.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
               "genre": {
                 "program": {
                   "-id": "P018",
@@ -1199,11 +1194,66 @@
               }
             },
             {
-              "-id": "13553815",
+              "-id": "13611171",
               "-ft": "20260705210000",
-              "-to": "20260705210500",
+              "-to": "20260705215500",
               "-ftl": "2100",
-              "-tol": "2105",
+              "-tol": "2155",
+              "-dur": "3300",
+              "title": "ＡＢＣフレッシュアップベースボール　阪神ｖｓ広島(4)",
+              "url": "https://abcradio.asahi.co.jp/baseball/",
+              "failed_record": "0",
+              "ts_in_ng": "0",
+              "tsplus_in_ng": "0",
+              "ts_out_ng": "0",
+              "tsplus_out_ng": "0",
+              "info": "阪神―広島（甲子園）<BR>試合終了までお届けします。<BR>解説：福原忍／実況：平野康太郎／<BR><BR>【第一予備】<BR>ヤクルト―ＤｅＮＡ（神宮）<BR>解説：荒木大輔／実況：小宅世人／<BR><BR>【第二予備】<BR>楽天―日本ハム（楽天モバイル）<BR>解説：山村宏樹／実況：飯野雅人／<BR><BR>上記試合が中止の場合は「砂山圭大郎のSET UP! 」をお送りします。<BR><BR><BR>",
+              "img": "https://program-static.cf.radiko.jp/0164f9b7-927c-4b89-b0b4-e8040083cf8f.jpeg",
+              "tag": {
+                "item": [
+                  {
+                    "name": "toraban1008"
+                  },
+                  {
+                    "name": "ABCラジオ"
+                  },
+                  {
+                    "name": "阪神タイガース"
+                  },
+                  {
+                    "name": "阪神"
+                  },
+                  {
+                    "name": "tigers"
+                  },
+                  {
+                    "name": "タイガース"
+                  }
+                ]
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P007",
+                  "name": "トーク"
+                }
+              },
+              "metas": {
+                "meta": {
+                  "-name": "twitter",
+                  "-value": "#radiko"
+                }
+              }
+            },
+            {
+              "-id": "13611177",
+              "-ft": "20260705215500",
+              "-to": "20260705220000",
+              "-ftl": "2155",
+              "-tol": "2200",
               "-dur": "300",
               "title": "ＡＢＣニュース＆天気予報",
               "url": "https://abcradio.asahi.co.jp/",
@@ -1216,108 +1266,6 @@
               "tag": {
                 "item": {
                   "name": "ABCラジオ"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "13553816",
-              "-ft": "20260705210500",
-              "-to": "20260705213000",
-              "-ftl": "2105",
-              "-tol": "2130",
-              "-dur": "1500",
-              "title": "荻原次晴のニッポン応援団",
-              "url": "https://abcradio.asahi.co.jp/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "pfm": "荻原次晴",
-              "img": "https://program-static.cf.radiko.jp/790eb46b-6328-4ff1-920c-1a89f6697b8c.jpeg",
-              "genre": {
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "13553817",
-              "-ft": "20260705213000",
-              "-to": "20260705214000",
-              "-ftl": "2130",
-              "-tol": "2140",
-              "-dur": "600",
-              "title": "パックンマックンのワールドでいこう！",
-              "url": "https://abcradio.asahi.co.jp/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "pfm": "パックンマックン",
-              "img": "https://program-static.cf.radiko.jp/d6289986-ae04-4472-8b31-66b593d766fd.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
-              "genre": {
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
-                }
-              },
-              "metas": {
-                "meta": {
-                  "-name": "twitter",
-                  "-value": "#radiko"
-                }
-              }
-            },
-            {
-              "-id": "13553818",
-              "-ft": "20260705214000",
-              "-to": "20260705220000",
-              "-ftl": "2140",
-              "-tol": "2200",
-              "-dur": "1200",
-              "title": "保険クリニックｐｒｅｓｅｎｔｓ藤岡弘、家族で語ろう！",
-              "url": "https://abcradio.asahi.co.jp/",
-              "failed_record": "0",
-              "ts_in_ng": "0",
-              "tsplus_in_ng": "0",
-              "ts_out_ng": "0",
-              "tsplus_out_ng": "0",
-              "info": "【番組概要】<BR><BR>藤岡弘、自身初の冠レギュラーラジオ。<BR>「家族のしあわせ」をテーマに、長女の天翔愛と共にお送りします。<BR><BR><BR><BR>",
-              "pfm": "藤岡弘、",
-              "img": "https://program-static.cf.radiko.jp/50cf0736-83e4-474c-8063-733e5e964c3a.jpeg",
-              "tag": {
-                "item": {
-                  "name": "ABCラジオ"
-                }
-              },
-              "genre": {
-                "personality": {
-                  "-id": "C002",
-                  "name": "俳優"
-                },
-                "program": {
-                  "-id": "P007",
-                  "name": "トーク"
                 }
               },
               "metas": {
