@@ -1,7 +1,7 @@
 {
   "radiko": {
     "ttl": "1800",
-    "srvtime": "1784052654",
+    "srvtime": "1784139051",
     "stations": {
       "station": {
         "-id": "FMI",
@@ -288,6 +288,21 @@
               "ts_out_ng": "0",
               "tsplus_out_ng": "0",
               "info": "<div class=\"station_content_description \">\tニュースをお届けします。 <br /><br /><br /></div>",
+              "tag": {
+                "item": {
+                  "name": "天気"
+                }
+              },
+              "genre": {
+                "personality": {
+                  "-id": "C001",
+                  "name": "アナウンサー"
+                },
+                "program": {
+                  "-id": "P001",
+                  "name": "ニュース/天気/交通"
+                }
+              },
               "metas": {
                 "meta": {
                   "-name": "twitter",
