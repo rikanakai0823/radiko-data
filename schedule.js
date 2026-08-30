@@ -1,37 +1,33 @@
 if (process.argv.length < 3) {
-	console.log('Usage: node schedule.js [mode] [params]');
+	console.log('Usage: node schedule.js [mode] [params]')
 	process.exit(-1)
 }
 
-const Promise = require('bluebird')
-const fse = require('fs-extra')
-const rp = require('request-promise')
+const fs = require('node:fs/promises')
+const path = require('node:path')
 const ObjTree = require('objtree')
-const moment = require('moment')
+
 process.env.TZ = 'Asia/Tokyo'
-let objtree = new ObjTree()
+const objtree = new ObjTree()
 
-let abs_mode = (process.argv[2] !== 'd')
+const absMode = process.argv[2] !== 'd'
+const stime = new Date()
+if (!absMode) stime.setDate(stime.getDate() + parseInt(process.argv[3]))
 
-let stime = moment()
-if (!abs_mode) {
-	stime = stime.add(parseInt(process.argv[3]), 'd')
-}
-stime = stime.toDate()
-let i_m = `0${stime.getMonth() + 1}`.slice(-2)
-let i_d = `0${stime.getDate()}`.slice(-2)
-let i_y = stime.getFullYear()
+const iM = `0${stime.getMonth() + 1}`.slice(-2)
+const iD = `0${stime.getDate()}`.slice(-2)
+const iY = stime.getFullYear()
 
-let d_y = abs_mode ? process.argv[3] : i_y
-let d_m = abs_mode ? process.argv[4] : i_m
-let d_d = abs_mode ? process.argv[5] : i_d
-let d_ymd = `${d_y}${d_m}${d_d}`
+const dY = absMode ? process.argv[3] : iY
+const dM = absMode ? process.argv[4] : iM
+const dD = absMode ? process.argv[5] : iD
+const dYmd = `${dY}${dM}${dD}`
 
-console.log(d_ymd)
+console.log(dYmd)
 
-const sidToPath = (sid) => `./schedule/${d_y}/${d_m}/${d_d}/${sid}.json`
+const sidToPath = sid => `./schedule/${dY}/${dM}/${dD}/${sid}.json`
 
-const prepareCompare = (schedule) => {
+const prepareCompare = schedule => {
 	const s = JSON.parse(JSON.stringify(schedule))
 	if (s && s.radiko) {
 		if (s.radiko.srvtime) delete s.radiko.srvtime
@@ -43,49 +39,74 @@ const prepareCompare = (schedule) => {
 		) {
 			const prog = s.radiko.stations.station.progs.prog
 			for (let i = 0; i < prog.length; i++) {
-				if (typeof prog[i]['-id'] !== 'undefined') {
-					delete prog[i]['-id']
-				}
+				if (typeof prog[i]['-id'] !== 'undefined') delete prog[i]['-id']
 			}
 		}
 	}
 	return JSON.stringify(s)
 }
 
-Promise.map(Array.from(Array(47).keys()), i => fse.readJson(`./station/JP${i + 1}.json`))
-.then(areas => areas.map(e => e.stations.station.map(s => s.id)))
-.then(areas => areas.reduce((a, b) => new Set([...a, ...b]), []))
-.then(sidSet => [...sidSet])
-.then(sids => {
-	return Promise.map(
-		sids,
-		sid => fse.pathExists(sidToPath(sid)).then((exists) => {
-			return { sid, exists }
-		}),
-		{ concurrency: 100 }
-	)
-}).then(sids => {
-	return Promise.map(
-		sids,
-		({sid, exists}) => {
-			if (!exists) return { sid, oldSchedule: false }
-			return fse.readJson(sidToPath(sid)).then((oldSchedule) => ({ sid, oldSchedule }))
-		},
-		{ concurrency: 100 }
-	)
-}).then(sids => {
-	return Promise.map(
-		sids,
-		({sid, oldSchedule}) => rp(`http://radiko.jp/v3/program/station/date/${d_ymd}/${sid}.xml`).then((schedule) => {
-			return { sid, oldSchedule, schedule: objtree.parseXML(schedule) }
-		}).catch(e => console.error(sid, "unavailable")),
-		{ concurrency: 10 }
-	)
-}).then(stations => stations.filter(x => !!x).map(({sid, oldSchedule, schedule}) => {
-	if (oldSchedule) {
-		if (prepareCompare(oldSchedule) == prepareCompare(schedule)) {
-			return false
+async function mapLimit(items, concurrency, mapper) {
+	const results = new Array(items.length)
+	let next = 0
+
+	async function worker() {
+		while (next < items.length) {
+			const index = next++
+			results[index] = await mapper(items[index], index)
 		}
 	}
-	return fse.outputJson(sidToPath(sid), schedule, {spaces: 2})
-}))
+
+	await Promise.all(Array.from({ length: Math.min(concurrency, items.length) }, worker))
+	return results
+}
+
+async function readJson(file) {
+	return JSON.parse(await fs.readFile(file, 'utf8'))
+}
+
+async function readOldSchedule(sid) {
+	try {
+		return { sid, oldSchedule: await readJson(sidToPath(sid)) }
+	} catch (error) {
+		if (error.code === 'ENOENT') return { sid, oldSchedule: false }
+		throw error
+	}
+}
+
+async function fetchText(url) {
+	const response = await fetch(url)
+	if (!response.ok) throw new Error(`${response.status} ${response.statusText}`)
+	return response.text()
+}
+
+async function writeJson(file, value) {
+	await fs.mkdir(path.dirname(file), { recursive: true })
+	await fs.writeFile(file, JSON.stringify(value, null, 2))
+}
+
+async function main() {
+	const areas = await Promise.all(Array.from({ length: 47 }, (_e, i) => readJson(`./station/JP${i + 1}.json`)))
+	const sidSet = areas
+		.map(area => area.stations.station.map(station => station.id))
+		.reduce((a, b) => new Set([...a, ...b]), [])
+	const stations = await mapLimit([...sidSet], 100, readOldSchedule)
+	const schedules = await mapLimit(stations, 10, async ({ sid, oldSchedule }) => {
+		try {
+			const xml = await fetchText(`https://radiko.jp/v3/program/station/date/${dYmd}/${sid}.xml`)
+			return { sid, oldSchedule, schedule: objtree.parseXML(xml) }
+		} catch (error) {
+			console.error(sid, 'unavailable')
+		}
+	})
+
+	await Promise.all(schedules.filter(Boolean).map(({ sid, oldSchedule, schedule }) => {
+		if (oldSchedule && prepareCompare(oldSchedule) === prepareCompare(schedule)) return undefined
+		return writeJson(sidToPath(sid), schedule)
+	}))
+}
+
+main().catch(error => {
+	console.error(error)
+	process.exitCode = 1
+})
