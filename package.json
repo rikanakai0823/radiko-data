@@ -9,6 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "objtree": "^0.1.24"
+    "objtree": "0.1.24"
+  },
+  "overrides": {
+    "objtree": {
+      "underscore": "1.13.8",
+      "xmldom": "npm:@xmldom/xmldom@0.9.12"
+    }
   }
 }
