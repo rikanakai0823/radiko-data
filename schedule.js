@@ -6,6 +6,7 @@ if (process.argv.length < 3) {
 const fs = require('node:fs/promises')
 const path = require('node:path')
 const ObjTree = require('objtree')
+const validateSchedule = require('./lib/validate-schedule')
 
 process.env.TZ = 'Asia/Tokyo'
 const objtree = new ObjTree()
@@ -94,7 +95,7 @@ async function main() {
 	const schedules = await mapLimit(stations, 10, async ({ sid, oldSchedule }) => {
 		try {
 			const xml = await fetchText(`https://radiko.jp/v3/program/station/date/${dYmd}/${sid}.xml`)
-			return { sid, oldSchedule, schedule: objtree.parseXML(xml) }
+			return { sid, oldSchedule, schedule: validateSchedule(objtree.parseXML(xml), sid) }
 		} catch (error) {
 			console.error(sid, 'unavailable')
 		}
