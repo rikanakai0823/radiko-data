@@ -4,7 +4,7 @@ const os = require('node:os')
 const path = require('node:path')
 const test = require('node:test')
 
-const { convertYear } = require('../lib/convert-year')
+const { convertYear, DEFAULT_ZERO_FLAGS } = require('../lib/convert-year')
 
 function writeSchedule(root, day, programs) {
 	const file = path.join(root, 'schedule', '2019', '01', day, 'TEST.json')
@@ -59,6 +59,55 @@ test('converts station days to referenced monthly JSONL', t => {
 			const field = key.slice(0, -4)
 			const dictionary = JSON.parse(fs.readFileSync(path.join(root, `content/2019/${field}/${value.slice(0, 2)}.json`)))
 			program[field] = dictionary[value]
+		}
+		return program
+	})
+	assert.deepEqual(restored, programs)
+})
+
+test('omits recording flags with the default "0" value but keeps non-zero values', t => {
+	const root = fs.mkdtempSync(path.join(os.tmpdir(), 'radiko-data-'))
+	t.after(() => fs.rmSync(root, { recursive: true, force: true }))
+
+	const programs = [
+		{ '-id': '1', '-ft': '20190101050000', title: 'All default', info: 'shared info', desc: 'shared desc', failed_record: '0', ts_in_ng: '0', ts_out_ng: '0', tsplus_in_ng: '0', tsplus_out_ng: '0' },
+		{ '-id': '2', '-ft': '20190101060000', title: 'Failed record', info: 'shared info', desc: 'shared desc', failed_record: '1', ts_in_ng: '0', ts_out_ng: '0', tsplus_in_ng: '0', tsplus_out_ng: '0' },
+	]
+	writeSchedule(root, '01', programs)
+
+	const result = convertYear({
+		scheduleRoot: path.join(root, 'schedule'),
+		archiveRoot: path.join(root, 'archive'),
+		contentRoot: path.join(root, 'content'),
+		year: '2019',
+	})
+	assert.equal(result.programs, 2)
+
+	const lines = fs.readFileSync(path.join(root, 'archive/2019/01/TEST.jsonl'), 'utf8').trim().split('\n').map(JSON.parse)
+	for (const flag of DEFAULT_ZERO_FLAGS) {
+		assert.equal(flag in lines[0], false)
+	}
+	assert.equal(lines[1].failed_record, '1')
+	for (const flag of DEFAULT_ZERO_FLAGS.filter(flag => flag !== 'failed_record')) {
+		assert.equal(flag in lines[1], false)
+	}
+
+	// Restoring references and the documented flag default reproduces the original programs.
+	const restored = lines.map(row => {
+		const program = {}
+		for (const [key, value] of Object.entries(row)) {
+			if (key === 'info_ref') {
+				program.info = 'shared info'
+				continue
+			}
+			if (key === 'desc_ref') {
+				program.desc = 'shared desc'
+				continue
+			}
+			program[key] = value
+		}
+		for (const flag of DEFAULT_ZERO_FLAGS) {
+			if (!(flag in program)) program[flag] = '0'
 		}
 		return program
 	})
